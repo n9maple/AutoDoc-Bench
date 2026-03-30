@@ -55,7 +55,6 @@
       <div class="cta-row">
         <a class="btn primary" href="#" aria-disabled="true" target="_blank" rel="noopener">Paper (coming soon)</a>
         <a class="btn primary" href="https://github.com/n9maple/AutoDoc-Bench" target="_blank" rel="noopener">Code</a>
-        <a class="btn primary" href="#" aria-disabled="true" target="_blank" rel="noopener">Video (coming soon)</a>
       </div>
     </div>
   </header>
@@ -65,33 +64,39 @@
     <section id="abstract" class="section">
       <div class="container">
         <h2>📝 Abstract</h2>
-        <p>The application of Large Language Models (LLMs) in time series forecasting remains debated, as recent studies
-          have shown that replacing LLMs with simpler components, such as basic attention layers, can lead to comparable
-          or even improved performance, raising questions about the true contribution of LLMs in such tasks. To address
-          this problem and unlock the potential of LLMs more effectively, we propose LAMP (Leveraging Autoregressive
-          Modeling and Prompt Retrieval for Zero-Shot Time Series Forecasting), a zero-shot forecasting framework that
-          leverages frozen pre-trained LLMs through dynamic prompt retrieval and autoregressive reasoning. LAMP first
-          decomposes input time series into trend, seasonal, and residual components, then projects them into the LLM’s
-          embedding space. For each component, the model retrieves semantically aligned prompts from specialized prompt
-          pools using a similarity-based matching mechanism. These prompts are enhanced with textual guidance generated
-          from dataset descriptions, which are encoded via a frozen text embedder to provide semantic conditioning. The
-          selected prompt embeddings are then fused with the input and fed into a frozen LLM, which autoregressively
-          generates future values without any parameter updates. This design enables LAMP to generalize across domains
-          and forecasting horizons while remaining computationally efficient. Experiments across diverse benchmarks
-          confirm that LAMP achieves strong zero-shot forecasting performance, especially in long-horizon and
-          non-stationary scenarios, demonstrating the power of prompt-driven adaptation in bridging time series and
-          language models. This framework enables practical deployment in real-world systems where domain shift and
-          limited training data pose significant challenges.</p>
+        <p>Evaluating multimodal document understanding remains challeng-
+          ing due to the scarcity of scalable, domain-flexible, and multilin-
+          gual benchmarks. Existing datasets depend heavily on human-
+          collected documents and manual annotation, resulting in limited
+          modality coverage, narrow domain diversity, and poor support for
+          low-resource languages. We introduce AutoDoc-Bench, the first
+          fully automated benchmark that jointly synthesizes multimodal
+          documents—coherent text, structured tables, and data-consistent
+          charts—and their associated question–answer pairs across open-
+          ended, multiple-choice, and yes/no formats. Our pipeline enforces
+          semantic alignment across modalities, integrates quantitative sig-
+          nals into narrative text, and composes complete document layouts
+          using a controllable LaTeX-based rendering system. Leveraging
+          this framework, we construct a benchmark in Traditional Chinese,
+          addressing a critical gap in multilingual multimodal evaluation.
+          We further introduce a Bradley–Terry–based difficulty estimation
+          method for stratifying QA items and conduct a comprehensive
+          study of state-of-the-art VLMs using an LLM-as-a-Judge evaluation
+          protocol augmented with ROUGE and BERTScore. Experimental
+          results demonstrate that AutoDoc-Bench exposes significant perfor-
+          mance gaps across modalities and difficulty tiers, offering a scalable
+          and domain-adaptable foundation for future research in multimodal
+          reasoning.</p>
 
         <div class="row">
           <div class="col-12">
             <div class="card">
-              <h3 id="contribution">LLM-based time series forecasting</h3>
+              <h3 id="contribution">AutoDoc-Bench Overview</h3>
               <div class="fig">
-                <img src="assets/img/contribution.png" alt="LLM-based time series forecasting"
+                <img src="assets/img/figure1_latest.png" alt="AutoDoc-Bench Overview"
                   style="display:block; margin:0 auto; max-width:70%; height:auto;">
               </div>
-              <p class="caption">Comparison of architectural designs for LLM-based time series forecasting.</p>
+              <p class="caption">Overview of AutoDoc-Bench generation pipeline.</p>
             </div>
           </div>
         </div>
