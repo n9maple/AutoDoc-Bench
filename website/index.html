@@ -36,7 +36,7 @@
       <h1 class="title-main">AutoDoc-Bench</h1>
       <h2 class="title-sub">An Automatically Generated Benchmark for Multimodal Document QA</h2>
 
-      <div class="authors">
+      <!-- <div class="authors">
         <a href="https://scholar.google.com/citations?user=q-K4DDgAAAAJ&hl=en" target="_blank"
           rel="noopener">Quang-Thang Le</a>,
         <a href="https://scholar.google.com/citations?user=UUT7AlUAAAAJ" target="_blank" rel="noopener">Nhat-Tuong
@@ -45,16 +45,18 @@
           rel="noopener">Ching-Chun Huang</a>
       </div>
 
-      <div class="affil">Department of Computer Science, National Yang Ming Chiao Tung University</div>
+      <div class="affil">Department of Computer Science, National Yang Ming Chiao Tung University</div> -->
 
       <div class="logo-row">
         <img src="assets/img/logo_nycu.png" alt="NYCU Logo" style="height:100px; width:auto;">
         <img src="assets/img/logo_acm.png" alt="ACM Logo" style="height:100px; width:auto;">
+        <img src="assets/img/logo_Esun.png" alt="Esun Logo" style="height:100px; width:auto;">
       </div>
 
       <div class="cta-row">
         <a class="btn primary" href="#" aria-disabled="true" target="_blank" rel="noopener">Paper (coming soon)</a>
-        <a class="btn primary" href="https://github.com/n9maple/AutoDoc-Bench" target="_blank" rel="noopener">Code</a>
+        <a class="btn primary" href="https://github.com/n9maple/AutoDoc-Bench" target="_blank" rel="noopener">Code &
+          Dataset</a>
       </div>
     </div>
   </header>
@@ -135,16 +137,14 @@
           <div class="col-12">
             <div class="card">
               <h3>Evaluation Protocol</h3>
-              <p>We adopt a multi-dimensional evaluation combining LLM-as-a-Judge [ 30 ] with text-similarity metrics.
-                Specifically, the LLM judge assigns scores (1, 2, or 3) based on se-
-                mantic correctness, while BERTScore [29 ] and ROUGE [9] measure
-                semantic and lexical overlap for open-ended generation.
-                For multiple-choice questions (MCQ), we report accuracy, de-
-                fined as the proportion of correctly selected answers among all
-                candidates. For yes/no questions, following the evaluation method-
-                ology proposed by [ 3 ], we report General Accuracy (Gen. Acc) and
-                Group Accuracy (Grp. Acc), where Gen. Acc measures overall cor-
-                rectness and Grp. Acc evaluates balanced performance over paired
+              <p>We adopt a multi-dimensional evaluation combining LLM-as-a-Judge with text-similarity metrics.
+                Specifically, the LLM judge assigns scores (1, 2, or 3) based on semantic correctness,
+                while BERTScore and ROUGE measure semantic and lexical overlap for open-ended generation.
+                For multiple-choice questions (MCQ), we report accuracy, defined
+                as the proportion of correctly selected answers among all candidates.
+                For yes/no questions, we report General Accuracy (Gen. Acc) and
+                Group Accuracy (Grp. Acc), where General Accuracy measures overall correctness
+                and Group Accuracy evaluates balanced performance over paired
                 true/false instances to reduce label bias.
                 We report results across open-ended generation, MCQ, and
                 yes/no formats.
