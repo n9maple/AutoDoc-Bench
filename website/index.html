@@ -108,26 +108,21 @@
       <div class="container">
         <h2>📘 Methodology</h2>
 
-        <div class="row">
-          <div class="col-12">
-            <div class="card">
-              <h3>🏗️ LAMP Architecture</h3>
-              <div class="fig"><img src="assets/img/Fig2.png" alt="Architecture of LAMP"></div>
-              <p class="caption"> The time series <span class="math">\( \mathbf{X}_{1:T} \)</span> is decomposed into
-                three interpretable components:
-                <strong>trend</strong>, <strong>seasonal</strong>, and <strong>residual</strong>. These components are
-                processed through
-                separate encoders, and their embeddings are used to retrieve relevant prompts from structured prompt
-                pools
-                initialized from the LLM's vocabulary space. Additionally, a textual description of the dataset is
-                encoded and
-                concatenated with retrieved prompt values and embedded time-series tokens. This fused representation is
-                passed to
-                a frozen decoder-only LLM (e.g., GPT-2), which autoregressively forecasts future values.
-              </p>
-            </div>
-          </div>
-        </div>
+        <p>Our proposed pipeline aims to automatically construct document-
+          based evaluation data and assess the performance MLLMs on them.
+          The overall workflow consists of three main stages: document gen-
+          eration, question generation, and model evaluation. Figure 1 pro-
+          vides an overview of this process, showing how multimodal doc-
+          uments are synthesized, how diverse question–answer formats
+          are produced, and how models are subsequently evaluated. Our
+          pipeline differs from prior document-generation systems in that
+          it produces complete multimodal documents—integrating textual
+          narratives, structured tables, and data-driven charts—together with
+          corresponding question–answer pairs. Unlike layout-only or chart-
+          only generation methods, our approach jointly synthesizes content
+          and structure, ensuring semantic consistency across modalities.
+          This design enables scalable creation of realistic document-based
+          evaluation data across domains and languages.</p>
       </div>
     </section>
 
@@ -139,49 +134,60 @@
 
           <div class="col-12">
             <div class="card">
-              <h3>Quantitative Metrics</h3>
-              <div class="fig"><img src="assets/img/quantitative_results.png" alt="Quantitative results table"></div>
-              <p class="caption">Transfer Learning Forecasting Results Across Different Horizons. The best results are
-                in bold, and the second-best
-                are underlined.</p>
+              <h3>Evaluation Protocol</h3>
+              <p>We adopt a multi-dimensional evaluation combining LLM-as-a-Judge [ 30 ] with text-similarity metrics.
+                Specifically, the LLM judge assigns scores (1, 2, or 3) based on se-
+                mantic correctness, while BERTScore [29 ] and ROUGE [9] measure
+                semantic and lexical overlap for open-ended generation.
+                For multiple-choice questions (MCQ), we report accuracy, de-
+                fined as the proportion of correctly selected answers among all
+                candidates. For yes/no questions, following the evaluation method-
+                ology proposed by [ 3 ], we report General Accuracy (Gen. Acc) and
+                Group Accuracy (Grp. Acc), where Gen. Acc measures overall cor-
+                rectness and Grp. Acc evaluates balanced performance over paired
+                true/false instances to reduce label bias.
+                We report results across open-ended generation, MCQ, and
+                yes/no formats.
+              </p>
             </div>
           </div>
 
           <div class="col-12">
             <div class="card">
-              <h3> The Effectiveness of LLMs in Time Series Forecasting</h3>
-              <div class="fig"><img src="assets/img/tab_4.png"
-                  alt=" The Effectiveness of LLMs in Time Series Forecasting"></div>
-              <p class="caption">Do pretrained language models contribute to forecasting performance?</p>
+              <h3>Model evaluation summary for open-end questions</h3>
+              <div class="fig"><img src="assets/img/open_result.jpg"
+                  alt="Model evaluation summary for open-end questions"></div>
+              <p class="caption">We report LLM-as-a-Judge score, BERT F1, and ROUGE-L F1 for overall and each dimension.
+                Best LLM scores are highlighted in red, second best in blue.
+              </p>
             </div>
           </div>
 
           <div class="col-12">
             <div class="card">
-              <h3>Computational Efficiency Analysis</h3>
-              <div class="fig"><img src="assets/img/computation_cost.png" alt="Computational Efficiency Analysis"></div>
-              <p class="caption">Training and inference times per batch (in seconds) for LAMP and TEMPO models on the
-                ETTh1 dataset.</p>
+              <h3>Model evaluation summary for yes/no questions</h3>
+              <div class="fig"><img src="assets/img/yesno_result.jpg"
+                  alt="Model evaluation summary for yes/no questions"></div>
+              <p class="caption">We report general accuracy and group accuracy for overall and each dimension.
+                Best LLM scores are highlighted in red, second best in blue.
+              </p>
             </div>
           </div>
 
 
           <div class="col-12">
             <div class="card">
-              <h3>Visual Results</h3>
-              <div class="gallery one-col">
-                <div class="fig"><img src="assets/img/visual_res.png" alt="Visual results">
-                  <div class="caption">Forecasting visualization across four representative examples from the ETT,
-                    weather, traffic dataset. Each subplot shows the input historical values (blue), ground-truth future
-                    values (green), and predicted values (red dashed) by LAMP (left) and AutoTimes (right). The sequence
-                    length and prediction horizon are both set to 96. Results highlight the accuracy and adaptability of
-                    LAMP across diverse temporal patterns.</div>
-                </div>
+              <h3>Model evaluation summary for MCQ questions</h3>
+              <div class="fig"><img src="assets/img/MCQ_result.jpg" alt="Model evaluation summary for MCQ question">
+                <p class="caption">We report accuracy for overall and each dimension.
+                  Best LLM scores are highlighted in red, second best in blue.
+                </p>
               </div>
             </div>
           </div>
+        </div>
 
-        </div> <!-- row -->
+      </div> <!-- row -->
       </div> <!-- container -->
     </section>
 
