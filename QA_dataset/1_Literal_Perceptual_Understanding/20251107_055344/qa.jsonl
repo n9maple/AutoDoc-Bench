@@ -1,0 +1,9 @@
+{"category": "Open", "question_type": "Fact Lookup", "question": "哪一年的揭露比例超過60%？", "answer": "2019年和2023年的揭露比例都超過60%"}
+{"category": "Open", "question_type": "Part-to-Whole", "question": "維護股東權益與平等對待股東和加強董事會結構與運作的總比重是多少？", "answer": "60.0%"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據提供的數據，在下列哪一年揭露比例超過60%？", "answer": "C", "choice": ["2019年揭露比例低於60%", "2023年揭露比例為50%", "2019年和2023年", "僅在2023年才有揭露"]}
+{"category": "MCQ", "question_type": "Part-to-Whole", "question": "在以下關於股東權益與董事會結構的情境中，總比重分數最接近的數字是什麼？", "answer": "C", "choice": ["48.0%", "70.0%", "60.0%", "64.0%"]}
+{"category": "MCQ", "question_type": "Proportion", "question": "根據圖2，維護股東權益與平等對待股東的比重占據了整體的百分比是？", "answer": "D", "choice": ["27.5%", "40.0%", "15.0%", "25.0%"]}
+{"category": "YesNo", "question_type": "Part-to-Whole", "question": "根據表格，維護股東權益與平等對待股東的比重加上加強董事會結構與運作的比重總和為60.0%。", "answer": "是", "question_group": 97}
+
+{"category": "YesNo", "question_type": "Part-to-Whole", "question": "根據表格，維護股東權益與平等對待股東的比重加上加強董事會結構與運作的比重總和為50.0%。", "answer": "否", "question_group": 97}
+

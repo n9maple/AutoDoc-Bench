@@ -1,0 +1,25 @@
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "在 2024 年和 2025 年，優良比例的增長是多少百分點？", "answer": "優良比例的增長是 15 個百分點。"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "在2021年至2023年間，資訊透明度權重的總增長百分比是多少？", "answer": "15%"}
+{"category": "Open", "question_type": "Aggregation", "question": "從2025年到2029年，達成基本披露標準比例的平均增長幅度是多少？", "answer": "2%"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據以下數據圖表，2024 年和 2025 年，優良比例的增長是多少百分點？", "answer": "C", "choice": ["10 個百分點", "20% 的增長", "15 個百分點", "5 個百分點"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "在2021年至2023年間，資訊透明度權重的總增長百分比是多少？根據下列選項，哪一項是正確的？", "answer": "C", "choice": ["10%", "30%", "15%", "12%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2025年至2029年的數據，達成基本披露標準比例的平均增長幅度為何？請參考下圖來選擇正確答案。", "answer": "C", "choice": ["1.5%", "2.5%", "2%", "3.5%"]}
+{"category": "Open", "question_type": "Rate of Change", "question": "從2025年至2029年，哪一年的多樣性比例增長最多？", "answer": "每一年的多樣性比例增長量都是5%，因此沒有哪一年多樣性比例增長最多。"}
+{"category": "Open", "question_type": "Temporal Trend", "question": "在2025至2029年間，壓力測試頻率的變化趨勢是什麼？", "answer": "壓力測試頻率在2025至2029年間呈現逐步增加的趨勢，從2次/年增加到4次/年。"}
+{"category": "Open", "question_type": "Temporal Trend", "question": "從2025年到2029年，職業發展規劃投入的趨勢是怎樣的？", "answer": "從2025年到2029年，職業發展規劃投入的趨勢是逐年增加。"}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據2025年至2029年的數據，多樣性比例的增長在以下哪一年是最顯著的？", "answer": "C", "choice": ["2025年，因為該年多樣性比例的基數較低，使其增長顯得特別明顯。", "2029年，因為這一年實際上是整體多樣性比例的持平年份，因此增長幅度被認為是最高的。", "沒有哪一年多樣性比例增長最多，因為每年的增長量均為5%。", "2027年，由於該年有所謂的多樣性榜樣，使得增長看似特別重要。"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據提供的數據，2025至2029年間的壓力測試頻率變化趨勢是什麼？", "answer": "C", "choice": ["壓力測試頻率在2025至2029年間保持為2次/年，顯示未有改變。", "壓力測試頻率在2025至2029年間偶爾為3次/年，主要因為政策調整。", "壓力測試頻率逐步增加，從2次/年增加到4次/年。", "壓力測試頻率在2025至2029年間不定期出現，時而為1次/年，時而為4次/年。"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2025年至2029年的職業發展規劃，投入的趨勢如何？", "answer": "C", "choice": ["職業發展規劃的投入在2029年會持平。", "職業發展規劃的投入在2027年出現穩定增長。", "職業發展規劃的投入逐年增加。", "職業發展規劃的投入在2029年會略微增加。"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表1的資料，如果2026年的良好以上比率增長率與2025年相比保持不變，預測2026年的良好以上百分比會是多少？", "answer": "C", "choice": ["99.10%", "97.30%", "98.46%", "95.50%"]}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，2025年至2029年間的職業發展規劃投入逐年增加。", "answer": "是", "question_group": 1133}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，2025年至2029年間的職業發展規劃投入保持不變。", "answer": "否", "question_group": 1133}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，從2025年到2029年，達成基本披露標準比例的平均增長幅度是2%。", "answer": "是", "question_group": 1134}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，從2025年到2029年，達成基本披露標準比例的平均增長幅度是3%。", "answer": "否", "question_group": 1134}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，2025至2029年間的壓力測試頻率逐步增加，從2次/年增加到4次/年。", "answer": "是", "question_group": 1135}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，2025至2029年間的壓力測試頻率保持不變，每年都是2次/年。", "answer": "否", "question_group": 1135}
+

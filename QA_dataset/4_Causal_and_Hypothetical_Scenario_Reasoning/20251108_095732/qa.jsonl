@@ -1,0 +1,7 @@
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果一家科技創新公司和一家綠色能源公司同時申請貸款，並且兩家公司的年營業額分別是200萬元和300萬元，那麼這兩家公司總共可獲得多少貸款額度？", "answer": "250萬元"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "如果一家科技創新公司和一家綠色能源公司同時申請貸款，並且兩家公司的年營業額分別是200萬元和300萬元，那麼這兩家公司總共可獲得多少貸款額度？請根據給定的資訊選擇正確的選項。", "answer": "C", "choice": ["450萬元", "250萬元以上的某一比例", "250萬元", "200萬元"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表5的資料，如果有800個項目需要完成，且政策生效前完成的比例是75%，那麼在政策生效後，還剩下多少個項目需要完成？", "answer": "C", "choice": ["100個項目", "500個項目", "200個項目", "300個項目"]}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，科技創新公司和綠色能源公司總共可獲得的貸款額度是250萬元。", "answer": "是", "question_group": 1493}
+
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，科技創新公司和綠色能源公司總共可獲得的貸款額度是300萬元。", "answer": "否", "question_group": 1493}
+

@@ -1,0 +1,22 @@
+{"category": "Open", "question_type": "Comparison", "question": "哪種期貨的未平倉合約數量增幅最大，該增幅是多少？", "answer": "匯率期貨的未平倉合約數量增幅最大，該增幅是15%。"}
+{"category": "Open", "question_type": "Comparison", "question": "個人投資者的成交量佔比比機構投資者多多少個百分點？", "answer": "20個百分點"}
+{"category": "Open", "question_type": "Comparison", "question": "從上月到本月，哪一類期貨的平均持倉時間變化較小？", "answer": "兩類期貨的平均持倉時間變化量相同，均為0.4日。"}
+{"category": "Open", "question_type": "Comparison", "question": "黃金期貨的增長區間是否比電子期貨的增長區間更小？", "answer": "黃金期貨的增長區間比電子期貨的增長區間更小。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖表，以下哪種期貨的未平倉合約數量增幅最大，該增幅是多少？", "answer": "C", "choice": ["股指期貨的未平倉合約數量增幅為10%", "匯率期貨的未平倉合約數量增幅為5%", "匯率期貨的未平倉合約數量增幅為15%", "未平倉合約數量並未增加"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在一個圖表中，顯示個人投資者和機構投資者的成交量佔比。根據圖表，個人投資者的成交量佔比比機構投資者多了多少個百分點？", "answer": "C", "choice": ["未達20個百分點的差距", "10個百分點", "20個百分點", "30個百分點"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "從上月到本月，以下哪一類期貨的平均持倉時間變化量相同，均為0.4日？", "answer": "C", "choice": ["三類期貨，但資料未顯示", "平均持倉時間的變化量實際上是0.5日", "兩類期貨", "只有一類期貨的變化量達到0.4日"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，黃金期貨的增長區間與電子期貨的增長區間相比，哪一陳述是正確的？", "answer": "C", "choice": ["電子期貨的增長區間比黃金期貨的增長區間小。", "黃金期貨的增長區間比電子期貨的增長區間更大。", "黃金期貨的增長區間比電子期貨的增長區間更小。", "黃金期貨的從增長到下降的過程比電子期貨的更慢。"]}
+{"category": "Open", "question_type": "Ranking", "question": "將期貨品種按照成交量比例從最低到最高排序。", "answer": "由於未提供具體數據，無法確定具體排序。"}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據提供的圖片，請將期貨品種按照成交量比例從最低到最高排序。以下排列正確的是哪一項？", "answer": "C", "choice": ["期貨品種B的成交量在所有類型投資者中都超過其他品種。", "期貨品種C的成交量相等，且高於期貨品種B和A。", "無法確定具體排序，因為未提供具體數據。", "期貨品種A的成交量最低，期貨品種C較高，期貨品種B最高。"]}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，匯率期貨和利率期貨的平均持倉時間變化量相同，均為0.4日。", "answer": "是", "question_group": 374}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，匯率期貨和商品期貨的平均持倉時間變化量相同，均為0.4日。", "answer": "否", "question_group": 374}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據下圖，期貨品種3的數值低於其他期貨品種。", "answer": "是", "question_group": 375}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據下圖，期貨品種2的數值低於期貨品種3。", "answer": "否", "question_group": 375}
+
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖片，無法確定具體的期貨品種排序，因為未提供具體的成交量數據。", "answer": "是", "question_group": 376}
+
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖片，可以確定所有期貨品種的具體排序，因為提供了詳盡的成交量數據。", "answer": "否", "question_group": 376}
+

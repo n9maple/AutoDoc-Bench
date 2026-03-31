@@ -1,0 +1,16 @@
+{"category": "Open", "question_type": "Aggregation", "question": "如果將所有操作步驟數量和注意事項數量相加，總和是多少？", "answer": "16"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "懶人包發送日期在2024年6月的懶人包發送人數總共是多少？", "answer": "960000"}
+{"category": "Open", "question_type": "Aggregation", "question": "2022年和2023年的現金領取總和是多少？", "answer": "60"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2022年到2024年，累積生息的變化趨勢是怎樣的？", "answer": "從2022年到2024年，累積生息逐年增加，2023年比2022年增加了4，2024年比2023年增加了7，顯示出累積生息的增長趨勢。"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據提供的數據，2024年6月的懶人包發送人數總共是多少？以下哪一選項是正確的？", "answer": "C", "choice": ["850000", "1000000", "960000", "1100000"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的數據，2022年和2023年的現金領取總和是多少？", "answer": "C", "choice": ["65", "57", "60", "73"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2022年至2024年的資料，累積生息的變化趨勢是如何顯示的？", "answer": "C", "choice": ["累積生息在2023年比2022年增加了2，但2024年回落到2021年的水平。", "累積生息逐年減少，2023年比2022年減少了2，2024年比2023年減少了3。", "累積生息逐年增加，2023年比2022年增加了4，2024年比2023年增加了7。", "累積生息在2022年小幅增加，但在2023年和2024年持平，無顯著變化。"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表2的資料，從2022年到2024年，以下哪一年抵扣保費與前一年的變化幅度最大？", "answer": "C", "choice": ["2022年變化最小", "2024年未變化", "2024", "2023年與2022年相同"]}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2022年到2023年，累積生息增加了4，從2023年到2024年，累積生息增加了7。", "answer": "是", "question_group": 961}
+
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2022年到2023年，累積生息增加了7，從2023年到2024年，累積生息增加了4。", "answer": "否", "question_group": 961}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年和2023年的現金領取總和是60。", "answer": "是", "question_group": 962}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年和2023年的現金領取總和是50。", "answer": "否", "question_group": 962}
+

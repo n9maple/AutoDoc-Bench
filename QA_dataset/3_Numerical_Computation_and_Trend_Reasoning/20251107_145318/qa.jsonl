@@ -1,0 +1,43 @@
+{"category": "Open", "question_type": "Aggregation", "question": "2023年中，平均每月攔截可疑交易數與額外驗證程序啟動次數的總和是多少？", "answer": "930"}
+{"category": "Open", "question_type": "Aggregation", "question": "如果將重複使用密碼和主動更換密碼的百分比相加，總和是多少？", "answer": "67%"}
+{"category": "Open", "question_type": "Aggregation", "question": "如果我們將簡易異常處理率在1天內和2天內的比例相加，會是多少百分比？", "answer": "75%"}
+{"category": "Open", "question_type": "Aggregation", "question": "2022年和2023年攔阻詐騙資金的總和是多少？", "answer": "8200"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "2023年資金流追蹤案件數增長的百分比是多少？", "answer": "25.76%"}
+{"category": "Open", "question_type": "Aggregation", "question": "如果我們將主動檢查帳戶明細與不主動檢查帳戶明細的異常發現並成功阻止資金損失比率加總，總和是多少？", "answer": "157"}
+{"category": "Open", "question_type": "Aggregation", "question": "所有服務的案件量的總和是多少？", "answer": "124000"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年中可疑交易監控數據，平均每月攔截可疑交易數與額外驗證程序啟動次數的總和為何？", "answer": "C", "choice": ["850", "920", "930", "880"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的數據，如果將重複使用密碼的百分比與主動更換密碼的百分比相加，總和是？", "answer": "C", "choice": ["62%", "73%", "67%", "68%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖片中的數據，簡易異常處理率在1天內和2天內的比例相加，總百分比為多少？", "answer": "C", "choice": ["70%", "77%", "75%", "73%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的數據，2022年和2023年攔阻詐騙資金的總和應該是？（請根據下圖數據作答）", "answer": "C", "choice": ["7800", "8500", "8200", "8400"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據提供的數據，2023年資金流追蹤案件數相較於2022年的增長百分比為何？", "answer": "C", "choice": ["22.50%", "28.00%", "25.76%", "26.00%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖片中的數據，比較主動檢查帳戶明細與不主動檢查帳戶明細的異常發現及成功阻止資金損失的比率，這兩者的總和是多少？", "answer": "C", "choice": ["165", "149", "157", "135"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的數據，所有服務的案件量的總和是：", "answer": "C", "choice": ["125000", "122000", "124000", "130000"]}
+{"category": "Open", "question_type": "Temporal Trend", "question": "從2021到2023年，合計的轉帳筆數呈現怎樣的趨勢？", "answer": "從2021到2023年，合計的轉帳筆數呈現逐年增加的趨勢。"}
+{"category": "Open", "question_type": "Aggregation", "question": "從2021年到2023年，行動銀行的轉帳筆數的平均增長是多少？", "answer": "13"}
+{"category": "Open", "question_type": "Rate of Change", "question": "從1月到12月，重複轉帳的案件數量變化率是多少？", "answer": "-6.90%"}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2021到2023年的數據，轉帳筆數的趨勢是如何變化的？", "answer": "C", "choice": ["2023年的轉帳筆數因經濟衰退而顯著減少，西部地區的需求降低。", "轉帳筆數在2022年小幅下降，但在2023年出現平穩。", "合計的轉帳筆數逐年增加。", "合計的轉帳筆數在2021年與2023年之間持平，顯示市場的穩定。"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的數據，行動銀行在2021年到2023年期間的轉帳筆數增長趨勢顯示，平均增長率為何？", "answer": "C", "choice": ["18", "12", "13", "14"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據提供的圖表，從1月到12月，重複轉帳的案件數量變化率為何？", "answer": "C", "choice": ["-3.00%", "-8.50%", "-6.90%", "1.50%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表1的資料，您計算出來的平均每月攔截可疑交易數、異常登入地點偵測和異常設備偵測的平均值是下列哪一個選項？", "answer": "B", "choice": ["150", "300", "500", "400"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖8的資料，所有未授權交易發生比率的平均值可能是多少？", "answer": "D", "choice": ["0.92", "0.88", "0.70", "0.85"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表5的資料，可觀察到從1天內到超過3天的處理時間，客戶滿意度的變化趨勢是如何？", "answer": "C", "choice": ["客戶滿意度在處理時間增加過程中保持不變，依然保持在高水準。", "客戶滿意度在處理時間增加時持平，但不會回落。", "客戶滿意度呈現下降趨勢。", "客戶滿意度隨著處理時間的增加而有所波動，未明顯下降。"]}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，主動檢查帳戶明細與不主動檢查帳戶明細的異常發現及成功阻止資金損失的比率總和是157。", "answer": "是", "question_group": 1017}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，主動檢查帳戶明細與不主動檢查帳戶明細的異常發現及成功阻止資金損失的比率總和是150。", "answer": "否", "question_group": 1017}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，行動銀行在2021年到2023年期間的轉帳筆數平均每年增長13萬筆。", "answer": "是", "question_group": 1018}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，行動銀行在2021年到2023年期間的轉帳筆數平均每年增長15萬筆。", "answer": "否", "question_group": 1018}
+
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，從1月到12月，重複轉帳的案件數量變化率為-6.90%。", "answer": "是", "question_group": 1019}
+
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，從1月到12月，重複轉帳的案件數量變化率為6.90%。", "answer": "否", "question_group": 1019}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，重複使用密碼的百分比與主動更換密碼的百分比的總和至少為67%。", "answer": "是", "question_group": 1020}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，重複使用密碼的百分比與主動更換密碼的百分比的總和為50%。", "answer": "否", "question_group": 1020}
+
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，2023年資金流追蹤案件數相較於2022年的增長百分比為25.76%。", "answer": "是", "question_group": 1021}
+
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，2023年資金流追蹤案件數相較於2022年的增長百分比為30%。", "answer": "否", "question_group": 1021}
+

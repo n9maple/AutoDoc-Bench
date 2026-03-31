@@ -1,0 +1,25 @@
+{"category": "Open", "question_type": "Comparison", "question": "B級的3年期比1年期的利率低多少個百分比？", "answer": "0.3%"}
+{"category": "Open", "question_type": "Comparison", "question": "如果所有客戶占比的年利率上限都增加1%，哪一個客戶群體的年利率上限變動最大？", "answer": "所有客戶群體的年利率上限變動量相同，均為1.0%。"}
+{"category": "Open", "question_type": "Comparison", "question": "現金分期的調整後利率比市場平均水平低多少個百分點？", "answer": "0.5個百分點"}
+{"category": "MCQ", "question_type": "Comparison", "question": "在比較B級的3年期利率與1年期利率時，3年期利率比1年期利率低多少個百分比？請根據下面的資訊進行選擇。", "answer": "C", "choice": ["0.6%", "0.2%", "0.3%", "0.1%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "如果所有客戶占比的年利率上限都增加1%，哪一個客戶群體的年利率上限變動最大？", "answer": "C", "choice": ["不同客戶群體的年利率上限變動量有所不同，但都不會超過1.0%。", "低風險和高風險客戶群體的年利率上限變動相同，均為1.0%。", "所有客戶群體的年利率上限變動量相同，均為1.0%。", "年利率的變動取決於市場利率變化，與客戶風險無關。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在現金分期的調整後利率中，它比市場平均水平低多少個百分點？以下哪些選項為可能的答案？", "answer": "C", "choice": ["1.2個百分點", "1.0個百分點", "0.5個百分點", "0.8個百分點"]}
+{"category": "Open", "question_type": "Comparison", "question": "首購族群和非首購族群在最高貸款比例的情況下，哪一個的利率較高?", "answer": "無法提供最終答案，因為缺少具體的圖表數據。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據以下圖表，當首購族群和非首購族群在最高貸款比例的情況下，哪一個的利率較高？請根據圖表內容選擇正確的選項。", "answer": "C", "choice": ["首購族群的利率相對於非首購族群較高", "非首購族群的利率因信貸條件而偏低", "首購族群的利率較高", "在最高貸款比例下，兩者利率水準差異不大"]}
+{"category": "Open", "question_type": "Comparison", "question": "根據表4的資料，預借現金的使用率比現金分期少多少百分比？", "answer": "預借現金的使用率比現金分期少10%。"}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖1，哪些貸款比例的首購族群利率低於非首購族群？", "answer": "貸款比例A和貸款比例B的首購族群利率低於非首購族群。"}
+{"category": "Open", "question_type": "Ranking", "question": "根據圖4，指標20的百分比在所有顯示的百分比中排名第幾？", "answer": "第2"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖1，以下哪些貸款比例的首購族群利率低於非首購族群？", "answer": "C", "choice": ["貸款比例C和貸款比例D", "貸款比例B和貸款比例D", "貸款比例A和貸款比例B", "所有貸款比例的首購族群利率都低於非首購族群"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據圖4，指標20的百分比在所有顯示的百分比中排名第幾？以下選項中哪一項是正確的？", "answer": "C", "choice": ["低於第4", "第3", "第2", "第1"]}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，數值最低的指標是指標 20。", "answer": "是", "question_group": 672}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，數值最低的指標是指標 85。", "answer": "否", "question_group": 672}
+
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據下圖，最高與最低指標之間的差距是65。", "answer": "是", "question_group": 673}
+
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據下圖，最高與最低指標之間的差距是45。", "answer": "否", "question_group": 673}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，現金分期的調整後利率比市場平均水平低0.5個百分點。", "answer": "是", "question_group": 674}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，現金分期的調整後利率比市場平均水平低1個百分點。", "answer": "否", "question_group": 674}
+

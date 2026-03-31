@@ -1,0 +1,51 @@
+{"category": "Open", "question_type": "Comparison", "question": "2022年和2023年的即時公告比例分別是多少？哪一年較高？", "answer": "2022年的即時公告比例是45.7%，2023年的即時公告比例是50%。2023年的即時公告比例較高。"}
+{"category": "Open", "question_type": "Comparison", "question": "參與人次與舉辦場次的比率是多少？這個比率是否大於50？", "answer": "參與人次與舉辦場次的比率是55.56，這個比率大於50。"}
+{"category": "Open", "question_type": "Comparison", "question": "2023 年的公告總件數比 2022 年多了多少？", "answer": "2023 年的公告總件數比 2022 年多了 20 件。"}
+{"category": "Open", "question_type": "Comparison", "question": "在 2023 年中，董監改選案的數量是否多於章程修正案？", "answer": "是的，在2023年中，董監改選案的數量多於章程修正案。"}
+{"category": "Open", "question_type": "Comparison", "question": "2023年的資訊申報系統自動比對次數比2021年多出多少？", "answer": "2023年的資訊申報系統自動比對次數比2021年多出1500。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，2022年與2023年相比，未評鑑/違規的比例變化情況如何？", "answer": "C", "choice": ["2022年與2023年之間，未評鑑/違規的比例有所減少，顯示出改善的趨勢。這可能表明組織在提升透明度方面付出了努力。", "未評鑑/違規的比例在2022年減少了15%，顯示出透明度的提升。", "未評鑑/違規的比例在2022年與2023年之間沒有變化。", "未評鑑/違規的比例在2022年與2023年有所增加，具體數據顯示增加幅度為8%。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據即時公告的數據，以2022年和2023年的比例比較，哪一年即時公告的比例較高？以下選項中，哪個是正確的？", "answer": "C", "choice": ["2022年的即時公告比例較高，為40%", "2022年及2023年的即時公告比例均為50%", "2023年的即時公告比例較高，為50%", "2023年的即時公告比例為45%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片，參與人次與舉辦場次的比率是多少？該比率是否大於50？", "answer": "C", "choice": ["參與人次與舉辦場次的比率是40.00，這個比率小於50。", "參與人次與舉辦場次的比率是52.00，這個比率大於50。", "參與人次與舉辦場次的比率是55.56，這個比率大於50。", "參與人次與舉辦場次的比率是45.50，這個比率小於50。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的數據，2023 年的公告總件數與 2022 年相比，增加了多少件？請參考圖表中的數據。", "answer": "C", "choice": ["2023 年的公告總件數比 2022 年多了 25 件。", "2023 年的公告總件數比 2022 年多了 10 件。", "2023 年的公告總件數比 2022 年多了 20 件。", "2023 年的公告總件數與 2022 年持平。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的統計，董監改選案的數量與章程修正案相比，哪一項的數量較多？", "answer": "C", "choice": ["董監改選案和章程修正案的數量相等", "董監改選案的數量較少", "董監改選案的數量多於章程修正案", "章程修正案的數量超過董監改選案"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的資訊申報系統，與2021年相比，自動比對次數增加了多少？以下哪一個選項是正確的？", "answer": "D", "choice": ["增加了1000次", "增加了1200次", "增加了3000次", "增加了1500次"]}
+{"category": "Open", "question_type": "Difference Calculation", "question": "圖表中揭露率最高與最低的內容差距是多少？", "answer": "3%"}
+{"category": "Open", "question_type": "Comparison", "question": "數值最低的決議細項的件數是多少？", "answer": "600"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "最高與最低決議細項件數的差距是多少？", "answer": "1500"}
+{"category": "Open", "question_type": "Comparison", "question": "在2023年違規處理程序案件分布中，首次通知後補正的案件數量比進入紀律委員會審議多多少件？", "answer": "32"}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖表，揭露率最高與最低的內容差距為多少？", "answer": "C", "choice": ["6%", "2%", "3%", "5%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的圖表，數值最低的決議細項的件數是多少？", "answer": "C", "choice": ["550", "480", "600", "620"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據下列數據，最高與最低決議細項件數的差距是多少？", "answer": "C", "choice": ["1700", "1600", "1500", "1400"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在2023年違規處理程序案件分布中，首次通知後補正的案件數量比進入紀律委員會審議多多少件？請參考以下資料進行回答。", "answer": "C", "choice": ["比進入紀律委員會審議多20件", "比進入紀律委員會審議多10件", "32", "比進入紀律委員會審議少50件"]}
+{"category": "Open", "question_type": "Ranking", "question": "數值最低的審查項目是第幾個數據點？", "answer": "第2個和第3個數據點"}
+{"category": "Open", "question_type": "Ranking", "question": "在2023年違規處理程序案件分布中，哪一個程序的案件數量最少？", "answer": "進入紀律委員會審議的案件數量最少"}
+{"category": "MCQ", "question_type": "Ranking", "question": "在2023年違規處理程序案件分布中，根據圖表，哪一個程序的案件數量最少？", "answer": "C", "choice": ["進入聽證程序的案件數量最多", "進入調解程序的案件數量不多", "進入紀律委員會審議的案件數量最少", "進入申訴程序的案件數量與紀律委員會相似"]}
+{"category": "Open", "question_type": "Difference Calculation", "question": "在圖5中，揭露率為92的揭露內容與揭露率為95的揭露內容之間的揭露率差是多少？", "answer": "3%"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，首次通知後補正的案件數量比進入紀律委員會審議多32件。", "answer": "是", "question_group": 506}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，首次通知後補正的案件數量比進入紀律委員會審議多15件。", "answer": "否", "question_group": 506}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2022年與2023年相比，未評鑑/違規的比例沒有變化，均為6%。", "answer": "是", "question_group": 507}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2022年與2023年相比，未評鑑/違規的比例有顯著增長。", "answer": "否", "question_group": 507}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年董監改選案的數量多於章程修正案。", "answer": "是", "question_group": 508}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年章程修正案的數量多於董監改選案。", "answer": "否", "question_group": 508}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的資訊申報系統自動比對次數比2021年增加了1500次。", "answer": "是", "question_group": 509}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的資訊申報系統自動比對次數比2021年增加了2000次。", "answer": "否", "question_group": 509}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的即時公告比例較高，為50%。", "answer": "是", "question_group": 510}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2022年的即時公告比例較高，為50%。", "answer": "否", "question_group": 510}
+
+{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，進入紀律委員會審議的案件數量是所有程序中最少的。", "answer": "是", "question_group": 511}
+
+{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，首次通知後補正的案件數量是所有程序中最少的。", "answer": "否", "question_group": 511}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，參與人次與舉辦場次的比率是約55.56，這個比率大於50。", "answer": "是", "question_group": 512}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，參與人次與舉辦場次的比率是約45，這個比率大於50。", "answer": "否", "question_group": 512}
+

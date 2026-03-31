@@ -1,0 +1,26 @@
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2023年到2040年，電動車市場滲透率增長了多少百分比？", "answer": "1900%"}
+{"category": "Open", "question_type": "Aggregation", "question": "在2023年和2025年，充電樁數量的平均值是多少？", "answer": "3250"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2020年到2022年，發行規模的年平均增加多少?", "answer": "750"}
+{"category": "Open", "question_type": "Aggregation", "question": "請計算2023年上半年（1月至6月）的平均咨詢數量是多少？", "answer": "平均咨詢數量是 123.33。"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據下圖，從2023年到2040年，電動車市場滲透率的增長幅度為多少？", "answer": "C", "choice": ["1600%", "1750%", "1900%", "2000%近似目標值的增長"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖顯示的充電樁數量在2023年和2025年的變化，平均值是多少？", "answer": "C", "choice": ["4000", "2700", "3250", "3900"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據圖表所示，從2020年到2022年，發行規模的年平均增加量是多少？", "answer": "C", "choice": ["500", "700", "750", "850"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年上半年（1月至6月）的數據，以下哪項選項最接近平均咨詢數量？", "answer": "C", "choice": ["115.67", "128.50", "123.33", "121.00"]}
+{"category": "Open", "question_type": "Temporal Trend", "question": "從2021年至2030年，風能的裝機容量呈現了什麼樣的變化趨勢？", "answer": "從2021年至2030年，風能的裝機容量呈現穩定增長的趨勢，總增長了2.9 GW。"}
+{"category": "Open", "question_type": "Temporal Trend", "question": "從2022年到2024年，台新銀行的投資者會議次數的變化趨勢是什麼？", "answer": "從2022年到2024年，台新銀行的投資者會議次數呈現逐年增加的趨勢，每年增加1次。"}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖片中的數據，從2021年至2030年，風能的裝機容量呈現了以下哪種趨勢？", "answer": "C", "choice": ["風能的裝機容量在2021年至2023年增長，然後持平", "風能的裝機容量呈現減少的趨勢", "風能的裝機容量呈現穩定增長的趨勢", "風能的裝機容量在2021年至2030年間顯示出劇烈波動的趨勢"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據提供的圖表，從2022年到2024年，台新銀行的投資者會議次數有什麼樣的變化趨勢？", "answer": "C", "choice": ["投資者會議次數在2022年達到高峰，然後在2023年和2024年都持平。", "投資者會議次數從2022年到2023年微幅上升，然後在2024年急劇下降。", "投資者會議次數逐年增加，每年增加1次。", "投資者會議次數在2022年和2023年持平，2024年突然減少。"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表1的資料，從2024年到2028年間，哪一年綠色貸款佔總貸款額的比例首次達到14%或更高？", "answer": "D", "choice": ["2025", "2026", "2028", "2027"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖3，從2021年到2030年，風能裝機容量呈現什麼樣的變化趨勢？", "answer": "C", "choice": ["風能裝機容量在整個期間呈現不穩定的增長，存在多次波動。", "風能裝機容量在2021年至2023年間持平，隨後在2024年以後開始緩慢增長。", "風能裝機容量從2021年到2030年穩步增長，特別是在2025年到2030年間增長速度加快。", "風能裝機容量在2021年後迅速增長，並從2025年起處於高位，直到2030年止。"]}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023年和2025年充電樁數量的平均值是3250。", "answer": "是", "question_group": 1090}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023年和2025年充電樁數量的平均值是4000。", "answer": "否", "question_group": 1090}
+
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2020年到2022年，發行規模的年平均增加量是750。", "answer": "是", "question_group": 1091}
+
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2020年到2022年，發行規模的年平均增加量是1000。", "answer": "否", "question_group": 1091}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023年上半年（1月至6月）的平均咨詢數量是123.33。", "answer": "是", "question_group": 1092}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023年上半年（1月至6月）的平均咨詢數量是130。", "answer": "否", "question_group": 1092}
+

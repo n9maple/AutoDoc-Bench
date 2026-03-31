@@ -1,0 +1,27 @@
+{"category": "Open", "question_type": "Comparison", "question": "2023年的健康醫療險比2022年的投資型保險多多少億元？", "answer": "8.4億元"}
+{"category": "Open", "question_type": "Comparison", "question": "比較男性30歲和女性30歲在20年期的數值，男性比女性多多少？", "answer": "1760"}
+{"category": "Open", "question_type": "Comparison", "question": "一名30歲女性和一名45歲女性在購買重大疾病險時，彼此的保費差距是多少？", "answer": "6,624"}
+{"category": "Open", "question_type": "Comparison", "question": "在這些保險商品中，哪一個保險類型在四家公司中費用的變動範圍最大？", "answer": "年金險"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的數據，2023年的健康醫療險比2022年的投資型保險多多少億元？", "answer": "C", "choice": ["7.2億元", "10.3億元", "8.4億元", "5.9億元"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在下圖中，男性和女性的30歲時期數值被標示出來。根據圖表，男性的數值比女性多多少？", "answer": "C", "choice": ["2100", "176", "1760", "1260"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中的資訊，30歲女性和45歲女性在購買重大疾病險時，彼此的保費差距是多少？", "answer": "C", "choice": ["7,123", "6,300", "6,624", "8,100"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據附圖所示的四家公司保險商品費用變動，哪一種保險類型的費用變動範圍最大？", "answer": "C", "choice": ["意外險", "壽險", "年金險", "醫療險"]}
+{"category": "Open", "question_type": "Comparison", "question": "在2023年各類保險商品新契約年齡分布比例中，投資型保險的佔比是否超過健康醫療險？", "answer": "由於沒有具體的數據，我無法確定投資型保險的佔比是否超過健康醫療險。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年各類保險商品新契約年齡分布比例的圖片，投資型保險的佔比是否超過健康醫療險？", "answer": "C", "choice": ["兩者的佔比非常接近，以致於無法穩定區分。", "投資型保險的佔比略高於健康醫療險。", "無法確定投資型保險的佔比是否超過健康醫療險。", "健康醫療險的佔比超過投資型保險。"]}
+{"category": "Open", "question_type": "Ranking", "question": "2022年市佔率最高的商品類型在2023年的市佔率排名如何？", "answer": "由於缺少具體的市佔率數據，無法確定2022年市佔率最高的商品類型在2023年的市佔率排名。"}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據2022年的市佔率資料，2023年市佔率排名的變化可能會是以下哪一種情況？", "answer": "C", "choice": ["2023年市佔率可能基於2022年的數據推算，但推測的準確性受到其他因素影響。", "市場趨勢的變化可能在2023年導致某些商品類型排名上升或下降，無法僅依賴2022年數據。", "無法確定2022年市佔率最高的商品類型在2023年的市佔率排名，因為缺少具體的數據。", "2023年市佔率可能與2022年的數據不具有直接相關性，需考慮外部因素。"]}
+{"category": "Open", "question_type": "Comparison", "question": "根據表2的資料，30歲男性和女性在20年期方案中的費用相比，哪一方較低且差額是多少？", "answer": "30歲女性在20年期方案中的費用較低，差額是1,760元。"}
+{"category": "Open", "question_type": "Comparison", "question": "根據表6的資料，哪家壽險公司的投資型保單年化報酬率低於業界平均，並且是所有公司中最低的？", "answer": "國泰人壽"}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據圖3，以下哪些商品類型的佔比從低到高排序為正確的？", "answer": "C", "choice": ["投資型保險, 定期壽險, 健康醫療險, 終身壽險", "健康醫療險, 投資型保險, 定期壽險, 終身壽險", "定期壽險, 投資型保險, 健康醫療險, 終身壽險", "終身壽險, 健康醫療險, 定期壽險, 投資型保險"]}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，沒有足夠的資訊來確定投資型保險的佔比是否超過健康醫療險。", "answer": "是", "question_group": 567}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，可以明確看出投資型保險的佔比超過健康醫療險。", "answer": "否", "question_group": 567}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，男性在30歲的數值比女性多1760。", "answer": "是", "question_group": 568}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，男性在30歲的數值比女性多2000。", "answer": "否", "question_group": 568}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，30歲女性購買重大疾病險的保費是11,040元，45歲女性購買重大疾病險的保費是17,664元，因此兩者的保費差距是6,624元。", "answer": "是", "question_group": 569}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，30歲女性和45歲女性在購買重大疾病險時，彼此的保費差距是5,000元。", "answer": "否", "question_group": 569}
+

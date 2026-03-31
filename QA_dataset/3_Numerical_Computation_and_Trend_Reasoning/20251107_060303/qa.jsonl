@@ -1,0 +1,46 @@
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2024年到2025年，重大疾病的件數增加了多少？", "answer": "1,663件"}
+{"category": "Open", "question_type": "Aggregation", "question": "40-59歲的男性和女性總人數是多少？", "answer": "71280"}
+{"category": "Open", "question_type": "Aggregation", "question": "兩年內初審進入正式審查的案件總數是多少？", "answer": "306,420"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從 2024 年到 2025 年，醫療險的數值是如何變化的？", "answer": "醫療險的數值從2024年的4.4下降到2025年的3.7，變化為-0.7。"}
+{"category": "Open", "question_type": "Aggregation", "question": "2024 和 2025 年的有效問卷總數是多少？", "answer": "2024 和 2025 年的有效問卷總數是 34700。"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2023到2025年，線上申請普及率的總增長是多少？", "answer": "總增長是10。"}
+{"category": "Open", "question_type": "Aggregation", "question": "2023年至2025年間，客戶滿意度的平均值是多少？", "answer": "94.37"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從 2023 年到 2025 年，高額理賠案件數量的增長是多少？", "answer": "23"}
+{"category": "Open", "question_type": "Aggregation", "question": "專案審查團隊在 2023 年和 2024 年的總人數是多少？", "answer": "14"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2024年到2025年的資料，重大疾病的件數增加了多少？", "answer": "C", "choice": ["受到市場變化影響的2,200件", "因特殊情況導致的1,800件", "1,663件", "部分資料不完整，約1,900件"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下列圖表，40-59歲的男性和女性總人數是多少？", "answer": "C", "choice": ["70300", "71100", "71280", "71500"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "在圖片中顯示的兩年內，初審進入正式審查的案件總數是多少？", "answer": "C", "choice": ["280,000", "400,000", "306,420", "290,500"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據給定的資料，2024 年和 2025 年的壽險平均值是多少？請參考相關圖片以得出正確答案。", "answer": "C", "choice": ["4.60", "4.75", "4.85", "5.00"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "從2024年到2025年，醫療險的數值變化如何？根據圖片描述，可以選擇下列哪個選項？", "answer": "C", "choice": ["醫療險的數值在2024年和2025年保持不變，均為4.0。", "醫療險的數值從2024年的4.4上升到2025年的4.8，變化為+0.4。", "醫療險的數值從2024年的4.4下降到2025年的3.7，變化為-0.7。", "醫療險的數值從2024年的4.4下降到2025年的3.5，變化為-0.9。"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的數據，2024 和 2025 年的有效問卷總數為多少？", "answer": "C", "choice": ["40000", "30000", "34700", "32000"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2023到2025年的線上申請數據，總增長率是多少？", "answer": "C", "choice": ["8%", "20%", "10%", "10.5%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據以下圖表，2023年至2025年間的客戶滿意度的平均值為何？", "answer": "C", "choice": ["94.15", "95.00", "94.37", "94.50"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2023年至2025年的數據，高額理賠案件數量的增長是多少？", "answer": "C", "choice": ["15", "25", "23", "高額理賠案件數量下降"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的數據，專案審查團隊在 2023 年和 2024 年的總人數可能是多少？", "answer": "C", "choice": ["13", "17", "14", "19"]}
+{"category": "Open", "question_type": "Aggregation", "question": "所有險種的理賠金額總和是多少？", "answer": "47.7 億元"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，所有險種的理賠金額總和為何？", "answer": "C", "choice": ["48.5 億元", "50.1 億元", "47.7 億元", "47.1 億元"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖4，所有理賠項目的總理賠金額之和可能是多少億元？", "answer": "B", "choice": ["1150億元", "1200億元", "1350億元", "1250億元"]}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，2023到2025年的線上申請普及率總增長是10%。", "answer": "是", "question_group": 906}
+
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，2023到2025年的線上申請普及率總增長是20%。", "answer": "否", "question_group": 906}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2024年和2025年初審進入正式審查的案件總數是306,420。", "answer": "是", "question_group": 907}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2024年和2025年初審進入正式審查的案件總數是300,000。", "answer": "否", "question_group": 907}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2024 和 2025 年的有效問卷總數為 34700。", "answer": "是", "question_group": 908}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2024 和 2025 年的有效問卷總數為 34000。", "answer": "否", "question_group": 908}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，所有險種的理賠金額總和為47.7億元。", "answer": "是", "question_group": 909}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，所有險種的理賠金額總和為50億元。", "answer": "否", "question_group": 909}
+
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2024年到2025年，重大疾病的件數增加了1,663件。", "answer": "是", "question_group": 910}
+
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2024年到2025年，重大疾病的件數增加了1,000件。", "answer": "否", "question_group": 910}
+
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，2023年至2025年的高額理賠案件數量增長了23。", "answer": "是", "question_group": 911}
+
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，2023年至2025年的高額理賠案件數量增長了25。", "answer": "否", "question_group": 911}
+

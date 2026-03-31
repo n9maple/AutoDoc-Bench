@@ -1,0 +1,21 @@
+{"category": "Open", "question_type": "Comparison", "question": "2018年和2023年哪一年普及率更高？", "answer": "2023年普及率更高"}
+{"category": "Open", "question_type": "Comparison", "question": "2023年至2025年間，哪一年投資比例中，最多的和最少的差異最小？", "answer": "2023年"}
+{"category": "Open", "question_type": "Comparison", "question": "在2023年，投訴比例是否超過了25%？", "answer": "是的，2023年的投訴比例超過了25%。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "在下列年份中，哪一年的普及率較高？請參考提供的數據圖片。", "answer": "C", "choice": ["2019年", "2020年", "2023年", "2022年"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年至2025年間的投資比例，以下哪一年之間的差異最小？", "answer": "C", "choice": ["2024年和2025年", "2022年", "2023年", "2024年和2023年"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的數據，投訴比例的情況如何？", "answer": "C", "choice": ["2023年的投訴比例在25%到30%之間。", "2023年的投訴比例約為20%。", "2023年的投訴比例超過了25%.", "2023年的投訴比例在30%到40%之間。"]}
+{"category": "Open", "question_type": "Difference Calculation", "question": "圖表中參與企業數量最多的領域與最少的領域之差是多少？", "answer": "2"}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "在提供的圖表中，哪些領域之間的參與企業數量差異最明顯？", "answer": "C", "choice": ["所有領域均超過20家企業，顯示出明顯數量的相似性。", "參與企業數量最少的領域和其餘領域之間的差異為5。", "在參與企業數量最多的領域與最少的領域之間的差異為2。", "在部分呈現的領域中，差異超過10家企業，顯示出高度的不均衡。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖5，參與企業數量最多的領域是以下哪一個？", "answer": "A", "choice": ["領域1", "領域2", "領域3", "各領域平分秋色"]}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的投資比例中，增加投資與減少投資的比例差異是50%，這是三年間最小的差異。", "answer": "是", "question_group": 732}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2025年投資比例的最大和最小比例差異是50%。", "answer": "否", "question_group": 732}
+
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，參與企業數量最多的領域與最少的領域之間的差異為2。", "answer": "是", "question_group": 733}
+
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，參與企業數量最多的領域與最少的領域之間的差異為3。", "answer": "否", "question_group": 733}
+
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據下圖，兩個指標數值的差距是15。", "answer": "是", "question_group": 734}
+
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據下圖，兩個指標數值的差距是25。", "answer": "否", "question_group": 734}
+

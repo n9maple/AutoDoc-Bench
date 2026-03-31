@@ -1,0 +1,14 @@
+{"category": "Open", "question_type": "Fact Lookup", "question": "2024年詐騙案件的發生率是多少？", "answer": "2024年的詐騙案件發生率是0.008%。"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "2024 年有多少重大個資外洩事件發生？", "answer": "0"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "表格中顯示的台灣數位金融用戶滲透率是多少？", "answer": "台灣數位金融用戶滲透率是78%。"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2024年的數據，詐騙案件的發生率為多少？", "answer": "C", "choice": ["0.012%", "0.005%", "0.008%", "0.001%"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2024年資料，以下哪一選項正確地描述了重大個資外洩事件的發生數量？", "answer": "C", "choice": ["未報告", "無相關事件", "0", "未有重大事件"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據下方表格，台灣數位金融用戶的滲透率是？", "answer": "C", "choice": ["74%", "80%", "78%", "76%"]}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2024年重大個資外洩事件的數量是0。", "answer": "是", "question_group": 63}
+
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2024年重大個資外洩事件的數量是10。", "answer": "否", "question_group": 63}
+
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2024年的詐騙案件發生率是0.008%。", "answer": "是", "question_group": 64}
+
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2024年的詐騙案件發生率是0.08%。", "answer": "否", "question_group": 64}
+

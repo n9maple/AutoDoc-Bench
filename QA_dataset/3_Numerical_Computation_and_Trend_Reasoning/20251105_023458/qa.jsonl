@@ -1,0 +1,34 @@
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2022年到2023年，淨利息收益佔總收益比例變化了多少個百分點？", "answer": "2個百分點"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2022年到2023年，短期負債佔比和長期資產佔比的變化趨勢如何？", "answer": "從2022年到2023年，短期負債佔比下降了2%，而長期資產佔比上升了2%。"}
+{"category": "Open", "question_type": "Aggregation", "question": "2022年和2023年的長期資產佔比總和是多少？", "answer": "142%"}
+{"category": "Open", "question_type": "Aggregation", "question": "在 2023 年的四個季度中，壓力測試總共進行了幾次？", "answer": "4"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2022年到2024年預測，固定收益資產佔比的下降幅度是多少？", "answer": "固定收益資產佔比的下降幅度是4%。"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據提供的數據圖示，從2022年到2023年，淨利息收益佔總收益的比例變化了多少個百分點？", "answer": "C", "choice": ["5個百分點", "0個百分點", "2個百分點", "3個百分點"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2022年到2023年的數據，短期負債佔比和長期資產佔比的變化趨勢如何？請參考下列選項：", "answer": "C", "choice": ["短期負債佔比下降了1%，而長期資產佔比上升了3%。", "短期負債佔比上升了2%，而長期資產佔比下降了2%。", "短期負債佔比下降了2%，而長期資產佔比上升了2%。", "短期負債和長期資產的佔比都沒有變化。"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的數據，2022年和2023年的長期資產佔比總和為多少？請參考圖片中的數據進行選擇。", "answer": "C", "choice": ["125%", "155%", "142%", "135%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年四個季度的資料，各季度進行的壓力測試次數分別為多少次？", "answer": "C", "choice": ["每個季度進行了2次壓力測試，共計8次", "每個季度進行了3次壓力測試，共計12次", "每個季度進行了1次壓力測試，共計4次", "總計進行了4次測試，但只有兩個季度有進行"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2022年至2024年的預測，固定收益資產的佔比將會有什麼變化？", "answer": "C", "choice": ["固定收益資產佔比下降2%", "固定收益資產佔比上升4%", "固定收益資產佔比下降4%", "固定收益資產佔比下降5%"]}
+{"category": "Open", "question_type": "Temporal Trend", "question": "從2022年到2024年，台灣銀行業衍生工具對沖利率風險比例每年的變化趨勢如何？", "answer": "從2022年到2024年，台灣銀行業衍生工具對沖利率風險比例每年增加5%，呈現穩定上升的趨勢。"}
+{"category": "Open", "question_type": "Temporal Trend", "question": "在2022年至2024年期間，台灣銀行業的平均淨利差呈現什麼樣的變化趨勢？", "answer": "從2022年至2024年，台灣銀行業的平均淨利差呈現逐年增加的趨勢。"}
+{"category": "Open", "question_type": "Rate of Change", "question": "從2022年到2024年預測，台灣銀行業的平均淨利差每年增加了多少個百分點？", "answer": "每年增加了0.2個百分點"}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2022至2024年期間的數據，台灣銀行業衍生工具對沖利率風險比例的變化趨勢如何？", "answer": "C", "choice": ["在2023年輕微下降，然後在2024年回升至2022年的水平。", "每年增加15%，在2024年達到最高點，顯示出強勁增長的趨勢。", "每年增加5%，呈現穩定上升的趨勢。", "每年保持不變，未顯示出任何變化的趨勢。"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖片顯示，台灣銀行業在2022年至2024年期間的平均淨利差變化趨勢是什麼？", "answer": "C", "choice": ["2023年的平均淨利差明顯高於2022年，但在2024年出現回落。", "在2023年，平均淨利差保持不變，但2024年再次上升。", "平均淨利差逐年增加的趨勢。", "2022年至2024年期間，平均淨利差的增減幅度非常小，幾乎沒有變化。"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據2022年至2024年期間的預測，台灣銀行業的平均淨利差每年可能增加多少個百分點？請參考以下數據情境做比較。", "answer": "C", "choice": ["每年增加了0.25個百分點", "每年增加了0.1個百分點", "每年增加了0.2個百分點", "每年增加了0.3個百分點"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖3，從2022年到2023年，交易額增長率的變化率是多少個百分點？請從以下選項中選擇正確答案。", "answer": "C", "choice": ["7個百分點", "10個百分點", "5個百分點", "3個百分點"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖5，台灣銀行業的平均淨利差在2022年至2024年預測期間的趨勢是什麼？", "answer": "C", "choice": ["保持穩定", "輕微波動", "逐年上升", "逐年降低"]}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2022年到2023年，淨利息收益佔總收益的比例變化了2個百分點。", "answer": "是", "question_group": 827}
+
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2022年到2023年，淨利息收益佔總收益的比例變化了5個百分點。", "answer": "否", "question_group": 827}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年和2023年的長期資產佔比總和為142%。", "answer": "是", "question_group": 828}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年和2023年的長期資產佔比總和為130%。", "answer": "否", "question_group": 828}
+
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，2022年至2024年期間台灣銀行業的平均淨利差每年增加0.2個百分點。", "answer": "是", "question_group": 829}
+
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，2022年至2024年期間台灣銀行業的平均淨利差每年增加0.5個百分點。", "answer": "否", "question_group": 829}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023年每個季度進行了1次壓力測試。", "answer": "是", "question_group": 830}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023年每個季度進行了2次壓力測試。", "answer": "否", "question_group": 830}
+

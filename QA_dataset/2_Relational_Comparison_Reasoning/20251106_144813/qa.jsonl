@@ -1,0 +1,41 @@
+{"category": "Open", "question_type": "Comparison", "question": "哪家公司的股票股利比現金股利多，並且是多少？", "answer": "公司C的股票股利比現金股利多，差額是0.4%。"}
+{"category": "Open", "question_type": "Comparison", "question": "公司章程修訂提案的通過率是多少，並與董事選舉中獲得超過75%股東支持的提案比例相比，哪一個更高？", "answer": "公司章程修訂提案的通過率是75%，比董事選舉中獲得超過75%股東支持的提案比例（65%）更高。"}
+{"category": "Open", "question_type": "Comparison", "question": "在 2022 年，數位轉型和創新研發的百分比比 ESG 策略高多少？", "answer": "5%"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的圖表，哪家公司提供的股票股利比現金股利多，且其差額為多少？", "answer": "C", "choice": ["公司A的股票股利比現金股利多，差額是0.3%。", "公司C的股票股利比現金股利多，差額是0.7%。", "公司C的股票股利比現金股利多，差額是0.4%。", "公司D的股票股利比現金股利多，差額是0.4%。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖表顯示，在 2022 年，數位轉型和創新研發的百分比比 ESG 策略高出多少？", "answer": "C", "choice": ["3%", "8%", "5%", "6%"]}
+{"category": "Open", "question_type": "Difference Calculation", "question": "提案比例最高與最低的提案內容差距是多少？", "answer": "25%"}
+{"category": "Open", "question_type": "Comparison", "question": "在2022年董事選舉支持率分佈中，支持率>75%的比例是支持率50%-75%的多少倍？", "answer": "2.6"}
+{"category": "Open", "question_type": "Comparison", "question": "哪一個計劃項目的實施比例最低？", "answer": "計劃項目: 50"}
+{"category": "Open", "question_type": "Comparison", "question": "哪一個措施類型的公司比例最低？", "answer": "措施類型的公司比例最低的是 60%。"}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據提案內容的比例，最高與最低的提案差距是多少？請參考下方圖表的數據進行比較。", "answer": "C", "choice": ["15%", "40%", "25%", "28%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2022年董事選舉支持率分佈的數據，支持率超過75%的比例是支持率在50%到75%之間的比例的多少倍？", "answer": "C", "choice": ["4倍", "1.5", "2.6", "3.0"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中的計劃項目實施比例，以下哪一項的實施比例最低？", "answer": "C", "choice": ["計劃項目: 15", "計劃項目: 25", "計劃項目: 50", "計劃項目: 20"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的數據，下列哪一個措施類型的公司比例最低？", "answer": "C", "choice": ["58%", "62%", "60%", "64%"]}
+{"category": "Open", "question_type": "Ranking", "question": "提案比例為10的提案內容在排名上是第幾？", "answer": "第二"}
+{"category": "Open", "question_type": "Ranking", "question": "根據2022年研發支出預計變化的圖表，哪一類別的公司數量排名第一？", "answer": "未增加的公司"}
+{"category": "MCQ", "question_type": "Ranking", "question": "在如下的提案排名中，提案比例為10的提案內容位於哪些排名？ (請根據下方圖片整理的提案資料作答)", "answer": "C", "choice": ["第一和第二", "第三和第四", "第二", "第一和第四"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據2022年研發支出預計變化的圖表，以下哪一類別的公司數量排名第一？", "answer": "C", "choice": ["大多數公司保持不變", "增長超過10%的公司", "未增加的公司", "減少支出的公司"]}
+{"category": "Open", "question_type": "Comparison", "question": "在圖8中，哪一個措施類型的公司比例最低？", "answer": "措施類型: 60"}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖6，增加獨立董事的公司和未增加的公司之間的比例是否相同？", "answer": "增加獨立董事的公司和未增加的公司之間的比例是相同的。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表3的資料，下列哪一家公司在現金股利方面表現最佳？", "answer": "C", "choice": ["公司C在現金股利方面的表現優於公司A和公司B", "公司A在現金股利方面的表現好於公司B", "公司B", "公司D的現金股利支付率高於公司B"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖5，實施比例最低的計劃項目與最高的計劃項目之間的差是多少？以下哪個選項是正確的？", "answer": "A", "choice": ["20%", "24%", "21%", "19%"]}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，公司章程修訂提案的通過率為75%，高於董事選舉中獲得超過75%股東支持的提案比例65%。", "answer": "是", "question_group": 359}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，董事選舉中獲得超過75%股東支持的提案比例高於公司章程修訂提案的通過率75%。", "answer": "否", "question_group": 359}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，60%的措施類型公司比例是最低的。", "answer": "是", "question_group": 360}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，80%的措施類型公司比例是最低的。", "answer": "否", "question_group": 360}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，公司C的股票股利為3.2%，比其現金股利2.8%多，差額是0.4%。", "answer": "是", "question_group": 361}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，公司A的股票股利為3.0%，比其現金股利2.0%多，差額是1.0%。", "answer": "否", "question_group": 361}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖片，計劃項目的實施比例為50%的是比例最低的。", "answer": "是", "question_group": 362}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖片，所有計劃項目的實施比例都是70%。", "answer": "否", "question_group": 362}
+
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖表，未增加研發支出的公司數量排名第一。", "answer": "是", "question_group": 363}
+
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖表，增加研發支出的公司數量排名第一。", "answer": "否", "question_group": 363}
+

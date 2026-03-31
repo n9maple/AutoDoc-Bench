@@ -1,0 +1,38 @@
+{"category": "Open", "question_type": "Aggregation", "question": "在2023年上半年（2023-01到2023-06），活期存款帳戶查詢次數的總和是多少？", "answer": "1933000"}
+{"category": "Open", "question_type": "Aggregation", "question": "從2023年1月至2023年6月，繳費交易筆數的平均值是多少？", "answer": "44,550.0"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "哪一個月份的總交易金額比前一個月增加最多？", "answer": "2023-11"}
+{"category": "Open", "question_type": "Aggregation", "question": "如果將全部企業中的單層和兩層比例合併計算，那麼合併後的比例是多少？", "answer": "62%"}
+{"category": "Open", "question_type": "Aggregation", "question": "所有問題出現頻率的總和是多少？", "answer": "100%"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據以下圖表，在2023年上半年活期存款帳戶查詢次數的總和為何？", "answer": "C", "choice": ["1850000", "2025000", "1933000", "1970000"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年1月至2023年6月的繳費交易筆數，平均值為多少？", "answer": "C", "choice": ["44,700.0", "45,000.0", "44,550.0", "44,400.0"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據圖表，哪一個月份的總交易金額比前一個月增加最多？", "answer": "C", "choice": ["2023-08", "2023-10", "2023-11", "2023-12"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據所提供的數據，所有問題出現頻率的總和是？", "answer": "C", "choice": ["90%", "75%未記錄問題", "100%", "150%"]}
+{"category": "Open", "question_type": "Temporal Trend", "question": "從2023年1月到12月，自動對帳設定數的增長趨勢如何？", "answer": "從2023年1月到12月，自動對帳設定數呈現穩定增長的趨勢，從8900增加到10400，增長了1500，增長百分比約為16.85%。"}
+{"category": "Open", "question_type": "Rate of Change", "question": "從2023年1月至12月，格式匯出次數(PDF)的變化率是多少？", "answer": "17.07%"}
+{"category": "Open", "question_type": "Aggregation", "question": "在2023年全年，異地存取的通報數量總和是多少？", "answer": "3975"}
+{"category": "Open", "question_type": "Rate of Change", "question": "從2023年6月到2023年7月，哪一個異常行為的通報數量變化最明顯？", "answer": "異常登入和異地存取的通報數量變化最明顯，變化量都是30"}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2023年1月至12月的數據，自動對帳設定數的增長趨勢如何？", "answer": "C", "choice": ["自動對帳設定數從8900增長到9600，增長了700，增長百分比約為7.87%。", "自動對帳設定數從8900增長到10200，增長了1300，增長百分比約為14.60%。", "自動對帳設定數從8900增長到10400，增長了1500，增長百分比約為16.85%。", "自動對帳設定數從8900增長到8700，減少了200，減少百分比約為2.25%。"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據2023年內的數據，PDF格式匯出次數的變化率最接近於哪一個選項？", "answer": "C", "choice": ["16.5%", "20.3%", "17.07%", "18.0%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年的數據，以下哪一項是異地存取的通報數量總和？", "answer": "C", "choice": ["3990", "3950", "3975", "3880"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "在2023年6月到2023年7月的期間，根據圖片顯示，哪些異常行為的通報數量變化最明顯？", "answer": "C", "choice": ["異常登入的通報數量變化為25，異地存取為25", "異常登入和異地存取的通報數量變化都是15", "異常登入和異地存取的通報數量變化都是30", "異常登入和內部數據泄露的通報數量變化都是25"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表1的資料，假設2023年開始每月平均交易金額每年增加15%，到2025年時，可能的每月平均交易金額為何？", "answer": "D", "choice": ["4850.00", "4250.00", "5000.00", "4629.63"]}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，自動對帳設定數從2023年1月的8900增長到12月的10400，增長百分比約為16.85%。", "answer": "是", "question_group": 1024}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，自動對帳設定數從2023年1月的8900下降到12月的8000，顯示出下降趨勢。", "answer": "否", "question_group": 1024}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，合併後的比例是62%。", "answer": "是", "question_group": 1025}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，合併後的比例是52%。", "answer": "否", "question_group": 1025}
+
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，從2023年6月到2023年7月，異常登入和異地存取的通報數量變化都是30。", "answer": "是", "question_group": 1026}
+
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，從2023年6月到2023年7月，異常登入和密碼重設的通報數量變化都是30。", "answer": "否", "question_group": 1026}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，所有問題出現頻率的總和是 100%。", "answer": "是", "question_group": 1027}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，所有問題出現頻率的總和是 110%。", "answer": "否", "question_group": 1027}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，從2023年1月至2023年6月，繳費交易筆數的平均值是44883.33。", "answer": "是", "question_group": 1028}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，從2023年1月至2023年6月，繳費交易筆數的平均值是44550.0。", "answer": "否", "question_group": 1028}
+

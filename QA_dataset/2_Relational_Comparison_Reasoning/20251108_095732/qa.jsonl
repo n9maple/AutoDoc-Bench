@@ -1,0 +1,26 @@
+{"category": "Open", "question_type": "Comparison", "question": "哪一個步驟在審批時間縮短和申請通過率兩方面的效果是相同的？", "answer": "所有步驟的審批時間縮短和申請通過率的效果都是相同的"}
+{"category": "Open", "question_type": "Comparison", "question": "所有行業的還款期限是否一致？如果是，還款期限是多少年？", "answer": "所有行業的還款期限一致，還款期限是10年。"}
+{"category": "Open", "question_type": "Comparison", "question": "哪一項的增長加速百分比更高，違約風險降低還是企業增長恢復？", "answer": "企業增長恢復的增長加速百分比更高"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據以下步驟，哪一個步驟在審批時間縮短和申請通過率方面的效果是一致的？", "answer": "C", "choice": ["簡化審核流程能提高申請通過率，但增加審批時間。", "審批時間縮短會影響申請的複雜性，但不會改變通過率。", "所有步驟的審批時間縮短和申請通過率的效果都是相同的", "所有步驟的審批效率都是一致的，但申請通過率各有不同。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下面的情境，所有行業的還款期限是否一致？如果一致，還款期限是多少年？", "answer": "D", "choice": ["所有行業的還款期限一致，且為5年", "所有行業的還款期限一致，且為7年", "所有行業的還款期限不一致，且為8年", "所有行業的還款期限一致，且為10年"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片顯示，哪一項的增長加速百分比更高？", "answer": "C", "choice": ["科技行業增長的增長加速百分比稍低", "市場需求增長的增長加速百分比略有下降", "企業增長恢復的增長加速百分比更高", "個人增長恢復的增長加速百分比持平"]}
+{"category": "Open", "question_type": "Comparison", "question": "比較第一個和第二個服務類型的申請成功率提升，這兩者的數值是否相同？", "answer": "這兩者的數值是相同的。"}
+{"category": "Open", "question_type": "Comparison", "question": "哪個企業類型的利率最低？", "answer": "具社會責任項目"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片所示，第一個和第二個服務類型的申請成功率提升，這兩者的數值是否相同？", "answer": "C", "choice": ["第一個服務的成功率在不同時間段內保持一致，因此其數值未見變化。", "第一個和第二個服務類型的申請成功率相等，因此不會有明顯的差異。", "是的，這兩者的數值是相同的。", "雖然第一個服務類型是較新，但其成功率已達到第二個服務的水準，因此兩者數值相同。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，哪種企業類型通常擁有最低的利率？", "answer": "C", "choice": ["非營利組織", "私營企業", "具社會責任項目", "大型企業"]}
+{"category": "Open", "question_type": "Comparison", "question": "根據表3的資料，若科技創新與綠色能源兩家公司的年營業額均為500萬，哪一類型的企業在還款期限內可以獲得更多的貸款總額？", "answer": "科技創新與綠色能源兩類型的企業在還款期限內可以獲得相同的貸款總額，均為250萬。"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "在圖4中，調整前和調整後的貸款最高額度的差異是多少萬美元？", "answer": "25萬美元"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "根據圖5，基準利率和具社會責任項目的利率差異是多少？", "answer": "無法提供具體數值，因為未提供圖表的實際數據。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表3的資料，若科技創新與綠色能源兩家公司的年營業額均為500萬，哪一類型的企業在還款期限內可以獲得更多的貸款總額？", "answer": "B", "choice": ["根據市場需求，科技創新可能獲得的貸款總額為300萬，而綠色能源為250萬。", "科技創新與綠色能源兩類型的企業在還款期限內可以獲得相同的貸款總額，均為250萬。", "兩家公司在相同的營業額下，貸款評估標準的應用可能會導致貸款總額存在差異。", "科技創新和綠色能源兩類企業可獲得相同的貸款總額，但此額度取決於市場條件變化。"]}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據下圖，具社會責任項目的企業類型通常擁有最低的利率。", "answer": "是", "question_group": 638}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據下圖，基準利率的企業類型通常擁有最低的利率。", "answer": "否", "question_group": 638}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，線上提交基礎資料、快速信用評估和預審批通知這三個步驟在審批時間縮短和申請通過率的百分比都是相同的。", "answer": "是", "question_group": 639}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，只有快速信用評估這個步驟在審批時間縮短和申請通過率的效果是相同的。", "answer": "否", "question_group": 639}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖片，企業增長恢復的增長加速百分比高於其他選項。", "answer": "是", "question_group": 640}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖片，企業增長恢復的增長加速百分比低於其他選項。", "answer": "否", "question_group": 640}
+

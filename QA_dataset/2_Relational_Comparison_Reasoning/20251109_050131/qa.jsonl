@@ -1,0 +1,6 @@
+{"category": "Open", "question_type": "Comparison", "question": "企業A和企業C的淨資產收益率相差多少個百分點？", "answer": "2.6個百分點"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，企業A和企業C的淨資產收益率相差多少個百分點？", "answer": "C", "choice": ["1.8個百分點", "2.4個百分點", "2.6個百分點", "3.0個百分點"]}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，企業A和企業C的淨資產收益率相差2.6個百分點。", "answer": "是", "question_group": 746}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，企業A和企業C的淨資產收益率相差1.5個百分點。", "answer": "否", "question_group": 746}
+

@@ -1,0 +1,17 @@
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "假設2023年的出生年月日錯誤案件數增加10%，新的案件數會是多少？", "answer": "286"}
+{"category": "Open", "question_type": "Aggregation", "question": "在所有年齡段中，收入在3萬元以下的人群比例總和是多少？", "answer": "18%"}
+{"category": "Open", "question_type": "Aggregation", "question": "假設2023年利息未達2萬元和超過2萬元的比例之和必須是100%，那麼這兩個比例加起來是多少？", "answer": "100%"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據給定的數據，以下哪些年齡段中，收入在3萬元以下的人群比例總和正確？（請參考相應的數據表）", "answer": "C", "choice": ["22%", "12%", "18%", "21%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "假設圖片中的2023年利息分為未達2萬元和超過2萬元兩個部分，這兩個比例加起來是多少？", "answer": "C", "choice": ["99%", "101%", "100%", "95%"]}
+{"category": "Open", "question_type": "Aggregation", "question": "哪兩個便利服務項目的使用率總和超過100%？", "answer": "64% 和 58% 的使用率總和超過100%。"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖中列出的便利服務項目，它們的使用率如下：A項目使用率為64%，B項目使用率為58%，C項目使用率為30%，D項目使用率為45%。哪兩項服務的使用率總和超過100%？", "answer": "C", "choice": ["B項目和C項目（58% + 30% = 88%）", "B項目和D項目（58% + 45% = 103%）", "A項目和B項目", "A項目和D項目（64% + 45% = 109%）"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表6的資料，如果信任度每兩年下降1%，經過十年後的信任度會是以下哪一個選項？", "answer": "D", "choice": ["91%", "97%", "92%", "94.5%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表2的資料，將所有年齡段的3萬元以下收入者百分比加總後，可能的總和是？", "answer": "B", "choice": ["21%", "18%", "22%", "20%"]}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，25-40歲、41-60歲和其他年齡段中，收入在3萬元以下的人群比例總和是18%。", "answer": "是", "question_group": 1022}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，25-40歲、41-60歲和其他年齡段中，收入在3萬元以下的人群比例總和是20%。", "answer": "否", "question_group": 1022}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023年利息未達2萬元和超過2萬元的比例加起來是100%。", "answer": "是", "question_group": 1023}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023年利息未達2萬元和超過2萬元的比例加起來是50%。", "answer": "否", "question_group": 1023}
+

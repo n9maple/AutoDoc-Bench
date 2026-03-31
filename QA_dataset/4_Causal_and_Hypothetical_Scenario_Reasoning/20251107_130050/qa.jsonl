@@ -1,0 +1,17 @@
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "健康險和意外險中，哪一個險種的事故經過敘述不完整需補件比例和事故經過描述不清補件比例之和較高？", "answer": "意外險"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果姓名不符和身分證字號不符的人加起來佔總人數的多少百分比？", "answer": "20%"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果現金支票和臨櫃領取的比例增加一倍，銀行轉帳比例會變成多少？", "answer": "74%"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果平均每件需醫療院所調閱的案件延誤5天，計算2023年所有此類案件的總延誤天數是多少？", "answer": "89000"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "在健康險與意外險的情境中，哪一類險種的事故經過敘述不完整所需補件的比例以及事故經過描述不清所需補件的比例之和較高？", "answer": "C", "choice": ["意外險通常不需要補件，因為事故經過往往簡單明瞭。", "意外險的事故補件需求極低，幾乎不需要提交額外文件。", "意外險", "健康險事故的描述通常較複雜，因此補件情況並不如意外險嚴重。"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "在一個調查中，姓名不符和身分證字號不符的參與者比例為何？請根據提供的數據選擇正確的選項。", "answer": "C", "choice": ["15%（代表小於實際比例，可能誤導參與者）", "25%（與主要錯誤比例相近，增加混淆）", "20%", "30%（超過最多的可行比例，尚不合理）"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "如果現金支票和臨櫃領取的比例增加一倍，根據下面的圖片，銀行轉帳比例會變成多少？", "answer": "C", "choice": ["50%", "68%", "74%", "76%"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據圖片中所示的資料，如果每件需醫療院所調閱的案件平均延誤5天，請問2023年所有此類案件的總延誤天數是以下哪一項？", "answer": "C", "choice": ["150000", "20000", "89000", "50000"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表6的資料，從2021年至2023年，因資料不實/文件偽造進入法律程序的案件數占總案件數的平均百分比為何？", "answer": "C", "choice": ["2.45%", "3.87%", "3.23%", "6.75%"]}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，意外險的事故經過敘述不完整所需補件的比例以及事故經過描述不清所需補件的比例之和較高。", "answer": "是", "question_group": 1375}
+
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，健康險的事故經過敘述不完整所需補件的比例以及事故經過描述不清所需補件的比例之和較高。", "answer": "否", "question_group": 1375}
+
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，姓名不符和身分證字號不符的參與者比例總和為20%。", "answer": "是", "question_group": 1376}
+
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，姓名不符和身分證字號不符的參與者比例總和為30%。", "answer": "否", "question_group": 1376}
+

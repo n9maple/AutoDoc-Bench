@@ -1,0 +1,55 @@
+{"category": "Open", "question_type": "Aggregation", "question": "週一到週五的開盤價中，最高的開盤價與最低的開盤價之差是多少？", "answer": "0.3"}
+{"category": "Open", "question_type": "Aggregation", "question": "在週一和週四的淨流入總和是多少億美元？", "answer": "0.4億美元"}
+{"category": "Open", "question_type": "Aggregation", "question": "從2023年8月到2023年10月，貿易順差的總和是多少？", "answer": "總和是72。"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "貿易順差在2023年8月到2023年10月期間的變化趨勢是增長還是下降？", "answer": "下降"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從上月到本週，PMI值的變化量是多少？", "answer": "-1.3"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖所示，週一到週五的開盤價中，最高的開盤價與最低的開盤價之差是多少？", "answer": "C", "choice": ["0.1", "0.5", "0.3", "0.2"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，在週一和週四的淨流入總和是多少億美元？", "answer": "C", "choice": ["-0.6億美元", "0.1億美元", "0.4億美元", "0.5億美元"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年8月到2023年10月的貿易數據，貿易順差的總和是多少？請參考提供的數據圖表進行選擇。", "answer": "C", "choice": ["78", "68", "72", "73"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2023年8月到2023年10月的貿易順差變化趨勢，以下哪一項描述是正確的？", "answer": "C", "choice": ["在此期間貿易順差與進口量變化有直接關聯，但進口未增加。", "在此期間貿易順差的變化幅度非常小，幾乎沒有影響。", "在此期間貿易順差呈現下降趨勢。", "在此期間貿易順差經歷了激烈的波動，整體趨勢不明確。"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據提供的數據圖表，從上月到本週的PMI值變化量是多少？", "answer": "C", "choice": ["-1.5", "-0.2", "-1.3", "2.0"]}
+{"category": "Open", "question_type": "Temporal Trend", "question": "從週一開盤到週五收盤，台灣加權指數是呈現上升還是下降趨勢？", "answer": "下降"}
+{"category": "Open", "question_type": "Temporal Trend", "question": "從2023年8月至2023年10月，台灣的外匯存底經歷了什麼樣的變化趨勢？", "answer": "從2023年8月至2023年10月，台灣的外匯存底呈現逐月下降的趨勢，每月減少10億美元，總共減少了20億美元。"}
+{"category": "Open", "question_type": "Temporal Trend", "question": "在本週初到週五期間，台灣10年期公債殖利率的波動趨勢是什麼？", "answer": "台灣10年期公債殖利率在本週初到週四期間上升，然後在週四到週五期間下降。"}
+{"category": "Open", "question_type": "Temporal Trend", "question": "在2023年10月至12月期間，台灣央行的基準利率和重貼現率是否保持穩定？", "answer": "在2023年10月至12月期間，台灣央行的基準利率和重貼現率保持穩定，均為1.125%。"}
+{"category": "Open", "question_type": "Aggregation", "question": "2023年10月至12月，三年期和五年期定存利率的平均值分別是多少？", "answer": "三年期定存利率的平均值是1.3%，五年期定存利率的平均值是1.5%。"}
+{"category": "Open", "question_type": "Rate of Change", "question": "從2022年到2023年，Q2季度的行動支付交易金額增長了多少億新台幣？", "answer": "900億新台幣"}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據提供的圖片，從週一開盤到週五收盤，台灣加權指數是呈現哪種趨勢？", "answer": "C", "choice": ["震蕩", "持平", "下降", "反彈"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2023年8月至2023年10月的數據，台灣的外匯存底變化趨勢是如何？", "answer": "C", "choice": ["外匯存底在8月和9月略有波動，10月穩定在某一水平", "外匯存底在8月和9月逐漸減少，但在10月根據政府政策受到影響而回升", "外匯存底逐月減少，每月減少約10億美元", "外匯存底保持在相對穩定水平，偶爾因市場環境而小幅調整"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據下列圖示，在本週初到週五期間，台灣10年期公債殖利率的波動趨勢是什麼？", "answer": "C", "choice": ["台灣10年期公債殖利率在本週初到週五期間持平，沒有顯著變化。", "台灣10年期公債殖利率在本週初到週四期間下降，然後在週四到週五期間保持不變。", "台灣10年期公債殖利率在本週初到週四期間上升，然後在週四到週五期間下降。", "台灣10年期公債殖利率在本週初到週五期間上升但幅度微小，隨後在周四到週五期間才開始明顯下降。"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2023年10月至12月的資料，臺灣央行的基準利率和重貼現率狀態為何？", "answer": "C", "choice": ["基準利率上升至1.50%，重貼現率為1.25%。", "基準利率保持在1.125%，重貼現率下降至0.75%。", "基準利率和重貼現率均保持穩定，為1.125%.", "基準利率為1.0%，重貼現率則為1.125%。"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年10月至12月的數據，三年期和五年期定存利率的平均值是多少？請參考下列選項。", "answer": "C", "choice": ["三年期定存利率的平均值是1.4%，五年期定存利率的平均值是1.6%。", "三年期定存利率的平均值是1.5%，五年期定存利率的平均值是1.3%。", "三年期定存利率的平均值是1.3%，五年期定存利率的平均值是1.5%。", "三年期定存利率的平均值是1.2%，五年期定存利率的平均值是1.5%。"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據所提供的資料，2022年到2023年Q2季度的行動支付交易金額增長了多少億新台幣？以下哪一選項是正確的？", "answer": "C", "choice": ["750億新台幣", "1200億新台幣", "900億新台幣", "300億新台幣"]}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表7的資料，2023年Q1的數值和Q4的數值的平均值是多少？", "answer": "1.95億美元"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表5的資料，將對中國、東南亞、美國和歐洲的出口額合計起來，這些出口額佔總出口額的百分比是多少？", "answer": "100%"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表4的資料，下列哪一項是上月和本週的PMI值平均值？", "answer": "D", "choice": ["52.00", "50.75", "50.5", "51.15"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表3的資料，2023年8月到10月的貿易順差總和是多少？以下哪一項是正確的總和？", "answer": "B", "choice": ["78", "72", "70", "74"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表7的資料，2023年Q1的數值和Q4的數值的平均值可能是以下哪個選項？", "answer": "B", "choice": ["2.00億美元", "1.95億美元", "1.92億美元", "1.85億美元"]}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，所有指標的數值總和為1550。", "answer": "是", "question_group": 1171}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，所有指標的數值總和為1000。", "answer": "否", "question_group": 1171}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，台灣10年期公債殖利率在本週初到週四期間上升，然後在週四到週五期間下降。", "answer": "是", "question_group": 1172}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，台灣10年期公債殖利率在本週初到週四期間下降，然後在週四到週五期間上升。", "answer": "否", "question_group": 1172}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，台灣的外匯存底從2023年8月至2023年10月，每月減少約10億美元。", "answer": "是", "question_group": 1173}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，台灣的外匯存底從2023年8月至2023年10月，每月增加約10億美元。", "answer": "否", "question_group": 1173}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，週一到週五的開盤價中，最高開盤價與最低開盤價之差為0.3。", "answer": "是", "question_group": 1174}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，週一到週五的開盤價中，最高開盤價與最低開盤價之差為0.5。", "answer": "否", "question_group": 1174}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，三年期定存利率的平均值是1.3%，五年期定存利率的平均值是1.5%。", "answer": "是", "question_group": 1175}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，三年期定存利率的平均值是1.4%，五年期定存利率的平均值是1.6%。", "answer": "否", "question_group": 1175}
+
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從上月到本週的PMI值變化量是-1.3。", "answer": "是", "question_group": 1176}
+
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從上月到本週的PMI值變化量是1.3。", "answer": "否", "question_group": 1176}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，週一和週四的淨流入總和是0.4億美元。", "answer": "是", "question_group": 1177}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，週一和週四的淨流入總和是0.6億美元。", "answer": "否", "question_group": 1177}
+

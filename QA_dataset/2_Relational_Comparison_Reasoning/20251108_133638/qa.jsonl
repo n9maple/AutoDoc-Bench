@@ -1,0 +1,15 @@
+{"category": "Open", "question_type": "Comparison", "question": "受訪者對於信息系統整合和統一聯繫窗口的建議比例是否相同？", "answer": "是的，受訪者對於信息系統整合和統一聯繫窗口的建議比例相同。"}
+{"category": "Open", "question_type": "Comparison", "question": "詳細賠付計算單和專人服務解釋的受訪者需求比例是否相同？", "answer": "詳細賠付計算單和專人服務解釋的受訪者需求比例相同。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據受訪者的意見，信息系統整合和統一聯繫窗口的建議比例是否一致？", "answer": "C", "choice": ["不，統一聯繫窗口的建議比例較高，但信息系統整合的建議依然重要。", "不，受訪者中對整合的支持率遠低於統一聯繫窗口。", "是的，受訪者的建議比例相同。", "是的，雖然整合未獲得廣泛支持，但所有受訪者對於統一聯繫窗口的看法一致。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片描述，受訪者對於詳細賠付計算單和專人服務解釋的需求比例是否相同？", "answer": "C", "choice": ["受訪者需求比例不同，但對服務的期待不一樣。", "受訪者對專人服務的需求更高。", "受訪者需求比例相同。", "受訪者需求比例不同，專人服務解釋的需求高於詳細賠付計算單。"]}
+{"category": "Open", "question_type": "Comparison", "question": "哪一個問題類型的受訪者提及比例最低？", "answer": "問題類型 8 的受訪者提及比例最低"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖表中的受訪者回應，哪一種問題類型的提及比例最低？", "answer": "C", "choice": ["問題類型 5 的受訪者提及比例為 10%，表示其問題較少受到關注", "問題類型 3 的受訪者提及比例為 15%，顯示出較低的關注度", "問題類型 8 的受訪者提及比例最低", "所有問題類型的提及比例分佈均為 25%，顯示受訪者無偏好"]}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖2，哪一個問題類型的反映比例最低？", "answer": "問題類型 8 的反映比例最低"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖表，問題類型 8 的受訪者提及比例是最低的。", "answer": "是", "question_group": 656}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖表，問題類型 10 的受訪者提及比例是最低的。", "answer": "否", "question_group": 656}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，受訪者對於詳細賠付計算單和專人服務解釋的需求比例都是8%。", "answer": "是", "question_group": 657}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，受訪者對於詳細賠付計算單的需求比例是10%。", "answer": "否", "question_group": 657}
+

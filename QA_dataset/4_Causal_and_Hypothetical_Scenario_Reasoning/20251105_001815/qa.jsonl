@@ -1,0 +1,6 @@
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "計算科技業中浮動股利與混合股利的總和，然後比較這個總和與能源業的特別股利比例，哪個較高？", "answer": "科技業的浮動股利與混合股利的總和較高"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據下列數據，科技業中的浮動股利與混合股利的總和與能源業的特別股利比例相比，哪一項較高？（請參考圖片數據）", "answer": "C", "choice": ["科技業的股利總和和能源業相當", "能源業的股利發放模式與科技業無實質差異", "科技業的浮動股利與混合股利的總和較高", "科技業的特別股利比例高於能源業"]}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，科技業的浮動股利與混合股利的總和超過80%，高於能源業的特別股利超過60%。", "answer": "是", "question_group": 1178}
+
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，能源業的特別股利超過80%，高於科技業的浮動股利與混合股利的總和超過60%。", "answer": "否", "question_group": 1178}
+

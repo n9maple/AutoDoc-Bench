@@ -1,0 +1,21 @@
+{"category": "Open", "question_type": "Difference Calculation", "question": "最高與最低的活動指標交易數量差距是多少?", "answer": "999250"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "在2025年交易監控系統效能圖表中，數值最高與最低的指標之間的差距是多少？", "answer": "199999250"}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據下圖，最高與最低的活動指標交易數量差距是？", "answer": "C", "choice": ["150000", "1072000", "999250", "850000"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據2025年交易監控系統效能圖表，數值最高與最低的指標之間的差距為何？", "answer": "C", "choice": ["199999700", "199998500", "199999250", "199999800"]}
+{"category": "Open", "question_type": "Ranking", "question": "在2025年交易監控系統效能圖表中，數值最低的指標位於第幾個數據點？", "answer": "數值最低的指標位於第2個數據點"}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據2025年交易監控系統效能圖表，數值最低的指標位於哪個數據點？", "answer": "C", "choice": ["數據中沒有最低值", "第1個數據點", "第2個數據點", "第4個數據點"]}
+{"category": "Open", "question_type": "Comparison", "question": "在圖6中，是否有任意兩個策略類別的具體行動數量是相同的？", "answer": "是，任意兩個策略類別的具體行動數量是相同的。"}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖1，數值較高的指標是多少？", "answer": "200000000"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "根據圖4的資料，指標5和指標7的次數差是多少？", "answer": "2"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "根據圖5，兩個培訓類型的參與人數相差多少？", "answer": "500"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "根據圖2，兩個活動指標的交易數量差異是多少？", "answer": "999250"}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖5，以下哪一個選項正確表示兩個培訓類型的參與人數相差的數字？", "answer": "A", "choice": ["500", "700", "400", "600"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖3，指標為750的數值相較於其他指標的情況是怎樣的？", "answer": "A", "choice": ["指標為750的數值相較於其他指標是低的。", "指標為750的數值顯示出行業的一個常見水準，但不是最佳選擇。", "指標為750的數值在所有指標中是最低的。", "指標為750的數值在一些指標中與其他指標持平。"]}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，數值最低的指標位於第2個數據點。", "answer": "是", "question_group": 286}
+
+{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，數值最低的指標位於第1個數據點。", "answer": "否", "question_group": 286}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，人工智能領域在2023年到2025年間的投資增幅最大。", "answer": "是", "question_group": 287}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，技術升級領域在2023年到2025年間的投資增幅最大。", "answer": "否", "question_group": 287}
+

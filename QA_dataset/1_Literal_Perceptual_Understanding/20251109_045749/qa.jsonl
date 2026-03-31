@@ -1,0 +1,14 @@
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據下列圖表，哪一年 VaR 置信水平最高？", "answer": "C", "choice": ["2019 年", "2020 年", "2023 年", "2022 年"]}
+{"category": "Open", "question_type": "Fact Lookup", "question": "數值最高的策略類型的採用率是多少?", "answer": "70%"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "三個技術項目的採用率/投資比例中，最左邊的技術採用率是多少？", "answer": "80%"}
+{"category": "Open", "question_type": "Proportion", "question": "在2023年自動化監控系統的實施率中，未實施的百分比是多少？", "answer": "15.0%"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "在下圖中，三個技術項目的採用率及投資比例顯示，您能告訴我最左邊的技術的採用率是多少？", "answer": "C", "choice": ["70%", "85%", "80%", "95%"]}
+{"category": "MCQ", "question_type": "Proportion", "question": "根據2023年自動化監控系統的實施狀況，以下哪一項代表未實施的百分比？", "answer": "C", "choice": ["25.0%", "5.0%", "15.0%", "12.0%"]}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，數值最高的策略類型的採用率是 70%。", "answer": "是", "question_group": 248}
+
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，數值最高的策略類型的採用率是 65%。", "answer": "否", "question_group": 248}
+
+{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，2023年自動化監控系統的未實施百分比為15.0%。", "answer": "是", "question_group": 249}
+
+{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，2023年自動化監控系統的未實施百分比為20.0%。", "answer": "否", "question_group": 249}
+

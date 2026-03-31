@@ -1,0 +1,15 @@
+{"category": "Open", "question_type": "Peak/Valley", "question": "在所提供的年份中，全球區塊鏈金融市場規模的峰值出現在哪一年？", "answer": "2028年"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "2024年的區塊鏈金融市場規模是多少億美元？", "answer": "192億美元"}
+{"category": "Open", "question_type": "Peak/Valley", "question": "從2023年至2027年，市場合作的合作次數有無出現任何峰值或谷值？", "answer": "市場合作的合作次數在2025年和2026年達到峰值2次，而在2023年、2024年和2027年為谷值1次。"}
+{"category": "MCQ", "question_type": "Peak/Valley", "question": "在所提供的年份中，全球區塊鏈金融市場規模的峰值出現在哪一年？（參考圖片中的數據）", "answer": "C", "choice": ["2025年", "2026年", "2028年", "2027年"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2024年的預測，區塊鏈金融市場的規模將接近以下哪個數字？", "answer": "C", "choice": ["150億美元", "300億美元", "192億美元", "250億美元"]}
+{"category": "MCQ", "question_type": "Peak/Valley", "question": "根據2023年至2027年的數據，市場合作的合作次數在哪些年份出現峰值或谷值？", "answer": "C", "choice": ["在2026年和2027年達到峰值2次，而在2023年、2024年和2025年為谷值1次。", "在2024年達到峰值3次，而在2023年和2025年為谷值2次。", "在2025年和2026年達到峰值2次，而在2023年、2024年和2027年為谷值1次。", "在2023年和2024年達到峰值1次，而在2025年和2026年為谷值2次。"]}
+{"category": "MCQ", "question_type": "Peak/Valley", "question": "根據圖8，從2023年到2027年，在2025年達到了數量的高峰的合作類型是哪些？", "answer": "C", "choice": ["只進行市場合作，沒有其他合作類型", "技術共享和獨立開發達到高峰", "技術共享、聯合開發和市場合作", "技術共享、資金投入與其他類型無關"]}
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據表格，全球區塊鏈金融市場規模的峰值出現在2028年。", "answer": "是", "question_group": 229}
+
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據表格，全球區塊鏈金融市場規模的峰值出現在2023年。", "answer": "否", "question_group": 229}
+
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2024年的區塊鏈金融市場規模將接近192億美元。", "answer": "是", "question_group": 230}
+
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2024年的區塊鏈金融市場規模將接近100億美元。", "answer": "否", "question_group": 230}
+

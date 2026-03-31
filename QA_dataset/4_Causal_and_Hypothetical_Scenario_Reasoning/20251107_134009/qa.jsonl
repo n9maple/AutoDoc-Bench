@@ -1,0 +1,22 @@
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "從2022年到2023年，即時公告件數增加了多少，這個增幅佔2022年全年總揭露件數的比例是多少？", "answer": "即時公告件數增加了500件，這個增幅佔2022年全年總揭露件數的比例約為6.17%。"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果每場活動平均有多少人參與，那麼這些活動的總參與人次是否超過了每場活動平均參與人次的50倍？", "answer": "這些活動的總參與人次超過了每場活動平均參與人次的50倍。"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "2023 年第三季財報公告件數占當年公告總件數的百分比是多少？", "answer": "24.97%"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "從2021年到2023年，股東會決議件數的增長總共是多少？", "answer": "股東會決議件數的增長總共是50。"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "2023 年有多少提案不是盈餘分配案？", "answer": "22"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據2022年與2023年的即時公告變化，從2022年到2023年即時公告件數增加了多少，並且這個增幅佔2022年全年總揭露件數的比例多少？", "answer": "C", "choice": ["即時公告件數增加了700件，佔2022年全年總揭露件數的比例約為6.67%", "即時公告件數減少了500件，佔2022年全年總揭露件數的比例約為5%", "即時公告件數增加了500件，佔2022年全年總揭露件數的比例約為6.17%", "即時公告件數增加了800件，佔2022年全年總揭露件數的比例約為11.76%"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據下圖所示的活動參與數據，這些活動的總參與人次是否超過了每場活動平均參與人次的50倍？", "answer": "C", "choice": ["不是，因為計算中存在錯誤。", "是的，但這些活動的總參與人次僅僅是每場活動平均參與人次的10倍。", "是的，這些活動的總參與人次超過了每場活動平均參與人次的50倍。", "不是，這些活動的參與人次是每場活動平均參與人次的30倍。"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據2023年財報公告的統計，下列哪一項是第三季公告件數占當年公告總件數的百分比？", "answer": "C", "choice": ["22.48%", "28.14%", "24.97%", "32.76%"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據圖片所示，從2021年到2023年，股東會決議件數的增長總共是多少？", "answer": "C", "choice": ["股東會決議件數的增長總共是20。", "股東會決議件數的增長總共是70。", "股東會決議件數的增長總共是50。", "股東會決議件數的增長總共是60。"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據2023年的提案數據，有多少提案不是盈餘分配案？", "answer": "D", "choice": ["23", "27", "20", "22"]}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，從2022年到2023年即時公告件數增加了500件，這個增幅佔2022年全年總揭露件數的比例約為6.17%。", "answer": "是", "question_group": 1378}
+
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，從2022年到2023年即時公告件數增加了400件，這個增幅佔2022年全年總揭露件數的比例約為5%。", "answer": "否", "question_group": 1378}
+
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2023年提案數據顯示有22個提案不是盈餘分配案。", "answer": "是", "question_group": 1379}
+
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2023年提案數據顯示有30個提案不是盈餘分配案。", "answer": "否", "question_group": 1379}
+
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，從2021年到2023年，股東會決議件數的增長總共是50。", "answer": "是", "question_group": 1380}
+
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，從2021年到2023年，股東會決議件數的增長總共是100。", "answer": "否", "question_group": 1380}
+

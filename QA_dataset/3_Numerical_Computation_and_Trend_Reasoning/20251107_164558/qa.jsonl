@@ -1,0 +1,15 @@
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "新臺幣180元的價格是在什麼時間開始實施的？", "answer": "2024-07-01"}
+{"category": "Open", "question_type": "Aggregation", "question": "在2024-07-01起的時間段內，人民幣、港幣和澳幣的價格總和是多少新臺幣？", "answer": "新臺幣540元"}
+{"category": "Open", "question_type": "Aggregation", "question": "若將所有貨幣的調整前和調整後手續費加總，總共會是多少？", "answer": "2700"}
+{"category": "Open", "question_type": "Aggregation", "question": "2023年，所有客服渠道的使用總數是多少？", "answer": "8000"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據提供的圖片，新臺幣180元的價格是在以下哪個時間開始實施的？", "answer": "C", "choice": ["2024-04-01", "2024-08-15", "2024-07-01", "2024-05-01"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "在2024-07-01起的時間段內，根據圖片中的貨幣價格，人民幣、港幣和澳幣的價格總和是多少新臺幣？", "answer": "C", "choice": ["新臺幣580元", "新臺幣600元", "新臺幣540元", "新臺幣520元"]}
+{"category": "Open", "question_type": "Aggregation", "question": "根據2023年的數據，客服渠道的使用總數是多少？請參考以下選項來回答。\nA. 9500\nB. 8000\n", "answer": "B. 8000"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，新臺幣180元的價格是在2024-07-01開始實施的。", "answer": "是", "question_group": 1055}
+
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，新臺幣180元的價格是在2024-01-01開始實施的。", "answer": "否", "question_group": 1055}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，調整前和調整後的手續費總和確實為2760。", "answer": "是", "question_group": 1056}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，調整前和調整後的手續費總和為2700。", "answer": "否", "question_group": 1056}
+

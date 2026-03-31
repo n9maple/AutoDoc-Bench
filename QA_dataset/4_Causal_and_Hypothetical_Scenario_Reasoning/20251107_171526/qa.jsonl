@@ -1,0 +1,23 @@
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "假設每家銀行的優惠利率起跳都下降了0.1%，那麼台灣銀行和玉山銀行的優惠利率起跳之和是多少？", "answer": "4.3%"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果永豐銀行在數位轉型領域的利率提高0.05%，那麼它會超過哪些銀行的原始利率？", "answer": "提高後的永豐銀行數位轉型利率1.60%會超過玉山銀行1.45%、台新銀行1.50%的原始利率。"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "特殊專案/政府補貼貸款在2023年和2024年的最低利率各是多少，兩者之間的差異為多少？", "answer": "2023年的最低利率是1.3%，2024年的最低利率是1.5%，兩者之間的差異是0.2%。"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果傳統製造業和創新/技術型企業的信保基金擔保貸款利率區間各自取平均，哪個類別的平均利率較低？", "answer": "創新/技術型企業的平均利率較低"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果一個傳統製造業和一個創新/技術型企業各獲得其最高無擔保貸款額度，總共能獲得多少貸款？", "answer": "5500萬元"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "假設每家銀行的優惠利率起跳都下降了0.1%，下列選項中，台灣銀行和玉山銀行的優惠利率起跳之和是多少？", "answer": "C", "choice": ["4.0%", "4.4%", "4.3%", "4.1%"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "如果永豐銀行的數位轉型利率提高0.05%後，該利率為1.60%。那麼它會超過以下哪些銀行的原始利率？請根據提供的數據選出正確的選項。", "answer": "C", "choice": ["第一銀行1.70%", "國泰銀行1.65%", "玉山銀行1.45%、台新銀行1.50%", "中國信託銀行1.60%"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據2023年和2024年的特定政府補貼貸款利率，以下哪一項正確描述了兩者的差異？", "answer": "C", "choice": ["2024年的最低利率為1.4%，2023年的最低利率為1.2%，兩者之間的差異為0.2%。", "2024年的最低利率為1.5%，2023年的最低利率為1.5%，因此兩者之間的差異為0.3%。", "2024年的最低利率為1.5%，2023年的最低利率為1.3%，兩者之間的差異為0.2%。", "2024年的最低利率為1.6%，2023年的最低利率為1.4%，兩者之間的差異為0.2%。"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據下圖所示的傳統製造業與創新/技術型企業的信保基金擔保貸款利率區間，哪類別的平均利率較低？", "answer": "C", "choice": ["創新/技術型企業的利率範圍較大，但並不意味著平均利率較高", "傳統製造業的平均利率仍然高於創新/技術型企業", "創新/技術型企業的平均利率較低", "創新/技術型企業的平均利率在不同市場條件下可能相似於傳統製造業"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據下圖，如果一個傳統製造業與一個創新/技術型企業各獲得其最高無擔保貸款額度，總共能獲得多少貸款？", "answer": "C", "choice": ["5000萬元", "4500萬元", "5500萬元", "6200萬元"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表3的資料，如果2024年主流中小企業貸款的最高利率比2023年的最高利率增加了0.3%，那麼2024年的最高利率可能是多少？", "answer": "A", "choice": ["3.0%", "3.4%", "2.5%", "3.3%"]}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，永豐銀行在數位轉型利率提高0.05%後，該利率為1.60%，超過了玉山銀行的原始利率1.45%。", "answer": "是", "question_group": 1474}
+
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，永豐銀行在數位轉型利率提高0.05%後，該利率為1.60%，低於台新銀行的原始利率1.50%。", "answer": "否", "question_group": 1474}
+
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，傳統製造業與創新/技術型企業各獲得其最高無擔保貸款額度，總共能獲得5500萬元貸款。", "answer": "是", "question_group": 1475}
+
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，傳統製造業與創新/技術型企業各獲得其最高無擔保貸款額度，總共能獲得6000萬元貸款。", "answer": "否", "question_group": 1475}
+
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2024年的最低利率為1.5%，而2023年的最低利率為1.3%，兩者之間的差異為0.2%。", "answer": "是", "question_group": 1476}
+
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2023年的最低利率為1.5%，而2024年的最低利率為1.3%，兩者之間的差異為0.2%。", "answer": "否", "question_group": 1476}
+

@@ -1,0 +1,28 @@
+{"category": "Open", "question_type": "Aggregation", "question": "2023年和2024年合併總資產的平均值是多少？", "answer": "31885"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "2024年台灣人壽的金融資產期末餘額與2023年相比增加了多少百分比？", "answer": "2024年台灣人壽的金融資產期末餘額與2023年相比增加了5.88%。"}
+{"category": "Open", "question_type": "Aggregation", "question": "台灣人壽保險的解約率和投資利差的數值總和是多少？", "answer": "3.6%"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2023年到2024年，綠能投資的增長百分比是多少？", "answer": "40%"}
+{"category": "Open", "question_type": "Aggregation", "question": "2023年和2024年總投入金額的平均值是多少？", "answer": "1.45"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的圖片，2023年和2024年合併總資產的平均值是多少？", "answer": "C", "choice": ["31500", "31950", "31885", "32000"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2024年台灣人壽的金融資產期末餘額，與2023年相比，哪一個選項最正確地表達了其百分比增加幅度？", "answer": "C", "choice": ["增加了10%", "增加了2%", "增加了5.88%", "減少了1.5%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖片中顯示的數據，台灣人壽保險的解約率和投資利差的數值總和是多少？", "answer": "C", "choice": ["4.0%", "3.2%", "3.6%", "5.5%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2023年到2024年的綠能投資增長情況，以下哪一項最接近增長百分比？", "answer": "C", "choice": ["38%", "42%", "40%", "33%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖片顯示的2023年和2024年總投入金額，以下哪一選項最接近它們的平均值？", "answer": "C", "choice": ["1.50", "1.60", "1.45", "1.35"]}
+{"category": "Open", "question_type": "Aggregation", "question": "所有期間的事件數總和是多少？", "answer": "1"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表6的資料，2024年金融教育和弱勢關懷的投入總額是多少？", "answer": "0.9"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023年和2024年總投入金額的平均值是1.45。", "answer": "是", "question_group": 953}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023年和2024年總投入金額的平均值是1.55。", "answer": "否", "question_group": 953}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，這兩家公司的平均持股比率是35%。", "answer": "是", "question_group": 954}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，這兩家公司的平均持股比率是40%。", "answer": "否", "question_group": 954}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，台灣人壽保險的解約率和投資利差的數值總和是3.6%。", "answer": "是", "question_group": 955}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，台灣人壽保險的解約率和投資利差的數值總和是4.0%。", "answer": "否", "question_group": 955}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖片所示，各期間的事件數總和為 1。", "answer": "是", "question_group": 956}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖片所示，各期間的事件數總和為 2。", "answer": "否", "question_group": 956}
+

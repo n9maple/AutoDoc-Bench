@@ -1,0 +1,45 @@
+{"category": "Open", "question_type": "Comparison", "question": "哪一列的滿意度與需求改進的百分比相加結果最高？", "answer": "所有列的滿意度與需求改進的百分比相加結果都是85%，沒有單一最高的列。"}
+{"category": "Open", "question_type": "Comparison", "question": "在小額理賠和常規保險賠付中，哪一個的滿意或非常滿意比例更高，並且處理時間偏長的比例更低？", "answer": "小額理賠"}
+{"category": "Open", "question_type": "Comparison", "question": "在流程清晰度和文件提交指引中，滿意度比例相同嗎？如果是，滿意度比例是多少？", "answer": "在流程清晰度和文件提交指引中，滿意度比例相同，滿意度比例是68%。"}
+{"category": "Open", "question_type": "Comparison", "question": "數位生活方式結合產品在總受訪者與年輕受訪者中，哪一群的選擇比例較高？", "answer": "比例相同，都是20%"}
+{"category": "Open", "question_type": "Comparison", "question": "個性化服務的比例比改善溝通方式高多少百分比？", "answer": "5%"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據以下表格，符合需求的比例是否高於滿意或非常滿意的比例？", "answer": "C", "choice": ["根據統計數據，滿意度和需求符合度之間無關聯性", "滿意度表明需求符合度，因此兩者比例相同", "否", "根據市場調查，符合需求的比例較低，但滿意度相對較高"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，小額理賠和常規保險賠付中，哪一個的滿意或非常滿意比例更高，並且處理時間偏長的比例更低？", "answer": "C", "choice": ["常規保險賠付的滿意或非常滿意比例更高。", "小額理賠的處理時間偏長比例較高", "小額理賠", "小額理賠滿意度較低，但處理時間較快"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據流程清晰度和文件提交指引的滿意度比較，以下哪一項是正確的？", "answer": "C", "choice": ["流程清晰度的滿意度比例低於文件提交指引的滿意度，為65%。", "流程清晰度的滿意度比例為68%，文件提交指引的滿意度為70%。", "在兩者中，滿意度比例相同，且均為68%。", "兩者的滿意度比例都在60%以下，流程清晰度為58%，文件提交指引為62%。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖表數據，在數位生活方式結合產品的選擇比例中，總受訪者與年輕受訪者的比例比較，哪一項是正確的？", "answer": "C", "choice": ["總受訪者的選擇比例低於年輕受訪者，為10%", "總受訪者的選擇比例高於年輕受訪者，為25%", "總受訪者與年輕受訪者的選擇比例相同，都是20%", "年輕受訪者的選擇比例高於總受訪者，為5%。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片顯示的數據，個性化服務的比例相比於改善溝通方式高出多少百分比？", "answer": "C", "choice": ["8%", "12%", "5%", "20%"]}
+{"category": "Open", "question_type": "Comparison", "question": "哪個指標的滿意度百分比最低?", "answer": "指標: 60"}
+{"category": "Open", "question_type": "Comparison", "question": "所有產品類別的廣泛認可比例是否相同？", "answer": "是的，所有產品類別的廣泛認可比例相同。"}
+{"category": "Open", "question_type": "Comparison", "question": "哪個特定需求的滿意度比例最低？", "answer": "特定需求滿意度比例最低的是58%"}
+{"category": "Open", "question_type": "Comparison", "question": "哪一個指標的滿意度得分最低？", "answer": "指標 3.5 的滿意度得分最低"}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖片中最左邊兩個指標的滿意度百分比，以下哪一項是這兩者之間的差距？", "answer": "C", "choice": ["8", "5", "10", "14"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據以下數據，各種產品類別的廣泛認可比例是否相同？", "answer": "C", "choice": ["不，某些產品類別的廣泛認可比例低於其他類別。這可能取決於市場需求和消費者偏好。", "不，根據數據顯示，某些產品類別的比例高於50%，而其他類別的比例低於50%。", "是的，所有產品類別的廣泛認可比例相同。", "不，所有產品類別的廣泛認可比例雖然相似，但仍然存在微小的變化。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，各特定需求的滿意度比例中，哪一項的滿意度比例最低？", "answer": "C", "choice": ["特定需求的滿意度比例為46%", "特定需求的滿意度比例為50%", "特定需求的滿意度比例為58%", "特定需求的滿意度比例為55%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中的滿意度評分，哪一個指標的得分最低？", "answer": "D", "choice": ["指標 4.0 的滿意度得分低於指標 3.5", "各指標的得分相差不大，無法確定最低者", "指標 3.0 的滿意度得分最低，無法明確比較", "指標 3.5 的滿意度得分最低"]}
+{"category": "Open", "question_type": "Ranking", "question": "第二個數據點在所有指標中排名第幾？", "answer": "第二個數據點在所有指標中排名第2"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "在圖1中，得分最高的項目與得分最低的項目的差值是多少？", "answer": "由於缺乏具體的數據，無法計算得分最高和最低項目的差值。"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "圖3中，第一個和第三個服務渠道的滿意度百分比差異是多少？", "answer": "3%"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，個性化服務的比例相比於改善溝通方式高出5%。", "answer": "是", "question_group": 747}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，個性化服務的比例相比於改善溝通方式高出10%。", "answer": "否", "question_group": 747}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，數位生活方式結合產品在總受訪者與年輕受訪者中的選擇比例都是20%。", "answer": "是", "question_group": 748}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，數位生活方式結合產品在總受訪者中的選擇比例是30%，而在年輕受訪者中是10%。", "answer": "否", "question_group": 748}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據下圖，特定需求的滿意度比例最低的是58%。", "answer": "是", "question_group": 749}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據下圖，特定需求的滿意度比例最低的是75%。", "answer": "否", "question_group": 749}
+
+{"category": "YesNo", "question_type": "Ranking", "question": "根據下圖，第二個數據點的滿意度得分排名第2名。", "answer": "是", "question_group": 750}
+
+{"category": "YesNo", "question_type": "Ranking", "question": "根據下圖，第二個數據點的滿意度得分排名第1名。", "answer": "否", "question_group": 750}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，指標 3.5 的滿意度得分最低。", "answer": "是", "question_group": 751}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，指標 3.8 的滿意度得分最低。", "answer": "否", "question_group": 751}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，所有產品類別的廣泛認可比例都是 75%。", "answer": "是", "question_group": 752}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，某些產品類別的廣泛認可比例低於 75%。", "answer": "否", "question_group": 752}
+

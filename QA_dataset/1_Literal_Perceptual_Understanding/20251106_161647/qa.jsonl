@@ -1,0 +1,23 @@
+{"category": "Open", "question_type": "Fact Lookup", "question": "數位銀行服務採用率超過60的金融機構類型有幾個？", "answer": "1"}
+{"category": "Open", "question_type": "Peak/Valley", "question": "在所有年份中，哪一年的數位銀行用戶數達到了最高值？", "answer": "2026年的數位銀行用戶數達到了最高值，為862.5萬人。"}
+{"category": "Open", "question_type": "Peak/Valley", "question": "在2023年至2025年間，哪一年擁有最高的數位銀行用戶數？", "answer": "2025年擁有最高的數位銀行用戶數，為10.0百萬"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "2025年的數位銀行用戶數是多少？", "answer": "2025年的數位銀行用戶數是10.0百萬"}
+{"category": "Open", "question_type": "Peak/Valley", "question": "2023年至2025年期間，應用增長百分比是否有哪一年出現了明顯的峰值？", "answer": "2025年出現了明顯的峰值，應用增長百分比達到50%。"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖片，數位銀行服務採用率超過60%的金融機構類型有幾個？", "answer": "C", "choice": ["0", "2", "1", "3"]}
+{"category": "MCQ", "question_type": "Peak/Valley", "question": "根據提供的數據，哪一年的數位銀行用戶數是最高的？", "answer": "C", "choice": ["2024年", "2025年", "2026年", "2023年"]}
+{"category": "MCQ", "question_type": "Peak/Valley", "question": "根據所提供的數據，在2023年至2025年間，哪一年的數位銀行用戶數預計會最高？", "answer": "C", "choice": ["2023年的用戶數增長是最高的，因為數位銀行吸引了許多新用戶的注意", "2026年，這一年的增長預測顯示了持續的趨勢", "2025年", "2024年，雖然數位銀行在持續增長，但仍不及2025年"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據預測，2025年數位銀行用戶數將會是多少？", "answer": "C", "choice": ["8.5百萬", "11.5百萬", "10.0百萬", "13.0百萬"]}
+{"category": "MCQ", "question_type": "Peak/Valley", "question": "在2023年至2025年期間，哪一年應用增長百分比顯示出明顯的峰值？", "answer": "C", "choice": ["2024年無明顯峰值", "整體期間平均增長率無明顯峰值", "2025年", "2025年之前的任一年無明顯峰值"]}
+{"category": "MCQ", "question_type": "Peak/Valley", "question": "根據圖4的資料，以下哪一年顯示了交易總額達到5184億元的情況？", "answer": "C", "choice": ["2027年（交易總額5200億元）", "2024年（交易總額4500億元）", "2026年", "2025年（交易總額4900億元）"]}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖片，只有一個金融機構類型的數位銀行服務採用率超過60%。", "answer": "是", "question_group": 91}
+
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖片，有兩個金融機構類型的數位銀行服務採用率超過60%。", "answer": "否", "question_group": 91}
+
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據表格，2025年的應用增長百分比顯示出明顯的峰值。", "answer": "是", "question_group": 92}
+
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據表格，2024年的應用增長百分比顯示出比2025年更明顯的峰值。", "answer": "否", "question_group": 92}
+
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據表格，2026年的數位銀行用戶數是最高的。", "answer": "是", "question_group": 93}
+
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據表格，2025年的數位銀行用戶數是最高的。", "answer": "否", "question_group": 93}
+

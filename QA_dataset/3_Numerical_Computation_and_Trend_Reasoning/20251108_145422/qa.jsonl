@@ -1,0 +1,9 @@
+{"category": "Open", "question_type": "Aggregation", "question": "中小企業在固定資產貸款和行業專案貸款上的總佔比是多少？", "answer": "40%"}
+{"category": "Open", "question_type": "Aggregation", "question": "如果將整個流程的每個步驟都縮短時間，需要總共多少時間完成？", "answer": "6週"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據中小企業的貸款結構，固定資產貸款和行業專案貸款占總貸款的比率約為多少？", "answer": "C", "choice": ["45%", "50%", "40%", "35%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下列流程的步驟時間縮短後，總共需要多少時間完成？以下是不同情境縮短時間後的結果：", "answer": "C", "choice": ["7週", "12週", "6週", "4週"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表4的資料，假設今天是3月1日，若每個步驟都按縮短時間進行，整個流程最晚何時完成？以下哪個日期是正確的？", "answer": "C", "choice": ["2023年4月2日", "2023年3月31日", "2023年3月29日", "2023年3月28日"]}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，中小企業在固定資產貸款和行業專案貸款上的總佔比是40%。", "answer": "是", "question_group": 1132}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，中小企業在固定資產貸款和行業專案貸款上的總佔比是50%。", "answer": "否", "question_group": 1132}
+

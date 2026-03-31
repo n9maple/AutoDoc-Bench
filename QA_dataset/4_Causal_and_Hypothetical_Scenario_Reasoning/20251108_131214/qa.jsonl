@@ -1,0 +1,6 @@
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果下一次調查結果顯示系統維護或更新中斷的比例增加到15%，滿意或非常滿意的比例需至少達到多少以保持總比例不變？", "answer": "滿意或非常滿意的比例需至少達到77%"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "如果下一次調查結果顯示系統維護或更新中斷的比例增加到15%，那麼滿意或非常滿意的比例需至少達到多少以保持總比例不變？", "answer": "C", "choice": ["滿意或非常滿意的比例需至少達到78%", "滿意或非常滿意的比例需至少達到79%", "滿意或非常滿意的比例需至少達到77%", "滿意或非常滿意的比例需至少達到76.5%"]}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，如果系統維護或更新中斷的比例增加到15%，滿意或非常滿意的比例需至少達到77%以保持總比例不變。", "answer": "是", "question_group": 1496}
+
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，如果系統維護或更新中斷的比例增加到15%，滿意或非常滿意的比例需至少達到80%以保持總比例不變。", "answer": "否", "question_group": 1496}
+

@@ -1,0 +1,54 @@
+{"category": "Open", "question_type": "Comparison", "question": "在這個表格中，2023 年的專案查核次數與多因子驗證導入公司糾紛減少的數值相差多少？", "answer": "97"}
+{"category": "Open", "question_type": "Comparison", "question": "哪一年年輕族群主動了解保險的比例更高？", "answer": "2023年年輕族群主動了解保險的比例更高"}
+{"category": "Open", "question_type": "Comparison", "question": "2025年的查詢案件數比2024年增加了多少？", "answer": "2025年的查詢案件數比2024年增加了800。"}
+{"category": "Open", "question_type": "Comparison", "question": "2025年的意見反饋數量比2023年多了多少？", "answer": "2025年的意見反饋數量比2023年多了300。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下面的表格，2023年的專案查核次數與多因子驗證導入公司糾紛減少的數值相差多少？", "answer": "C", "choice": ["96", "100", "97", "94"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下列圖片，哪一年年輕族群主動了解保險的比例較高？", "answer": "C", "choice": ["2020年年輕族群主動了解保險的比例為45%", "2021年年輕族群主動了解保險的比例為50%", "2023年年輕族群主動了解保險的比例更高", "2022年年輕族群主動了解保險的比例為50%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，2025年的查詢案件數比2024年增加了多少？", "answer": "C", "choice": ["300", "700", "800", "900"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖表，2025年的意見反饋數量比2023年增加了多少？", "answer": "C", "choice": ["150", "400", "300", "250"]}
+{"category": "Open", "question_type": "Comparison", "question": "在2023年保險業消費者申訴案件主要類型中，哪一個類型的占比最小？", "answer": "保費爭議"}
+{"category": "Open", "question_type": "Comparison", "question": "40-59歲的申訴人數量多於60歲以上的多少人？", "answer": "44"}
+{"category": "Open", "question_type": "Comparison", "question": "在2023年消費者爭議案件類型分布中，契約解釋與保單內容爭議類型的數量是其他類型爭議的幾倍？", "answer": "契約解釋與保單內容爭議類型的數量是其他類型爭議的6.4倍"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "在2023年消費者教育推動成果中，數值最高和最低的活動類型的場次差距是多少？", "answer": "280"}
+{"category": "MCQ", "question_type": "Comparison", "question": "在2023年保險業消費者申訴案件主要類型中，根據以下圖片，哪一個類型的占比最小？", "answer": "C", "choice": ["索賠程序", "服務延遲", "保費爭議", "信貸評估"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖表，40-59歲的申訴人數量超過60歲以上的申訴人數多少人？以下哪個選項是正確的？", "answer": "C", "choice": ["20", "30", "44", "38"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "在2023年消費者教育推動成果中，數值最高和最低的活動類型的場次差距是以下哪一項？", "answer": "C", "choice": ["350", "300", "280", "250"]}
+{"category": "Open", "question_type": "Ranking", "question": "在2023年保險業消費者申訴案件主要類型中，保費爭議占比在所有類型中排第幾？", "answer": "第4"}
+{"category": "Open", "question_type": "Ranking", "question": "年齡段申訴人數量最少的是哪個年齡段？", "answer": "18-29歲"}
+{"category": "Open", "question_type": "Ranking", "question": "在2023年消費者爭議案件類型分布中，按比例從低到高的排序是什麼？", "answer": "其他, 保費計算及退保相關爭議, 契約解釋與保單內容爭議, 理賠爭議"}
+{"category": "MCQ", "question_type": "Ranking", "question": "在2023年保險業消費者申訴案件中，保費爭議占比在所有類型中排名第幾？", "answer": "C", "choice": ["第1", "第2", "第4", "第3"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據圖片中不同年齡段的申訴人數量，哪一個年齡段的申訴人數量最少？", "answer": "C", "choice": ["50-59歲", "30-39歲", "18-29歲", "40-49歲"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據2023年消費者爭議案件類型分布，以下哪項排序是從低到高的正確次序？請參考提供的資料。", "answer": "C", "choice": ["保費計算及退保相關爭議, 理賠爭議, 其他, 契約解釋與保單內容爭議", "理賠爭議, 其他, 契約解釋與保單內容爭議, 保費計算及退保相關爭議", "其他, 保費計算及退保相關爭議, 契約解釋與保單內容爭議, 理賠爭議", "契約解釋與保單內容爭議, 理賠爭議, 其他, 保費計算及退保相關爭議"]}
+{"category": "Open", "question_type": "Difference Calculation", "question": "根據圖4的資料，指標80與指標68之間的比例差異是多少個百分點？", "answer": "12個百分點"}
+{"category": "Open", "question_type": "Ranking", "question": "在圖3中，哪一個年齡組別佔總人數的百分比最多？", "answer": "40-59歲"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖1的資料，理賠爭議的案件數量比保費爭議的案件數量多多少？", "answer": "C", "choice": ["理賠爭議的案件數量比保費爭議的多50件。", "理賠爭議的案件數量比保費爭議的多36件。", "理賠爭議的案件數量比保費爭議的多35件。", "理賠爭議的案件數量比保費爭議的多25件。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖3，40-59歲的申訴人數與其他所有年齡組別的總和相比，可能的差異是多少？", "answer": "B", "choice": ["10", "16", "22", "14"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖2的資料，關於2022年和2023年的百分比差異，以下哪一個選項是正確的？", "answer": "A", "choice": ["無法計算2022年和2023年的百分比差異，因為缺少具體的數據。", "2023年的成效提升了5%，這代表成效有微幅提升。", "根據可獲得的信息，2022年和2023年的百分比變化是不可知的。", "2023年的數據顯示，申訴處理成效比2022年減少了15%。"]}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，18-29歲年齡段的申訴人數量是最少的，只有8人。", "answer": "是", "question_group": 426}
+
+{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，40-59歲年齡段的申訴人數量是最少的。", "answer": "否", "question_group": 426}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2025年的查詢案件數比2024年增加了800。", "answer": "是", "question_group": 427}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2025年的查詢案件數比2024年增加了1000。", "answer": "否", "question_group": 427}
+
+{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，保費爭議在2023年保險業消費者申訴案件中占比排名第四。", "answer": "是", "question_group": 428}
+
+{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，保費爭議在2023年保險業消費者申訴案件中占比排名第二。", "answer": "否", "question_group": 428}
+
+{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，消費者爭議案件類型從低到高的正確排序是其他, 保費計算及退保相關爭議, 契約解釋與保單內容爭議, 理賠爭議。", "answer": "是", "question_group": 429}
+
+{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，消費者爭議案件類型從低到高的排序是理賠爭議, 契約解釋與保單內容爭議, 保費計算及退保相關爭議, 其他。", "answer": "否", "question_group": 429}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年全體保險公司的平均比率比2022年高出6.5個百分比點。", "answer": "是", "question_group": 430}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2022年全體保險公司的平均比率比2023年高出6.5個百分比點。", "answer": "否", "question_group": 430}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖表，40-59歲的申訴人數量超過60歲以上的申訴人數44人。", "answer": "是", "question_group": 431}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖表，60歲以上的申訴人數量超過40-59歲的申訴人數44人。", "answer": "否", "question_group": 431}
+
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，2023年消費者教育推動成果中數值最高的活動類型場次是320，數值最低的活動類型場次是40，因此它們的場次差距是280。", "answer": "是", "question_group": 432}
+
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，2023年消費者教育推動成果中數值最高的活動類型場次是320，而數值最低的活動類型場次是60，因此它們的場次差距是260。", "answer": "否", "question_group": 432}
+

@@ -1,0 +1,8 @@
+{"category": "Open", "question_type": "Part-to-Whole", "question": "在這些資金分配中，總和最低的三個項目佔總比例的百分比是多少？", "answer": "50%"}
+{"category": "MCQ", "question_type": "Part-to-Whole", "question": "根據以下資金分配圖表，總和最低的三個項目佔總比例的百分比是多少？請從下面的選項中選擇最正確的答案。", "answer": "C", "choice": ["25%", "45%", "50%", "60%"]}
+{"category": "Open", "question_type": "Fact Lookup", "question": "根據表3的資料，從2023年到2025年，電動車市場滲透率增加了多少個百分點？", "answer": "5個百分點"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據表3的資料，從2023年到2025年，電動車市場滲透率增加了多少個百分點？以下哪個選項是正確的？", "answer": "D", "choice": ["8個百分點", "4個百分點", "9個百分點", "5個百分點"]}
+{"category": "YesNo", "question_type": "Part-to-Whole", "question": "根據表格，總和最低的三個項目（廢棄物處理、可持續農業和水資源管理）佔總比例的百分比是 50%。", "answer": "是", "question_group": 225}
+
+{"category": "YesNo", "question_type": "Part-to-Whole", "question": "根據表格，總和最低的三個項目（廢棄物處理、可持續農業和水資源管理）佔總比例的百分比是 40%。", "answer": "否", "question_group": 225}
+

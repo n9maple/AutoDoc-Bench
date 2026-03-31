@@ -1,0 +1,10 @@
+{"category": "Open", "question_type": "Aggregation", "question": "教育領域和健康領域的捐贈金額加總是多少？", "answer": "3500"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，教育領域和健康領域的捐贈金額加總是多少？", "answer": "C", "choice": ["3600", "3400", "3500", "3000"]}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖表，所有指標的平均值是11.5。", "answer": "是", "question_group": 784}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖表，所有指標的平均值是10。", "answer": "否", "question_group": 784}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，教育領域和健康領域的捐贈金額加總為3500。", "answer": "是", "question_group": 785}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，教育領域和健康領域的捐贈金額加總為3000。", "answer": "否", "question_group": 785}
+

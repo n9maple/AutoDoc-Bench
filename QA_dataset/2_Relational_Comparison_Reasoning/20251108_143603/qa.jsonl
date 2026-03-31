@@ -1,0 +1,25 @@
+{"category": "Open", "question_type": "Comparison", "question": "哪一項目的預計資金投入高於軌道維護但低於車輛更新？", "answer": "車站設施擴建"}
+{"category": "Open", "question_type": "Comparison", "question": "運營收入的增幅是周邊地區GDP增幅的多少倍？", "answer": "運營收入的增幅是周邊地區GDP增幅的12.5倍。"}
+{"category": "Open", "question_type": "Comparison", "question": "哪一個項目在降低超支風險方面的百分比高於其他所有項目？", "answer": "成本控制"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據資金投入預算，以下哪一項目預計投入高於軌道維護但低於車輛更新？", "answer": "C", "choice": ["車輛維護", "電力系統升級", "車站設施擴建", "安全系統升級"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的數據，運營收入的增幅相較於周邊地區GDP增幅的倍數為多少？請參考附圖中的數據做判斷。", "answer": "C", "choice": ["運營收入的增幅是周邊地區GDP增幅的8倍。", "運營收入的增幅是周邊地區GDP增幅的20倍。", "運營收入的增幅是周邊地區GDP增幅的12.5倍。", "運營收入的增幅是周邊地區GDP增幅的5倍。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在降低超支風險的措施中，哪一個項目相對於其他選項具有更高的效率？", "answer": "C", "choice": ["財務預算審查", "項目時間管理", "成本控制", "風險評估報告"]}
+{"category": "Open", "question_type": "Comparison", "question": "車輛更新與擴充的資金分配比例與研發和環境友好型技術的比例差距是多少？", "answer": "30.0%"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據所提供的資金分配比例，車輛更新與擴充的資金比例與研發和環境友好型技術的比例差距是多少？請根據下圖進行選擇。", "answer": "C", "choice": ["40.0%", "25.0%", "30.0%", "15.0%"]}
+{"category": "Open", "question_type": "Ranking", "question": "在風險管理委員會領域專家數量分佈中，哪一個領域的專家數量最少？", "answer": "法律"}
+{"category": "MCQ", "question_type": "Ranking", "question": "在風險管理委員會領域專家數量分佈中，根據下圖，哪一個領域的專家數量最少？", "answer": "C", "choice": ["資訊科技", "醫療", "法律", "財務"]}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖3，所有市場的合規性要求數量是否完全相同？", "answer": "是，所有市場的合規性要求數量完全相同。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表2的資料，運營收入增幅相對於周邊地區GDP增幅的倍數是多少？", "answer": "B", "choice": ["運營收入的增幅是周邊地區GDP增幅的11.5倍", "運營收入的增幅是周邊地區GDP增幅的12.5倍", "運營收入的增幅是周邊地區GDP增幅的14倍", "運營收入的增幅是周邊地區GDP增幅的10倍"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖1，車輛更新與擴充的資金分配比例比軌道與基礎設施維護及升級高出多少個百分點？", "answer": "A", "choice": ["20個百分點", "5個百分點", "15個百分點", "10個百分點"]}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，車輛更新與擴充的資金分配比例與研發和環境友好型技術的比例差距是30.0%。", "answer": "是", "question_group": 694}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，車輛更新與擴充的資金分配比例與研發和環境友好型技術的比例差距是20.0%。", "answer": "否", "question_group": 694}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，運營收入的增幅是周邊地區GDP增幅的12.5倍。", "answer": "是", "question_group": 695}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，運營收入的增幅是周邊地區GDP增幅的6倍。", "answer": "否", "question_group": 695}
+
+{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，法律領域的專家數量是最少的。", "answer": "是", "question_group": 696}
+
+{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，工程領域的專家數量是最少的。", "answer": "否", "question_group": 696}
+

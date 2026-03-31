@@ -1,0 +1,47 @@
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2022年到2023年，哪一家公司在營收上增長最多？", "answer": "Ant Group在營收上增長最多，增長了300億美元。"}
+{"category": "Open", "question_type": "Aggregation", "question": "中小企業主和自由職業者的實際使用率平均是多少？", "answer": "52.5%"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2023年到2025年，AI技術投資額的年均增長是多少？", "answer": "年均增長率約為19.64%"}
+{"category": "Open", "question_type": "Aggregation", "question": "亞太地區和新興市場的分支機構數量總和是多少？", "answer": "90"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據下列圖表，從2022年到2023年，哪一家公司在營收上增長最多？", "answer": "C", "choice": ["Alibaba增長了200億美元", "JD.com增長了150億美元", "Ant Group增長了300億美元", "ByteDance增長了300億美元"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖片中提供的資訊，2022年這三家公司合計的總營收為多少億美元？", "answer": "C", "choice": ["3000億美元", "3400億美元", "3384億美元", "3250億美元"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據統計，中小企業主和自由職業者的實際使用率平均是多少？", "answer": "C", "choice": ["40.0%", "70.0%", "52.5%", "48.5%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據預測，從2023年到2025年，AI技術的年均增長率可能是多少？", "answer": "C", "choice": ["約22.34%", "約15.50%", "約19.64%", "約18.75%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的圖片，亞太地區和新興市場的分支機構數量總和是多少？", "answer": "C", "choice": ["88", "92", "90", "85"]}
+{"category": "Open", "question_type": "Temporal Trend", "question": "從2022年到2024年，花旗銀行的數位化投資額呈現了什麼樣的趨勢？", "answer": "花旗銀行的數位化投資額從2022年到2024年呈現穩定增長的趨勢，每年增加5億美元。"}
+{"category": "Open", "question_type": "Temporal Trend", "question": "2022年到2023年間，FirstPay平台的用戶數量呈現什麼樣的趨勢變化？", "answer": "從2022年到2023年，FirstPay平台的用戶數量呈現上升趨勢，增加了100萬用戶，增長了25%。"}
+{"category": "Open", "question_type": "Rate of Change", "question": "從2025年到2026年，全球區塊鏈金融市場規模增長的百分比是多少？", "answer": "60%"}
+{"category": "Open", "question_type": "Aggregation", "question": "從2023年至2028年間，全球區塊鏈金融市場規模的總和是多少？", "answer": "3155.44億美元"}
+{"category": "Open", "question_type": "Rate of Change", "question": "從2025年到2026年，聯合開發的合作次數改變了多少？", "answer": "0"}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖表，花旗銀行的數位化投資額從2022年到2024年呈現了什麼樣的趨勢？", "answer": "C", "choice": ["花旗銀行的數位化投資額從2022年到2024年減少了5億美元。", "花旗銀行的數位化投資額在2022年到2024年間增加至120億美元。", "花旗銀行的數位化投資額每年穩定增加5億美元。", "花旗銀行的數位化投資額在2022年至2024年間波動不定，最終增至10億美元。"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2022年到2023年間的數據，FirstPay平台的用戶數量呈現何種趨勢？", "answer": "D", "choice": ["用戶數量逐年下降，2023年比2022年減少了50萬用戶。", "用戶數量增長了50%，增加了150萬用戶。", "2023年用戶數量增長了15%，增加了60萬用戶。", "用戶數量增長了25%，增加了100萬用戶。"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據提供的數據，預測從2025年到2026年，全球區塊鏈金融市場規模增長的百分比是？", "answer": "C", "choice": ["50%", "70%", "60%", "65%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖片中顯示的數據，從2023年至2028年間，全球區塊鏈金融市場的預測總和是多少？", "answer": "C", "choice": ["3150.44億美元", "3200億美元", "3155.44億美元", "3100億美元"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖片顯示，從2025年到2026年，聯合開發的合作次數有何變化？", "answer": "C", "choice": ["合作次數減少，但預計會因新的市場策略而有所回升", "合作次數在2025年達到高峰，隨後由於需求下降進入下行趨勢", "合作次數沒有改變", "合作次數在2026年與2025年相同，但未來將根據技術進步而改變"]}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表3的資料，實際使用中小企業主和自由職業者的平均滿意度是多少？", "answer": "69%"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表3的資料，自由職業者的滿意度若每年增加1.5%，在多少年後可以達到75%的滿意度？以下哪個選項是正確的？", "answer": "C", "choice": ["3年", "7年", "5年", "9年"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表3的資料，以下哪個選項最接近中小企業主和自由職業者的平均滿意度？", "answer": "B", "choice": ["72%", "69%", "68%", "70%"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據某報告中的圖表，2024年的全球線上貸款市場規模相較於2023年有哪些可能的增長金額？", "answer": "A", "choice": ["450億美元", "480億美元", "550億美元", "420億美元"]}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，從2022年到2023年，FirstPay平台的用戶數量增加了100萬人。", "answer": "是", "question_group": 1099}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，從2022年到2023年，FirstPay平台的用戶數量保持不變。", "answer": "否", "question_group": 1099}
+
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2023年到2025年，AI技術投資的年均增長率約為19.64%。", "answer": "是", "question_group": 1100}
+
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2023年到2025年，AI技術的年均增長率約為30%。", "answer": "否", "question_group": 1100}
+
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖片，從2025年到2026年，聯合開發的合作次數沒有改變。", "answer": "是", "question_group": 1101}
+
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖片，從2025年到2026年，聯合開發的合作次數增加了。", "answer": "否", "question_group": 1101}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，亞太地區和新興市場的分支機構數量總和是90。", "answer": "是", "question_group": 1102}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，亞太地區的分支機構數量是60。", "answer": "否", "question_group": 1102}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年PayPal、Square和Ant Group三家公司的合計總營收為3384億美元。", "answer": "是", "question_group": 1103}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年PayPal、Square和Ant Group三家公司的合計總營收為2000億美元。", "answer": "否", "question_group": 1103}
+
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，從2025年到2026年，全球區塊鏈金融市場規模的增長百分比是60%。", "answer": "是", "question_group": 1104}
+
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，從2025年到2026年，全球區塊鏈金融市場規模的增長百分比是80%。", "answer": "否", "question_group": 1104}
+

@@ -1,0 +1,38 @@
+{"category": "Open", "question_type": "Comparison", "question": "昨天與今天相比，櫃買指數的成交金額減少了多少？", "answer": "60億元"}
+{"category": "Open", "question_type": "Comparison", "question": "塑化的成交比重與生技醫療相比，哪個較高？", "answer": "塑化的成交比重較高"}
+{"category": "Open", "question_type": "Comparison", "question": "哪一家公司在投信買賣超中表現最佳？", "answer": "合一"}
+{"category": "Open", "question_type": "Comparison", "question": "2024年5月電子零組件產值增幅與資通訊設備產值增幅相比，哪一項增幅較大？", "answer": "電子零組件產值增幅較大"}
+{"category": "Open", "question_type": "Comparison", "question": "在2024年6月，外資的資金流出與自營商的資金流入相比，哪一方的金額更大？", "answer": "外資的資金流出金額更大"}
+{"category": "Open", "question_type": "Comparison", "question": "今天的收盤指數與明日預期收盤指數的差距是多少？", "answer": "40"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的圖片，櫃買指數的成交金額相比昨天減少了多少？", "answer": "C", "choice": ["59億元", "61億元", "60億元", "62億元"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，塑化的成交比重和生技醫療的成交比重相比，哪項較高？", "answer": "C", "choice": ["生技醫療的成交比重顯著低於塑化", "市場趨勢與成交比重變化無關", "塑化的成交比重較高", "塑化的成交比重與其他類股相當"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中的投信買賣超數據，哪一家公司表現最佳？", "answer": "C", "choice": ["大立光", "鴻海", "合一", "聯發科"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2024年5月的數據，以下哪一項產值增幅較大？請參考相關情境數據進行比較。", "answer": "C", "choice": ["化妝品產值增幅為3%", "汽車產值增幅為5%", "電子零組件產值增幅較大", "半導體產值增幅為7%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2024年6月的資金流向比較，以下哪一方的金額更大？（請參考提供的資料圖）", "answer": "C", "choice": ["外資的資金流出金額小於本國資金的流出金額", "外資的資金流入金額與本國資金的流出金額相等", "外資的資金流出金額更大", "外資的資金流入金額小於本國資金的流入金額"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據今天的收盤指數，預測明日收盤指數可能出現的差距，以下哪一項最符合預期？", "answer": "C", "choice": ["50", "30", "40", "75"]}
+{"category": "Open", "question_type": "Difference Calculation", "question": "第二個數據點的盤中最高漲幅與最後一個數據點相比，差距是多少？", "answer": "1.0"}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖表上顯示的數據，第二個數據點的盤中最高漲幅與最後一個數據點相比，差距是多少？", "answer": "C", "choice": ["2.0", "0.3", "1.0", "1.2"]}
+{"category": "Open", "question_type": "Ranking", "question": "漲跌幅最低的前三個數據點分別是多少？", "answer": "-0.8, -0.7, -0.5"}
+{"category": "Open", "question_type": "Ranking", "question": "從高到低排名，第二個股市指數的漲跌幅是多少？", "answer": "-0.3"}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據下圖中股市指數的漲跌幅，第二個股市指數的漲跌幅是多少？", "answer": "C", "choice": ["0.4", "-0.1", "-0.3", "-0.6"]}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖5，哪一個股市指數的漲跌幅最低？", "answer": "-0.7"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，今天的收盤指數是18,320，明日預期的收盤指數是18,360，差距是40。", "answer": "是", "question_group": 580}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，今天的收盤指數是18,320，明日預期的收盤指數是18,360，差距是50。", "answer": "否", "question_group": 580}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2024年6月外資的資金流出金額為42億元，這比自營商的資金流入金額7億元更大。", "answer": "是", "question_group": 581}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2024年6月自營商的資金流入金額為42億元，這比外資的資金流出金額7億元更大。", "answer": "否", "question_group": 581}
+
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據下圖，數值最高的項目是28500，最低的項目是-1200，它們之間的差距是29700。", "answer": "是", "question_group": 582}
+
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據下圖，數值最高的項目是28500，最低的項目是320，它們之間的差距是29700。", "answer": "否", "question_group": 582}
+
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖表，第二個數據點的盤中最高漲幅與最後一個數據點相比，差距是1.0。", "answer": "是", "question_group": 583}
+
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖表，第二個數據點的盤中最高漲幅與最後一個數據點相比，差距是0.5。", "answer": "否", "question_group": 583}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，櫃買指數的成交金額相比昨天減少了60億元。", "answer": "是", "question_group": 584}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，櫃買指數的成交金額相比昨天減少了30億元。", "answer": "否", "question_group": 584}
+

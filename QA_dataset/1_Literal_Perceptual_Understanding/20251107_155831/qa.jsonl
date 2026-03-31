@@ -1,0 +1,14 @@
+{"category": "Open", "question_type": "Fact Lookup", "question": "哪個產業的成交比重是最低的？", "answer": "造紙"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "在2024年5月，外資淨匯入金額是多少？", "answer": "280"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2024年5月的數據，外資淨匯入金額為下列哪一項？", "answer": "C", "choice": ["275", "290", "280", "300"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據下面的表格，今天的指數是否在預期波動區間內？", "answer": "C", "choice": ["否，因為指數已低於歷史平均水平，因此不在波動範圍內。", "指數在波動範圍外，因為技術指標顯示出不穩定性。", "是", "即使指數在波動範圍內，但依然可能面臨驟降風險。"]}
+{"category": "Open", "question_type": "Fact Lookup", "question": "個股或族群中，盤中最高漲幅的最低數值是多少？", "answer": "2.2"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據下圖，個股或族群中，盤中最高漲幅的最低數值是多少？", "answer": "C", "choice": ["3.0", "2.1", "2.2", "2.0"]}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據下圖，盤中最高漲幅的最低數值是 2.2。", "answer": "是", "question_group": 191}
+
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據下圖，盤中最高漲幅的最低數值是 3.2。", "answer": "否", "question_group": 191}
+
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2024年5月的外資淨匯入金額為280。", "answer": "是", "question_group": 192}
+
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2024年5月的外資淨匯入金額為150。", "answer": "否", "question_group": 192}
+

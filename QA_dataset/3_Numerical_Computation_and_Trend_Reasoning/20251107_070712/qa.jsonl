@@ -1,0 +1,21 @@
+{"category": "Open", "question_type": "Aggregation", "question": "如果我們將平均流動比率和平均負債比率的數值相加，結果是多少？", "answer": "208%"}
+{"category": "Open", "question_type": "Aggregation", "question": "所有案件的平均評分中，哪個評分項目的差異最大，並計算這個差異？", "answer": "平均財務狀況評分的差異最大，差異為3.3"}
+{"category": "Open", "question_type": "Aggregation", "question": "如果我們將循環性授信和分期撥款的平均撥款次數相加，這個總和是多少？", "answer": "7"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下方圖表，若將平均流動比率與平均負債比率的數值相加，結果是？", "answer": "C", "choice": ["190%", "230%", "208%", "195%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據以下圖表，將循環性授信和分期撥款的平均撥款次數相加後的總和是？", "answer": "C", "choice": ["6", "8", "7", "9"]}
+{"category": "Open", "question_type": "Temporal Trend", "question": "從2021年至2023年，線上申請比率的變化趨勢是如何的？", "answer": "從2021年至2023年，線上申請比率呈現逐年上升的趨勢，從35%增加到60%。"}
+{"category": "Open", "question_type": "Rate of Change", "question": "從2021年到2023年，平均所需文件數的變化率是多少？", "answer": "-14.29%"}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "從2021年至2023年，根據所示數據，線上申請比率在這段期間的變化趨勢是什麼？", "answer": "C", "choice": ["線上申請比率在此期間顯示出上下波動，特別是在2022年出現大幅下降。", "線上申請比率在2022年有所增長，但在2023年回落到45%。", "線上申請比率逐年上升，從35%增加到60%。", "線上申請比率在2021年與2022年持平，直到2023年才小幅上升至50%。"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據2021年到2023年的資料，平均所需文件數的變化率為以下哪一選項？", "answer": "C", "choice": ["-15%", "-10%", "-14.29%", "-25%"]}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，從2021年至2023年，線上申請比率逐年上升，從35%增至60%。", "answer": "是", "question_group": 938}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，從2021年至2023年，線上申請比率逐年下降，從35%減少到20%。", "answer": "否", "question_group": 938}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，循環性授信和分期撥款的平均撥款次數相加後的總和是7。", "answer": "是", "question_group": 939}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，循環性授信和分期撥款的平均撥款次數相加後的總和是8。", "answer": "否", "question_group": 939}
+
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，2021年到2023年的平均所需文件數的變化率為-14.29%。", "answer": "是", "question_group": 940}
+
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，2021年到2023年的平均所需文件數的變化率為10%。", "answer": "否", "question_group": 940}
+

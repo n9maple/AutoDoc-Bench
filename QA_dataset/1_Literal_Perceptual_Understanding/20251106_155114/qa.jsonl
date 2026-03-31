@@ -1,0 +1,39 @@
+{"category": "Open", "question_type": "Part-to-Whole", "question": "依據2025年第二季臺灣外匯市場主要貨幣對交易量比例，所有交易量比例超過15%的貨幣對有哪些？", "answer": "USD/TWD, EUR/TWD"}
+{"category": "Open", "question_type": "Proportion", "question": "在主要貨幣對交易量佔比中，USD/TWD 的比例是多少？", "answer": "USD/TWD 的比例是 45.0%"}
+{"category": "Open", "question_type": "Part-to-Whole", "question": "在2025年Q2外匯交易量參與者中，對沖基金和個人投資者的比例之和是多少？", "answer": "15.0%"}
+{"category": "MCQ", "question_type": "Part-to-Whole", "question": "根據2025年第二季臺灣外匯市場，哪些貨幣對的交易量比例超過15%？請參考下列選項。", "answer": "C", "choice": ["AUD/TWD, NZD/TWD", "GBP/TWD, JPY/TWD", "USD/TWD, EUR/TWD", "CNY/TWD, HKD/TWD"]}
+{"category": "MCQ", "question_type": "Proportion", "question": "在主要貨幣對交易量佔比中，根據圖片所示，USD/TWD 的比例是？", "answer": "C", "choice": ["47.0%", "44.0%", "45.0%", "46.0%"]}
+{"category": "MCQ", "question_type": "Part-to-Whole", "question": "根據2025年Q2外匯交易量的參與者比例，對沖基金和個人投資者的比例之和是多少？請根據提供的圓餅圖資訊回答下列問題。", "answer": "C", "choice": ["5.0%", "25.0%", "15.0%", "35.0%"]}
+{"category": "Open", "question_type": "Fact Lookup", "question": "在1989年臺灣外匯管制放寬後，臺灣外匯市場結構發生了哪些變化？在2022年的背景下，哪種市場參與者對市場結構影響最大？", "answer": "1989年管制放寬促使市場自由化，吸引外國投資進入，至2022年日均交易量達到350億美元。"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "在1989年臺灣外匯管制放寬後，臺灣外匯市場結構發生了哪些變化？在2022年的背景下，哪種市場參與者對市場結構影響最大？", "answer": "C", "choice": ["1989年外匯管制放寬主要提升了市場透明度及數位交易技術的發展。", "1989年後，臺灣外匯市場的效率大幅提升，主要受益於本地銀行的積極參與與市場自動化。", "1989年管制放寬促使市場自由化，吸引外國投資進入，至2022年日均交易量達到350億美元。", "1989年管制放寬促使本地企業大量參與外匯市場，導致本地企業成為主要驅動力，雖未超過外資的影響。"]}
+{"category": "Open", "question_type": "Fact Lookup", "question": "根據2025年第二季的臺灣外匯市場資料，以下哪一組貨幣對的總交易量佔總交易比例最多？此外，哪些宏觀經濟因素最顯著地影響了這些貨幣對的交易活躍度？", "answer": "USD/TWD和EUR/TWD的交易量共佔65%。美元受美國貨幣政策影響，歐元因歐洲經濟復甦和央行政策推動。"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2025年第二季的臺灣外匯市場資料，以下哪一組貨幣對的總交易量佔總交易比例最多？此外，哪些宏觀經濟因素最顯著地影響了這些貨幣對的交易活躍度？", "answer": "C", "choice": ["USD/TWD的交易量佔全部的50%。美元主要因美國貨幣政策和全球經濟不確定性影響。", "USD/TWD和JPY/TWD的交易量共佔60%。美元受美聯儲政策影響，日圓因避險需求增加。", "USD/TWD和EUR/TWD的交易量共佔65%。美元受美國貨幣政策影響，歐元因歐洲經濟復甦和央行政策推動。", "EUR/TWD和USD/TWD的交易量共佔80%。美元受美聯儲政策及全球市場不確定性推動，歐元因歐洲央行政策而活躍。"]}
+{"category": "Open", "question_type": "Fact Lookup", "question": "考慮2025年第二季臺灣外匯市場的情境，綜合宏觀經濟環境、政策變動及技術進步等因素，哪一組市場改變對銀行間交易量和對沖基金資產規模的波動性及流動性產生了顯著影響？根據圖片中的數據，選擇最合適的情境描述。", "answer": "央行利率決策引導銀行調整策略，增加交易量，讓波動性增高及流動性提升。對沖基金在這一波動期間，資產規模增長12%，促進市場競爭和流動性。"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "考慮2025年第二季臺灣外匯市場的情境，綜合宏觀經濟環境、政策變動及技術進步等因素，哪一組市場改變對銀行間交易量和對沖基金資產規模的波動性及流動性產生了顯著影響？根據圖片中的數據，選擇最合適的情境描述。", "answer": "C", "choice": ["新技術實施初期，因系統整合挑戰，銀行交易量略降，對沖基金暫時觀望，資金流略減。", "企業進出口量減少，市場總成交量降低，流動性減弱，但對沖基金資金流因市況波動性增加。", "央行利率決策引導銀行調整策略，增加交易量，讓波動性增高及流動性提升。對沖基金在這一波動期間，資產規模增長12%，促進市場競爭和流動性。", "央行政策放寬引導銀行增持外匯資產，流動性上升，但對沖基金因長期策略調整，資產略減。"]}
+{"category": "Open", "question_type": "Fact Lookup", "question": "根據2025年臺灣外匯市場政策變化的交易平台升級措施，哪一個選項最能反映平台升級後在跨境短期資本流動的穩定性上所發揮的作用？請依據提供的圖像資料來選擇答案。", "answer": "交易平台升級提高了25%的交易效率，並降低了交易失誤率，這穩定了短期資本流動，促進市場活躍及國際投資者參與。"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2025年臺灣外匯市場政策變化的交易平台升級措施，哪一個選項最能反映平台升級後在跨境短期資本流動的穩定性上所發揮的作用？請依據提供的圖像資料來選擇答案。", "answer": "C", "choice": ["交易平台升級主要提升了短期交易的波動性，對交易失誤率沒有任何影響。", "交易平台升級僅僅導致了外匯市場的交易速度提升，與短期資本流動的穩定性關係不大。", "交易平台升級提高了25%的交易效率，並降低了交易失誤率，這穩定了短期資本流動，促進市場活躍及國際投資者參與。", "交易平台升級引發了外匯匯率的劇烈波動。"]}
+{"category": "Open", "question_type": "Fact Lookup", "question": "根據圖片中提供的例子和數據，2025年第二季有哪些因素可能對台灣的外匯匯率波動造成影響？並且哪些衍生品與市場分析策略適合在此情境下使用？請選出最適合的選項。", "answer": "1. 全球經濟狀況和美國加息政策造成的影響。2. 使用遠期合約、期權和技術分析來管理匯率風險。"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖片中提供的例子和數據，2025年第二季有哪些因素可能對台灣的外匯匯率波動造成影響？並且哪些衍生品與市場分析策略適合在此情境下使用？請選出最適合的選項。", "answer": "C", "choice": ["1. 匯率波動主要由技術分析指標和市場所帶來的短期情緒驅動。2. 主要依賴市場情緒指標和技術指標來制定風險管理策略。", "1. 新臺幣的波動完全是因亞太區域經濟不穩定性引起。2. 主要使用基本面分析和遠期合約來應對。", "1. 全球經濟狀況和美國加息政策造成的影響。2. 使用遠期合約、期權和技術分析來管理匯率風險。", "1. 匯率的變化主要受到市場情緒的影響。2. 投資者應該專注於期權和情緒指標的變化。"]}
+{"category": "Open", "question_type": "Fact Lookup", "question": "根據圖片描述，當全球經濟增長預計放緩到3%且2026年全球金融科技投資將增長約30%時，臺灣外匯市場可考慮採取哪些技術升級和策略來應對外部環境的變化？以下哪一項策略最能用於提升臺灣在亞太區域的競爭力和金融穩定？", "answer": "加快引入人工智能與區塊鏈技術以提高交易效率和安全性"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖片描述，當全球經濟增長預計放緩到3%且2026年全球金融科技投資將增長約30%時，臺灣外匯市場可考慮採取哪些技術升級和策略來應對外部環境的變化？以下哪一項策略最能用於提升臺灣在亞太區域的競爭力和金融穩定？", "answer": "B", "choice": ["減少對科技投資的依賴以保持市場穩定", "加快引入人工智能與區塊鏈技術以提高交易效率和安全性", "堅持傳統交易方式以確保短期穩定", "利用政府補貼促進短期經濟增長"]}
+{"category": "Open", "question_type": "Fact Lookup", "question": "在圖1中，哪一個貨幣對的交易量比例最低？", "answer": "CNY/TWD 和 其他"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖片所示，USD/TWD 的交易量佔比為 45.0%。", "answer": "是", "question_group": 85}
+
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖片所示，USD/TWD 的交易量佔比為 55.0%。", "answer": "否", "question_group": 85}
+
+{"category": "YesNo", "question_type": "Part-to-Whole", "question": "根據表格，USD/TWD 和 EUR/TWD 的交易量比例均超過15%。", "answer": "是", "question_group": 86}
+
+{"category": "YesNo", "question_type": "Part-to-Whole", "question": "根據表格，JPY/TWD 和 CNY/TWD 的交易量比例均超過15%。", "answer": "否", "question_group": 86}
+
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，交易平台升級提高了25%的交易效率，並降低了交易失誤率，這穩定了短期資本流動。", "answer": "是", "question_group": 87}
+
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，交易平台升級提高了50%的交易效率，但未對短期資本流動產生任何顯著影響。", "answer": "否", "question_group": 87}
+
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，USD/TWD和EUR/TWD的交易量共佔總交易比例的65%。", "answer": "是", "question_group": 88}
+
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，USD/TWD和JPY/TWD的交易量共佔總交易比例的65%。", "answer": "否", "question_group": 88}
+
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，1989年管制放寬促使市場自由化，吸引外國投資進入，至2022年日均交易量達到350億美元。", "answer": "是", "question_group": 89}
+
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，1989年管制放寬後，市場結構變得更加封閉，使得外國投資減少，至2022年日均交易量降至100億美元。", "answer": "否", "question_group": 89}
+

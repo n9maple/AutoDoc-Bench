@@ -1,0 +1,50 @@
+{"category": "Open", "question_type": "Aggregation", "question": "2022年和2023年的農業總人口與65歲以上農民人數之和是多少？", "answer": "2022年和2023年的農業總人口與65歲以上農民人數之和是2,010,000。"}
+{"category": "Open", "question_type": "Aggregation", "question": "2022年和2023年的農業金融貸款餘額之和是多少？", "answer": "3450"}
+{"category": "Open", "question_type": "Aggregation", "question": "從2024年到2026年，農業金融服務覆蓋率的平均成長是多少？", "answer": "5"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2022年到2023年，智慧農業應用面積和友善環境耕作農戶數分別增長了多少？", "answer": "{'智慧農業應用面積增長': 2400, '友善環境耕作農戶數增長': 1500}"}
+{"category": "Open", "question_type": "Aggregation", "question": "2023年的智慧農業應用面積和友善環境耕作農戶數相加後的總和是多少？", "answer": "30000"}
+{"category": "Open", "question_type": "Aggregation", "question": "每種貸款的傳統流程時效平均值是多少天？", "answer": "12.75天"}
+{"category": "Open", "question_type": "Aggregation", "question": "從 2024 年到 2026 年，青年農民貸款核發金額的總和是多少？", "answer": "11"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從 2024 年到 2026 年，農業金融服務覆蓋率每年的增長趨勢是怎樣的？請描述每年的變化。", "answer": "從 2024 年到 2025 年，農業金融服務覆蓋率增加了 7%。從 2025 年到 2026 年，覆蓋率增加了 8%。"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的數據，2022年和2023年的農業總人口與65歲以上農民人數之和可能是多少？", "answer": "C", "choice": ["2,400,000", "1,950,000", "2,010,000", "2,100,000"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖表，2022年和2023年的農業金融貸款餘額之和是以下哪一個選項？", "answer": "C", "choice": ["3800", "3600", "3450", "3400"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2024年至2026年的數據，農業金融服務的覆蓋率在下列選項中，哪一個最可能表示其平均成長率？", "answer": "C", "choice": ["2%", "7%", "5%", "12%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2022年到2023年的數據，以下哪一項反映了智慧農業應用和友善環境耕作的增長？", "answer": "C", "choice": ["智慧農業應用面積增長1200公頃，友善環境耕作農戶數增長3000戶", "智慧農業應用面積下降250公頃，友善環境耕作農戶數增長500戶", "智慧農業應用面積增長2400公頃，友善環境耕作農戶數增長1500戶", "智慧農業應用面積增長3000公頃，友善環境耕作農戶數無變化"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年的數據，智慧農業應用面積和友善環境耕作農戶數的總和可能是多少？", "answer": "C", "choice": ["26000", "32000", "30000", "36000"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖片所示，不同貸款的傳統流程時效平均值為多少天？", "answer": "C", "choice": ["10天", "15天", "12.75天", "13天"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，從 2024 年到 2026 年，青年農民貸款核發的總金額為多少？", "answer": "C", "choice": ["9", "14", "11", "8"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2024年至2026年的數據，農業金融服務覆蓋率每年增長的趨勢是怎樣的？", "answer": "C", "choice": ["2024年至2025年增長了5%，2025年至2026年增長了6%。", "2024年至2025年增長了8%，2025年至2026年增長了10%。", "2024年至2025年增長了7%，2025年至2026年增長了8%。", "2024年至2025年增長了7%，2025年至2026年增長了5%。"]}
+{"category": "Open", "question_type": "Temporal Trend", "question": "從2022年到2026年，信用保證貸款占比的趨勢是上升還是下降？", "answer": "上升"}
+{"category": "Open", "question_type": "Rate of Change", "question": "從2022年到2026年，合庫銀行農業貸款不良率的年均減少率是多少？", "answer": "0.02"}
+{"category": "Open", "question_type": "Temporal Trend", "question": "在2024年中，哪一項指標的數值呈現持續下降的趨勢？", "answer": "不良率呈現持續下降的趨勢"}
+{"category": "Open", "question_type": "Rate of Change", "question": "從2024Q1到2024Q4，農業貸款核准率增加了多少個百分點？", "answer": "4個百分點"}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2022年到2026年的資料，信用保證貸款的占比趨勢是什麼？", "answer": "C", "choice": ["保持不變", "階段性增長", "上升", "輕微上升後回落"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據2022年到2026年的數據，合庫銀行農業貸款的不良率年均減少率最接近哪一個數值？", "answer": "C", "choice": ["0.05", "0.01", "0.02", "0.07"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2024年的數據，以下哪些指標顯示持續下降的趨勢？", "answer": "C", "choice": ["員工流失率", "預測準確率", "不良率", "生產效率"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據2024年第一季度到第四季度的數據，農業貸款核准率的變化情況，以下哪個選項最能反映出這段期間的核准率變化？", "answer": "C", "choice": ["減少了8個百分點", "保持不變", "增加了4個百分點", "增加了12個百分點"]}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表4的資料，計算從2022年到2023年智慧農業應用面積和友善環境耕作農戶數的絕對增長總和是多少。", "answer": "3900"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表7的資料，如果天災損失保險種類數每年減少1種，預計到2025年天災損失保險種類數將會是以下哪一個數字？", "answer": "B", "choice": ["5", "2", "3", "1"]}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年和2023年的農業總人口與65歲以上農民人數之和是2,010,000。", "answer": "是", "question_group": 927}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年和2023年的農業總人口與65歲以上農民人數之和是1,800,000。", "answer": "否", "question_group": 927}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，不良率在2024年顯示持續下降的趨勢。", "answer": "是", "question_group": 928}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，所有指標在2024年均顯示持續下降的趨勢。", "answer": "否", "question_group": 928}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，不同貸款的傳統流程時效平均值為12.75天。", "answer": "是", "question_group": 929}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，不同貸款的傳統流程時效平均值為15天。", "answer": "否", "question_group": 929}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年和2023年的農業金融貸款餘額之和是3450。", "answer": "是", "question_group": 930}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年和2023年的農業金融貸款餘額之和是3550。", "answer": "否", "question_group": 930}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023年的智慧農業應用面積和友善環境耕作農戶數的總和是30000。", "answer": "是", "question_group": 931}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023年的智慧農業應用面積和友善環境耕作農戶數的總和是25000。", "answer": "否", "question_group": 931}
+
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，從2022年到2026年，合庫銀行農業貸款的不良率年均減少率是0.02。", "answer": "是", "question_group": 932}
+
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，從2022年到2026年，合庫銀行農業貸款的不良率年均減少率是0.05。", "answer": "否", "question_group": 932}
+

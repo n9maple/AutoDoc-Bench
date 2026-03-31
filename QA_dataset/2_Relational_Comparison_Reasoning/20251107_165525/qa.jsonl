@@ -1,0 +1,30 @@
+{"category": "Open", "question_type": "Comparison", "question": "2023年的無紙化文件傳遞率比2022年高多少個百分點？", "answer": "2023年的無紙化文件傳遞率比2022年高12個百分點。"}
+{"category": "Open", "question_type": "Comparison", "question": "2023 年的多元文化活動場次與性別平等講座場次相比，哪一個數字更大？", "answer": "2023 年的多元文化活動場次（15）比性別平等講座場次（5）多。"}
+{"category": "Open", "question_type": "Comparison", "question": "2023 年的參訓員工人次比 2022 年增加了多少？", "answer": "2023 年的參訓員工人次比 2022 年增加了 50。"}
+{"category": "Open", "question_type": "Comparison", "question": "在 2022 年和 2023 年中，哪一年匿名檢舉案件數量較多，且多出多少？", "answer": "2023 年的匿名檢舉案件數量較多，多出 1 件。"}
+{"category": "Open", "question_type": "Comparison", "question": "2023年相較於2022年，參與供應商人數增加的比例是多少？", "answer": "41.18%"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據以下圖片，2023年的無紙化文件傳遞率比2022年高多少個百分點？", "answer": "C", "choice": ["18個百分點", "14個百分點", "12個百分點", "11個百分點"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的數據，多元文化活動場次與性別平等講座場次相比，哪一個場次更高？(請參考附件圖片中的數據)", "answer": "C", "choice": ["多元文化活動場次與性別平等講座場次相同", "性別平等講座場次比多元文化活動場次少50%", "多元文化活動場次比性別平等講座場次多", "多元文化活動場次的總數超過性別平等講座場次的總數"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，2023 年的參訓員工人次相比 2022 年增加了多少？", "answer": "C", "choice": ["2023 年的參訓員工人次比 2022 年減少了 10。", "2023 年的參訓員工人次比 2022 年增加了 30。", "2023 年的參訓員工人次比 2022 年增加了 50。", "2023 年的參訓員工人次比 2022 年持平，增加了 0。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據某統計數據，2022 年與 2023 年的匿名檢舉案件數量有何差異？", "answer": "C", "choice": ["2023 年的匿名檢舉案件數量減少，少了 1 件。", "2023 年的匿名檢舉案件數量較少，減少 2 件。", "2023 年的匿名檢舉案件數量較多，多出 1 件。", "2022 年的匿名檢舉案件數量較多，多出 1 件。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年與2022年的數據，參與供應商人數的增加比例是以下哪一個選項？", "answer": "C", "choice": ["37.25%", "45.00%", "41.18%", "48.90%"]}
+{"category": "Open", "question_type": "Comparison", "question": "在2023年國票金控環境教育及公益參與成果中，數值最低的活動指標是什麼？", "answer": "數值最低的活動指標是6"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "數值最高的活動指標與最低的活動指標之間的差距是多少？", "answer": "1194"}
+{"category": "MCQ", "question_type": "Comparison", "question": "在2023年國票金控環境教育及公益參與成果中，下列哪個活動指標的數值是最低的？（請參考附圖）", "answer": "C", "choice": ["指標數值為5（環境教育參與人次）", "指標數值為4（公益活動次數）", "指標數值為6", "指標數值為9（環境改善項目數）"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖1，以下哪一個活動指標的數值是最低的？", "answer": "D", "choice": ["活動指標: 3 - '雖然不是最低，但參與率約為15%'", "活動指標: 4 - '此指標的參與率中等，約為30%'", "活動指標: 2 - '此指標在大規模活動中通常最低，且參與率約為10%'", "活動指標: 6"]}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023 年的多元文化活動場次比性別平等講座場次多。", "answer": "是", "question_group": 598}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023 年的性別平等講座場次比多元文化活動場次多。", "answer": "否", "question_group": 598}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年相較於2022年，參與供應商人數增加的比例是41.18%。", "answer": "是", "question_group": 599}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年相較於2022年，參與供應商人數增加的比例是50%。", "answer": "否", "question_group": 599}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的無紙化文件傳遞率比2022年高12個百分點。", "answer": "是", "question_group": 600}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的無紙化文件傳遞率比2022年高8個百分點。", "answer": "否", "question_group": 600}
+
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據下圖，數值最高的活動指標與最低的活動指標之間的差距是1194。", "answer": "是", "question_group": 601}
+
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據下圖，數值最高的活動指標與最低的活動指標之間的差距是200。", "answer": "否", "question_group": 601}
+

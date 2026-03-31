@@ -1,0 +1,23 @@
+{"category": "Open", "question_type": "Aggregation", "question": "車輛更新和車站設施擴建的總資金投入是多少？", "answer": "車輛更新和車站設施擴建的總資金投入是35。"}
+{"category": "Open", "question_type": "Aggregation", "question": "將運營收入的增幅與就業機會的增幅相加，結果是多少？", "answer": "35%"}
+{"category": "Open", "question_type": "Aggregation", "question": "如果將進度管理和質量檢查兩項的降低延誤風險相加，總和是多少？", "answer": "30%以上"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，車輛更新和車站設施擴建的總資金投入是多少？", "answer": "C", "choice": ["30", "36", "35", "38"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，將運營收入的增幅與就業機會的增幅相加，結果的百分比是多少？", "answer": "C", "choice": ["36%", "38%", "35%", "37.5%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據進度管理和質量檢查降低延誤風險的數據，總和是多少？", "answer": "C", "choice": ["10%以下", "50%以上", "30%以上", "25%以上"]}
+{"category": "Open", "question_type": "Aggregation", "question": "所有市場的合規性要求數量總和是多少?", "answer": "所有市場的合規性要求數量總和是 12。"}
+{"category": "Open", "question_type": "Temporal Trend", "question": "從2024年到2028年，碳排放量減少目標的百分比是如何變化的？", "answer": "從2024年到2028年，碳排放量減少目標的百分比每年增加4個百分點，從4%增至20%。"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的市場合規性要求數量，以下哪一選項正確描述了所有市場的合規性要求數量總和？", "answer": "C", "choice": ["所有市場的合規性要求數量總和是 16。", "所有市場的合規性要求數量總和是 11。", "所有市場的合規性要求數量總和是 12。", "所有市場的合規性要求數量總和是 9。"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據提供的數據，從2024年到2028年，碳排放量減少目標的百分比變化是什麼？", "answer": "C", "choice": ["每年增加2個百分點，從4%增至16%", "每年減少2個百分點，從4%減至-4%", "每年增加4個百分點，從4%增至20%", "每年增加5個百分點，從4%增至24%"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖4，從2024年至2028年，碳排放量減少目標系列的總增長百分比是多少？", "answer": "D", "choice": ["250%", "600%", "450%", "400%"]}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，所有市場的合規性要求數量總和是 12。", "answer": "是", "question_group": 1125}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，所有市場的合規性要求數量總和是 15。", "answer": "否", "question_group": 1125}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，進度管理和質量檢查兩項的降低延誤風險總和為30%以上。", "answer": "是", "question_group": 1126}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，進度管理和質量檢查兩項的降低延誤風險總和為25%。", "answer": "否", "question_group": 1126}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，從2024年到2028年，碳排放量減少目標每年增加4個百分點，從4%增至20%。", "answer": "是", "question_group": 1127}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，從2024年到2028年，碳排放量減少目標每年保持不變，維持在4%。", "answer": "否", "question_group": 1127}
+

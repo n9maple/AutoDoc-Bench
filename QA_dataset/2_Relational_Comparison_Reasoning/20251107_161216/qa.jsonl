@@ -1,0 +1,54 @@
+{"category": "Open", "question_type": "Comparison", "question": "商品未如期寄送的件數比收到仿冒品的件數多多少？", "answer": "商品未如期寄送的件數比收到仿冒品的件數多525件"}
+{"category": "Open", "question_type": "Comparison", "question": "全部申訴案件與盜刷申訴案件相比，哪一種類型的因缺資料延誤比例較高，並且高多少個百分點？", "answer": "盜刷申訴案件的因缺資料延誤比例較高，高出10個百分點。"}
+{"category": "Open", "question_type": "Comparison", "question": "在國內和國際交易爭議中，哪一種交易的30日內結案率更高，且差異是多少個百分點？", "answer": "國內交易爭議的30日內結案率更高，差異是14個百分點。"}
+{"category": "Open", "question_type": "Comparison", "question": "進入申復階段案件比例和處理滿意度正面回饋率的差異是多少？", "answer": "差異是78%"}
+{"category": "Open", "question_type": "Comparison", "question": "在 2022 年，暫停支付/後續處理滿意度的分數比資訊透明度滿意度高多少？", "answer": "1"}
+{"category": "Open", "question_type": "Comparison", "question": "2022年平均帳戶凍結與新卡核發時效是如何與平均退費入帳時效比較？哪一個較快？", "answer": "2022年平均帳戶凍結與新卡核發時效較快。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖所示，商品未如期寄送的件數與收到仿冒品的件數之間的差異為多少？", "answer": "C", "choice": ["商品未如期寄送的件數比收到仿冒品的件數多600件", "商品未如期寄送的件數比收到仿冒品的件數多400件", "商品未如期寄送的件數比收到仿冒品的件數多525件", "商品未如期寄送的件數比收到仿冒品的件數少100件"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在比較全部申訴案件與盜刷申訴案件的延誤比例時，哪一類型的因缺資料延誤比例較高，並且高出幾個百分點？", "answer": "C", "choice": ["全部申訴案件的因缺資料延誤比例相同，無差異。", "盜刷申訴案件的因缺資料延誤比例較低，低於全部申訴案件5個百分點。", "盜刷申訴案件的因缺資料延誤比例較高，高出10個百分點。", "盜刷申訴案件的因缺資料延誤比例較高，高出8個百分點。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據給定的圖片，國內和國際交易爭議中，哪一種交易的30日內結案率更高？若正確，差異為多少個百分點？", "answer": "C", "choice": ["國內交易爭議的30日內結案率更低，差異是5個百分點。", "國際交易爭議的30日內結案率更高，差異是2個百分點。", "國內交易爭議的30日內結案率更高，差異是14個百分點。", "兩者的30日內結案率相同，差異是5個百分點。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據所提供的數據，進入申復階段案件比例和處理滿意度正面回饋率的差異為多少？請參見相關圖表以獲取準確信息。", "answer": "C", "choice": ["80%", "72%", "78%", "77%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的圖片，2022 年暫停支付滿意度的分數比資訊透明度滿意度高多少？", "answer": "C", "choice": ["比資訊透明度滿意度高 4 分", "比資訊透明度滿意度高 5 分", "比資訊透明度滿意度高 1 分", "比資訊透明度滿意度低 1 分"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2022年的資料，平均帳戶凍結與新卡核發時效相比較，哪一個較快？", "answer": "C", "choice": ["平均帳戶凍結的時效一般較新卡核發慢，因為需要多個步驟的審核和確認。", "由於無法獲得具體的比較數據，新卡核發的時效不一定比平均帳戶凍結的快。", "平均帳戶凍結與新卡核發時效較快。", "新卡核發的過程通常涉及較少的步驟，因此理論上可能會比帳戶凍結快。"]}
+{"category": "Open", "question_type": "Comparison", "question": "哪個通知與溝通指標的比率或次數是最低的？", "answer": "調查期間平均聯繫次數"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "最高的通知與溝通指標比率與最低的差距是多少？", "answer": "由於沒有具體的數據值，無法計算出具體的差距。"}
+{"category": "Open", "question_type": "Comparison", "question": "最左邊的案件類型的暫停支付啟動比例是多少？", "answer": "100%"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "滿意度百分比最高的調查項目和最低的調查項目的差距是多少？", "answer": "12%"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中顯示的通知與溝通指標，哪一項的比率或次數被顯示為最低？", "answer": "C", "choice": ["調查期間聯絡的最小次數", "調查期間的平均處理時間", "調查期間平均聯繫次數", "調查期間的登記申訴案例率"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖片中的通知與溝通指標比率，最高和最低指標的差距是多少？", "answer": "C", "choice": ["目前無法確定具體的數據，因此差距可能是相對較大的", "我們無法估算具體的差距，因為資料量不足無法進行合理的判斷。", "無法計算出具體的差距，因為缺乏具體數據值。", "據初步調查，差距可能為約15%，但因數據不全無法確定。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的圖片，最左邊的案件類型的暫停支付啟動比例為多少？", "answer": "C", "choice": ["95%", "85%", "100%", "105%"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據下圖顯示的調查滿意度百分比，滿意度最高的調查項目與最低的調查項目的差距是多少？", "answer": "C", "choice": ["10%", "13%", "12%", "16%"]}
+{"category": "Open", "question_type": "Ranking", "question": "在2022年線上數位申訴處理效率統計中，比例最高的統計項目是什麼？", "answer": "比例最高的統計項目是 85%"}
+{"category": "Open", "question_type": "Ranking", "question": "哪個案件類型的暫停支付啟動比例最低？", "answer": "案件類型13的暫停支付啟動比例最低"}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據2022年線上數位申訴處理效率統計，哪個統計項目的比例最高？請參考下方數據表。", "answer": "C", "choice": ["比例最高的統計項目是 75%", "比例最高的統計項目是 78%", "比例最高的統計項目是 85%", "比例最高的統計項目是 82%"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據提供的情境，哪個案件類型的暫停支付啟動比例最低？", "answer": "C", "choice": ["案件類型5的暫停支付啟動比例為5%", "案件類型1的暫停支付啟動比例為10%", "案件類型13的暫停支付啟動比例最低", "案件類型9的暫停支付啟動比例為13%與案件類型13相同"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表3的資料，國內交易爭議和國際交易爭議的平均處理時效差異是以下哪一個選項所指的天數？", "answer": "C", "choice": ["23天", "17天", "19天", "21天"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表2中的資料，以下哪一類型的申訴案件具有最高的缺少資料案件比例？", "answer": "A", "choice": ["盜刷申訴案件的缺少資料案件比例最高，為41%", "信用卡申訴案件的缺少資料案件比例為45%", "信用卡未授權使用的申訴案件缺少資料比例為35%", "盜刷申訴案件的缺少資料比例為39%"]}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，盜刷申訴案件的因缺資料延誤比例較全部申訴案件高出10個百分點。", "answer": "是", "question_group": 585}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，全部申訴案件的因缺資料延誤比例較盜刷申訴案件高出5個百分點。", "answer": "否", "question_group": 585}
+
+{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，案件類型13的暫停支付啟動比例是最低的。", "answer": "是", "question_group": 586}
+
+{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，案件類型100的暫停支付啟動比例是最低的。", "answer": "否", "question_group": 586}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，國內交易爭議的30日內結案率比國際交易爭議高14個百分點。", "answer": "是", "question_group": 587}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，國際交易爭議的30日內結案率比國內交易爭議高14個百分點。", "answer": "否", "question_group": 587}
+
+{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，統計項目中比例最高的是 85%。", "answer": "是", "question_group": 588}
+
+{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，統計項目中比例最高的是 70%。", "answer": "否", "question_group": 588}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2022 年暫停支付滿意度的分數比資訊透明度滿意度高 1 分。", "answer": "是", "question_group": 589}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2022 年暫停支付滿意度的分數比資訊透明度滿意度高 2 分。", "answer": "否", "question_group": 589}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，商品未如期寄送的件數比收到仿冒品的件數多525件。", "answer": "是", "question_group": 590}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，商品未如期寄送的件數比收到仿冒品的件數少525件。", "answer": "否", "question_group": 590}
+
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖片，由於缺乏具體數據值，無法計算出通知與溝通指標中最高和最低指標的具體差距。", "answer": "是", "question_group": 591}
+
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖片，可以直接從中讀取具體數據值來計算通知與溝通指標中最高和最低指標的差距。", "answer": "否", "question_group": 591}
+

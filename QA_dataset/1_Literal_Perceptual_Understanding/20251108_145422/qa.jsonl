@@ -1,0 +1,8 @@
+{"category": "Open", "question_type": "Fact Lookup", "question": "根據表格資料，從批准到放款的時間範圍是多久？這段時間內的放款完成率是多少？", "answer": "從批准到放款的時間範圍是3到5天，這段時間內的放款完成率是超過90%。"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據提供的表格資料，從批准到放款的時間範圍是多久？在此期間的放款完成率是多少？", "answer": "C", "choice": ["從批准到放款的時間範圍是2到3天，放款完成率為70%。", "從批准到放款的時間範圍是6到8天，放款完成率為55%。", "從批准到放款的時間範圍是3到5天，放款完成率超過90%。", "從批准到放款的時間範圍是3到4天，放款完成率為80%。"]}
+{"category": "Open", "question_type": "Fact Lookup", "question": "在圖表中，最左邊的策略類型成功率增加百分比是多少？", "answer": "20%"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖表，最左邊的策略類型的成功率增加百分比為何？", "answer": "C", "choice": ["30%", "15%", "20%", "18%"]}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖表，最左邊的策略類型的成功率增加百分比為20%。", "answer": "是", "question_group": 239}
+
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖表，最左邊的策略類型的成功率增加百分比為30%。", "answer": "否", "question_group": 239}
+

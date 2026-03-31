@@ -1,0 +1,14 @@
+{"category": "Open", "question_type": "Aggregation", "question": "從2019年到2021年，ESG投資比例的平均增長率是多少？", "answer": "16.67%"}
+{"category": "Open", "question_type": "Aggregation", "question": "太陽能發電和風能發電的二氧化碳總減排量是多少？", "answer": "100"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2019到2021年的資料，以下哪一項最接近ESG投資比例的平均增長率？", "answer": "C", "choice": ["18%", "22%", "16.67%", "14%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據以下圖表，從2019年到2029年，總發電量中可再生能源比例的變化為何？", "answer": "C", "choice": ["增加了8.5個百分點", "減少了5個百分點", "增加了9.5個百分點", "增加了12個百分點"]}
+{"category": "Open", "question_type": "Aggregation", "question": "在圖2中，所有項目類型支持的建築總數是多少？", "answer": "150"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表3的資料，若未來五年內太陽能發電和風能發電的二氧化碳減排能力每年分別增加15%和10%，那麼五年後兩者的二氧化碳減排能力可能是多少？", "answer": "D", "choice": ["五年後太陽能發電的二氧化碳減排能力約為115，風能發電的約為62。", "五年後太陽能發電的二氧化碳減排能力約為128，風能發電的約為68。", "五年後太陽能發電的二氧化碳減排能力約為125.5，風能發電的約為66.5。", "五年後太陽能發電的二氧化碳減排能力約為120.76，風能發電的約為64.41。"]}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，從2019年到2020年，ESG投資比例的增長率是16.67%。", "answer": "是", "question_group": 1085}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，從2019年到2020年，ESG投資比例的增長率是20%。", "answer": "否", "question_group": 1085}
+
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2019年到2029年，總發電量中可再生能源的比例增加了9.5個百分點。", "answer": "是", "question_group": 1086}
+
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2019年到2029年，總發電量中可再生能源的比例增加了5個百分點。", "answer": "否", "question_group": 1086}
+

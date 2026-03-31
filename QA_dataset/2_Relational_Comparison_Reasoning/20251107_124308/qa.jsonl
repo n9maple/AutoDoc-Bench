@@ -1,0 +1,42 @@
+{"category": "Open", "question_type": "Comparison", "question": "手機簡訊OTP認證和電子郵件認證的認證成功率相差多少百分比？", "answer": "2%"}
+{"category": "Open", "question_type": "Comparison", "question": "原始上傳的通過率比利用預覽功能修正後的通過率低多少個百分點？", "answer": "10個百分點"}
+{"category": "Open", "question_type": "Comparison", "question": "哪一種通知方式的補件完成率最高？", "answer": "線上補件功能的補件完成率最高，為98。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據以下圖表，手機簡訊OTP認證與電子郵件認證的成功率相差了多少百分比？", "answer": "C", "choice": ["1%", "3%", "2%", "5%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據上傳的圖片，原始上傳的通過率與利用預覽功能修正後的通過率相比，低多少個百分點？", "answer": "C", "choice": ["8個百分點", "12個百分點", "10個百分點", "7個百分點"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在2023年，根據以下情境，設定投資偏好的次數與訂閱市場分析報告的次數相比，哪一項更頻繁？", "answer": "C", "choice": ["設定投資偏好的次數少於訂閱市場分析報告的次數", "設定投資偏好的次數多於訂閱市場分析報告的次數，且相差不大", "設定投資偏好的次數多於訂閱市場分析報告的次數", "設定投資偏好的次數因特定月份數據亮眼而顯示持平"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片所示，哪一種通知方式的補件完成率是最高的？", "answer": "C", "choice": ["所有通知方式的補件完成率都在95以上，但無法區分。", "電子郵件通知的補件完成率為96，略低於線上補件功能。", "線上補件功能的補件完成率最高，為98。", "電話通知的補件完成率為94，雖然略低，但仍在95以上。"]}
+{"category": "Open", "question_type": "Difference Calculation", "question": "最高與最低用戶選擇比例的差距是多少？", "answer": "89%"}
+{"category": "Open", "question_type": "Comparison", "question": "在2023年新戶帳戶安全設定選擇比例中，簡訊OTP的選擇比例與其他的選擇比例相比，哪一個更高？", "answer": "簡訊OTP的選擇比例更高"}
+{"category": "Open", "question_type": "Comparison", "question": "哪一個客服管道的使用者解決率是所有項目中最低的？", "answer": "80"}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據下圖顯示，最高用戶選擇比例與最低用戶選擇比例之間的差距是多少？", "answer": "C", "choice": ["72%", "95%", "89%", "75%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在2023年新戶帳戶安全設定中，以下哪一選項的選擇比例較高？", "answer": "C", "choice": ["生物識別驗證的選擇比例（20%）", "電子郵件驗證的選擇比例（15%）", "簡訊OTP的選擇比例", "簡訊OTP和生物識別的選擇比例幾乎沒有區別（5%）"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在下列客服管道中，哪一項的使用者解決率最低？（請參考附圖）", "answer": "C", "choice": ["使用者解決率為60的管道", "使用者解決率為70的管道", "使用者解決率為80的管道", "使用者解決率為90的管道"]}
+{"category": "Open", "question_type": "Ranking", "question": "依據用戶選擇比例的高低，從左到右排列證件類型。", "answer": "證件類型 91, 證件類型 7, 證件類型 2"}
+{"category": "Open", "question_type": "Ranking", "question": "在2023年新戶帳戶安全設定選擇比例中，選擇比例最低的安全設定是什麼？", "answer": "其他"}
+{"category": "Open", "question_type": "Ranking", "question": "按使用者解決率由高到低排名，第三高的客服管道的數值是多少？", "answer": "87"}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據用戶選擇比例的高低，以下哪種證件類型應該從左到右排列？", "answer": "C", "choice": ["證件類型 91, 證件類型 2, 證件類型 7", "證件類型 7, 證件類型 2, 證件類型 91", "證件類型 91, 證件類型 7, 證件類型 2", "證件類型 2, 證件類型 91, 證件類型 7"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據2023年新戶帳戶安全設定的選擇比例，下列哪項安全設定的選擇比例最低？（請參考相關圖表）", "answer": "C", "choice": ["簡單密碼選擇", "電子郵件驗證", "其他", "生物識別技術障礙"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據使用者解決率排名，第三高的客服管道的數值是以下哪一項？", "answer": "C", "choice": ["92", "78", "87", "84"]}
+{"category": "Open", "question_type": "Comparison", "question": "在圖4中，其他選項的選擇比例是否低於App認證的比例？", "answer": "是，其他選項的選擇比例低於App認證的比例"}
+{"category": "MCQ", "question_type": "Comparison", "question": "在圖4中，以下選項中哪一項的選擇比例低於App認證的比例？", "answer": "A", "choice": ["其他選項的選擇比例", "社交媒體登錄的選擇比例", "生物識別技術的選擇比例", "雙重認證的選擇比例"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表1的資料，以下哪種認證方式的效率最低？另外，該方式效率相較於最高的認證方式低了多少百分比？", "answer": "B", "choice": ["指紋辨識的效率最低，相較於手機簡訊OTP認證低了8%。", "臉部辨識的效率最低，相較於手機簡訊OTP認證低了5%。", "臉部辨識的效率低於手機簡訊OTP，低了15%。", "指紋辨識和臉部辨識的效率相同，相較於手機簡訊OTP認證均低10%。"]}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，'其他'的選擇比例是所有安全設定中最低的。", "answer": "是", "question_group": 485}
+
+{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，簡訊OTP的選擇比例是所有安全設定中最低的。", "answer": "否", "question_group": 485}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據附圖，使用者解決率最低的客服管道是使用者解決率為80的管道。", "answer": "是", "question_group": 486}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據附圖，使用者解決率最低的客服管道是使用者解決率為95的管道。", "answer": "否", "question_group": 486}
+
+{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，證件類型的用戶選擇比例從高到低排序為：91%、7%、2%。", "answer": "是", "question_group": 487}
+
+{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，證件類型的用戶選擇比例從高到低排序為：7%、2%、91%。", "answer": "否", "question_group": 487}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，線上補件功能的補件完成率是最高的，為98。", "answer": "是", "question_group": 488}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，電子郵件通知補件的補件完成率是最高的，為98。", "answer": "否", "question_group": 488}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，手機簡訊OTP認證的成功率比電子郵件認證高出2%。", "answer": "是", "question_group": 489}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，手機簡訊OTP認證的成功率比電子郵件認證高出5%。", "answer": "否", "question_group": 489}
+

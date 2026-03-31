@@ -1,0 +1,23 @@
+{"category": "Open", "question_type": "Fact Lookup", "question": "2023 年建議的密碼更換週期是多少天？", "answer": "2023 年建議的密碼更換週期是 90 天。"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "哪一種客服管道的用戶滿意度在2024年4月的調查中得分最高？", "answer": "所有客服管道的用戶滿意度在2024年4月的調查中得分都是4.8。"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "根據表格資料，哪一種情況下帳戶遭未授權登入的風險更高？", "answer": "未啟用雙重驗證的情況下，帳戶遭未授權登入的風險更高。"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2023年的建議，密碼更換的最佳週期應該是多久?", "answer": "C", "choice": ["半年更換一次", "每季度更換一次", "90天", "每兩年更換一次"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2024年4月的調查，以下哪種客服管道的用戶滿意度得分為4.8？", "answer": "C", "choice": ["電話客服管道的用戶滿意度得分為4.8，這是因為用戶普遍認為其反應速度快。", "社交媒體客服的用戶滿意度得分為4.2，因為用戶認為反應時間較長。", "所有客服管道的用戶滿意度得分為4.8。", "電子郵件客服的用戶滿意度得分為4.6，因為用戶期望更快的回應。"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據表格資料，以下哪種情況下帳戶遭未授權登入的風險更高？", "answer": "C", "choice": ["在正常登錄行為的時間段內，帳戶遭未授權登入的風險依然較高。", "啟用雙重驗證後，帳戶遭未授權登入的風險會降低。", "未啟用雙重驗證的情況下，帳戶遭未授權登入的風險更高。", "使用強密碼下，帳戶遭未授權登入的風險相對較高。"]}
+{"category": "Open", "question_type": "Fact Lookup", "question": "在2023年股票下單類型中，限價單的數量是多少？", "answer": "43"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "最右邊的項目在2024年Q1的瀏覽量是多少？", "answer": "15000"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2023年的股票下單類型，限價單的數量是多少？以下選項中哪一個正確？", "answer": "C", "choice": ["41", "45", "43", "37"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖片中的數據，最右邊的項目在2024年Q1的瀏覽量是多少？", "answer": "C", "choice": ["14800", "15200", "15000", "13000"]}
+{"category": "Open", "question_type": "Fact Lookup", "question": "根據表1的資料，在建議密碼更換週期為90天的情況下，請問一年內建議更換密碼的次數是多少？", "answer": "4次"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，未啟用雙重驗證的情況下，帳戶遭未授權登入的風險更高。", "answer": "是", "question_group": 133}
+
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，啟用雙重驗證的情況下，帳戶遭未授權登入的風險更高。", "answer": "否", "question_group": 133}
+
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，最右邊的項目在2024年Q1的瀏覽量是15000。", "answer": "是", "question_group": 134}
+
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，最右邊的項目在2024年Q1的瀏覽量是30000。", "answer": "否", "question_group": 134}
+
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2024年4月所有客服管道的用戶滿意度得分皆為4.8。", "answer": "是", "question_group": 135}
+
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2024年4月某個單一客服管道的用戶滿意度得分為4.8，而其他的得分不同。", "answer": "否", "question_group": 135}
+

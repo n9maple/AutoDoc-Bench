@@ -1,0 +1,64 @@
+{"category": "Open", "question_type": "Aggregation", "question": "如果將風險管理和客戶服務的客戶滿意度提升相加，總和是多少？", "answer": "總和是55。"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2023年到2025年，已採用百分比的變化趨勢是怎樣的？", "answer": "從2023年到2025年，已採用百分比每年增加10%，呈現穩定上升的趨勢。"}
+{"category": "Open", "question_type": "Aggregation", "question": "2024年的計劃採用和未採用的百分比總和是多少？", "answer": "45%"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2023年到2025年，AI技術整合比例的總增長百分比是多少？", "answer": "33.33%"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖顯示的數據，風險管理和客戶服務的客戶滿意度提升相加，總和是多少？", "answer": "C", "choice": ["58", "52", "55", "54"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據圖片顯示，從2023年到2025年，已採用的百分比變化趨勢是怎樣的？", "answer": "C", "choice": ["已採用百分比每年減少5%，呈現緩慢下降的趨勢。", "已採用百分比每年增加20%，呈現快速上升的趨勢。", "已採用百分比每年增加10%，呈現穩定上升的趨勢。", "已採用百分比每年增加5%，表現出穩定的增長趨勢。"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據相關數據，2024年的計劃中，採用和未採用的百分比總和是多少？", "answer": "C", "choice": ["30%", "70%", "45%", "50%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據從2023年到2025年的數據，AI技術整合比例的總增長百分比為多少？請參考以下數據情境選擇正確的答案。", "answer": "C", "choice": ["根據2021年至2023年的市場趨勢的15%", "未來兩年的保守估計為25%", "33.33%", "根據不同金融機構的實際增長數據的50%"]}
+{"category": "Open", "question_type": "Temporal Trend", "question": "從2020年至2023年，台灣行動支付用戶數量占總人口比例的變化趨勢是什麼？", "answer": "從2020年至2023年，台灣行動支付用戶數量占總人口比例呈現逐年上升的趨勢。"}
+{"category": "Open", "question_type": "Rate of Change", "question": "從2022年到2023年，台灣行動支付用戶數量(百萬人)的年增長率是多少？", "answer": "26.32%"}
+{"category": "Open", "question_type": "Rate of Change", "question": "從2023年到2026年，哪一年的數位銀行用戶數增長幅度最大？", "answer": "2023到2024年和2024到2025年的用戶數增長幅度最大，均為125萬人。"}
+{"category": "Open", "question_type": "Temporal Trend", "question": "在2023年至2026年間，行動支付交易總額的增長趨勢是如何的？", "answer": "在2023年至2026年間，行動支付交易總額每年以20%的同比增長率穩定增長，從3000億元增至5184億元，顯示出一致且穩定的增長趨勢。"}
+{"category": "Open", "question_type": "Rate of Change", "question": "從2024年到2025年，行動支付交易總額的增長量是多少個新臺幣億元？", "answer": "720億元"}
+{"category": "Open", "question_type": "Temporal Trend", "question": "從2023年至2026年，理賠時間縮短的趨勢是如何變化的？", "answer": "從2023年至2026年，理賠時間縮短的趨勢是每年增加5個百分點，從15%增長到30%。"}
+{"category": "Open", "question_type": "Temporal Trend", "question": "從2023年到2025年，理賠處理時間縮短的變化趨勢如何?", "answer": "從2023年到2025年，理賠處理時間縮短的趨勢是每年增長5個百分點，呈現穩定上升的趨勢。"}
+{"category": "Open", "question_type": "Temporal Trend", "question": "從2024年到2025年，數位銀行用戶數的增長趨勢如何？", "answer": "從2024年到2025年，數位銀行用戶數增長了16.28%。"}
+{"category": "Open", "question_type": "Rate of Change", "question": "從2023年到2025年，數位銀行用戶數的總增長率是多少？", "answer": "38.89%"}
+{"category": "Open", "question_type": "Aggregation", "question": "從2023年到2025年，數位銀行用戶數的平均值是多少？", "answer": "8.6百萬"}
+{"category": "Open", "question_type": "Rate of Change", "question": "從2023年到2025年，哪一年區塊鏈技術在金融交易中的應用增長百分比增加最多？", "answer": "從2024年到2025年，應用增長百分比增加最多，增長了20%。"}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據提供的數據，2020年至2023年台灣行動支付用戶數量占總人口比例的變化趨勢是？", "answer": "C", "choice": ["在某些年份保持穩定，其他年份上升", "在2021年有所下降，但隨後逐漸回升", "逐年上升", "偶爾有增減波動，總體上呈上升趨勢"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據2022年和2023年的資料，台灣行動支付用戶數量的年增長率為多少？請參考提供的數據來選擇正確的選項。", "answer": "C", "choice": ["28.00%", "24.50%", "26.32%", "25.00%"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據提供的數據，從2023年到2026年，哪一段期間的數位銀行用戶數增長幅度最大？", "answer": "C", "choice": ["2024到2025年用戶數增長幅度為80萬人。", "從2025到2026年用戶數增長幅度為120萬人。", "2023到2024年及2024到2025年的用戶數增長幅度均為125萬人。", "2023到2024年用戶數增長幅度為110萬人。"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2023年至2026年間的行動支付交易總額增長趨勢，以下哪一項描述是正確的？", "answer": "C", "choice": ["行動支付交易總額在2023年至2026年間增長率隨著時間逐年降低，最終文件顯示只有10%的增長率。", "行動支付交易總額的增長率穩定在每年15%，但到2026年仍未達到8000億元。", "行動支付交易總額每年以20%的同比增長率穩定增長，從3000億元增至5184億元。", "行動支付交易總額每年以30%的增長率攀升，從3000億元增加到7200億元。"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據2024年至2025年的數據，行動支付交易總額增長量的預測是多少？請參考提供的數據圖表作答。", "answer": "C", "choice": ["800億元", "750億元", "720億元", "700億元"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2023年至2026年的數據，理賠時間縮短的趨勢如何變化？請參考下圖。", "answer": "C", "choice": ["在2023年至2026年間，理賠時間縮短的趨勢將影響保險服務的價格，導致保單價格上升。", "理賠時間縮短的趨勢每年增加7個百分點，從15%增長到43%。", "理賠時間縮短的趨勢每年增加5個百分點，從15%增長到30%。", "理賠時間縮短的趨勢初期穩定，但後期大幅波動，最終提升至25%。"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "從2023年到2025年，理賠處理時間的變化趨勢是如何？", "answer": "C", "choice": ["每年增長4個百分點，呈現不穩定的波動趨勢。", "每年增長2個百分點，顯示增長幅度緩慢。", "每年增長5個百分點，呈現穩定上升的趨勢。", "每年增長6個百分點，顯示處理時間迅速增長。"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖表，從2024年到2025年，數位銀行用戶數的增長趨勢為何？", "answer": "C", "choice": ["數位銀行用戶數增長了12%。", "數位銀行用戶數增長了20%。", "數位銀行用戶數增長了16.28%。", "數位銀行用戶數增長了10%。"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖片所示，從2023年到2025年，數位銀行用戶數的總增長率是多少？", "answer": "C", "choice": ["22%", "36.67%", "38.89%", "50%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年到2025年的數據，數位銀行用戶數的平均值是多少？請參考下方數據圖表以選擇正確的答案。", "answer": "C", "choice": ["7.2百萬", "5.8百萬", "8.6百萬", "11.3百萬"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖片數據，從2023年到2025年，哪一年的區塊鏈技術在金融交易中的應用增長百分比增加最多？", "answer": "C", "choice": ["從2023年到2025年，應用增長百分比總共增加了15%。", "從2024年到2025年，應用增長百分比為0%。", "從2024年到2025年，應用增長百分比增加了20%。", "從2023年到2024年，應用增長百分比增加了30%。"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表7的資料，2023年至2027年間外資投入增長百分比的平均值是多少？以下哪一選項是正確的？", "answer": "D", "choice": ["11.8%", "12.0%", "9.5%", "11.4%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表1的資料，以下哪個選項最接近2020年到2023年期間市場規模的平均增長量？", "answer": "A", "choice": ["66.67", "68.00", "65.50", "72.00"]}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，從2023年到2025年，理賠處理時間縮短的百分比每年穩定增加5%。", "answer": "是", "question_group": 890}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，從2023年到2025年，理賠處理時間縮短的百分比每年減少5%。", "answer": "否", "question_group": 890}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖表，從2024年到2025年，數位銀行用戶數增長了16.28%。", "answer": "是", "question_group": 891}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖表，從2024年到2025年，數位銀行用戶數增長了12%。", "answer": "否", "question_group": 891}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，行動支付交易總額每年以20%的同比增長率穩定增長，從2023年的3000億元增至2026年的5184億元。", "answer": "是", "question_group": 892}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，行動支付交易總額每年以10%的同比增長率增長，從2023年的3000億元增至2026年的5184億元。", "answer": "否", "question_group": 892}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，風險管理和客戶服務的客戶滿意度提升相加的總和是55。", "answer": "是", "question_group": 893}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，風險管理和客戶服務的客戶滿意度提升相加的總和是60。", "answer": "否", "question_group": 893}
+
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖片，從2023年到2025年，數位銀行用戶數的總增長率是38.89%。", "answer": "是", "question_group": 894}
+
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖片，從2023年到2025年，數位銀行用戶數的總增長率是50%。", "answer": "否", "question_group": 894}
+
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，從2022年到2023年，台灣行動支付用戶數量的年增長率是26.32%。", "answer": "是", "question_group": 895}
+
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，從2022年到2023年，台灣行動支付用戶數量的年增長率是15%。", "answer": "否", "question_group": 895}
+
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，理賠處理時間縮短的年均增長率為15.47%，在所有指標中是最高的。", "answer": "是", "question_group": 896}
+
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，客戶滿意度提升的年均增長率為18.32%，在所有指標中是最高的。", "answer": "否", "question_group": 896}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，2020年至2023年台灣行動支付用戶數量占總人口比例呈現逐年上升的趨勢。", "answer": "是", "question_group": 897}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，2020年至2023年台灣行動支付用戶數量占總人口比例在某一年下降。", "answer": "否", "question_group": 897}
+

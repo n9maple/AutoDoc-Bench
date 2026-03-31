@@ -1,0 +1,38 @@
+{"category": "Open", "question_type": "Comparison", "question": "2022 年和 2023 年台指期貨的最大單日漲幅差距是多少？", "answer": "0.4%"}
+{"category": "Open", "question_type": "Comparison", "question": "在兩年間，哪一年全年點數差距較小？", "answer": "2023年"}
+{"category": "Open", "question_type": "Comparison", "question": "根據2022年的數據，美國10年期公債年初和年末殖利率中哪一個更高？", "answer": "年末殖利率較高"}
+{"category": "Open", "question_type": "Comparison", "question": "哪一年參與率較高？", "answer": "2023年的參與率較高"}
+{"category": "Open", "question_type": "Comparison", "question": "2023年的IT基礎設施投資與2022年相比增加了多少百分比？", "answer": "2023年的IT基礎設施投資與2022年相比增加了66.67%。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的圖片，2022 年和 2023 年台指期貨的最大單日漲幅差距是多少？", "answer": "C", "choice": ["0.35%", "0.6%", "0.4%", "0.25%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中的數據，哪一年在兩年間的全年點數差距較小？", "answer": "C", "choice": ["2024年", "2021年", "2023年", "2020年"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2022年的數據，以下哪一項反映了美國10年期公債年初和年末殖利率的比較？", "answer": "C", "choice": ["年初和年末殖利率有顯著差距，但年初仍高於年末", "年末殖利率持平或較低，與全年市場表現無關", "年末殖利率較高", "年初殖利率與年末殖利率相差不到0.5%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖所示，哪一年參與率較高？", "answer": "C", "choice": ["2020年", "2022年", "2023年", "2024年"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的資料，講座參與人數年成長率和適合性評估參與比例的增幅分別是多少？", "answer": "C", "choice": ["講座參與人數年成長率增加了10個百分點，適合性評估參與比例增加了5個百分點。", "講座參與人數年成長率增加了15個百分點，適合性評估參與比例減少了2個百分點。", "講座參與人數年成長率增加了27個百分點，適合性評估參與比例增加了6個百分點。", "講座參與人數年成長率增加了25個百分點，適合性評估參與比例增加了4個百分點。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下面的數據，2023年的IT基礎設施投資與2022年相比增加了多少百分比？\n\n1. 2023年：300萬美元\n2. 2022年：180萬美元", "answer": "C", "choice": ["增長接近80%", "75%", "66.67%", "100%"]}
+{"category": "Open", "question_type": "Difference Calculation", "question": "波動率最高與最低的基金類型之間的差距是多少？", "answer": "11.3%"}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖片中的基金類型，波動率最高與最低的基金之間的差距是多少？", "answer": "C", "choice": ["13.5%", "9.8%", "11.3%", "12.0%"]}
+{"category": "Open", "question_type": "Comparison", "question": "根據表5的資料，比較2023年和2023-10月的台指期貨單日最大結算損益倍數，哪一段時間的損益倍數更高，並計算其增加或減少的百分比？", "answer": "2023年的損益倍數更高，2023-10月的損益倍數相比減少了5.26%。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖3，以下哪個指標的落差較小？", "answer": "C", "choice": ["指標50的落差較大。", "指標40的落差較大。", "指標33.5的落差較小。", "所有指標的落差明顯不同。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表4的資料，2022年美國10年期公債年初殖利率與年末殖利率相比，哪一個較高，且可能影響債券市場的原因是什麼？", "answer": "A", "choice": ["2022年美國10年期公債年末殖利率較高，這可能導致債券價格下降。", "年初殖利率較高表示央行可能會加息，這與年末殖利率無直接關聯，因此不影響債券價格。", "年末殖利率較高可能與經濟增長預期有關，因此債券市場可能也不會受到影響。", "2022年美國10年期公債年末殖利率較低，這可能會導致投資者對債券市場的信心增加。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表6，標的價值是每口保證金的多少倍？以下哪一個選項是正確的？", "answer": "C", "choice": ["20.00", "14.50", "16.67", "10.00"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表2的資料，在2022年和2023年中，以下哪一年的台指期貨最大單日漲幅與最大單日跌幅的變化幅度更大？", "answer": "D", "choice": ["2022年漲幅較小且跌幅較大，因此變化幅度較小", "2023年經歷了較大的市場波動，導致漲跌幅變化明顯", "2023年因為交易日數量更高，所以漲幅應該更大", "2023年"]}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，從2022年到2023年，講座參與人數年成長率增加了27個百分點，適合性評估參與比例增加了6個百分點。", "answer": "是", "question_group": 439}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，從2022年到2023年，講座參與人數年成長率增加了15個百分點，適合性評估參與比例增加了10個百分點。", "answer": "否", "question_group": 439}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2022 年和 2023 年台指期貨的最大單日漲幅差距是 0.4%。", "answer": "是", "question_group": 440}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2022 年和 2023 年台指期貨的最大單日漲幅差距是 1.0%。", "answer": "否", "question_group": 440}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的IT基礎設施投資比2022年增加了66.67%。", "answer": "是", "question_group": 441}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的IT基礎設施投資比2022年增加了50%。", "answer": "否", "question_group": 441}
+
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖表，兩個指標的落差差距是9.3百分點。", "answer": "是", "question_group": 442}
+
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖表，兩個指標的落差差距是6.5百分點。", "answer": "否", "question_group": 442}
+
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，波動率最高與最低的基金之間的差距為 11.3%。", "answer": "是", "question_group": 443}
+
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，波動率最高與最低的基金之間的差距為 7.0%。", "answer": "否", "question_group": 443}
+

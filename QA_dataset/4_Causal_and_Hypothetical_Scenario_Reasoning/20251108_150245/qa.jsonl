@@ -1,0 +1,6 @@
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果法律法規和理賠技術的培訓次數總和增加 50%，那麼它們合計的培訓次數是多少？", "answer": "18"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "如果法律法規和理賠技術的培訓次數總和增加 50%，那麼它們合計的培訓次數將是多少？以下選項中哪一個是正確的？", "answer": "C", "choice": ["30", "22", "18", "12"]}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，如果法律法規和理賠技術的培訓次數總和增加50%，那麼它們合計的培訓次數將是18。", "answer": "是", "question_group": 1507}
+
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，如果法律法規和理賠技術的培訓次數總和增加50%，那麼它們合計的培訓次數將是15。", "answer": "否", "question_group": 1507}
+

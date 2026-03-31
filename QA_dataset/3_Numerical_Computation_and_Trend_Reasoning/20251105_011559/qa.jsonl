@@ -1,0 +1,18 @@
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2022年到2023年，個人投資者占比增加了多少個百分點？", "answer": "8個百分點"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2022年到2023年，外資機構的交易量占比增加了多少百分點？", "answer": "外資機構的交易量占比從2022年到2023年增加了5個百分點。"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據下圖，從2022年到2023年，個人投資者的占比變化了多少？", "answer": "C", "choice": ["下降了3個百分點", "保持穩定", "8個百分點", "上升了2個百分點"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據下圖，外資機構的交易量占比在2022年與2023年之間的變化顯示了多少百分點的增加？", "answer": "C", "choice": ["沒有變化", "10個百分點", "5個百分點", "2個百分點"]}
+{"category": "Open", "question_type": "Aggregation", "question": "所有產品類型增長百分比的總和是多少?", "answer": "66"}
+{"category": "Open", "question_type": "Temporal Trend", "question": "從2023年到2026年，跨境產品互認的數量是如何變化的？", "answer": "從2023年到2026年，跨境產品互認的數量逐年增加，分別是2、4、5和7，顯示出穩定的增長趨勢。"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的數據，以下哪一項是所有產品類型增長百分比的總和？", "answer": "C", "choice": ["50", "100", "66", "75"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖表，2023年至2026年之間，跨境產品互認的數量變化趨勢是什麼？", "answer": "C", "choice": ["跨境產品互認的數量在2023年持平，隨後於2024年小幅下降至3，2025年及2026年再次上升至5和6。", "跨境產品互認的數量在2023年至2026年間減少，最終在2026年降至1。", "跨境產品互認的數量逐年增加，分別為2、4、5和7。", "跨境產品互認的數量在2023年為4，然後在2024年和2025年各自增加至5和6，最後在2026年減少至5。"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表2的資料，如果未來每種期貨的增長率每年增加2%，則在兩年後，哪一種期貨的增長率會是最高的？", "answer": "C", "choice": ["石油期貨（假設其增長率為10%）", "金屬期貨（假設其增長率為5%）", "ESG相關期貨", "虛擬貨幣期貨（假設其增長率為7%）"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖1，以下哪些產品類型的增長百分比最低？這些產品類型的增長百分比總和是多少？", "answer": "A", "choice": ["增長百分比最低的產品類型有兩個，且它們的增長百分比總和是0。", "增長百分比最低的產品類型有兩個，且它們的增長百分比總和為-4%。", "增長百分比最低的產品類型有三個，且它們的增長百分比總和為0。", "增長百分比最低的產品類型只有一個，且其增長百分比是1。"]}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，外資機構的交易量占比從2022年到2023年增加了5個百分點。", "answer": "是", "question_group": 788}
+
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，外資機構的交易量占比從2022年到2023年增加了10個百分點。", "answer": "否", "question_group": 788}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，所有產品類型增長百分比的總和是66%。", "answer": "是", "question_group": 789}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，所有產品類型增長百分比的總和是70%。", "answer": "否", "question_group": 789}
+

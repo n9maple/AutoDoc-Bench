@@ -1,0 +1,14 @@
+{"category": "Open", "question_type": "Comparison", "question": "比較無摩擦升級與摩擦升級情況下的全球經濟增長影響，哪個情況對全球經濟增長影響更大且結果為何？", "answer": "摩擦升級對全球經濟增長影響更大，影響為-0.3%。"}
+{"category": "Open", "question_type": "Comparison", "question": "哪個行業在管理投資上比另外一個行業高，並且高多少百分比？", "answer": "電子行業在管理投資上比醫藥行業高1%。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片所示，無摩擦升級與摩擦升級情況下的全球經濟增長影響，哪種情況對全球經濟增長影響更大？", "answer": "C", "choice": ["摩擦升級對全球經濟增長的影響為-0.1%。", "摩擦升級對全球經濟增長的影響為-0.4%。", "摩擦升級對全球經濟增長的影響更大，影響為-0.3%。", "摩擦升級對全球經濟增長的影響為-0.15%。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2024年的預測，全球增長率與非洲的增長率相比，哪個是正確的描述？", "answer": "C", "choice": ["全球增長率穩定在非洲的增長率之上。", "全球增長率在2024年將優於非洲的增長率。", "全球增長率低於非洲的增長率。", "全球增長率的變化與非洲增長率的趨勢相同。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的資料，哪個行業在管理投資上比另一個行業高，並且高多少百分比？請參考圖片中的數據情境。", "answer": "C", "choice": ["電子行業在管理投資上比醫藥行業高10%。", "電子行業在管理投資上比醫藥行業高5%。", "電子行業在管理投資上比醫藥行業高1%。", "醫藥行業在管理投資上比電子行業高2%。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖2，在2024年第4季度，以下哪個國家的利率最低？", "answer": "D", "choice": ["歐元區", "英國", "日本", "中國"]}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，摩擦升級對全球經濟增長的影響更大，導致經濟增長下降0.3%。", "answer": "是", "question_group": 302}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，無摩擦升級對全球經濟增長的影響更大，導致經濟增長下降。", "answer": "否", "question_group": 302}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，電子行業在管理投資上比醫藥行業高1%。", "answer": "是", "question_group": 303}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，醫藥行業在管理投資上比電子行業高1%。", "answer": "否", "question_group": 303}
+

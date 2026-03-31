@@ -1,0 +1,38 @@
+{"category": "Open", "question_type": "Aggregation", "question": "2023年所有功能滿意度的平均值是多少？", "answer": "86"}
+{"category": "Open", "question_type": "Aggregation", "question": "2024年1月至2024年3月期間，帳號異常問題的總和是多少？", "answer": "帳號異常問題的總和是3960。"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2024年1月到2024年3月，下單故障的數量有什麼趨勢？", "answer": "從2024年1月到2024年3月，下單故障的數量趨勢是先保持不變，然後略有下降。"}
+{"category": "Open", "question_type": "Aggregation", "question": "從2024年1月至2024年3月，協助解決下單問題件數的總和是多少？", "answer": "6475"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2024年1月至2024年3月，因價格或數量設定不符佔比的變化趨勢如何？", "answer": "因價格或數量設定不符佔比的變化趨勢是先下降後上升。"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2024年1月至2024年3月的資料，帳號異常問題的總和是多少？請根據圖表內容選擇正確答案。", "answer": "C", "choice": ["4500", "3000", "3960", "3800"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據下單故障的數量趨勢，從2024年1月到2024年3月，以下哪一項描述是正確的？", "answer": "C", "choice": ["顯著下降後持平，然後再次上升。", "逐月減少，然後保持水平。", "先保持不變，然後略有下降。", "維持在高水平，然後開始緩慢下降。"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2024年1月至2024年3月的數據，解決下單問題的件數總和為多少？", "answer": "C", "choice": ["6630", "6300", "6475", "7000"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2024年1月至2024年3月的數據，因價格或數量設定不符佔比的變化趨勢是？", "answer": "C", "choice": ["持平無變化", "逐步減少", "先下降後上升", "劇烈波動"]}
+{"category": "Open", "question_type": "Temporal Trend", "question": "在2024年1月1日至1月3日的自助匯出次數中，哪一天的次數最少？", "answer": "2024年1月1日和2024年1月2日的自助匯出次數最少"}
+{"category": "Open", "question_type": "Rate of Change", "question": "從2024年1月1日到2024年1月2日，自助匯出次數的變化率是多少？", "answer": "變化率為0%"}
+{"category": "Open", "question_type": "Aggregation", "question": "前三個問題類型的詢問佔比總和是多少?", "answer": "55%"}
+{"category": "Open", "question_type": "Aggregation", "question": "所有功能/用戶類型的2024年Q1瀏覽量總和是多少？", "answer": "240000"}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2024年1月1日至1月3日的自助匯出次數，以下哪一天的次數最少？", "answer": "C", "choice": ["2024年1月3日的自助匯出次數比1月1日還要少", "2024年1月2日的自助匯出次數與1月1日持平", "2024年1月1日和2024年1月2日的自助匯出次數最少", "2024年1月1日和2024年1月3日的自助匯出次數相同"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖片所示的自助匯出次數變化，2024年1月1日到2024年1月2日的變化率為多少？", "answer": "C", "choice": ["變化率為5%", "變化率為-10%", "變化率為0%", "變化率為30%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據以下圖表，前三個問題類型的詢問佔比總和是多少？", "answer": "C", "choice": ["65%", "52%", "55%", "58%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2024年Q1的瀏覽量數據，所有功能/用戶類型的總瀏覽量是多少？", "answer": "C", "choice": ["200000", "300000", "240000", "255000"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表4的資料，計算2024年1月到3月所有其他問題的總數，並平均分配到每個月。以下哪一項是其平均值？", "answer": "D", "choice": ["600.00", "660.00", "616.67", "646.67"]}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2024年1月至2024年3月解決下單問題的件數總和為6475。", "answer": "是", "question_group": 963}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2024年1月至2024年3月解決下單問題的件數總和為7000。", "answer": "否", "question_group": 963}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖表，前三個問題類型的詢問佔比總和是55%。", "answer": "是", "question_group": 964}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖表，前三個問題類型的詢問佔比總和是45%。", "answer": "否", "question_group": 964}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，2024年1月1日和2024年1月2日的自助匯出次數最少。", "answer": "是", "question_group": 965}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，2024年1月3日的自助匯出次數最少。", "answer": "否", "question_group": 965}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2024年Q1所有功能/用戶類型的總瀏覽量為240000。", "answer": "是", "question_group": 966}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2024年Q1所有功能/用戶類型的總瀏覽量為200000。", "answer": "否", "question_group": 966}
+
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2024年1月到2024年3月，下單故障的數量在前兩個月保持不變，第三個月略有下降。", "answer": "是", "question_group": 967}
+
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2024年1月到2024年3月，下單故障的數量持續增加。", "answer": "否", "question_group": 967}
+

@@ -1,0 +1,11 @@
+{"category": "Open", "question_type": "Fact Lookup", "question": "在資金分配比例中，哪個項目的比例是20%？", "answer": "軌道與基礎設施維護及升級"}
+{"category": "Open", "question_type": "Proportion", "question": "風險管理委員會中工程領域專家所佔的總比例是多少？", "answer": "33.3%"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "在資金分配比例中，以下哪個項目的比例是20%？（請參考圖片內容）", "answer": "C", "choice": ["綠色能源推廣計劃(比例: 15%)", "醫療服務改善計劃(比例: 25%)", "軌道與基礎設施維護及升級", "文化藝術活動支持(比例: 10%)"]}
+{"category": "MCQ", "question_type": "Proportion", "question": "在風險管理委員會中，工程領域專家所佔的總比例為何？請參考以下圖示來選擇正確答案。", "answer": "C", "choice": ["35%", "25%", "33.3%", "50%"]}
+{"category": "Open", "question_type": "Fact Lookup", "question": "根據圖2，哪個領域的專家數量最多？", "answer": "工程"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖2，以下哪個領域的專家數量最多？", "answer": "A", "choice": ["工程", "科技", "環境科學", "教育"]}
+{"category": "MCQ", "question_type": "Proportion", "question": "根據圖2，法律領域專家所占的百分比是多少？以下選項中哪一項是正確的？", "answer": "C", "choice": ["20%", "22%", "16.7%", "18%"]}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，軌道與基礎設施維護及升級的資金分配比例是20%。", "answer": "是", "question_group": 235}
+
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，車輛購置的資金分配比例是20%。", "answer": "否", "question_group": 235}
+

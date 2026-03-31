@@ -1,0 +1,7 @@
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果銀行想要將不良貸款餘額減少 10 億元，並且撥備覆蓋率保持不變，新的撥備金額應該是多少？", "answer": "新的撥備金額應該是100億元"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "如果銀行想要將不良貸款餘額減少 10 億元，並且撥備覆蓋率保持不變，根據圖示，新的撥備金額應該是多少？", "answer": "C", "choice": ["90億元", "70億元", "100億元", "130億元"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表2的資料，若2023年和2024年的綠色金融產品總額各自減去可再生能源項目的金額，請問2023年和2024年剩餘的金額分別為多少？請選擇正確的選項。", "answer": "D", "choice": ["2023年剩餘金額為125億元，2024年剩餘金額為115億元。", "2023年剩餘金額為138億元，2024年剩餘金額為121億元。", "2023年剩餘金額為132億元，2024年剩餘金額為119億元。", "2023年剩餘金額為130億元，2024年剩餘金額為120億元。"]}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，若銀行將不良貸款餘額減少10億元並保持撥備覆蓋率不變，新的撥備金額應該是100億元。", "answer": "是", "question_group": 1508}
+
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，若銀行將不良貸款餘額減少10億元並保持撥備覆蓋率不變，新的撥備金額應該是50億元。", "answer": "否", "question_group": 1508}
+

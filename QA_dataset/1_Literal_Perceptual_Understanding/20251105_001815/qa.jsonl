@@ -1,0 +1,10 @@
+{"category": "Open", "question_type": "Part-to-Whole", "question": "在2024年金融業高股息公司股息收益率分布中，股息收益率>5%的公司占總數的百分比是多少？", "answer": "80.0%"}
+{"category": "Open", "question_type": "Proportion", "question": "在高股息公司中，負債比率小於等於50%的公司數量佔全部公司的百分比是多少？", "answer": "70.0%"}
+{"category": "MCQ", "question_type": "Part-to-Whole", "question": "根據2024年金融業高股息公司的股息收益率分布，下列哪一項最接近股息收益率大於5%的公司占總數的百分比？", "answer": "C", "choice": ["70.0%", "85.0%", "80.0%", "60.0%"]}
+{"category": "MCQ", "question_type": "Proportion", "question": "根據提供的數據，假設有一張顯示高股息公司的負債比率和數量的圖片，圖中顯示負債比率小於等於50%的公司數量佔全部公司的百分比為何？", "answer": "C", "choice": ["68.5%", "75.0%", "70.0%", "64.0%"]}
+{"category": "Open", "question_type": "Fact Lookup", "question": "在圖5中，風險承受高的投資者類型的依賴度是多少？", "answer": "由於沒有提供具體數據，我無法給出最終答案。"}
+{"category": "MCQ", "question_type": "Proportion", "question": "根據圖2，負債比率在<=50%的公司數量佔總公司的比例是多大？請從以下選項中選擇正確答案。", "answer": "C", "choice": ["65.0%", "72.5%", "70.0%", "68.0%"]}
+{"category": "YesNo", "question_type": "Part-to-Whole", "question": "根據表格，股息收益率大於5%的公司占總數的百分比是80%。", "answer": "是", "question_group": 0}
+
+{"category": "YesNo", "question_type": "Part-to-Whole", "question": "根據表格，股息收益率大於5%的公司占總數的百分比是50%。", "answer": "否", "question_group": 0}
+

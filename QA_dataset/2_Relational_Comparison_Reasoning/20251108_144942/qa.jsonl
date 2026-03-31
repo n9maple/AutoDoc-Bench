@@ -1,0 +1,15 @@
+{"category": "Open", "question_type": "Comparison", "question": "總收益與紅利分配總額之間的差額是多少？", "answer": "32"}
+{"category": "Open", "question_type": "Comparison", "question": "1-4年期間的傳統壽險紅利比例與健康險紅利比例之間的差距是多少？", "answer": "2%"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下面的圖片，總收益與紅利分配總額之間的差額是？", "answer": "C", "choice": ["33", "30", "32", "35"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的數據，1-4年期間傳統壽險紅利比例和健康險紅利比例之間的差距是多少？", "answer": "C", "choice": ["1%", "3%", "2%", "5%"]}
+{"category": "Open", "question_type": "Difference Calculation", "question": "最高收入與最低收入的保險產品類別之間的差距是多少？", "answer": "150億新台幣"}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖片所示，最高收入與最低收入的保險產品類別之間的差距是多少？", "answer": "C", "choice": ["100億新台幣", "120億新台幣", "150億新台幣", "160億新台幣"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖1中，保險產品類別的收入差異，以下哪一項是收入最高與最低的產品類別之間的差異？", "answer": "B", "choice": ["160億元", "150億元", "120億元", "200億元"]}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，1-4年期間傳統壽險紅利比例和健康險紅利比例之間的差距是2%。", "answer": "是", "question_group": 698}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，1-4年期間傳統壽險紅利比例和健康險紅利比例之間的差距是5%。", "answer": "否", "question_group": 698}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，總收益與紅利分配總額之間的差額是32。", "answer": "是", "question_group": 699}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，總收益與紅利分配總額之間的差額是40。", "answer": "否", "question_group": 699}
+

@@ -1,0 +1,9 @@
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "在2021年和2022年間，企業破產率上升率和股市波動率上升率的總和變化了多少個百分點？", "answer": "總和變化了2個百分點"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果地區分散化的百分比降低10%，那麼行業分散化的百分比需要提高多少才能使兩者的總和達到150%？", "answer": "行業分散化的百分比需要提高10%。"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據相關數據，在2021年和2022年間，企業破產率上升率和股市波動率上升率的總和變化了多少個百分點？請參考以下情境進行比較：情境A顯示企業破產率上升2個百分點，股市波動率未變；情境B顯示企業破產率上升1個百分點，股市波動率上升1個百分點。哪個情境最能夠正確表達答案？", "answer": "C", "choice": ["總和變化了3個百分點", "總和變化了3.5個百分點", "總和變化了2個百分點", "總和變化了1個百分點"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "在以下情境中，假設地區分散化的百分比降低10%，要使行業分散化的百分比和地區分散化的百分比總和達到150%，行業分散化的百分比需要提高多少？", "answer": "C", "choice": ["5%", "8%", "10%", "25%"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表3的資料，假設行業分散化每年增加3%，而地區分散化每年增加4%，那麼到2025年時，以下哪一項是正確的行業分散化和地區分散化的數值？", "answer": "D", "choice": ["行業分散化將是76.00%，地區分散化將是78.00%。", "行業分散化將是75.00%，地區分散化將是76.00%。", "行業分散化將是72.50%，地區分散化將是74.50%。", "行業分散化將是74.36%，地區分散化將是75.52%。"]}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，行業分散化的百分比需要提高20%才能使地區分散化的百分比和行業分散化的百分比總和達到150%。", "answer": "是", "question_group": 1516}
+
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，行業分散化的百分比需要提高10%才能使地區分散化的百分比和行業分散化的百分比總和達到150%。", "answer": "否", "question_group": 1516}
+

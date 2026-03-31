@@ -1,0 +1,9 @@
+{"category": "Open", "question_type": "Reasoning", "question": "在分析2023年全球保險市場增長的過程中，亞太地區和拉丁美洲通過哪些變革影響了市場？根據不同地區的驅動因素比較其技術變革的交互效應。", "answer": "亞太地區的市場增長主要受到中國和印度的保險滲透率提高，經濟發展和數字化轉型的驅動。"}
+{"category": "MCQ", "question_type": "Reasoning", "question": "在分析2023年全球保險市場增長的過程中，亞太地區和拉丁美洲通過哪些變革影響了市場？根據不同地區的驅動因素比較其技術變革的交互效應。", "answer": "D", "choice": ["Default option 2", "Default option 1", "Default option 3", "亞太地區的市場增長主要受到中國和印度的保險滲透率提高，經濟發展和數字化轉型的驅動。"]}
+{"category": "Open", "question_type": "Reasoning", "question": "根據圖片描述，2023年安泰人壽在利用哪些技術手段推動其保險產品創新，以在運營效率和客戶滿意度上取得競爭優勢？", "answer": "推出基於行為數據的動態定價車險，提高了風險評估精準度和理賠效率。"}
+{"category": "MCQ", "question_type": "Reasoning", "question": "根據圖片描述，2023年安泰人壽在利用哪些技術手段推動其保險產品創新，以在運營效率和客戶滿意度上取得競爭優勢？", "answer": "A", "choice": ["推出基於行為數據的動態定價車險，提高了風險評估精準度和理賠效率。", "實施全自動化的客戶服務系統，使得客戶諮詢更加迅速便捷。", "利用區塊鏈技術來管理合約，降低了運營風險。", "推出基於人工智能的保險計算平臺，增強了市場交易靈活性。"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表4的資料，如果保德信金融在全球壽險市場的市場份額增加3%，而在亞洲市場的市場份額減少2%，那麼這些變化後，其在全球壽險市場和亞洲市場的市場份額總和將是多少？以下哪個選項是正確的？", "answer": "C", "choice": ["19%", "23%", "20%", "21%"]}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，亞太地區的市場增長主要受到中國和印度的保險滲透率提高，經濟發展和數字化轉型的驅動。", "answer": "是", "question_group": 1192}
+
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，拉丁美洲的市場增長主要受到中國和印度的保險滲透率提高，經濟發展和數字化轉型的驅動。", "answer": "否", "question_group": 1192}
+

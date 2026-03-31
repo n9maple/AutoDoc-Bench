@@ -1,0 +1,67 @@
+{"category": "Open", "question_type": "Aggregation", "question": "美國和歐盟在2024年的總經濟額是多少兆美元？", "answer": "4.67兆美元"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "在2023年和2026年間，亞洲地區的收入增長了多少億美元？", "answer": "25億美元"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2017到2023年，電子支付用戶數增加了多少？", "answer": "1500"}
+{"category": "Open", "question_type": "Aggregation", "question": "2017到2023年間電子支付市場滲透率的平均值是多少？", "answer": "50"}
+{"category": "Open", "question_type": "Aggregation", "question": "在2022年和2023年之間，消費者損失降低率的平均值是多少？", "answer": "18.5%"}
+{"category": "Open", "question_type": "Aggregation", "question": "所有行業的數據整合與申報時間縮短比例的平均值是多少？", "answer": "31"}
+{"category": "Open", "question_type": "Aggregation", "question": "在 2020 年至 2023 年之間，金融科技相關職缺數的平均年成長率是多少？", "answer": "平均年成長率是 20.5%。"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2024年的預測數據，下列哪一項最接近美國和歐盟的總經濟額？", "answer": "C", "choice": ["5.1兆美元", "4.8兆美元", "4.67兆美元", "3.9兆美元"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據提供的圖片，在2023年和2026年間，亞洲地區的收入增長了多少億美元？", "answer": "C", "choice": ["40億美元", "15億美元", "25億美元", "50億美元"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2022年和2023年的資料，取得電子支付機構執照家數和金融科技新創企業家數的總和分別為多少？請參考下圖的數據。", "answer": "C", "choice": ["2023年的總和是198。", "2023年的總和是300。", "2023年的總和是237。", "2023年的總和是276。"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據圖表顯示，從2017到2023年，電子支付用戶數的增長範圍是多少？", "answer": "C", "choice": ["1300", "1600", "1500", "1700"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2017到2023年間的電子支付市場滲透率，以下哪一項最接近其平均值？", "answer": "C", "choice": ["45", "58", "50", "65"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2022年和2023年的數據，消費者損失降低率的平均值可能是以下哪一選項？", "answer": "C", "choice": ["19.1%", "21.0%", "18.5%", "17.8%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據所提供的圖片，所有行業的數據整合與申報時間縮短比例的平均值是？", "answer": "C", "choice": ["25", "36", "31", "29"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2020年至2023年的數據，金融科技相關職缺數的平均年成長率是多少？以下哪一選項為正確答案？", "answer": "C", "choice": ["平均年成長率是21%。", "平均年成長率是19%。", "平均年成長率是20.5%。", "平均年成長率是23%。"]}
+{"category": "Open", "question_type": "Temporal Trend", "question": "從2021年到2022年，哪個國家的金融科技投資總額下降最多（以億美元計）？", "answer": "美國的金融科技投資總額下降最多，下降了45億美元。"}
+{"category": "Open", "question_type": "Rate of Change", "question": "從2021年到2022年，哪個國家的金融科技投資總額下降比例最小？", "answer": "新加坡"}
+{"category": "Open", "question_type": "Temporal Trend", "question": "從2018年到2023年，案件審查時程（天）呈現什麼樣的趨勢？", "answer": "案件審查時程（天）呈現下降的趨勢。"}
+{"category": "Open", "question_type": "Rate of Change", "question": "從2019年到2020年，可疑交易通報率提升的百分比是多少？", "answer": "5%"}
+{"category": "Open", "question_type": "Aggregation", "question": "2020年到2023年間，累計申請件數的年均增長是多少件？", "answer": "年均增長是8件"}
+{"category": "Open", "question_type": "Rate of Change", "question": "2022年與2023年間，成功驗證專案數的增加量是多少？", "answer": "5"}
+{"category": "Open", "question_type": "Temporal Trend", "question": "根據2019至2023年的資料，哪一年資安認證標準數增加最多？", "answer": "2021年和2023年資安認證標準數增加最多，增加了1"}
+{"category": "Open", "question_type": "Aggregation", "question": "從2019到2023年，金融詐騙案件數的總和是多少？", "answer": "129800"}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖片所示，從2021年到2022年，以下哪個國家的金融科技投資總額下降最多（以億美元計）？", "answer": "C", "choice": ["德國的金融科技投資總額下降了70億美元", "中國的金融科技投資總額下降了60億美元", "美國的金融科技投資總額下降了45億美元", "美國的金融科技投資總額下降了55億美元"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據2021年至2022年的金融科技投資數據，以下哪個國家的投資總額下降比例最小？", "answer": "C", "choice": ["英國（下降了3%）", "美國（下降了5%）", "新加坡", "中國（下降了7%）"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖片所示，從2018年到2023年，案件審查時程（天）呈現什麼樣的趨勢？", "answer": "C", "choice": ["案件審查時程（天）在2020年達到最高點，隨後持平。", "案件審查時程（天）在2019年到2021年間持平，之後緩慢下降。", "案件審查時程（天）呈現下降的趨勢。", "案件審查時程（天）自2018年以來基本波動，無明顯的上升或下降趨勢。"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據提供的數據，2019年到2020年可疑交易通報率的提升百分比是多少？", "answer": "C", "choice": ["6%", "8%", "5%", "4%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2020年到2023年間的累計申請件數，年均增長可能是幾件？請根據以下情境判斷。情境A顯示申請件數逐年持平，情境B顯示申請件數每年增長8件，情境C顯示申請件數每年增長10件，情境D顯示申請件數每年減少2件。", "answer": "C", "choice": ["情境D顯示年均減少4件", "情境A顯示年均持平為2件", "情境B顯示年均增長為8件", "情境C顯示年均增長為5件"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖片顯示，2022年與2023年間，成功驗證專案數的增加量為多少？", "answer": "C", "choice": ["3", "8", "5", "2"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2019至2023年的資料，以下哪一年資安認證標準數增加最多？請參考提供的圖表。", "answer": "C", "choice": ["2022年，有全球資安威脅增加，企業加強了驗證標準的要求。", "2021年資安認證標準數增加最多，增加了1.5", "2021年和2023年資安認證標準數增加最多，增加了1", "2023年資安認證標準數持平，沒有增加"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據附圖顯示，2019到2023年間金融詐騙案件數的總和為多少？", "answer": "C", "choice": ["128000", "132000", "129800", "136000"]}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2022年到2026年間，中國經濟增長最顯著的年份是2026年。", "answer": "是", "question_group": 1036}
+
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2022年到2026年間，中國經濟增長最顯著的年份是2025年。", "answer": "否", "question_group": 1036}
+
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖片顯示，2022年與2023年間，成功驗證專案數的增加量為5。", "answer": "是", "question_group": 1037}
+
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖片顯示，2022年與2023年間，成功驗證專案數的增加量為10。", "answer": "否", "question_group": 1037}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，從2018年到2023年，案件審查時程（天）呈現出下降的趨勢。", "answer": "是", "question_group": 1038}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，從2018年到2023年，案件審查時程（天）保持不變。", "answer": "否", "question_group": 1038}
+
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，從2019年到2020年，可疑交易通報率提升了5%。", "answer": "是", "question_group": 1039}
+
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，從2019年到2020年，可疑交易通報率提升了10%。", "answer": "否", "question_group": 1039}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2020年到2023年間累計申請件數的年均增長是8件。", "answer": "是", "question_group": 1040}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2020年到2023年間累計申請件數的年均增長是10件。", "answer": "否", "question_group": 1040}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2020年至2023年金融科技相關職缺數的平均年成長率是22.95%。", "answer": "是", "question_group": 1041}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2020年至2023年金融科技相關職缺數的平均年成長率是15%。", "answer": "否", "question_group": 1041}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖片，從2021年到2022年，美國的金融科技投資總額下降最多，達到45億美元。", "answer": "是", "question_group": 1042}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖片，從2021年到2022年，中國的金融科技投資總額下降最多，達到45億美元。", "answer": "否", "question_group": 1042}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，2021年和2023年資安認證標準數增加最多，分別增加了1。", "answer": "是", "question_group": 1043}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，2022年資安認證標準數增加最多，增加了1。", "answer": "否", "question_group": 1043}
+
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據圖表，從2017到2023年，電子支付用戶數增加了1500。", "answer": "是", "question_group": 1044}
+
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據圖表，從2017到2023年，電子支付用戶數增加了1200。", "answer": "否", "question_group": 1044}
+

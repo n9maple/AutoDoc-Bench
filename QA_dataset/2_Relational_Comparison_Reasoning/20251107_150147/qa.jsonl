@@ -1,0 +1,75 @@
+{"category": "Open", "question_type": "Comparison", "question": "25-40歲和41-60歲年齡段中，哪個年齡段收入在3萬元以上的人群比例更高？", "answer": "25-40歲年齡段中收入在3萬元以上的人群比例更高。"}
+{"category": "Open", "question_type": "Comparison", "question": "1年期與3年期的零存整付利率相差多少個百分點？", "answer": "0.3個百分點"}
+{"category": "Open", "question_type": "Comparison", "question": "2023年利息未達2萬元和超過2萬元的比例差是多少？", "answer": "46%"}
+{"category": "Open", "question_type": "Comparison", "question": "如果提前解約案件占比增加到 5%，那麼與 2023 年的數據相比，增幅是多少？", "answer": "25%"}
+{"category": "Open", "question_type": "Comparison", "question": "2023年『因資金來源不明暫緩開戶比例』和『定存戶個資信任度』相比，哪一個數值更大？", "answer": "定存戶個資信任度的數值更大"}
+{"category": "Open", "question_type": "Comparison", "question": "如果2025年受理案件數與2023年相同，但是平均處理天數增至4天，哪一年平均處理天數較短？", "answer": "2023年"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖的數據，哪一個年齡段中收入在3萬元以上的人群比例更高？", "answer": "C", "choice": ["所有年齡段中收入在3萬元以上的人群比例相同。", "41-55歲年齡段中收入在3萬元以上的人群比例更高。", "25-40歲年齡段中收入在3萬元以上的人群比例更高。", "55歲以上年齡段中收入在3萬元以上的人群比例更高。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下面的利率圖表，1年期與3年期的零存整付利率相差多少個百分點？", "answer": "C", "choice": ["0.2個百分點", "0.4個百分點", "0.3個百分點", "0.6個百分點"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的資料，未達2萬元利息的比例和超過2萬元的比例之間的差異是多少？請參考下圖中的利息分布。選擇正確的差異百分比。", "answer": "C", "choice": ["40%", "38%", "46%", "54%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "假設提前解約案件占比提高至 5%，與 2023 年的數據相比，增幅為多少？請根據下圖的數據推斷您的答案。", "answer": "C", "choice": ["10%", "30%", "25%", "20%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據以下情境，如果2025年受理案件數與2023年相同，但平均處理天數在2025年增至4天，哪一年平均處理天數較短？", "answer": "C", "choice": ["2025年雖然案件數相同，但平均處理天數更短", "2023年所有案件都在同一天內處理完畢", "2023年", "兩年處理效率相同，僅是案件數有變化"]}
+{"category": "Open", "question_type": "Comparison", "question": "在2023年新台幣定存開戶申請案件中，基本資料正確填寫的件數與基本資料錯誤填寫的件數相比，哪一個較少？", "answer": "基本資料錯誤填寫的件數較少"}
+{"category": "Open", "question_type": "Comparison", "question": "2023年新台幣定存帳戶類型中，單筆定存與存本取息的比例相差多少？", "answer": "9.0%"}
+{"category": "Open", "question_type": "Comparison", "question": "比較2023年有諮詢和未諮詢理財專員的存戶數量，哪一類型佔總存戶的比例更高？", "answer": "有諮詢理財專員的存戶比例更高，佔總存戶的81.0%。"}
+{"category": "Open", "question_type": "Comparison", "question": "在2023年度新台幣定存帳戶申請類型分布中，未滿20歲申請與其他類型申請的數量相比，哪一個較多？", "answer": "未滿20歲申請的數量較多"}
+{"category": "Open", "question_type": "Comparison", "question": "半年期和3年期的開戶數量差距是多少？", "answer": "3"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "使用率最低的便利服務項目與第二低的項目之間的使用率差異是多少？", "answer": "34"}
+{"category": "MCQ", "question_type": "Comparison", "question": "在2023年新台幣定存開戶申請案件中，根據圖片所示，基本資料正確填寫的件數與基本資料錯誤填寫的件數相比，哪一個較少？", "answer": "C", "choice": ["基本資料的錯誤填寫件數大幅低於正確數量", "基本資料錯誤填寫的件數為20件", "基本資料錯誤填寫的件數較少", "基本資料的填寫正確率約為70%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在2023年新台幣定存帳戶類型中，單筆定存與存本取息的比例差異是多少？根據以下圖片資料，選出正確選項。", "answer": "C", "choice": ["8.5%", "11.0%", "9.0%", "10.5%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的數據，哪一類型的存戶在總存戶中所佔的比例更高？（請參考圖片提供的數據）", "answer": "C", "choice": ["在總存戶中，諮詢理財專員的存戶比例與未諮詢存戶持平，各佔50.0%。", "存戶中有諮詢理財專員的比例低於無諮詢的存戶，佔39.0%。", "有諮詢理財專員的存戶比例佔總存戶的81.0%。", "有諮詢理財專員的存戶比例佔總存戶的80.0%。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年度新台幣定存帳戶申請類型分布，以下哪一類型的申請數量較多？", "answer": "C", "choice": ["未滿18歲申請的數量較多", "滿20至30歲申請的數量較多", "未滿20歲申請的數量較多", "滿21至25歲申請的數量較多"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖顯示的開戶數量，半年期和3年期之間的差距是多少？", "answer": "C", "choice": ["1", "6", "3", "0"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據提供的數據，使用率最低的便利服務項目與第二低的項目之間的使用率差異是下列哪一項？", "answer": "C", "choice": ["28", "35", "34", "31"]}
+{"category": "Open", "question_type": "Ranking", "question": "在2023年新台幣定存開戶申請案件中，基本資料正確填寫和基本資料錯誤填寫按件數多少的排名是怎樣的？", "answer": "基本資料正確填寫的件數排名第一，基本資料錯誤填寫的件數排名第二。"}
+{"category": "Open", "question_type": "Ranking", "question": "在2023年新台幣定存帳戶類型開戶比例中，哪種類型的比例最高？", "answer": "整存整付的比例最高，為68.0%"}
+{"category": "Open", "question_type": "Ranking", "question": "在2023年度新台幣定存帳戶申請類型分布中，哪個申請類型的數量排在第四位？", "answer": "代理人代辦"}
+{"category": "Open", "question_type": "Ranking", "question": "在2023年定存客戶開戶型態分布中，哪個開戶期限的數量最低？", "answer": "3年期的數量最低，為12。"}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據2023年新台幣定存開戶申請案件資料，基本資料的填寫情況排名如何？", "answer": "C", "choice": ["所有資料的填寫狀況完全相同，沒有明顯的差異。", "基本資料正確填寫的件數與錯誤填寫的件數相差不大，無法明確排名。", "基本資料正確填寫的件數排名第一，基本資料錯誤填寫的件數排名第二。", "基本資料填寫的正確率高達70%，但仍有30%的錯誤案件，顯示某些事務無法明確排名。"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據2023年新台幣定存帳戶類型的開戶比例，哪一種帳戶類型的比例最高？請參考下列資料進行選擇。", "answer": "C", "choice": ["整存整付的比例為80.0%", "定期帳戶的比例為65.0%", "整存整付的比例為68.0%", "整存整付的比例為50.0%"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據2023年度新台幣定存帳戶申請類型分布的數據，以下哪一類型的申請數量排在第四位？", "answer": "C", "choice": ["企業代辦", "網路申請", "代理人代辦", "客服專線申請"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "在2023年定存客戶開戶型態分布中，根據下圖，哪個開戶期限的數量最低？", "answer": "C", "choice": ["定存開戶型態數量相近，但5年期的數量略高於3年期。", "3個月期的數量為10，低於所有其他期限。", "3年期的數量最低，為12。", "5年期的數量為15，為所有選項的最高值。"]}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖5的資料，成年人本人申請的比例是否高於未滿20歲申請（法定代理人協助）的比例？", "answer": "成年人本人申請的比例高於未滿20歲申請（法定代理人協助）的比例。"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "在圖8中，數值為100的指標比數值為0的指標高出多少？", "answer": "100"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "在圖7中，最高和最低使用率的差值是多少？", "answer": "52%"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "根據圖2的資料，兩個指標的百分比差異是多少？", "answer": "25%"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，1年期與3年期的零存整付利率相差0.3個百分點。", "answer": "是", "question_group": 552}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，1年期與3年期的零存整付利率相差0.5個百分點。", "answer": "否", "question_group": 552}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年定存戶個資信任度的數值較其他選項更高。", "answer": "是", "question_group": 553}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年定存戶個資信任度的數值較其他選項更低。", "answer": "否", "question_group": 553}
+
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，使用率最低的便利服務項目與第二低的項目之間的使用率差異是34。", "answer": "是", "question_group": 554}
+
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，使用率最低的便利服務項目與第二低的項目之間的使用率差異是20。", "answer": "否", "question_group": 554}
+
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，最高與最低指標數值的差距是100。", "answer": "是", "question_group": 555}
+
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，最高與最低指標數值的差距是98.7。", "answer": "否", "question_group": 555}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023 年的提前解約案件占比是 4%。", "answer": "是", "question_group": 556}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023 年的提前解約案件占比是 6%。", "answer": "否", "question_group": 556}
+
+{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，第一個數據點在所有指標中的排名是最後一名。", "answer": "是", "question_group": 557}
+
+{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，第一個數據點在所有指標中的排名是第一名。", "answer": "否", "question_group": 557}
+
+{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，基本資料正確填寫的件數排名第一。", "answer": "是", "question_group": 558}
+
+{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，基本資料錯誤填寫的件數排名第一。", "answer": "否", "question_group": 558}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，基本資料錯誤填寫的件數較少。", "answer": "是", "question_group": 559}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，基本資料正確填寫的件數較少。", "answer": "否", "question_group": 559}
+
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖表，最左邊的指標的百分比是95，最右邊的指標的百分比是70，兩者之間的百分比差距是25%。", "answer": "是", "question_group": 560}
+
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖表，最左邊的指標的百分比是85，最右邊的指標的百分比是60，兩者之間的百分比差距是25%。", "answer": "否", "question_group": 560}
+
+{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，整存整付的比例是最高的，達到68.0%。", "answer": "是", "question_group": 561}
+
+{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，單筆定存的比例是最高的，達到15.0%。", "answer": "否", "question_group": 561}
+

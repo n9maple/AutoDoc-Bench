@@ -1,0 +1,22 @@
+{"category": "Open", "question_type": "Fact Lookup", "question": "2022年的處理滿意度正面回饋率是多少？", "answer": "82%"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "根據 2022 年的數據，從滿意度最高到最低的順序排列，即時反應滿意度、資訊透明度滿意度和暫停支付/後續處理滿意度。", "answer": "即時反應滿意度, 暫停支付/後續處理滿意度, 資訊透明度滿意度"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "2022年提供退費明細說明比例是多少？", "answer": "92%"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2022年的圖片描述，處理滿意度正面回饋率是多少？", "answer": "C", "choice": ["75%", "80%", "82%", "86%"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據 2022 年的數據，請依據滿意度從最高到最低排序以下選項：即時反應滿意度、資訊透明度滿意度和暫停支付/後續處理滿意度。", "answer": "C", "choice": ["即時反應滿意度, 資訊透明度滿意度, 暫停支付/後續處理滿意度", "暫停支付/後續處理滿意度, 即時反應滿意度, 資訊透明度滿意度", "即時反應滿意度, 暫停支付/後續處理滿意度, 資訊透明度滿意度", "資訊透明度滿意度, 即時反應滿意度, 暫停支付/後續處理滿意度"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2022年的退費明細，提供的退費比例是多少？請參考相關數據圖表進行判斷。", "answer": "C", "choice": ["88%", "94%", "92%", "89%"]}
+{"category": "Open", "question_type": "Fact Lookup", "question": "2022年銀行申訴案件通知與聯繫指標中，最左邊的項目是什麼？", "answer": "調查期間主動進度通知(2次以上)案件比率"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "滿意度百分比最低的調查項目的數值是多少？", "answer": "83"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2022年銀行申訴案件通知與聯繫指標，最左邊的項目是什麼？", "answer": "C", "choice": ["調查期間主動聯繫通知案件比率", "調查期間主動進度通知(1次)案件比率", "調查期間主動進度通知(2次以上)案件比率", "調查期間消極進度通知案件比率"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據調查結果，滿意度百分比最低的調查項目數值是？", "answer": "C", "choice": ["78", "81", "83", "84"]}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，滿意度百分比最低的調查項目數值是 83。", "answer": "是", "question_group": 193}
+
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，滿意度百分比最高的調查項目數值是 83。", "answer": "否", "question_group": 193}
+
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，最左邊的項目是調查期間主動進度通知(2次以上)案件比率。", "answer": "是", "question_group": 194}
+
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，最左邊的項目是最終處理結果通知案件比率。", "answer": "否", "question_group": 194}
+
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2022年的處理滿意度正面回饋率是82%。", "answer": "是", "question_group": 195}
+
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2022年的處理滿意度正面回饋率是75%。", "answer": "否", "question_group": 195}
+

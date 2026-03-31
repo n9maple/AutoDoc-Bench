@@ -1,0 +1,41 @@
+{"category": "Open", "question_type": "Comparison", "question": "亞洲的年輕消費者在數字平台的偏好比全球高了多少百分比？", "answer": "10%"}
+{"category": "Open", "question_type": "Comparison", "question": "大數據的百分比比人工智能高多少？", "answer": "15%"}
+{"category": "Open", "question_type": "Comparison", "question": "相比全球壽險市場，中國市場的市佔率最高的公司是誰？", "answer": "中國平安"}
+{"category": "Open", "question_type": "Comparison", "question": "Lemonade 在美國租戶保險市場的佔有率是 Oscar Health 的多少倍？", "answer": "5 倍"}
+{"category": "Open", "question_type": "Comparison", "question": "2022年偏好電話服務的人數與2024年相比減少了多少百分比？", "answer": "6%"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片，亞洲的年輕消費者在數字平台的偏好比全球高了多少百分比？", "answer": "C", "choice": ["25%", "5%", "10%", "8%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖表中顯示的數據，大數據的百分比相比人工智能的百分比高出多少？", "answer": "C", "choice": ["大數據的百分比與人工智能的百分比相等", "10%", "15%", "30%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片顯示的全球壽險市場，中國市場的市佔率最高的公司是以下哪一個？", "answer": "C", "choice": ["新華保險", "中國人壽", "中國平安", "太平洋保險"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的圖片，Lemonade 在美國租戶保險市場的佔有率是 Oscar Health 的多少倍？", "answer": "C", "choice": ["3 倍", "6 倍", "5 倍", "7 倍"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2022年和2024年對電話服務的偏好統計，假設圖片中顯示了這些數據，2022年偏好電話服務的人數與2024年相比減少了多少百分比？", "answer": "C", "choice": ["8%", "10%", "6%", "4%"]}
+{"category": "Open", "question_type": "Comparison", "question": "計劃增加數字化投資的保險公司比例最低的地區是哪個？", "answer": "計劃增加數字化投資的保險公司比例最低的地區是比例為70%的地區。"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "第一個地區和第二個地區在計劃增加數字化投資的保險公司比例上差多少百分點？", "answer": "10個百分點"}
+{"category": "Open", "question_type": "Comparison", "question": "自然災害經濟損失中，未承擔的數值比保險承擔高多少？", "answer": "未承擔的數值比保險承擔高560"}
+{"category": "Open", "question_type": "Comparison", "question": "哪個國家的單人家庭比例最低？", "answer": "單人家庭比例最低的國家是比例為28%的國家。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "在以下哪些地區，計劃增加數字化投資的保險公司比例最低？請根據圖片中的數據選擇正確的選項。", "answer": "C", "choice": ["比例為80%的地區", "比例為65%的地區", "比例為70%的地區", "比例為90%的地區"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖片中所示的數據，第一個地區和第二個地區在計劃增加數字化投資的保險公司比例上差多少百分點？", "answer": "C", "choice": ["8個百分點", "5個百分點", "10個百分點", "12個百分點"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在自然災害造成的經濟損失中，未承擔的損失相對於保險承擔的損失高出哪個數值？", "answer": "C", "choice": ["620", "500", "560", "700"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片所示，以下哪個國家的單人家庭比例最低？", "answer": "C", "choice": ["該國的單人家庭比例為40%", "該國的單人家庭比例為22%", "該國的單人家庭比例為28%", "該國的單人家庭比例為35%"]}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖8的資料，2024年哪個地區的投資者比例最低？", "answer": "亞太地區"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表1的資料，2023年全球經濟規模相較於2022年亞太地區與拉丁美洲經濟規模的總和情形為何？", "answer": "B", "choice": ["2023年全球經濟規模小於2022年亞太地區的經濟規模，但大於拉丁美洲的經濟規模總和。", "2023年全球經濟規模大於2022年亞太地區與拉丁美洲經濟規模的總和。", "2023年全球經濟規模大於單一的2022年亞太地區經濟規模，但小於兩者總和。", "2023年全球經濟規模等於2022年亞太地區的經濟規模與拉丁美洲經濟規模的平均值。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖6的資料，以下哪一個國家的單人家庭比例最低？", "answer": "D", "choice": ["單人家庭比例為27%的國家", "單人家庭比例為35%的國家", "單人家庭比例為26%的國家", "單人家庭比例為28%的國家"]}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，中國市場的市佔率最高的公司是中國平安。", "answer": "是", "question_group": 275}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，中國市場的市佔率最高的公司是安泰人壽。", "answer": "否", "question_group": 275}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，計劃增加數字化投資的保險公司比例最低的地區其比例為70%。", "answer": "是", "question_group": 276}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，計劃增加數字化投資的保險公司比例最低的地區其比例為80%。", "answer": "否", "question_group": 276}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖片所示，該國的單人家庭比例是28%，是所有國家中最低的。", "answer": "是", "question_group": 277}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖片所示，該國的單人家庭比例是35%，是所有國家中最低的。", "answer": "否", "question_group": 277}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，亞洲的年輕消費者在數字平台的偏好比全球高了10%。", "answer": "是", "question_group": 278}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，亞洲的年輕消費者在數字平台的偏好比全球高了5%。", "answer": "否", "question_group": 278}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，未承擔的經濟損失比保險承擔的經濟損失高出560。", "answer": "是", "question_group": 279}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，未承擔的經濟損失比保險承擔的經濟損失高出460。", "answer": "否", "question_group": 279}
+

@@ -1,0 +1,22 @@
+{"category": "Open", "question_type": "Aggregation", "question": "客戶服務和市場競爭的市場份額變化總和是多少？", "answer": "8%"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據以下圖片中所示的市場份額變化，客戶服務和市場競爭的市場份額變化總和是多少？", "answer": "C", "choice": ["7%", "9%", "8%", "11%"]}
+{"category": "Open", "question_type": "Temporal Trend", "question": "從2023年到2025年，全球GDP數位化比例的變化趨勢是什麼？", "answer": "從2023年到2025年，全球GDP數位化比例呈現穩定增長趨勢，每年增長3%。"}
+{"category": "Open", "question_type": "Temporal Trend", "question": "從2023年到2025年，台灣金融科技投資增加比例的增長趨勢是如何變化的？", "answer": "從2023年到2025年，台灣金融科技投資增加比例呈現穩定增長趨勢，每年增加約2至3個百分點。"}
+{"category": "Open", "question_type": "Rate of Change", "question": "從2025年到2026年，台灣機器理財市場增長率的增長速度是多少？", "answer": "1%"}
+{"category": "Open", "question_type": "Temporal Trend", "question": "從2023年到2025年，成本降低百分比的趨勢是如何變化的？", "answer": "從2023年到2025年，成本降低百分比呈上升趨勢，增加了15個百分點。"}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據下圖，從2023年到2025年，全球GDP數位化比例的變化趨勢是什麼？", "answer": "C", "choice": ["從2023年到2025年，全球GDP數位化比例每年增長1%的緩慢增長趨勢。", "從2023年到2025年，全球GDP數位化比例每年增長4%的增長趨勢，顯示出接近但不完全的正確性。", "從2023年到2025年，全球GDP數位化比例每年增長3%的穩定增長趨勢。", "從2023年到2025年，全球GDP數位化比例在2023年增長迅猛，但在2024年和2025年持平。"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2023年至2025年台灣金融科技投資趨勢，以下哪項描述是正確的？", "answer": "C", "choice": ["台灣金融科技投資在2024年的增長率預計會穩定在5個百分點，顯示出持平的增長。", "台灣金融科技投資在2023年至2025年間每年穩定增長約1個百分點，無明顯增長。", "台灣金融科技投資每年增加約2至3個百分點，呈現穩定增長趨勢。", "台灣金融科技投資在2024年增長約3個百分點，表現出波動的特徵。"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據下圖顯示的數據，從2025年到2026年，台灣機器理財市場的增長率是多少？", "answer": "C", "choice": ["2%", "-1%", "1%", "1.2%"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據以下數據，從2023年到2025年，成本降低百分比的趨勢是如何變化的？請參考圖片中的趨勢圖進行選擇。", "answer": "C", "choice": ["成本降低百分比在2024年達到高峰後，至2025年下降了5個百分點。", "成本降低百分比在2024年保持不變，最終在2025年下降3個百分點。", "成本降低百分比呈上升趨勢，增加了15個百分點。", "成本降低百分比在2025年再次上升，達到60個百分點。"]}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，台灣金融科技投資在2023年至2025年間每年增加約2至3個百分點，呈現穩定增長趨勢。", "answer": "是", "question_group": 790}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，台灣金融科技投資在2023年至2025年間每年增加超過5個百分點，呈現快速增長趨勢。", "answer": "否", "question_group": 790}
+
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據下圖，從2025年到2026年，台灣機器理財市場的增長率增長了1%。", "answer": "是", "question_group": 791}
+
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據下圖，從2025年到2026年，台灣機器理財市場的增長率增長了3%。", "answer": "否", "question_group": 791}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據下圖，從2023年到2025年，全球GDP數位化比例每年增長3%。", "answer": "是", "question_group": 792}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據下圖，從2023年到2025年，全球GDP數位化比例在2024年下降。", "answer": "否", "question_group": 792}
+

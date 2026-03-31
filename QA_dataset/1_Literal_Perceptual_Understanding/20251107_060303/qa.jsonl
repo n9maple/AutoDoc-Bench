@@ -1,0 +1,12 @@
+{"category": "Open", "question_type": "Fact Lookup", "question": "哪種類型的申請在客戶滿意度上獲得更高的評分？", "answer": "數位化申請在客戶滿意度上獲得更高的評分。"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "在2025年即時回饋對客戶滿意度影響的圖表中，滿意度超過90%的項目有幾個？", "answer": "1"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "在2025年即時回饋對客戶滿意度影響的圖表中，滿意度超過90%的項目有幾個？(請根據圖表內容選擇答案)", "answer": "C", "choice": ["滿意度超過90%的項目有0個", "滿意度超過90%的項目有2個", "1", "滿意度超過90%的項目有3個"]}
+{"category": "Open", "question_type": "Fact Lookup", "question": "根據表8的資料，哪一年客戶滿意度最高？", "answer": "2025年的客戶滿意度最高，為96.2。"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖表，最左邊的項目的總理賠金額是900億元。", "answer": "是", "question_group": 98}
+
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖表，最左邊的項目的總理賠金額是120億元。", "answer": "否", "question_group": 98}
+
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，數位化申請的客戶滿意度評分高於紙本申請。", "answer": "是", "question_group": 99}
+
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，紙本申請的客戶滿意度評分高於數位化申請。", "answer": "否", "question_group": 99}
+

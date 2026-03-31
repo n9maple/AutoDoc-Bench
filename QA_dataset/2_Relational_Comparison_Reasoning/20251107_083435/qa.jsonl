@@ -1,0 +1,24 @@
+{"category": "Open", "question_type": "Comparison", "question": "現金領取的操作步驟數量比抵扣保費多多少？", "answer": "2"}
+{"category": "Open", "question_type": "Comparison", "question": "2024年的累積生息比2022年多了多少？", "answer": "2024年的累積生息比2022年多了11。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下列操作步驟，現金領取的步驟數量相比於抵扣保費的步驟數量多出多少？", "answer": "C", "choice": ["現金領取的步驟數量比抵扣保費的步驟數量少出2", "現金領取需要4步驟，而抵扣保費需要3步驟", "2", "現金領取的步驟數量為5，抵扣保費的步驟數量為3"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據以下圖表，2024年的累積生息與2022年相比，哪一項是正確的？", "answer": "C", "choice": ["2024年的累積生息比2022年少了2", "2024年的累積生息比2022年少了5", "2024年的累積生息比2022年多了11", "2024年的累積生息比2022年多了6"]}
+{"category": "Open", "question_type": "Comparison", "question": "在2024年安泰人壽保單紅利來源分配中，投資收益的比例是費用節省的幾倍？", "answer": "7.2"}
+{"category": "Open", "question_type": "Comparison", "question": "紅利領取方式中，現金領取與累積生息相比，哪一個方式的人數較少？", "answer": "現金領取方式的人數較少"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2024年安泰人壽保單紅利來源分配的資料，投資收益的比例是費用節省的幾倍？以下哪一個選項最正確？", "answer": "C", "choice": ["6.0", "5.5", "7.2", "9.0"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在紅利領取方式中，根據下圖，現金領取和累積生息的選擇中，哪一種方式的人數較少？", "answer": "C", "choice": ["顯示現金領取的人數與累積生息方式的人數相同", "累積生息方式的人數顯著低於現金領取", "現金領取方式的人數較少", "顯示只有一小部分參與者選擇累積生息"]}
+{"category": "Open", "question_type": "Ranking", "question": "根據2024年安泰人壽保單紅利來源分配，將費用節省、投資收益及風險經驗盈餘的比例由小到大排列。", "answer": "費用節省, 風險經驗盈餘, 投資收益"}
+{"category": "Open", "question_type": "Ranking", "question": "在紅利領取方式中，哪種方式的人數排名第三？", "answer": "抵扣保費"}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據2024年安泰人壽保單紅利來源分配，將以下三項的比例由小到大排列：費用節省、風險經驗盈餘、投資收益。請選擇正確的排列順序。", "answer": "C", "choice": ["風險經驗盈餘, 費用節省, 投資收益", "風險經驗盈餘, 投資收益, 費用節省", "費用節省, 風險經驗盈餘, 投資收益", "投資收益, 風險經驗盈餘, 費用節省"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據圖片所示的紅利領取方式，哪一種方式的人數排名第三？", "answer": "C", "choice": ["第二名提領", "選擇不提領", "抵扣保費", "平分紅利"]}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，費用節省的比例小於風險經驗盈餘的比例。", "answer": "是", "question_group": 471}
+
+{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，投資收益的比例小於風險經驗盈餘的比例。", "answer": "否", "question_group": 471}
+
+{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，抵扣保費是紅利領取方式中人數排名第三的方式。", "answer": "是", "question_group": 472}
+
+{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，現金領取是紅利領取方式中人數排名第三的方式。", "answer": "否", "question_group": 472}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，投資收益的比例是費用節省的7.2倍。", "answer": "是", "question_group": 473}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，投資收益的比例是費用節省的4倍。", "answer": "否", "question_group": 473}
+

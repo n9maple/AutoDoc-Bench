@@ -1,0 +1,16 @@
+{"category": "Open", "question_type": "Aggregation", "question": "從2022年到2024年，用戶數量總共增加了多少萬？", "answer": "32.25萬"}
+{"category": "Open", "question_type": "Aggregation", "question": "在線客戶服務的用戶滿意度提升百分比和普及與信任度促進百分比的平均值是多少？", "answer": "47.5%"}
+{"category": "Open", "question_type": "Aggregation", "question": "將客戶服務滿意度和用戶問題解決效率評價的百分比相加會是多少？", "answer": "177%"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下面的圖表，從2022年到2024年，用戶數量增加了多少萬？", "answer": "C", "choice": ["28.5萬", "33.5萬", "32.25萬", "31萬"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖顯示，在線客戶服務的用戶滿意度提升百分比和普及與信任度促進百分比的平均值是多少？", "answer": "C", "choice": ["47%", "48.5%", "47.5%", "49%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖片中顯示的客戶服務滿意度和用戶問題解決效率評價的百分比相加，結果是多少？", "answer": "C", "choice": ["150%", "200%", "177%", "167%"]}
+{"category": "Open", "question_type": "Aggregation", "question": "所有滿意度指標的平均滿意度是多少？", "answer": "所有滿意度指標的平均滿意度是90。"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據以下滿意度指標的數據，所有指標的平均滿意度是多少？（圖表提供數據）", "answer": "C", "choice": ["92", "97", "90", "86"]}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，在線客戶服務的用戶滿意度提升百分比和普及與信任度促進百分比的平均值是47.5%。", "answer": "是", "question_group": 1169}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，在線客戶服務的用戶滿意度提升百分比和普及與信任度促進百分比的平均值是40%。", "answer": "否", "question_group": 1169}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，從2022年到2024年，用戶數量增加了32.25萬。", "answer": "是", "question_group": 1170}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，從2022年到2024年，用戶數量增加了20萬。", "answer": "否", "question_group": 1170}
+

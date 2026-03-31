@@ -1,0 +1,7 @@
+{"category": "Open", "question_type": "Aggregation", "question": "若將希望更詳細的狀態更新和希望即時通知功能的百分比相加，總和是多少？", "answer": "48%"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖片所示，若將希望更詳細的狀態更新和希望即時通知功能的百分比相加，總和為何？", "answer": "C", "choice": ["55%", "30%", "48%", "60%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表4的資料，若希望更詳細的狀態更新的需求每月上升1%，而希望即時通知功能的需求每月上升0.5%，那麼經過六個月後，這兩者的百分比將分別是多少？以下哪一組選項是正確的？", "answer": "B", "choice": ["希望更詳細的狀態更新的百分比將是29%，而希望即時通知功能的百分比將是28%", "希望更詳細的狀態更新的百分比將是30%，而希望即時通知功能的百分比將是27%", "希望更詳細的狀態更新的百分比將是25%，而希望即時通知功能的百分比將是30%", "希望更詳細的狀態更新的百分比將是31%，而希望即時通知功能的百分比將是26.5%"]}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，將希望更詳細的狀態更新和希望即時通知功能的百分比相加，總和為48%。", "answer": "是", "question_group": 768}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，將希望更詳細的狀態更新和希望即時通知功能的百分比相加，總和為50%。", "answer": "否", "question_group": 768}
+

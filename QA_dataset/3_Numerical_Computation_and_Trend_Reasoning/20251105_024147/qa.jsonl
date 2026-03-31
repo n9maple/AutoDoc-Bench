@@ -1,0 +1,35 @@
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2023年到2025年，數據分析工具投資額的總增長率是多少？", "answer": "50%"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2022年到2024年，培訓次數增長了多少次？", "answer": "培訓次數增長了 2 次。"}
+{"category": "Open", "question_type": "Aggregation", "question": "2023年全年產品滿意度指數增長的平均值是多少？", "answer": "6.75%"}
+{"category": "Open", "question_type": "Aggregation", "question": "從 2022 年到 2024 年，合規性得分的總和是多少？", "answer": "總和是 265。"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2023年至2025年的數據分析工具投資額增長情況，以下哪一選項正確描述了其總增長率？", "answer": "C", "choice": ["60%", "30%", "50%", "80%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據提供的資料，從2022年到2024年，培訓次數的增長情況如何？", "answer": "C", "choice": ["培訓次數保持不變。", "培訓次數增長了1次。", "培訓次數增長了2次。", "培訓次數增長了3次。"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年全年產品滿意度指數，以下哪一項數值最接近其增長的平均值？", "answer": "C", "choice": ["7.25%", "8.00%", "6.75%", "6.50%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "請根據提供的數據，從2022年到2024年，合規性得分的總和是多少？", "answer": "C", "choice": ["280", "250", "265", "300"]}
+{"category": "Open", "question_type": "Temporal Trend", "question": "從2020年至2024年，全球可持續發展金融市場規模的增長趨勢如何？", "answer": "從2020年至2024年，全球可持續發展金融市場規模呈現穩定增長趨勢，每年市場規模均有增加，年均增長率約為10%。"}
+{"category": "Open", "question_type": "Rate of Change", "question": "從2023年到2024年，全球可持續發展金融市場規模的成長率是多少？", "answer": "10%"}
+{"category": "Open", "question_type": "Temporal Trend", "question": "從2020年至2023年，消費者對可持續產品的付費意願比例是持續增長的趨勢嗎？", "answer": "是的，從2020年至2023年，消費者對可持續產品的付費意願比例是持續增長的趨勢。"}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據最近的數據，從2020年至2024年，全球可持續發展金融市場的增長趨勢是如何的？", "answer": "C", "choice": ["全球可持續發展金融市場在2020年至2024年之間每年增長15%。", "自2022年以來，全球可持續發展金融市場增長略有回升，年均增長率約為7%。", "全球可持續發展金融市場規模每年都在穩定增長，年均增長率約為10%。", "從2020年至2024年，全球可持續發展金融市場的年增長率約為12%。"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據相關報告，從2023年到2024年，全球可持續發展金融市場規模的成長率可能是多少？", "answer": "C", "choice": ["15%", "8%", "10%", "17%"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據消費者對可持續產品的付費意願，從2020年至2023年的趨勢是？", "answer": "C", "choice": ["在2022年經歷短暫的高峰後持平", "整體上持平", "持續增長", "經歷小幅波動後仍顯示增長"]}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表7的資料，2022年到2024年，合規性得分的平均值是多少？", "answer": "合規性得分的平均值是88.33。"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據圖4的資料，這三年間商業產品轉化率的平均值是多少？", "answer": "61.67%"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表2的資料，從2023年到2025年，技術投入增長率的平均增長率是多少？", "answer": "18.33%"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表1，以下哪一項為個人投資者與千禧一代的比例之和？", "answer": "D", "choice": ["150%", "170%", "185%", "175%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表7的資料，在2022年到2024年期間，合規性得分的平均值為何？以下哪一項是正確的？", "answer": "B", "choice": ["合規性得分的平均值是90.50。", "合規性得分的平均值是88.33。", "合規性得分的平均值是84.50。", "合規性得分的平均值是86.75。"]}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023年全年產品滿意度指數增長的平均值是6.75%。", "answer": "是", "question_group": 831}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023年全年產品滿意度指數增長的平均值是10%。", "answer": "否", "question_group": 831}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，從2020年至2023年，消費者對可持續產品的付費意願每年都有所增加。", "answer": "是", "question_group": 832}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，從2020年至2023年，消費者對可持續產品的付費意願在某些年份有所下降。", "answer": "否", "question_group": 832}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，從2020年至2024年，全球可持續發展金融市場規模每年都在穩定增長，年均增長率約為10%。", "answer": "是", "question_group": 833}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，從2020年至2024年，全球可持續發展金融市場規模每年都在減少，年均減少率約為10%。", "answer": "否", "question_group": 833}
+
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，從2023年到2024年，全球可持續發展金融市場規模的成長率是10%。", "answer": "是", "question_group": 834}
+
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，從2023年到2024年，全球可持續發展金融市場規模的成長率是20%。", "answer": "否", "question_group": 834}
+

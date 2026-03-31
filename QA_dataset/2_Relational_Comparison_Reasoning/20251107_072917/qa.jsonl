@@ -1,0 +1,64 @@
+{"category": "Open", "question_type": "Comparison", "question": "在 2023 年，高資產個人客戶和企業法人客戶數量的差是多少？", "answer": "在 2023 年，高資產個人客戶和企業法人客戶數量的差是 240。"}
+{"category": "Open", "question_type": "Comparison", "question": "在 2023 年，新增信託案件數是高風險客戶案件數的幾倍？", "answer": "10倍"}
+{"category": "Open", "question_type": "Comparison", "question": "信託財產管理合規率是否超過 99%？", "answer": "信託財產管理合規率超過99%。"}
+{"category": "Open", "question_type": "Comparison", "question": "2023年的平均單一標的曝險比率和單一標的曝險上限之間的差是多少？", "answer": "8"}
+{"category": "Open", "question_type": "Comparison", "question": "發現異常案件的數量是通報主管機關並調查數量的多少倍？", "answer": "7.33"}
+{"category": "Open", "question_type": "Comparison", "question": "2022年和2023年的平均稽核報告審閱時效相差多少天？", "answer": "7天"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的信息，2023年高資產個人客戶和企業法人客戶數量的差是以下哪一個？", "answer": "C", "choice": ["230", "250", "240", "205"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的數據，新增信託案件數是高風險客戶案件數的多少倍？", "answer": "C", "choice": ["9倍", "6倍", "10倍", "11倍"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片顯示的資料，信託財產管理合規率是否超過99%？", "answer": "C", "choice": ["信託財產管理合規率為98.7%。", "信託財產管理合規率為99.2%。", "信託財產管理合規率超過99%。", "信託財產管理合規率最近有所提高至100%。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的數據，以下哪一項描述正確地反映了平均單一標的曝險比率和單一標的曝險上限之間的差異？", "answer": "C", "choice": ["6", "11", "8", "9"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，發現的異常案件數量與通報主管機關並調查的案件數量相比，是多少倍？", "answer": "C", "choice": ["4.0", "9.0", "7.33", "6.0"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據稽核報告的資料，2022年和2023年的平均審閱時效相差多少天？請根據下方圖表推斷。", "answer": "C", "choice": ["9天", "6天", "7天", "8天"]}
+{"category": "Open", "question_type": "Comparison", "question": "在2023年資金信託新開戶案件客戶類型中，哪一類客戶的數量較少？", "answer": "法人及團體客戶的數量較少"}
+{"category": "Open", "question_type": "Comparison", "question": "參與部門/要素中，哪一個的參與流程階段數最低？", "answer": "參與部門/要素中，參與流程階段數最低的是數值 1 的參與部門/要素。"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "數值最高的參與部門/要素與數值最低的參與部門/要素之間的差距是多少？", "answer": "5"}
+{"category": "Open", "question_type": "Comparison", "question": "在2023年信託資金配置比例中，銀行定期存款與國庫券及公債的配置比例差距是多少個百分點？", "answer": "31個百分點"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "數值最高與最低的稽核指標之間的差距是多少？", "answer": "92"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年資金信託新開戶案件的客戶類型，哪一類客戶的數量相對較少？請參考附圖中的數據。", "answer": "C", "choice": ["高資產淨值客戶的數量相對較多", "法人及團體客戶的數量相對較多", "法人及團體客戶的數量較少", "個人及家庭客戶的數量較少"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據參與流程的描述，以下哪一個部門/要素的參與階段數量最少？", "answer": "C", "choice": ["數值 0 的參與部門/要素", "數值 4 的參與部門/要素", "數值 1 的參與部門/要素", "數值 1 或更少的參與部門/要素"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據提供的數據，數值最高的參與部門/要素與數值最低的參與部門/要素之間的差距是？", "answer": "C", "choice": ["9", "2", "5", "10"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年信託資金配置比例，銀行定期存款與國庫券及公債的配置比例差距最接近以下哪個選項？", "answer": "C", "choice": ["25個百分點", "30個百分點", "31個百分點", "32個百分點"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據提供的稽核指標數據，數值最高與最低的稽核指標之間的差距是多少？", "answer": "C", "choice": ["75", "60", "92", "105"]}
+{"category": "Open", "question_type": "Ranking", "question": "在2023年資金信託新開戶案件中，客戶類型按數量排名，誰是第一位？", "answer": "個人客戶"}
+{"category": "Open", "question_type": "Ranking", "question": "在2023年信託資金配置比例中，數值最低的項目是什麼？", "answer": "其他低風險投資工具"}
+{"category": "Open", "question_type": "Ranking", "question": "數值最低的稽核指標是多少？", "answer": "8"}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據2023年資金信託新開戶案件，以下哪一類客戶是數量排名第一的？", "answer": "C", "choice": ["機構客戶", "高淨值客戶", "個人客戶", "家庭客戶"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據2023年信託資金配置比例，以下哪一項目數值最低？", "answer": "C", "choice": ["不動產投資信託基金", "中風險債券", "其他低風險投資工具", "政府債券"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據提供的圖表，哪一項稽核指標的數值最低？", "answer": "C", "choice": ["7", "5", "8", "4"]}
+{"category": "Open", "question_type": "Comparison", "question": "在圖8中，哪個稽核指標的數值最低？", "answer": "稽核指標數值為8的項目是最低的。"}
+{"category": "Open", "question_type": "Comparison", "question": "在圖1中，2023年信託資產總規模與資金信託規模的差距是多少？", "answer": "2023年信託資產總規模與資金信託規模的差距是10.9兆元。"}
+{"category": "Open", "question_type": "Comparison", "question": "在圖5中，2022年和2023年的信託專屬帳戶數相比，哪一年較高？", "answer": "2023年信託專屬帳戶數較高"}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖3，個人客戶和法人及團體客戶的比例差是多少？", "answer": "30%"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "根據圖5，2022年和2023年的管理規模差距是多少？", "answer": "管理規模的差距為Y - X"}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖5，以下哪一項描述正確地表達了2022年和2023年的管理規模差距？", "answer": "A", "choice": ["管理規模的差距為Y - X", "管理規模的差距為2023年的數據加上2022年的數據", "管理規模的差距為2022年的數據減去2023年的數據", "管理規模的差距為2023年的數據減去2022年的數據的絕對值"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖8，以下哪個稽核指標的數值是最低的？", "answer": "C", "choice": ["稽核指標數值為5的項目", "稽核指標數值為7的項目", "稽核指標數值為8的項目", "稽核指標數值為2的項目"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖4，以下哪個部門/要素的參與流程階段數最少？", "answer": "B", "choice": ["參與部門/要素: 6", "參與部門/要素: 1", "參與部門/要素: 5", "參與部門/要素: 3"]}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的單一標的曝險上限減去平均單一標的曝險比率的差值為8。", "answer": "是", "question_group": 451}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的平均單一標的曝險比率和單一標的曝險上限的差值為5。", "answer": "否", "question_group": 451}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖表，2023年資金信託新開戶案件中，法人及團體客戶的數量少於個人客戶。", "answer": "是", "question_group": 452}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖表，2023年資金信託新開戶案件中，個人客戶的數量少於法人及團體客戶。", "answer": "否", "question_group": 452}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，數值 1 的參與部門/要素參與的階段數量最少。", "answer": "是", "question_group": 453}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，數值 6 的參與部門/要素參與的階段數量最少。", "answer": "否", "question_group": 453}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2022年和2023年的平均稽核報告審閱時效相差7天。", "answer": "是", "question_group": 454}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2022年和2023年的平均稽核報告審閱時效相差10天。", "answer": "否", "question_group": 454}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年高資產個人客戶和企業法人客戶的數量差是240。", "answer": "是", "question_group": 455}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年高資產個人客戶和企業法人客戶的數量差是200。", "answer": "否", "question_group": 455}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，信託財產管理合規率超過99%。", "answer": "是", "question_group": 456}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，信託財產管理合規率未超過99%。", "answer": "否", "question_group": 456}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，發現的異常案件數量是通報主管機關並調查的案件數量的7.33倍。", "answer": "是", "question_group": 457}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，發現的異常案件數量是通報主管機關並調查的案件數量的5倍。", "answer": "否", "question_group": 457}
+

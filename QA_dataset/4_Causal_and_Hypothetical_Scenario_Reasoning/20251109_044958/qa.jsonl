@@ -1,0 +1,6 @@
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果將2022年的住宅類和工業類的價值相加，總和是多少？", "answer": "新台幣2,800萬元"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據下圖，2022年住宅類和工業類的價值相加後，總和是多少？", "answer": "C", "choice": ["新台幣2,750萬元", "新台幣2,900萬元", "新台幣2,800萬元", "新台幣2,500萬元"]}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2022年住宅類和工業類的價值相加後，總和為新台幣2,800萬元。", "answer": "是", "question_group": 1513}
+
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2022年住宅類和工業類的價值相加後，總和為新台幣2,500萬元。", "answer": "否", "question_group": 1513}
+

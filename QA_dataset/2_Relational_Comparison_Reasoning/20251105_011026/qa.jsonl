@@ -1,0 +1,19 @@
+{"category": "Open", "question_type": "Comparison", "question": "2024 年可持續發展策略支持的百分比與 2025 年風險分擔機制合作的百分比相比，哪一個更高？", "answer": "2024 年可持續發展策略支持的百分比更高"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中的數據，2024 年可持續發展策略支持的百分比與 2025 年風險分擔機制合作的百分比相比，哪一個更高？", "answer": "C", "choice": ["2024 年的支持百分比與2025年相比是更低的", "2025 年風險分擔機制合作的百分比與2024年的數據相同", "2024 年可持續發展策略支持的百分比更高", "2024 年可持續發展策略支持的百分比未提供完整數據，無法比較"]}
+{"category": "Open", "question_type": "Comparison", "question": "貸款占比最低的是哪個地區？", "answer": "地區: 5"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "最高與最低貸款占比的差距是多少？", "answer": "40%"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，貸款占比最低的地區是哪一個？", "answer": "C", "choice": ["地區 1", "地區 8", "地區 5", "地區 3"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖片所示，最高與最低貸款占比的差距是多少？", "answer": "C", "choice": ["37%", "42%", "40%", "48%"]}
+{"category": "Open", "question_type": "Comparison", "question": "在圖2中，哪個地區的貸款占比最低？", "answer": "貸款占比最低的地區是貸款占比為5%的地區。"}
+{"category": "Open", "question_type": "Ranking", "question": "根據圖2，貸款占比為20%的地區在所有地區中排名第幾？", "answer": "第3名"}
+{"category": "Open", "question_type": "Ranking", "question": "根據圖3，哪一個項目類型的貸款違約率最低？", "answer": "風險分擔機制"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表2，數據分析能力提升的支出在2024年相較於2023年有何變化？", "answer": "C", "choice": ["數據分析能力提升的支出在2024年減少了0.001億新台幣。", "數據分析能力提升的支出在2024年增加了0.1億新台幣。", "數據分析能力提升的支出在2024年減少了0.01億新台幣。", "數據分析能力提升的支出在2024年減少了0.5億新台幣。"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據圖3，以下哪一項目類型的貸款違約率被認為是最低的？", "answer": "D", "choice": ["青年創業貸款（違約率較高，通常受到市場波動影響）", "擔保型貸款（提供的擔保不足以抵消貸款風險）", "市場導向貸款（與經濟狀況緊密相關，可能違約風險大）", "風險分擔機制"]}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖片所示，最高與最低貸款占比的差距是40%。", "answer": "是", "question_group": 293}
+
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖片所示，最高與最低貸款占比的差距是50%。", "answer": "否", "question_group": 293}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2025 年風險分擔機制合作的百分比是 1.7%，高於 2024 年可持續發展策略支持的百分比 1.6%。", "answer": "是", "question_group": 294}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2024 年可持續發展策略支持的百分比是 2.0%，高於 2025 年風險分擔機制合作的百分比 1.7%。", "answer": "否", "question_group": 294}
+

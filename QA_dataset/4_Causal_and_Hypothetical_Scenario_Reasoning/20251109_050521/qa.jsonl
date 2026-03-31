@@ -1,0 +1,6 @@
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果操作便捷性和手機應用程式的滿意度提升 10 個百分點，總滿意度的平均值是多少？", "answer": "76.67%"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據以下情境，如果操作便捷性從 70% 提升至 80%，而手機應用程式滿意度從 75% 提升至 85%，則總滿意度的平均值是多少？", "answer": "C", "choice": ["72%", "77%", "76.67%", "79%"]}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，如果操作便捷性從 70% 提升至 80%，而手機應用程式滿意度從 75% 提升至 85%，則總滿意度的平均值為 76.67%。", "answer": "是", "question_group": 1517}
+
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，如果操作便捷性從 70% 提升至 80%，而手機應用程式滿意度從 75% 提升至 85%，則總滿意度的平均值為 80.00%。", "answer": "否", "question_group": 1517}
+

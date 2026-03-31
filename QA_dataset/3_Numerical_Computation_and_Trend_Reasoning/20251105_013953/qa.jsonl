@@ -1,0 +1,37 @@
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從 2022Q2 到 2023Q2，平均房貸利率增加了多少百分比？", "answer": "31.25%"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2022Q2到2023Q2的數據，平均房貸利率的增幅為以下哪一選項？", "answer": "D", "choice": ["28.75%", "35.50%", "33.00%", "31.25%"]}
+{"category": "Open", "question_type": "Temporal Trend", "question": "從2022年到2023年，零售空間租金增長率的變化趨勢是什麼？", "answer": "從2022年到2023年，零售空間租金增長率上升了3個百分點，呈現增長趨勢。"}
+{"category": "Open", "question_type": "Rate of Change", "question": "2022年至2023年間，租金增長率提高了多少百分點？", "answer": "租金增長率提高了3個百分點"}
+{"category": "Open", "question_type": "Rate of Change", "question": "從2023Q1到2023Q4，物流設施的需求變化量是多少？", "answer": "3%"}
+{"category": "Open", "question_type": "Temporal Trend", "question": "在2023年的所有季度中，哪個季度的台中的需求增長百分比達到最高？", "answer": "2023Q4的台中需求增長百分比最高，為3.5%"}
+{"category": "Open", "question_type": "Temporal Trend", "question": "從2023年至2026年，新增社會住宅戶數逐年增加，這一趨勢在2027年發生了什麼變化？", "answer": "從2023年至2026年，新增社會住宅戶數逐年增加，但在2027年，新增戶數大幅減少至5000，這一變化打破了之前的增長趨勢。"}
+{"category": "Open", "question_type": "Rate of Change", "question": "在2023年至2025年間，智慧建築投資增長率的最大變化率發生在哪一年與哪一年之間?", "answer": "最大變化率發生在2024年與2025年之間"}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據下圖，從2022年到2023年零售空間租金增長率的變化趨勢是什麼？", "answer": "C", "choice": ["零售空間租金增長率因市場波動而顯示出穩定的增長。", "零售空間租金增長率下降了2個百分點，呈現下降趨勢。", "零售空間租金增長率上升了3個百分點，呈現增長趨勢。", "零售空間租金增長率上升了1個百分點，呈現微幅增長。"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據2022年至2023年間的數據，租金增長率提高了多少百分點？請參考以下選項：", "answer": "C", "choice": ["6個百分點", "1個百分點", "3個百分點", "7個百分點"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據下圖，從2023年第一季到第四季，物流設施的需求變化率為何？", "answer": "C", "choice": ["6%", "1%", "3%", "7%"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2023年的數據，哪個季度在台中的需求增長百分比達到最高？", "answer": "C", "choice": ["2023Q1的需求增長百分比為3.2%", "2023Q3的需求增長百分比為3.5%", "2023Q4的需求增長百分比為3.5%", "2023Q2的需求增長百分比為3.0%"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2023年至2026年的社會住宅戶數增長趨勢，2027年出現了什麼變化？", "answer": "C", "choice": ["在2027年，新增社會住宅戶數增長至12000，顯示出持續的增長趨勢。", "在2027年，新增社會住宅戶數減少至9000，顯示出輕微的減少趨勢，但總體上仍然維持在較高水平。", "在2027年，新增社會住宅戶數大幅減少至5000，打破了之前的增長趨勢。", "在2027年，新增社會住宅戶數維持在8500，表明市場需求穩定，沒有明顯趨勢改變。"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖表顯示，2023年至2025年智慧建築投資增長率的趨勢為何?", "answer": "C", "choice": ["智慧建築投資增長率在2023年為12%，在2024年回升至16%，2025年再增至18%，呈現不穩定的增長趨勢。", "智慧建築投資增長率從2023年的15%迅速上升到2025年的30%，顯示出過快的增長速度。", "智慧建築投資增長率從2023年的15%上升到2024年的18%，再上升到2025年的22%，呈現持續上升的趨勢。", "智慧建築投資增長率從2023年的15%小幅上升至2024年的17%，在2025年保持不變於17%。"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據2023年至2025年的智慧建築投資增長率變化，最大變化率發生在哪一年與哪一年之間？", "answer": "C", "choice": ["2025年與2026年之間", "2024年與2026年之間", "2024年與2025年之間", "2023年與2025年之間"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表4的資料，以下哪個城市在2023Q1到2023Q4的平均增長率最低？", "answer": "D", "choice": ["新北", "台中", "桃園", "高雄"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖5，台南在2023年Q1到2023年Q4的需求增長率變化為何？", "answer": "A", "choice": ["台南的需求增長率變化是1.5%。", "台南的需求增長率變化是1.2%。", "台南在2023年Q1的需求增長率為1.7%，雖然在Q4有所下降，但整體變化為1.5%。", "台南的需求增長率在2023年Q1至Q4保持不變。"]}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2022Q2到2023Q2的平均房貸利率增幅為31.25%。", "answer": "是", "question_group": 796}
+
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2022Q2到2023Q2的平均房貸利率增幅為15%。", "answer": "否", "question_group": 796}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，2023年Q4在台中的需求增長百分比為3.5%，是全年中最高的。", "answer": "是", "question_group": 797}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，2023年Q1在台中的需求增長百分比為3.5%，是全年中最高的。", "answer": "否", "question_group": 797}
+
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，2022年至2023年間的租金增長率提高了3個百分點。", "answer": "是", "question_group": 798}
+
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，2022年至2023年間的租金增長率提高了5個百分點。", "answer": "否", "question_group": 798}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，2027年新增社會住宅戶數大幅減少至5000，打破了之前的增長趨勢。", "answer": "是", "question_group": 799}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，2027年新增社會住宅戶數達到20000，延續了之前的增長趨勢。", "answer": "否", "question_group": 799}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據下圖，從2022年到2023年，零售空間租金增長率上升了3個百分點。", "answer": "是", "question_group": 800}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據下圖，從2022年到2023年，零售空間租金增長率下降了3個百分點。", "answer": "否", "question_group": 800}
+

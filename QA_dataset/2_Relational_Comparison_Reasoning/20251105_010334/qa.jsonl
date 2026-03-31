@@ -1,0 +1,29 @@
+{"category": "Open", "question_type": "Comparison", "question": "2023年貸款資金百分比和帶動經濟增長率之間的差異是多少？", "answer": "28.5%"}
+{"category": "Open", "question_type": "Comparison", "question": "哪一項的提高至比例更高，能源使用效率還是再生能源使用比例？", "answer": "能源使用效率"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的數據，貸款資金百分比與經濟增長率之間的差異為何？請參考相關圖表來回答。", "answer": "C", "choice": ["27.5%", "29.8%", "28.5%", "31.2%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在下列情況中，哪一項的提高至比例更高？請參考附圖中的數據。", "answer": "C", "choice": ["水資源使用量相對穩定，通常會受到氣候條件影響", "再生能源比例在短期內可能不會顯著增加，受到政策限制", "能源使用效率", "碳排放指數的波動與能源使用效率無直接相關"]}
+{"category": "Open", "question_type": "Comparison", "question": "在圖3中，哪個指標的數值較低？", "answer": "指標5000的數值較低。"}
+{"category": "Open", "question_type": "Comparison", "question": "根據表2的資料，教育領域和健康領域的捐贈金額相加與緊急救援領域的捐贈金額相比，哪一者的數值更高？", "answer": "教育領域和健康領域的捐贈金額相加的數值更高"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "在圖1中，第二個項目的數值與第三個項目的數值差距是多少？", "answer": "15"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "根據圖4，兩個指標的百分比差異是多少？", "answer": "兩個指標的百分比差異是7%。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表2的資料，教育領域和健康領域的捐贈金額相加與緊急救援領域的捐贈金額相比，哪一者的數值更高？", "answer": "A", "choice": ["教育領域和健康領域的捐贈金額相加的數值更高", "教育領域的捐贈金額低於緊急救援領域", "健康領域的捐贈金額與緊急救援領域相等", "教育與健康兩個領域的捐贈金額相加仍低於任何一個領域"]}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據下圖，數值最高的項目是25，最低的項目是10，因此它們之間的差距是15。", "answer": "是", "question_group": 288}
+
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據下圖，數值最高的項目是20，最低的項目是5，因此它們之間的差距是15。", "answer": "否", "question_group": 288}
+
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖片，最高數值與最低數值之間的差距是27。", "answer": "是", "question_group": 289}
+
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖片，最高數值與最低數值之間的差距是33。", "answer": "否", "question_group": 289}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，數值最低的項目是3。", "answer": "是", "question_group": 290}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，數值最低的項目是30。", "answer": "否", "question_group": 290}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，指標的數值最低是3000。", "answer": "是", "question_group": 291}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，指標的數值最低是5000。", "answer": "否", "question_group": 291}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023 年再生能源增長率比社福事業增長率高 1 個百分點。", "answer": "是", "question_group": 292}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023 年再生能源增長率與社福事業增長率相同。", "answer": "否", "question_group": 292}
+

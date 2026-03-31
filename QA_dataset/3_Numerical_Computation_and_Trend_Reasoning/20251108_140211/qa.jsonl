@@ -1,0 +1,17 @@
+{"category": "Open", "question_type": "Aggregation", "question": "如果將所有市場的市場規模加總，總共是多少？", "answer": "32000"}
+{"category": "Open", "question_type": "Aggregation", "question": "2023 年和 2024 年的計劃比例總和是多少？", "answer": "35%"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2023年到2024年，資產管理規模增長了多少？", "answer": "從2023年到2024年，資產管理規模增長了4.2。"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，全球各大市場的市場規模總和是多少？", "answer": "C", "choice": ["45000", "27000", "32000", "39000"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據以下圖片所示，2023 年和 2024 年的計劃比例總和是多少？", "answer": "C", "choice": ["45%", "30%", "35%", "55%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據資產管理團隊的報告，從2023年到2024年，資產管理規模的增長幅度為何？", "answer": "C", "choice": ["增長了5.0", "增長了2.5", "增長了4.2", "增長了4.0"]}
+{"category": "Open", "question_type": "Rate of Change", "question": "從2023年到2024年，全球生技醫藥市場規模的增長率是多少？", "answer": "增長率約為9.09%"}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據2023年至2024年的圖表，全球生技醫藥市場規模的增長率為何？", "answer": "C", "choice": ["增長率約為10%", "增長率約為7%", "增長率約為9.09%", "增長率約為8%"]}
+{"category": "Open", "question_type": "Aggregation", "question": "在圖5中，2023年和2024年的通脹率的平均值是多少？", "answer": "由於缺乏具體的數據，我無法提供準確的平均值。"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，2023年至2024年全球生技醫藥市場規模的增長率約為9.09%。", "answer": "是", "question_group": 1105}
+
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，2023年至2024年全球生技醫藥市場規模的增長率約為15%。", "answer": "否", "question_group": 1105}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023 年和 2024 年的計劃比例總和是 35%。", "answer": "是", "question_group": 1106}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023 年和 2024 年的計劃比例總和是 30%。", "answer": "否", "question_group": 1106}
+

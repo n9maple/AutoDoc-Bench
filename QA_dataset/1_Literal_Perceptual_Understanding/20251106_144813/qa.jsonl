@@ -1,0 +1,19 @@
+{"category": "Open", "question_type": "Peak/Valley", "question": "5月和6月的股東會議百分比在2019年至2023年間有何共同特點?", "answer": "從2019年至2023年，5月和6月的股東會議百分比均為45%，這是它們的共同特點。"}
+{"category": "Open", "question_type": "Proportion", "question": "在2022年董事選舉支持率分佈中，支持率<50%的比例是多少？", "answer": "10.0%"}
+{"category": "Open", "question_type": "Proportion", "question": "在2022年臺灣上市公司中，未增加獨立董事的公司占總公司的百分比是多少？", "answer": "50.0%"}
+{"category": "Open", "question_type": "Proportion", "question": "在2022年研發支出預計變化中，未增加研發支出的公司佔總體的百分比是多少？", "answer": "55.0%"}
+{"category": "MCQ", "question_type": "Peak/Valley", "question": "根據圖片所示的數據，5月和6月的股東會議百分比在2019年至2023年間有何共同特點？", "answer": "C", "choice": ["5月的股東會議百分比在2021年為65%，而6月為50%。", "5月和6月的股東會議百分比在每年都有所變化，未必上升。", "5月和6月的股東會議百分比均為45%。", "5月和6月的股東會議百分比一直保持在55%左右。"]}
+{"category": "MCQ", "question_type": "Proportion", "question": "根據2022年董事選舉的支持率分佈，下面哪一項顯示了支持率低於50%的比例？", "answer": "C", "choice": ["70.0%", "55.0%", "10.0%", "80.0%"]}
+{"category": "MCQ", "question_type": "Proportion", "question": "根據2022年臺灣上市公司的資料，未增加獨立董事的公司占總公司的百分比為何？", "answer": "C", "choice": ["45.0%", "55.0%", "50.0%", "65.0%"]}
+{"category": "MCQ", "question_type": "Proportion", "question": "根據2022年研發支出預計變化的資料，未增加研發支出的公司佔整體的百分比是？", "answer": "C", "choice": ["50.0%", "45.0%", "55.0%", "65.0%"]}
+{"category": "Open", "question_type": "Fact Lookup", "question": "在圖6中，獨立董事比例增加的公司的數量是多少？", "answer": "50"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "在圖5中，實施比例介於50%到70%的計劃項目有幾個？", "answer": "2"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "在圖3中，最低提案比例的提案內容是多少？", "answer": "提案內容: 5"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，支持率低於50%的比例是10.0%。", "answer": "是", "question_group": 70}
+
+{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，支持率低於50%的比例是20.0%。", "answer": "否", "question_group": 70}
+
+{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，未增加獨立董事的公司占總公司的百分比為50%。", "answer": "是", "question_group": 71}
+
+{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，未增加獨立董事的公司占總公司的百分比為75%。", "answer": "否", "question_group": 71}
+

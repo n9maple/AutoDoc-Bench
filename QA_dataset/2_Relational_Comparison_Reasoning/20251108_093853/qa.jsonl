@@ -1,0 +1,27 @@
+{"category": "Open", "question_type": "Comparison", "question": "2022 年的直接損失比間接損失少多少億？", "answer": "10 億"}
+{"category": "Open", "question_type": "Comparison", "question": "企業貸款的佔比與個人貸款的佔比相比，哪一個較大，且大多少？", "answer": "企業貸款的佔比較大，且大20。"}
+{"category": "Open", "question_type": "Comparison", "question": "供應商質量評估與外包服務監控的合格率之差是多少？", "answer": "5%"}
+{"category": "Open", "question_type": "Comparison", "question": "2023年的資本充足率是否高於國際監管標準？", "answer": "是的，2023年的資本充足率高於國際監管標準。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據以下數據，2022 年的直接損失與間接損失之間的差額為？（請參考圖片數據。）", "answer": "C", "choice": ["20 億", "無可用數據", "10 億", "5 億"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下面提供的資料，企業貸款與個人貸款的佔比相比，哪一項較大？", "answer": "C", "choice": ["企業貸款和個人貸款的佔比相差不大，企業貸款僅多5。", "個人貸款的佔比較小，少30。", "企業貸款的佔比較大，且大20。", "企業貸款的佔比比個人貸款多，但差距較小，約10。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中提供的數據，供應商質量評估與外包服務監控的合格率之差是多少？", "answer": "C", "choice": ["8%", "12%", "5%", "3%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的資本充足率數據，這一比率是否高於國際監管標準？", "answer": "C", "choice": ["資本充足率在2023年的標準調整過程中可能會影響評估，導致表面上看起來達到標準。", "根據最新報告，2023年的資本充足率仍低於某些國際監管標準，使其難以實現完全合規。", "是的，2023年的資本充足率高於國際監管標準。", "2023年的資本充足率達到了某些地區的監管要求，但仍低於全球的普遍標準。"]}
+{"category": "Open", "question_type": "Comparison", "question": "在2022年台灣銀行業資產與不良貸款率圖表中，數值最高的指標是什麼？", "answer": "指標 55"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "2022年台灣基準利率變動中，最高與最低數值的差距是多少？", "answer": "1.5"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2022年台灣銀行業資產與不良貸款率圖表，數值最高的指標是哪一項？", "answer": "C", "choice": ["指標 50", "指標 60", "指標 55", "指標 47"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據2022年台灣基準利率的變動，以下哪一項描述了最高與最低數值的差距？（需要參考相關數據圖片）", "answer": "C", "choice": ["1.8", "1.4", "1.5", "1.6"]}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖5，在2023年，台灣銀行業的流動性覆蓋率（LCR）高於巴塞爾協議要求的百分點是多少？", "answer": "32"}
+{"category": "Open", "question_type": "Comparison", "question": "在圖3中，製造業的企業貸款行業佔比與服務業相比，哪一個較高？", "answer": "製造業的企業貸款行業佔比較高。"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "根據圖1，兩個指標的數值差是多少？", "answer": "54.76"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，2022年台灣基準利率的最高與最低數值的差距是1.5。", "answer": "是", "question_group": 628}
+
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，2022年台灣基準利率的最高與最低數值的差距是2.0。", "answer": "否", "question_group": 628}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，供應商質量評估的合格率比外包服務監控的合格率高5%。", "answer": "是", "question_group": 629}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，外包服務監控的合格率比供應商質量評估的合格率高5%。", "answer": "否", "question_group": 629}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，指標 55 的數值是最高的。", "answer": "是", "question_group": 630}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，指標 0.24 的數值是最高的。", "answer": "否", "question_group": 630}
+

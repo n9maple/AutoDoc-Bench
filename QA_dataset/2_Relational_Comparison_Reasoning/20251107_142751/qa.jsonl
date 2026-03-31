@@ -1,0 +1,60 @@
+{"category": "Open", "question_type": "Comparison", "question": "2015 年與 2020 年相比，電子投票參與人次的增長倍數是多少？", "answer": "增長倍數是 3.5。"}
+{"category": "Open", "question_type": "Comparison", "question": "投票議案總數是否比錯誤攔截次數多出超過一千倍？", "answer": "是的，投票議案總數比錯誤攔截次數多出超過一千倍。"}
+{"category": "Open", "question_type": "Comparison", "question": "2023 年認為資訊充分的股東比例與會後進行至少一次修正的股東比例相差多少個百分點？", "answer": "81 個百分點"}
+{"category": "Open", "question_type": "Comparison", "question": "哪一家公司在2023年的實際投票開放天數高於全國平均開放天數，並且其實際開放天數是多少？", "answer": "聯發科在2023年的實際投票開放天數高於全國平均開放天數，其實際開放天數為5.9天。"}
+{"category": "Open", "question_type": "Comparison", "question": "2022 年與 2023 年相比，哪一年誤解截止時限未投票比例更低？", "answer": "2023 年的誤解截止時限未投票比例更低"}
+{"category": "Open", "question_type": "Comparison", "question": "2023年資料封存時間與2022年相比，減少了幾年？", "answer": "3年"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖表，2015 年與 2020 年相比，電子投票參與人次的增長倍數為何？", "answer": "C", "choice": ["增長倍數是 2.5。", "增長倍數是 3。", "增長倍數是 3.5。", "增長倍數是 4.5。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的數據，操作容易上手的比例是否達到或超過85%？", "answer": "C", "choice": ["是，操作容易上手比例為83%，未達標。", "是，85%的用戶表示操作簡單，但界面混亂。", "是，操作容易上手比例超過了85%。", "否，25%的用戶反映操作存在障礙。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的數據，投票議案總數與錯誤攔截次數之比是否超過一千倍？", "answer": "C", "choice": ["錯誤攔截次數高於投票議案總數，因此比率無法成立。", "不，投票議案總數與錯誤攔截次數相等。", "是的，投票議案總數比錯誤攔截次數多出超過一千倍。", "是的，但比率只稍高於五百倍。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的數據，認為資訊充分的股東比例與會後進行至少一次修正的股東比例之間的差異是多少個百分點？", "answer": "C", "choice": ["76個百分點", "82個百分點", "81個百分點", "90個百分點"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的數據，以下哪家公司在實際投票開放天數上高於全國平均開放天數？", "answer": "C", "choice": ["日月光，其實際開放天數為4.8天。", "華碩，其實際開放天數為5.5天。", "聯發科，其實際開放天數為5.9天。", "微軟，其實際開放天數為6.9天。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的圖片，2022 年與 2023 年相比，哪一年誤解截止時限未投票比例更低？", "answer": "C", "choice": ["2022 年的誤解截止時限未投票比例與2023年相同", "2023 年的誤解截止時限未投票比例更高於2022年", "2023 年的誤解截止時限未投票比例更低", "無法確定2022年與2023年之間的誤解截止時限未投票比例的差異"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據數據，2023年的資料封存時間與2022年相比，減少了幾年？請參考提供的圖片來回答。", "answer": "C", "choice": ["1年", "4年", "3年", "沒有變化"]}
+{"category": "Open", "question_type": "Comparison", "question": "在2023年電子投票平台各登入方式中，行動裝置OTP與網路銀行憑證的使用人數差距是多少？", "answer": "1"}
+{"category": "Open", "question_type": "Comparison", "question": "選用率最低的驗證方式是什麼？", "answer": "選用率最低的驗證方式是12%"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "選用率最高和最低的驗證方式之間的差距是多少？", "answer": "43%"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "諮詢件數最多的問題類型與最少的問題類型之差是多少？", "answer": "6405"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年電子投票平台各登入方式的使用情況，行動裝置OTP與網路銀行憑證的使用人數差距為多少？請根據圖片的數據選擇正確的選項。", "answer": "C", "choice": ["3", "5", "1", "6"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據以下資料，選用率最低的驗證方式是？（參考圖片中的數據）", "answer": "C", "choice": ["11%", "9%", "12%", "7%"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖片所示，選用率最高與最低的驗證方式之間的差距是：", "answer": "C", "choice": ["38%", "52%", "43%", "41%"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據下圖，諮詢件數最多的問題類型與最少的問題類型之差是多少？", "answer": "C", "choice": ["6000", "5500", "6405", "7500"]}
+{"category": "Open", "question_type": "Ranking", "question": "在2023年電子投票平台的登入方式中，使用人數排名第二的是哪一種方式？", "answer": "集保e存摺"}
+{"category": "MCQ", "question_type": "Ranking", "question": "在2023年電子投票平台的登入方式中，使用人數排名第二的方式是以下哪一種？請參考相關圖表以找出答案。", "answer": "C", "choice": ["傳統帳號登入", "行動裝置登入", "集保e存摺", "社群媒體登入"]}
+{"category": "Open", "question_type": "Comparison", "question": "根據表2的資料，平均登入投票時間如果減少2分鐘，會比操作容易上手比例的數值更接近哪個數值，91%還是操作容易上手比例增加5%的數值?", "answer": "91%"}
+{"category": "Open", "question_type": "Comparison", "question": "根據表9的資料，2022年的資料封存時間是2023年的多少倍？", "answer": "1.1034"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "在圖3中，選用率最高的驗證方式比最低的高出多少百分點？", "answer": "43"}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖5的資料，前兩名問題類型的諮詢件數之差是多少？以下哪一個選項是正確的？", "answer": "B", "choice": ["1600", "1470", "1400", "1300"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖7所示，無法計算2022年和2023年之間數值差異的原因是什麼？", "answer": "B", "choice": ["數據顯示範圍有限，導致計算不全", "缺乏具體的數據值", "缺乏關於過去數據的詳細說明", "圖表設計未能有效展示數據的變化"]}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，投票議案總數確實比錯誤攔截次數多出超過一千倍。", "answer": "是", "question_group": 534}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，投票議案總數比錯誤攔截次數少於五百倍。", "answer": "否", "question_group": 534}
+
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖片所示，選用率最高與最低的驗證方式之間的差距是43%。", "answer": "是", "question_group": 535}
+
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖片所示，選用率最高與最低的驗證方式之間的差距是30%。", "answer": "否", "question_group": 535}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，選用率最低的驗證方式的選用率是12%。", "answer": "是", "question_group": 536}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，選用率最低的驗證方式的選用率是18%。", "answer": "否", "question_group": 536}
+
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據下圖，數值最高的項目與最低的項目之間的差距是3200。", "answer": "是", "question_group": 537}
+
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據下圖，數值最高的項目與最低的項目之間的差距是2200。", "answer": "否", "question_group": 537}
+
+{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，最左邊項目的數值在所有項目中排名第一。", "answer": "是", "question_group": 538}
+
+{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，最左邊項目的數值在所有項目中排名第二。", "answer": "否", "question_group": 538}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的操作容易上手比例是91%，超過了85%。", "answer": "是", "question_group": 539}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的操作容易上手比例是84%，低於85%。", "answer": "否", "question_group": 539}
+
+{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，集保e存摺是2023年電子投票平台登入方式中使用人數排名第二的方式。", "answer": "是", "question_group": 540}
+
+{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，網路銀行憑證是2023年電子投票平台登入方式中使用人數排名第二的方式。", "answer": "否", "question_group": 540}
+
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據下圖，諮詢件數最多的問題類型與最少的問題類型之差是6405。", "answer": "是", "question_group": 541}
+
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據下圖，諮詢件數最多的問題類型與最少的問題類型之差是5000。", "answer": "否", "question_group": 541}
+

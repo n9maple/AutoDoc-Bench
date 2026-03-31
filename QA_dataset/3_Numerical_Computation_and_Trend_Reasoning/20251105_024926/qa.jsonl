@@ -1,0 +1,25 @@
+{"category": "Open", "question_type": "Aggregation", "question": "從 2020 年到 2022 年的市場規模增長總和是多少？", "answer": "38.83"}
+{"category": "Open", "question_type": "Aggregation", "question": "客戶身份驗證效率提升的提升百分比和成本降低百分比的和是多少？", "answer": "70%"}
+{"category": "Open", "question_type": "Aggregation", "question": "台灣在缺乏統一標準和系統整合難度這兩方面的比例總和是多少？", "answer": "135%"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的數據，2020 年至 2022 年的市場規模增長總和可能是多少？", "answer": "C", "choice": ["28.40", "45.67", "38.83", "36.21"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "基於客戶身份驗證效率提升的百分比和成本降低的百分比，兩者的總和為何？請根據下面的數據圖表進行判斷。", "answer": "C", "choice": ["78%", "72%", "70%", "82%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，台灣在缺乏統一標準和系統整合難度這兩方面的比例總和是多少？", "answer": "C", "choice": ["145%", "120%", "135%", "137%"]}
+{"category": "Open", "question_type": "Temporal Trend", "question": "從2023年至2025年，洗錢資金流失佔全球GDP比例的下限變化趨勢是什麼？", "answer": "從2023年至2025年，洗錢資金流失佔全球GDP比例的下限呈現逐年增加的趨勢。"}
+{"category": "Open", "question_type": "Temporal Trend", "question": "從2023年至2025年，區塊鏈技術應用增長的趨勢是上升還是下降？", "answer": "上升"}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2023年至2025年的資料，洗錢資金流失佔全球GDP比例的下限趨勢為何？", "answer": "C", "choice": ["洗錢資金流失佔全球GDP比例的下限在2025年降至20%。", "洗錢資金流失佔全球GDP比例的下限在2024年回升至15%。", "洗錢資金流失佔全球GDP比例的下限逐年增加。", "洗錢資金流失佔全球GDP比例的下限在2025年穩定於10%。"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2023年至2025年的數據，區塊鏈技術應用的增長趨勢是如何？", "answer": "C", "choice": ["微弱增長", "穩定不變", "上升", "劇烈下降"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖3中的資料，數據隱私風險和數據安全風險在台灣被視為主要風險的總百分比是以下哪一項？", "answer": "D", "choice": ["69%", "78%", "73%", "75%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表3的資料，假設在接下來的五年中，台灣的缺乏統一標準百分比每年增加5%，而全球的缺乏統一標準百分比每年增加2%。那麼五年後，這兩者之間的百分比差距將是多少？", "answer": "A", "choice": ["27.94%", "22.5%", "15%", "50%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表3的資料，台灣在缺乏統一標準和系統整合難度方面所面臨的挑戰比例之平均值為何？", "answer": "D", "choice": ["65%", "72.5%", "68%", "67.5%"]}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，客戶身份驗證效率提升的百分比和成本降低的百分比的總和是70%。", "answer": "是", "question_group": 835}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，客戶身份驗證效率提升的百分比和成本降低的百分比的總和是50%。", "answer": "否", "question_group": 835}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，從2023年至2025年，洗錢資金流失佔全球GDP比例的下限逐年增加。", "answer": "是", "question_group": 836}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，從2023年至2025年，洗錢資金流失佔全球GDP比例的下限保持不變。", "answer": "否", "question_group": 836}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，從2023年至2025年，區塊鏈技術應用的增長趨勢是上升的。", "answer": "是", "question_group": 837}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，從2023年至2025年，區塊鏈技術應用的增長趨勢是下降的。", "answer": "否", "question_group": 837}
+

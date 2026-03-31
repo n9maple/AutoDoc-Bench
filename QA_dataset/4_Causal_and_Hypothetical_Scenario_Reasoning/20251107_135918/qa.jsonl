@@ -1,0 +1,17 @@
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "若將成功申訴案件完整資訊比例與人為錯誤於資料不全案件佔比相減，結果是多少？", "answer": "19%"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "以2023年的資料為基準，如果結案滿意度增加10%且帳務更正/退款時效減少1天，新的結案滿意度與帳務更正/退款時效分別是多少？", "answer": "新的結案滿意度為97.9，新的帳務更正/退款時效為2天。"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "2023年上半年（1月至6月）的平均受理案件數與下半年（7月至12月）的平均受理案件數相比，哪個期間的平均受理案件數較高？", "answer": "2023年下半年的平均受理案件數較高"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "若 2023 年總申訴案件數為 1200 件，且時限內補償案件比例為 98%，請問有多少案件在時限內完成補償？", "answer": "1176"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據圖表，成功申訴案件完整資訊比例與人為錯誤於資料不全案件佔比相減後的結果為何？", "answer": "C", "choice": ["21%", "18%", "19%", "16%"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據2023年的資料，假設結案滿意度增加10%，且帳務更正/退款時效減少1天，請問新的結案滿意度與帳務更正/退款時效分別為何？", "answer": "C", "choice": ["新的結案滿意度為96.5，新的帳務更正/退款時效為3天。", "新的結案滿意度為95.5，新的帳務更正/退款時效為4天。", "新的結案滿意度為97.9，新的帳務更正/退款時效為2天。", "新的結案滿意度為98.4，新的帳務更正/退款時效為4天。"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據2023年上半年（1月至6月）和下半年（7月至12月）的平均受理案件數比較，哪個期間的平均受理案件數較高？", "answer": "C", "choice": ["2023年上半年的平均受理案件數較低", "2023年下半年的平均受理案件數持平", "2023年下半年的平均受理案件數較高", "2023年上半年和下半年的平均受理案件數具有相似趨勢"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "在2023年總申訴案件數為1200件的情境下，若時限內補償案件比例為98%，請問有多少案件在時限內完成補償？", "answer": "C", "choice": ["1160件", "1170件", "1176件", "1180件"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表3的資料，如果2023年手機簡訊、電子郵件和掛號信的數量分別增加到原來的兩倍，三者的總數可能為以下哪一項？", "answer": "C", "choice": ["1020", "5000", "204", "500"]}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2023年下半年的平均受理案件數高於上半年。", "answer": "是", "question_group": 1381}
+
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2023年上半年的平均受理案件數高於下半年。", "answer": "否", "question_group": 1381}
+
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2023年總申訴案件數為1200件，若時限內補償案件比例為98%，則有1176件案件在時限內完成補償。", "answer": "是", "question_group": 1382}
+
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2023年總申訴案件數為1200件，若時限內補償案件比例為98%，則有1200件案件在時限內完成補償。", "answer": "否", "question_group": 1382}
+

@@ -1,0 +1,20 @@
+{"category": "Open", "question_type": "Comparison", "question": "2023 年的批准率比 2022 年提高了多少百分比？", "answer": "5%"}
+{"category": "Open", "question_type": "Comparison", "question": "2022年商業類與住宅類的價值相比，哪一類的價值較高？", "answer": "2022年商業類的價值較高。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的數據，批准率相較於2022年提高了多少百分比？請依據提供的數據選擇正確的答案。", "answer": "C", "choice": ["7%", "12%", "5%", "2%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2022年的資料，哪一類的價值在商業類與住宅類的比較中較高？", "answer": "C", "choice": ["商業類的價值較高於某些高價住宅類，但整體仍然較低。", "商業類和住宅類的價值相似，主要受市場需求影響而變化。", "商業類的價值較高。", "在某些城市，商業類的價值相比住宅類更高，顯示出市場差異。"]}
+{"category": "Open", "question_type": "Comparison", "question": "哪一年不動產抵押貸款市場規模最小？", "answer": "2022年"}
+{"category": "Open", "question_type": "Comparison", "question": "2022年貸款申請者中，哪一種利率的選擇比例最少？", "answer": "混合型利率"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下列資料，哪一年不動產抵押貸款市場規模最小？", "answer": "C", "choice": ["2023年是市場縮小的一年", "2024年市場規模增長但仍低於2022年", "2022年", "2022年是最低點，2023年和2024年都顯示增長"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2022年貸款申請者的選擇，哪一種利率的比例最少？", "answer": "C", "choice": ["利率均衡", "固定型利率", "混合型利率", "變動型利率"]}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2022年不動產抵押貸款市場規模最小。", "answer": "是", "question_group": 735}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年不動產抵押貸款市場規模最小。", "answer": "否", "question_group": 735}
+
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，數值最高的指標是 85，最低的指標是 75，它們之間的差距是 10。", "answer": "是", "question_group": 736}
+
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，數值最高的指標是 90，最低的指標是 70，它們之間的差距是 15。", "answer": "否", "question_group": 736}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023 年的批准率比 2022 年提高了 5%。", "answer": "是", "question_group": 737}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023 年的批准率比 2022 年提高了 10%。", "answer": "否", "question_group": 737}
+

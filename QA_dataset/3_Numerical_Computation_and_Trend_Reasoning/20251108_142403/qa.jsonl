@@ -1,0 +1,8 @@
+{"category": "Open", "question_type": "Aggregation", "question": "2022 年和 2023 年的建築成本增長率的平均值是多少？", "answer": "8.5%"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從 2022 年到 2023 年，建築成本增長率增加了多少個百分點？", "answer": "增長率增加了 3 個百分點。"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，2022 年和 2023 年的建築成本增長率的平均值是多少？", "answer": "C", "choice": ["7.0%", "9.5%", "8.5%", "8.8%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據下列建築成本增長率的數據圖示，從 2022 年到 2023 年的增長率增加了多少個百分點？", "answer": "C", "choice": ["增長率保持不變，為 0 個百分點。", "增長率增加了 7 個百分點。", "增長率增加了 3 個百分點。", "增長率減少了 1 個百分點。"]}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從 2022 年到 2023 年的建築成本增長率增加了 3 個百分點。", "answer": "是", "question_group": 1117}
+
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從 2022 年到 2023 年的建築成本增長率增加了 5 個百分點。", "answer": "否", "question_group": 1117}
+

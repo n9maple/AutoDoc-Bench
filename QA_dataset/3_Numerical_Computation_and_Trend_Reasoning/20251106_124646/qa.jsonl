@@ -1,0 +1,32 @@
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2022年到2024年，臨櫃服務的申請數量減少了多少？", "answer": "12"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "在2024年，補件後平均審核天數的範圍與2023年相比有何變化？", "answer": "2024年的補件後平均審核天數範圍的下限減少了0.5天，上限減少了1天。"}
+{"category": "Open", "question_type": "Aggregation", "question": "計算2023年和2024年的進入初步審核案件數的平均值。", "answer": "20300"}
+{"category": "Open", "question_type": "Aggregation", "question": "平均每年醫療專科諮詢案件數是多少？", "answer": "平均每年醫療專科諮詢案件數是860。"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從 2023 年到 2024 年，財務審查駁回金額增加了多少百分比？", "answer": "財務審查駁回金額從 2023 年到 2024 年增加了約 9.30%。"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從 2022 年到 2024 年，申訴處理滿意度的變化趨勢是如何的？", "answer": "從 2022 年到 2024 年，申訴處理滿意度逐年上升，從 89.7 上升到 92.1。"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據資料，從2022年到2024年，臨櫃服務的申請數量減少了多少？", "answer": "C", "choice": ["10", "8", "12", "5"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2023年和2024年的數據，補件後平均審核天數的範圍有何變化？", "answer": "C", "choice": ["2024年平均審核天數的範圍保持不變，上限仍然是5天。", "2024年平均審核天數的上限增加了2天，下限減少了0.5天。", "2024年平均審核天數的下限減少了0.5天，上限減少了1天。", "2024年平均審核天數的下限減少了1.5天，上限增加了1天。"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，2023年和2024年的進入初步審核案件數的平均值是多少？", "answer": "C", "choice": ["20250", "20400", "20300", "20100"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據情境圖示，平均每年醫療專科諮詢案件數為下列哪一項？", "answer": "C", "choice": ["920", "880", "860", "800"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據提供的資料，從2023年到2024年，財務審查駁回金額的百分比變化為多少？", "answer": "C", "choice": ["約增加了13.50%", "約減少了2.50%", "約增加了9.30%", "約增加了7.10%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據下圖，從 2022 年到 2024 年，申訴處理滿意度的變化趨勢是如何的？", "answer": "C", "choice": ["申訴處理滿意度在2023年下降，數字為 86.5。", "申訴處理滿意度在2023年持平，數字為 90.0。", "申訴處理滿意度逐年上升，從 89.7 上升到 92.1。", "申訴處理滿意度在2023年稽核後數字為 89.0，較前一年輕微下降。"]}
+{"category": "Open", "question_type": "Aggregation", "question": "所有審核項目的檢查要點數量的總和是多少?", "answer": "12"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖所示，所有審核項目的檢查要點數量的總和是多少？", "answer": "C", "choice": ["13", "10", "12", "16"]}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表7的資料，計算2022年至2024年各年的首輪溝通成功解決占比的平均值是多少？", "answer": "71.33%"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據圖1，所有審核項目的檢查要點數量總和是多少？", "answer": "12"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，平均每年醫療專科諮詢案件數是860。", "answer": "是", "question_group": 844}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，平均每年醫療專科諮詢案件數是850。", "answer": "否", "question_group": 844}
+
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2022年到2024年，臨櫃服務的申請數量減少了12。", "answer": "是", "question_group": 845}
+
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2022年到2024年，臨櫃服務的申請數量減少了15。", "answer": "否", "question_group": 845}
+
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，2024年補件後平均審核天數的下限減少了0.5天，上限減少了1天。", "answer": "是", "question_group": 846}
+
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，2024年補件後平均審核天數的下限增加了0.5天，上限增加了1天。", "answer": "否", "question_group": 846}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據下圖，所有審核項目的檢查要點數量的總和是 12。", "answer": "是", "question_group": 847}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據下圖，所有審核項目的檢查要點數量的總和是 15。", "answer": "否", "question_group": 847}
+

@@ -1,0 +1,50 @@
+{"category": "Open", "question_type": "Comparison", "question": "不良貸款率和核心資本適足率哪一個數值較低？", "answer": "不良貸款率的數值較低"}
+{"category": "Open", "question_type": "Comparison", "question": "2023年和2024年在風能和太陽能的碳排放減少量差異是多少？", "answer": "2023年和2024年在風能的碳排放減少量差異是3萬噸，在太陽能的碳排放減少量差異是2萬噸，總差異是5萬噸。"}
+{"category": "Open", "question_type": "Comparison", "question": "2023 年和 2024 年的教育資助金額差額是多少?", "answer": "新台幣1000萬元"}
+{"category": "Open", "question_type": "Comparison", "question": "哪個項目的客戶比例目標和數位交易額佔比的總和最高？", "answer": "提升數位基礎設施和開發創新金融科技應用的客戶比例目標和數位交易額佔比的總和最高，都是110。"}
+{"category": "Open", "question_type": "Comparison", "question": "比較環保技術貸款產品和可再生能源專項貸款的合作機構數量，哪一個更多？", "answer": "環保技術貸款產品的合作機構數量更多。"}
+{"category": "Open", "question_type": "Comparison", "question": "在2024年，網絡安全的預算比內部控制機制高多少？", "answer": "新台幣6億元"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖中的數據，不良貸款率和核心資本適足率哪一個數值較低？", "answer": "D", "choice": ["不良貸款率通常高於核心資本適足率", "不良貸款率不變，但核心資本適足率經常波動", "核心資本適足率低於5%", "不良貸款率的數值較低"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年和2024年的數據，風能和太陽能的碳排放減少量差異是多少？請根據下圖描述選出正確的數字。圖中顯示了不同能源來源的碳排放量變化。", "answer": "C", "choice": ["風能減少10萬噸，太陽能減少5萬噸，總差異5萬噸。", "風能減少1萬噸，太陽能減少3萬噸，總差異2萬噸。", "風能減少3萬噸，太陽能減少2萬噸，總差異5萬噸。", "風能減少2萬噸，太陽能減少4萬噸，總差異2萬噸。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年和2024年的教育資助金額差額，以下哪一項是正確的？", "answer": "C", "choice": ["新台幣2500萬元", "新台幣500萬元", "新台幣1000萬元", "新台幣3000萬元"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片，哪個項目的客戶比例目標和數位交易額佔比的總和最高？", "answer": "C", "choice": ["增強數位支付安全性與客戶信任，總和為108。", "推進行動支付和個人化金融服務，總和為105。", "提升數位基礎設施和開發創新金融科技應用，總和為110。", "強化數位市場所需的法律框架，總和為95。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的資料，比較環保技術貸款產品和可再生能源專項貸款的合作機構數量，哪一項更為普遍？", "answer": "C", "choice": ["環保技術貸款產品的合作機構數量與可再生能源專項貸款非常接近，差距在30以內。", "環保技術貸款產品的合作機構數量較可再生能源專項貸款多，但不超過50。", "環保技術貸款產品的合作機構數量更多。", "可再生能源專項貸款的合作機構數量顯著增加，超過了環保技術貸款產品。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2024年的預算，如果網絡安全的預算高於內部控制機制，且多出新台幣6億元，那麼以下哪一項描述正確反映了這一差額？", "answer": "C", "choice": ["網絡安全的預算增加了新台幣6億元，但不超過內部控制機制的預算", "網絡安全的預算與內部控制機制相等", "網絡安全的預算比內部控制機制高新台幣6億元", "內部控制機制的預算比網絡安全的預算低新台幣8億元"]}
+{"category": "Open", "question_type": "Comparison", "question": "比較2023年和2024年數位交易量增幅，哪一年數值較低？", "answer": "2023年數位交易量增幅較低"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "在2023年和2024年，台新銀行的總負債增加了多少？", "answer": "由於沒有具體的圖表數據，我無法提供準確的增加數額。"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "最高與最低投資額的差距是多少？", "answer": "10億元"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的數據，2023年和2024年數位交易量增幅的比較中，哪一年的增幅較低?", "answer": "C", "choice": ["2023年的增幅因為更低基數而看似高", "2024年數位交易量增幅較低", "2023年數位交易量增幅較低", "2023年和2024年增幅相同"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據2023年和2024年的台新銀行總負債變化情境，下列哪個選項最可能正確描述其增加情況？", "answer": "C", "choice": ["根據最近的市場趨勢，台新銀行在2024年將可能會導致負債增長，但具體數據尚不明確。", "2023年獲得融資的成功將導致債務的直接增加，而非減少負債。", "無法確定具體的增加數額，因為缺乏相關的圖表數據。", "由於市場動盪，2024年的負債可能會出現意想不到的漲幅，而非簡單的增長預測。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據合規審核的結果，所有管理範疇的覆蓋率是否達到100%？", "answer": "C", "choice": ["否，整體合規審核的覆蓋率達到95%，但仍需進行進一步的資料收集以確認一些範疇的合規性。", "否，合規風險管理體系在某些範疇的覆蓋率僅達75%，顯示出改善的必要。", "是，所有管理範疇的合規審核覆蓋率均達到100%。", "是，所有管理範疇的覆蓋率達到100%，但需要隨時更新合規策略以應對新挑戰。"]}
+{"category": "Open", "question_type": "Ranking", "question": "在2023年和2024年之間，哪一年綠色金融產品發行額的數值較低？", "answer": "由於沒有提供具體數據，我無法給出確切的答案。"}
+{"category": "Open", "question_type": "Ranking", "question": "2023年存款總額、總負債和總資產三個指標中，哪一個數值最低？", "answer": "2023年存款總額是三個指標中數值最低的。"}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據2023年和2024年的綠色金融產品發行趨勢，哪一年看起來發行額較低？", "answer": "C", "choice": ["2024年發行額比2023年低", "2023年與2024年都顯示出下降趨勢", "2023年", "2024年發行額回升但仍低於2022年"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "在2023年的財務指標中，根據下圖顯示的存款總額、總負債和總資產，哪一個數值是最低的？", "answer": "D", "choice": ["總資產是三個指標中數值最低的。", "總負債是三個指標中數值最低的。", "存款總額與總負債相等，無法確定最低值。", "存款總額是三個指標中數值最低的。"]}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖1，2023年和2024年相比，哪一年的數位交易量增幅更大？", "answer": "由於未提供具體數據，無法確定哪一年數位交易量增幅更大。"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "在圖3中，資本適足率和不良貸款率的差值最大的是哪一年？", "answer": "2023年"}
+{"category": "Open", "question_type": "Ranking", "question": "根據圖5，投資收益在所有收入類別中的排名是第幾位？", "answer": "由於缺乏具體數據，無法確定投資收益的具體排名。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表2，以下哪一年節能減碳項目佔綠色金融產品總額的比例較高？", "answer": "D", "choice": ["2022年", "2024年", "2020年", "2023年"]}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，網絡安全的預算比內部控制機制高新台幣6億元。", "answer": "是", "question_group": 711}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，網絡安全的預算比內部控制機制高新台幣2億元。", "answer": "否", "question_group": 711}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，環保技術貸款產品的合作機構數量比可再生能源專項貸款更多。", "answer": "是", "question_group": 712}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，可再生能源專項貸款的合作機構數量比環保技術貸款產品多。", "answer": "否", "question_group": 712}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年和2024年風能的碳排放減少量差異是3萬噸，而太陽能的碳排放減少量差異是2萬噸，總差異為5萬噸。", "answer": "是", "question_group": 713}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年和2024年風能的碳排放減少量差異是4萬噸，而太陽能的碳排放減少量差異是2萬噸，總差異為6萬噸。", "answer": "否", "question_group": 713}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，提升數位基礎設施和開發創新金融科技應用的客戶比例目標和數位交易額佔比的總和是最高的，總和為110。", "answer": "是", "question_group": 714}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，人工智能和大數據應用的客戶比例目標和數位交易額佔比的總和是最高的。", "answer": "否", "question_group": 714}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，不良貸款率的數值較低於核心資本適足率。", "answer": "是", "question_group": 715}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，核心資本適足率的數值較低於不良貸款率。", "answer": "否", "question_group": 715}
+
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，無法確定台新銀行總負債的具體增加數額，因為缺乏相關的圖表數據。", "answer": "是", "question_group": 716}
+
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，台新銀行2023年到2024年的總負債增加了具體的數額。", "answer": "否", "question_group": 716}
+

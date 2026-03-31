@@ -1,0 +1,46 @@
+{"category": "Open", "question_type": "Aggregation", "question": "總參與人次和溝通活動場次的比率是多少？", "answer": "177.17"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2022年到2023年，資源回收率增加了多少百分比？", "answer": "5"}
+{"category": "Open", "question_type": "Aggregation", "question": "2022年和2023年的資源回收率平均是多少？", "answer": "71.5"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "2022年到2023年，平均每月遠距工作申請人次增加了多少？", "answer": "100"}
+{"category": "Open", "question_type": "Aggregation", "question": "2023年的健康檢查參與率和心理諮詢服務使用人次年增率的總和是多少？", "answer": "110"}
+{"category": "Open", "question_type": "Aggregation", "question": "2022 年和 2023 年多元文化活動場次的總和是多少？", "answer": "26"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從 2022 年到 2023 年，多元文化活動的參與人次增加了多少？", "answer": "300"}
+{"category": "Open", "question_type": "Aggregation", "question": "在這兩年中，誠信經營教育訓練場次的平均次數是多少？", "answer": "7.5"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2022年到2023年，核心供應商自我評鑑完成率提升了多少百分比？", "answer": "核心供應商自我評鑑完成率提升了13個百分點"}
+{"category": "Open", "question_type": "Aggregation", "question": "2022年和2023年參與供應商人數的平均值是多少？", "answer": "102.5"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖片所示，總參與人次與溝通活動場次的比率為多少？", "answer": "C", "choice": ["178.50", "185.00", "177.17", "176.00"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據下圖，從2022年到2023年，資源回收率的增幅是多少？", "answer": "C", "choice": ["15%", "8%", "5%", "3%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖示，2022年和2023年資源回收率的平均值是多少？", "answer": "C", "choice": ["74.2", "67.0", "71.5", "70.3"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據下圖，2022年到2023年，平均每月遠距工作申請人次的增加量為多少？", "answer": "C", "choice": ["150", "90", "100", "130"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年的統計，健康檢查參與率和心理諮詢服務使用人次年增率的總和是多少？請參考提供的數據圖。", "answer": "C", "choice": ["125", "90", "110", "105"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖片所示的多元文化活動場次數據，2022 年和 2023 年的活動場次總和為多少？", "answer": "C", "choice": ["30", "28", "26", "24"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據提供的數據，從2022年到2023年，多元文化活動的參與人次是否有顯著增加？", "answer": "C", "choice": ["參與人次保持不變，沒有顯著變化", "參與人次增加了250", "參與人次增加了300", "參與人次增加了500"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據最近兩年的數據，誠信經營教育訓練場次的平均次數是多少？請參考提供的數據圖表。以下哪一個選項最接近正確的平均數？", "answer": "C", "choice": ["6.5", "8.2", "7.5", "10.0"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2022年和2023年的數據，核心供應商自我評鑑完成率提升了多少百分比？", "answer": "C", "choice": ["核心供應商自我評鑑完成率提升了5個百分點", "核心供應商自我評鑑完成率提升了12個百分點", "核心供應商自我評鑑完成率提升了13個百分點", "核心供應商自我評鑑完成率提升了20個百分點"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下列數據，2022年和2023年參與供應商人數的平均值是多少？", "answer": "C", "choice": ["100", "115", "102.5", "105"]}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表6的資料，2022年和2023年供應商說明會場次的總和是多少？", "answer": "5"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表2的資料，2023年資源回收率和無紙化文件傳遞率的總和是多少？請選出以下選項中正確的總和：", "answer": "A", "choice": ["166", "150", "165", "190"]}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022 年和 2023 年的多元文化活動場次總和為 26 場。", "answer": "是", "question_group": 1057}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022 年和 2023 年的多元文化活動場次總和為 20 場。", "answer": "否", "question_group": 1057}
+
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2022年到2023年，多元文化活動的參與人次增加了300。", "answer": "是", "question_group": 1058}
+
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2022年到2023年，多元文化活動的參與人次增加了100。", "answer": "否", "question_group": 1058}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據下圖，所有活動指標的總和是2164。", "answer": "是", "question_group": 1059}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據下圖，所有活動指標的總和是2000。", "answer": "否", "question_group": 1059}
+
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2022年到2023年，資源回收率增加了5個百分點。", "answer": "是", "question_group": 1060}
+
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2022年到2023年，資源回收率的增幅是5%。", "answer": "否", "question_group": 1060}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年和2023年參與供應商人數的平均值是102.5。", "answer": "是", "question_group": 1061}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年和2023年參與供應商人數的平均值是100。", "answer": "否", "question_group": 1061}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年和2023年的資源回收率的平均值是71.5。", "answer": "是", "question_group": 1062}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年和2023年的資源回收率的平均值是65。", "answer": "否", "question_group": 1062}
+

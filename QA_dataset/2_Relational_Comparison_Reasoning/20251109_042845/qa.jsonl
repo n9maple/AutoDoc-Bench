@@ -1,0 +1,33 @@
+{"category": "Open", "question_type": "Comparison", "question": "在多語種財務報告比例中，高科技產業比製造業高出多少百分比？", "answer": "25%"}
+{"category": "Open", "question_type": "Comparison", "question": "2021年和2022年，哪一年良好或優秀等級公司的比例較高？", "answer": "2022年"}
+{"category": "Open", "question_type": "Comparison", "question": "相比於女性董事比率，獨立董事占比多了多少個百分點？", "answer": "獨立董事占比比女性董事比率多55個百分點。"}
+{"category": "Open", "question_type": "Comparison", "question": "哪些產業的法定期限內財務報表提交比例達到或超過90%，並且多語種財務報告比例低於80%？", "answer": "金融業"}
+{"category": "Open", "question_type": "Comparison", "question": "金融業的電子投票系統引入比例比製造業高多少百分比？", "answer": "金融業的電子投票系統引入比例比製造業高25%"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的圖片所示的多語種財務報告比例，高科技產業相較於製造業的比例高出多少百分比？", "answer": "C", "choice": ["40%", "20%", "25%", "15%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據比較圖表，以下哪一年良好或優秀等級公司的比例較高？", "answer": "C", "choice": ["2020年", "2019年", "2022年", "2023年"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖顯示，獨立董事的占比相比於女性董事的比率多了多少個百分點？", "answer": "C", "choice": ["獨立董事占比比女性董事比率少了10個百分點。", "獨立董事占比比女性董事比率多了40個百分點。", "獨立董事占比比女性董事比率多55個百分點。", "獨立董事占比比女性董事比率多了60個百分點。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，哪些產業在法定期限內財務報表提交比例達到或超過90%，且多語種財務報告比例低於80%？", "answer": "C", "choice": ["運輸業", "建築業", "金融業", "醫療保健業"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片所示，金融業的電子投票系統引入比例與製造業相比，大約高出多少百分比？", "answer": "C", "choice": ["高出20%", "高出10%", "高出25%", "高出5%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中展示的數據，哪一項措施的公司比例最高？", "answer": "C", "choice": ["法規符合性檢查", "股東投票權增強", "80", "透明度提升要求"]}
+{"category": "Open", "question_type": "Comparison", "question": "在圖5中，哪一個指標的公司比例最低？", "answer": "指標70"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "在圖2中，兩項措施的公司比例差異是多少？", "answer": "5%"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，獨立董事占比比女性董事比率多超過55個百分點。", "answer": "是", "question_group": 720}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，獨立董事占比比女性董事比率多25個百分點。", "answer": "否", "question_group": 720}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，金融業的法定期限內財務報表提交比例達到或超過90%，且多語種財務報告比例低於80%。", "answer": "是", "question_group": 721}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，製造業的法定期限內財務報表提交比例達到或超過90%，且多語種財務報告比例低於80%。", "answer": "否", "question_group": 721}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2022年良好或優秀等級公司的比例高於2021年。", "answer": "是", "question_group": 722}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2021年良好或優秀等級公司的比例高於2022年。", "answer": "否", "question_group": 722}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，金融業的電子投票系統引入比例比製造業高出25%。", "answer": "是", "question_group": 723}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，金融業的電子投票系統引入比例比製造業高出10%。", "answer": "否", "question_group": 723}
+
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖表，措施1的公司比例比措施2高出10%。", "answer": "是", "question_group": 724}
+
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖表，措施1的公司比例與措施2相同。", "answer": "否", "question_group": 724}
+

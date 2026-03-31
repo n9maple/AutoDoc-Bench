@@ -1,0 +1,37 @@
+{"category": "Open", "question_type": "Comparison", "question": "相比於監察人，董事的審核通過率高多少百分點？", "answer": "董事的審核通過率比監察人高16.67個百分點。"}
+{"category": "Open", "question_type": "Comparison", "question": "2024年大數據與AI應用的投入比2023年多多少億？", "answer": "5億"}
+{"category": "Open", "question_type": "Comparison", "question": "2025年的社區發展預算與2023年相比增長了多少？", "answer": "2025年的社區發展預算與2023年相比增長了新臺幣2億元。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據以下圖片，2023年數位銀行客戶的增長幅度相較於2022年是多少？", "answer": "C", "choice": ["增加了1名", "增加了5名", "增加了4名", "減少了2名"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，董事的審核通過率相比於監察人提高了多少百分點？", "answer": "C", "choice": ["12.5個百分點", "18個百分點", "16.67個百分點", "14個百分點"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的圖片，2024年大數據與AI應用的投入比2023年多了多少億？", "answer": "C", "choice": ["2024年大數據與AI應用的投入比2023年少了2億", "4億", "5億", "7億"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，2025年的社區發展預算與2023年相比增長了多少？", "answer": "C", "choice": ["新臺幣4億元", "新臺幣1億元", "新臺幣2億元", "新臺幣6億元"]}
+{"category": "Open", "question_type": "Comparison", "question": "總資產在2022年和2023年的變化趨勢如何？", "answer": "總資產在2023年相比2022年有所增加。"}
+{"category": "Open", "question_type": "Comparison", "question": "在2022年和2023年中，哪一年的經營活動現金流入淨額(億元)較高？", "answer": "2023年的經營活動現金流入淨額較高。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，總資產在2022年和2023年的變化趨勢如何？", "answer": "C", "choice": ["總資產在2022年和2023年之間有小幅下降，顯示出市場不穩定的影響。", "總資產在2023年略微上升，但仍低於2022年水平。", "總資產在2023年相比2022年有所增加。", "總資產在2023年相比2022年基本持平，但受到外部因素影響。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據所提供的圖片，2022年和2023年的經營活動現金流入淨額(億元)，哪一年較高？", "answer": "C", "choice": ["2023年的數字僅略高於2022年。", "2022年和2023年的經營活動現金流入淨額相同。", "2023年經營活動現金流入淨額較高。", "經營活動現金流入淨額的數據並不影響公司績效。"]}
+{"category": "Open", "question_type": "Ranking", "question": "2023年中，負債比率(%)、淨利潤(億元)和經營活動現金流入淨額(億元)這三個指標中，哪一個指標的數值最高？", "answer": "負債比率(%)"}
+{"category": "MCQ", "question_type": "Ranking", "question": "2023年中，根據圖表中的負債比率、淨利潤和經營活動現金流入淨額三個指標，哪一個指標的數值最高？", "answer": "C", "choice": ["經營活動現金流入淨額(億元)", "淨利潤(億元)", "負債比率(%)", "負債比率(千分比)"]}
+{"category": "Open", "question_type": "Comparison", "question": "在圖4中，哪一個指標的增長率較高？", "answer": "指標15的增長率較高"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "根據圖5的資料，2022年和2023年淨利潤(億元)的差值是多少？", "answer": "21.43億元"}
+{"category": "Open", "question_type": "Ranking", "question": "根據圖3，總負債在2022年和2023年的變化量在所有指標中排名第幾？", "answer": "3"}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據圖3，總負債在2022年和2023年的變化量在所有指標中排名第幾？", "answer": "A", "choice": ["3", "4", "5", "未排名"]}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，董事的審核通過率相比於監察人提高了16.67個百分點。", "answer": "是", "question_group": 688}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，董事的審核通過率相比於監察人提高了10個百分點。", "answer": "否", "question_group": 688}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023 年線上參與股東數多於現場參與股東數。", "answer": "是", "question_group": 689}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023 年現場參與股東數多於線上參與股東數。", "answer": "否", "question_group": 689}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2025年的社區發展預算與2023年相比增長了新臺幣2億元。", "answer": "是", "question_group": 690}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2025年的社區發展預算與2023年相比增長了新臺幣3億元。", "answer": "否", "question_group": 690}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的經營活動現金流入淨額高於2022年。", "answer": "是", "question_group": 691}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2022年的經營活動現金流入淨額高於2023年。", "answer": "否", "question_group": 691}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據下圖，總資產在2023年相比2022年有所增加。", "answer": "是", "question_group": 692}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據下圖，總資產在2023年相比2022年有所減少。", "answer": "否", "question_group": 692}
+

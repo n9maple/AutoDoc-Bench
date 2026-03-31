@@ -1,0 +1,17 @@
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果線上交易總筆數增加10%，異常率保持不變，潛在異常交易事件件數會變成多少？", "answer": "3520"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果攔截可疑交易筆數增加50%，那麼新的攔截筆數會是多少？", "answer": "1725"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果2023年的數位金融法規訓練每場平均有多少名員工參與？", "answer": "每場平均約有105.56名員工參與"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "異常警示總件數是由跨境交易警示數、電子支付警示數和反洗錢警示數加總而來嗎？如果是，請驗證計算過程。", "answer": "是的，異常警示總件數是由跨境交易警示數、電子支付警示數和反洗錢警示數加總而來。"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "如果線上交易總筆數增加10%，並且異常率保持不變，潛在異常交易事件件數變化後會是多少？", "answer": "C", "choice": ["4000", "3600", "3520", "3880"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "假設在圖片中顯示的攔截過去的可疑交易筆數為1150。如果攔截可疑交易筆數增加50%，那麼新的攔截筆數會是多少？", "answer": "C", "choice": ["1200", "1650", "1725", "1800"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據2023年的數位金融法規訓練，平均每場參與的員工人數為多少？請根據以下數據推斷。", "answer": "C", "choice": ["每場平均有95名員工參與", "每場平均有110名員工參與", "每場平均約有105名員工參與", "每場平均有80名員工參與"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "異常警示總件數的計算方式是由哪些警示數字加總而來？", "answer": "C", "choice": ["所有交易實體的警示數字總和", "電子支付警示數和跨境交易警示數的比值", "跨境交易警示數、電子支付警示數和反洗錢警示數", "跨境交易警示數加上電子支付警示數，不包括反洗錢警示數"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "假設在2023年，表6中的潛在異常交易事件件數減少了10%，而線上交易總筆數保持不變，根據該情境，新的異常率可能是多少？", "answer": "A", "choice": ["0.01152", "0.0128", "0.00945", "0.0102"]}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，異常警示總件數是由跨境交易警示數、電子支付警示數和反洗錢警示數加總而來。", "answer": "是", "question_group": 1292}
+
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，異常警示總件數是由跨境交易警示數和電子支付警示數加總而來。", "answer": "否", "question_group": 1292}
+
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，假設攔截可疑交易筆數為1150，若增加50%，新的攔截筆數會是1725。", "answer": "是", "question_group": 1293}
+
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，假設攔截可疑交易筆數為1150，若增加50%，新的攔截筆數會是1600。", "answer": "否", "question_group": 1293}
+

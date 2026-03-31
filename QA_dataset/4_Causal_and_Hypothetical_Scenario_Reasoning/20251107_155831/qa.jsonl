@@ -1,0 +1,23 @@
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "加權指數從昨天到今天的成交金額變化百分比是多少？", "answer": "-4%"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "若將電子與半導體的成交值加總，結果比金融多多少？", "answer": "2230"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果自營商增加其在台積電的買超至500，台積電的總買賣超會變成多少？", "answer": "-3000"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "消費者物價指數年增率加上製造業生產指數年增率的總和是多少？", "answer": "5.9"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "2024年6月，外資的資金流出金額比投信的資金流入金額多多少億元？", "answer": "24億元"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據今天的成交金額與昨天相比，加權指數的變化比例是多少？請參考下列數據圖表作出選擇。", "answer": "C", "choice": ["-3%", "-5%", "-4%", "-1%"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據下圖中顯示的電子、半導體及金融的成交值，如果將電子與半導體的成交值加總，則該結果比金融的成交值多多少？", "answer": "C", "choice": ["3000", "2000", "2230", "1500"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "如果自營商在台積電的買超增加至500，以下哪一項最接近台積電的總買賣超？", "answer": "C", "choice": ["-2500", "-3700", "-3000", "-3200"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據以下數據，消費者物價指數年增率與製造業生產指數年增率的總和是多少？（請參考提供的數據圖表）", "answer": "C", "choice": ["6.5", "4.8", "5.9", "5.7"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據下圖，2024年6月外資的資金流出金額比投信的資金流入金額多多少億元？", "answer": "C", "choice": ["18億元", "36億元", "24億元", "22億元"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據明日預期的指數漲跌幅，明日的收盤指數可能是多少？", "answer": "C", "choice": ["18,600", "18,400", "18,360", "18,200"]}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，加權指數今日的成交金額與昨日相比變化了約-4%。", "answer": "是", "question_group": 1444}
+
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，加權指數今日的成交金額與昨日相比變化了約+4%。", "answer": "否", "question_group": 1444}
+
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，消費者物價指數年增率與製造業生產指數年增率的總和是5.9。", "answer": "是", "question_group": 1445}
+
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，消費者物價指數年增率與製造業生產指數年增率的總和是6.5。", "answer": "否", "question_group": 1445}
+
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，電子與半導體的成交值加總比金融的成交值多2230。", "answer": "是", "question_group": 1446}
+
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，電子與半導體的成交值加總比金融的成交值多370。", "answer": "否", "question_group": 1446}
+

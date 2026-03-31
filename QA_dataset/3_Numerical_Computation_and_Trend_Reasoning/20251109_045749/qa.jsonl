@@ -1,0 +1,10 @@
+{"category": "Open", "question_type": "Aggregation", "question": "2022 年 Value at Risk 和壓力測試的平均百分比是多少？", "answer": "66.5%"}
+{"category": "Open", "question_type": "Aggregation", "question": "假設2023年的價值風險、敏感性分析和壓力測試的結果都是一致的，這三者的平均值是多少？", "answer": "78"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據以下圖表，2022年Value at Risk和壓力測試的平均百分比接近於哪一個數據？", "answer": "C", "choice": ["63.5%", "71.0%", "66.5%", "68.0%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年的價值風險、敏感性分析和壓力測試的結果，若這三者的平均值為78，則以下哪一個選項可能正確？", "answer": "C", "choice": ["75", "79", "78", "81"]}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表2的資料，計算2022年所有指標的平均數值，並比較此平均值與2023年的壓力測試結果，哪一個較高？", "answer": "2022年的平均數值較高，為62.75%。"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表2的資料，2022年所有指標的平均數值為多少？以下哪一項比較2023年的壓力測試結果較高？", "answer": "B", "choice": ["2022年的平均數值為64.5%", "2022年的平均數值為62.75%", "2022年的平均數值為61.0%", "2022年的平均數值為60.0%"]}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年Value at Risk和壓力測試的平均百分比是66.5%。", "answer": "是", "question_group": 1163}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年Value at Risk和壓力測試的平均百分比是70%。", "answer": "否", "question_group": 1163}
+

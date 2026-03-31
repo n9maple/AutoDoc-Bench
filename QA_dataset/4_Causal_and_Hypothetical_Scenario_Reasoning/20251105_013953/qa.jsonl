@@ -1,0 +1,8 @@
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果2025年的經濟增長率預計比2024年高0.5個百分點，那麼2025年的經濟增長率將是多少？", "answer": "2025年的經濟增長率將是3.3%。"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "從 2023Q1 到 2023Q4，台中的數值總共增加了多少個百分點？", "answer": "1.1個百分點"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據2024年的經濟增長率，如果預計2025年的經濟增長率比2024年高0.5個百分點，以下哪個選項最可能是2025年的經濟增長率？", "answer": "C", "choice": ["2.8%", "3.5%", "3.3%", "3.6%"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據下圖，從2023Q1到2023Q4，台中的數值變化為何？", "answer": "C", "choice": ["減少了0.5個百分點", "增加了0.5個百分點", "增加了1.1個百分點", "減少了2個百分點"]}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2025年的經濟增長率將比2024年高0.5個百分點，也就是3.3%。", "answer": "是", "question_group": 1243}
+
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2025年的經濟增長率將比2024年低0.5個百分點，預計為2.3%。", "answer": "否", "question_group": 1243}
+

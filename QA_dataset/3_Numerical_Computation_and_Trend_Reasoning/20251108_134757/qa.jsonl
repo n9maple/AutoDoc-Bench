@@ -1,0 +1,20 @@
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2024年到2028年，哪一年的綠色建築投資增長最多，增幅是多少？", "answer": "每年的增長相同，都是0.1億美元"}
+{"category": "Open", "question_type": "Aggregation", "question": "技術創新合作和最佳實踐共享的環境效益提高百分比總和是多少？", "answer": "30%"}
+{"category": "Open", "question_type": "Aggregation", "question": "如果研討會和社區活動的市場信心增強百分比相加，總和是多少？", "answer": "25%"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "在2024年到2028年間，哪一年綠色建築投資增長最多？請參考下列數據（每年的增長額為0.1億美元）。", "answer": "C", "choice": ["2028年是唯一沒有增長的一年。", "2024年政策支持增長至0.2億美元。", "每年增長相同，均為0.1億美元。", "2026年政策刺激導致增長達到0.15億美元。"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據所提供的圖片，技術創新合作和最佳實踐共享能提高環境效益的百分比總和可能是以下哪一項？", "answer": "C", "choice": ["25%", "50%", "30%", "20%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的圖片，若研討會的市場信心增強百分比為15%，社區活動為10%，這兩者的總和是多少？", "answer": "C", "choice": ["18%", "22%", "25%", "27%"]}
+{"category": "Open", "question_type": "Temporal Trend", "question": "從2024年至2028年，相當燃油汽車減少數量的增長趨勢如何？", "answer": "從2024年至2028年，相當燃油汽車減少數量呈現穩定的線性增長趨勢，每年增加20000輛。"}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖表，從2024年至2028年，相當燃油汽車的減少數量呈現何種趨勢？", "answer": "C", "choice": ["相當燃油汽車的減少數量在2024年至2028年維持不變。", "相當燃油汽車的減少數量在2024年僅有小幅變化，然後逐漸增長。", "相當燃油汽車減少數量呈現穩定的線性增長趨勢，每年增加20000輛。", "相當燃油汽車的減少數量在2024年至2028年出現不規則波動。"]}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，北美的綠色債券市場規模從2023年的0.5萬億美元增至2024年的0.6萬億美元，並在2025年達到0.7萬億美元。", "answer": "是", "question_group": 1095}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，北美的綠色債券市場規模在2023年至2025年間保持不變，維持在0.5萬億美元。", "answer": "否", "question_group": 1095}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖表，從2024年至2028年，相當燃油汽車的減少數量每年增加20000輛，呈現穩定的線性增長趨勢。", "answer": "是", "question_group": 1096}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖表，從2024年至2028年，相當燃油汽車的減少數量每年增加5000輛，呈現穩定的線性增長趨勢。", "answer": "否", "question_group": 1096}
+
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2024年到2028年，綠色建築投資每年的增長額均為0.1億美元。", "answer": "是", "question_group": 1097}
+
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，2026年綠色建築投資增長額超過0.1億美元。", "answer": "否", "question_group": 1097}
+

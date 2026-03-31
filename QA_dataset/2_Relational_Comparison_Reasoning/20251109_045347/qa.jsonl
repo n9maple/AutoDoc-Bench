@@ -1,0 +1,40 @@
+{"category": "Open", "question_type": "Comparison", "question": "從2023年初到2023年末，哪個地區的百分比變化最大？", "answer": "歐洲"}
+{"category": "Open", "question_type": "Comparison", "question": "在2023年，東南亞和南亞的增長率哪個更高，兩者相差多少百分點？", "answer": "2023年東南亞的增長率比南亞高，兩者相差0.5個百分點。"}
+{"category": "Open", "question_type": "Comparison", "question": "在土耳其和巴西之間，哪個國家的基準利率較高，並且這個利率比另一個國家的高出多少百分點？", "answer": "巴西的基準利率較高，並且比土耳其的高出1.25個百分點。"}
+{"category": "Open", "question_type": "Comparison", "question": "哪個國家的電子商務市場規模比其他國家至少大200億美元？", "answer": "印度"}
+{"category": "Open", "question_type": "Comparison", "question": "2023年相較於2022年，哪一個投資類別的增長比例最高？", "answer": "太陽能"}
+{"category": "Open", "question_type": "Comparison", "question": "國家A的增長百分比是否低於國家B的增長百分比？", "answer": "是的，國家A的增長百分比低於國家B的增長百分比。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的數據，從2023年初到2023年末，以下哪個地區的百分比變化最大？", "answer": "C", "choice": ["美國", "非洲", "歐洲", "全球"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的數據，東南亞和南亞的增長率比較中，哪個地區的增長率較高，並且兩者相差多少百分點？", "answer": "C", "choice": ["南亞的增長率高於東南亞，相差1.5個百分點。", "東南亞的增長率高於南亞，相差0.6個百分點。", "東南亞的增長率高於南亞，兩者相差0.5個百分點。", "南亞的增長率低於東南亞，兩者相差0.3個百分點。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下方圖片，哪個國家的電子商務市場規模是其他國家至少大200億美元？", "answer": "C", "choice": ["俄羅斯 (約150億美元)", "南非 (約80億美元)", "印度", "墨西哥 (約100億美元)"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的數據比較2022年，以下哪一個投資類別的增長比例最高？請參考提供的圖表。", "answer": "C", "choice": ["風能增長10%", "水能增長5%", "太陽能", "地熱能增長7%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖顯示的增長百分比，國家A的增長百分比是否低於國家B的增長百分比？", "answer": "C", "choice": ["國家A的增長百分比為15%，國家B為20%。", "國家A的增長百分比為-5%，國家B為10%。", "是的，國家A的增長百分比低於國家B的增長百分比。", "國家A的增長百分比為25%，國家B為25%。"]}
+{"category": "Open", "question_type": "Comparison", "question": "哪個國家的GDP增長率最低？", "answer": "國家: 2.0"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "通脹率最高與最低的國家之間的差距是多少？", "answer": "6%"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "最高收益率與最低收益率的差距是多少？", "answer": "3.2%"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的圖片，以下哪個國家的GDP增長率最低？", "answer": "C", "choice": ["國家A: 2.4", "國家B: 1.7", "國家: 2.0", "國家C: 2.3"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據提供的數據，通脹率最高與最低的國家之間的差距是多少？", "answer": "C", "choice": ["12%（基於過去幾年的平均數據）", "5%（考慮政策影響的結果）", "6%", "9%（普通民眾對通脹的常見看法）"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖表中所示，最高收益率與最低收益率之間的差距是多少？", "answer": "C", "choice": ["2.7%", "5.0%", "3.2%", "3.5%"]}
+{"category": "Open", "question_type": "Comparison", "question": "在圖8中，哪一個國家的收益率最低？", "answer": "0.6"}
+{"category": "Open", "question_type": "Ranking", "question": "在圖2中，GDP增長率為2.1%的國家在排名中位於第幾位？", "answer": "第2位"}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖5，市場類型的經濟增長率差異是多少？", "answer": "B", "choice": ["1.3%", "1.1%", "1.8%", "1.2%"]}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，國家C的GDP增長率是最低的，僅為2.0。", "answer": "是", "question_group": 738}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，國家A的GDP增長率是最低的。", "answer": "否", "question_group": 738}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，歐洲從2023年初到2023年末的百分比變化是0.5%。", "answer": "是", "question_group": 739}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，中國從2023年初到2023年末的百分比變化是0.5%。", "answer": "否", "question_group": 739}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年東南亞的增長率比南亞高，兩者相差0.5個百分點。", "answer": "是", "question_group": 740}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年南亞的增長率比東南亞高，兩者相差0.5個百分點。", "answer": "否", "question_group": 740}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，土耳其的基準利率較高，並且比巴西的高出11.25個百分點。", "answer": "是", "question_group": 741}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，巴西的基準利率較高，並且比土耳其的高出1.25個百分點。", "answer": "否", "question_group": 741}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，印度的電子商務市場規模比其他國家至少大200億美元。", "answer": "是", "question_group": 742}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，印尼的電子商務市場規模比越南至少大200億美元。", "answer": "否", "question_group": 742}
+

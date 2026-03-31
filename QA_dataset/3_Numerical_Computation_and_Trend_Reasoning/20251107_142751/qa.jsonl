@@ -1,0 +1,49 @@
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "在 2010 到 2023 年間，上市櫃公司採用家數的增長率是多少？", "answer": "1400%"}
+{"category": "Open", "question_type": "Aggregation", "question": "從 2009 到 2023 年，上市櫃公司採用家數的平均數是多少？", "answer": "平均數是 1084"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從投票開放時間到投票截止時間，哪一家公司經歷的實際開放天數是所有公司中最短的？", "answer": "鴻海"}
+{"category": "Open", "question_type": "Aggregation", "question": "所有公司在2023年的實際投票開放天數之和是多少？", "answer": "29.0天"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從 2022 年到 2023 年，完成投票的股東人數增加了多少？", "answer": "從2022年到2023年，完成投票的股東人數增加了400。"}
+{"category": "Open", "question_type": "Aggregation", "question": "計算 2022 年與 2023 年的平均投票提醒涵蓋率是多少？", "answer": "97.7"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2022年到2023年，30分鐘內完成彙整及加密的比例增加了多少？", "answer": "增加了1.2%"}
+{"category": "Open", "question_type": "Aggregation", "question": "兩年間30分鐘內完成彙整及加密比例的平均值是多少？", "answer": "平均值是99.3。"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據圖片所示，在2010到2023年間，上市櫃公司採用家數的增長率為多少？", "answer": "C", "choice": ["1200%", "1500%", "1400%", "1300%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據以下圖表，從 2009 到 2023 年上市櫃公司採用家數的平均數是多少？", "answer": "C", "choice": ["1060", "1092", "1084", "1120"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據投票開放時間到投票截止時間的情境，以下哪一家公司經歷的實際開放天數是所有公司中最短的？", "answer": "C", "choice": ["微軟 (5天)", "宏達電 (7天)", "鴻海", "聯發科 (6天)"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年的數據，所有公司實際投票開放天數之和可能是多少？", "answer": "C", "choice": ["32.0天", "28.0天", "29.0天", "34.0天"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據圖片顯示的數據，完成投票的股東人數從2022年到2023年增加了多少？", "answer": "C", "choice": ["增加了350", "增加了600", "增加了400", "減少了100"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的資料，2022 年與 2023 年的平均投票提醒涵蓋率是多少？", "answer": "C", "choice": ["97.0", "96.5", "97.7", "98.0"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據圖片所示，從2022年到2023年，30分鐘內完成彙整及加密的比例增加了多少？", "answer": "C", "choice": ["增加了2.0%", "增加了1.5%", "增加了1.2%", "增加了0.8%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的數據和圖片，兩年間30分鐘內完成彙整及加密的比例平均值接近於哪一個選項？", "answer": "C", "choice": ["97.0", "99.0", "99.3", "100.5"]}
+{"category": "Open", "question_type": "Aggregation", "question": "所有驗證方式的選用率和為多少？", "answer": "100"}
+{"category": "Open", "question_type": "Aggregation", "question": "所有問題類型的諮詢件數總和是多少？", "answer": "16065"}
+{"category": "Open", "question_type": "Rate of Change", "question": "從2023年6月到7月，協助用戶數減少的百分比是多少？", "answer": "17.58%"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "在圖表中，所有驗證方式的選用率總和是多少？", "answer": "C", "choice": ["95%", "98%", "100%", "102%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的數據，所有問題類型的諮詢件數總和是多少？", "answer": "C", "choice": ["15600", "16200", "16065", "15900"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據提供的數據，從2023年6月到7月，用戶數減少的百分比大約是？", "answer": "C", "choice": ["15%", "20%", "17.58%", "18.00%"]}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表9的資料，計算2022年和2023年的30分鐘內完成彙整及加密比例的平均值是多少？", "answer": "平均值是99.3。"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表7的資料，若股東會召開日為7月15日，中華電信的投票截止時間是以下哪個選項？", "answer": "D", "choice": ["7月13日23時00分00秒", "7月14日23時59分59秒", "7月15日00時00分00秒", "7月13日23時59分59秒"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表2的資料，假設未來兩年操作容易上手比例每年增加2%，以下哪一項是到2025年時操作容易上手比例的正確估算值？", "answer": "B", "choice": ["95.04%", "94.04%", "93.04%", "92.04%"]}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年和2023年30分鐘內完成彙整及加密的比例平均值為99.3。", "answer": "是", "question_group": 1009}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年和2023年30分鐘內完成彙整及加密的比例平均值為95.0。", "answer": "否", "question_group": 1009}
+
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，鴻海經歷的實際開放天數是所有公司中最短的，為5.7天。", "answer": "是", "question_group": 1010}
+
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，聯發科經歷的實際開放天數是所有公司中最短的，為5.9天。", "answer": "否", "question_group": 1010}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，從 2009 到 2023 年，上市櫃公司採用家數的平均數是 1084。", "answer": "是", "question_group": 1011}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，從 2009 到 2023 年，上市櫃公司採用家數的平均數是 500。", "answer": "否", "question_group": 1011}
+
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，從2023年6月到7月，協助用戶數減少的百分比是17.58%。", "answer": "是", "question_group": 1012}
+
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，從2023年6月到7月，協助用戶數減少的百分比是10%。", "answer": "否", "question_group": 1012}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，所有問題類型的諮詢件數總和是16065。", "answer": "是", "question_group": 1013}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，所有問題類型的諮詢件數總和是15000。", "answer": "否", "question_group": 1013}
+
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2022年到2023年，完成投票的股東人數增加了400人。", "answer": "是", "question_group": 1014}
+
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2022年到2023年，完成投票的股東人數增加了300人。", "answer": "否", "question_group": 1014}
+

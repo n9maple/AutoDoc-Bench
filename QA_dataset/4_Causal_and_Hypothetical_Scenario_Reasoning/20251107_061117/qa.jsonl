@@ -1,0 +1,10 @@
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果 2024 年的參與資安與法遵交流次數增加 50%，那麼總次數會是多少？", "answer": "30"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "2024年的疑似洗錢案件偵測率比前一年的偵測率提升了多少百分比？假設前一年的偵測率為10%。", "answer": "2024年的疑似洗錢案件偵測率比前一年的偵測率提升了5%。"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "如果2024年的參與資安與法遵交流次數增加50%，那麼根據下列選項，總次數可能是多少？", "answer": "C", "choice": ["20", "40", "30", "27"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據數據，2024年的疑似洗錢案件偵測率提升了多少百分比？請參考下圖中的偵測率數據進行選擇。", "answer": "C", "choice": ["保持不變", "提升了10%", "提升了5%", "提升了2%"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表6的資料，如果2024年投資諮詢次數滿意度增加0.2，並且2025年滿意度維持相同的增幅，則可能的2025年平均滿意度是多少？", "answer": "B", "choice": ["5.2", "5.1", "4.9", "5.3"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表3的資料，從2024年初到2024年底，數位投資交易量的增幅是多少個百分點？", "answer": "A", "choice": ["17", "20 (可能因錯誤計算而得出)", "15 (未考慮市場變化因素)", "19 (不依據表3的數據計算得出)"]}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2024年的參與資安與法遵交流次數增加50%後，總次數是30。", "answer": "是", "question_group": 1325}
+
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2024年的參與資安與法遵交流次數增加50%後，總次數是25。", "answer": "否", "question_group": 1325}
+

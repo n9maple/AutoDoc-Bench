@@ -1,0 +1,28 @@
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "若2026年的綠色貸款和投資規模依然保持25%的年增長率，預測2026年的數值是多少？", "answer": "250.0"}
+{"category": "Open", "question_type": "Aggregation", "question": "如果將2022年可再生能源和節能改造的投資金額相加，總額是多少？", "answer": "35億新台幣"}
+{"category": "Open", "question_type": "Aggregation", "question": "從2023年到2027年，哪一行的平均增長率最高？", "answer": "綠色基礎設施"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2023年到2025年，綠色金融資產占總資產的比重增加了多少百分點？", "answer": "增加了10個百分點"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據假設2026年的綠色貸款和投資將保持25%的年增長率，若2025年的數值為200，則預測2026年的數值將是：", "answer": "C", "choice": ["240.0", "275.0", "250.0", "350.0"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2022年的數據，將可再生能源和節能改造的投資金額相加，總額可能是以下哪一項？", "answer": "C", "choice": ["25億新台幣", "30億新台幣", "35億新台幣", "40億新台幣"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的數據，從2023年到2027年，哪一行的平均增長率最高？請參考下列增長率趨勢的圖表進行選擇。", "answer": "C", "choice": ["社會責任投資", "電動車", "綠色基礎設施", "水資源管理"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "從2023年到2025年，根據下圖，綠色金融資產的比重變化呈現何種趨勢？", "answer": "C", "choice": ["減少了5個百分點", "持平，略有波動", "增加了10個百分點", "增加了15個百分點"]}
+{"category": "Open", "question_type": "Temporal Trend", "question": "從2023年至2027年，國泰世華銀行的傳統投資比例有何趨勢變化？", "answer": "從2023年至2027年，國泰世華銀行的傳統投資比例呈現下降趨勢。"}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據以下圖表，從2023年至2027年，國泰世華銀行的傳統投資比例有何變化？", "answer": "C", "choice": ["傳統投資比例同比上升10%", "傳統投資比例減少20%", "傳統投資比例呈現下降趨勢。", "傳統投資比例呈現波動，無明顯趨勢。"]}
+{"category": "Open", "question_type": "Aggregation", "question": "根據圖1的資料，所有教育活動的平均參與人數是多少？", "answer": "176.67"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表3的資料，在2023年到2027年間，以下哪一類別的增長率變化總量最大？", "answer": "D", "choice": ["技術類別的增長率在期間內下降至負值，影響了整體增長的表現。", "所有類別的增長率在2023到2027年間的增長量相同，均為3%。", "增長率在2023到2027年間是逐年上升的，但總體增長率是9%。", "所有類別的增長率變化總量相同，都是2%。"]}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，項目的總和是51800000。", "answer": "是", "question_group": 1151}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，項目的總和是48000000。", "answer": "否", "question_group": 1151}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年可再生能源和節能改造的投資金額相加為35億新台幣。", "answer": "是", "question_group": 1152}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年可再生能源和節能改造的投資金額相加為30億新台幣。", "answer": "否", "question_group": 1152}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，從2023年到2025年綠色貸款和投資規模的總和是488。", "answer": "是", "question_group": 1153}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，從2023年到2025年綠色貸款和投資規模的總和是400。", "answer": "否", "question_group": 1153}
+
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，假設2026年的綠色貸款和投資將保持25%的年增長率，若2025年的數值為200，則預測2026年的數值將是250。", "answer": "是", "question_group": 1154}
+
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，假設2026年的綠色貸款和投資將保持25%的年增長率，若2025年的數值為200，則預測2026年的數值將是275。", "answer": "否", "question_group": 1154}
+

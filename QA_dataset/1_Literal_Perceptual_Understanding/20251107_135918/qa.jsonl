@@ -1,0 +1,39 @@
+{"category": "Open", "question_type": "Fact Lookup", "question": "在所有問題中，出現頻率最低的問題是哪一類？", "answer": "語音/輔助功能異常"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "表格中2023年的結案滿意度是多少？", "answer": "89"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "在 2023 年，補償時效的天數是多久？", "answer": "3天"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "在2023年，快速取回原卡的使用率比免除補卡手續費高多少個百分比？", "answer": "快速取回原卡的使用率比免除補卡手續費高51個百分比。"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據下表，2023年的結案滿意度為何？", "answer": "C", "choice": ["92", "87", "89", "90"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2023年的規定，補償時效的天數是多久？以下哪個選項正確？", "answer": "C", "choice": ["1天", "7天", "3天", "10天"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2023年的數據，快速取回原卡的使用率相較於免除補卡手續費的使用率，以下哪項描述是正確的？", "answer": "C", "choice": ["快速取回原卡的使用率比免除補卡手續費低25個百分比。", "免除補卡手續費的使用率與快速取回原卡的使用率相等。", "快速取回原卡的使用率比免除補卡手續費高51個百分比。", "免除補卡手續費的使用率比快速取回原卡的使用率高25個百分比。"]}
+{"category": "Open", "question_type": "Fact Lookup", "question": "最左邊的改善方向的對應措施數量是多少？", "answer": "5"}
+{"category": "Open", "question_type": "Proportion", "question": "在2023年ATM相關客訴案件類型分布中，交易中斷的案件數量占總案件的百分比是多少？", "answer": "20%"}
+{"category": "Open", "question_type": "Proportion", "question": "2023年ATM客訴申訴管道中，電話客服的比例是多少？", "answer": "62.0%"}
+{"category": "Open", "question_type": "Proportion", "question": "在2023年ATM申訴案件處理時效分布中，三個工作天內初步查核回覆的案件佔總案件的百分比是多少？", "answer": "85.0%"}
+{"category": "Open", "question_type": "Proportion", "question": "在2023年ATM故障申訴處理流程客戶滿意度分布中，一般滿意度的比例是多少？", "answer": "9.0%"}
+{"category": "Open", "question_type": "Peak/Valley", "question": "在2023年，哪一個季度的故障類申訴案件滿意度達到最高？", "answer": "2023Q3"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖表中最左邊的改善方向，對應措施的數量為何？以下哪一選項是正確的？", "answer": "C", "choice": ["2", "7", "5", "8"]}
+{"category": "MCQ", "question_type": "Proportion", "question": "根據2023年ATM相關客訴案件類型分布，交易中斷的案件數量在總案件中占比是多少？以下數據中哪一項是正確的？", "answer": "C", "choice": ["15%", "22%", "20%", "35%"]}
+{"category": "MCQ", "question_type": "Proportion", "question": "根據2023年ATM客訴申訴管道中電話客服的比例，下列哪一選項正確？", "answer": "C", "choice": ["68.0%", "64.0%", "62.0%", "61.0%"]}
+{"category": "MCQ", "question_type": "Proportion", "question": "根據2023年ATM申訴案件處理時效分布，初步查核回覆在三個工作天內的案件佔總案件的百分比是多少？(請參考相關數據圖表)", "answer": "C", "choice": ["77.5%", "82.0%", "85.0%", "88.0%"]}
+{"category": "MCQ", "question_type": "Proportion", "question": "根據2023年ATM故障申訴處理流程客戶滿意度的分布，以下哪一選項最接近一般滿意度的比例？", "answer": "C", "choice": ["12.5%", "8.0%", "9.0%", "14.0%"]}
+{"category": "MCQ", "question_type": "Peak/Valley", "question": "根據2023年的資料，以下哪一個季度的故障類申訴案件滿意度最高？", "answer": "C", "choice": ["2023Q2滿意度為75%", "2023Q4滿意度為65%", "2023Q3", "2023Q1與2023Q2的平均滿意度為70%"]}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2023年的結案滿意度為89。", "answer": "是", "question_group": 144}
+
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2023年的結案滿意度為79。", "answer": "否", "question_group": 144}
+
+{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，交易中斷的案件數量占總案件的百分比是20%。", "answer": "是", "question_group": 145}
+
+{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，交易中斷的案件數量占總案件的百分比是10%。", "answer": "否", "question_group": 145}
+
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2023年的補償時效是3天。", "answer": "是", "question_group": 146}
+
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2023年的補償時效是5天。", "answer": "否", "question_group": 146}
+
+{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，2023年ATM申訴案件中，初步查核回覆在三個工作天內的案件佔總案件的85.0%。", "answer": "是", "question_group": 147}
+
+{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，2023年ATM申訴案件中，初步查核回覆在三個工作天內的案件佔總案件的75.0%。", "answer": "否", "question_group": 147}
+
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據表格，2023年故障類申訴案件滿意度最高的季度是2023Q3。", "answer": "是", "question_group": 148}
+
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據表格，2023年故障類申訴案件滿意度最高的季度是2023Q1。", "answer": "否", "question_group": 148}
+

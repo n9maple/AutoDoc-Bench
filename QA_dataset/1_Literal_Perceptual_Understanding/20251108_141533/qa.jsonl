@@ -1,0 +1,7 @@
+{"category": "Open", "question_type": "Peak/Valley", "question": "在提供的年份中，哪一年數位支付在全球零售交易中的佔比最高？", "answer": "2030年數位支付在全球零售交易中的佔比最高，為50%"}
+{"category": "MCQ", "question_type": "Peak/Valley", "question": "根據提供的數據，哪一年數位支付在全球零售交易中的佔比達到最高？", "answer": "C", "choice": ["2026年，數位支付佔比45%", "2029年，數位支付佔比48%", "2030年，數位支付佔比50%", "2024年，數位支付佔比35%"]}
+{"category": "Open", "question_type": "Fact Lookup", "question": "在圖3中，哪個指標類別的滿意度百分比是最低的？", "answer": "指標類別: 70"}
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據表格，2030年數位支付在全球零售交易中的佔比達到50%，是最高的。", "answer": "是", "question_group": 232}
+
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據表格，2025年數位支付在全球零售交易中的佔比達到50%，是最高的。", "answer": "否", "question_group": 232}
+

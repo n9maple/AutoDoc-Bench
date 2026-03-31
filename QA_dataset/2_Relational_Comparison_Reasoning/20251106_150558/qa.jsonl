@@ -1,0 +1,17 @@
+{"category": "Open", "question_type": "Comparison", "question": "哪一個儲蓄帳戶在利率上調後的利率更高，兒童儲蓄帳戶還是青年儲蓄帳戶？", "answer": "青年儲蓄帳戶"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "活期存款利率中，兩個類型之間的利率差距是多少？", "answer": "0.05%"}
+{"category": "Open", "question_type": "Comparison", "question": "中華郵政客戶產品持有比例中，持有僅儲蓄的比例比儲蓄和貸款的比例多多少百分比?", "answer": "持有僅儲蓄的比例比儲蓄和貸款的比例多45.0%。"}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "在活期存款利率中，假設你參考了下列圖片所示的兩個類型，請問它們之間的利率差距是多少？", "answer": "C", "choice": ["0.10%", "0.04%", "0.05%", "0.06%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據中華郵政客戶產品持有比例的資料，持有僅儲蓄的比例相較於持有儲蓄和貸款的比例多出多少百分比？請參考以下選項：", "answer": "C", "choice": ["持有僅儲蓄的比例比儲蓄和貸款的比例多35.0%", "持有僅儲蓄的比例比儲蓄和貸款的比例多60.0%", "持有僅儲蓄的比例比儲蓄和貸款的比例多45.0%", "持有僅儲蓄的比例比儲蓄和貸款的比例多55.0%"]}
+{"category": "Open", "question_type": "Ranking", "question": "中華郵政客戶中，持有僅貸款的比例在持有產品類別中是第幾高?", "answer": "第三高"}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據中華郵政客戶持有的產品類別，持有僅貸款的比例在各類產品中排名第幾？", "answer": "C", "choice": ["第五高", "第六高", "第三高", "第一低"]}
+{"category": "Open", "question_type": "Comparison", "question": "在圖3中，2023年第三季度的儲蓄帳戶利率比2023年第二季度多增加多少個百分點？", "answer": "0.025個百分點"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖3，2023年第三季度的儲蓄帳戶利率比第二季度多增加了多少個百分點？", "answer": "C", "choice": ["0.04個百分點", "0.02個百分點", "0.025個百分點", "0.06個百分點"]}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，兩個類型的活期存款利率差距是 0.05%。", "answer": "是", "question_group": 366}
+
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，兩個類型的活期存款利率差距是 0.02%。", "answer": "否", "question_group": 366}
+
+{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，持有僅貸款的比例在各類產品中排名第三高。", "answer": "是", "question_group": 367}
+
+{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，持有僅貸款的比例在各類產品中排名第二高。", "answer": "否", "question_group": 367}
+

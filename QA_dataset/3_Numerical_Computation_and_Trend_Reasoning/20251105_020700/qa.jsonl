@@ -1,0 +1,14 @@
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2020到2023年，受惠企業數增加了多少？", "answer": "38000"}
+{"category": "Open", "question_type": "Aggregation", "question": "創新研發支持貸款和出口中小企業專案貸款的總貸款額是多少？", "answer": "500億"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "從2020到2023年，受惠企業數的增加幅度是多少？", "answer": "C", "choice": ["增加了25000家", "增加了42000家", "增加了38000家", "減少了10000家"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，創新研發支持貸款和出口中小企業專案貸款的總貸款額是以下哪一項？", "answer": "C", "choice": ["350億", "450億", "500億", "550億"]}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表1的資料，從2020年到2023年，貸款總額每年的絕對增長是多少？", "answer": "從2020年到2021年增長80億新台幣，從2021年到2022年增長150億新台幣，從2022年到2023年增長150億新台幣。"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表4的資料，如果提高資訊透明度的參與意願每年提升2%，那麼在兩年後提高資訊透明度的參與意願增加的百分比會是多少？以下哪一選項是正確的？", "answer": "C", "choice": ["25%", "27%", "29%", "28%"]}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，創新研發支持貸款和出口中小企業專案貸款的總貸款額是500億。", "answer": "是", "question_group": 809}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，創新研發支持貸款和出口中小企業專案貸款的總貸款額是600億。", "answer": "否", "question_group": 809}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，降低申請門檻和簡化申請程序的資金獲取效率提升相加後的總增幅是85%。", "answer": "是", "question_group": 810}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，降低申請門檻和簡化申請程序的資金獲取效率提升相加後的總增幅是75%。", "answer": "否", "question_group": 810}
+

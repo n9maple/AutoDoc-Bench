@@ -1,0 +1,25 @@
+{"category": "Open", "question_type": "Aggregation", "question": "將所有技術的檢測率提高值進行加總後的總和是多少？", "answer": "85%以上"}
+{"category": "Open", "question_type": "Aggregation", "question": "這兩種技術中，哪一種在中介費用降低和匯率成本降低的平均百分比更高？", "answer": "分布式賬本技術在中介費用降低和匯率成本降低的平均百分比更高。"}
+{"category": "Open", "question_type": "Aggregation", "question": "使用率增長和功能優化的使用次數總和是多少？", "answer": "使用次數總和是210000。"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖表中所示的技術檢測率，總和是多少？", "answer": "C", "choice": ["70%以上", "85%以下", "85%以上", "90%以下"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖中顯示的數據，哪一種技術在中介費用和匯率成本降低的平均百分比上表現更佳？", "answer": "C", "choice": ["電子錢包系統", "智慧合約技術", "分布式賬本技術", "傳統銀行系統"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，使用率增長和功能優化的使用次數總和是多少？", "answer": "C", "choice": ["200000", "230000", "210000", "215000"]}
+{"category": "Open", "question_type": "Temporal Trend", "question": "從2022年至2025年，全球跨境支付交易額每年的增長趨勢是上升的還是下降的？", "answer": "上升的"}
+{"category": "Open", "question_type": "Temporal Trend", "question": "從2023年到2030年，交易成本降低比例是否呈現上升趨勢？", "answer": "交易成本降低比例從2023年到2030年呈現上升趨勢。"}
+{"category": "Open", "question_type": "Temporal Trend", "question": "從2023年至2028年，支付市場覆蓋率的變化趨勢如何？", "answer": "從2023年至2028年，支付市場覆蓋率呈現穩步上升的趨勢，尤其在2023年至2025年間增長較快，之後增長速度有所放緩。"}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2022年至2025年的數據，全球跨境支付交易額的增長趨勢是？", "answer": "C", "choice": ["持平的", "波動的", "上升的", "偶爾上升的"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據所提供的資料，從2023年到2030年的交易成本降低比例的趨勢是什麼？", "answer": "C", "choice": ["交易成本降低比例在2023年後的國家間會有顯著差異。", "交易成本降低比例在2023年到2025年上升，但在2025年之後下降。", "交易成本降低比例呈現上升趨勢。", "交易成本降低比例的增長速度在2023年後將大幅減緩。"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據下圖，從2023年至2028年，支付市場覆蓋率的變化趨勢為何？", "answer": "C", "choice": ["支付市場覆蓋率在2025年達到最高點之後持平", "支付市場覆蓋率在2023年至2028年間保持不變。", "支付市場覆蓋率呈現穩步上升的趨勢，特別是在2023年至2025年間增長較快。", "支付市場覆蓋率在2023年至2028年之間呈現減少的趨勢。"]}
+{"category": "Open", "question_type": "Aggregation", "question": "根據圖3的資料，合作/標準化策略的時間縮短百分比總和是多少？", "answer": "50%"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據下圖，從2023年至2025年，支付市場覆蓋率增長較快。", "answer": "是", "question_group": 884}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據下圖，從2025年至2028年，支付市場覆蓋率增長速度快於2023年至2025年。", "answer": "否", "question_group": 884}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，加密技術、雙因素身份驗證和實時監控系統的檢測率提高值總和是85%。", "answer": "是", "question_group": 885}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，加密技術、雙因素身份驗證和實時監控系統的檢測率提高值總和是75%。", "answer": "否", "question_group": 885}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，使用率增長和功能優化的使用次數總和是210000。", "answer": "是", "question_group": 886}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，使用率增長和功能優化的使用次數總和是180000。", "answer": "否", "question_group": 886}
+

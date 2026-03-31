@@ -1,0 +1,6 @@
+{"category": "Open", "question_type": "Fact Lookup", "question": "最左邊的專案類型支持金額是多少？", "answer": "1.0 億美元"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖片中所示的專案類型，最左邊的專案支持金額是多少？", "answer": "C", "choice": ["1.3 億美元", "2.0 億美元", "1.0 億美元", "0.5 億美元"]}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖片中所示，最左邊的專案支持金額是 1.0 億美元。", "answer": "是", "question_group": 221}
+
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖片中所示，最左邊的專案支持金額是 2.0 億美元。", "answer": "否", "question_group": 221}
+

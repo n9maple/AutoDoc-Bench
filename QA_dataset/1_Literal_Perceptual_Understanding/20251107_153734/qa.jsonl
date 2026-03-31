@@ -1,0 +1,18 @@
+{"category": "Open", "question_type": "Fact Lookup", "question": "從2022到2027年間的年度資料中，哪一年亞洲的收入超過40億美元？", "answer": "2025年、2026年和2027年"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖片資料，2022年亞洲的總收入是多少？", "answer": "C", "choice": ["86億美元", "78億美元", "80億美元", "82億美元"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2022到2027年間的年度資料，亞洲在以下哪一年收入超過40億美元？", "answer": "C", "choice": ["2022年", "2024年", "2025年、2026年和2027年", "2028年"]}
+{"category": "Open", "question_type": "Fact Lookup", "question": "在2023年，AI自動篩查系統導入家數是多少？", "answer": "在2023年，AI自動篩查系統導入家數是40"}
+{"category": "Open", "question_type": "Peak/Valley", "question": "從2019年到2023年，哪一年台灣金融科技監理沙盒的驗證成功率最高？", "answer": "2022年驗證成功率最高，為82.5%"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2023年的數據，有多少家導入了AI自動篩查系統？", "answer": "C", "choice": ["30家", "55家", "40家", "38家"]}
+{"category": "MCQ", "question_type": "Peak/Valley", "question": "根據2019年到2023年的資料，哪一年的台灣金融科技監理沙盒的驗證成功率為82.5%？", "answer": "C", "choice": ["2023年", "2021年", "2022年", "2020年"]}
+{"category": "Open", "question_type": "Fact Lookup", "question": "根據表3的資料，哪一年歐盟的收入首次超過40億美元？", "answer": "2024"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "根據表6的資料，從2022年到2023年，AI攔阻可疑詐騙案件年增率的增加量是多少個百分點？", "answer": "12個百分點"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據表7，以下哪些行業的數據整合與申報時間縮短比例與銀行業相同？", "answer": "A", "choice": ["證券業和保險業", "電子商務和製造業", "農業和公共事業", "醫療業和餐飲業"]}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2022年亞洲的總收入是80億美元。", "answer": "是", "question_group": 189}
+
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2022年亞洲的總收入是100億美元。", "answer": "否", "question_group": 189}
+
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2023年有40家企業導入了AI自動篩查系統。", "answer": "是", "question_group": 190}
+
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2023年只有20家企業導入了AI自動篩查系統。", "answer": "否", "question_group": 190}
+

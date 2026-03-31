@@ -1,0 +1,14 @@
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "假設這些數值代表保險費率，若在30年期之後又續保10年，男性30歲的累計總額與女性30歲的累計總額差額是多少？", "answer": "3,744"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "一名30歲男性從健康醫療險轉購重大疾病險，保費會增加多少？", "answer": "保費會增加5,200。"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果將安泰人壽的終身壽險與健康醫療險的費用相加，它們的總花費會比新光人壽的年金險多多少錢？", "answer": "安泰人壽的終身壽險與健康醫療險的總花費比新光人壽的年金險少1,000元"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據下圖顯示的保險費率，若男性30歲在續保10年後的累計總額與女性30歲的累計總額差額為何？", "answer": "C", "choice": ["3,744.50", "2,500", "3,744", "4,500"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "一名30歲男性從健康醫療險轉購重大疾病險，根據下圖，他的保費可能會增加多少？", "answer": "D", "choice": ["5,800", "5,000", "4,200", "5,200"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "在比較安泰人壽的終身壽險與健康醫療險的費用總和和新光人壽的年金險時，總花費哪一項是正確的？", "answer": "C", "choice": ["安泰人壽的終身壽險與健康醫療險的總花費比新光人壽的年金險少500元", "安泰人壽的終身壽險與健康醫療險的總花費合計為2,000元，這比新光人壽的年金險的總費用少1,000元", "安泰人壽的終身壽險與健康醫療險的總花費比新光人壽的年金險少1,000元", "安泰人壽的終身壽險的費用比健康醫療險的費用少500元"]}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，安泰人壽的終身壽險與健康醫療險的總花費比新光人壽的年金險少11,000元。", "answer": "是", "question_group": 1438}
+
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，安泰人壽的終身壽險與健康醫療險的總花費比新光人壽的年金險少1,000元。", "answer": "否", "question_group": 1438}
+
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，男性30歲在續保10年後的累計總額與女性30歲的累計總額差額為3,744。", "answer": "是", "question_group": 1439}
+
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，男性30歲在續保10年後的累計總額與女性30歲的累計總額差額為5,000。", "answer": "否", "question_group": 1439}
+

@@ -1,0 +1,40 @@
+{"category": "Open", "question_type": "Aggregation", "question": "年齡25-34新開戶比例和女性投資人佔比的總和是多少？", "answer": "79"}
+{"category": "Open", "question_type": "Aggregation", "question": "36-44歲和45-64歲兩個年齡段的主要家庭開支考量比例的平均值是多少？", "answer": "40.5"}
+{"category": "Open", "question_type": "Aggregation", "question": "各收入區間的長期負債比例和流動資產比例的總和是多少？", "answer": "60萬元以下的總和是83；60-120萬元的總和是80；120萬元以上的總和是62。"}
+{"category": "Open", "question_type": "Aggregation", "question": "35歲以下和65歲以上年齡段中，需撫養年長親屬和有子女教育負擔的比例總和分別是多少，哪一個年齡段的總和較高？", "answer": "65歲以上年齡段的總和較高，為22%"}
+{"category": "Open", "question_type": "Aggregation", "question": "總共有多少比例的人在資產淨值下跌5%和資產淨值下跌20%時選擇考慮調整組合或尋求協助？", "answer": "超過138%"}
+{"category": "Open", "question_type": "Aggregation", "question": "在調查中，一年內和五年以上的百分比總和是多少？", "answer": "32%"}
+{"category": "Open", "question_type": "Aggregation", "question": "在過去三年內，選擇權和其他高風險商品的操作次數總和是多少？", "answer": "3"}
+{"category": "Open", "question_type": "Aggregation", "question": "全體中，資本增值和購屋的資金合計是多少？", "answer": "60"}
+{"category": "Open", "question_type": "Aggregation", "question": "哪個年齡層的資本增值為主目標比例和退休準備為主目標比例之和最大？", "answer": "51-60歲"}
+{"category": "Open", "question_type": "Aggregation", "question": "如果把認為風險評估流程有助於提升理財認知之客戶比例與資產配置風險分布更趨合理之客戶比例相加，總共是多少？", "answer": "156"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，年齡25-34的新開戶比例和女性投資人佔比的總和是多少？", "answer": "C", "choice": ["68", "74", "79", "77"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據比較表，36-44歲和45-64歲兩個年齡段的主要家庭開支考量比例的平均值是多少？", "answer": "C", "choice": ["37.5", "41.0", "40.5", "40.0"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據各收入區間的長期負債比例和流動資產比例的總和，下列陳述中哪一項是正確的？", "answer": "C", "choice": ["60萬元以下的總和是75。", "60萬元以下的長期負債比例高於流動資產比例。", "60萬元以下的總和是83。", "60萬元以下的總和是90。"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據某項調查，35歲以下與65歲以上年齡段中，需撫養年長親屬和有子女教育負擔的比例總和分別是多少？哪一個年齡段的總和較高？", "answer": "C", "choice": ["65歲以上年齡段的總和為15%", "35歲以下年齡段的總和為20%", "65歲以上年齡段的總和較高，為22%", "65歲以上年齡段的總和為25%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "在資產淨值下跌5%和下跌20%時，以下哪一選項的比例呈現調整組合或尋求協助的人數超過138%？", "answer": "C", "choice": ["在資產淨值下跌20%時，調整組合的比例漲至145%，而下跌5%時比例僅為50%。", "在資產淨值下跌5%時，調整組合的比例為100%，而下跌20%時達到140%。", "在資產淨值下跌5%和下跌20%時，考慮調整組合或尋求協助的人數比例超過138%。", "在資產淨值下跌5%時，考慮調整組合的人數比例為136%，而在下跌20%時則為150%。"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據調查，圖表中顯示一年內和五年以上的百分比總和是多少？", "answer": "C", "choice": ["25%", "38%", "32%", "40%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖片中顯示的數據，過去三年內選擇權和其他高風險商品的操作次數總和是多少？", "answer": "C", "choice": ["5", "1", "3", "7"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖片中的數據，全體中，資本增值和購屋的資金合計是多少？", "answer": "C", "choice": ["45", "75", "60", "50"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖片中的數據，哪個年齡層的資本增值為主目標比例和退休準備為主目標比例之和最大？", "answer": "C", "choice": ["61歲以上", "41-50歲", "51-60歲", "31-40歲"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖片中的數據，如果將認為風險評估流程有助於提升理財認知的客戶比例與資產配置風險分布更趨合理的客戶比例相加，您認為總和為何？", "answer": "C", "choice": ["150", "140", "156", "162"]}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，過去三年內選擇權和其他高風險商品的操作次數總和是3。", "answer": "是", "question_group": 1000}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，過去三年內選擇權和其他高風險商品的操作次數總和是5。", "answer": "否", "question_group": 1000}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，36-44歲和45-64歲兩個年齡段的主要家庭開支考量比例的平均值是40.5。", "answer": "是", "question_group": 1001}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，36-44歲和45-64歲兩個年齡段的主要家庭開支考量比例的平均值是45。", "answer": "否", "question_group": 1001}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，60萬元以下區間的長期負債比例和流動資產比例的總和是83。", "answer": "是", "question_group": 1002}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，60-120萬元區間的長期負債比例和流動資產比例的總和是83。", "answer": "否", "question_group": 1002}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，在資產淨值下跌5%和下跌20%時，考慮調整組合或尋求協助的人數比例總計達到138%。", "answer": "是", "question_group": 1003}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，在資產淨值下跌5%和下跌20%時，考慮調整組合或尋求協助的人數比例總計超過150%。", "answer": "否", "question_group": 1003}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，65歲以上年齡段需撫養年長親屬和有子女教育負擔的比例總和為22%，較35歲以下年齡段的總和高。", "answer": "是", "question_group": 1004}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，35歲以下年齡段需撫養年長親屬和有子女教育負擔的比例總和為22%，較65歲以上年齡段的總和高。", "answer": "否", "question_group": 1004}
+

@@ -1,0 +1,37 @@
+{"category": "Open", "question_type": "Comparison", "question": "2025年在水資源管理上的投資比2028年少了多少億美元？", "answer": "0.3億美元"}
+{"category": "Open", "question_type": "Comparison", "question": "技術創新合作的環境效益提高百分比與最佳實踐共享相比是否相同？", "answer": "技術創新合作的環境效益提高百分比與最佳實踐共享相同。"}
+{"category": "Open", "question_type": "Comparison", "question": "綠色金融論壇在提升公眾理解度和年輕投資者參與度上的效果相比，哪一個更高？", "answer": "綠色金融論壇在提升公眾理解度上的效果更高。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據以下圖表，2025年在水資源管理上的投資與2028年相比，則少了多少億美元？", "answer": "C", "choice": ["1.2億美元", "0.8億美元", "0.3億美元", "0.6億美元"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在以下情境中，您認為技術創新合作的環境效益提高百分比與最佳實踐共享的關係如何？請根據圖片的描述選擇正確的選項。", "answer": "C", "choice": ["技術創新合作的環境效益提高百分比顯著低於最佳實踐共享。", "技術創新合作的環境效益提高百分比通常低於最佳實踐共享的環境效益。", "技術創新合作的環境效益提高百分比與最佳實踐共享相同。", "最佳實踐共享的環境效益提高百分比是技術創新合作的兩倍。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的資料，綠色金融論壇在提升公眾理解度和年輕投資者參與度上的效果相比，哪一個更高？請參考相關圖表進行判斷。", "answer": "C", "choice": ["年輕投資者參與度的效果較低，但數據呈現模糊性。", "公眾理解度的效果難以確定，需進一步的數據支持。", "提升公眾理解度的效果更高。", "年輕投資者的參與度提高，但整體影響有限。"]}
+{"category": "Open", "question_type": "Difference Calculation", "question": "第一個數據點與第三個數據點的二氧化碳減排量差距是多少？", "answer": "10000000噸"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "最右邊的風險類型的管理措施數量和其餘風險類型的平均數量相比，差距是多少？", "answer": "0.0"}
+{"category": "Open", "question_type": "Comparison", "question": "在投資者地理分佈中，亞洲的投資者人數是歐洲的多少倍？", "answer": "3"}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據提供的數據，最右邊的風險類型的管理措施數量與其餘風險類型的平均數量相比，差距為多少？請根據圖片的數據選擇正確的選項。", "answer": "C", "choice": ["1.0", "2.0", "0.0", "0.8"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的資料，亞洲的投資者人數是歐洲投資者人數的幾倍？", "answer": "C", "choice": ["2", "5", "3", "6"]}
+{"category": "Open", "question_type": "Ranking", "question": "二氧化碳減排量最多的項目類型是第幾個數據點？", "answer": "第1個數據點"}
+{"category": "Open", "question_type": "Ranking", "question": "在投資者地理分佈中，哪個地區的投資者比例最高？", "answer": "亞洲的投資者比例最高，為60.0%"}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據下圖，哪一個數據點顯示了二氧化碳減排量最多的項目類型？", "answer": "C", "choice": ["第4個數據點（減排量5000噸）", "第3個數據點（減排量4000噸）", "第1個數據點", "第2個數據點（減排量6000噸）"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據投資者地理分佈的數據，哪個地區的投資者比例最高？請參考相關圖表。", "answer": "C", "choice": ["北美地區的投資者比例為35.0%", "南美洲地區的投資者比例為25.0%", "亞洲地區的投資者比例最高，為60.0%", "歐洲地區的投資者比例為50.0%"]}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖5中的資料，亞洲的投資者數量比北美及其他多多少？", "answer": "40"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖5中的資料，亞洲的投資者數量與北美及其他相比較，哪個選項正確表示它多出多少？", "answer": "C", "choice": ["35", "45", "40", "25"]}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，綠色金融論壇在提升公眾理解度上的效果為30%，高於提升年輕投資者參與度的20%。", "answer": "是", "question_group": 658}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，綠色金融論壇在提升年輕投資者參與度上的效果為30%，高於提升公眾理解度的20%。", "answer": "否", "question_group": 658}
+
+{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，亞洲地區的投資者比例最高，為60.0%。", "answer": "是", "question_group": 659}
+
+{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，歐洲地區的投資者比例最高，為60.0%。", "answer": "否", "question_group": 659}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2024年資源節約項目所節約的用水量是2023年的1.2倍。", "answer": "是", "question_group": 660}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2024年資源節約項目所節約的用水量是2023年的1.5倍。", "answer": "否", "question_group": 660}
+
+{"category": "YesNo", "question_type": "Ranking", "question": "根據下圖，第1個數據點顯示了二氧化碳減排量最多的項目類型。", "answer": "是", "question_group": 661}
+
+{"category": "YesNo", "question_type": "Ranking", "question": "根據下圖，第2個數據點顯示了二氧化碳減排量最多的項目類型。", "answer": "否", "question_group": 661}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，亞洲的投資者人數是歐洲投資者人數的3倍。", "answer": "是", "question_group": 662}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，亞洲的投資者人數是歐洲投資者人數的2倍。", "answer": "否", "question_group": 662}
+

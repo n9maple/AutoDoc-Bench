@@ -1,0 +1,28 @@
+{"category": "Open", "question_type": "Aggregation", "question": "計算所有銀行在數位轉型領域的平均利率是多少？", "answer": "1.5617%"}
+{"category": "Open", "question_type": "Aggregation", "question": "找出新創企業優惠專案最低利率的前三名銀行，並計算它們的平均最低利率。", "answer": "新創企業優惠專案最低利率的前三名銀行是台新銀行、華南銀行和彰化銀行，平均最低利率是2.10%。"}
+{"category": "Open", "question_type": "Aggregation", "question": "新創/微型企業可獲得的所有貸款類型中，哪一種類型的貸款額度範圍最寬？", "answer": "有擔保貸款"}
+{"category": "Open", "question_type": "Aggregation", "question": "若獲得信用貸款和擔保貸款的最低額度，這兩者總共會是多少？", "answer": "總共是700。"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖片顯示的數據，所有銀行在數位轉型領域的平均利率為多少？", "answer": "C", "choice": ["1.2001%", "1.4500%", "1.5617%", "1.6000%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據新創企業優惠專案的最低利率，以下哪三個銀行的利率最低？（請參考提供的數據）", "answer": "C", "choice": ["中國信託銀行、台灣銀行和第一銀行", "京城銀行、彰化銀行和國泰世華銀行", "台新銀行、華南銀行和彰化銀行", "華南銀行、合庫銀行和台新銀行"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "在新創/微型企業可獲得的所有貸款類型中，根據提供的圖示，以下哪一種類型的貸款其額度範圍最寬？", "answer": "C", "choice": ["信用貸款", "無擔保貸款", "有擔保貸款", "政府貸款"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據獲得信用貸款和擔保貸款的最低額度，以下哪個選項最接近這兩者總額？", "answer": "C", "choice": ["600", "710", "700", "730"]}
+{"category": "Open", "question_type": "Temporal Trend", "question": "從2022年到2024年上半年，台灣中小企業新承作貸款的平均年利率呈現什麼趨勢？", "answer": "從2022年到2024年上半年，台灣中小企業新承作貸款的平均年利率呈現上升趨勢。"}
+{"category": "Open", "question_type": "Rate of Change", "question": "從2022年到2024年上半年，平均年利率的增長幅度是多少？", "answer": "0.47%"}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據台灣中小企業新承作貸款的平均年利率趨勢，從2022年到2024年上半年，該利率呈現何種走向？", "answer": "C", "choice": ["緩慢上升，未超出預期", "穩定在高位", "上升趨勢", "逐漸回落但整體仍高"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖片中的數據，從2022年到2024年上半年，平均年利率的增長幅度是多少？", "answer": "C", "choice": ["0.37%", "0.57%", "0.47%", "0.77%"]}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，從2022年到2024年上半年，平均年利率的增長幅度是0.47%。", "answer": "是", "question_group": 1065}
+
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，從2022年到2024年上半年，平均年利率的增長幅度是0.60%。", "answer": "否", "question_group": 1065}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年所有銀行的最低利率平均值為2.10%。", "answer": "是", "question_group": 1066}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年所有銀行的最低利率平均值為2.38%。", "answer": "否", "question_group": 1066}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，台新銀行、華南銀行和彰化銀行在新創企業優惠專案中提供了最低的利率。", "answer": "是", "question_group": 1067}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，台新銀行、華南銀行和國泰世華銀行在新創企業優惠專案中提供了最低的利率。", "answer": "否", "question_group": 1067}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，所有銀行在數位轉型領域的平均利率為1.5617%。", "answer": "是", "question_group": 1068}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，所有銀行在數位轉型領域的平均利率為1.75%。", "answer": "否", "question_group": 1068}
+

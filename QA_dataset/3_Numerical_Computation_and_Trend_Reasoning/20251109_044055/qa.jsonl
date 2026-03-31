@@ -1,0 +1,16 @@
+{"category": "Open", "question_type": "Aggregation", "question": "如果將金融和傳產的交易量加起來，總和是多少？", "answer": "8500億"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，將金融和傳產的交易量加起來，總和最接近於哪一個數字？", "answer": "C", "choice": ["8300億", "8600億", "8500億", "7500億"]}
+{"category": "Open", "question_type": "Rate of Change", "question": "2025年8月至9月，櫃買指數的變化百分比是多少？", "answer": "3.70%"}
+{"category": "Open", "question_type": "Temporal Trend", "question": "在2025年8月到9月之間，元大證券台股市場交易量占比是上升還是下降？", "answer": "上升"}
+{"category": "Open", "question_type": "Rate of Change", "question": "從2025年8月到9月，元大證券台股市場交易量占比的變化率是多少？", "answer": "5.84%"}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據下圖，2025年8月至9月的櫃買指數變化百分比是多少？", "answer": "C", "choice": ["4.50%", "2.80%", "3.70%", "3.50%"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2025年8月至9月期間的元大證券台股市場交易量趨勢，下列哪一項描述是正確的？", "answer": "C", "choice": ["持平", "小幅上升後穩定", "上升", "持續增長"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據提供的圖表，2025年8月至9月，元大證券在台股市場的交易量占比變化率是多少？", "answer": "C", "choice": ["6.35%", "3.77%", "5.84%", "8.01%"]}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，金融和傳產的交易量總和是8500億。", "answer": "是", "question_group": 1155}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，金融和傳產的交易量總和是9000億。", "answer": "否", "question_group": 1155}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，2025年9月的交易量占比高於2025年8月，顯示出交易量上升的趨勢。", "answer": "是", "question_group": 1156}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，2025年9月的交易量占比低於2025年8月，顯示出交易量下降的趨勢。", "answer": "否", "question_group": 1156}
+

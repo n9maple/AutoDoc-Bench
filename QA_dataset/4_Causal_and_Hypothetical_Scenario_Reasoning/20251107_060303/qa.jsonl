@@ -1,0 +1,15 @@
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "在表格中的所有年齡段中，哪個年齡段的男性和女性人數差距最大？", "answer": "40-59歲年齡段的男性和女性人數差距最大，差距為5702。"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "從2024年到2025年，申請件數增加了多少？該增加量佔2024年申請件數的百分比是多少？", "answer": "增加量是4,600件，佔2024年申請件數的百分比約為2.99%。"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果數位化申請和紙本申請的平均審核時間各縮短 1 小時，兩者的新平均審核時間差距會是多少？", "answer": "0.5 小時"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據下圖中的年齡和性別分佈，哪個年齡段的男性和女性人數差距最大？", "answer": "C", "choice": ["30-49歲年齡段的男性和女性人數差距最小", "60歲以上年齡段的男性和女性人數差距最小", "40-59歲年齡段的男性和女性人數差距最大", "20-39歲年齡段的男性和女性人數差距相對均衡"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據2024年到2025年的申請件數變化，以下哪個選項正確描述了增加量及其佔2024年申請件數的百分比？", "answer": "C", "choice": ["增加量是4,600件，佔2024年申請件數的百分比約為1.49%。", "增加量是8,000件，佔2024年申請件數的百分比約為4.99%。", "增加量是4,600件，佔2024年申請件數的百分比約為2.99%.", "增加量是4,600件，佔2024年申請件數的百分比約為3.49%。"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "假設數位化申請和紙本申請的平均審核時間各縮短 1 小時，請根據圖片中顯示的資料判斷兩者的新平均審核時間差距會是多少？", "answer": "C", "choice": ["1 小時", "2 小時", "0.5 小時", "0 小時"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表3的資料，2024年最終通過件數佔該年申請件數的百分比，以下哪一選項是正確的？", "answer": "D", "choice": ["91.50%", "90.75%", "94.25%", "92.06%"]}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2024年到2025年的申請件數增加量是4,600件，佔2024年申請件數的百分比約為2.99%。", "answer": "是", "question_group": 1323}
+
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2024年到2025年的申請件數增加量是5,000件，佔2024年申請件數的百分比約為3.5%。", "answer": "否", "question_group": 1323}
+
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，數位化申請的新平均審核時間是 2.5 小時，而紙本申請的新平均審核時間是 4 小時。", "answer": "是", "question_group": 1324}
+
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，數位化申請的新平均審核時間是 4 小時，而紙本申請的新平均審核時間是 2.5 小時。", "answer": "否", "question_group": 1324}
+

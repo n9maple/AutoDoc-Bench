@@ -1,0 +1,17 @@
+{"category": "Open", "question_type": "Comparison", "question": "2025 年的市場規模與 2020 年相比，增加了多少倍？", "answer": "3.044 倍"}
+{"category": "Open", "question_type": "Comparison", "question": "全球和台灣在系統整合難度上的百分比差距是多少？", "answer": "15%"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2020年和2025年的市場規模比較，2025年的市場規模是2020年的多少倍？以下哪一選項是正確的？", "answer": "C", "choice": ["2 倍", "3.5 倍", "3.044 倍", "4.5 倍"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，全球和台灣在系統整合難度上的百分比差距是？", "answer": "C", "choice": ["14%", "16%", "15%", "18%"]}
+{"category": "Open", "question_type": "Comparison", "question": "在全球與台灣的數據隱私風險比較中，哪個地區被視為風險的百分比更低？", "answer": "台灣的數據隱私風險百分比更低。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片描述，哪個效益指標的提升幅度最低？", "answer": "C", "choice": ["數據分析能力有時會減弱", "監管效率未有顯著改善", "潛在金融風險減少", "客戶信任度未變化"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在比較全球與台灣的數據隱私風險時，哪個地區的風險百分比被視為更低？(請參考圖片數據)", "answer": "C", "choice": ["台灣的數據隱私風險百分比高於全球，因此台灣的風險更值得關注。", "全球的數據隱私風險在最近幾年有所增加，使得台灣的風險看起來相對較低。", "台灣的數據隱私風險百分比更低。", "台灣的數據隱私風險百分比與全球相同，因此無法區分兩者的風險。"]}
+{"category": "Open", "question_type": "Comparison", "question": "在圖3中，台灣和全球相比，哪一個地區在數據安全風險上所占的百分比更高？", "answer": "需要從圖表中擷取具體數據才能確定最終答案。"}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖1，2025年佔全球GDP比例下限和比例上限相比，哪一個值較大？", "answer": "2025年佔全球GDP比例上限較大。"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，台灣的數據隱私風險百分比低於全球。", "answer": "是", "question_group": 336}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，全球的數據隱私風險百分比低於台灣。", "answer": "否", "question_group": 336}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2025年的市場規模是2020年的3.044倍。", "answer": "是", "question_group": 337}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2025年的市場規模是2020年的2倍。", "answer": "否", "question_group": 337}
+

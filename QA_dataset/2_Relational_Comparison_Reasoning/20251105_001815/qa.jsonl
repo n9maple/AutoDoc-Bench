@@ -1,0 +1,19 @@
+{"category": "Open", "question_type": "Comparison", "question": "在金融業和製造業中，哪一個的固定股利比例較高，並且二者相差多少百分比？", "answer": "金融業的固定股利比例較高，兩者相差45%。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片所示的數據，金融業和製造業的固定股利比例比較，哪一個行業的固定股利比例較高？此外，它們的比例相差多少百分比？", "answer": "C", "choice": ["金融業的固定股利比例較低，兩者相差20%。", "金融業的固定股利比例較高，但相差只有10%。", "金融業的固定股利比例較高，兩者相差45%。", "金融業的固定股利比例較低，兩者相差25%。"]}
+{"category": "Open", "question_type": "Comparison", "question": "在2024年金融業高股息公司中，股息收益率大於5%的公司數量比小於或等於5%的多多少？", "answer": "股息收益率大於5%的公司數量比小於或等於5%的多60家"}
+{"category": "Open", "question_type": "Comparison", "question": "高股息公司中，負債比率在>50%的公司數量與<=50%的公司數量相比，有什麼不同？", "answer": "高股息公司中，負債比率<=50%的公司數量比>50%的公司數量多40家。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2024年金融業的數據，股息收益率大於5%與小於或等於5%的公司數量差異是多少？", "answer": "C", "choice": ["股息收益率大於5%的公司數量比小於或等於5%的多100家", "股息收益率大於5%的公司數量比小於或等於5%的少45家", "股息收益率大於5%的公司數量比小於或等於5%的多60家", "股息收益率大於5%的公司數量比小於或等於5%的多70家"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在高股息公司的情境中，負債比率超過50%的公司數量與負債比率在50%或以下的公司數量相比，有什麼主要的差異？", "answer": "C", "choice": ["負債比率在50%或以下的公司數量比超過50%的公司數量多，但差距只有20家。", "負債比率超過50%的公司數量比50%或以下的公司數量多10家。", "負債比率在50%或以下的公司數量比超過50%的公司數量多40家。", "負債比率在50%或以下的公司數量比超過50%的公司數量多50家。"]}
+{"category": "Open", "question_type": "Difference Calculation", "question": "根據圖3的資料，兩個比較的股價波動幅度差是多少？", "answer": "20"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，股息收益率大於5%的公司數量比小於或等於5%的多60家。", "answer": "是", "question_group": 266}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，股息收益率大於5%的公司數量比小於或等於5%的少60家。", "answer": "否", "question_group": 266}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，金融業的固定股利比例比製造業高，兩者相差45%。", "answer": "是", "question_group": 267}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，製造業的固定股利比例比金融業高，兩者相差45%。", "answer": "否", "question_group": 267}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據下圖，數值最低的項目是 '比較' 的數值 80。", "answer": "是", "question_group": 268}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據下圖，數值最低的項目是 '比較' 的數值 100。", "answer": "否", "question_group": 268}
+

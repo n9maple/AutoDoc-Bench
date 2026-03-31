@@ -1,0 +1,36 @@
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從 2021 年到 2023 年，哪一年高資產個人客戶的數量變化最大？", "answer": "2021年到2022年"}
+{"category": "Open", "question_type": "Aggregation", "question": "2023 年高風險客戶案件數與未通過資格認定案件數的和是多少？", "answer": "155"}
+{"category": "Open", "question_type": "Aggregation", "question": "總共有多少案件在初步調查後恢復正常或需補充客戶資料？", "answer": "19"}
+{"category": "Open", "question_type": "Aggregation", "question": "平均每年有多少重大異常案件發生？", "answer": "平均每年有3.5件重大異常案件發生"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據顯示的數據，從2021年到2023年，哪一年高資產個人客戶的數量變化最大？", "answer": "C", "choice": ["2020年到2021年", "2021年到2023年", "2021年到2022年", "2022年到2023年"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年的數據，以下哪一項是高風險客戶案件數與未通過資格認定案件數的總和？", "answer": "C", "choice": ["130", "180", "155", "165"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的圖片，初步調查後恢復正常或需補充客戶資料的案件數量為多少？", "answer": "C", "choice": ["17", "25", "19", "15"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據資料，平均每年發生多少件重大異常案件？", "answer": "C", "choice": ["每年平均發生3件重大異常案件", "每年平均發生4.5件重大異常案件", "每年平均發生3.5件重大異常案件", "每年平均發生3.2件重大異常案件"]}
+{"category": "Open", "question_type": "Temporal Trend", "question": "從2020年到2023年，資金信託占比呈現什麼樣的趨勢？", "answer": "從2020年到2023年，資金信託占比呈現上升趨勢。"}
+{"category": "Open", "question_type": "Rate of Change", "question": "資金信託規模從2020年到2023年增加了多少兆元？", "answer": "資金信託規模從2020年到2023年增加了1.3兆元"}
+{"category": "Open", "question_type": "Aggregation", "question": "所有法規名稱的規範重點總數是多少？", "answer": "20"}
+{"category": "Open", "question_type": "Aggregation", "question": "所有參與部門/要素的參與流程階段數總和是多少？", "answer": "16"}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據給定的圖片，從2020年到2023年，資金信託占比呈現了哪種趨勢？", "answer": "C", "choice": ["穩步增長趨勢", "小幅上升趨勢", "上升趨勢", "緩步上升趨勢"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據提供的數據，資金信託規模從2020年到2023年的變化量為多少兆元？", "answer": "C", "choice": ["增加了0.3兆元", "減少了1.0兆元", "增加了1.3兆元", "增加了1.1兆元"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的法規名稱，以下哪些選項中總規範重點的數量是正確的？", "answer": "C", "choice": ["18", "22", "20", "21"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的圖片，所有參與部門/要素的參與流程階段數總和是多少？", "answer": "C", "choice": ["15", "19", "16", "17"]}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表1的資料，計算2021年和2023年企業法人客戶的平均數量是多少？", "answer": "400"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表5的資料，發現異常案件中，有多少百分比的案件是通報主管機關並調查的？", "answer": "13.64%"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖8，以下哪一項是所有稽核指標的數值平均值？", "answer": "D", "choice": ["65.2", "66.0", "63.0", "64.3"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表7的資料，從2022年到2023年，平均稽核報告審閱時效減少了多少百分比？以下哪一項是正確的答案？", "answer": "D", "choice": ["70%", "55%", "65%", "50%"]}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，從2020年到2023年，資金信託占比呈現上升趨勢。", "answer": "是", "question_group": 946}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，從2020年到2023年，資金信託占比呈現下降趨勢。", "answer": "否", "question_group": 946}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，所有法規名稱的規範重點數量相加為 20。", "answer": "是", "question_group": 947}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，所有法規名稱的規範重點數量相加為 18。", "answer": "否", "question_group": 947}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023 年高風險客戶案件數與未通過資格認定案件數的總和是 155。", "answer": "是", "question_group": 948}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023 年高風險客戶案件數與未通過資格認定案件數的總和是 160。", "answer": "否", "question_group": 948}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，初步調查後恢復正常的案件數量與需補充客戶資料的案件數量之和為19。", "answer": "是", "question_group": 949}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，初步調查後恢復正常的案件數量與需補充客戶資料的案件數量之和為20。", "answer": "否", "question_group": 949}
+

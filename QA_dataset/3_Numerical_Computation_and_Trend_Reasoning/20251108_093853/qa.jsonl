@@ -1,0 +1,16 @@
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2022年到2024年，資本充足率的總增幅是多少百分點？", "answer": "0.5個百分點"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "如果這三個項目的不合格率都減少5%，那麼根據給定的數據，平均不合格率會是多少？（請參考提供的圖片）", "answer": "C", "choice": ["6.5%", "10.5%", "8.33%", "9%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據下圖，從2022年到2024年，資本充足率的總增幅是多少百分點？", "answer": "C", "choice": ["0.3個百分點", "大約0.75個百分點", "0.5個百分點", "1.0個百分點"]}
+{"category": "Open", "question_type": "Temporal Trend", "question": "從2022年至2024年，台灣銀行業的流動性覆蓋率（LCR）有什麼變化趨勢？", "answer": "從2022年至2024年，台灣銀行業的流動性覆蓋率（LCR）呈現逐年上升的趨勢，分別增長了2和3個百分點。"}
+{"category": "Open", "question_type": "Rate of Change", "question": "從2023年到2024年，台灣銀行業的流動性覆蓋率（LCR）增加了多少百分點？", "answer": "3個百分點"}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據以下圖表，從2022年至2024年，台灣銀行業的流動性覆蓋率（LCR）有什麼變化趨勢？", "answer": "C", "choice": ["流動性覆蓋率在2024年達到巴塞爾協議的最低要求，但在此之前保持穩定。", "流動性覆蓋率在2023年前後出現小幅波動，但整體保持在較高水平。", "流動性覆蓋率逐年上升。", "流動性覆蓋率因市場因素影響而在2023年短暫回落，隨後再度上升。"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據2023年至2024年台灣銀行業的流動性覆蓋率（LCR）的變化，可以推測流動性覆蓋率增加了多少百分點？", "answer": "C", "choice": ["流動性覆蓋率在2023年降低了2個百分點", "流動性覆蓋率增加了7個百分點", "3個百分點", "流動性覆蓋率在2023年有所增長，但仍低於標準要求"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表4的資料，以下哪一項最接近所有項目的合格比例平均值？", "answer": "C", "choice": ["75.0", "80.0", "85.0", "87.0"]}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，從2022年至2024年，台灣銀行業的流動性覆蓋率（LCR）逐年上升。", "answer": "是", "question_group": 1074}
+
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，從2022年至2024年，台灣銀行業的流動性覆蓋率（LCR）逐年下降。", "answer": "否", "question_group": 1074}
+
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2022年到2024年，資本充足率的總增幅是0.5個百分點。", "answer": "是", "question_group": 1075}
+
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2022年到2024年，資本充足率的總增幅是1.5個百分點。", "answer": "否", "question_group": 1075}
+

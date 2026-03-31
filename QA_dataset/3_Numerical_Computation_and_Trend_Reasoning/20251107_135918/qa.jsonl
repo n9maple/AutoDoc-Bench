@@ -1,0 +1,33 @@
+{"category": "Open", "question_type": "Aggregation", "question": "申訴資料不全或資訊錯誤案件比例與人為錯誤於資料不全案件佔比的總和是多少？", "answer": "78%"}
+{"category": "Open", "question_type": "Aggregation", "question": "2023 年中所有通訊方式的總數是多少？", "answer": "2023年中所有通訊方式的總數是100。"}
+{"category": "Open", "question_type": "Aggregation", "question": "2023年1月至2023年6月期間，受理案件數和超時案件數的總和分別是多少？", "answer": "受理案件數總和是887，超時案件數總和是137。"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據2023年的資料，行動分行服務和臨時卡片方案的使用率平均值是多少百分比？", "answer": "平均值為91%"}
+{"category": "Open", "question_type": "Aggregation", "question": "電話客服和行動裝置線上申訴的總比例是多少？", "answer": "83%"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的資料，申訴資料不全或資訊錯誤案件的比例與人為錯誤於資料不全案件佔比的總和是什麼？", "answer": "C", "choice": ["74%", "85%", "78%", "70%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表格中2023年1月至2023年6月期間的數據，以下哪些選項正確描述受理案件數和超時案件數的總和？", "answer": "C", "choice": ["受理案件數總和是840，超時案件數總和是150。", "受理案件數總和是900，超時案件數總和是120。", "受理案件數總和是887，超時案件數總和是137。", "受理案件數總和是880，超時案件數總和是130。"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年的資料，行動分行服務和臨時卡片方案的使用率平均值為何？", "answer": "C", "choice": ["85%", "92%", "91%", "88%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的資料，電電話客服和行動裝置線上申訴的總比例在下列選項中是哪一個？", "answer": "C", "choice": ["82%", "87%", "83%", "79%"]}
+{"category": "Open", "question_type": "Aggregation", "question": "所有改善方向的對應措施數量總和是多少？", "answer": "25"}
+{"category": "Open", "question_type": "Aggregation", "question": "2023年第四季度，所有類型的ATM申訴案件滿意度的平均值是多少？", "answer": "90"}
+{"category": "Open", "question_type": "Rate of Change", "question": "從2023年第三季度到第四季度，吞卡類申訴案件滿意度變化了多少個百分點？", "answer": "2個百分點"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖所示，所有改善方向的對應措施數量總和是多少？", "answer": "C", "choice": ["20", "30", "25", "22"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年第四季度的數據，所有類型的ATM申訴案件的滿意度平均值是多少？請參考下方圖表進行選擇。", "answer": "C", "choice": ["85", "80", "90", "70"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據提供的數據，從2023年第三季度到第四季度，吞卡類申訴案件的滿意度變化了多少個百分點？", "answer": "C", "choice": ["3個百分點", "保持不變", "2個百分點", "6個百分點"]}
+{"category": "Open", "question_type": "Aggregation", "question": "根據圖2的資料，各改善方向對應措施數量的總和是多少？", "answer": "25"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表7的資料，行動分行服務、臨時卡片方案和免除補卡手續費的百分比之和在2023年為196%。那麼行動分行服務和臨時卡片方案的百分比之和是以下哪一個選項？", "answer": "C", "choice": ["194%", "190%", "182%", "176%"]}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023年第四季度所有類型的ATM申訴案件滿意度平均值為90。", "answer": "是", "question_group": 996}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023年第四季度所有類型的ATM申訴案件滿意度平均值為85。", "answer": "否", "question_group": 996}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，電話客服和行動裝置線上申訴的總比例是83%。", "answer": "是", "question_group": 997}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，電話客服和行動裝置線上申訴的總比例是75%。", "answer": "否", "question_group": 997}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，申訴資料不全或資訊錯誤案件的比例與人為錯誤於資料不全案件佔比的總和是78%。", "answer": "是", "question_group": 998}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，申訴資料不全或資訊錯誤案件的比例與人為錯誤於資料不全案件佔比的總和是68%。", "answer": "否", "question_group": 998}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023 年中所有通訊方式的總數是 100。", "answer": "是", "question_group": 999}
+
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023 年中所有通訊方式的總數是 110。", "answer": "否", "question_group": 999}
+

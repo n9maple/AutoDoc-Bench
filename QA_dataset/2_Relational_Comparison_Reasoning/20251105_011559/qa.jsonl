@@ -1,0 +1,41 @@
+{"category": "Open", "question_type": "Comparison", "question": "哪一種期貨的年度成交量和年增長率的乘積最大？", "answer": "台指期貨的年度成交量和年增長率的乘積最大，為900萬。"}
+{"category": "Open", "question_type": "Comparison", "question": "哪一種期貨或選擇權的增長率最低？", "answer": "台指期貨"}
+{"category": "Open", "question_type": "Comparison", "question": "2023年個人投資者與其他投資者的占比差距是多大？", "answer": "30%"}
+{"category": "Open", "question_type": "Comparison", "question": "2022年的外資機構交易量占比與其他機構相比，差距是多少百分點？", "answer": "2022年的外資機構交易量占比與其他機構相比，差距是70個百分點。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖顯示的期貨成交量和年增長率，哪一種期貨的年度成交量和年增長率的乘積最大？", "answer": "C", "choice": ["電子期貨的年度成交量和年增長率的乘積等於或接近台指期貨的乘積", "原油期貨的年度成交量和年增長率的乘積沒有明顯高於台指期貨", "台指期貨的年度成交量和年增長率的乘積最大", "股指期貨的年度成交量和年增長率的乘積低於台指期貨的乘積"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片所示，哪一種期貨或選擇權的增長率最低？", "answer": "C", "choice": ["小型台指期貨", "日經225期貨", "台指期貨", "歐元期貨"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的數據，個人投資者的比例與其他類型投資者相比，有多少比例的差距？", "answer": "C", "choice": ["20%以上", "45%", "30%", "35%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2022年的數據，外資機構交易量占比與其他機構相比，差距是多少個百分點？請參考變化圖表中的數據。", "answer": "D", "choice": ["75個百分點", "45個百分點", "65個百分點", "70個百分點"]}
+{"category": "Open", "question_type": "Comparison", "question": "哪個產品類型的增長百分比最低?", "answer": "產品類型 1 和 6 的增長百分比最低，均為 0%"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "增長百分比最高與最低的產品類型之間的差距是多少?", "answer": "20"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "2023年外資機構的市場參與度相比2022年增加了多少百分比?", "answer": "無法提供最終答案，因為缺乏具體的圖表數據。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，哪個產品類型的增長百分比最低？", "answer": "C", "choice": ["產品類型 3 的增長百分比為 0%", "產品類型 5 的增長百分比為 1%", "產品類型 1 和 6 的增長百分比均為 0%", "產品類型 4 的增長百分比為 2%"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據給定的產品類型增長百分比圖，增長百分比最高與最低的產品類型之間的差距是多少？", "answer": "C", "choice": ["15", "18", "20", "22"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據2023年外資機構的市場參與度相關圖表，與2022年相比，市場參與度的變化百分比大約是多少？", "answer": "C", "choice": ["2023年外資機構的市場參與度預計下降約5%，根據過去的趨勢。", "市場參與度的變化百分比增長了五倍，這與大多數預測一致。", "無法確定，因為缺乏具體的圖表數據。", "外資機構在2023年增加了30%，基於市場調查的假設。"]}
+{"category": "Open", "question_type": "Ranking", "question": "請將所有產品類型按增長百分比從低到高排序。", "answer": "0, 0, 13, 15, 18, 20"}
+{"category": "Open", "question_type": "Ranking", "question": "在2023年，哪一個投資者類型的市場參與度最高?", "answer": "外資機構"}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據增長百分比，以下產品類型的排序是從低到高，請根據此資訊選擇正確的排序：", "answer": "C", "choice": ["0, 0, 15, 20, 18, 13", "0, 0, 15, 13, 18, 20", "0, 0, 13, 15, 18, 20", "0, 0, 18, 15, 20, 13"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據2023年的市場數據，哪一類型的投資者參與度最高？", "answer": "C", "choice": ["活躍散戶（參與度25%）", "功能性交易者（參與度15%）", "外資機構", "私人銀行客戶（參與度10%）"]}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖3，2023年的其他交易占比比2022年高還是低？", "answer": "2023年的其他交易占比比2022年低"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖3，2023年的其他交易占比相比2022年呈現什麼趨勢？", "answer": "A", "choice": ["2023年的其他交易占比比2022年低", "2023年出現一定程度的增加，但仍低於2022年", "2023年的其他交易占比回落至接近歷史低點", "2023年其他交易占比與2022年保持不變"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖3，2022年與2023年對沖型交易占比的差異為多少個百分比點？", "answer": "D", "choice": ["18個百分比點", "12個百分比點", "8個百分比點", "15個百分比點"]}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年個人投資者的比例與其他投資者相比有30%的差距。", "answer": "是", "question_group": 295}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年個人投資者的比例與其他投資者相比有20%的差距。", "answer": "否", "question_group": 295}
+
+{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，2023年市場參與度最高的投資者類型是外資機構。", "answer": "是", "question_group": 296}
+
+{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，2023年市場參與度最高的投資者類型是個人投資者。", "answer": "否", "question_group": 296}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，台指期貨的增長率是最低的，為10。", "answer": "是", "question_group": 297}
+
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，ESG相關期貨的增長率是最低的，為30。", "answer": "否", "question_group": 297}
+
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖表，無法確定2023年與2022年外資機構市場參與度變化的百分比，因為缺乏具體的數據。", "answer": "是", "question_group": 298}
+
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖表，可以確定2023年外資機構市場參與度相比2022年增加了20%。", "answer": "否", "question_group": 298}
+
+{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，增長百分比的排序是從低到高：0, 0, 13, 15, 18, 20。", "answer": "是", "question_group": 299}
+
+{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，增長百分比的排序是從高到低：20, 18, 15, 13, 0, 0。", "answer": "否", "question_group": 299}
+
