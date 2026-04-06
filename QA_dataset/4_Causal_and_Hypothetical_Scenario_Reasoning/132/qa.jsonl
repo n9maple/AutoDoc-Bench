@@ -1,0 +1,10 @@
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "根據表1的數據，若2023年設立獨立董事比例上升5個百分點，但董事會多樣性和專業性不足公司比例維持不變，則這兩者差距會是多少個百分點？", "answer": "25個百分點"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "根據表3的資料，若要使『董事會多樣性』和『性別平等』的『取得進步公司比例』總和達到130%，那麼『董事會多樣性』的比例需要提升多少個百分點？", "answer": "董事會多樣性需要提升15個百分點"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "根據表4的資料，假設 '年度報告及時性' 的良好表現公司比例增加10%，而'需改進公司'的比例如何變化？", "answer": "需改進公司的比例將變為 15%。"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "根據表5的資料，假設從2022年到2025年達到良好治理水準的公司比例每年以固定百分比增長，請計算這個年度增長百分比。", "answer": "4.56%"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "根據表7的資料，如果重視合規控制的公司比例減少了4%，而適應國際市場變動的公司比例增加了5%，那麼這三類公司的新比例總和是多少？", "answer": "206%"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表1的數據，如果2023年設立獨立董事比例上升5個百分點，而董事會多樣性和專業性不足的公司比例維持不變，則這兩者的差距將會是多少個百分點？", "answer": "C", "choice": ["15個百分點", "5個百分點", "25個百分點", "35個百分點"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表3的資料，若要使『董事會多樣性』和『性別平等』的『取得進步公司比例』總和達到130%，那麼『董事會多樣性』的比例需要提升多少個百分點？", "answer": "C", "choice": ["27個百分點", "10個百分點", "15個百分點", "35個百分點"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表4的資料，如果 '年度報告及時性' 的良好表現公司比例增加10%，則 '需改進公司'的比例會變為多少？", "answer": "C", "choice": ["5%", "25%", "15%", "30%"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表5的資料，假設從2022年到2025年達到良好治理水準的公司比例每年以固定百分比增長，以下哪一項最接近於這個年度增長百分比？", "answer": "C", "choice": ["2.75%", "6.20%", "4.56%", "4.80%"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表7的資料，如果重視合規控制的公司比例減少了4%，而適應國際市場變動的公司比例增加了5%，那麼這三類公司的新比例總和是？請參考表中的數據。", "answer": "C", "choice": ["205%", "208%", "206%", "204%"]}

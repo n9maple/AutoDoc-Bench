@@ -1,0 +1,6 @@
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "根據表1的資料，找出2022年和2023年歐元區與美國的增長率差異總和，哪一年這個總和較小？", "answer": "2022年和2023年的增長率差異總和都是0.3%，因此兩年的總和相等。"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "根據表2的資料，計算從2021年到2023年的市場規模增長百分比。", "answer": "20%"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "根據表3的資料，計算2023年全年下限的總和是多少，再計算全年上限的總和是多少，並比較這兩個總和的大小。", "answer": "全年下限的總和是1.0，全年上限的總和是2.0，上限總和大於下限總和。"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表1的資料，2022年和2023年歐元區與美國的增長率差異總和為多少？", "answer": "C", "choice": ["2022年和2023年的增長率差異總和為0.4%", "2022年和2023年的增長率差異總和為1.0%", "2022年和2023年的增長率差異總和都是0.3%", "2022年和2023年的增長率差異總和為0.1%"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表2的資料，以下哪一選項最接近從2021年到2023年的市場規模增長百分比？", "answer": "C", "choice": ["35%", "15%", "20%", "5%"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表3的資料，2023年全年下限和上限的總和分別是多少？並比較這兩個總和的大小。", "answer": "C", "choice": ["全年下限的總和是0.5，全年上限的總和是1.5，且下限總和小於上限總和。", "全年下限的總和是1.0，全年上限的總和是1.5，且上限總和大於下限總和。", "全年下限的總和是1.0，全年上限的總和是2.0，且上限總和大於下限總和。", "全年下限的總和是0.8，全年上限的總和是2.0，且上限總和大於下限總和。"]}

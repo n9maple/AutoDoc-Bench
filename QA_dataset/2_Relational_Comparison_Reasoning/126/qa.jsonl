@@ -1,0 +1,6 @@
+{"category": "Open", "question_type": "Comparison", "question": "表1中，TX合約的交易量相較於總交易量所占的百分比是多少？", "answer": "48%"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表1，TX合約的交易量所占的百分比是多少？", "answer": "C", "choice": ["47%", "46%", "48%", "45%"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖1，兩個指標的數量差異是多少？", "answer": "C", "choice": ["5000", "1000", "2500", "3000"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據圖1，以下哪些數值是從小到大的正確排列？", "answer": "C", "choice": ["400, 3000", "3000, 500", "500, 3000", "500, 600"]}
+{"category": "Open", "question_type": "Difference Calculation", "question": "在圖1中，兩個指標的數量差異是多少？", "answer": "2500"}
+{"category": "Open", "question_type": "Ranking", "question": "根據圖1，將指標按照從小到大的順序排列。", "answer": "500, 3000"}

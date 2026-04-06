@@ -1,0 +1,8 @@
+{"category": "Open", "question_type": "Aggregation", "question": "根據表1，如果某月的總查詢量是5000筆，那麼官網和客戶服務熱線的查詢總量是多少筆？", "answer": "3250筆"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "假設表1中的百分比在未來三個月每月都增加2%，那麼三個月後客戶服務熱線的百分比將是多少？", "answer": "36%"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表1，如果某月的總查詢量是5000筆，那麼官網和客戶服務熱線的查詢總量可能是？", "answer": "C", "choice": ["2000筆", "3500筆", "3250筆", "4500筆"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表1所示，假設客戶服務熱線的百分比每月增加2%，那麼在三個月後，這個百分比將會是？", "answer": "C", "choice": ["34%", "42%", "36%", "38%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖2，所有階段的工作日數量總和是？", "answer": "C", "choice": ["28", "26", "27", "24"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖5的資料，前三名通知方式的使用比例總和是多少？以下選項中哪一個是正確的？", "answer": "C", "choice": ["110%", "85%", "100%", "95%"]}
+{"category": "Open", "question_type": "Aggregation", "question": "在圖2中，各階段的工作日數量總和是多少？", "answer": "27"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據圖5的資料，前三名通知方式的使用比例總和是多少？", "answer": "100%"}

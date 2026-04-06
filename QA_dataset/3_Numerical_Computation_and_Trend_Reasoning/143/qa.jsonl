@@ -1,0 +1,10 @@
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "根據表1的資料，如果2023年的銀行和金融機構數位化比例在未來兩年內每年增長3%，那麼2025年的數位化比例預計是多少？", "answer": "90.18%"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "根據表4的資料，從2023年到2026年，獲批數位銀行數量的年均增長數是多少？", "answer": "2.33"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表1的資料，假如2023年的銀行和金融機構數位化比例每年增長3%，以下哪一個選項是2025年的預計數位化比例？", "answer": "C", "choice": ["91.50%", "93.00%", "90.18%", "88.00%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表4的資料，從2023年到2026年，以下哪一項是獲批數位銀行數量的年均增長數？", "answer": "C", "choice": ["2.00", "2.75", "2.33", "3.5"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖1的資料，2023年與2024年台灣金融科技市場成長率的變化百分比是多少？以下哪一項是正確的成長率？", "answer": "C", "choice": ["18.00%", "17.50%", "16.67%", "15.00%"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖4，以下哪一段時間內區塊鏈技術在金融業的應用增長率保持穩定？", "answer": "C", "choice": ["從2026年到2027年", "從2023年到2024年", "從2024年到2027年", "從2025年到2026年"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖4，2023年至2024年區塊鏈技術的應用增長率是以下哪一個百分比？", "answer": "C", "choice": ["180%", "220%", "200%", "160%"]}
+{"category": "Open", "question_type": "Rate of Change", "question": "根據圖1的資料，2023年與2024年台灣金融科技市場成長率的變化百分比是多少？", "answer": "16.67%"}
+{"category": "Open", "question_type": "Temporal Trend", "question": "根據圖4，從2023年到2027年，區塊鏈技術在金融業的應用增長率是否保持穩定？", "answer": "從2024年到2027年，區塊鏈技術在金融業的應用增長率保持穩定。"}
+{"category": "Open", "question_type": "Rate of Change", "question": "在圖4中，2023年至2024年區塊鏈技術的應用增長率增長了多少百分比？", "answer": "200%"}

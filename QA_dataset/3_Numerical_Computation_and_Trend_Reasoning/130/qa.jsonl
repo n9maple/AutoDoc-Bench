@@ -1,0 +1,18 @@
+{"category": "Open", "question_type": "Aggregation", "question": "根據表3的資料，計算所有項目的滿意度平均值和偏好平均值，並比較這兩個平均值，哪一個更高？", "answer": "滿意度平均值4.15高於偏好平均值3.925"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "假設表3中的滿意度和偏好分數每兩年增加0.2，預測四年後安全性評價的滿意度和偏好分數將分別是多少？", "answer": "四年後安全性評價的滿意度為4.9，偏好為4.7。"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "根據表4，如果年長用戶和年輕專業人士的數量每年都增加10%，三年後年長用戶的數量會是多少？", "answer": "66.55"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "如果表5中的問題比例在接下來的半年內每月減少0.5%，那麼半年後運行緩慢或無法連接伺服器的比例將是多少？", "answer": "17%"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "假設在表6中，個性化服務選項的需求比例每年增加3%，智能理財建議和個人財務管理工具的需求比例每年增加4%，那麼三年後這三者的需求比例分別會是多少？", "answer": "個性化服務選項三年後的需求比例約為65.57%，智能理財建議和個人財務管理工具三年後的需求比例均約為67.50%。"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "根據表7的資料，假設未來兩年每年個人數據安全擔憂的百分比減少3%，請計算兩年後的擔憂百分比。", "answer": "9%"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表7的資料，計算所有指標中滿意百分比的平均值。", "answer": "85%"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表3的資料，計算所有項目的滿意度平均值和偏好平均值，並比較這兩個平均值。以下哪一項是正確的比較結果？", "answer": "C", "choice": ["滿意度平均值4.10等於偏好平均值4.15", "滿意度平均值4.10低於偏好平均值4.25", "滿意度平均值4.15高於偏好平均值3.925", "滿意度平均值4.05高於偏好平均值3.90"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表3中的滿意度和偏好分數，假設每兩年增加0.2，四年後安全性評價的滿意度和偏好分數分別是多少？以下哪一項是正確的預測？", "answer": "C", "choice": ["滿意度為4.6，偏好為4.4。", "滿意度為4.8，偏好為4.5。", "滿意度為4.9，偏好為4.7。", "滿意度為5.0，偏好為4.8。"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表4，假設年長用戶和年輕專業人士的數量每年都增加10%，三年後年長用戶的數量將會是多少？", "answer": "C", "choice": ["75.00", "60.00", "66.55", "72.00"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表5，如果每月問題比例減少0.5%，那麼在接下來的半年中，無法連接伺服器的比例將會是多少？請根據相關數據回答。以下是選項：", "answer": "C", "choice": ["18%", "16.5%", "17%", "15%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表6，假設個性化服務選項的需求比例每年增加3%，智能理財建議和個人財務管理工具的需求比例每年增加4%，則三年後這三者的需求比例將分別為多少？", "answer": "C", "choice": ["個性化服務選項約為71.00%，智能理財建議和個人財務管理工具均約為71.00%", "個性化服務選項約為69.00%，智能理財建議和個人財務管理工具均約為70.00%", "個性化服務選項約為65.57%，智能理財建議和個人財務管理工具均約為67.50%。", "個性化服務選項約為66.50%，智能理財建議和個人財務管理工具均約為66.00%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表7的資料，假設未來兩年每年個人數據安全擔憂的百分比減少3%，兩年後的擔憂百分比將會是以下哪一個選項？", "answer": "C", "choice": ["7%", "11%", "9%", "9.5%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表7的資料，以下哪一項是所有指標中滿意百分比的平均值？", "answer": "C", "choice": ["82%", "87%", "85%", "79%"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖1的資料，從2018年到2022年，依賴數位平台客戶比例的變化趨勢是什麼？", "answer": "C", "choice": ["依賴數位平台客戶比例從2018年到2022年持平，未見顯著變化。", "依賴數位平台客戶比例在2019年突然增加，之後恢復到2018年水平。", "依賴數位平台客戶比例呈現穩定上升的趨勢。", "依賴數位平台客戶比例在2021年達到頂峰後，呈現緩慢下降的趨勢。"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖6中服務指標的滿意度百分比，以下哪一項代表滿意度總和？", "answer": "C", "choice": ["367", "340", "363", "375"]}
+{"category": "Open", "question_type": "Temporal Trend", "question": "根據圖1的資料，從2018年到2022年，依賴數位平台客戶比例的變化趨勢是什麼？", "answer": "從2018年到2022年，依賴數位平台客戶比例呈現穩定上升的趨勢。"}
+{"category": "Open", "question_type": "Aggregation", "question": "在圖6中，服務指標的滿意度百分比總和是多少？", "answer": "363"}

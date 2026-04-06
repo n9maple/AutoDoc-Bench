@@ -1,0 +1,20 @@
+{"category": "Open", "question_type": "Comparison", "question": "根據表2的資料，授信額度最高的行業與最低的行業之間的授信額度差距是多少？", "answer": "授信額度差距是1000。"}
+{"category": "Open", "question_type": "Comparison", "question": "依據表4，哪個行業的授信額度最高，並計算該行業比授信額度最低的行業多多少？", "answer": "授信額度最高的行業是零售，比授信額度最低的行業旅遊多200。"}
+{"category": "Open", "question_type": "Comparison", "question": "根據表6的資料，哪一年逾放比率增幅最大？", "answer": "2021"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表2的資料，授信額度最高的行業與最低的行業之間的授信額度差距是多少？以下哪一項是正確的差距數值？", "answer": "C", "choice": ["授信額度差距是1200。", "授信額度差距是800。", "授信額度差距是1000。", "授信額度差距是300。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表4，以下哪一行業的授信額度最高？同時，該行業的授信額度比授信額度最低的行業多多少？", "answer": "C", "choice": ["旅遊行業的授信額度比零售行業高150。", "金融業的授信額度比旅遊行業多350。", "零售行業的授信額度比旅遊行業多200。", "零售行業的授信額度比旅遊行業多100。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表6的資料，以下哪一年逾放比率增幅最大？", "answer": "C", "choice": ["2018", "2019", "2021", "2022"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖1，2023年與2022年的授信總額之間的差異是多少？", "answer": "C", "choice": ["2023年授信總額的增幅為5億元", "2023年授信總額為50億元", "2023年和2022年的授信總額差異為Y - X億元", "2023年授信總額比2022年減少了3億元"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖2所示的資料，下列哪一年份的逾放比率較低？", "answer": "C", "choice": ["2023年的逾放比率較低", "2023年的逾放比率與2022年相等", "2022年的逾放比率較低", "2022年和2023年的逾放比率都有所上升"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在圖3中，關於項目15和項目20的增長率，哪一項的增長率較低？", "answer": "C", "choice": ["項目15的增長率高於項目20，顯示項目15的增長表現優於項目20。", "兩者的增長率相同，表示項目15和項目20在增長上沒有差異。", "項目15的增長率較低。", "項目20的增長率高於項目15，意味著項目20的增長表現更佳。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖5，以下哪一年的逾放比率較高？", "answer": "C", "choice": ["2023年的逾放比率較高", "2022年和2023年大致相同", "2022年", "逾放比率至今還在變化"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖6，以下哪一年在授信額度上表現出更顯著的增長？", "answer": "C", "choice": ["2021年的增長小於2020年", "2022年是增長幅度最小的一年", "2023年的增長更顯著", "2020年與2021年增長幅度一致"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖7，2022年在以下行業中，哪個行業的授信額度最低？", "answer": "C", "choice": ["金融服務", "生物醫療", "電子製造", "運輸業"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖8，2025年金融科技投資額與數位服務平台開發的投資額之間的差額是多少？以下哪一選項正確？", "answer": "C", "choice": ["無法計算", "150億元", "100億元", "200億元"]}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖1，2022年和2023年的授信總額差異是多少？", "answer": "2023年和2022年的授信總額差異為Y - X億元"}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖2所示的資料，哪一年份的逾放比率較低？", "answer": "2022年的逾放比率較低"}
+{"category": "Open", "question_type": "Comparison", "question": "在圖3中，哪一個項目的增長率較低，15還是20？", "answer": "項目15的增長率較低。"}
+{"category": "Open", "question_type": "Comparison", "question": "在圖5中，2022年和2023年哪一年的逾放比率較高？", "answer": "2022年的逾放比率較高"}
+{"category": "Open", "question_type": "Comparison", "question": "在圖6中，2022年和2023年的授信額度相比，哪一年的增長更顯著？", "answer": "2023年的增長更顯著"}
+{"category": "Open", "question_type": "Comparison", "question": "在圖7中，2022年哪個行業的授信額度最低？", "answer": "電子製造"}
+{"category": "Open", "question_type": "Comparison", "question": "在圖8中，2025年金融科技投資額與數位服務平台開發的投資額之間的差額是多少？", "answer": "100億元"}

@@ -1,0 +1,26 @@
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "根據表2的資料，如果利害關係人權益保護的百分比每年增加3%，那麼預計在2025年，這個百分比將達到多少？", "answer": "79%"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表2的資料，將股東權益保障、董事會結構及效能和資訊揭露透明度的百分比相加，再平均後的結果是多少？", "answer": "75%"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "根據表3的數據，若每年『董事會獨立性』的『取得進步公司比例』提升3個百分點，那麼需要多少年才能達到75%的比例？", "answer": "5年"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "根據表4的資料，如果在未來兩年內每年的 '財務資訊完整性' 需改進公司比例減少5%，請問兩年後的比例是多少？", "answer": "15%"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "根據表5的資料，2022年與2025年達到良好治理水準的公司比例差異有助於理解什麼樣的趨勢？", "answer": "從2022年到2025年，達到良好治理水準的公司比例增加了10%，顯示出公司治理水準正在改善的趨勢。"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表6的資料，計算2025年增加獨立董事公司百分比、增加女性董事公司百分比和多樣化背景董事公司百分比的平均值是多少？", "answer": "66.67%"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "根據表7的資料，假設重視風險管理公司的比例每年增加2%，合規控制公司的比例每年增加1%，那麼到了2027年，這兩類公司的比例會是多少？", "answer": "2027年重視風險管理公司的比例是79%，重視合規控制公司的比例是70%。"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表2的資料，如果利害關係人權益保護的百分比每年增加3%，那麼預計在2025年，這個百分比將達到多少？以下哪一項最接近正確答案？", "answer": "C", "choice": ["76%", "78%", "79%", "82%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表2的資料，以下哪個選項是股東權益保障、董事會結構及效能和資訊揭露透明度的三項百分比相加後平均的結果？", "answer": "C", "choice": ["76%", "78%", "75%", "73%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表3的數據，若每年『董事會獨立性』的『取得進步公司比例』提升3個百分點，那麼需要多少年才能達到75%的比例？以下哪一項是正確的答案？", "answer": "C", "choice": ["8年", "9年", "5年", "4年"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表4的資料，如果在未來兩年內每年的 '財務資訊完整性' 需改進公司比例減少5%，那麼兩年後的公司比例將是以下哪一個選項？", "answer": "C", "choice": ["30%", "5%", "15%", "0%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表5的資料，2022年與2025年達到良好治理水準的公司比例差異，主要顯示了什麼趨勢？", "answer": "C", "choice": ["達到良好治理水準的公司比例從2022年到2025年減少了20%，顯示出公司治理水準正在惡化的趨勢。", "達到良好治理水準的公司比例從2022年到2025年減少了3%，顯示出公司治理水準正在微幅惡化的趨勢。", "達到良好治理水準的公司比例從2022年到2025年增加了10%，顯示出公司治理水準正在改善的趨勢。", "達到良好治理水準的公司比例從2022年到2025年增加了5%，顯示出公司治理水準正在緩慢改善的趨勢。"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表6資料，2025年增加獨立董事公司百分比、增加女性董事公司百分比和多樣化背景董事公司百分比的平均值。請選擇正確的答案：", "answer": "C", "choice": ["64%", "67%", "66.67%", "68%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表7的資料，假設重視風險管理公司的比例每年增加2%，合規控制公司的比例每年增加1%，那麼到了2027年，重視風險管理公司和合規控制公司的比例分別是多少？", "answer": "C", "choice": ["重視風險管理公司的比例是78%，重視合規控制公司的比例是67%。", "重視風險管理公司的比例是76%，重視合規控制公司的比例是65%。", "重視風險管理公司的比例是79%，重視合規控制公司的比例是70%。", "重視風險管理公司的比例是80%，重視合規控制公司的比例是65%。"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖2所示，所有數據類型的數值總和可能是以下哪個選項？", "answer": "C", "choice": ["50000000000850", "50000000000930", "50000000000950", "50000000000980"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖3的資料，所有指標的比例總和可能是多少？", "answer": "C", "choice": ["85%", "105%", "95%", "75%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖4的資料，指標85和指標75的公司比例總和是以下哪一個選項？", "answer": "C", "choice": ["150%", "180%", "160%", "200%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖5中提供的資訊，所有資訊類型的表現百分比總和是多少？", "answer": "C", "choice": ["150%", "180%", "200%", "300%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖6的數據，所有指標的平均採用百分比最接近於以下哪一個選項？", "answer": "C", "choice": ["52.00", "59.00", "53.33", "54.45"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖7，以下哪一項最能代表所有指標的公司百分比總和？", "answer": "C", "choice": ["100%", "105%", "115%", "95%"]}
+{"category": "Open", "question_type": "Aggregation", "question": "在圖2中，所有數據類型的數值總和是多少？", "answer": "50000000000950"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據圖3的資料，所有指標的比例總和是多少？", "answer": "95%"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據圖4的資料，指標85和指標75的公司比例總和是多少？", "answer": "160%"}
+{"category": "Open", "question_type": "Aggregation", "question": "在圖5中，所有資訊類型的表現百分比總和是多少？", "answer": "200%"}
+{"category": "Open", "question_type": "Aggregation", "question": "在圖6中，所有指標的平均採用百分比是多少？", "answer": "53.33"}
+{"category": "Open", "question_type": "Aggregation", "question": "在圖7中，所有指標的公司百分比總和是多少？", "answer": "115%"}

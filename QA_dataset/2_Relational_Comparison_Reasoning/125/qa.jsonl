@@ -1,0 +1,10 @@
+{"category": "Open", "question_type": "Comparison", "question": "根據表2的資料，2023年台灣市場的份額比2021年多多少百分比？", "answer": "5%"}
+{"category": "Open", "question_type": "Comparison", "question": "根據表3的資料，計算2023年每個季度的上限與下限的差值，並找出差值最小的季度是哪一個？", "answer": "所有季度的差值相同，均為0.25，因此差值最小的季度是2023Q1, 2023Q2, 2023Q3, 2023Q4。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表2的資料，2023年台灣市場的份額與2021年相比，增加了多少百分比？", "answer": "C", "choice": ["1%", "10%", "5%", "4%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表3的資料，2023年每個季度的上限與下限的差值相同且均為0.25，以下哪一個季度的差值最小？", "answer": "C", "choice": ["2023Q1的差值特別小，低於0.25", "2023Q2的差值被認為較少，約為0.2", "2023Q1, 2023Q2, 2023Q3, 2023Q4", "2023Q3的差值在所有季度中最大，為0.3"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據圖1，2022年經濟增長率最低的地區是以下哪一個？", "answer": "C", "choice": ["歐洲", "中國", "日本", "韓國"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖3，以下哪一個指標的百分比最低？", "answer": "C", "choice": ["4.0", "2.5", "3.5", "3.3"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "在圖3中，百分比為40.0的指標與百分比為5.0的指標之間的差距是多少？", "answer": "C", "choice": ["30.0", "25.0", "35.0", "50.0"]}
+{"category": "Open", "question_type": "Ranking", "question": "根據圖1，2022年經濟增長率最低的地區是哪一個？", "answer": "日本"}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖3，百分比最低的指標是多少？", "answer": "3.5"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "在圖3中，百分比為40.0的指標比百分比為5.0的指標高多少？", "answer": "35.0"}

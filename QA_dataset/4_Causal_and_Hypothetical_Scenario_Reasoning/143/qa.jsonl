@@ -1,0 +1,8 @@
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "根據表1的資料，假設行動銀行使用頻率在2023年到2025年間每年增加5%，而銀行和金融機構數位化比例每年增長2%，到2025年哪一個比例較高？", "answer": "2025年銀行和金融機構數位化比例較高，為89%。"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "根據表2的資料，如果人工智慧在風險管理和金融交易的應用比例分別增加5%和10%，那麼這兩個領域中人工智慧的應用比例總和會是多少？", "answer": "95%"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "根據表3的資料，假設2020年的合規成本基數為50萬，請計算2020年到2022年間的合規成本總和為多少。", "answer": "2020年到2022年間的合規成本總和為1711050.0。"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "根據表4的資料，若預計2027年的市場份額將比2026年增加50%的增長率，請計算2027年的市場份額將會是多少？", "answer": "2027年的市場份額將是30%"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表1的資料，假設行動銀行使用頻率在2023年到2025年間每年增加5%，而銀行和金融機構數位化比例每年增長2%。到2025年，哪一個比例較高？", "answer": "C", "choice": ["到2025年行動銀行使用頻率為86%，因為每年以5%的固定增長率遞增。", "2025年行動銀行使用頻率較低，為82%。", "2025年銀行和金融機構數位化比例較高，為89%。", "2025年銀行和金融機構數位化比例為78%。"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表2的資料，如果人工智慧在風險管理和金融交易的應用比例分別增加5%和10%，那麼這兩個領域中人工智慧的應用比例總和會是多少？請從以下選項中選擇正確的比例：", "answer": "C", "choice": ["87%", "93%", "95%", "98%"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表3的資料，假設2020年的合規成本基數為50萬，2020年到2022年間的合規成本總和將是多少？請選擇正確的選項。", "answer": "C", "choice": ["1560000.0", "1720000.0", "1711050.0", "1680000.0"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表4的資料，如果2027年的市場份額比2026年增加50%，哪一項是正確的2027年市場份額？", "answer": "C", "choice": ["25%", "40%", "30%", "15%"]}

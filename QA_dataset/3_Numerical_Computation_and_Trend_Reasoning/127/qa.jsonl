@@ -1,0 +1,8 @@
+{"category": "Open", "question_type": "Aggregation", "question": "根據表1的資料，計算2021年與2022年永豐金控不良貸款率的平均值是多少？", "answer": "0.35%"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "根據表1的資料，從2021年到2022年，永豐金控不良貸款率和業界平均不良貸款率的變化趨勢有何不同？", "answer": "從2021年到2022年，永豐金控不良貸款率下降了0.1個百分點，而業界平均不良貸款率下降了0.2個百分點，顯示業界平均不良貸款率的下降幅度更大。"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "假設在未來三年內，每年貸款處理時間縮短的比例增加3%，根據表2的資料，到2025年，貸款處理時間縮短的比例是多少？", "answer": "到2025年，貸款處理時間縮短的比例是29%。"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表1的資料，以下哪個選項最接近2021年與2022年永豐金控不良貸款率的平均值？", "answer": "C", "choice": ["0.30%", "0.40%", "0.35%", "0.45%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表1的資料，從2021年到2022年，永豐金控不良貸款率與業界平均不良貸款率的變化趨勢如何？", "answer": "C", "choice": ["永豐金控不良貸款率保持穩定，而業界平均不良貸款率下降了0.3個百分點，顯示業界表現顯著優於永豐金控。", "永豐金控不良貸款率下降了0.5個百分點，而業界平均不良貸款率保持不變，顯示永豐金控的改善幅度顯著。", "永豐金控不良貸款率下降了0.1個百分點，業界平均不良貸款率下降了0.2個百分點，顯示業界平均的下降幅度更大。", "永豐金控不良貸款率上升了0.1個百分點，而業界平均不良貸款率下降了0.2個百分點，顯示永豐金控在競爭中處於劣勢。"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表2的資料，假設未來三年內每年貸款處理時間縮短的比例增加3%，到2025年，貸款處理時間縮短的比例將是多少？", "answer": "C", "choice": ["27%", "32%", "29%", "28%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖3，以下哪一項是所有指標的數量總和？", "answer": "C", "choice": ["1500", "1600", "1550", "1475"]}
+{"category": "Open", "question_type": "Aggregation", "question": "根據圖3，所有指標的數量總和是多少？", "answer": "1550"}

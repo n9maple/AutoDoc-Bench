@@ -1,0 +1,16 @@
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "根據表1的資料，從2022年到2024年，違約率的降幅總共是多少百分比？", "answer": "0.5%"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "根據表2的資料，若每年科技創新企業的提前還款比例增加5%，需多少年其提前還款比例才能超過綠能產業的比例？", "answer": "2年"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "參照表3，假設所有企業的利率每年都增加0.2%，那麼在3年後，企業A的利率範圍將是什麼？", "answer": "3年後，企業A的利率範圍將是3.2%到5.4%。"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "根據表4的資料，企業B在調整後還款計劃下總還款時間比初始還款計劃延長了多少個季度？", "answer": "8個季度"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表4的資料，所有企業在初始還款計劃中的每年總還款金額是多少？", "answer": "1800萬元"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表1的資料，從2022年到2024年，違約率的降幅總共是多少百分比？以下哪一項是正確的選擇？", "answer": "C", "choice": ["1.5%", "0.6%", "0.5%", "1%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表2的資料，若每年科技創新企業的提前還款比例增加5%，以下哪個選項正確地表示其需要多少年才能超過綠能產業的提前還款比例？", "answer": "C", "choice": ["需要 1 年才能超過綠能產業的提前還款比例", "3年", "2年", "5年"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "參照表3，假設所有企業的利率每年都增加0.2%，那麼在3年後，企業A的利率範圍將是以下哪一項？", "answer": "C", "choice": ["3.5%到5.5%", "3.1%到5.3%", "3.2%到5.4%", "3.4%到5.6%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表4的資料，企業B在調整後還款計劃下的總還款時間比初始還款計劃延長了多少個季度？請選出正確的選項。", "answer": "C", "choice": ["14個季度", "9個季度", "8個季度", "7個季度"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表4的資料，以下哪些選項是所有企業在初始還款計劃中的每年總還款金額？", "answer": "C", "choice": ["3200萬元", "1500萬元", "1800萬元", "2100萬元"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖1中的資訊，兩個指標的比率總和為多少？", "answer": "C", "choice": ["150", "170", "175", "190"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "在圖3中，以下哪些評分接近所有條件的重要性平均值？", "answer": "C", "choice": ["4.0", "4.1", "4.2", "4.6"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖4，所有評分機構的最低信用評分要求總和是多少？以下哪一項為正確答案？", "answer": "C", "choice": ["1750", "1900", "1860", "1800"]}
+{"category": "Open", "question_type": "Aggregation", "question": "在圖1中，兩個指標的比率總和是多少？", "answer": "175"}
+{"category": "Open", "question_type": "Aggregation", "question": "在圖3中，所有條件的重要性評分的平均值是多少？", "answer": "4.2"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據圖4，所有評分機構的最低信用評分要求總和是多少？", "answer": "1860"}

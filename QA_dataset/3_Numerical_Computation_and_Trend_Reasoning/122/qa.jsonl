@@ -1,0 +1,12 @@
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "根據表1的資料，從2009年到2021年，哪一年的平均房貸利率第一次超過2%？", "answer": "2016"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表1的資料，2009年、2020年和2023年的平均房貸利率平均值是多少？", "answer": "1.6167%"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "根據表2，哪一年從Q1到Q4的利率變化最小？", "answer": "2024"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表4的資料，2024年的最低利率和最高利率的平均值是多少？", "answer": "1.9%"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表1的資料，從2009年到2021年，以下哪一年平均房貸利率第一次超過2%？", "answer": "C", "choice": ["2015", "2017", "2016", "2018"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表1的資料，2009年、2020年和2023年的平均房貸利率平均值下列哪一項是正確的？", "answer": "C", "choice": ["1.4300%", "1.8000%", "1.6167%", "1.5555%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表2，以下哪一年從Q1到Q4的利率變化最小？", "answer": "C", "choice": ["2021", "2020", "2024", "2023"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表4的資料，以下哪一個選項最接近2024年的最低利率和最高利率的平均值？", "answer": "C", "choice": ["2.0%", "2.3%", "1.9%", "1.8%"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖1，2022年Q1至2023年Q2期間，其他銀行的房貸利率呈現哪種趨勢？", "answer": "C", "choice": ["其他銀行的房貸利率在2023年Q2達到高峰後持平。", "其他銀行的房貸利率在2022年Q1至2023年Q2期間經歷了緩步上升。", "其他銀行的房貸利率呈現穩定上升的趨勢。", "其他銀行的房貸利率在2022年下半年明顯上升，並在2023年初持平。"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖3的資料，所有因素的影響強度平均值是多少？請選擇正確的選項。", "answer": "C", "choice": ["3.2", "4.0", "3.6", "3.8"]}
+{"category": "Open", "question_type": "Temporal Trend", "question": "在圖1中，2022年Q1至2023年Q2期間，其他銀行的房貸利率呈現什麼樣的趨勢？", "answer": "其他銀行的房貸利率從2022年Q1到2023年Q2呈現穩定上升的趨勢。"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據圖3的資料，所有因素的影響強度平均值是多少？", "answer": "3.6"}

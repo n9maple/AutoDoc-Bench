@@ -1,0 +1,4 @@
+{"category": "Open", "question_type": "Aggregation", "question": "根據表3的資料，將參加者滿意度和講座幫助理解新條款的比例平均，得到的結果是百分之多少？", "answer": "85%"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表3的資料，如果要計算參加者滿意度和講座幫助理解新條款的比例的平均值，以下哪一個百分比是正確的？", "answer": "C", "choice": ["87%", "78%", "85%", "92%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖3，總提供渠道的數量是以下哪一項？", "answer": "C", "choice": ["4", "9", "7", "10"]}
+{"category": "Open", "question_type": "Aggregation", "question": "在圖3中，所有支持類型的總提供渠道數量是多少？", "answer": "7"}

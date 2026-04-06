@@ -1,0 +1,8 @@
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "根據表2的資料，假設初始投資在高風險股票市場的收益率為2%，如果此收益率每年增加1%，那麼在5年後的最終收益率是多少？", "answer": "7%"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "根據表4的資料，如果2週內理賠處理時間的比例從85%下降到75%，這意味著處理時間的效率有何變化？", "answer": "理賠處理時間的效率下降了，因為在2週內完成理賠處理的案件比例從85%下降到75%。"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表2的資料，假設初始投資在高風險股票市場的收益率為2%，如果此收益率每年增加1%，那麼在5年後的最終收益率可能是多少？", "answer": "C", "choice": ["10%", "5%", "7%", "4%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表4的資料，若在2週內理賠處理的比例從85%下降到75%，可以推測處理時間的效率經歷了什麼變化？", "answer": "C", "choice": ["理賠處理的速度可能變快了，因為比例下降可能顯示出簡化了的過程，這意味著可能的處理流程改進。", "理賠處理時間的效率未有變化，因為仍然能在兩週內處理75%的案件，這表明處理時間的穩定性。", "理賠處理時間的效率下降了，因為完成理賠處理的案件比例減少了。", "理賠處理的效率不確定，需進一步分析其他因素，例如案件的複雜度或外部影響。"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖1，台灣在2021年至2023年間的醫療費用上升速度是否保持一致？", "answer": "C", "choice": ["否，醫療費用在2022年開始急劇上升並未回落。", "否，醫療費用在2021年和2022年上升幅度相同，2023年卻出現明顯減少。", "是，台灣在2021年至2023年間的醫療費用上升速度保持一致。", "是，醫療費用在2021年至2023年持續上升，但速度有小幅波動。"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖3，所有問題類型的理賠比例加總是多少？", "answer": "C", "choice": ["260", "290", "270", "310"]}
+{"category": "Open", "question_type": "Temporal Trend", "question": "根據圖1，台灣在2021年至2023年間的醫療費用上升速度是否保持一致？", "answer": "是，台灣在2021年至2023年間的醫療費用上升速度保持一致。"}
+{"category": "Open", "question_type": "Aggregation", "question": "在圖3中，所有問題類型的理賠比例加總是多少？", "answer": "270"}

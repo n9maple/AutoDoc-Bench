@@ -1,0 +1,24 @@
+{"category": "Open", "question_type": "Aggregation", "question": "根據表1的資料，請問2023年綠色投資基金的數值佔綠色貸款和綠色債券總和的百分比是多少？", "answer": "20%"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表2的資料，從2023年到2025年，太陽能的年均增長量是多少？", "answer": "35 GW"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "根據表3的資料，假設住宅社區的項目數量每年增加10%，並且融資金額每年增加5%，那麼五年後住宅社區的項目數量和融資金額將分別是多少？", "answer": "五年後住宅社區的項目數量約為56.31，融資金額約為3.57"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表3的資料，將所有類別項目數量加總後，計算每一類別的項目數量占總項目數量的百分比，哪一類別的百分比最高？", "answer": "商業辦公樓"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "根據表4的資料，假設從2025年到2030年全球電動車銷量的增長率每五年保持不變，預測2035年的銷量是多少？", "answer": "16333輛"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表4的資料，將2025年和2030年的全球電動車銷量相加，總和是多少？", "answer": "總和是10000。"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "根據表5的資料，若到2026年第一銀行支持的比例每年增加3%，其他因素的比例每年減少3%，那麼到2026年第一銀行支持和其他因素的比例分別是多少？", "answer": "到2026年，第一銀行支持的比例是79%，其他因素的比例是21%。"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表1的資料，2023年綠色投資基金的數值佔綠色貸款和綠色債券總和的百分比是多少？以下哪一項是正確的？", "answer": "C", "choice": ["19%", "21%", "20%", "15%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表2的資料，預測從2023年到2025年，太陽能的年均增長量是多少？", "answer": "C", "choice": ["30 GW", "33 GW", "35 GW", "38 GW"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表3的資料，如果住宅社區的項目數量每年增加10%，融資金額每年增加5%，那麼五年後住宅社區的項目數量和融資金額分別是多少？以下哪一組選項正確？", "answer": "C", "choice": ["五年後項目數量約為48.00，融資金額約為2.80", "五年後項目數量約為53.00，融資金額約為3.00", "五年後項目數量約為56.31，融資金額約為3.57", "五年後項目數量約為66.00，融資金額約為4.50"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表3的資料，計算每一類別的項目數量占總項目數量的百分比，以下哪一類別的百分比最高？", "answer": "C", "choice": ["綠色社區", "商業住宅", "商業辦公樓", "工業設施"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表4的資料，假設從2025年到2030年全球電動車銷量的增長率每五年保持不變，根據此假設，預測2035年的電動車銷量是多少？以下哪一項是正確的預測值？", "answer": "C", "choice": ["15000輛", "17500輛", "16333輛", "16200輛"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表4的資料，2025年和2030年的全球電動車銷量總和最接近以下哪個選項？", "answer": "C", "choice": ["13000", "11000", "10000", "9000"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表5的資料，如果到2026年第一銀行支持的比例每年增加3%，其他因素的比例每年減少3%，那麼到2026年，第一銀行支持和其他因素的比例分別將會是多少？", "answer": "C", "choice": ["第一銀行支持的比例是76%，其他因素的比例是24%", "第一銀行支持的比例是77%，其他因素的比例是23%", "第一銀行支持的比例是79%，其他因素的比例是21%", "第一銀行支持的比例是78%，其他因素的比例是22%"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖1，預測在2023年到2030年之間，全球綠色建築市場規模的增長趨勢如何？", "answer": "C", "choice": ["綠色建築市場預計將在2023年達到1.0兆美元，然後在2030年增長至1.3兆美元，總增長率為30%。", "全球綠色建築市場規模將從0.8兆美元上升至1.2兆美元，增長率為50%。", "全球綠色建築市場規模將從0.8兆美元增長至1.5兆美元，總體增長率為87.5%。", "全球綠色建築市場預計在2023年增長至1.0兆美元，然後在2030年達到4.0兆美元，總增長率為300%。"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖2的資料，所有指標的數值總和可能是哪一個選項？", "answer": "C", "choice": ["25000", "35000", "30112", "40000"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖3，從2023年至2027年的年增長率如何？", "answer": "C", "choice": ["增長率在2023年至2025年是12%，但2026年和2027年分別降低至9%和6%。", "從2023年至2027年增長率在2024年達到高峰，然後持平於8%。", "從2023年至2027年的年增長率均為10%，沒有波動。", "增長率在2023年為9%，2024年和2025年保持在10%，然後在2026年回落至7%。"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖3，2023年至2027年間的年增長率總和可以是以下哪個選項？", "answer": "C", "choice": ["70", "30", "50", "40"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖5中所示的數據，所有指標的平均數值是多少？", "answer": "C", "choice": ["57.5", "72.5", "63.75", "64.25"]}
+{"category": "Open", "question_type": "Temporal Trend", "question": "在圖1中，全球綠色建築市場規模在2023年到2030年間的增長趨勢如何？", "answer": "從2023年到2030年，全球綠色建築市場規模呈現增長趨勢，從0.8兆美元增長到1.5兆美元，總體增長率為87.5%。"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據圖2的資料，所有指標的數值總和是多少？", "answer": "30112"}
+{"category": "Open", "question_type": "Temporal Trend", "question": "在圖3中，從2023年至2027年的年增長率是否有任何波動？", "answer": "從2023年至2027年的年增長率沒有波動，均為10%。"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據圖3，2023年至2027年間的年增長率總和是多少？", "answer": "50"}
+{"category": "Open", "question_type": "Aggregation", "question": "在圖5中，所有指標的平均數值是多少？", "answer": "63.75"}

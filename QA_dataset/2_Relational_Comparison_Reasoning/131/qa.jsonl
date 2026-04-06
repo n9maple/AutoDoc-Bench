@@ -1,0 +1,10 @@
+{"category": "Open", "question_type": "Comparison", "question": "根據表1的資料，2025年的再生能源占比與政府目標相比，差距是多少百分比？", "answer": "5%"}
+{"category": "Open", "question_type": "Comparison", "question": "根據表2，從2022年到2024年，哪一年的第三方審核次數最多？", "answer": "2023年和2024年"}
+{"category": "Open", "question_type": "Comparison", "question": "根據表3的資料，哪一年綠色及可持續項目需求的增幅最大，以及該增幅是多少？", "answer": "2026年，增幅為0.2"}
+{"category": "Open", "question_type": "Comparison", "question": "根據表4的資料，從2024年到2028年，哪一年新增就業崗位的數量相對於前一年增加最多？", "answer": "所有年份的增加數量相同，沒有一年增加最多。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表1的資料，2025年的再生能源占比與政府目標相比，差距是多少百分比？以下哪一項是正確的差距百分比？", "answer": "C", "choice": ["8%", "6%", "5%", "2%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表2，從2022年到2024年，哪一年有最多的第三方審核次數？", "answer": "C", "choice": ["2025年", "僅2024年", "2023年和2024年", "2023年是唯一被審核的年份"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表3的資料，以下哪一年顯示綠色及可持續項目需求的最大增幅？", "answer": "C", "choice": ["2023年，增幅為0.1", "2027年，增幅為0.25", "2026年，增幅為0.2", "2025年，增幅為0.15"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表4的資料，從2024年到2028年，哪一年新增就業崗位的數量相對於前一年增加最多？", "answer": "C", "choice": ["2027年，其新增崗位數量保持不變，並沒有增長。", "2026年，新增崗位數量與前一年相比並未增加。", "所有年份的新增就業崗位數量相同，沒有一年增加最多。", "2028年，當年新增崗位數量與前兩年相同，並未出現增長。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖2，再生能源與清潔交通的資金分配之間的差距是多少？以下哪些選項顯示了這一差距？", "answer": "C", "choice": ["30", "12", "20", "22"]}
+{"category": "Open", "question_type": "Comparison", "question": "在圖2中，再生能源與清潔交通的資金分配數值差距是多少？", "answer": "20"}

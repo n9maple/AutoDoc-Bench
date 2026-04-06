@@ -1,0 +1,10 @@
+{"category": "Open", "question_type": "Comparison", "question": "根據表1的資料，2022年到2024年，哪一年成功申請的企業數量最多，並比成功申請企業數量最少的那一年多出多少家？", "answer": "2024年成功申請的企業數量最多，比成功申請企業數量最少的2022年多出208家。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表1的資料，在2022年到2024年中，哪一年成功申請的企業數量最多，並且與成功申請企業數量最少的年份相比，多出了多少家？", "answer": "C", "choice": ["2024年成功申請的企業數量最多，但與2022年相比，多出180家。", "2024年成功申請的企業數量最多，與2023年相比，多出50家。", "2024年成功申請的企業數量最多，與2022年相比，多出208家。", "2024年成功申請的企業數量最多，但與2022年相比，多出100家。"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖1的資料，指標97和指標78的比率相差多少？請選擇以下正確的選項。", "answer": "C", "choice": ["18%", "21%", "19%", "22%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖3，下列哪一個條件的重要性評分最低？", "answer": "C", "choice": ["條件的重要性評分為0", "條件的重要性評分為2.5", "條件的重要性評分為3", "條件的重要性評分為4"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖5，以下哪個行業的貸款利率最低？", "answer": "C", "choice": ["服務業", "高科技產業", "綠能產業", "建築業"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖5，科技創新的利率與綠能產業的利率之間的差異是什麼？", "answer": "C", "choice": ["綠能產業的利率認為是科技創新利率的兩倍。", "科技創新的利率是綠能產業的雙倍，雖然這並沒有任何數據可以支持此結論。", "無法計算，因為沒有具體的數據提供。", "從圖中可以推斷綠能產業的利率是最高的，儘管缺乏明確數據支持這一結論。"]}
+{"category": "Open", "question_type": "Difference Calculation", "question": "根據圖1的資料，指標97和指標78的比率相差多少？", "answer": "19%"}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖3，哪一個條件的重要性評分最低？", "answer": "條件的重要性評分最低為 3"}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖5，哪個行業的貸款利率最低？", "answer": "綠能產業"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "在圖5中，科技創新的利率與綠能產業的利率之間的差異是多少？", "answer": "由於沒有具體的數據提供，無法計算科技創新與綠能產業利率之間的差異。"}

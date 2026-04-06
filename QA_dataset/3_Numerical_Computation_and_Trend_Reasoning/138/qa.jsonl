@@ -1,0 +1,8 @@
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "假設表1中的科技領域數值每年增加5%，到2026年，科技的數值將達到多少億美元？", "answer": "5512.5億美元"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "根據表2的資料，假設從2024年開始，新興市場與發展中經濟體每年的增長率降低0.3%，發達經濟體的增長率維持不變，那麼到2026年時，新興市場與發展中經濟體的增長率是多少？", "answer": "3.9%"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表1，如果科技領域的數值每年增加5%，到2026年，科技的數值將會是多少億美元？以下選項中，哪一項為正確答案？", "answer": "C", "choice": ["5500億美元", "5530.0億美元", "5512.5億美元", "5000億美元"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表2的資料，假設從2024年開始，新興市場與發展中經濟體每年的增長率降低0.3%，如果2023年的增長率為4.5%，那麼到2026年時，新興市場與發展中經濟體的增長率是多少？以下選項中，哪一項是正確的？", "answer": "C", "choice": ["3.6%", "4.4%", "3.9%", "4.0%"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖1，從2023年到2024年間，哪個國家的經濟增長率提升最多？", "answer": "C", "choice": ["中國的經濟增長率提升了0.8%。", "德國的經濟增長率提升了0.6%。", "美國的經濟增長率提升了0.7%。", "美國的經濟增長率提升了1.0%。"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖3，各國經濟增長率的總和是多少？請從以下選項中選擇：", "answer": "C", "choice": ["30.1", "15.8", "22.6", "27.2"]}
+{"category": "Open", "question_type": "Rate of Change", "question": "在圖1中，從2023年到2024年間，哪個國家的經濟增長率提升最多？", "answer": "美國的經濟增長率提升最多，增長了0.7%。"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據圖3，所有國家的經濟增長率的總和是多少？", "answer": "22.6"}

@@ -1,0 +1,16 @@
+{"category": "Open", "question_type": "Aggregation", "question": "根據表1的資料，2018年和2019年治理結構達標企業比例的平均值是多少？", "answer": "67.5%"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表2的資料，計算2014-2019年期間，治理結構提升百分點和資訊揭露改善百分點的平均值是多少？", "answer": "27.5"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "根據表4的資料，假設從2025年起，具備金融或會計背景的董事人數每年增加一人，那麼2027年的具備金融或會計背景的董事人數是多少？", "answer": "3人"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表6的資料，請計算2024年和2025年女性董事比例和多樣化董事會結構對盈利影響的平均差距。", "answer": "6%"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "根據表7的資料，2023年到2025年間，女性董事比例年均增長多少個百分點？", "answer": "年均增長是3個百分點。"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表1的資料，2018年和2019年治理結構達標企業比例的平均值為何？以下選項中哪一個是正確的？", "answer": "C", "choice": ["66%", "68%", "67.5%", "73%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表2的資料，計算2014-2019年期間，治理結構提升百分點和資訊揭露改善百分點的平均值是多少？以下哪個選項是正確的？", "answer": "C", "choice": ["31", "28", "27.5", "26"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表4的資料，假設從2025年起，每年具備金融或會計背景的董事人數增加一人，則到2027年的具備金融或會計背景的董事人數會是以下哪一數字？", "answer": "C", "choice": ["2人", "6人", "3人", "8人"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表6的資料，2024年和2025年女性董事比例對於董事會多樣化結構對盈利影響的平均差距是以下哪一個選項？", "answer": "C", "choice": ["14%", "4%", "6%", "5%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表7的資料，2023年到2025年間，女性董事比例的年均增長可能是多少？", "answer": "C", "choice": ["年均增長是4.5個百分點。", "年均增長是2.5個百分點。", "年均增長是3個百分點。", "年均增長是1個百分點。"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖3，從2024年到2025年，提前公布大會議程的公司比例變化率是多少？以下哪些選項是正確的？", "answer": "C", "choice": ["5.5%", "0.5%", "2.94%", "2.0%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖6的資料，所有指標的比例總和為何？請選出正確的選項。", "answer": "C", "choice": ["50%", "70%", "60%", "80%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖7的資料，以下哪一項正確反映了所有措施的市場估值變化總和？", "answer": "C", "choice": ["15", "40", "25", "5"]}
+{"category": "Open", "question_type": "Rate of Change", "question": "根據圖3，從2024年到2025年，提前公布大會議程公司比例的變化率是多少？", "answer": "2.94%"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據圖6的資料，所有指標的比例總和是多少？", "answer": "60%"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據圖7的資料，所有措施的市場估值變化總和是多少？", "answer": "25"}

@@ -1,0 +1,6 @@
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "根據表1的資料，假設從2023年開始，正常情境下的資本充足率每年增加0.3%，到2025年會是多少？", "answer": "16.6%"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從表2得知，2023年的培訓活動共有參加人次2000。如果接下來的一年目標是增加10%的參加人次，則下一年需要達到多少參加人次？", "answer": "2200"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "根據表3的資料，假設2023年的平均融資成本在未來兩年每年都下降0.3個百分點，那麼2025年的平均融資成本將是多少？", "answer": "2025年的平均融資成本將是1.2%"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表1的資料，假設從2023年開始，正常情境下的資本充足率每年增加0.3%，到2025年會是多少？以下哪一項是正確的答案？", "answer": "C", "choice": ["16.0%", "16.4%", "16.6%", "16.8%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表2，2023年的培訓活動參加人次為2000。如果目標是下一年增加10%的參加人次，則以下哪一項是正確的下一年參加人次目標？", "answer": "C", "choice": ["1900", "2100", "2200", "2300"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表3的資料，假設2023年的平均融資成本在未來兩年每年都下降0.3個百分點，請問2025年的平均融資成本將是多少？以下哪項選擇是正確的？", "answer": "C", "choice": ["2025年的平均融資成本將是1.6%", "2025年的平均融資成本將是1.0%", "2025年的平均融資成本將是1.2%", "2025年的平均融資成本將是2.0%"]}
