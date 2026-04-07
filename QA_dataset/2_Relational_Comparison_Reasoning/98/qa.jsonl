@@ -11,15 +11,15 @@
 {"category": "Open", "question_type": "Comparison", "question": "根據圖3，所有市場的合規性要求數量是否完全相同？", "answer": "是，所有市場的合規性要求數量完全相同。"}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據表2的資料，運營收入增幅相對於周邊地區GDP增幅的倍數是多少？", "answer": "B", "choice": ["運營收入的增幅是周邊地區GDP增幅的11.5倍", "運營收入的增幅是周邊地區GDP增幅的12.5倍", "運營收入的增幅是周邊地區GDP增幅的14倍", "運營收入的增幅是周邊地區GDP增幅的10倍"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據圖1，車輛更新與擴充的資金分配比例比軌道與基礎設施維護及升級高出多少個百分點？", "answer": "A", "choice": ["20個百分點", "5個百分點", "15個百分點", "10個百分點"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，車輛更新與擴充的資金分配比例與研發和環境友好型技術的比例差距是30.0%。", "answer": "是", "question_group": 694}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，車輛更新與擴充的資金分配比例與研發和環境友好型技術的比例差距是30.0%。", "answer": "是", "question_group": 694}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，車輛更新與擴充的資金分配比例與研發和環境友好型技術的比例差距是20.0%。", "answer": "否", "question_group": 694}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，車輛更新與擴充的資金分配比例與研發和環境友好型技術的比例差距是20.0%。", "answer": "否", "question_group": 694}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，運營收入的增幅是周邊地區GDP增幅的12.5倍。", "answer": "是", "question_group": 695}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，運營收入的增幅是周邊地區GDP增幅的12.5倍。", "answer": "是", "question_group": 695}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，運營收入的增幅是周邊地區GDP增幅的6倍。", "answer": "否", "question_group": 695}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，運營收入的增幅是周邊地區GDP增幅的6倍。", "answer": "否", "question_group": 695}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，法律領域的專家數量是最少的。", "answer": "是", "question_group": 696}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖2，法律領域的專家數量是最少的。", "answer": "是", "question_group": 696}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，工程領域的專家數量是最少的。", "answer": "否", "question_group": 696}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖2，工程領域的專家數量是最少的。", "answer": "否", "question_group": 696}
 

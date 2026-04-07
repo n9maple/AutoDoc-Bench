@@ -8,15 +8,15 @@
 {"category": "MCQ", "question_type": "Peak/Valley", "question": "根據2023年的數據，下列哪個國家的基準利率在該年中達到最高點？", "answer": "C", "choice": ["加拿大的基準利率達到4.8%", "日本的基準利率上升至1.5%", "美國的基準利率達到5.0%", "中國的基準利率保持在4.5%"]}
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2023年主要國家央行基準利率走勢圖，以下哪一項最能代表美國在2023年第四季度的基準利率？", "answer": "C", "choice": ["7.0%", "5.25%", "5.0%", "4.0%"]}
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "根據下圖中的活期存款利率，最右邊的類型的利率是多少？", "answer": "C", "choice": ["0.25", "0.20", "0.15", "0.12"]}
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖表，美國在2023年第四季度的基準利率是5.0%。", "answer": "是", "question_group": 73}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖1，美國在2023年第四季度的基準利率是5.0%。", "answer": "是", "question_group": 73}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖表，美國在2023年第四季度的基準利率是3.5%。", "answer": "否", "question_group": 73}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖1，美國在2023年第四季度的基準利率是3.5%。", "answer": "否", "question_group": 73}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2023年第二季度的通脹率是3.5%。", "answer": "是", "question_group": 74}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表3，2023年第二季度的通脹率是3.5%。", "answer": "是", "question_group": 74}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2023年第二季度的通脹率是4.5%。", "answer": "否", "question_group": 74}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表3，2023年第二季度的通脹率是4.5%。", "answer": "否", "question_group": 74}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據下圖，最右邊類型的活期存款利率是 0.15。", "answer": "是", "question_group": 75}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖4，最右邊類型的活期存款利率是 0.15。", "answer": "是", "question_group": 75}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據下圖，最右邊類型的活期存款利率是 0.25。", "answer": "否", "question_group": 75}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖4，最右邊類型的活期存款利率是 0.25。", "answer": "否", "question_group": 75}
 

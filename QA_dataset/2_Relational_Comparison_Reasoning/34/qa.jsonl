@@ -14,23 +14,23 @@
 {"category": "MCQ", "question_type": "Ranking", "question": "根據下列市場的支付成本增加百分比，哪一個市場的增加幅度最低？（請參考附圖）", "answer": "C", "choice": ["市場 0.9", "市場 1.0", "市場 0.5", "市場 0.7"]}
 {"category": "Open", "question_type": "Ranking", "question": "根據圖2，支付成本增加百分比的市場從低到高排名是什麼？", "answer": "市場 0.5, 市場 2"}
 {"category": "Open", "question_type": "Ranking", "question": "根據圖4的資料，哪個指標的百分比是第二高的？", "answer": "指標 75"}
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，市場 1 的支付成本增加百分比是 2%，市場 2 的支付成本增加百分比是 0.5%，因此兩者之間的差距是 1.5%。", "answer": "是", "question_group": 389}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖2，市場 1 的支付成本增加百分比是 2%，市場 2 的支付成本增加百分比是 0.5%，因此兩者之間的差距是 1.5%。", "answer": "是", "question_group": 389}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，市場 1 的支付成本增加百分比是 3%，市場 2 的支付成本增加百分比是 0.5%，因此兩者之間的差距是 2.5%。", "answer": "否", "question_group": 389}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖2，市場 1 的支付成本增加百分比是 3%，市場 2 的支付成本增加百分比是 0.5%，因此兩者之間的差距是 2.5%。", "answer": "否", "question_group": 389}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，智能合約的交易時間縮短和整體效率提高的百分比相加為90%，高於國際合作的55%。", "answer": "是", "question_group": 390}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，智能合約的交易時間縮短和整體效率提高的百分比相加為90%，高於國際合作的55%。", "answer": "是", "question_group": 390}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，國際合作的交易時間縮短和整體效率提高的百分比相加為90%，高於智能合約的55%。", "answer": "否", "question_group": 390}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，國際合作的交易時間縮短和整體效率提高的百分比相加為90%，高於智能合約的55%。", "answer": "否", "question_group": 390}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據下圖，指標 C 的數值是最低的，為 68。", "answer": "是", "question_group": 391}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖4，指標 C 的數值是最低的，為 68。", "answer": "是", "question_group": 391}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據下圖，指標 A 的數值是最低的，為 85。", "answer": "否", "question_group": 391}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖4，指標 A 的數值是最低的，為 85。", "answer": "否", "question_group": 391}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據附圖，市場 0.5 的支付成本增加百分比是最低的。", "answer": "是", "question_group": 392}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖2，市場 0.5 的支付成本增加百分比是最低的。", "answer": "是", "question_group": 392}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據附圖，市場 2 的支付成本增加百分比是最低的。", "answer": "否", "question_group": 392}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖2，市場 2 的支付成本增加百分比是最低的。", "answer": "否", "question_group": 392}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，最高指標和最低指標的百分比差距是17%。", "answer": "是", "question_group": 393}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖4，最高指標和最低指標的百分比差距是17%。", "answer": "是", "question_group": 393}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，最高指標和最低指標的百分比差距是20%。", "answer": "否", "question_group": 393}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖4，最高指標和最低指標的百分比差距是20%。", "answer": "否", "question_group": 393}
 

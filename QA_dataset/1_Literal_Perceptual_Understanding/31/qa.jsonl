@@ -1,4 +1,4 @@
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據下圖，數值最高的指標的目標值是 70。", "answer": "是", "question_group": 84}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖2，數值最高的指標的目標值是 70。", "answer": "是", "question_group": 84}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據下圖，數值最高的指標的目標值是 30。", "answer": "否", "question_group": 84}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖2，數值最高的指標的目標值是 30。", "answer": "否", "question_group": 84}
 

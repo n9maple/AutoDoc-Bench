@@ -5,11 +5,11 @@
 {"category": "Open", "question_type": "Comparison", "question": "哪一個問題類型的受訪者提及比例最低？", "answer": "問題類型 8 的受訪者提及比例最低"}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據圖表中的受訪者回應，哪一種問題類型的提及比例最低？", "answer": "C", "choice": ["問題類型 5 的受訪者提及比例為 10%，表示其問題較少受到關注", "問題類型 3 的受訪者提及比例為 15%，顯示出較低的關注度", "問題類型 8 的受訪者提及比例最低", "所有問題類型的提及比例分佈均為 25%，顯示受訪者無偏好"]}
 {"category": "Open", "question_type": "Comparison", "question": "根據圖2，哪一個問題類型的反映比例最低？", "answer": "問題類型 8 的反映比例最低"}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據圖表，問題類型 8 的受訪者提及比例是最低的。", "answer": "是", "question_group": 656}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖4，問題類型 8 的受訪者提及比例是最低的。", "answer": "是", "question_group": 656}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據圖表，問題類型 10 的受訪者提及比例是最低的。", "answer": "否", "question_group": 656}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖4，問題類型 10 的受訪者提及比例是最低的。", "answer": "否", "question_group": 656}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，受訪者對於詳細賠付計算單和專人服務解釋的需求比例都是8%。", "answer": "是", "question_group": 657}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，受訪者對於詳細賠付計算單和專人服務解釋的需求比例都是8%。", "answer": "是", "question_group": 657}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，受訪者對於詳細賠付計算單的需求比例是10%。", "answer": "否", "question_group": 657}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，受訪者對於詳細賠付計算單的需求比例是10%。", "answer": "否", "question_group": 657}
 

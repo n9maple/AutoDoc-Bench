@@ -16,23 +16,23 @@
 {"category": "Open", "question_type": "Ranking", "question": "在2023年度台灣上市公司治理評鑑指標構面比重中，哪一個指標的比例最低？", "answer": "提升資訊透明度和推動永續發展的比例最低，均為20.0%"}
 {"category": "MCQ", "question_type": "Ranking", "question": "根據2023年度台灣上市公司治理評鑑指標構面比重，以下哪一個指標的比例最低？", "answer": "C", "choice": ["推動永續發展的比例為13.0%", "提升公司治理的比重為8.0%", "提升資訊透明度和推動永續發展的比例均為20.0%", "提升內部控制的比重為4.0%"]}
 {"category": "Open", "question_type": "Comparison", "question": "根據表4的資料，2023年哪一項指標的達標率最高，並且比當年供應鏈永續達標率高多少？", "answer": "2023年達標率最高的指標是ESG報告書揭露率，比當年供應鏈永續達標率高16。"}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，加強董事會結構與運作的比重與推動永續發展的比重之間的差距是15.0%。", "answer": "是", "question_group": 404}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖2，加強董事會結構與運作的比重與推動永續發展的比重之間的差距是15.0%。", "answer": "是", "question_group": 404}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，加強董事會結構與運作的比重與推動永續發展的比重之間的差距是25.0%。", "answer": "否", "question_group": 404}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖2，加強董事會結構與運作的比重與推動永續發展的比重之間的差距是25.0%。", "answer": "否", "question_group": 404}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，2019年和2023年的揭露比例差距是20%。", "answer": "是", "question_group": 405}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖1，2019年和2023年的揭露比例差距是20%。", "answer": "是", "question_group": 405}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，2019年和2023年的揭露比例差距是30%。", "answer": "否", "question_group": 405}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖1，2019年和2023年的揭露比例差距是30%。", "answer": "否", "question_group": 405}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，從2023年到2024年，ESG報告書揭露率的達標率增幅最大。", "answer": "是", "question_group": 406}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，從2023年到2024年，ESG報告書揭露率的達標率增幅最大。", "answer": "是", "question_group": 406}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，從2023年到2024年，ESG報告書揭露率的達標率增幅最小。", "answer": "否", "question_group": 406}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，從2023年到2024年，ESG報告書揭露率的達標率增幅最小。", "answer": "否", "question_group": 406}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2024年的重大訊息揭露正確率高於2023年。", "answer": "是", "question_group": 407}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，2024年的重大訊息揭露正確率高於2023年。", "answer": "是", "question_group": 407}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的重大訊息揭露正確率高於2024年。", "answer": "否", "question_group": 407}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，2023年的重大訊息揭露正確率高於2024年。", "answer": "否", "question_group": 407}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年『前6%-20%』組的數值與2022年相比增加了48。", "answer": "是", "question_group": 408}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，2023年『前6%-20%』組的數值與2022年相比增加了48。", "answer": "是", "question_group": 408}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年『前6%-20%』組的數值與2022年相比增加了50。", "answer": "否", "question_group": 408}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，2023年『前6%-20%』組的數值與2022年相比增加了50。", "answer": "否", "question_group": 408}
 

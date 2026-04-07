@@ -1,6 +1,6 @@
 {"category": "Open", "question_type": "Multi-hop Reasoning", "question": "從初步發現數到修補後數量，哪一個風險級別的問題解決比例最高？", "answer": "低風險"}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據圖片中的數據，從初步發現數到修補後，哪一個風險級別的問題解決比例最高？", "answer": "C", "choice": ["高風險", "無風險", "低風險", "所有風險級別"]}
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，低風險級別的問題解決比例最高。", "answer": "是", "question_group": 1356}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表1，低風險級別的問題解決比例最高。", "answer": "是", "question_group": 1356}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，中風險級別的問題解決比例最高。", "answer": "否", "question_group": 1356}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表1，中風險級別的問題解決比例最高。", "answer": "否", "question_group": 1356}
 

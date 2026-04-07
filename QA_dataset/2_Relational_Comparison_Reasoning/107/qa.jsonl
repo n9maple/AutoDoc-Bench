@@ -13,19 +13,19 @@
 {"category": "Open", "question_type": "Ranking", "question": "在圖3中，哪一個策略類型的投資額最高？", "answer": "綠色私募股權"}
 {"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖3的資料，綠色私募股權的投資額與風險投資基金的投資額相差幾億？以下哪個選項是正確的？", "answer": "C", "choice": ["風險投資基金的投資額與綠色私募股權相等。", "綠色私募股權的投資額比風險投資基金的少2億。", "由於缺乏具體數據，無法確定兩者的差額。", "綠色私募股權的投資額多於風險投資基金的投資額大約三億。"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據表5的資料，2024年和2025年的綠色金融產品年增長率相比2023年有何關係？", "answer": "D", "choice": ["2024年的年增長率為25%，2025年為20%。", "2024年和2025年的年增長率均降低至15%和10%。", "2024年年增長率為20%，而2025年增長率小幅上升至22%。", "2024年和2025年的年增長率與2023年相同，均為20%。"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，數值最低的項目是300000。", "answer": "是", "question_group": 725}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖4，數值最低的項目是300000。", "answer": "是", "question_group": 725}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，數值最低的項目是1500000。", "answer": "否", "question_group": 725}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖4，數值最低的項目是1500000。", "answer": "否", "question_group": 725}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，參加活動A的100人和活動D的30人之間的差距是70人。", "answer": "是", "question_group": 726}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖1，參加活動A的100人和活動D的30人之間的差距是70人。", "answer": "是", "question_group": 726}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，參加活動C的75人和活動B的50人之間的差距是70人。", "answer": "否", "question_group": 726}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖1，參加活動C的75人和活動B的50人之間的差距是70人。", "answer": "否", "question_group": 726}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2024年綠色金融資產占總資產比重的增長幅度相比於2023年為5%。", "answer": "是", "question_group": 727}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，2024年綠色金融資產占總資產比重的增長幅度相比於2023年為5%。", "answer": "是", "question_group": 727}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2024年綠色金融資產占總資產比重的增長幅度相比於2023年為10%。", "answer": "否", "question_group": 727}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，2024年綠色金融資產占總資產比重的增長幅度相比於2023年為10%。", "answer": "否", "question_group": 727}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，數值最低的指標是數值為20的指標。", "answer": "是", "question_group": 728}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖5，數值最低的指標是數值為20的指標。", "answer": "是", "question_group": 728}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，數值最低的指標是數值為500的指標。", "answer": "否", "question_group": 728}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖5，數值最低的指標是數值為500的指標。", "answer": "否", "question_group": 728}
 

@@ -17,23 +17,23 @@
 {"category": "MCQ", "question_type": "Proportion", "question": "根據2023年ATM申訴案件處理時效分布，初步查核回覆在三個工作天內的案件佔總案件的百分比是多少？(請參考相關數據圖表)", "answer": "C", "choice": ["77.5%", "82.0%", "85.0%", "88.0%"]}
 {"category": "MCQ", "question_type": "Proportion", "question": "根據2023年ATM故障申訴處理流程客戶滿意度的分布，以下哪一選項最接近一般滿意度的比例？", "answer": "C", "choice": ["12.5%", "8.0%", "9.0%", "14.0%"]}
 {"category": "MCQ", "question_type": "Peak/Valley", "question": "根據2023年的資料，以下哪一個季度的故障類申訴案件滿意度最高？", "answer": "C", "choice": ["2023Q2滿意度為75%", "2023Q4滿意度為65%", "2023Q3", "2023Q1與2023Q2的平均滿意度為70%"]}
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2023年的結案滿意度為89。", "answer": "是", "question_group": 144}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表4，2023年的結案滿意度為89。", "answer": "是", "question_group": 144}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2023年的結案滿意度為79。", "answer": "否", "question_group": 144}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表4，2023年的結案滿意度為79。", "answer": "否", "question_group": 144}
 
-{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，交易中斷的案件數量占總案件的百分比是20%。", "answer": "是", "question_group": 145}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖3，交易中斷的案件數量占總案件的百分比是20%。", "answer": "是", "question_group": 145}
 
-{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，交易中斷的案件數量占總案件的百分比是10%。", "answer": "否", "question_group": 145}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖3，交易中斷的案件數量占總案件的百分比是10%。", "answer": "否", "question_group": 145}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2023年的補償時效是3天。", "answer": "是", "question_group": 146}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表6，2023年的補償時效是3天。", "answer": "是", "question_group": 146}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2023年的補償時效是5天。", "answer": "否", "question_group": 146}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表6，2023年的補償時效是5天。", "answer": "否", "question_group": 146}
 
-{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，2023年ATM申訴案件中，初步查核回覆在三個工作天內的案件佔總案件的85.0%。", "answer": "是", "question_group": 147}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖5，2023年ATM申訴案件中，初步查核回覆在三個工作天內的案件佔總案件的85.0%。", "answer": "是", "question_group": 147}
 
-{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，2023年ATM申訴案件中，初步查核回覆在三個工作天內的案件佔總案件的75.0%。", "answer": "否", "question_group": 147}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖5，2023年ATM申訴案件中，初步查核回覆在三個工作天內的案件佔總案件的75.0%。", "answer": "否", "question_group": 147}
 
-{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據表格，2023年故障類申訴案件滿意度最高的季度是2023Q3。", "answer": "是", "question_group": 148}
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據圖7，2023年故障類申訴案件滿意度最高的季度是2023Q3。", "answer": "是", "question_group": 148}
 
-{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據表格，2023年故障類申訴案件滿意度最高的季度是2023Q1。", "answer": "否", "question_group": 148}
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據圖7，2023年故障類申訴案件滿意度最高的季度是2023Q1。", "answer": "否", "question_group": 148}
 

@@ -7,15 +7,15 @@
 {"category": "Open", "question_type": "Difference Calculation", "question": "數值最高的健康險特性與最低的健康險特性消費者比例差距是多少？", "answer": "10"}
 {"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖片中的數據，數值最高的健康險特性和最低的健康險特性之間的消費者比例差距是多少？", "answer": "C", "choice": ["9", "11", "10", "13"]}
 {"category": "Open", "question_type": "Comparison", "question": "根據表2的資料，眾安保險2025年的市場份額相當於中國人壽的百分之多少？", "answer": "16.67%"}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2027年的普及率比2026年高出4個百分點。", "answer": "是", "question_group": 325}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，2027年的普及率比2026年高出4個百分點。", "answer": "是", "question_group": 325}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2027年的普及率比2026年高出5個百分點。", "answer": "否", "question_group": 325}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，2027年的普及率比2026年高出5個百分點。", "answer": "否", "question_group": 325}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，該公司的續保率需提高2%以達到行業平均水平。", "answer": "是", "question_group": 326}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，該公司的續保率需提高2%以達到行業平均水平。", "answer": "是", "question_group": 326}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，該公司目前的續保率已經達到行業平均水平。", "answer": "否", "question_group": 326}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，該公司目前的續保率已經達到行業平均水平。", "answer": "否", "question_group": 326}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖片，數值最高的健康險特性和最低的健康險特性之間的消費者比例差距是10。", "answer": "是", "question_group": 327}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖3，數值最高的健康險特性和最低的健康險特性之間的消費者比例差距是10。", "answer": "是", "question_group": 327}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖片，數值最高的健康險特性和最低的健康險特性之間的消費者比例差距是15。", "answer": "否", "question_group": 327}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖3，數值最高的健康險特性和最低的健康險特性之間的消費者比例差距是15。", "answer": "否", "question_group": 327}
 

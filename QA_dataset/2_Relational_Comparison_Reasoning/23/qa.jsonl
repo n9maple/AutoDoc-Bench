@@ -30,35 +30,35 @@
 {"category": "Open", "question_type": "Ranking", "question": "根據圖4，2023年推行情形數值最低的審查措施是什麼？", "answer": "專科醫師小組審查"}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據表4的資料，如果某年最快的入帳時間為3天，則最慢的入帳時間比最快的入帳時間多多少天？", "answer": "A", "choice": ["1天", "5天", "3天", "2天"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據圖5中提供的數據，2023年度的理賠案件數量與2024年度相比，哪一年較多？", "answer": "A", "choice": ["無法確定，因為缺乏具體的數據支持。", "根據2023年度的趨勢，理賠案件數量可能會持平，因此無法確定哪一年較多。", "綜合考慮長期數據，2024年度的理賠案件數量有上升的潛力，或許較多。", "根據目前的觀察，理賠案件數量在2023和2024年度幾乎相同，因此無法確定更高的年度。"]}
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，目前無法提供2023年和2024年間‘客服專線’的占比差距的確切數值。", "answer": "是", "question_group": 344}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖8，目前無法提供2023年和2024年間‘客服專線’的占比差距的確切數值。", "answer": "是", "question_group": 344}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，2023年和2024年間‘客服專線’的占比差距為10%。", "answer": "否", "question_group": 344}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖8，2023年和2024年間‘客服專線’的占比差距為10%。", "answer": "否", "question_group": 344}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據圖片中的統計數據，無法確認2023年和2024年中哪一年平均審核天數較長，因為缺乏具體數據。", "answer": "是", "question_group": 345}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖2，無法確認2023年和2024年中哪一年平均審核天數較長，因為缺乏具體數據。", "answer": "是", "question_group": 345}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據圖片中的統計數據，可以確認2023年和2024年中某一年平均審核天數較長。", "answer": "否", "question_group": 345}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖2，可以確認2023年和2024年中某一年平均審核天數較長。", "answer": "否", "question_group": 345}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，2024年中占比最低的申訴管道是臨櫃申訴。", "answer": "是", "question_group": 346}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖8，2024年中占比最低的申訴管道是臨櫃申訴。", "answer": "是", "question_group": 346}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，2024年中占比最低的申訴管道是電話申訴。", "answer": "否", "question_group": 346}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖8，2024年中占比最低的申訴管道是電話申訴。", "answer": "否", "question_group": 346}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，所有審核項目的檢查要點數量都是 3。", "answer": "是", "question_group": 347}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，所有審核項目的檢查要點數量都是 3。", "answer": "是", "question_group": 347}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，某些審核項目的檢查要點數量不同於其他項目。", "answer": "否", "question_group": 347}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，某些審核項目的檢查要點數量不同於其他項目。", "answer": "否", "question_group": 347}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，2023年和2024年的理賠案件數無法確定哪一年最少。", "answer": "是", "question_group": 348}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖5，2023年和2024年的理賠案件數無法確定哪一年最少。", "answer": "是", "question_group": 348}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，可以清楚確定2023年或2024年其中一年有較少的理賠案件。", "answer": "否", "question_group": 348}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖5，可以清楚確定2023年或2024年其中一年有較少的理賠案件。", "answer": "否", "question_group": 348}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023 年的申訴件數占比比 2022 年增加了 0.05 個百分點。", "answer": "是", "question_group": 349}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表7，2023 年的申訴件數占比比 2022 年增加了 0.05 個百分點。", "answer": "是", "question_group": 349}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023 年的申訴件數占比比 2022 年增加了 0.5 個百分點。", "answer": "否", "question_group": 349}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表7，2023 年的申訴件數占比比 2022 年增加了 0.5 個百分點。", "answer": "否", "question_group": 349}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，最高和最低的平均理賠金額差距為737700元。", "answer": "是", "question_group": 350}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖6，最高和最低的平均理賠金額差距為737700元。", "answer": "是", "question_group": 350}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，最高和最低的平均理賠金額差距為500000元。", "answer": "否", "question_group": 350}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖6，最高和最低的平均理賠金額差距為500000元。", "answer": "否", "question_group": 350}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年和2024年中，AI比對金額與日期異常的推行情形數值無法確定哪一年更高。", "answer": "是", "question_group": 351}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖4，2023年和2024年中，AI比對金額與日期異常的推行情形數值無法確定哪一年更高。", "answer": "是", "question_group": 351}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的AI比對金額與日期異常的推行情形數值一定高於2024年。", "answer": "否", "question_group": 351}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖4，2023年的AI比對金額與日期異常的推行情形數值一定高於2024年。", "answer": "否", "question_group": 351}
 

@@ -7,11 +7,11 @@
 {"category": "MCQ", "question_type": "Part-to-Whole", "question": "根據日盛銀行存款戶保險金額分布，哪兩個金額範圍的百分比加起來超過90%？請根據以下選項進行選擇。", "answer": "C", "choice": ["100-200萬和201-500萬", "0-200萬和301-400萬", "0-100萬和101-300萬", "101-200萬和301-500萬"]}
 {"category": "MCQ", "question_type": "Proportion", "question": "在台灣的存款戶中，有關各存款區間的比較，超過300萬元的存款戶數量比例可能是？", "answer": "C", "choice": ["8.0%", "3.0%", "2.0%", "1.0%"]}
 {"category": "MCQ", "question_type": "Proportion", "question": "根據圖3，關於超過300萬元的存款戶佔總存款戶的百分比，以下哪一項是正確的？", "answer": "B", "choice": ["超過300萬元的存款戶佔總存款戶的百分比是5.0%。", "超過300萬元的存款戶佔總存款戶的百分比是2.0%。", "超過300萬元的存款戶佔總存款戶的百分比是1.5%。", "超過300萬元的存款戶佔總存款戶的百分比是15.0%。"]}
-{"category": "YesNo", "question_type": "Part-to-Whole", "question": "根據表格，0-100萬和101-300萬的存款戶百分比加起來超過90%。", "answer": "是", "question_group": 162}
+{"category": "YesNo", "question_type": "Part-to-Whole", "question": "根據圖1，0-100萬和101-300萬的存款戶百分比加起來超過90%。", "answer": "是", "question_group": 162}
 
-{"category": "YesNo", "question_type": "Part-to-Whole", "question": "根據表格，301-500萬和501-1000萬的存款戶百分比加起來超過90%。", "answer": "否", "question_group": 162}
+{"category": "YesNo", "question_type": "Part-to-Whole", "question": "根據圖1，301-500萬和501-1000萬的存款戶百分比加起來超過90%。", "answer": "否", "question_group": 162}
 
-{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，超過300萬元的存款戶數量比例是2.0%。", "answer": "是", "question_group": 163}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖3，超過300萬元的存款戶數量比例是2.0%。", "answer": "是", "question_group": 163}
 
-{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，未達300萬元的存款戶比例是50%。", "answer": "否", "question_group": 163}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖3，未達300萬元的存款戶比例是50%。", "answer": "否", "question_group": 163}
 

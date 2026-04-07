@@ -17,23 +17,23 @@
 {"category": "Open", "question_type": "Fact Lookup", "question": "根據圖片描述，當全球經濟增長預計放緩到3%且2026年全球金融科技投資將增長約30%時，臺灣外匯市場可考慮採取哪些技術升級和策略來應對外部環境的變化？以下哪一項策略最能用於提升臺灣在亞太區域的競爭力和金融穩定？", "answer": "加快引入人工智能與區塊鏈技術以提高交易效率和安全性"}
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖片描述，當全球經濟增長預計放緩到3%且2026年全球金融科技投資將增長約30%時，臺灣外匯市場可考慮採取哪些技術升級和策略來應對外部環境的變化？以下哪一項策略最能用於提升臺灣在亞太區域的競爭力和金融穩定？", "answer": "B", "choice": ["減少對科技投資的依賴以保持市場穩定", "加快引入人工智能與區塊鏈技術以提高交易效率和安全性", "堅持傳統交易方式以確保短期穩定", "利用政府補貼促進短期經濟增長"]}
 {"category": "Open", "question_type": "Fact Lookup", "question": "在圖1中，哪一個貨幣對的交易量比例最低？", "answer": "CNY/TWD 和 其他"}
-{"category": "YesNo", "question_type": "Proportion", "question": "根據圖片所示，USD/TWD 的交易量佔比為 45.0%。", "answer": "是", "question_group": 85}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖2，USD/TWD 的交易量佔比為 45.0%。", "answer": "是", "question_group": 85}
 
-{"category": "YesNo", "question_type": "Proportion", "question": "根據圖片所示，USD/TWD 的交易量佔比為 55.0%。", "answer": "否", "question_group": 85}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖2，USD/TWD 的交易量佔比為 55.0%。", "answer": "否", "question_group": 85}
 
-{"category": "YesNo", "question_type": "Part-to-Whole", "question": "根據表格，USD/TWD 和 EUR/TWD 的交易量比例均超過15%。", "answer": "是", "question_group": 86}
+{"category": "YesNo", "question_type": "Part-to-Whole", "question": "根據圖1，USD/TWD 和 EUR/TWD 的交易量比例均超過15%。", "answer": "是", "question_group": 86}
 
-{"category": "YesNo", "question_type": "Part-to-Whole", "question": "根據表格，JPY/TWD 和 CNY/TWD 的交易量比例均超過15%。", "answer": "否", "question_group": 86}
+{"category": "YesNo", "question_type": "Part-to-Whole", "question": "根據圖1，JPY/TWD 和 CNY/TWD 的交易量比例均超過15%。", "answer": "否", "question_group": 86}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，交易平台升級提高了25%的交易效率，並降低了交易失誤率，這穩定了短期資本流動。", "answer": "是", "question_group": 87}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，交易平台升級提高了25%的交易效率，並降低了交易失誤率，這穩定了短期資本流動。", "answer": "是", "question_group": 87}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，交易平台升級提高了50%的交易效率，但未對短期資本流動產生任何顯著影響。", "answer": "否", "question_group": 87}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，交易平台升級提高了50%的交易效率，但未對短期資本流動產生任何顯著影響。", "answer": "否", "question_group": 87}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，USD/TWD和EUR/TWD的交易量共佔總交易比例的65%。", "answer": "是", "question_group": 88}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，USD/TWD和EUR/TWD的交易量共佔總交易比例的65%。", "answer": "是", "question_group": 88}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，USD/TWD和JPY/TWD的交易量共佔總交易比例的65%。", "answer": "否", "question_group": 88}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，USD/TWD和JPY/TWD的交易量共佔總交易比例的65%。", "answer": "否", "question_group": 88}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，1989年管制放寬促使市場自由化，吸引外國投資進入，至2022年日均交易量達到350億美元。", "answer": "是", "question_group": 89}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，1989年管制放寬促使市場自由化，吸引外國投資進入，至2022年日均交易量達到350億美元。", "answer": "是", "question_group": 89}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，1989年管制放寬後，市場結構變得更加封閉，使得外國投資減少，至2022年日均交易量降至100億美元。", "answer": "否", "question_group": 89}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，1989年管制放寬後，市場結構變得更加封閉，使得外國投資減少，至2022年日均交易量降至100億美元。", "answer": "否", "question_group": 89}
 

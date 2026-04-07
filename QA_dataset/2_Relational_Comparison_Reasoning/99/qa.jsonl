@@ -2,7 +2,7 @@
 {"category": "MCQ", "question_type": "Comparison", "question": "根據所提供的圖片，線上講座的深入了解比例與研討會相比，哪一項是正確的？", "answer": "C", "choice": ["線上講座的深入了解比例高於研討會。", "線上講座的深入了解比例與研討會的比例相差1%，基於最新的數據。", "線上講座的深入了解比例與研討會相同。", "線上講座的深入了解比例在三個月內持平於研討會的比例。"]}
 {"category": "Open", "question_type": "Comparison", "question": "哪個評估指標的拒絕率最低？", "answer": "評估指標 15 的拒絕率最低，為 15%"}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中的評估指標，哪一項的拒絕率最低？", "answer": "C", "choice": ["評估指標 5 的拒絕率為 30%", "評估指標 12 的拒絕率為 18%", "評估指標 15 的拒絕率為 15%", "評估指標 10 的拒絕率為 22%"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據圖片中的評估指標，評估指標 15 的拒絕率為 15%，是最低的。", "answer": "是", "question_group": 697}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖4，評估指標 15 的拒絕率為 15%，是最低的。", "answer": "是", "question_group": 697}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據圖片中的評估指標，評估指標 20 的拒絕率為 10%，是最低的。", "answer": "否", "question_group": 697}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖4，評估指標 20 的拒絕率為 10%，是最低的。", "answer": "否", "question_group": 697}
 

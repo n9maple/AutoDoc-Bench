@@ -21,27 +21,27 @@
 {"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表3的資料，自由職業者的滿意度若每年增加1.5%，在多少年後可以達到75%的滿意度？以下哪個選項是正確的？", "answer": "C", "choice": ["3年", "7年", "5年", "9年"]}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據表3的資料，以下哪個選項最接近中小企業主和自由職業者的平均滿意度？", "answer": "B", "choice": ["72%", "69%", "68%", "70%"]}
 {"category": "MCQ", "question_type": "Rate of Change", "question": "根據某報告中的圖表，2024年的全球線上貸款市場規模相較於2023年有哪些可能的增長金額？", "answer": "A", "choice": ["450億美元", "480億美元", "550億美元", "420億美元"]}
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，從2022年到2023年，FirstPay平台的用戶數量增加了100萬人。", "answer": "是", "question_group": 1099}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖3，從2022年到2023年，FirstPay平台的用戶數量增加了100萬人。", "answer": "是", "question_group": 1099}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，從2022年到2023年，FirstPay平台的用戶數量保持不變。", "answer": "否", "question_group": 1099}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖3，從2022年到2023年，FirstPay平台的用戶數量保持不變。", "answer": "否", "question_group": 1099}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2023年到2025年，AI技術投資的年均增長率約為19.64%。", "answer": "是", "question_group": 1100}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表5，從2023年到2025年，AI技術投資的年均增長率約為19.64%。", "answer": "是", "question_group": 1100}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2023年到2025年，AI技術的年均增長率約為30%。", "answer": "否", "question_group": 1100}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表5，從2023年到2025年，AI技術的年均增長率約為30%。", "answer": "否", "question_group": 1100}
 
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖片，從2025年到2026年，聯合開發的合作次數沒有改變。", "answer": "是", "question_group": 1101}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖8，從2025年到2026年，聯合開發的合作次數沒有改變。", "answer": "是", "question_group": 1101}
 
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖片，從2025年到2026年，聯合開發的合作次數增加了。", "answer": "否", "question_group": 1101}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖8，從2025年到2026年，聯合開發的合作次數增加了。", "answer": "否", "question_group": 1101}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，亞太地區和新興市場的分支機構數量總和是90。", "answer": "是", "question_group": 1102}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表7，亞太地區和新興市場的分支機構數量總和是90。", "answer": "是", "question_group": 1102}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，亞太地區的分支機構數量是60。", "answer": "否", "question_group": 1102}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表7，亞太地區的分支機構數量是60。", "answer": "否", "question_group": 1102}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年PayPal、Square和Ant Group三家公司的合計總營收為3384億美元。", "answer": "是", "question_group": 1103}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，2022年PayPal、Square和Ant Group三家公司的合計總營收為3384億美元。", "answer": "是", "question_group": 1103}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年PayPal、Square和Ant Group三家公司的合計總營收為2000億美元。", "answer": "否", "question_group": 1103}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，2022年PayPal、Square和Ant Group三家公司的合計總營收為2000億美元。", "answer": "否", "question_group": 1103}
 
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，從2025年到2026年，全球區塊鏈金融市場規模的增長百分比是60%。", "answer": "是", "question_group": 1104}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖5，從2025年到2026年，全球區塊鏈金融市場規模的增長百分比是60%。", "answer": "是", "question_group": 1104}
 
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，從2025年到2026年，全球區塊鏈金融市場規模的增長百分比是80%。", "answer": "否", "question_group": 1104}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖5，從2025年到2026年，全球區塊鏈金融市場規模的增長百分比是80%。", "answer": "否", "question_group": 1104}
 

@@ -5,15 +5,15 @@
 {"category": "Open", "question_type": "Comparison", "question": "根據圖2，2026年哪一個系列的投資金額最高？", "answer": "可再生能源"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "在圖1中，2023年和2024年間綠色金融產品供應總數額的差異是多少億美元？", "answer": "由於缺乏具體的圖表數據，無法計算出2023年和2024年間綠色金融產品供應總數額的差異。"}
 {"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖1，2023年和2024年間綠色金融產品供應總數額的差異是多少億美元？", "answer": "B", "choice": ["2024年綠色金融產品供應比2023年少200億美元", "無法計算出差異，因為缺乏具體的圖表數據。", "2023年綠色金融產品供應額為100億美元，2024年為50億美元，差異為50億美元", "根據趨勢預測，2024年綠色金融產品將增長至80億美元，增加30億美元"]}
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖表，最高指標的目標值是80，最低指標的目標值是8，兩者之間的差距是72。", "answer": "是", "question_group": 631}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖4，最高指標的目標值是80，最低指標的目標值是8，兩者之間的差距是72。", "answer": "是", "question_group": 631}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖表，最高指標的目標值是10，最低指標的目標值是8，兩者之間的差距是72。", "answer": "否", "question_group": 631}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖4，最高指標的目標值是10，最低指標的目標值是8，兩者之間的差距是72。", "answer": "否", "question_group": 631}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，數值最低的指標是 8。", "answer": "是", "question_group": 632}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖4，數值最低的指標是 8。", "answer": "是", "question_group": 632}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，數值最低的指標是 80。", "answer": "否", "question_group": 632}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖4，數值最低的指標是 80。", "answer": "否", "question_group": 632}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2024年的非獨立董事比例比2023年的獨立董事比例多15個百分點。", "answer": "是", "question_group": 633}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，2024年的非獨立董事比例比2023年的獨立董事比例多15個百分點。", "answer": "是", "question_group": 633}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2024年的非獨立董事比例比2023年的獨立董事比例少15個百分點。", "answer": "否", "question_group": 633}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，2024年的非獨立董事比例比2023年的獨立董事比例少15個百分點。", "answer": "否", "question_group": 633}
 

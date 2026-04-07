@@ -1,6 +1,6 @@
 {"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果2023年的進修完成率提高了2.8%，那麼新的完成率是多少？", "answer": "100%"}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "如果2023年的進修完成率提高了2.8%，那麼根據圖片所示的數據，新的完成率可能是多少？", "answer": "C", "choice": ["98.2%", "97.5%", "100%", "102.8%"]}
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2023年的進修完成率提高2.8%後，新的完成率是100%。", "answer": "是", "question_group": 1337}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表2，2023年的進修完成率提高2.8%後，新的完成率是100%。", "answer": "是", "question_group": 1337}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2023年的進修完成率提高2.8%後，新的完成率是99%。", "answer": "否", "question_group": 1337}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表2，2023年的進修完成率提高2.8%後，新的完成率是99%。", "answer": "否", "question_group": 1337}
 

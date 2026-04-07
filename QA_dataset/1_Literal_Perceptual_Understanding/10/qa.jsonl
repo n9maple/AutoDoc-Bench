@@ -3,7 +3,7 @@
 {"category": "Open", "question_type": "Fact Lookup", "question": "根據表1的資料，哪個地區在2024年的增長率最低？", "answer": "中國"}
 {"category": "MCQ", "question_type": "Peak/Valley", "question": "根據圖1，2023年中經濟增長率最高的國家或地區是哪一個？", "answer": "B", "choice": ["巴西", "印度", "韓國", "日本"]}
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "根據表1的資料，以下哪個地區在2024年的增長率最低？", "answer": "D", "choice": ["日本", "美國", "巴西", "中國"]}
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，第二個數據點的指標數值是所有數據點中最低的。", "answer": "是", "question_group": 39}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖3，第二個數據點的指標數值是所有數據點中最低的。", "answer": "是", "question_group": 39}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，第一個數據點的指標數值是所有數據點中最低的。", "answer": "否", "question_group": 39}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖3，第一個數據點的指標數值是所有數據點中最低的。", "answer": "否", "question_group": 39}
 

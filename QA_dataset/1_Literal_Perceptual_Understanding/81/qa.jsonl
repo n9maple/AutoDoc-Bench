@@ -2,7 +2,7 @@
 {"category": "Open", "question_type": "Fact Lookup", "question": "在這個表格中，完成政策生效前任務的比例是多少？", "answer": "75%"}
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "根據提供的資料，2024年相較於2023年，平均年利息支出的變化為何？", "answer": "C", "choice": ["2024年相較於2023年，平均年利息支出增加了1,000美元。", "2024年相較於2023年，平均年利息支出減少了7,000美元。", "2024年相較於2023年，平均年利息支出減少了10,000美元。", "2024年相較於2023年，平均年利息支出減少了15,000美元。"]}
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "在這個表格中，完成政策生效前任務的比例應該是？", "answer": "C", "choice": ["50%", "90%", "75%", "30%"]}
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，在政策生效前完成任務的比例是75%。", "answer": "是", "question_group": 220}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表5，在政策生效前完成任務的比例是75%。", "answer": "是", "question_group": 220}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，在政策生效前完成任務的比例是50%。", "answer": "否", "question_group": 220}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表5，在政策生效前完成任務的比例是50%。", "answer": "否", "question_group": 220}
 

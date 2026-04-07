@@ -19,23 +19,23 @@
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據表9的資料，2022年和2023年平均客訴處理時間的總和是多少？以下哪一項是正確答案？", "answer": "B", "choice": ["106", "108", "112", "100"]}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據表1的資料，以下哪一年證券市場與期貨市場的總和較高？", "answer": "C", "choice": ["2023年的總和比2020年高相差750。", "2021年的總和較高，因為期貨市場增長了10%。", "2023年的總和更高，相差357。", "2023年與2022年的總和相差小於100，顯示出穩定的市場狀況。"]}
 {"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表3的資料，從2022年到2023年，全年最低點的變化趨勢如何？", "answer": "A", "choice": ["全年最低點顯示出上升趨勢。", "全年最低點顯示出多次劇烈的下降與上升，但整體趨勢不明確。", "全年最低點顯示出持平趨勢，沒有明顯的改變。", "全年最低點顯示出逐漸上升的趨勢，但在某些月份出現短暫的下降。"]}
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年和2023年適合性評估參與比例的平均值是90。", "answer": "是", "question_group": 933}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表8，2022年和2023年適合性評估參與比例的平均值是90。", "answer": "是", "question_group": 933}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年和2023年適合性評估參與比例的平均值是85。", "answer": "否", "question_group": 933}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表8，2022年和2023年適合性評估參與比例的平均值是85。", "answer": "否", "question_group": 933}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，這兩年中結構型商品提早終止的比率平均為6.6%。", "answer": "是", "question_group": 934}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，這兩年中結構型商品提早終止的比率平均為6.6%。", "answer": "是", "question_group": 934}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，這兩年中結構型商品提早終止的比率平均為5%。", "answer": "否", "question_group": 934}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，這兩年中結構型商品提早終止的比率平均為5%。", "answer": "否", "question_group": 934}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2022年到2023年，單日成交量波動的下限增加了200，上限也增加了200。", "answer": "是", "question_group": 935}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表3，從2022年到2023年，單日成交量波動的下限增加了200，上限也增加了200。", "answer": "是", "question_group": 935}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2022年到2023年，單日成交量波動的下限增加了100，上限也增加了100。", "answer": "否", "question_group": 935}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表3，從2022年到2023年，單日成交量波動的下限增加了100，上限也增加了100。", "answer": "否", "question_group": 935}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，台指期貨單日最大結算損益倍數的平均值為3.9。", "answer": "是", "question_group": 936}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表5，台指期貨單日最大結算損益倍數的平均值為3.9。", "answer": "是", "question_group": 936}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，台指期貨單日最大結算損益倍數的平均值為4.5。", "answer": "否", "question_group": 936}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表5，台指期貨單日最大結算損益倍數的平均值為4.5。", "answer": "否", "question_group": 936}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，證券市場的平均數值是2725，期貨市場的平均數值是76.5。", "answer": "是", "question_group": 937}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，證券市場的平均數值是2725，期貨市場的平均數值是76.5。", "answer": "是", "question_group": 937}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，證券市場的平均數值是2800，期貨市場的平均數值是75。", "answer": "否", "question_group": 937}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，證券市場的平均數值是2800，期貨市場的平均數值是75。", "answer": "否", "question_group": 937}
 

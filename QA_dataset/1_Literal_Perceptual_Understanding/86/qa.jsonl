@@ -1,7 +1,7 @@
 {"category": "Open", "question_type": "Fact Lookup", "question": "2024年的跨部門溝通效率提升百分比是多少？", "answer": "30%"}
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2024年的數據，下列哪一項最接近跨部門溝通效率的提升百分比？", "answer": "C", "choice": ["45%", "25%", "30%", "15%"]}
 {"category": "MCQ", "question_type": "Peak/Valley", "question": "根據圖5，偏遠地區的滿意度在2022年和2023年間的變化顯示了什麼現象？", "answer": "B", "choice": ["偏遠地區的滿意度在2023年下降到60%。", "偏遠地區的滿意度在2023年達到了高峰，從65%提升至75%。", "偏遠地區的滿意度在2023年持平，無變化。", "偏遠地區的滿意度在2022年的數值超過了85%。"]}
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2024年的跨部門溝通效率提升百分比為30%。", "answer": "是", "question_group": 226}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表5，2024年的跨部門溝通效率提升百分比為30%。", "answer": "是", "question_group": 226}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2024年的跨部門溝通效率提升百分比為50%。", "answer": "否", "question_group": 226}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表5，2024年的跨部門溝通效率提升百分比為50%。", "answer": "否", "question_group": 226}
 

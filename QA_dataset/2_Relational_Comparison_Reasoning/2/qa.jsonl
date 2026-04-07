@@ -6,11 +6,11 @@
 {"category": "MCQ", "question_type": "Comparison", "question": "根據下圖所示，2023年的市場規模相比2021年增長了多少？", "answer": "C", "choice": ["8.50", "4.75", "6.93", "9.00"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中的數據，哪一個世代對於投資ESG企業的興趣與預期增長的比例差異最大？", "answer": "C", "choice": ["X世代", "Y世代", "千禧世代", "對於投資ESG企業興趣最低的世代"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "數位行銷策略後，查詢量的增長百分比相比於策略前，可能增加了多少個百分點？請根據圖表內容作答。", "answer": "C", "choice": ["25個百分點", "35個百分點", "30個百分點", "20個百分點"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2025年和2027年的資產規模差距是300。", "answer": "是", "question_group": 273}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，2025年和2027年的資產規模差距是300。", "answer": "是", "question_group": 273}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2025年和2027年的資產規模差距是400。", "answer": "否", "question_group": 273}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，2025年和2027年的資產規模差距是400。", "answer": "否", "question_group": 273}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的市場規模比2021年增加了6.93。", "answer": "是", "question_group": 274}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，2023年的市場規模比2021年增加了6.93。", "answer": "是", "question_group": 274}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的市場規模比2021年增加了7.5。", "answer": "否", "question_group": 274}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，2023年的市場規模比2021年增加了7.5。", "answer": "否", "question_group": 274}
 

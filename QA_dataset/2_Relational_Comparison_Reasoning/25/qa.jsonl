@@ -19,23 +19,23 @@
 {"category": "Open", "question_type": "Comparison", "question": "根據圖6，增加獨立董事的公司和未增加的公司之間的比例是否相同？", "answer": "增加獨立董事的公司和未增加的公司之間的比例是相同的。"}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據表3的資料，下列哪一家公司在現金股利方面表現最佳？", "answer": "C", "choice": ["公司C在現金股利方面的表現優於公司A和公司B", "公司A在現金股利方面的表現好於公司B", "公司B", "公司D的現金股利支付率高於公司B"]}
 {"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖5，實施比例最低的計劃項目與最高的計劃項目之間的差是多少？以下哪個選項是正確的？", "answer": "A", "choice": ["20%", "24%", "21%", "19%"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，公司章程修訂提案的通過率為75%，高於董事選舉中獲得超過75%股東支持的提案比例65%。", "answer": "是", "question_group": 359}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，公司章程修訂提案的通過率為75%，高於董事選舉中獲得超過75%股東支持的提案比例65%。", "answer": "是", "question_group": 359}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，董事選舉中獲得超過75%股東支持的提案比例高於公司章程修訂提案的通過率75%。", "answer": "否", "question_group": 359}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，董事選舉中獲得超過75%股東支持的提案比例高於公司章程修訂提案的通過率75%。", "answer": "否", "question_group": 359}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，60%的措施類型公司比例是最低的。", "answer": "是", "question_group": 360}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖8，60%的措施類型公司比例是最低的。", "answer": "是", "question_group": 360}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，80%的措施類型公司比例是最低的。", "answer": "否", "question_group": 360}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖8，80%的措施類型公司比例是最低的。", "answer": "否", "question_group": 360}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，公司C的股票股利為3.2%，比其現金股利2.8%多，差額是0.4%。", "answer": "是", "question_group": 361}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，公司C的股票股利為3.2%，比其現金股利2.8%多，差額是0.4%。", "answer": "是", "question_group": 361}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，公司A的股票股利為3.0%，比其現金股利2.0%多，差額是1.0%。", "answer": "否", "question_group": 361}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，公司A的股票股利為3.0%，比其現金股利2.0%多，差額是1.0%。", "answer": "否", "question_group": 361}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據圖片，計劃項目的實施比例為50%的是比例最低的。", "answer": "是", "question_group": 362}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖5，計劃項目的實施比例為50%的是比例最低的。", "answer": "是", "question_group": 362}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據圖片，所有計劃項目的實施比例都是70%。", "answer": "否", "question_group": 362}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖5，所有計劃項目的實施比例都是70%。", "answer": "否", "question_group": 362}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據圖表，未增加研發支出的公司數量排名第一。", "answer": "是", "question_group": 363}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖7，未增加研發支出的公司數量排名第一。", "answer": "是", "question_group": 363}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據圖表，增加研發支出的公司數量排名第一。", "answer": "否", "question_group": 363}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖7，增加研發支出的公司數量排名第一。", "answer": "否", "question_group": 363}
 

@@ -1,6 +1,6 @@
 {"category": "Open", "question_type": "Fact Lookup", "question": "電子期貨的成交量增幅是多少？", "answer": "20%"}
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖片中顯示的電子期貨市場趨勢，成交量增幅是多少？", "answer": "C", "choice": ["15%", "35%", "20%", "5%"]}
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，電子期貨的成交量增幅是20%。", "answer": "是", "question_group": 82}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表2，電子期貨的成交量增幅是20%。", "answer": "是", "question_group": 82}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，電子期貨的成交量增幅是15%。", "answer": "否", "question_group": 82}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表2，電子期貨的成交量增幅是15%。", "answer": "否", "question_group": 82}
 

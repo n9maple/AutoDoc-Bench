@@ -15,23 +15,23 @@
 {"category": "Open", "question_type": "Fact Lookup", "question": "在圖片描述中，第一銀行採用了哪種策略來促進市場對可持續金融產品的認識？這些策略對潛在客戶的轉化率和忠誠度有何不同的影響？", "answer": "A) 多渠道市場宣傳提高了查詢量與轉化率。 B) 系統化客戶教育顯著增強了客戶忠誠度。 C) 個性化咨詢服務提高了查詢量與轉化率。 D) 多渠道市場宣傳顯著增強了客戶忠誠度。\n\n正確答案: A) 和 B)"}
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "在圖片描述中，第一銀行採用了哪種策略來促進市場對可持續金融產品的認識？這些策略對潛在客戶的轉化率和忠誠度有何不同的影響？", "answer": "C", "choice": ["A) 多渠道市場宣傳顯著增強了客戶忠誠度。", "C) 個性化咨詢服務提高了查詢量與轉化率。", "A) 多渠道市場宣傳提高了查詢量與轉化率。 B) 系統化客戶教育顯著增強了客戶忠誠度。 C) 個性化咨詢服務提高了查詢量與轉化率。 D) 多渠道市場宣傳顯著增強了客戶忠誠度。", "D) 多渠道市場宣傳顯著增強了客戶忠誠度。"]}
 {"category": "Open", "question_type": "Fact Lookup", "question": "根據圖6，數值最低的項目是什麼？", "answer": "數值最低的項目是對應數值30的項目。"}
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2020年消費者對可持續產品的付費意願比例是最低的，為65%。", "answer": "是", "question_group": 54}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖2，2020年消費者對可持續產品的付費意願比例是最低的，為65%。", "answer": "是", "question_group": 54}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2023年消費者對可持續產品的付費意願比例是最低的，為73%。", "answer": "否", "question_group": 54}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖2，2023年消費者對可持續產品的付費意願比例是最低的，為73%。", "answer": "否", "question_group": 54}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖片描述，第一銀行通過與可再生能源公司合作，在推動可持續金融產品的過程中實現綠色投資。", "answer": "是", "question_group": 55}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，第一銀行通過與可再生能源公司合作，在推動可持續金融產品的過程中實現綠色投資。", "answer": "是", "question_group": 55}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖片描述，第一銀行通過與零售商合作，在推動可持續金融產品的過程中實現綠色投資。", "answer": "否", "question_group": 55}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，第一銀行通過與零售商合作，在推動可持續金融產品的過程中實現綠色投資。", "answer": "否", "question_group": 55}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2024 年顯示出最高的合規理解提升，達到 96%。", "answer": "是", "question_group": 56}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表6，2024 年顯示出最高的合規理解提升，達到 96%。", "answer": "是", "question_group": 56}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2023 年顯示出最高的合規理解提升，達到 96%。", "answer": "否", "question_group": 56}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表6，2023 年顯示出最高的合規理解提升，達到 96%。", "answer": "否", "question_group": 56}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，第一銀行的綠色貸款方案支持了超過200家企業，每年減少50萬公噸的二氧化碳。", "answer": "是", "question_group": 57}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，第一銀行的綠色貸款方案支持了超過200家企業，每年減少50萬公噸的二氧化碳。", "answer": "是", "question_group": 57}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，第一銀行的綠色貸款方案支持了不到100家企業，每年減少10萬公噸的二氧化碳。", "answer": "否", "question_group": 57}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，第一銀行的綠色貸款方案支持了不到100家企業，每年減少10萬公噸的二氧化碳。", "answer": "否", "question_group": 57}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖片描述，與環保科技公司和學研機構合作推出綠色債券等產品能支持第一銀行在可持續發展金融產品領域保持市場領導地位。", "answer": "是", "question_group": 58}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，與環保科技公司和學研機構合作推出綠色債券等產品能支持第一銀行在可持續發展金融產品領域保持市場領導地位。", "answer": "是", "question_group": 58}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖片描述，單純提高貸款利率能支持第一銀行在可持續發展金融產品領域保持市場領導地位。", "answer": "否", "question_group": 58}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，單純提高貸款利率能支持第一銀行在可持續發展金融產品領域保持市場領導地位。", "answer": "否", "question_group": 58}
 

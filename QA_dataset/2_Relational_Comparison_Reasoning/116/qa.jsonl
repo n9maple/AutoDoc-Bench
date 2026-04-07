@@ -9,19 +9,19 @@
 {"category": "Open", "question_type": "Comparison", "question": "最左邊的項目和第二個數據點的詐騙率相比，哪一個較高？", "answer": "第二個數據點的詐騙率較高"}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中顯示的詐騙率，最左邊的項目與第二個數據點相比，哪一個詐騙率較高？", "answer": "C", "choice": ["第一個項目的詐騙率低於第三個數據點", "第二個數據點的詐騙率高於第一個項目", "第二個數據點的詐騙率較高", "第三個數據點的詐騙率低於第一個項目"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據表2的資料，以下哪一項用戶採用比例更接近其安全性提升比例？", "answer": "C", "choice": ["單一密碼的用戶採用比例", "更新應用程序的用戶採用比例", "雙重驗證的用戶採用比例", "生物識別技術的用戶採用比例"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，客戶服務滿意度與FAQ頁面使用率之間的差異是22個百分點。", "answer": "是", "question_group": 757}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，客戶服務滿意度與FAQ頁面使用率之間的差異是22個百分點。", "answer": "是", "question_group": 757}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，客戶服務滿意度與FAQ頁面使用率之間的差異是15個百分點。", "answer": "否", "question_group": 757}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，客戶服務滿意度與FAQ頁面使用率之間的差異是15個百分點。", "answer": "否", "question_group": 757}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據圖片，第二個數據點的詐騙率高於最左邊的項目。", "answer": "是", "question_group": 758}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，第二個數據點的詐騙率高於最左邊的項目。", "answer": "是", "question_group": 758}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據圖片，最左邊的項目的詐騙率高於第二個數據點。", "answer": "否", "question_group": 758}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，最左邊的項目的詐騙率高於第二個數據點。", "answer": "否", "question_group": 758}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據下圖，最高與最低指標的差距是89.99%。", "answer": "是", "question_group": 759}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖5，最高與最低指標的差距是89.99%。", "answer": "是", "question_group": 759}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據下圖，最高與最低指標的差距是79.99%。", "answer": "否", "question_group": 759}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖5，最高與最低指標的差距是79.99%。", "answer": "否", "question_group": 759}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的用戶數量相比於2022年增加了15%。", "answer": "是", "question_group": 760}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，2023年的用戶數量相比於2022年增加了15%。", "answer": "是", "question_group": 760}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的用戶數量相比於2022年增加了25%。", "answer": "否", "question_group": 760}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，2023年的用戶數量相比於2022年增加了25%。", "answer": "否", "question_group": 760}
 

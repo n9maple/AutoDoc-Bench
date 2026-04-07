@@ -18,19 +18,19 @@
 {"category": "Open", "question_type": "Aggregation", "question": "根據表5的資料，發現異常案件中，有多少百分比的案件是通報主管機關並調查的？", "answer": "13.64%"}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據圖8，以下哪一項是所有稽核指標的數值平均值？", "answer": "D", "choice": ["65.2", "66.0", "63.0", "64.3"]}
 {"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表7的資料，從2022年到2023年，平均稽核報告審閱時效減少了多少百分比？以下哪一項是正確的答案？", "answer": "D", "choice": ["70%", "55%", "65%", "50%"]}
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，從2020年到2023年，資金信託占比呈現上升趨勢。", "answer": "是", "question_group": 946}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖1，從2020年到2023年，資金信託占比呈現上升趨勢。", "answer": "是", "question_group": 946}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，從2020年到2023年，資金信託占比呈現下降趨勢。", "answer": "否", "question_group": 946}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖1，從2020年到2023年，資金信託占比呈現下降趨勢。", "answer": "否", "question_group": 946}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，所有法規名稱的規範重點數量相加為 20。", "answer": "是", "question_group": 947}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖2，所有法規名稱的規範重點數量相加為 20。", "answer": "是", "question_group": 947}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，所有法規名稱的規範重點數量相加為 18。", "answer": "否", "question_group": 947}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖2，所有法規名稱的規範重點數量相加為 18。", "answer": "否", "question_group": 947}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023 年高風險客戶案件數與未通過資格認定案件數的總和是 155。", "answer": "是", "question_group": 948}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，2023 年高風險客戶案件數與未通過資格認定案件數的總和是 155。", "answer": "是", "question_group": 948}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023 年高風險客戶案件數與未通過資格認定案件數的總和是 160。", "answer": "否", "question_group": 948}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，2023 年高風險客戶案件數與未通過資格認定案件數的總和是 160。", "answer": "否", "question_group": 948}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，初步調查後恢復正常的案件數量與需補充客戶資料的案件數量之和為19。", "answer": "是", "question_group": 949}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表5，初步調查後恢復正常的案件數量與需補充客戶資料的案件數量之和為19。", "answer": "是", "question_group": 949}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，初步調查後恢復正常的案件數量與需補充客戶資料的案件數量之和為20。", "answer": "否", "question_group": 949}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表5，初步調查後恢復正常的案件數量與需補充客戶資料的案件數量之和為20。", "answer": "否", "question_group": 949}
 

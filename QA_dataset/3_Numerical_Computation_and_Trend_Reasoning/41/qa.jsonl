@@ -14,19 +14,19 @@
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據2024年浮動利率房貸戶數調整分布中，有多少戶數？下列選項中哪一項為正確的戶數？", "answer": "D", "choice": ["45000", "47050", "48000", "46800"]}
 {"category": "Open", "question_type": "Aggregation", "question": "根據圖5，所有協助方案的申請/諮詢人數總和是多少？", "answer": "1030"}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據圖4中提供的數據，以下哪一項是兩個調整基準月的浮動利率房貸戶數總和？", "answer": "C", "choice": ["47800", "39800", "46800", "45800"]}
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2024年2月和3月的線上試算工具使用人數合計是4,400。", "answer": "是", "question_group": 918}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，2024年2月和3月的線上試算工具使用人數合計是4,400。", "answer": "是", "question_group": 918}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2024年2月和3月的線上試算工具使用人數合計是4,000。", "answer": "否", "question_group": 918}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，2024年2月和3月的線上試算工具使用人數合計是4,000。", "answer": "否", "question_group": 918}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據下圖，所有專案類型的總戶數為9750。", "answer": "是", "question_group": 919}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖3，所有專案類型的總戶數為9750。", "answer": "是", "question_group": 919}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據下圖，所有專案類型的總戶數為9000。", "answer": "否", "question_group": 919}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖3，所有專案類型的總戶數為9000。", "answer": "否", "question_group": 919}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2024年7月的新房貸申請案件數量範圍是最小的。", "answer": "是", "question_group": 920}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，2024年7月的新房貸申請案件數量範圍是最小的。", "answer": "是", "question_group": 920}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2024年12月的新房貸申請案件數量範圍是最小的。", "answer": "否", "question_group": 920}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，2024年12月的新房貸申請案件數量範圍是最小的。", "answer": "否", "question_group": 920}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，調整前與調整後的最低年利率的平均值是1.94。", "answer": "是", "question_group": 921}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，調整前與調整後的最低年利率的平均值是1.94。", "answer": "是", "question_group": 921}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，調整前與調整後的最低年利率的平均值是1.80。", "answer": "否", "question_group": 921}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，調整前與調整後的最低年利率的平均值是1.80。", "answer": "否", "question_group": 921}
 

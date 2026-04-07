@@ -5,11 +5,11 @@
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據2024年到2025年的申請件數變化，以下哪個選項正確描述了增加量及其佔2024年申請件數的百分比？", "answer": "C", "choice": ["增加量是4,600件，佔2024年申請件數的百分比約為1.49%。", "增加量是8,000件，佔2024年申請件數的百分比約為4.99%。", "增加量是4,600件，佔2024年申請件數的百分比約為2.99%.", "增加量是4,600件，佔2024年申請件數的百分比約為3.49%。"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "假設數位化申請和紙本申請的平均審核時間各縮短 1 小時，請根據圖片中顯示的資料判斷兩者的新平均審核時間差距會是多少？", "answer": "C", "choice": ["1 小時", "2 小時", "0.5 小時", "0 小時"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表3的資料，2024年最終通過件數佔該年申請件數的百分比，以下哪一選項是正確的？", "answer": "D", "choice": ["91.50%", "90.75%", "94.25%", "92.06%"]}
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2024年到2025年的申請件數增加量是4,600件，佔2024年申請件數的百分比約為2.99%。", "answer": "是", "question_group": 1323}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，2024年到2025年的申請件數增加量是4,600件，佔2024年申請件數的百分比約為2.99%。", "answer": "是", "question_group": 1323}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2024年到2025年的申請件數增加量是5,000件，佔2024年申請件數的百分比約為3.5%。", "answer": "否", "question_group": 1323}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，2024年到2025年的申請件數增加量是5,000件，佔2024年申請件數的百分比約為3.5%。", "answer": "否", "question_group": 1323}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，數位化申請的新平均審核時間是 2.5 小時，而紙本申請的新平均審核時間是 4 小時。", "answer": "是", "question_group": 1324}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表4，數位化申請的新平均審核時間是 2.5 小時，而紙本申請的新平均審核時間是 4 小時。", "answer": "是", "question_group": 1324}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，數位化申請的新平均審核時間是 4 小時，而紙本申請的新平均審核時間是 2.5 小時。", "answer": "否", "question_group": 1324}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表4，數位化申請的新平均審核時間是 4 小時，而紙本申請的新平均審核時間是 2.5 小時。", "answer": "否", "question_group": 1324}
 

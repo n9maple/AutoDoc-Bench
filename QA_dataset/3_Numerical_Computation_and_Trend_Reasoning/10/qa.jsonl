@@ -8,15 +8,15 @@
 {"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2023年至2024年的數據，新興市場和發展中經濟體的經濟增長率趨勢如何？", "answer": "C", "choice": ["經濟增長率上升了0.4個百分點，顯示出適度上升趨勢。", "經濟增長率上升了0.7個百分點，顯示出明顯上升趨勢。", "經濟增長率上升了0.3個百分點，顯示出上升趨勢。", "經濟增長率下降了0.2個百分點，顯示出下降趨勢。"]}
 {"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2024年第三季度的經濟數據，以下哪個國家的利率出現了上升？請參考下方圖片中的利率變化圖表。", "answer": "C", "choice": ["德國在歐洲央行政策的影響下，利率將保持不變", "美國的利率保持穩定，並未受到增長趨勢影響", "印度", "日本的利率未顯示上升的迹象，仍低於其他國家"]}
 {"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表4，如果醫藥行業和電子行業的管理投資分別每年增長3%和2%，到第三年時，它們的管理投資百分比差距是多少？以下哪一項是正確的選擇？", "answer": "D", "choice": ["0.28%", "0.54%", "0.37%", "0.36%"]}
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，印度在2024年第三季度的利率從6.5%上升到6.75%。", "answer": "是", "question_group": 793}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖2，印度在2024年第三季度的利率從6.5%上升到6.75%。", "answer": "是", "question_group": 793}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，所有國家的利率在2024年第三季度都保持不變。", "answer": "否", "question_group": 793}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖2，所有國家的利率在2024年第三季度都保持不變。", "answer": "否", "question_group": 793}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2024年亞洲和非洲的增長率總和為8.5%。", "answer": "是", "question_group": 794}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，2024年亞洲和非洲的增長率總和為8.5%。", "answer": "是", "question_group": 794}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2024年亞洲和非洲的增長率總和為10%。", "answer": "否", "question_group": 794}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，2024年亞洲和非洲的增長率總和為10%。", "answer": "否", "question_group": 794}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023年歐洲和印度的平均百分比是6.75%。", "answer": "是", "question_group": 795}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，2023年歐洲和印度的平均百分比是6.75%。", "answer": "是", "question_group": 795}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023年歐洲和印度的平均百分比是7.5%。", "answer": "否", "question_group": 795}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，2023年歐洲和印度的平均百分比是7.5%。", "answer": "否", "question_group": 795}
 

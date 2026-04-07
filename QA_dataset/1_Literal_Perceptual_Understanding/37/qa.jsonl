@@ -8,15 +8,15 @@
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2023年的資料，下列哪一項最接近於平均處理時效（以天數計）？", "answer": "C", "choice": ["7.0 天", "4.8 天", "5.2 天", "5.0 天"]}
 {"category": "Open", "question_type": "Fact Lookup", "question": "不通過件數最低的審核階段有多少件？", "answer": "0"}
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖片所示，不通過件數最低的審核階段有多少件？", "answer": "C", "choice": ["3", "1", "0", "2"]}
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2023 年的平均處理時效是 5.2 天。", "answer": "是", "question_group": 94}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表6，2023 年的平均處理時效是 5.2 天。", "answer": "是", "question_group": 94}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2023 年的平均處理時效是 7.0 天。", "answer": "否", "question_group": 94}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表6，2023 年的平均處理時效是 7.0 天。", "answer": "否", "question_group": 94}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖片所示，至少有一個審核階段的不通過件數是 0。", "answer": "是", "question_group": 95}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖1，至少有一個審核階段的不通過件數是 0。", "answer": "是", "question_group": 95}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖片所示，所有審核階段的不通過件數都是 1 或更高。", "answer": "否", "question_group": 95}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖1，所有審核階段的不通過件數都是 1 或更高。", "answer": "否", "question_group": 95}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，持卡人中有80%的利率低於10%。", "answer": "是", "question_group": 96}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表5，持卡人中有80%的利率低於10%。", "answer": "是", "question_group": 96}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，持卡人中有50%的利率低於10%。", "answer": "否", "question_group": 96}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表5，持卡人中有50%的利率低於10%。", "answer": "否", "question_group": 96}
 

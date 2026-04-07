@@ -18,23 +18,23 @@
 {"category": "Open", "question_type": "Comparison", "question": "在圖8中，哪一個國家的收益率最低？", "answer": "0.6"}
 {"category": "Open", "question_type": "Ranking", "question": "在圖2中，GDP增長率為2.1%的國家在排名中位於第幾位？", "answer": "第2位"}
 {"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖5，市場類型的經濟增長率差異是多少？", "answer": "B", "choice": ["1.3%", "1.1%", "1.8%", "1.2%"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，國家C的GDP增長率是最低的，僅為2.0。", "answer": "是", "question_group": 738}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖2，國家C的GDP增長率是最低的，僅為2.0。", "answer": "是", "question_group": 738}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，國家A的GDP增長率是最低的。", "answer": "否", "question_group": 738}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖2，國家A的GDP增長率是最低的。", "answer": "否", "question_group": 738}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，歐洲從2023年初到2023年末的百分比變化是0.5%。", "answer": "是", "question_group": 739}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，歐洲從2023年初到2023年末的百分比變化是0.5%。", "answer": "是", "question_group": 739}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，中國從2023年初到2023年末的百分比變化是0.5%。", "answer": "否", "question_group": 739}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，中國從2023年初到2023年末的百分比變化是0.5%。", "answer": "否", "question_group": 739}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年東南亞的增長率比南亞高，兩者相差0.5個百分點。", "answer": "是", "question_group": 740}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，2023年東南亞的增長率比南亞高，兩者相差0.5個百分點。", "answer": "是", "question_group": 740}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年南亞的增長率比東南亞高，兩者相差0.5個百分點。", "answer": "否", "question_group": 740}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，2023年南亞的增長率比東南亞高，兩者相差0.5個百分點。", "answer": "否", "question_group": 740}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，土耳其的基準利率較高，並且比巴西的高出11.25個百分點。", "answer": "是", "question_group": 741}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，土耳其的基準利率較高，並且比巴西的高出11.25個百分點。", "answer": "是", "question_group": 741}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，巴西的基準利率較高，並且比土耳其的高出1.25個百分點。", "answer": "否", "question_group": 741}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，巴西的基準利率較高，並且比土耳其的高出1.25個百分點。", "answer": "否", "question_group": 741}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，印度的電子商務市場規模比其他國家至少大200億美元。", "answer": "是", "question_group": 742}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，印度的電子商務市場規模比其他國家至少大200億美元。", "answer": "是", "question_group": 742}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，印尼的電子商務市場規模比越南至少大200億美元。", "answer": "否", "question_group": 742}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，印尼的電子商務市場規模比越南至少大200億美元。", "answer": "否", "question_group": 742}
 

@@ -38,43 +38,43 @@
 {"category": "MCQ", "question_type": "Ranking", "question": "根據下列各險種的平均理賠金額，請將其從低到高排序。選項中哪一組是正確的排序？", "answer": "C", "choice": ["310000, 24500, 38000, 1100000", "1100000, 24500, 310000, 38000", "24500, 38000, 310000, 1100000", "38000, 1100000, 310000, 24500"]}
 {"category": "MCQ", "question_type": "Ranking", "question": "根據2023年兆豐保險保戶理賠滿意度指標的數值，請從以下選項中選擇正確的排序，從低到高。", "answer": "C", "choice": ["90, 88, 89", "87, 90, 89", "87, 88, 89", "88, 89, 90"]}
 {"category": "MCQ", "question_type": "Ranking", "question": "根據提供的圖片，數值最低的處理階段案件數是以下哪一個選項？", "answer": "C", "choice": ["38", "43", "49", "45"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據圖表，指標 28 的比例是所有指標中最低的。", "answer": "是", "question_group": 602}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖5，指標 28 的比例是所有指標中最低的。", "answer": "是", "question_group": 602}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據圖表，指標 72 的比例是所有指標中最低的。", "answer": "否", "question_group": 602}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖5，指標 72 的比例是所有指標中最低的。", "answer": "否", "question_group": 602}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據下圖，臨櫃申請的理賠審核工作天數是所有申請方式中最長的。", "answer": "是", "question_group": 603}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖3，臨櫃申請的理賠審核工作天數是所有申請方式中最長的。", "answer": "是", "question_group": 603}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據下圖，線上申請的理賠審核工作天數是所有申請方式中最長的。", "answer": "否", "question_group": 603}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖3，線上申請的理賠審核工作天數是所有申請方式中最長的。", "answer": "否", "question_group": 603}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖表，比例相差最大的兩個指標之間的差距是 61%。", "answer": "是", "question_group": 604}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖5，比例相差最大的兩個指標之間的差距是 61%。", "answer": "是", "question_group": 604}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖表，比例相差最大的兩個指標之間的差距是 17%。", "answer": "否", "question_group": 604}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖5，比例相差最大的兩個指標之間的差距是 17%。", "answer": "否", "question_group": 604}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年兆豐保險保戶理賠滿意度指標中，數值87是最低的滿意度指標。", "answer": "是", "question_group": 605}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖7，2023年兆豐保險保戶理賠滿意度指標中，數值87是最低的滿意度指標。", "answer": "是", "question_group": 605}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年兆豐保險保戶理賠滿意度指標中，數值89是最低的滿意度指標。", "answer": "否", "question_group": 605}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖7，2023年兆豐保險保戶理賠滿意度指標中，數值89是最低的滿意度指標。", "answer": "否", "question_group": 605}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，線上客服和電話客服的滿意度差距是2。", "answer": "是", "question_group": 606}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表8，線上客服和電話客服的滿意度差距是2。", "answer": "是", "question_group": 606}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，線上客服和電話客服的滿意度差距是5。", "answer": "否", "question_group": 606}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表8，線上客服和電話客服的滿意度差距是5。", "answer": "否", "question_group": 606}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，線上申請案件比例大於因申請文件不齊全或錯誤延誤案件比例。", "answer": "是", "question_group": 607}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，線上申請案件比例大於因申請文件不齊全或錯誤延誤案件比例。", "answer": "是", "question_group": 607}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，因申請文件不齊全或錯誤延誤案件比例大於線上申請案件比例。", "answer": "否", "question_group": 607}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，因申請文件不齊全或錯誤延誤案件比例大於線上申請案件比例。", "answer": "否", "question_group": 607}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，平均理賠金額從低到高的排序是24500元、38000元、310000元、1100000元。", "answer": "是", "question_group": 608}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖6，平均理賠金額從低到高的排序是24500元、38000元、310000元、1100000元。", "answer": "是", "question_group": 608}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，平均理賠金額從低到高的排序是310000元、24500元、1100000元、38000元。", "answer": "否", "question_group": 608}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖6，平均理賠金額從低到高的排序是310000元、24500元、1100000元、38000元。", "answer": "否", "question_group": 608}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年現金付款方式的使用率高於其他付款方式，高出1%。", "answer": "是", "question_group": 609}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，2023年現金付款方式的使用率高於其他付款方式，高出1%。", "answer": "是", "question_group": 609}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年其他付款方式的使用率高於現金付款方式，高出1%。", "answer": "否", "question_group": 609}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，2023年其他付款方式的使用率高於現金付款方式，高出1%。", "answer": "否", "question_group": 609}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據下圖，比例數據從低到高的正確排序是28%、72%、89%。", "answer": "是", "question_group": 610}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖5，比例數據從低到高的正確排序是28%、72%、89%。", "answer": "是", "question_group": 610}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據下圖，比例數據從低到高的正確排序是89%、72%、28%。", "answer": "否", "question_group": 610}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖5，比例數據從低到高的正確排序是89%、72%、28%。", "answer": "否", "question_group": 610}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，數值最低的處理階段案件數是49。", "answer": "是", "question_group": 611}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖8，數值最低的處理階段案件數是49。", "answer": "是", "question_group": 611}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，數值最低的處理階段案件數是622。", "answer": "否", "question_group": 611}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖8，數值最低的處理階段案件數是622。", "answer": "否", "question_group": 611}
 

@@ -24,31 +24,31 @@
 {"category": "MCQ", "question_type": "Ranking", "question": "根據提供的情境，哪個案件類型的暫停支付啟動比例最低？", "answer": "C", "choice": ["案件類型5的暫停支付啟動比例為5%", "案件類型1的暫停支付啟動比例為10%", "案件類型13的暫停支付啟動比例最低", "案件類型9的暫停支付啟動比例為13%與案件類型13相同"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據表3的資料，國內交易爭議和國際交易爭議的平均處理時效差異是以下哪一個選項所指的天數？", "answer": "C", "choice": ["23天", "17天", "19天", "21天"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據表2中的資料，以下哪一類型的申訴案件具有最高的缺少資料案件比例？", "answer": "A", "choice": ["盜刷申訴案件的缺少資料案件比例最高，為41%", "信用卡申訴案件的缺少資料案件比例為45%", "信用卡未授權使用的申訴案件缺少資料比例為35%", "盜刷申訴案件的缺少資料比例為39%"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，盜刷申訴案件的因缺資料延誤比例較全部申訴案件高出10個百分點。", "answer": "是", "question_group": 585}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，盜刷申訴案件的因缺資料延誤比例較全部申訴案件高出10個百分點。", "answer": "是", "question_group": 585}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，全部申訴案件的因缺資料延誤比例較盜刷申訴案件高出5個百分點。", "answer": "否", "question_group": 585}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，全部申訴案件的因缺資料延誤比例較盜刷申訴案件高出5個百分點。", "answer": "否", "question_group": 585}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，案件類型13的暫停支付啟動比例是最低的。", "answer": "是", "question_group": 586}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖6，案件類型13的暫停支付啟動比例是最低的。", "answer": "是", "question_group": 586}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，案件類型100的暫停支付啟動比例是最低的。", "answer": "否", "question_group": 586}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖6，案件類型100的暫停支付啟動比例是最低的。", "answer": "否", "question_group": 586}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，國內交易爭議的30日內結案率比國際交易爭議高14個百分點。", "answer": "是", "question_group": 587}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，國內交易爭議的30日內結案率比國際交易爭議高14個百分點。", "answer": "是", "question_group": 587}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，國際交易爭議的30日內結案率比國內交易爭議高14個百分點。", "answer": "否", "question_group": 587}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，國際交易爭議的30日內結案率比國內交易爭議高14個百分點。", "answer": "否", "question_group": 587}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，統計項目中比例最高的是 85%。", "answer": "是", "question_group": 588}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖4，統計項目中比例最高的是 85%。", "answer": "是", "question_group": 588}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，統計項目中比例最高的是 70%。", "answer": "否", "question_group": 588}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖4，統計項目中比例最高的是 70%。", "answer": "否", "question_group": 588}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2022 年暫停支付滿意度的分數比資訊透明度滿意度高 1 分。", "answer": "是", "question_group": 589}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，2022 年暫停支付滿意度的分數比資訊透明度滿意度高 1 分。", "answer": "是", "question_group": 589}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2022 年暫停支付滿意度的分數比資訊透明度滿意度高 2 分。", "answer": "否", "question_group": 589}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，2022 年暫停支付滿意度的分數比資訊透明度滿意度高 2 分。", "answer": "否", "question_group": 589}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，商品未如期寄送的件數比收到仿冒品的件數多525件。", "answer": "是", "question_group": 590}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，商品未如期寄送的件數比收到仿冒品的件數多525件。", "answer": "是", "question_group": 590}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，商品未如期寄送的件數比收到仿冒品的件數少525件。", "answer": "否", "question_group": 590}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，商品未如期寄送的件數比收到仿冒品的件數少525件。", "answer": "否", "question_group": 590}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖片，由於缺乏具體數據值，無法計算出通知與溝通指標中最高和最低指標的具體差距。", "answer": "是", "question_group": 591}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖5，由於缺乏具體數據值，無法計算出通知與溝通指標中最高和最低指標的具體差距。", "answer": "是", "question_group": 591}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖片，可以直接從中讀取具體數據值來計算通知與溝通指標中最高和最低指標的差距。", "answer": "否", "question_group": 591}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖5，可以直接從中讀取具體數據值來計算通知與溝通指標中最高和最低指標的差距。", "answer": "否", "question_group": 591}
 

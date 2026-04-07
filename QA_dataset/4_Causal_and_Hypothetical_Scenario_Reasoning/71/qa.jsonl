@@ -4,11 +4,11 @@
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "在所有案件中，若要將平均處理時效縮短到與國內交易爭議相同，根據圖片所示的資料，需要縮短多少天？", "answer": "C", "choice": ["縮短3天", "縮短1天", "縮短4天", "縮短7天"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據以下情境，在2022年的進入申復階段，若案件比例增加了2%，請問新的比例是多少？", "answer": "C", "choice": ["5%", "7%", "6%", "9%"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據所提供的數據，結案後48小時內完成結果通知比例與提供退費明細說明比例的總和是多少？請根據下列選項中判斷正確答案。", "answer": "C", "choice": ["192", "180", "186", "175"]}
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，全部案件的平均處理時效需要縮短4天才能達到與國內交易爭議相同的水平。", "answer": "是", "question_group": 1447}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，全部案件的平均處理時效需要縮短4天才能達到與國內交易爭議相同的水平。", "answer": "是", "question_group": 1447}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，全部案件的平均處理時效需要縮短5天才能達到與國內交易爭議相同的水平。", "answer": "否", "question_group": 1447}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，全部案件的平均處理時效需要縮短5天才能達到與國內交易爭議相同的水平。", "answer": "否", "question_group": 1447}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2022年的進入申復階段案件比例增加2%後為6%。", "answer": "是", "question_group": 1448}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表4，2022年的進入申復階段案件比例增加2%後為6%。", "answer": "是", "question_group": 1448}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2022年的進入申復階段案件比例增加2%後為7%。", "answer": "否", "question_group": 1448}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表4，2022年的進入申復階段案件比例增加2%後為7%。", "answer": "否", "question_group": 1448}
 

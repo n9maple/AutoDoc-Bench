@@ -4,11 +4,11 @@
 {"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖表顯示，從2022年到2030年，數位支付在全球零售交易中的佔比趨勢是怎樣的？", "answer": "C", "choice": ["數位支付的增長在所有國家中不均衡，特定地區的增長速度慢於其他地區。", "數位支付在全球零售交易中的佔比自2022年起持平於30%。", "數位支付在全球零售交易中的佔比呈現穩定上升趨勢。", "數位支付在全球零售交易中的佔比出現波動，特別是在假期期間。"]}
 {"category": "Open", "question_type": "Aggregation", "question": "根據圖3，指標類別的滿意度百分比的中位數是多少？", "answer": "80"}
 {"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖1的資料，從2025年到2030年，全球零售交易佔比的趨勢是什麼？", "answer": "B", "choice": ["全球零售交易中數位支付的佔比雖然上升，但增長幅度只能達到5個百分點，比預期低。", "全球零售交易中數位支付的佔比呈上升趨勢，增長了15個百分點。", "全球零售交易中數位支付的佔比在2030年達到高峰後，持平於高水平，未再增長。", "全球零售交易中數位支付的佔比在2025年至2030年間上升了30個百分點，顯示出增長非常強勁。"]}
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2025年中國和印度的經濟總量將合計為6萬億美元。", "answer": "是", "question_group": 1113}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，2025年中國和印度的經濟總量將合計為6萬億美元。", "answer": "是", "question_group": 1113}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2025年中國和印度的經濟總量將合計為7萬億美元。", "answer": "否", "question_group": 1113}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，2025年中國和印度的經濟總量將合計為7萬億美元。", "answer": "否", "question_group": 1113}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，2023年的亞洲經濟總量增長率為20%。", "answer": "是", "question_group": 1114}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，2023年的亞洲經濟總量增長率為20%。", "answer": "是", "question_group": 1114}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，2024年的亞洲經濟總量增長率為15%。", "answer": "否", "question_group": 1114}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，2024年的亞洲經濟總量增長率為15%。", "answer": "否", "question_group": 1114}
 

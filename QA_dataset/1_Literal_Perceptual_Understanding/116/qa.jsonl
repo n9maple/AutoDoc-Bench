@@ -12,19 +12,19 @@
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "在華南銀行的數位支付環境中，哪一項措施最直接降低了用戶未經授權登入的風險? 請根據圖片中的數字加密和用戶驗證措施來選擇。", "answer": "C", "choice": ["風險管理團隊的即時監控", "256位元的SSL加密", "雙重身份驗證。", "24/7 交易監控"]}
 {"category": "Open", "question_type": "Fact Lookup", "question": "在華南銀行的數位支付服務中，若用戶遇到技術問題，需要根據圖片描述比較自助支持和直接客戶服務之間，哪一種解決方案更能有效且快速地解決問題？", "answer": "A) 直接客戶服務更為有效，因為提供24/7的實時連線服務。 B) 自助支持適合解決所有問題，包括複雜技術問題。 C) FAQ比直接客戶服務更快解決緊急問題，因有詳細的問題和解決方案列表。 D) 直接客戶服務的平均回應時間為30秒，由專業團隊提供支持。 E) 自助支持有真人客服24/7待命提供幫助。"}
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "在華南銀行的數位支付服務中，若用戶遇到技術問題，需要根據圖片描述比較自助支持和直接客戶服務之間，哪一種解決方案更能有效且快速地解決問題？", "answer": "C", "choice": ["自助支持適合解決大多數問題，但複雜技術問題仍可能需要直接客戶服務的介入。", "FAQ有助於解決常見問題，但緊急或複雜問題則需要依賴24/7直接客戶服務。", "A) 直接客戶服務更為有效，因為提供24/7的實時連線服務。 B) 自助支持適合解決所有問題，包括複雜技術問題。 C) FAQ比直接客戶服務更快解決緊急問題，因有詳細的問題和解決方案列表。 D) 直接客戶服務的平均回應時間為30秒，由專業團隊提供支持。 E) 自助支持有真人客服24/7待命提供幫助。", "自助支持提供便利，但對於即時回應和專業協助，最佳選擇是直接客戶服務。"]}
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，直接客戶服務的平均回應時間為30秒，由專業團隊提供支持。", "answer": "是", "question_group": 257}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，直接客戶服務的平均回應時間為30秒，由專業團隊提供支持。", "answer": "是", "question_group": 257}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，FAQ比直接客戶服務更快解決緊急問題，因有詳細的問題和解決方案列表。", "answer": "否", "question_group": 257}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，FAQ比直接客戶服務更快解決緊急問題，因有詳細的問題和解決方案列表。", "answer": "否", "question_group": 257}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，雙重驗證增加了帳戶安全性約70%。", "answer": "是", "question_group": 258}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，雙重驗證增加了帳戶安全性約70%。", "answer": "是", "question_group": 258}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，80%的用戶已採用了生物識別登入方式。", "answer": "否", "question_group": 258}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，80%的用戶已採用了生物識別登入方式。", "answer": "否", "question_group": 258}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖片，華南銀行通過多層次安全措施將詐騙率降低至0.02%，增強了用戶信任。", "answer": "是", "question_group": 259}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，華南銀行通過多層次安全措施將詐騙率降低至0.02%，增強了用戶信任。", "answer": "是", "question_group": 259}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖片，華南銀行僅通過簡單的密碼驗證措施將詐騙率降低至0.02%。", "answer": "否", "question_group": 259}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，華南銀行僅通過簡單的密碼驗證措施將詐騙率降低至0.02%。", "answer": "否", "question_group": 259}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，華南銀行2023年在數位支付平台上的詐騙率為0.01%，低於行業平均水平，反映其卓越的風險管理能力。", "answer": "是", "question_group": 260}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，華南銀行2023年在數位支付平台上的詐騙率為0.01%，低於行業平均水平，反映其卓越的風險管理能力。", "answer": "是", "question_group": 260}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，華南銀行2023年在數位支付平台上的詐騙率高於行業平均水平，顯示其風險管理能力薄弱。", "answer": "否", "question_group": 260}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，華南銀行2023年在數位支付平台上的詐騙率高於行業平均水平，顯示其風險管理能力薄弱。", "answer": "否", "question_group": 260}
 

@@ -13,19 +13,19 @@
 {"category": "MCQ", "question_type": "Temporal Trend", "question": "根據下圖所示，從2024年到2026年，可再生能源的投資金額增長了多少億美元？", "answer": "C", "choice": ["2.0億美元", "2.4億美元", "2.2億美元", "2.6億美元"]}
 {"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖表，從2024年至2026年，員工滿意度的變化趨勢是什麼？", "answer": "C", "choice": ["員工滿意度在2024年至2025年間減少，2025年至2026年間增加", "員工滿意度在2026年達到最高點並保持不變", "員工滿意度每年增加4個百分點", "員工滿意度從2024年到2026年減少了2個百分點"]}
 {"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表1，2024年至2026年間，社區投資基金規模的平均年度增長率是多少？請選擇正確的選項。", "answer": "C", "choice": ["2", "1.2", "1", "2.5"]}
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023 年和 2024 年的支持項目數量總和是 35。", "answer": "是", "question_group": 1076}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，2023 年和 2024 年的支持項目數量總和是 35。", "answer": "是", "question_group": 1076}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023 年和 2024 年的支持項目數量總和是 30。", "answer": "否", "question_group": 1076}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，2023 年和 2024 年的支持項目數量總和是 30。", "answer": "否", "question_group": 1076}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖表，從2024年至2026年，員工滿意度每年增加4個百分點。", "answer": "是", "question_group": 1077}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖3，從2024年至2026年，員工滿意度每年增加4個百分點。", "answer": "是", "question_group": 1077}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖表，從2024年至2026年，員工滿意度每年減少2個百分點。", "answer": "否", "question_group": 1077}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖3，從2024年至2026年，員工滿意度每年減少2個百分點。", "answer": "否", "question_group": 1077}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2024年到2026年，社區投資基金規模的年均增長約為1。", "answer": "是", "question_group": 1078}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，從2024年到2026年，社區投資基金規模的年均增長約為1。", "answer": "是", "question_group": 1078}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2024年到2026年，社區投資基金規模的年均增長約為2。", "answer": "否", "question_group": 1078}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，從2024年到2026年，社區投資基金規模的年均增長約為2。", "answer": "否", "question_group": 1078}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2024年到2026年，供應商合規率每年增加10個百分點，呈現穩定上升的趨勢。", "answer": "是", "question_group": 1079}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表3，從2024年到2026年，供應商合規率每年增加10個百分點，呈現穩定上升的趨勢。", "answer": "是", "question_group": 1079}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2024年到2026年，供應商合規率每年減少5個百分點，呈現下降的趨勢。", "answer": "否", "question_group": 1079}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表3，從2024年到2026年，供應商合規率每年減少5個百分點，呈現下降的趨勢。", "answer": "否", "question_group": 1079}
 

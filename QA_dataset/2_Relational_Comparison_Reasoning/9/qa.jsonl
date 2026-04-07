@@ -4,11 +4,11 @@
 {"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的資料，在以下支付方式中，哪一種的交易總額是最低的？", "answer": "C", "choice": ["Google Pay", "支付寶", "歐付寶", "Apple Pay"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據提供的圖片，哪一項應用的風險調整回報率提升較高？", "answer": "C", "choice": ["風險預警系統的風險調整回報率提升較高", "投資組合最佳化的風險調整回報率提升較高", "動態風險管理的風險調整回報率提升較高", "市場趨勢分析的風險調整回報率提升較高"]}
 {"category": "Open", "question_type": "Comparison", "question": "依據表6，假設一家公司在未使用大數據和人工智慧技術時的貸款逾期率和反欺詐檢測準確率分別為12%和50%，使用這些技術後，哪一指標的改善幅度較大？", "answer": "反欺詐檢測準確率的改善幅度較大"}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，歐付寶在2023年的交易總額是最低的，為800億元。", "answer": "是", "question_group": 300}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，歐付寶在2023年的交易總額是最低的，為800億元。", "answer": "是", "question_group": 300}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，支付寶在2023年的交易總額是最低的，為2500億元。", "answer": "否", "question_group": 300}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，支付寶在2023年的交易總額是最低的，為2500億元。", "answer": "否", "question_group": 300}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，投資理財和保險科技在2023年的數值都是30，是所有類別中最低的。", "answer": "是", "question_group": 301}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，投資理財和保險科技在2023年的數值都是30，是所有類別中最低的。", "answer": "是", "question_group": 301}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，支付在2023年的數值是所有類別中最低的。", "answer": "否", "question_group": 301}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，支付在2023年的數值是所有類別中最低的。", "answer": "否", "question_group": 301}
 

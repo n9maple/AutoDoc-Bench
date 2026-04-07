@@ -7,11 +7,11 @@
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據2023年上半年（1月至6月）和下半年（7月至12月）的平均受理案件數比較，哪個期間的平均受理案件數較高？", "answer": "C", "choice": ["2023年上半年的平均受理案件數較低", "2023年下半年的平均受理案件數持平", "2023年下半年的平均受理案件數較高", "2023年上半年和下半年的平均受理案件數具有相似趨勢"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "在2023年總申訴案件數為1200件的情境下，若時限內補償案件比例為98%，請問有多少案件在時限內完成補償？", "answer": "C", "choice": ["1160件", "1170件", "1176件", "1180件"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表3的資料，如果2023年手機簡訊、電子郵件和掛號信的數量分別增加到原來的兩倍，三者的總數可能為以下哪一項？", "answer": "C", "choice": ["1020", "5000", "204", "500"]}
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2023年下半年的平均受理案件數高於上半年。", "answer": "是", "question_group": 1381}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表5，2023年下半年的平均受理案件數高於上半年。", "answer": "是", "question_group": 1381}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2023年上半年的平均受理案件數高於下半年。", "answer": "否", "question_group": 1381}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表5，2023年上半年的平均受理案件數高於下半年。", "answer": "否", "question_group": 1381}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2023年總申訴案件數為1200件，若時限內補償案件比例為98%，則有1176件案件在時限內完成補償。", "answer": "是", "question_group": 1382}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表6，2023年總申訴案件數為1200件，若時限內補償案件比例為98%，則有1176件案件在時限內完成補償。", "answer": "是", "question_group": 1382}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2023年總申訴案件數為1200件，若時限內補償案件比例為98%，則有1200件案件在時限內完成補償。", "answer": "否", "question_group": 1382}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表6，2023年總申訴案件數為1200件，若時限內補償案件比例為98%，則有1200件案件在時限內完成補償。", "answer": "否", "question_group": 1382}
 

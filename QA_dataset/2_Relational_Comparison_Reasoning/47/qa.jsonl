@@ -34,31 +34,31 @@
 {"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖5，以下哪一項描述正確地表達了2022年和2023年的管理規模差距？", "answer": "A", "choice": ["管理規模的差距為Y - X", "管理規模的差距為2023年的數據加上2022年的數據", "管理規模的差距為2022年的數據減去2023年的數據", "管理規模的差距為2023年的數據減去2022年的數據的絕對值"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據圖8，以下哪個稽核指標的數值是最低的？", "answer": "C", "choice": ["稽核指標數值為5的項目", "稽核指標數值為7的項目", "稽核指標數值為8的項目", "稽核指標數值為2的項目"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據圖4，以下哪個部門/要素的參與流程階段數最少？", "answer": "B", "choice": ["參與部門/要素: 6", "參與部門/要素: 1", "參與部門/要素: 5", "參與部門/要素: 3"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的單一標的曝險上限減去平均單一標的曝險比率的差值為8。", "answer": "是", "question_group": 451}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，2023年的單一標的曝險上限減去平均單一標的曝險比率的差值為8。", "answer": "是", "question_group": 451}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的平均單一標的曝險比率和單一標的曝險上限的差值為5。", "answer": "否", "question_group": 451}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，2023年的平均單一標的曝險比率和單一標的曝險上限的差值為5。", "answer": "否", "question_group": 451}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據圖表，2023年資金信託新開戶案件中，法人及團體客戶的數量少於個人客戶。", "answer": "是", "question_group": 452}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖3，2023年資金信託新開戶案件中，法人及團體客戶的數量少於個人客戶。", "answer": "是", "question_group": 452}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據圖表，2023年資金信託新開戶案件中，個人客戶的數量少於法人及團體客戶。", "answer": "否", "question_group": 452}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖3，2023年資金信託新開戶案件中，個人客戶的數量少於法人及團體客戶。", "answer": "否", "question_group": 452}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，數值 1 的參與部門/要素參與的階段數量最少。", "answer": "是", "question_group": 453}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖4，數值 1 的參與部門/要素參與的階段數量最少。", "answer": "是", "question_group": 453}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，數值 6 的參與部門/要素參與的階段數量最少。", "answer": "否", "question_group": 453}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖4，數值 6 的參與部門/要素參與的階段數量最少。", "answer": "否", "question_group": 453}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2022年和2023年的平均稽核報告審閱時效相差7天。", "answer": "是", "question_group": 454}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表7，2022年和2023年的平均稽核報告審閱時效相差7天。", "answer": "是", "question_group": 454}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2022年和2023年的平均稽核報告審閱時效相差10天。", "answer": "否", "question_group": 454}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表7，2022年和2023年的平均稽核報告審閱時效相差10天。", "answer": "否", "question_group": 454}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年高資產個人客戶和企業法人客戶的數量差是240。", "answer": "是", "question_group": 455}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，2023年高資產個人客戶和企業法人客戶的數量差是240。", "answer": "是", "question_group": 455}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年高資產個人客戶和企業法人客戶的數量差是200。", "answer": "否", "question_group": 455}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，2023年高資產個人客戶和企業法人客戶的數量差是200。", "answer": "否", "question_group": 455}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，信託財產管理合規率超過99%。", "answer": "是", "question_group": 456}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，信託財產管理合規率超過99%。", "answer": "是", "question_group": 456}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，信託財產管理合規率未超過99%。", "answer": "否", "question_group": 456}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，信託財產管理合規率未超過99%。", "answer": "否", "question_group": 456}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，發現的異常案件數量是通報主管機關並調查的案件數量的7.33倍。", "answer": "是", "question_group": 457}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，發現的異常案件數量是通報主管機關並調查的案件數量的7.33倍。", "answer": "是", "question_group": 457}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，發現的異常案件數量是通報主管機關並調查的案件數量的5倍。", "answer": "否", "question_group": 457}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，發現的異常案件數量是通報主管機關並調查的案件數量的5倍。", "answer": "否", "question_group": 457}
 

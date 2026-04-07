@@ -14,19 +14,19 @@
 {"category": "MCQ", "question_type": "Ranking", "question": "在2023年企業授信數位化申請比例中，以下哪一種遞交方式的數值最低？", "answer": "C", "choice": ["線上平台遞交", "電子郵件遞交", "實體遞交", "自助服務機遞交"]}
 {"category": "Open", "question_type": "Comparison", "question": "根據表2的資料，核准案件的平均信用紀錄評分比全部案件高出多少個百分比？", "answer": "核准案件的平均信用紀錄評分比全部案件高出約8.20%。"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "根據圖5，兩個預警/管理類型的件數差是多少？", "answer": "35"}
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，2023年企業授信數位化申請中，實體遞交的數值是最低的。", "answer": "是", "question_group": 444}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖2，2023年企業授信數位化申請中，實體遞交的數值是最低的。", "answer": "是", "question_group": 444}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，2023年企業授信數位化申請中，線上遞交的數值是最低的。", "answer": "否", "question_group": 444}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖2，2023年企業授信數位化申請中，線上遞交的數值是最低的。", "answer": "否", "question_group": 444}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年企業授信數位化申請的線上遞交比例與實體遞交比例的差距是24.0%。", "answer": "是", "question_group": 445}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖2，2023年企業授信數位化申請的線上遞交比例與實體遞交比例的差距是24.0%。", "answer": "是", "question_group": 445}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年企業授信數位化申請的線上遞交比例與實體遞交比例的差距是30.0%。", "answer": "否", "question_group": 445}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖2，2023年企業授信數位化申請的線上遞交比例與實體遞交比例的差距是30.0%。", "answer": "否", "question_group": 445}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，核准案件的平均信用紀錄評分比所有案件高1.0分。", "answer": "是", "question_group": 446}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，核准案件的平均信用紀錄評分比所有案件高1.0分。", "answer": "是", "question_group": 446}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，核准案件的平均信用紀錄評分比所有案件高2.0分。", "answer": "否", "question_group": 446}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，核准案件的平均信用紀錄評分比所有案件高2.0分。", "answer": "否", "question_group": 446}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，第一個類型和第二個類型的件數差距為35。", "answer": "是", "question_group": 447}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖5，第一個類型和第二個類型的件數差距為35。", "answer": "是", "question_group": 447}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，第一個類型和第二個類型的件數差距為25。", "answer": "否", "question_group": 447}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖5，第一個類型和第二個類型的件數差距為25。", "answer": "否", "question_group": 447}
 

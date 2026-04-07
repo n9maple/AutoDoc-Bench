@@ -18,19 +18,19 @@
 {"category": "Open", "question_type": "Difference Calculation", "question": "在圖1中，滿意度百分比最小和最大的功能領域之間的差值是多少？", "answer": "17"}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據圖4，台北市與高雄市的受訪者數量差距為多少？以下哪一項是正確的？", "answer": "B", "choice": ["26", "24", "20", "18"]}
 {"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖1中滿意度百分比的數據，滿意度百分比最小和最大的功能領域之間的差值是多少？", "answer": "D", "choice": ["22", "12", "10", "17"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，功能領域的滿意度百分比是所有領域中最低的，為 68%。", "answer": "是", "question_group": 269}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，功能領域的滿意度百分比是所有領域中最低的，為 68%。", "answer": "是", "question_group": 269}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，功能領域的滿意度百分比是所有領域中最高的，為 68%。", "answer": "否", "question_group": 269}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，功能領域的滿意度百分比是所有領域中最高的，為 68%。", "answer": "否", "question_group": 269}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據下圖，第二個安全措施的受訪者比例比第一個安全措施高出33%。", "answer": "是", "question_group": 270}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖7，第二個安全措施的受訪者比例比第一個安全措施高出33%。", "answer": "是", "question_group": 270}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據下圖，第二個安全措施的受訪者比例與第一個安全措施相同。", "answer": "否", "question_group": 270}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖7，第二個安全措施的受訪者比例與第一個安全措施相同。", "answer": "否", "question_group": 270}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，企業主或自營業者與其他類別的比例差異為2.0%。", "answer": "是", "question_group": 271}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖3，企業主或自營業者與其他類別的比例差異為2.0%。", "answer": "是", "question_group": 271}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，企業主或自營業者與其他類別的比例差異為5.0%。", "answer": "否", "question_group": 271}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖3，企業主或自營業者與其他類別的比例差異為5.0%。", "answer": "否", "question_group": 271}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，滿意度最低的項目是平台安全性，其滿意度比滿意度最高的項目低17個百分點。", "answer": "是", "question_group": 272}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，滿意度最低的項目是平台安全性，其滿意度比滿意度最高的項目低17個百分點。", "answer": "是", "question_group": 272}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，滿意度最低的項目是客戶服務，其滿意度比滿意度最高的項目低10個百分點。", "answer": "否", "question_group": 272}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，滿意度最低的項目是客戶服務，其滿意度比滿意度最高的項目低10個百分點。", "answer": "否", "question_group": 272}
 

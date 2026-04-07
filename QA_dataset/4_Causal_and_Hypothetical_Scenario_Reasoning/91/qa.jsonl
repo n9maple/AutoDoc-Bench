@@ -1,6 +1,6 @@
 {"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果預借現金的市場平均水平提高了1%，目前的調整後利率將比新的市場平均水平低多少個百分點？", "answer": "1.5 個百分點"}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "若預借現金的市場平均水平提高了1%，根據下圖顯示的調整後利率，這個利率將比新的市場平均水平低多少個百分點？", "answer": "C", "choice": ["2.5 個百分點", "1.2 個百分點", "1.5 個百分點", "1.8 個百分點"]}
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，若預借現金的市場平均水平提高了1%，調整後利率將比新的市場平均水平低1.5個百分點。", "answer": "是", "question_group": 1499}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表5，若預借現金的市場平均水平提高了1%，調整後利率將比新的市場平均水平低1.5個百分點。", "answer": "是", "question_group": 1499}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，若預借現金的市場平均水平提高了1%，調整後利率將比新的市場平均水平低0.5個百分點。", "answer": "否", "question_group": 1499}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表5，若預借現金的市場平均水平提高了1%，調整後利率將比新的市場平均水平低0.5個百分點。", "answer": "否", "question_group": 1499}
 

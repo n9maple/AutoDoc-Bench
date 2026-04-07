@@ -21,27 +21,27 @@
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖片所示，永豐金證券如何依風險屬性及年收入差異，提供不同投資人客製化的產品建議？以下哪一項最準確描述了三種風險類型對應的主要投資產品組合及兩個收入群體在資產配置上的策略差異？", "answer": "C", "choice": ["保守型投資人主要投資股票型基金和成長型股票，穩健型則偏向平衡型基金與優質ETF，積極型則以定存及投資等級債券為主；年收入低於60萬元者建議增加槓桿型ETF配置，高收入者則以低風險產品為主以維持資金安全。", "永豐金證券建議所有投資人主要配置股票型基金，將風險屬性忽略不提；收入低於60萬元者避免投資股票，收入超過120萬元者則完全不建議槓桿型ETF，以防風險過高。", "永豐金證券將投資人分為保守型、穩健型及積極型，分別推薦低風險定存與投資等級債券、平衡型基金搭配部分股票基金，以及高收益債與槓桿型ETF；年收入低於60萬元者優先選擇高流動性低波動產品以降低風險，收入超過120萬元且為積極型者則約73%配置於股票或高風險基金，資產配置更積極。", "根據風險屬性，保守型以貨幣型基金為主，穩健型則以高收益債券為主，而積極型則以定存及投資等級債券為核心；對於年收入較低者，建議專注長期成長投資，反之高收入者則應保持資產高流動性確保靈活調整。"]}
 {"category": "Open", "question_type": "Fact Lookup", "question": "根據圖片中2023年永豐金證券投資風險評估數據，請比較在新開戶、調整理財目標及購買新產品三種情境下，系統自動調用風險屬性與風險提示機制的運作，並判斷該機制在防範不適合交易方面的效果，下列說明何者正確？", "answer": "永豐金證券系統於新開戶、目標調整及購買新產品時自動調用客戶最新風險屬性，對保守型客戶選高風險商品時給予風險提示並要求確認或諮詢，2023年該機制有效避免約15%的潛在不適合交易。"}
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖片中2023年永豐金證券投資風險評估數據，請比較在新開戶、調整理財目標及購買新產品三種情境下，系統自動調用風險屬性與風險提示機制的運作，並判斷該機制在防範不適合交易方面的效果，下列說明何者正確？", "answer": "C", "choice": ["系統僅在客戶新開戶時自動調用風險屬性，調整理財目標及購買新產品階段不啟動風險提示，導致動態管理不足。", "風險提示機制僅於購買新型投資商品時啟動，客戶在新開戶及調整理財目標時不會自動調用風險屬性，忽視持續更新的重要性。", "永豐金證券系統於新開戶、目標調整及購買新產品時自動調用客戶最新風險屬性，對保守型客戶選高風險商品時給予風險提示並要求確認或諮詢，2023年該機制有效避免約15%的潛在不適合交易。", "所有客戶選擇高風險商品時系統均會強制給予相同風險提示與諮詢要求，缺乏根據客戶風險屬性做差異化管理。"]}
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，超過47%的投資人在市場波動超過10%時感到焦慮。", "answer": "是", "question_group": 149}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，超過47%的投資人在市場波動超過10%時感到焦慮。", "answer": "是", "question_group": 149}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，約68%的投資者能接受年度資產損失超過10%。", "answer": "否", "question_group": 149}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，約68%的投資者能接受年度資產損失超過10%。", "answer": "否", "question_group": 149}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，永豐金證券系統於新開戶、目標調整及購買新產品時自動調用客戶最新風險屬性，對保守型客戶選高風險商品時給予風險提示並要求確認或諮詢，2023年該機制有效避免約15%的潛在不適合交易。", "answer": "是", "question_group": 150}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，永豐金證券系統於新開戶、目標調整及購買新產品時自動調用客戶最新風險屬性，對保守型客戶選高風險商品時給予風險提示並要求確認或諮詢，2023年該機制有效避免約15%的潛在不適合交易。", "answer": "是", "question_group": 150}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，永豐金證券系統在2023年未能有效避免任何潛在不適合交易的情況。", "answer": "否", "question_group": 150}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，永豐金證券系統在2023年未能有效避免任何潛在不適合交易的情況。", "answer": "否", "question_group": 150}
 
-{"category": "YesNo", "question_type": "Part-to-Whole", "question": "根據表格，保守型的投資人佔總體的55.0%。", "answer": "是", "question_group": 151}
+{"category": "YesNo", "question_type": "Part-to-Whole", "question": "根據圖2，保守型的投資人佔總體的55.0%。", "answer": "是", "question_group": 151}
 
-{"category": "YesNo", "question_type": "Part-to-Whole", "question": "根據表格，積極型的投資人佔總體的55.0%。", "answer": "否", "question_group": 151}
+{"category": "YesNo", "question_type": "Part-to-Whole", "question": "根據圖2，積極型的投資人佔總體的55.0%。", "answer": "否", "question_group": 151}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，問卷透過分析投資者的風險承受能力及投資經驗，涵蓋財務狀況、投資目標與風險承受度，因應從新手到資深投資者的需求並適用於不同金融商品風險。", "answer": "是", "question_group": 152}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，問卷透過分析投資者的風險承受能力及投資經驗，涵蓋財務狀況、投資目標與風險承受度，因應從新手到資深投資者的需求並適用於不同金融商品風險。", "answer": "是", "question_group": 152}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，問卷僅針對有經驗的投資者設計，不考慮新手投資者的需求。", "answer": "否", "question_group": 152}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，問卷僅針對有經驗的投資者設計，不考慮新手投資者的需求。", "answer": "否", "question_group": 152}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖片，永豐金證券將年收入超過120萬元且為積極型的投資人約73%配置於股票或高風險基金。", "answer": "是", "question_group": 153}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，永豐金證券將年收入超過120萬元且為積極型的投資人約73%配置於股票或高風險基金。", "answer": "是", "question_group": 153}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖片，永豐金證券將年收入低於60萬元的保守型投資人主要配置於高收益債與槓桿型ETF。", "answer": "否", "question_group": 153}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，永豐金證券將年收入低於60萬元的保守型投資人主要配置於高收益債與槓桿型ETF。", "answer": "否", "question_group": 153}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖表，65歲以上的年齡段比例是所有年齡段中最低的。", "answer": "是", "question_group": 154}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表2，65歲以上的年齡段比例是所有年齡段中最低的。", "answer": "是", "question_group": 154}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖表，18到24歲的年齡段比例是所有年齡段中最低的。", "answer": "否", "question_group": 154}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表2，18到24歲的年齡段比例是所有年齡段中最低的。", "answer": "否", "question_group": 154}
 

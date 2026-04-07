@@ -1,7 +1,7 @@
 {"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果高收入和高教育水平這兩類的計劃使用百分比增加了10%，那麼這兩類的總計劃使用百分比是多少？", "answer": "75%"}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據提供的圖片，如果高收入和高教育水平的計劃使用百分比各增加10%，那麼這兩類的總計劃使用百分比是？", "answer": "C", "choice": ["100%", "85%", "75%", "60%"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表6的資料，從2023年到2026年，物聯網的增長率每年的平均變化是多少？以下哪一項是正確的答案？", "answer": "C", "choice": ["1.5%", "0.3333%", "0.8333%", "0.5%"]}
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，如果高收入和高教育水平的計劃使用百分比各增加10%，那麼這兩類的總計劃使用百分比是75%。", "answer": "是", "question_group": 1497}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表4，如果高收入和高教育水平的計劃使用百分比各增加10%，那麼這兩類的總計劃使用百分比是75%。", "answer": "是", "question_group": 1497}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，如果高收入和高教育水平的計劃使用百分比各增加10%，那麼這兩類的總計劃使用百分比是65%。", "answer": "否", "question_group": 1497}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表4，如果高收入和高教育水平的計劃使用百分比各增加10%，那麼這兩類的總計劃使用百分比是65%。", "answer": "否", "question_group": 1497}
 

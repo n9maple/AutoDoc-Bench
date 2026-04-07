@@ -7,19 +7,19 @@
 {"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，哪一年即時交易監控的導入率較高？", "answer": "C", "choice": ["2023年即時交易監控導入率610%。", "2022年即時交易監控導入率350%。", "2023年即時交易監控導入率較高。", "2023年即時交易監控導入率與2021年持平。"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "在下列行業中，哪一個行業導入家數最少？", "answer": "C", "choice": ["保險業", "銀行業", "其他金融機構", "租賃業"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據提供的數據，2021 年的高階/跨域人才供給數相比於 2019 年的變化是什麼？", "answer": "C", "choice": ["2021 年的高階/跨域人才供給數比 2019 年增加了 200。", "2021 年的高階/跨域人才供給數比 2019 年減少了 2000。", "2021 年的高階/跨域人才供給數比 2019 年增加了 650。", "2021 年的高階/跨域人才供給數比 2019 年增加了 900。"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2021 年的高階/跨域人才供給數比 2019 年增加了 650。", "answer": "是", "question_group": 576}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表8，2021 年的高階/跨域人才供給數比 2019 年增加了 650。", "answer": "是", "question_group": 576}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2021 年的高階/跨域人才供給數比 2019 年減少了 650。", "answer": "否", "question_group": 576}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表8，2021 年的高階/跨域人才供給數比 2019 年減少了 650。", "answer": "否", "question_group": 576}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2017至2022年間行動支付交易金額的增長百分比最高。", "answer": "是", "question_group": 577}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，2017至2022年間行動支付交易金額的增長百分比最高。", "answer": "是", "question_group": 577}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2022至2023年間行動支付交易金額的增長百分比最高。", "answer": "否", "question_group": 577}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，2022至2023年間行動支付交易金額的增長百分比最高。", "answer": "否", "question_group": 577}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，美國在2022年的收益是最高的，為120億美元。", "answer": "是", "question_group": 578}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，美國在2022年的收益是最高的，為120億美元。", "answer": "是", "question_group": 578}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，亞洲在2022年的收益是最高的，為80億美元。", "answer": "否", "question_group": 578}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，亞洲在2022年的收益是最高的，為80億美元。", "answer": "否", "question_group": 578}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年上線的API服務數量比2022年增加了80。", "answer": "是", "question_group": 579}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，2023年上線的API服務數量比2022年增加了80。", "answer": "是", "question_group": 579}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年上線的API服務數量比2022年增加了100。", "answer": "否", "question_group": 579}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，2023年上線的API服務數量比2022年增加了100。", "answer": "否", "question_group": 579}
 

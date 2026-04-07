@@ -2,11 +2,11 @@
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "在以下幾種貨幣中，根據圖表所示，哪一種貨幣在過去一個月內的利率最低？", "answer": "C", "choice": ["美元", "人民幣", "日圓", "韓元"]}
 {"category": "Open", "question_type": "Fact Lookup", "question": "在所有的幣別_存款天期中，哪一個的利率最高？", "answer": "由於缺乏具體的利率數據，無法確定哪一個幣別_存款天期的利率最高。"}
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "根據提供的利率數據，以下哪一個幣別的存款天期利率可能最高？請根據圖片中的數據進行判斷。", "answer": "C", "choice": ["在當前市場中，港元的存款天期利率通常較其他貨幣更具吸引力，應更高。", "美元的存款利率常被認為是基準，但目前缺乏更新的利率數據來支持這一說法。", "無法確定哪一個幣別的存款天期利率最高，因為缺乏具體的利率數據。", "英鎊的利率歷史上曾高於其他幣別，但在此情境中無法確認無確切數據。"]}
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，日圓在過去一個月內的利率為0.05%，是最低的利率。", "answer": "是", "question_group": 119}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表2，日圓在過去一個月內的利率為0.05%，是最低的利率。", "answer": "是", "question_group": 119}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，美元在過去一個月內的利率為0.05%，是最低的利率。", "answer": "否", "question_group": 119}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表2，美元在過去一個月內的利率為0.05%，是最低的利率。", "answer": "否", "question_group": 119}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，無法確定哪一個幣別的存款天期利率最高，因為缺乏具體的利率數據。", "answer": "是", "question_group": 120}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖1，無法確定哪一個幣別的存款天期利率最高，因為缺乏具體的利率數據。", "answer": "是", "question_group": 120}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，可以確定某個特定幣別的存款天期利率最高。", "answer": "否", "question_group": 120}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖1，可以確定某個特定幣別的存款天期利率最高。", "answer": "否", "question_group": 120}
 

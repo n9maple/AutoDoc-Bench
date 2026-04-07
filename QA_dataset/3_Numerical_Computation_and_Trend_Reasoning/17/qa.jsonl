@@ -25,27 +25,27 @@
 {"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表3的資料，如果未來三年每年區塊鏈應用的市場份額增長2%，那麼三年後的市場份額可能會是以下哪一項？", "answer": "C", "choice": ["27.00%", "25.50%", "26.53%", "28.15%"]}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據表6的資料，2023年支付、保險和投資的總支出可能是多少？", "answer": "C", "choice": ["50", "62", "53", "59"]}
 {"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖7，從2022年到2023年，台灣金融科技企業的海外市場收入比例增加了多少百分比？以下哪一項是正確的增幅？", "answer": "C", "choice": ["8% (高於實際增長)", "12% (極端高估增長)", "5%", "4% (低於預測增長)"]}
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，2023年台灣金融科技企業的海外市場收入比例比2022年增加了5個百分點，顯著增加。", "answer": "是", "question_group": 817}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖7，2023年台灣金融科技企業的海外市場收入比例比2022年增加了5個百分點，顯著增加。", "answer": "是", "question_group": 817}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，2023年台灣金融科技企業的海外市場收入比例與2022年相比沒有變化。", "answer": "否", "question_group": 817}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖7，2023年台灣金融科技企業的海外市場收入比例與2022年相比沒有變化。", "answer": "否", "question_group": 817}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，支付和投資的數值總和是38。", "answer": "是", "question_group": 818}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表6，支付和投資的數值總和是38。", "answer": "是", "question_group": 818}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，支付和投資的數值總和是42。", "answer": "否", "question_group": 818}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表6，支付和投資的數值總和是42。", "answer": "否", "question_group": 818}
 
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，從2022年到2023年，銀行客戶數位渠道使用率增加了27.27%。", "answer": "是", "question_group": 819}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖5，從2022年到2023年，銀行客戶數位渠道使用率增加了27.27%。", "answer": "是", "question_group": 819}
 
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，從2022年到2023年，銀行客戶數位渠道使用率增加了15%。", "answer": "否", "question_group": 819}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖5，從2022年到2023年，銀行客戶數位渠道使用率增加了15%。", "answer": "否", "question_group": 819}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖表數據，行動支付普及率從2022年的56%逐年穩定增長，至2025年達到75%。", "answer": "是", "question_group": 820}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖6，行動支付普及率從2022年的56%逐年穩定增長，至2025年達到75%。", "answer": "是", "question_group": 820}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖表數據，行動支付普及率在2022年至2025年期間保持不變，始終為56%。", "answer": "否", "question_group": 820}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖6，行動支付普及率在2022年至2025年期間保持不變，始終為56%。", "answer": "否", "question_group": 820}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖片顯示的數據，從2020年至2023年，台灣金融科技初創企業的增加數量是60。", "answer": "是", "question_group": 821}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖4，從2020年至2023年，台灣金融科技初創企業的增加數量是60。", "answer": "是", "question_group": 821}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖片顯示的數據，從2020年至2023年，台灣金融科技初創企業的增加數量是40。", "answer": "否", "question_group": 821}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖4，從2020年至2023年，台灣金融科技初創企業的增加數量是40。", "answer": "否", "question_group": 821}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，2023年的人才供應缺口比2022年增加了5個百分點。", "answer": "是", "question_group": 822}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表4，2023年的人才供應缺口比2022年增加了5個百分點。", "answer": "是", "question_group": 822}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，2023年的人才供應缺口比2022年增加了10個百分點。", "answer": "否", "question_group": 822}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表4，2023年的人才供應缺口比2022年增加了10個百分點。", "answer": "否", "question_group": 822}
 

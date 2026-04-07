@@ -1,6 +1,6 @@
 {"category": "Open", "question_type": "Fact Lookup", "question": "第三個風險類型的管理措施數量是多少？", "answer": "4"}
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖片，第三個風險類型所需的管理措施數量是？", "answer": "C", "choice": ["3", "2", "4", "7"]}
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖片，第三個風險類型所需的管理措施數量是 4。", "answer": "是", "question_group": 227}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖4，第三個風險類型所需的管理措施數量是 4。", "answer": "是", "question_group": 227}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖片，第三個風險類型所需的管理措施數量是 3。", "answer": "否", "question_group": 227}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖4，第三個風險類型所需的管理措施數量是 3。", "answer": "否", "question_group": 227}
 

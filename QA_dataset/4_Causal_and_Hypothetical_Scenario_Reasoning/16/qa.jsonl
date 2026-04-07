@@ -1,6 +1,6 @@
 {"category": "Open", "question_type": "Multi-hop Reasoning", "question": "從2023年Q4到2024年Q2，中國製造業指數和人民幣匯率各上升了多少？", "answer": "中國製造業指數上升了1.2，人民幣匯率下降了0.1。"}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據圖片所示，從2023年Q4到2024年Q2，中國製造業指數和人民幣匯率的變化為何？", "answer": "C", "choice": ["中國製造業指數上升了1.3，人民幣匯率下降了0.2。", "中國製造業指數保持不變，人民幣匯率上升了0.1。", "中國製造業指數上升了1.2，人民幣匯率下降了0.1。", "中國製造業指數上升了0.9，人民幣匯率下降了0.1。"]}
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，從2023年Q4到2024年Q2，中國製造業指數上升了1.2，人民幣匯率下降了0.1。", "answer": "是", "question_group": 1248}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表6，從2023年Q4到2024年Q2，中國製造業指數上升了1.2，人民幣匯率下降了0.1。", "answer": "是", "question_group": 1248}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，從2023年Q4到2024年Q2，中國製造業指數下降了1.2，人民幣匯率上升了0.1。", "answer": "否", "question_group": 1248}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表6，從2023年Q4到2024年Q2，中國製造業指數下降了1.2，人民幣匯率上升了0.1。", "answer": "否", "question_group": 1248}
 

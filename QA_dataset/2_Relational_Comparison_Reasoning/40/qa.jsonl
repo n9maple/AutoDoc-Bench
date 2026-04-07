@@ -23,27 +23,27 @@
 {"category": "MCQ", "question_type": "Comparison", "question": "根據表2，以下哪些指標在2023Q1和2024Q1之間的數值變化幅度最大？", "answer": "D", "choice": ["年度淨利潤持平", "活躍資產管理用戶數量顯著減少", "市場滲透率小幅增長", "一站式資產管理用戶比例"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據圖4，以下哪一個指標在2025年的數值最低？", "answer": "B", "choice": ["數位金融用戶數年複合成長率(%)", "數位金融交易量年複合成長率(%)", "數位金融交易金額年複合成長率(%)", "數位金融服務普及率(%)"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據表5的資料，2023上半年和2024上半年哪一年的核貸時間較短，以及短了多少天？", "answer": "C", "choice": ["2024上半年的核貸時間較短，短12天。", "2023上半年的核貸時間較長，長10天。", "2024上半年的核貸時間較短，短20天。", "2024下半年的核貸時間較短，短15天。"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2024年的投資諮詢次數年增率為28%，這意味著2024年的次數比2023年增加了四分之一以上。", "answer": "是", "question_group": 417}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，2024年的投資諮詢次數年增率為28%，這意味著2024年的次數比2023年增加了四分之一以上。", "answer": "是", "question_group": 417}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2024年的投資諮詢次數年增率為28%，這意味著2024年的次數比2023年增加了不到四分之一。", "answer": "否", "question_group": 417}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，2024年的投資諮詢次數年增率為28%，這意味著2024年的次數比2023年增加了不到四分之一。", "answer": "否", "question_group": 417}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖表，資料加密機制升級次數在最左邊和最右邊年份的差距是 Y - X。", "answer": "是", "question_group": 418}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖3，資料加密機制升級次數在最左邊和最右邊年份的差距是 Y - X。", "answer": "是", "question_group": 418}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖表，資料加密機制升級次數在最左邊和最右邊年份的差距是 X + Y。", "answer": "否", "question_group": 418}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖3，資料加密機制升級次數在最左邊和最右邊年份的差距是 X + Y。", "answer": "否", "question_group": 418}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，指標A的數值在X年份中最低。", "answer": "是", "question_group": 419}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖3，指標A的數值在X年份中最低。", "answer": "是", "question_group": 419}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，指標A的數值在Y年份中最高。", "answer": "否", "question_group": 419}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖3，指標A的數值在Y年份中最高。", "answer": "否", "question_group": 419}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，智能客服的用戶滿意度比自助服務流程高2。", "answer": "是", "question_group": 420}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表9，智能客服的用戶滿意度比自助服務流程高2。", "answer": "是", "question_group": 420}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，智能客服的用戶滿意度比自助服務流程低2。", "answer": "否", "question_group": 420}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表9，智能客服的用戶滿意度比自助服務流程低2。", "answer": "否", "question_group": 420}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年台灣純網銀的客戶數量與傳統銀行的客戶數量差距是1400。", "answer": "是", "question_group": 421}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，2023年台灣純網銀的客戶數量與傳統銀行的客戶數量差距是1400。", "answer": "是", "question_group": 421}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年台灣純網銀的客戶數量與傳統銀行的客戶數量差距是400。", "answer": "否", "question_group": 421}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，2023年台灣純網銀的客戶數量與傳統銀行的客戶數量差距是400。", "answer": "否", "question_group": 421}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2024年上半年用戶滿意度更高，且數位貸款申請量也較多。", "answer": "是", "question_group": 422}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，2024年上半年用戶滿意度更高，且數位貸款申請量也較多。", "answer": "是", "question_group": 422}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年上半年用戶滿意度更高，且數位貸款申請量也較多。", "answer": "否", "question_group": 422}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，2023年上半年用戶滿意度更高，且數位貸款申請量也較多。", "answer": "否", "question_group": 422}
 

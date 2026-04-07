@@ -27,51 +27,51 @@
 {"category": "Open", "question_type": "Creative Scenario", "question": "你是某大型台灣傳統銀行的策略長。管理層在兩個極端選項間猶豫：A) 以大規模自動化與裁員快速追求短期成本削減；B) 大量投資大數據/AI與客戶體驗以追求長期競爭力但短期成本上升。請基於附圖中關鍵數據（麥肯錫：數位化可降成本20–30%；純數位銀行市占約5%；單筆交易處理時間可縮短約40%；數位化可提升客戶滿意約20%），完成以下三項任務（注意：答題需直接運用圖片內數字作為前提，若未見圖片不能完整回答）：1) 設計一個具體三年分階段策略（每年重點）—列出每年主要措施、量化階段性目標與KPI、年度投資/資金來源分配（說明每年從自動化節省中保留多少%作再投資）、以及明確的季度閘門/決策觸發條件（含數值閾值）；2) 以可比較指標（三年累計成本變化、客戶滿意度變動、數位交易率、員工淨裁減/再就業率、重大資安/合規事件次數）將你的平衡方案與極端方案A與B進行對比，並用數字說明優劣與風險；3) 針對四大關鍵風險（資安與隱私、數位落差/客戶流失、員工再就業與士氣、監管合規）提出可衡量的緩解措施與各自KPI（列出具體數值閾值或目標）。答案須簡潔、可操作且直接引用圖中數據作為假設基礎。", "answer": "請從下列選項中選出最符合原始答案（以附圖數據為前提）的策略敘述：\n\nA) 極端A：快速大規模自動化＋裁員 — 以一年內大幅裁員與大量RPA/自動化追求短期最大化降本，預期Y1成本降約18%、三年內達約25%（接近期望20–30%上限）；但CSAT於三年內下降約8–12%、數位交易率僅達約50%、員工淨裁減約20–30%、重大資安/合規事件風險上升。\n\nB) 極端B：重度投資AI/UX不裁員 — 將主要資金投入AI/UX與客戶體驗，短期Y1成本可能上升約+5%，若AI/UX成功三年內成本可回落至約-20%至-22%，CSAT成長可達+20%上下、數位交易率可達約80%、員工淨裁減≈0%，但承擔高前期資金壓力與投資回收風險。\n\nC) 平衡方案（正確選項）：速效自動化＋漸進AI/UX投資，將每年自動化節省的30%保留做再投資；目標為Y1成本下降8–12%、Y3累計成本下降20–30%（達麥肯錫潛力範圍）、單筆交易時間縮短接近圖中40%潛力、CSAT於三年內提升約15–20%、數位交易率>70%、員工淨裁減<8%且優先內部轉崗，重大資安/合規事件目標為0。\n\nD) 外包優先策略：大量外包非核心流程以節省成本並小幅投資AI/UX，預期短期成本降幅中等（Y1約10%）、長期成本改善依賴外包合約，CSAT與數位交易提升有限（Y3數位交易率約55%），風險為外部控制不足與較高合規/資安暴露。\n\n請選出最貼近原始答案之選項（會參考附圖數據如“數位化可降成本20–30%、單筆交易可縮40%、CSAT可增20%”作判斷）。"}
 {"category": "MCQ", "question_type": "Creative Scenario", "question": "你是某大型台灣傳統銀行的策略長。管理層在兩個極端選項間猶豫：A) 以大規模自動化與裁員快速追求短期成本削減；B) 大量投資大數據/AI與客戶體驗以追求長期競爭力但短期成本上升。請基於附圖中關鍵數據（麥肯錫：數位化可降成本20–30%；純數位銀行市占約5%；單筆交易處理時間可縮短約40%；數位化可提升客戶滿意約20%），完成以下三項任務（注意：答題需直接運用圖片內數字作為前提，若未見圖片不能完整回答）：1) 設計一個具體三年分階段策略（每年重點）—列出每年主要措施、量化階段性目標與KPI、年度投資/資金來源分配（說明每年從自動化節省中保留多少%作再投資）、以及明確的季度閘門/決策觸發條件（含數值閾值）；2) 以可比較指標（三年累計成本變化、客戶滿意度變動、數位交易率、員工淨裁減/再就業率、重大資安/合規事件次數）將你的平衡方案與極端方案A與B進行對比，並用數字說明優劣與風險；3) 針對四大關鍵風險（資安與隱私、數位落差/客戶流失、員工再就業與士氣、監管合規）提出可衡量的緩解措施與各自KPI（列出具體數值閾值或目標）。答案須簡潔、可操作且直接引用圖中數據作為假設基礎。", "answer": "C", "choice": ["將圖中「單筆交易處理時間縮短40%」直接等同為成本也會等比例下降40%，因此主張僅大規模投入流程自動化（RPA/自動化工具），不追加AI/UX或客戶導向投資；預期三年累計成本下降約40%、CSAT無顯著提升、數位交易率中等提升。", "將麥肯錫所述「數位化可降成本20–30%」誤讀為每年均可達成20%，採複利計算規劃為Y1=20%、Y2=20%、Y3=20%，三年後累計降本約48%，並主張把所有自動化節省的100%用於短期債務回收以快速恢復財務狀況。", "請從下列選項中選出最符合原始答案（以附圖數據為前提）的策略敘述：", "以大規模裁員為主但承諾高比例再投資：Y1以約18%人員減編達成降本，承諾將節省款項的50%投入AI/UX以期三年回收；但裁員會使內部AI部署與變革能力下降約50%、內部轉崗率<40%、外部再就業率<40%，投資回收期可能延長至>5年，使承諾難以兌現。"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表5的資料，如果反欺詐檢測的準確率每年增加10%，而動態風險管理的風險調整回報率每年減少3%，那麼5年後反欺詐檢測的準確率和動態風險管理的風險調整回報率分別是多少？以下選項中哪些是正確的？", "answer": "B", "choice": ["反欺詐檢測的準確率約為49.50%，動態風險管理的風險調整回報率約為13.50%。", "反欺詐檢測的準確率約為48.31%，動態風險管理的風險調整回報率約為12.86%。", "反欺詐檢測的準確率約為51.67%，動態風險管理的風險調整回報率約為15.00%。", "反欺詐檢測的準確率約為40.31%，動態風險管理的風險調整回報率約為9%。"]}
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，支付寶和LINE Pay的交易總額相加後，減去Apple Pay的交易總額，結果是3000億元。", "answer": "是", "question_group": 1231}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表2，支付寶和LINE Pay的交易總額相加後，減去Apple Pay的交易總額，結果是3000億元。", "answer": "是", "question_group": 1231}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，支付寶和LINE Pay的交易總額相加後，減去Apple Pay的交易總額，結果是4000億元。", "answer": "否", "question_group": 1231}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表2，支付寶和LINE Pay的交易總額相加後，減去Apple Pay的交易總額，結果是4000億元。", "answer": "否", "question_group": 1231}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，若首要目標為降低貸款逾期率，應優先投資大數據，因為圖片顯示大數據可將貸款逾期率降低約20%。", "answer": "是", "question_group": 1232}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，若首要目標為降低貸款逾期率，應優先投資大數據，因為圖片顯示大數據可將貸款逾期率降低約20%。", "answer": "是", "question_group": 1232}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，若首要目標為強化反欺詐偵測，應優先投資大數據，因為圖片顯示大數據可提升偵測率約10%。", "answer": "否", "question_group": 1232}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，若首要目標為強化反欺詐偵測，應優先投資大數據，因為圖片顯示大數據可提升偵測率約10%。", "answer": "否", "question_group": 1232}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據附圖，若未來手機銀行使用率升至90%，且政府進一步加快API開放與鼓勵FinTech資本投入，少數平台型FinTech或第三方中介整合多家銀行通道與用戶資料形成集中樞紐，因治理失衡或惡意商業行為可能導致大規模服務中斷或資料濫用，造成系統性負面影響。", "answer": "是", "question_group": 1233}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，若未來手機銀行使用率升至90%，且政府進一步加快API開放與鼓勵FinTech資本投入，少數平台型FinTech或第三方中介整合多家銀行通道與用戶資料形成集中樞紐，因治理失衡或惡意商業行為可能導致大規模服務中斷或資料濫用，造成系統性負面影響。", "answer": "是", "question_group": 1233}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據附圖，若未來手機銀行使用率升至90%，且政府進一步加快API開放與鼓勵FinTech資本投入，所有平台型FinTech和第三方中介將完全避免任何治理失衡或惡意商業行為，確保不會發生大規模服務中斷或資料濫用的系統性負面影響。", "answer": "否", "question_group": 1233}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，若未來手機銀行使用率升至90%，且政府進一步加快API開放與鼓勵FinTech資本投入，所有平台型FinTech和第三方中介將完全避免任何治理失衡或惡意商業行為，確保不會發生大規模服務中斷或資料濫用的系統性負面影響。", "answer": "否", "question_group": 1233}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，B 在降低貸款逾期率、提高反詐檢測準確度並降低誤報、在高波動期間的風險調整後報酬三項指標皆較 A 優。", "answer": "是", "question_group": 1234}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，B 在降低貸款逾期率、提高反詐檢測準確度並降低誤報、在高波動期間的風險調整後報酬三項指標皆較 A 優。", "answer": "是", "question_group": 1234}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，A 在降低貸款逾期率與反詐檢測上均優於 B。", "answer": "否", "question_group": 1234}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，A 在降低貸款逾期率與反詐檢測上均優於 B。", "answer": "否", "question_group": 1234}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，策略Alpha首先應該以隱私事件止血為首要，然後強化合規治理，再修復接口。", "answer": "是", "question_group": 1235}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，策略Alpha首先應該以隱私事件止血為首要，然後強化合規治理，再修復接口。", "answer": "是", "question_group": 1235}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，策略Alpha應該首先全面暫停跨域新交易以全面調查並重設架構。", "answer": "否", "question_group": 1235}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，策略Alpha應該首先全面暫停跨域新交易以全面調查並重設架構。", "answer": "否", "question_group": 1235}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，情境B整合行動支付、以AI做信用評估的P2P、機器理財與區塊鏈保險等多元創新，較符合趨勢且可能取得較大市場影響力。", "answer": "是", "question_group": 1236}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，情境B整合行動支付、以AI做信用評估的P2P、機器理財與區塊鏈保險等多元創新，較符合趨勢且可能取得較大市場影響力。", "answer": "是", "question_group": 1236}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，情境A的傳統大型銀行溫和數位化策略未導入P2P/AI/Robo-advisor/區塊鏈等創新，因此其市場影響力預期會超過情境B。", "answer": "否", "question_group": 1236}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，情境A的傳統大型銀行溫和數位化策略未導入P2P/AI/Robo-advisor/區塊鏈等創新，因此其市場影響力預期會超過情境B。", "answer": "否", "question_group": 1236}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，情境B中本地FinTech整合行動支付、以AI做信用評估的P2P、機器理財與區塊鏈保險等多元創新較符合趨勢，因為圖中顯示超過150家FinTech且行動支付交易額已突破新台幣1兆，及P2P約500億元與機器理財預期年增>30%。", "answer": "是", "question_group": 1237}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，情境B中本地FinTech整合行動支付、以AI做信用評估的P2P、機器理財與區塊鏈保險等多元創新較符合趨勢，因為圖中顯示超過150家FinTech且行動支付交易額已突破新台幣1兆，及P2P約500億元與機器理財預期年增>30%。", "answer": "是", "question_group": 1237}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，情境A中傳統大型銀行僅進行溫和數位化而未導入創新，較可能在未來取得較大市場影響力。", "answer": "否", "question_group": 1237}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，情境A中傳統大型銀行僅進行溫和數位化而未導入創新，較可能在未來取得較大市場影響力。", "answer": "否", "question_group": 1237}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，行動支付交易額已超過新台幣1兆元，因此在短期內經濟衰退時，行動支付系統中斷可能對商家現金流和零售交易造成高衝擊。", "answer": "是", "question_group": 1238}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，行動支付交易額已超過新台幣1兆元，因此在短期內經濟衰退時，行動支付系統中斷可能對商家現金流和零售交易造成高衝擊。", "answer": "是", "question_group": 1238}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，台灣的機器理財預期年增率低於10%，因此不會對中期金融市場穩定性造成任何影響。", "answer": "否", "question_group": 1238}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，台灣的機器理財預期年增率低於10%，因此不會對中期金融市場穩定性造成任何影響。", "answer": "否", "question_group": 1238}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據圖中關鍵事實，短期內（0–12月）台灣銀行應優先投資於消費者端以快速提升手機銀行的活躍度和現金流，因為超過60%的台灣消費者已使用手機銀行。", "answer": "是", "question_group": 1239}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，短期內（0–12月）台灣銀行應優先投資於消費者端以快速提升手機銀行的活躍度和現金流，因為超過60%的台灣消費者已使用手機銀行。", "answer": "是", "question_group": 1239}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據圖中關鍵事實，短期內（0–12月）台灣銀行應優先投資於後端/生態系統，而不是消費者端，因為IDC預估到2025年數位化將占全球GDP約65%。", "answer": "否", "question_group": 1239}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，短期內（0–12月）台灣銀行應優先投資於後端/生態系統，而不是消費者端，因為IDC預估到2025年數位化將占全球GDP約65%。", "answer": "否", "question_group": 1239}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，短期（6–12月）內，台灣數位銀行的營運成本因一次性事件回應與合規稽核而急升，智能客服需要更多人工介入導致回應時間與滿意度下滑。", "answer": "是", "question_group": 1240}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，短期（6–12月）內，台灣數位銀行的營運成本因一次性事件回應與合規稽核而急升，智能客服需要更多人工介入導致回應時間與滿意度下滑。", "answer": "是", "question_group": 1240}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，中期（1–3年）內，台灣數位銀行完全不再使用聯邦學習和可解釋AI，導致創新節奏完全停滯，客戶信任無法恢復。", "answer": "否", "question_group": 1240}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，中期（1–3年）內，台灣數位銀行完全不再使用聯邦學習和可解釋AI，導致創新節奏完全停滯，客戶信任無法恢復。", "answer": "否", "question_group": 1240}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據圖片，每位員工可處理的交易量約增加66.7%。不能直接將整體成本降低直接視為時間縮短的等值，因為整體成本還包含資本性投入、資安與維運等項目。", "answer": "是", "question_group": 1241}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，每位員工可處理的交易量約增加66.7%。不能直接將整體成本降低直接視為時間縮短的等值，因為整體成本還包含資本性投入、資安與維運等項目。", "answer": "是", "question_group": 1241}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據圖片，每位員工可處理的交易量不變，整體成本降低約25%即可完全等同於每筆交易處理時間縮短40%。", "answer": "否", "question_group": 1241}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，每位員工可處理的交易量不變，整體成本降低約25%即可完全等同於每筆交易處理時間縮短40%。", "answer": "否", "question_group": 1241}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據圖中，支付與清算（尤其跨境支付）是最有可能率先達成大規模商業部署的領域。", "answer": "是", "question_group": 1242}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，支付與清算（尤其跨境支付）是最有可能率先達成大規模商業部署的領域。", "answer": "是", "question_group": 1242}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據圖中，保險是最有可能率先達成大規模商業部署的領域。", "answer": "否", "question_group": 1242}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，保險是最有可能率先達成大規模商業部署的領域。", "answer": "否", "question_group": 1242}
 

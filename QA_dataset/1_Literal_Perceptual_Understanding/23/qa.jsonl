@@ -8,11 +8,11 @@
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "根據提供的數據，2022年‘臨櫃申訴’的占比可能是多少？（請參考相關圖表資料）", "answer": "C", "choice": ["2022年臨櫃申訴的占比比2023年要低，但具体数值不明确。", "2022年‘臨櫃申訴’的占比沒有明確的上限，可能低於或高於50%。", "無法確定具體的占比數據。", "2022年‘臨櫃申訴’的占比取決於其他因素，無法具體確定。"]}
 {"category": "Open", "question_type": "Fact Lookup", "question": "根據表1的資料，哪一年臨櫃服務的申請案件最少？", "answer": "2024年"}
 {"category": "Open", "question_type": "Fact Lookup", "question": "在圖2中，2023年的平均審核天數是多少？", "answer": "2023年的平均審核天數為X天。"}
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2022年‘臨櫃申訴’的占比無法確定具體數據。", "answer": "是", "question_group": 65}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖8，2022年‘臨櫃申訴’的占比無法確定具體數據。", "answer": "是", "question_group": 65}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2022年‘臨櫃申訴’的占比為一個確定的百分比數字。", "answer": "否", "question_group": 65}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖8，2022年‘臨櫃申訴’的占比為一個確定的百分比數字。", "answer": "否", "question_group": 65}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，支票郵寄比例是最低的。", "answer": "是", "question_group": 66}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表6，支票郵寄比例是最低的。", "answer": "是", "question_group": 66}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，郵局匯款比例是最低的。", "answer": "否", "question_group": 66}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表6，郵局匯款比例是最低的。", "answer": "否", "question_group": 66}
 

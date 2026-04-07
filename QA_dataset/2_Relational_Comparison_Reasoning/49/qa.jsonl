@@ -22,31 +22,31 @@
 {"category": "MCQ", "question_type": "Comparison", "question": "根據圖2，台灣創投的資產佔比是否低於台灣租賃？", "answer": "B", "choice": ["不，台灣創投的資產佔比高於台灣租賃。", "是的，台灣創投的資產佔比低於台灣租賃。", "是的，但只有在特定條件下，台灣創投的資產佔比才會低於台灣租賃。", "不，台灣租賃的資產佔比低於台灣創投。"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據圖4中的資料，期間1的事件數與期間0的事件數相比，哪一個較多？", "answer": "D", "choice": ["期間0的事件數持平於期間1", "兩個期間事件數無法直接比較", "期間1的事件數少於期間0，但差距不明顯", "期間1的事件數較多"]}
 {"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖5，投資/計畫項目中的最大金額與最小金額的差異是多少？以下哪個選項是正確的？", "answer": "B", "choice": ["20億元", "38億元", "50億元", "45億元"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據圖片所示，台灣銀行和台灣創投的資產佔比差距是67.2%。", "answer": "是", "question_group": 461}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖2，台灣銀行和台灣創投的資產佔比差距是67.2%。", "answer": "是", "question_group": 461}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據圖片所示，台灣創投的資產佔比比台灣銀行的高出67.2%。", "answer": "否", "question_group": 461}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖2，台灣創投的資產佔比比台灣銀行的高出67.2%。", "answer": "否", "question_group": 461}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2024年的合併總資產與歸屬於母公司業主之權益的差值是29800。", "answer": "是", "question_group": 462}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，2024年的合併總資產與歸屬於母公司業主之權益的差值是29800。", "answer": "是", "question_group": 462}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2024年的合併總資產與歸屬於母公司業主之權益的差值是35000。", "answer": "否", "question_group": 462}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，2024年的合併總資產與歸屬於母公司業主之權益的差值是35000。", "answer": "否", "question_group": 462}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2024年金融教育的投入超過2023年弱勢關懷的投入。", "answer": "是", "question_group": 463}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，2024年金融教育的投入超過2023年弱勢關懷的投入。", "answer": "是", "question_group": 463}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2024年金融教育的投入低於2023年弱勢關懷的投入。", "answer": "否", "question_group": 463}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，2024年金融教育的投入低於2023年弱勢關懷的投入。", "answer": "否", "question_group": 463}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，台灣人壽保險的資產佔比為21.2%，是資產佔比第二高的子公司。", "answer": "是", "question_group": 464}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖2，台灣人壽保險的資產佔比為21.2%，是資產佔比第二高的子公司。", "answer": "是", "question_group": 464}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，台灣人壽保險的資產佔比為15%，是資產佔比第二高的子公司。", "answer": "否", "question_group": 464}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖2，台灣人壽保險的資產佔比為15%，是資產佔比第二高的子公司。", "answer": "否", "question_group": 464}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，數值最高的項目是38，最低的項目是0，因此最高與最低的數值差距是38。", "answer": "是", "question_group": 465}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖5，數值最高的項目是38，最低的項目是0，因此最高與最低的數值差距是38。", "answer": "是", "question_group": 465}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，數值最高的項目是38，最低的項目是5.2，因此最高與最低的數值差距是32.8。", "answer": "否", "question_group": 465}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖5，數值最高的項目是38，最低的項目是5.2，因此最高與最低的數值差距是32.8。", "answer": "否", "question_group": 465}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據下圖，數值最低的項目是第3個。", "answer": "是", "question_group": 466}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖5，數值最低的項目是第3個。", "answer": "是", "question_group": 466}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據下圖，數值最低的項目是第2個。", "answer": "否", "question_group": 466}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖5，數值最低的項目是第2個。", "answer": "否", "question_group": 466}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，台灣壽險資產管理在期末權益法認列金額中表現最佳。", "answer": "是", "question_group": 467}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，台灣壽險資產管理在期末權益法認列金額中表現最佳。", "answer": "是", "question_group": 467}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，台灣國際證券在期末權益法認列金額中表現最佳。", "answer": "否", "question_group": 467}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，台灣國際證券在期末權益法認列金額中表現最佳。", "answer": "否", "question_group": 467}
 

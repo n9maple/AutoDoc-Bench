@@ -6,15 +6,15 @@
 {"category": "Open", "question_type": "Comparison", "question": "2022年貸款申請者中，哪一種利率的選擇比例最少？", "answer": "混合型利率"}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據下列資料，哪一年不動產抵押貸款市場規模最小？", "answer": "C", "choice": ["2023年是市場縮小的一年", "2024年市場規模增長但仍低於2022年", "2022年", "2022年是最低點，2023年和2024年都顯示增長"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據2022年貸款申請者的選擇，哪一種利率的比例最少？", "answer": "C", "choice": ["利率均衡", "固定型利率", "混合型利率", "變動型利率"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2022年不動產抵押貸款市場規模最小。", "answer": "是", "question_group": 735}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，2022年不動產抵押貸款市場規模最小。", "answer": "是", "question_group": 735}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年不動產抵押貸款市場規模最小。", "answer": "否", "question_group": 735}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，2023年不動產抵押貸款市場規模最小。", "answer": "否", "question_group": 735}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，數值最高的指標是 85，最低的指標是 75，它們之間的差距是 10。", "answer": "是", "question_group": 736}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖5，數值最高的指標是 85，最低的指標是 75，它們之間的差距是 10。", "answer": "是", "question_group": 736}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，數值最高的指標是 90，最低的指標是 70，它們之間的差距是 15。", "answer": "否", "question_group": 736}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖5，數值最高的指標是 90，最低的指標是 70，它們之間的差距是 15。", "answer": "否", "question_group": 736}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023 年的批准率比 2022 年提高了 5%。", "answer": "是", "question_group": 737}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，2023 年的批准率比 2022 年提高了 5%。", "answer": "是", "question_group": 737}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023 年的批准率比 2022 年提高了 10%。", "answer": "否", "question_group": 737}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，2023 年的批准率比 2022 年提高了 10%。", "answer": "否", "question_group": 737}
 

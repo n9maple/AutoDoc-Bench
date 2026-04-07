@@ -21,27 +21,27 @@
 {"category": "Open", "question_type": "Aggregation", "question": "根據表1的資料，結合意外險和健康險的更新前文件總數與更新後文件總數，總共減少了多少百分比？", "answer": "20%"}
 {"category": "Open", "question_type": "Aggregation", "question": "根據表3的資料，計算所有培訓類別的總參與人數是多少？", "answer": "總參與人數是 490"}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據圖5，所有調查指標的滿意度平均值大約為多少？", "answer": "D", "choice": ["81.50", "85.25", "83.00", "82.33"]}
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，從2024Q3到2024Q4，'符合條件'系列的申請比例變化率是1.96%。", "answer": "是", "question_group": 1136}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖7，從2024Q3到2024Q4，'符合條件'系列的申請比例變化率是1.96%。", "answer": "是", "question_group": 1136}
 
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，從2024Q3到2024Q4，'符合條件'系列的申請比例變化率是3.50%。", "answer": "否", "question_group": 1136}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖7，從2024Q3到2024Q4，'符合條件'系列的申請比例變化率是3.50%。", "answer": "否", "question_group": 1136}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2022年到2023年的百分比增長是150%。", "answer": "是", "question_group": 1137}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表2，從2022年到2023年的百分比增長是150%。", "answer": "是", "question_group": 1137}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2022年到2023年的百分比增長是50%。", "answer": "否", "question_group": 1137}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表2，從2022年到2023年的百分比增長是50%。", "answer": "否", "question_group": 1137}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2024 年各季度跨境理賠服務的平均滿意度是 83.5%。", "answer": "是", "question_group": 1138}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表6，2024 年各季度跨境理賠服務的平均滿意度是 83.5%。", "answer": "是", "question_group": 1138}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2024 年各季度跨境理賠服務的平均滿意度是 85.0%。", "answer": "否", "question_group": 1138}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表6，2024 年各季度跨境理賠服務的平均滿意度是 85.0%。", "answer": "否", "question_group": 1138}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，保險公司數位化理賠系統的採用率從2022年到2023年增加。", "answer": "是", "question_group": 1139}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖2，保險公司數位化理賠系統的採用率從2022年到2023年增加。", "answer": "是", "question_group": 1139}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，保險公司數位化理賠系統的採用率從2022年到2023年減少。", "answer": "否", "question_group": 1139}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖2，保險公司數位化理賠系統的採用率從2022年到2023年減少。", "answer": "否", "question_group": 1139}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年和2023年的百分比平均值是35%。", "answer": "是", "question_group": 1140}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，2022年和2023年的百分比平均值是35%。", "answer": "是", "question_group": 1140}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年和2023年的百分比平均值是45%。", "answer": "否", "question_group": 1140}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，2022年和2023年的百分比平均值是45%。", "answer": "否", "question_group": 1140}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2024Q1到2024Q4，線上系統的使用百分比總共增加了15%。", "answer": "是", "question_group": 1141}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表5，從2024Q1到2024Q4，線上系統的使用百分比總共增加了15%。", "answer": "是", "question_group": 1141}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2024Q1到2024Q4，線上系統的使用百分比總共下降了15%。", "answer": "否", "question_group": 1141}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表5，從2024Q1到2024Q4，線上系統的使用百分比總共下降了15%。", "answer": "否", "question_group": 1141}
 

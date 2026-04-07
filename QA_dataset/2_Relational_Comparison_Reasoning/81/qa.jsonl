@@ -12,15 +12,15 @@
 {"category": "Open", "question_type": "Difference Calculation", "question": "在圖4中，調整前和調整後的貸款最高額度的差異是多少萬美元？", "answer": "25萬美元"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "根據圖5，基準利率和具社會責任項目的利率差異是多少？", "answer": "無法提供具體數值，因為未提供圖表的實際數據。"}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據表3的資料，若科技創新與綠色能源兩家公司的年營業額均為500萬，哪一類型的企業在還款期限內可以獲得更多的貸款總額？", "answer": "B", "choice": ["根據市場需求，科技創新可能獲得的貸款總額為300萬，而綠色能源為250萬。", "科技創新與綠色能源兩類型的企業在還款期限內可以獲得相同的貸款總額，均為250萬。", "兩家公司在相同的營業額下，貸款評估標準的應用可能會導致貸款總額存在差異。", "科技創新和綠色能源兩類企業可獲得相同的貸款總額，但此額度取決於市場條件變化。"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據下圖，具社會責任項目的企業類型通常擁有最低的利率。", "answer": "是", "question_group": 638}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖5，具社會責任項目的企業類型通常擁有最低的利率。", "answer": "是", "question_group": 638}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據下圖，基準利率的企業類型通常擁有最低的利率。", "answer": "否", "question_group": 638}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖5，基準利率的企業類型通常擁有最低的利率。", "answer": "否", "question_group": 638}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，線上提交基礎資料、快速信用評估和預審批通知這三個步驟在審批時間縮短和申請通過率的百分比都是相同的。", "answer": "是", "question_group": 639}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，線上提交基礎資料、快速信用評估和預審批通知這三個步驟在審批時間縮短和申請通過率的百分比都是相同的。", "answer": "是", "question_group": 639}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，只有快速信用評估這個步驟在審批時間縮短和申請通過率的效果是相同的。", "answer": "否", "question_group": 639}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，只有快速信用評估這個步驟在審批時間縮短和申請通過率的效果是相同的。", "answer": "否", "question_group": 639}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據圖片，企業增長恢復的增長加速百分比高於其他選項。", "answer": "是", "question_group": 640}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，企業增長恢復的增長加速百分比高於其他選項。", "answer": "是", "question_group": 640}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據圖片，企業增長恢復的增長加速百分比低於其他選項。", "answer": "否", "question_group": 640}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，企業增長恢復的增長加速百分比低於其他選項。", "answer": "否", "question_group": 640}
 

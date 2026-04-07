@@ -1,7 +1,7 @@
 {"category": "Open", "question_type": "Fact Lookup", "question": "如果在2023年，已實施利率風險管理框架的銀行比例是超過90%，那麼這是否意味著至少有91%的銀行符合該條件？", "answer": "不，'超過90%'不一定意味著至少有91%的銀行符合該條件。"}
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "在2023年，如果已實施利率風險管理框架的銀行比例為超過90%，則以下陳述哪項是正確的？", "answer": "C", "choice": ["不，這意味著所有銀行都達到了這項標準。", "不，根據定義，即使超過90%仍可能有銀行不遵循框架的規範。", "不，超過90%不一定意味著至少有91%的銀行符合該條件。", "不，過去的數據可能影響當前的計算，導致超過90%的結果不可靠。"]}
 {"category": "Open", "question_type": "Fact Lookup", "question": "在圖3中，2022年的利率掉期交易額增長率是多少？", "answer": "2022年的利率掉期交易額增長率是15%"}
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，已實施利率風險管理框架的銀行比例超過90%不一定意味著至少有91%的銀行符合該條件。", "answer": "是", "question_group": 53}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表4，已實施利率風險管理框架的銀行比例超過90%不一定意味著至少有91%的銀行符合該條件。", "answer": "是", "question_group": 53}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，已實施利率風險管理框架的銀行比例超過90%意味著至少有92%的銀行符合該條件。", "answer": "否", "question_group": 53}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表4，已實施利率風險管理框架的銀行比例超過90%意味著至少有92%的銀行符合該條件。", "answer": "否", "question_group": 53}
 

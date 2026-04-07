@@ -29,31 +29,31 @@
 {"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表8的資料，假設2023年的總罰鍰金額為1200，每年固定增加100單位，請問哪一年總罰鍰金額將達到或超過2000？", "answer": "B", "choice": ["2027", "2031", "2030", "2033"]}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據表2的資料，以下哪一項是2022年和2023年即時公告比例的平均值？", "answer": "A", "choice": ["47.85", "48.10", "46.75", "49.50"]}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據表7的資料，以下哪一年法遵宣導會場次和參與人次的總和最大？", "answer": "C", "choice": ["2020", "2018", "2023", "2022"]}
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023年平均每家被處罰公司的罰鍰金額是100。", "answer": "是", "question_group": 989}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表8，2023年平均每家被處罰公司的罰鍰金額是100。", "answer": "是", "question_group": 989}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023年平均每家被處罰公司的罰鍰金額是50。", "answer": "否", "question_group": 989}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表8，2023年平均每家被處罰公司的罰鍰金額是50。", "answer": "否", "question_group": 989}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2020年到2023年，A級以上的比例增加了10%。", "answer": "是", "question_group": 990}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，從2020年到2023年，A級以上的比例增加了10%。", "answer": "是", "question_group": 990}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2020年到2023年，A級以上的比例增加了15%。", "answer": "否", "question_group": 990}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，從2020年到2023年，A級以上的比例增加了15%。", "answer": "否", "question_group": 990}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2021年至2023年間法遵宣導會場次的平均值為20。", "answer": "是", "question_group": 991}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表7，2021年至2023年間法遵宣導會場次的平均值為20。", "answer": "是", "question_group": 991}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2021年至2023年間法遵宣導會場次的平均值為25。", "answer": "否", "question_group": 991}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表7，2021年至2023年間法遵宣導會場次的平均值為25。", "answer": "否", "question_group": 991}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年和2023年的全年總揭露件數的平均值是8250。", "answer": "是", "question_group": 992}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，2022年和2023年的全年總揭露件數的平均值是8250。", "answer": "是", "question_group": 992}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年和2023年的全年總揭露件數的平均值是8200。", "answer": "否", "question_group": 992}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，2022年和2023年的全年總揭露件數的平均值是8200。", "answer": "否", "question_group": 992}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2021年B級和C級的比例總和是39%。", "answer": "是", "question_group": 993}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，2021年B級和C級的比例總和是39%。", "answer": "是", "question_group": 993}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2021年B級和C級的比例總和是49%。", "answer": "否", "question_group": 993}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，2021年B級和C級的比例總和是49%。", "answer": "否", "question_group": 993}
 
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，從2020年到2023年，重大訊息揭露件數的年均增長率約為5.68%。", "answer": "是", "question_group": 994}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖2，從2020年到2023年，重大訊息揭露件數的年均增長率約為5.68%。", "answer": "是", "question_group": 994}
 
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，從2020年到2023年，重大訊息揭露件數的年均增長率約為10%。", "answer": "否", "question_group": 994}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖2，從2020年到2023年，重大訊息揭露件數的年均增長率約為10%。", "answer": "否", "question_group": 994}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2021年到2023年，法遵宣導會參與人次增加了400人次。", "answer": "是", "question_group": 995}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表7，從2021年到2023年，法遵宣導會參與人次增加了400人次。", "answer": "是", "question_group": 995}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2021年到2023年，法遵宣導會參與人次增加了600人次。", "answer": "否", "question_group": 995}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表7，從2021年到2023年，法遵宣導會參與人次增加了600人次。", "answer": "否", "question_group": 995}
 

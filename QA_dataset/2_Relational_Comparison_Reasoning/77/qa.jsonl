@@ -37,39 +37,39 @@
 {"category": "MCQ", "question_type": "Ranking", "question": "在圖1中，根據數據，2021年、2022年和2023年客戶選擇客服方式的比例總和哪一年最高？請在下列選項中選擇正確答案。", "answer": "A", "choice": ["無法確定哪一年的比例總和最高，因為缺少具體的數據。", "2023年，由於網絡客服的興起，這一年客戶的選擇比例最高。", "2022年，由於疫情的影響，線上客服的使用率大幅提升，因此比例總和應該最高。", "2021年客戶對客服方式的偏好尚未明朗，因此無法評估比例總和的高低。"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據表2的資料，2023年1月至2023年6月與2023年7月至2023年12月之間，哪些時間段的訪客模式人次總和更高？", "answer": "D", "choice": ["2023年1月至6月的訪客模式人次總和700000，因此與2023年7月至12月的總和681000接近，但低於。", "2023年1月至6月的訪客模式人次總和716000高於2023年7月至12月的總和681000。", "2023年7月至12月的訪客模式人次總和與2023年1月至6月的總和相等，各為681000。", "2023年1月至6月的訪客模式人次總和714000高於2023年7月至12月的總和681000。"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據表8的資料，以下哪個選項最接近2022年因資訊外洩相關的損失占該年資安事件總損失的百分比？", "answer": "A", "choice": ["35%", "60%", "45%", "20%"]}
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，數值最高項與最低項的差異是35。", "answer": "是", "question_group": 619}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖5，數值最高項與最低項的差異是35。", "answer": "是", "question_group": 619}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，數值最高項與最低項的差異是40。", "answer": "否", "question_group": 619}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖5，數值最高項與最低項的差異是40。", "answer": "否", "question_group": 619}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年2月的行動裝置用戶比率高於2023年9月。", "answer": "是", "question_group": 620}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，2023年2月的行動裝置用戶比率高於2023年9月。", "answer": "是", "question_group": 620}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年9月的行動裝置用戶比率高於2023年2月。", "answer": "否", "question_group": 620}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，2023年9月的行動裝置用戶比率高於2023年2月。", "answer": "否", "question_group": 620}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，第3個數據點的問題數量是所有FAQ分類中最低的。", "answer": "是", "question_group": 621}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖7，第3個數據點的問題數量是所有FAQ分類中最低的。", "answer": "是", "question_group": 621}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，第2個數據點的問題數量是所有FAQ分類中最低的。", "answer": "否", "question_group": 621}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖7，第2個數據點的問題數量是所有FAQ分類中最低的。", "answer": "否", "question_group": 621}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年客戶對於安全性的滿意度比因假冒網站洩露個資的比例高出90.8%。", "answer": "是", "question_group": 622}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表9，2023年客戶對於安全性的滿意度比因假冒網站洩露個資的比例高出90.8%。", "answer": "是", "question_group": 622}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年因假冒網站洩露個資的比例高於客戶對於安全性的滿意度90.8%。", "answer": "否", "question_group": 622}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表9，2023年因假冒網站洩露個資的比例高於客戶對於安全性的滿意度90.8%。", "answer": "否", "question_group": 622}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，生物辨識的使用比例是其他身份驗證方式（如OTP）的35倍。", "answer": "是", "question_group": 623}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖3，生物辨識的使用比例是其他身份驗證方式（如OTP）的35倍。", "answer": "是", "question_group": 623}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，生物辨識的使用比例是其他身份驗證方式（如OTP）的20倍。", "answer": "否", "question_group": 623}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖3，生物辨識的使用比例是其他身份驗證方式（如OTP）的20倍。", "answer": "否", "question_group": 623}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的個資外洩事件數比例低於2022年。", "answer": "是", "question_group": 624}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表10，2023年的個資外洩事件數比例低於2022年。", "answer": "是", "question_group": 624}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的個資外洩事件數比例高於2022年。", "answer": "否", "question_group": 624}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表10，2023年的個資外洩事件數比例高於2022年。", "answer": "否", "question_group": 624}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，FAQ分類問題數量的最高值與最低值的差距是23。", "answer": "是", "question_group": 625}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖7，FAQ分類問題數量的最高值與最低值的差距是23。", "answer": "是", "question_group": 625}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，FAQ分類問題數量的最高值為32。", "answer": "否", "question_group": 625}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖7，FAQ分類問題數量的最高值為32。", "answer": "否", "question_group": 625}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據圖片中的數據，其他主題的比例比線上交易技術支援的比例更高。", "answer": "是", "question_group": 626}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖8，其他主題的比例比線上交易技術支援的比例更高。", "answer": "是", "question_group": 626}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據圖片中的數據，線上交易技術支援的比例比其他主題的比例更高。", "answer": "否", "question_group": 626}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖8，線上交易技術支援的比例比其他主題的比例更高。", "answer": "否", "question_group": 626}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的資料外洩降低比例與客戶安全性滿意度之間的差距是7%。", "answer": "是", "question_group": 627}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，2023年的資料外洩降低比例與客戶安全性滿意度之間的差距是7%。", "answer": "是", "question_group": 627}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的資料外洩降低比例與客戶安全性滿意度之間的差距是10%。", "answer": "否", "question_group": 627}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，2023年的資料外洩降低比例與客戶安全性滿意度之間的差距是10%。", "answer": "否", "question_group": 627}
 

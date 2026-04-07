@@ -22,27 +22,27 @@
 {"category": "MCQ", "question_type": "Difference Calculation", "question": "根據提供的圖3，員工類型修課完成率的最高與最低差距是以下哪一項？", "answer": "A", "choice": ["2%", "3.5%", "5%", "0%"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據表6的資料，2023年綠色信用卡參與人數相比於2022年，增長的百分比是多少？", "answer": "B", "choice": ["35%", "33.33%", "25%", "30%"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據表2的資料，從2022年到2023年，以下哪一項的變化比例更大？", "answer": "A", "choice": ["社會公益捐贈金額的變化比例", "企業營業額的變化比例", "國內生產總值（GDP）的變化比例", "政府支出的變化比例"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據圖片所示，數值最低的項目是140。", "answer": "是", "question_group": 490}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖2，數值最低的項目是140。", "answer": "是", "question_group": 490}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據圖片所示，數值最低的項目是210。", "answer": "否", "question_group": 490}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖2，數值最低的項目是210。", "answer": "否", "question_group": 490}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，職場多元共融和性別平等的數值之和超過了人權保障和勞動權益保障的數值之和。", "answer": "是", "question_group": 491}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表9，職場多元共融和性別平等的數值之和超過了人權保障和勞動權益保障的數值之和。", "answer": "是", "question_group": 491}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，職場多元共融和性別平等的數值之和低於人權保障和勞動權益保障的數值之和。", "answer": "否", "question_group": 491}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表9，職場多元共融和性別平等的數值之和低於人權保障和勞動權益保障的數值之和。", "answer": "否", "question_group": 491}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年植樹數比受益家庭數少200。", "answer": "是", "question_group": 492}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表12，2023年植樹數比受益家庭數少200。", "answer": "是", "question_group": 492}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年植樹數比受益家庭數多200。", "answer": "否", "question_group": 492}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表12，2023年植樹數比受益家庭數多200。", "answer": "否", "question_group": 492}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，最左邊的員工類型修課完成率與最右邊的員工類型修課完成率相差1%。", "answer": "是", "question_group": 493}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖3，最左邊的員工類型修課完成率與最右邊的員工類型修課完成率相差1%。", "answer": "是", "question_group": 493}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，最左邊的員工類型修課完成率與最右邊的員工類型修課完成率相差2%。", "answer": "否", "question_group": 493}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖3，最左邊的員工類型修課完成率與最右邊的員工類型修課完成率相差2%。", "answer": "否", "question_group": 493}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，參與人次的數值大於意見與建議數。", "answer": "是", "question_group": 494}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表10，參與人次的數值大於意見與建議數。", "answer": "是", "question_group": 494}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，意見與建議數的數值大於參與人次。", "answer": "否", "question_group": 494}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表10，意見與建議數的數值大於參與人次。", "answer": "否", "question_group": 494}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的綠色債券承銷金額高於基準年。", "answer": "是", "question_group": 495}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，2023年的綠色債券承銷金額高於基準年。", "answer": "是", "question_group": 495}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，基準年的綠色債券承銷金額高於2023年。", "answer": "否", "question_group": 495}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，基準年的綠色債券承銷金額高於2023年。", "answer": "否", "question_group": 495}
 

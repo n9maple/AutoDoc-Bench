@@ -18,23 +18,23 @@
 {"category": "Open", "question_type": "Comparison", "question": "根據圖5，2024年線上理賠案件占比與紙本理賠案件占比之間的差距是多少？", "answer": "10%"}
 {"category": "Open", "question_type": "Comparison", "question": "根據圖1，比例最低的統計項目是什麼？", "answer": "比例最低的統計項目是5"}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據表4的資料，銀行轉帳的比例是否大於現金支票和臨櫃領取比例的兩倍？以下哪一項最能反映這一情況？", "answer": "B", "choice": ["銀行轉帳的比例等於現金支票和臨櫃領取比例的總和。", "銀行轉帳的比例大於現金支票和臨櫃領取比例的兩倍。", "銀行轉帳的比例大於現金支票的比例，但小於現金支票和臨櫃領取比例的總和。", "銀行轉帳的比例小於現金支票的比例。"]}
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，數據的比例從低到高排序為5%、12%、40%、82%、88%。", "answer": "是", "question_group": 496}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖1，數據的比例從低到高排序為5%、12%、40%、82%、88%。", "answer": "是", "question_group": 496}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，數據的比例從低到高排序為88%、82%、40%、12%、5%。", "answer": "否", "question_group": 496}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖1，數據的比例從低到高排序為88%、82%、40%、12%、5%。", "answer": "否", "question_group": 496}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據圖表，統計項目5的比例是5%，是所有項目中比例最低的。", "answer": "是", "question_group": 497}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，統計項目5的比例是5%，是所有項目中比例最低的。", "answer": "是", "question_group": 497}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據圖表，統計項目2的比例是最低的，低於其他所有項目。", "answer": "否", "question_group": 497}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，統計項目2的比例是最低的，低於其他所有項目。", "answer": "否", "question_group": 497}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，被保險人比例最高的行與最低的行之間的比例差是76。", "answer": "是", "question_group": 498}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，被保險人比例最高的行與最低的行之間的比例差是76。", "answer": "是", "question_group": 498}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，被保險人比例最高的行與最低的行之間的比例差是50。", "answer": "否", "question_group": 498}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，被保險人比例最高的行與最低的行之間的比例差是50。", "answer": "否", "question_group": 498}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，健康險的案件比例是 56.0%，而意外險的案件比例是 8.0%，因此它們的比例相差 48.0%。", "answer": "是", "question_group": 499}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖4，健康險的案件比例是 56.0%，而意外險的案件比例是 8.0%，因此它們的比例相差 48.0%。", "answer": "是", "question_group": 499}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，健康險和意外險的案件比例相差 20.0%。", "answer": "否", "question_group": 499}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖4，健康險和意外險的案件比例相差 20.0%。", "answer": "否", "question_group": 499}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的理賠糾紛案件總數與因資料不實/文件偽造進入法律程序案件數的差異是310。", "answer": "是", "question_group": 500}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，2023年的理賠糾紛案件總數與因資料不實/文件偽造進入法律程序案件數的差異是310。", "answer": "是", "question_group": 500}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的理賠糾紛案件總數與因資料不實/文件偽造進入法律程序案件數的差異是330。", "answer": "否", "question_group": 500}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，2023年的理賠糾紛案件總數與因資料不實/文件偽造進入法律程序案件數的差異是330。", "answer": "否", "question_group": 500}
 

@@ -4,11 +4,11 @@
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據比較台灣和北美公司的ESG政策制定情況，哪個地區的政策制定比例更高？", "answer": "C", "choice": ["台灣的ESG政策制定比例相比北美低，僅比北美低5個百分點。", "北美的ESG政策制定比例稍高，為72%，台灣為70%。", "北美的ESG政策制定比例更高，比台灣高出35個百分點。", "北美的ESG政策制定比例高於台灣約20個百分點，台灣為65%。"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據公司A和公司C在綠色項目資金比例及減碳措施支持的總和增加了5%的情況，請問它們總和的平均值是？", "answer": "C", "choice": ["62.5%", "60%", "57.5%", "55%"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據最近的數據，預測模型開發的未來目標相對於目前的增長百分比是多少？請參考以下增長百分比情境：\n1. 100%\n2. 120%\n3. 150%\n4. 80%", "answer": "C", "choice": ["60%", "130%", "120%", "200%"]}
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，預測模型開發的未來目標相對於目前的增長百分比是120%。", "answer": "是", "question_group": 1245}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表4，預測模型開發的未來目標相對於目前的增長百分比是120%。", "answer": "是", "question_group": 1245}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，預測模型開發的未來目標相對於目前的增長百分比是150%。", "answer": "否", "question_group": 1245}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表4，預測模型開發的未來目標相對於目前的增長百分比是150%。", "answer": "否", "question_group": 1245}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，公司A和公司C在綠色項目資金比例及減碳措施支持的總和增加5%後的平均值是57.5%。", "answer": "是", "question_group": 1246}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，公司A和公司C在綠色項目資金比例及減碳措施支持的總和增加5%後的平均值是57.5%。", "answer": "是", "question_group": 1246}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，公司A和公司C在綠色項目資金比例及減碳措施支持的總和增加5%後的平均值是50%。", "answer": "否", "question_group": 1246}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，公司A和公司C在綠色項目資金比例及減碳措施支持的總和增加5%後的平均值是50%。", "answer": "否", "question_group": 1246}
 

@@ -3,7 +3,7 @@
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據圖片所示，如果每場健康檢查和講座的平均參加人數相同，每場活動平均有多少名居民參加？", "answer": "C", "choice": ["每場活動平均有175名居民參加", "每場活動平均有220名居民參加", "每場活動平均有200名居民參加", "每場活動平均有195名居民參加"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據2023年內部培訓和外部進修的計劃，如果每場培訓的平均時數為兩小時，以下哪一個選項最符合所舉辦的總活動場次？", "answer": "C", "choice": ["約2400場", "約2700場", "約2500場", "約3200場"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表2的資料，假如文化遺產的預算增加10%並且環境保護的預算減少10%，那麼新預算的總和可能是以下哪一項？", "answer": "A", "choice": ["10050萬新台幣", "9900萬新台幣", "10800萬新台幣", "9800萬新台幣"]}
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2023年內部培訓和外部進修共舉辦了約2500場活動。", "answer": "是", "question_group": 1502}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表5，2023年內部培訓和外部進修共舉辦了約2500場活動。", "answer": "是", "question_group": 1502}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2023年內部培訓和外部進修共舉辦了超過3000場活動。", "answer": "否", "question_group": 1502}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表5，2023年內部培訓和外部進修共舉辦了超過3000場活動。", "answer": "否", "question_group": 1502}
 

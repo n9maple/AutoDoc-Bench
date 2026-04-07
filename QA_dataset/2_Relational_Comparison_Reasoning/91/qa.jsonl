@@ -11,15 +11,15 @@
 {"category": "Open", "question_type": "Ranking", "question": "根據圖4，指標20的百分比在所有顯示的百分比中排名第幾？", "answer": "第2"}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據圖1，以下哪些貸款比例的首購族群利率低於非首購族群？", "answer": "C", "choice": ["貸款比例C和貸款比例D", "貸款比例B和貸款比例D", "貸款比例A和貸款比例B", "所有貸款比例的首購族群利率都低於非首購族群"]}
 {"category": "MCQ", "question_type": "Ranking", "question": "根據圖4，指標20的百分比在所有顯示的百分比中排名第幾？以下選項中哪一項是正確的？", "answer": "C", "choice": ["低於第4", "第3", "第2", "第1"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，數值最低的指標是指標 20。", "answer": "是", "question_group": 672}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖4，數值最低的指標是指標 20。", "answer": "是", "question_group": 672}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，數值最低的指標是指標 85。", "answer": "否", "question_group": 672}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖4，數值最低的指標是指標 85。", "answer": "否", "question_group": 672}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據下圖，最高與最低指標之間的差距是65。", "answer": "是", "question_group": 673}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖4，最高與最低指標之間的差距是65。", "answer": "是", "question_group": 673}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據下圖，最高與最低指標之間的差距是45。", "answer": "否", "question_group": 673}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖4，最高與最低指標之間的差距是45。", "answer": "否", "question_group": 673}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，現金分期的調整後利率比市場平均水平低0.5個百分點。", "answer": "是", "question_group": 674}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，現金分期的調整後利率比市場平均水平低0.5個百分點。", "answer": "是", "question_group": 674}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，現金分期的調整後利率比市場平均水平低1個百分點。", "answer": "否", "question_group": 674}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，現金分期的調整後利率比市場平均水平低1個百分點。", "answer": "否", "question_group": 674}
 

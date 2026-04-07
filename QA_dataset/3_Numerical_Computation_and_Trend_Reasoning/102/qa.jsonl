@@ -11,15 +11,15 @@
 {"category": "MCQ", "question_type": "Temporal Trend", "question": "根據提供的數據，2025至2029年間的壓力測試頻率變化趨勢是什麼？", "answer": "C", "choice": ["壓力測試頻率在2025至2029年間保持為2次/年，顯示未有改變。", "壓力測試頻率在2025至2029年間偶爾為3次/年，主要因為政策調整。", "壓力測試頻率逐步增加，從2次/年增加到4次/年。", "壓力測試頻率在2025至2029年間不定期出現，時而為1次/年，時而為4次/年。"]}
 {"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2025年至2029年的職業發展規劃，投入的趨勢如何？", "answer": "C", "choice": ["職業發展規劃的投入在2029年會持平。", "職業發展規劃的投入在2027年出現穩定增長。", "職業發展規劃的投入逐年增加。", "職業發展規劃的投入在2029年會略微增加。"]}
 {"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表1的資料，如果2026年的良好以上比率增長率與2025年相比保持不變，預測2026年的良好以上百分比會是多少？", "answer": "C", "choice": ["99.10%", "97.30%", "98.46%", "95.50%"]}
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，2025年至2029年間的職業發展規劃投入逐年增加。", "answer": "是", "question_group": 1133}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖5，2025年至2029年間的職業發展規劃投入逐年增加。", "answer": "是", "question_group": 1133}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，2025年至2029年間的職業發展規劃投入保持不變。", "answer": "否", "question_group": 1133}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖5，2025年至2029年間的職業發展規劃投入保持不變。", "answer": "否", "question_group": 1133}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，從2025年到2029年，達成基本披露標準比例的平均增長幅度是2%。", "answer": "是", "question_group": 1134}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，從2025年到2029年，達成基本披露標準比例的平均增長幅度是2%。", "answer": "是", "question_group": 1134}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，從2025年到2029年，達成基本披露標準比例的平均增長幅度是3%。", "answer": "否", "question_group": 1134}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，從2025年到2029年，達成基本披露標準比例的平均增長幅度是3%。", "answer": "否", "question_group": 1134}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，2025至2029年間的壓力測試頻率逐步增加，從2次/年增加到4次/年。", "answer": "是", "question_group": 1135}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖4，2025至2029年間的壓力測試頻率逐步增加，從2次/年增加到4次/年。", "answer": "是", "question_group": 1135}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，2025至2029年間的壓力測試頻率保持不變，每年都是2次/年。", "answer": "否", "question_group": 1135}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖4，2025至2029年間的壓力測試頻率保持不變，每年都是2次/年。", "answer": "否", "question_group": 1135}
 

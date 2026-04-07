@@ -10,11 +10,11 @@
 {"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表1，從2023年初到2023年末，以下哪個地區的百分比增長幅度最大？", "answer": "A", "choice": ["歐洲", "北美洲", "非洲", "南美洲"]}
 {"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖1，從2022年到2023年，全球經濟增長率下降了多少百分點？以下哪一選項是正確的？", "answer": "D", "choice": ["全球經濟增長率從2022年到2023年下降了1.2個百分點。", "全球經濟增長率從2022年到2023年下降了2.5個百分點。", "全球經濟增長率從2022年到2023年下降了0.0個百分點，表示經濟增長率沒有變化。", "全球經濟增長率從2022年到2023年下降了0.3個百分點。"]}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據表4的資料，以下哪一項是三個國家的電子商務市場規模總和？", "answer": "A", "choice": ["1500億美元", "1000億美元", "750億美元", "1700億美元"]}
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年所有投資類別的總和是3200億美元。", "answer": "是", "question_group": 1161}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表6，2022年所有投資類別的總和是3200億美元。", "answer": "是", "question_group": 1161}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023年所有投資類別的總和是3500億美元。", "answer": "否", "question_group": 1161}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表6，2023年所有投資類別的總和是3500億美元。", "answer": "否", "question_group": 1161}
 
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，從2022年到2023年，全球貿易增長率的變化率是-37.5%。", "answer": "是", "question_group": 1162}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖4，從2022年到2023年，全球貿易增長率的變化率是-37.5%。", "answer": "是", "question_group": 1162}
 
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，從2022年到2023年，全球貿易增長率的變化率是-10%。", "answer": "否", "question_group": 1162}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖4，從2022年到2023年，全球貿易增長率的變化率是-10%。", "answer": "否", "question_group": 1162}
 

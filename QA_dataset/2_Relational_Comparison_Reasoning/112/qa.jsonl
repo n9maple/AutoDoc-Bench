@@ -7,15 +7,15 @@
 {"category": "MCQ", "question_type": "Difference Calculation", "question": "根據下列情境，最高與最低技術採用率/投資比例的差距是多少？（參考圖片資料）", "answer": "C", "choice": ["2%", "15%", "5%", "8%"]}
 {"category": "Open", "question_type": "Ranking", "question": "在2023年自動化監控系統的實施狀況中，數值最低的是哪個分類？", "answer": "未實施"}
 {"category": "MCQ", "question_type": "Ranking", "question": "根據2023年自動化監控系統的實施狀況，數值最低的分類是什麼？", "answer": "C", "choice": ["已經完成並且運行良好", "正在進行測試階段", "未實施", "已經啟動但未投入使用"]}
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據下圖，兩個策略類型的採用率差距是5%。", "answer": "是", "question_group": 743}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖1，兩個策略類型的採用率差距是5%。", "answer": "是", "question_group": 743}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據下圖，兩個策略類型的採用率差距是10%。", "answer": "否", "question_group": 743}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖1，兩個策略類型的採用率差距是10%。", "answer": "否", "question_group": 743}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，最高與最低技術採用率/投資比例的差距是5%。", "answer": "是", "question_group": 744}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖3，最高與最低技術採用率/投資比例的差距是5%。", "answer": "是", "question_group": 744}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，最高與最低技術採用率/投資比例的差距是10%。", "answer": "否", "question_group": 744}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖3，最高與最低技術採用率/投資比例的差距是10%。", "answer": "否", "question_group": 744}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的壓力測試結果與敏感性分析結果相等。", "answer": "是", "question_group": 745}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，2023年的壓力測試結果與敏感性分析結果相等。", "answer": "是", "question_group": 745}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的壓力測試結果高於敏感性分析結果。", "answer": "否", "question_group": 745}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，2023年的壓力測試結果高於敏感性分析結果。", "answer": "否", "question_group": 745}
 

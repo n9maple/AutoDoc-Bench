@@ -5,11 +5,11 @@
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據下圖顯示的巴西和土耳其通脹率變化，如果兩國的通脹率均增加了5%，那麼新的通脹率差為何？", "answer": "C", "choice": ["23%", "20%", "21%", "18%"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據2023年的數據，農業和基礎設施損失相比2022年增加了多少億美元？以下數字中哪一個最接近正確答案？", "answer": "C", "choice": ["360億美元", "340億美元", "350億美元", "370億美元"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表5的資料，2023年農業和基礎設施的損失總和相較於2022年增長了多少？以下哪項為正確的增長金額？", "answer": "C", "choice": ["200億美元", "500億美元", "350億美元", "150億美元"]}
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2023年農業和基礎設施的損失相比2022年增加了350億美元。", "answer": "是", "question_group": 1514}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表5，2023年農業和基礎設施的損失相比2022年增加了350億美元。", "answer": "是", "question_group": 1514}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2023年農業和基礎設施的損失相比2022年增加了150億美元。", "answer": "否", "question_group": 1514}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表5，2023年農業和基礎設施的損失相比2022年增加了150億美元。", "answer": "否", "question_group": 1514}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，巴西和土耳其的通脹率均增加5%後，新的通脹率差是21%。", "answer": "是", "question_group": 1515}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，巴西和土耳其的通脹率均增加5%後，新的通脹率差是21%。", "answer": "是", "question_group": 1515}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，巴西和土耳其的通脹率均增加5%後，新的通脹率差是11%。", "answer": "否", "question_group": 1515}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，巴西和土耳其的通脹率均增加5%後，新的通脹率差是11%。", "answer": "否", "question_group": 1515}
 

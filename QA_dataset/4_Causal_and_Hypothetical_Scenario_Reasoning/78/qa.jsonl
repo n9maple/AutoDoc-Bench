@@ -4,11 +4,11 @@
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據圖片所示，如果2022年的直接損失和間接損失都增加10%，那麼這兩者的總和將是以下哪一項？", "answer": "C", "choice": ["48億", "40億", "44億", "52億"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "假設圖片顯示一個企業貸款和個人貸款的數據。若企業貸款總額增加了10，個人貸款總額增加了5，請問新的總貸款額是多少？", "answer": "C", "choice": ["新的總貸款額是55。", "新的總貸款額是50。", "新的總貸款額是45。", "新的總貸款額是40。"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據圖表，房屋貸款與消費性貸款的佔比相加後，與信用卡貸款的佔比相比，哪一項較大？", "answer": "C", "choice": ["信用卡貸款的佔比比房屋和消費性貸款的總和更高", "消費性貸款的佔比在所有類型中最高", "房屋貸款與消費性貸款的佔比總和較大", "房屋貸款的佔比與消費性貸款的佔比相等且都低於信用卡貸款"]}
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，新的總貸款額是45。", "answer": "是", "question_group": 1489}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表2，新的總貸款額是45。", "answer": "是", "question_group": 1489}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，新的總貸款額是50。", "answer": "否", "question_group": 1489}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表2，新的總貸款額是50。", "answer": "否", "question_group": 1489}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，房屋貸款與消費性貸款的佔比總和85大於信用卡貸款的佔比15。", "answer": "是", "question_group": 1490}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，房屋貸款與消費性貸款的佔比總和85大於信用卡貸款的佔比15。", "answer": "是", "question_group": 1490}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，信用卡貸款的佔比15大於房屋貸款與消費性貸款的佔比總和85。", "answer": "否", "question_group": 1490}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，信用卡貸款的佔比15大於房屋貸款與消費性貸款的佔比總和85。", "answer": "否", "question_group": 1490}
 

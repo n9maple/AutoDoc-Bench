@@ -2,7 +2,7 @@
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據以下情境，電子產業的主動揭露ESG報告書比例和金融保險產業的溫室氣體盤查揭露比例的平均值是多少？", "answer": "C", "choice": ["81.0", "83.5", "82.5", "85.0"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表5的資料，從2023年到2024年，女性董事占比和年齡多元化指數的差異變化總和是多少？以下哪一項是正確的計算結果？", "answer": "A", "choice": ["2.05", "3.10", "2.50", "4.10"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表4的資料，從2023年到2024年，氣候風險管理達標率和社會責任行動達標率的總增長百分比是多少？以下哪一項是正確的選擇？", "answer": "A", "choice": ["7.76%", "4.54%", "10.15%", "6.32%"]}
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，電子產業的主動揭露ESG報告書比例和金融保險產業的溫室氣體盤查揭露比例的平均值是82.5。", "answer": "是", "question_group": 1322}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，電子產業的主動揭露ESG報告書比例和金融保險產業的溫室氣體盤查揭露比例的平均值是82.5。", "answer": "是", "question_group": 1322}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，電子產業的主動揭露ESG報告書比例和金融保險產業的溫室氣體盤查揭露比例的平均值是85。", "answer": "否", "question_group": 1322}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，電子產業的主動揭露ESG報告書比例和金融保險產業的溫室氣體盤查揭露比例的平均值是85。", "answer": "否", "question_group": 1322}
 

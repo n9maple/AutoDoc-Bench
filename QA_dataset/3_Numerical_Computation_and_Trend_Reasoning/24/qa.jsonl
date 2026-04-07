@@ -11,19 +11,19 @@
 {"category": "Open", "question_type": "Aggregation", "question": "在圖4中，所有項目的數量總和是多少？", "answer": "20"}
 {"category": "Open", "question_type": "Aggregation", "question": "在圖1中，所有事件類型的事件次數總和是多少？", "answer": "5"}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據圖1，以下哪一項描述的是所有事件類型的事件次數總和？", "answer": "B", "choice": ["4", "5", "9", "3"]}
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，年度預算從2022年到2023年增加了20%。", "answer": "是", "question_group": 848}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表4，年度預算從2022年到2023年增加了20%。", "answer": "是", "question_group": 848}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，年度預算從2022年到2023年增加了10%。", "answer": "否", "question_group": 848}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表4，年度預算從2022年到2023年增加了10%。", "answer": "否", "question_group": 848}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023年釣魚網站和分散式阻斷服務攻擊的事件數量總和是770。", "answer": "是", "question_group": 849}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，2023年釣魚網站和分散式阻斷服務攻擊的事件數量總和是770。", "answer": "是", "question_group": 849}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023年釣魚網站和分散式阻斷服務攻擊的事件數量總和是700。", "answer": "否", "question_group": 849}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，2023年釣魚網站和分散式阻斷服務攻擊的事件數量總和是700。", "answer": "否", "question_group": 849}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年和2023年行動銀行App下載量的平均值是1400000。", "answer": "是", "question_group": 850}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，2022年和2023年行動銀行App下載量的平均值是1400000。", "answer": "是", "question_group": 850}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年和2023年行動銀行App下載量的平均值是1300000。", "answer": "否", "question_group": 850}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，2022年和2023年行動銀行App下載量的平均值是1300000。", "answer": "否", "question_group": 850}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據下圖，所有項目的數值總和是20。", "answer": "是", "question_group": 851}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖4，所有項目的數值總和是20。", "answer": "是", "question_group": 851}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據下圖，所有項目的數值總和是15。", "answer": "否", "question_group": 851}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖4，所有項目的數值總和是15。", "answer": "否", "question_group": 851}
 

@@ -15,23 +15,23 @@
 {"category": "Open", "question_type": "Difference Calculation", "question": "根據圖5的資料，2022年和2023年淨利潤(億元)的差值是多少？", "answer": "21.43億元"}
 {"category": "Open", "question_type": "Ranking", "question": "根據圖3，總負債在2022年和2023年的變化量在所有指標中排名第幾？", "answer": "3"}
 {"category": "MCQ", "question_type": "Ranking", "question": "根據圖3，總負債在2022年和2023年的變化量在所有指標中排名第幾？", "answer": "A", "choice": ["3", "4", "5", "未排名"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，董事的審核通過率相比於監察人提高了16.67個百分點。", "answer": "是", "question_group": 688}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，董事的審核通過率相比於監察人提高了16.67個百分點。", "answer": "是", "question_group": 688}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，董事的審核通過率相比於監察人提高了10個百分點。", "answer": "否", "question_group": 688}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，董事的審核通過率相比於監察人提高了10個百分點。", "answer": "否", "question_group": 688}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023 年線上參與股東數多於現場參與股東數。", "answer": "是", "question_group": 689}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，2023 年線上參與股東數多於現場參與股東數。", "answer": "是", "question_group": 689}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023 年現場參與股東數多於線上參與股東數。", "answer": "否", "question_group": 689}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，2023 年現場參與股東數多於線上參與股東數。", "answer": "否", "question_group": 689}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2025年的社區發展預算與2023年相比增長了新臺幣2億元。", "answer": "是", "question_group": 690}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，2025年的社區發展預算與2023年相比增長了新臺幣2億元。", "answer": "是", "question_group": 690}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2025年的社區發展預算與2023年相比增長了新臺幣3億元。", "answer": "否", "question_group": 690}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，2025年的社區發展預算與2023年相比增長了新臺幣3億元。", "answer": "否", "question_group": 690}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的經營活動現金流入淨額高於2022年。", "answer": "是", "question_group": 691}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖5，2023年的經營活動現金流入淨額高於2022年。", "answer": "是", "question_group": 691}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2022年的經營活動現金流入淨額高於2023年。", "answer": "否", "question_group": 691}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖5，2022年的經營活動現金流入淨額高於2023年。", "answer": "否", "question_group": 691}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據下圖，總資產在2023年相比2022年有所增加。", "answer": "是", "question_group": 692}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖3，總資產在2023年相比2022年有所增加。", "answer": "是", "question_group": 692}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據下圖，總資產在2023年相比2022年有所減少。", "answer": "否", "question_group": 692}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖3，總資產在2023年相比2022年有所減少。", "answer": "否", "question_group": 692}
 

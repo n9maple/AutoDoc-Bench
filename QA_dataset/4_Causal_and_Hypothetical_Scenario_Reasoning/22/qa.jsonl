@@ -12,19 +12,19 @@
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據2023年至2024年的數據，一鍵金融總覽和即時轉帳的滿意度變化情況如何？", "answer": "C", "choice": ["一鍵金融總覽滿意度減少了5%，即時轉帳滿意度減少了1%", "一鍵金融總覽滿意度增加了3%，即時轉帳滿意度減少了2%", "一鍵金融總覽滿意度和即時轉帳滿意度均增加了4%", "一鍵金融總覽滿意度和即時轉帳滿意度均保持不變"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據下圖，如果2024年行動銀行與網路銀行系統的可用率下降0.05%，該年的新可用率將是多少？請根據圖示選擇正確的選項。", "answer": "C", "choice": ["99.95%", "99.75%", "99.90%", "100.05%"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "假設全球FinTech市場規模從現在的3增長至6，且台灣的非銀行數位金融業者數量從60增加20%後，那麼新的數值是多少？", "answer": "C", "choice": ["全球FinTech市場規模為5.5，台灣非銀行數位金融業者數量為72。", "全球FinTech市場規模為5，台灣非銀行數位金融業者數量為72。", "全球FinTech市場規模為6，台灣非銀行數位金融業者數量為72。", "全球FinTech市場規模為7，台灣非銀行數位金融業者數量為72。"]}
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，假設2024年的AI智能客服每月處理諮詢數量為150，全年處理的總諮詢數量會是1800。", "answer": "是", "question_group": 1286}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表2，假設2024年的AI智能客服每月處理諮詢數量為150，全年處理的總諮詢數量會是1800。", "answer": "是", "question_group": 1286}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，假設2024年的AI智能客服每月處理諮詢數量為150，全年處理的總諮詢數量會是1200。", "answer": "否", "question_group": 1286}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表2，假設2024年的AI智能客服每月處理諮詢數量為150，全年處理的總諮詢數量會是1200。", "answer": "否", "question_group": 1286}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，從2023年到2024年上半年，第三方API串接數總共增加了18。", "answer": "是", "question_group": 1287}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，從2023年到2024年上半年，第三方API串接數總共增加了18。", "answer": "是", "question_group": 1287}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，從2023年到2024年上半年，第三方API串接數總共增加了15。", "answer": "否", "question_group": 1287}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，從2023年到2024年上半年，第三方API串接數總共增加了15。", "answer": "否", "question_group": 1287}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，全球FinTech市場規模從3增長至6，台灣非銀行數位金融業者數量從60增加20%後為72。", "answer": "是", "question_group": 1288}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表10，全球FinTech市場規模從3增長至6，台灣非銀行數位金融業者數量從60增加20%後為72。", "answer": "是", "question_group": 1288}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，全球FinTech市場規模從3增長至6，台灣非銀行數位金融業者數量從60增加20%後為70。", "answer": "否", "question_group": 1288}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表10，全球FinTech市場規模從3增長至6，台灣非銀行數位金融業者數量從60增加20%後為70。", "answer": "否", "question_group": 1288}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，從2023年底到2024年上半年，數位帳戶開戶總數增加了40個。", "answer": "是", "question_group": 1289}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表1，從2023年底到2024年上半年，數位帳戶開戶總數增加了40個。", "answer": "是", "question_group": 1289}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，從2023年底到2024年上半年，數位帳戶開戶總數增加了30個。", "answer": "否", "question_group": 1289}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表1，從2023年底到2024年上半年，數位帳戶開戶總數增加了30個。", "answer": "否", "question_group": 1289}
 

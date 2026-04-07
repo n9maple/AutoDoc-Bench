@@ -16,19 +16,19 @@
 {"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖片中顯示的合規性審查頻率趨勢，從2022年至2024年，該趨勢是如何變化的？", "answer": "C", "choice": ["合規性審查頻率在2023年突然增加，但從2022年到2023年保持不變。", "合規性審查頻率從2022年到2024年不斷減少。", "合規性審查頻率從2022年到2023年增加，然後從2023年到2024年保持不變。", "合規性審查頻率在2024年大幅增加。"]}
 {"category": "Open", "question_type": "Aggregation", "question": "根據圖5，所有指標的公司比例總和是多少？", "answer": "240"}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據圖5，所有指標的公司比例總和可能是以下哪個選項？", "answer": "B", "choice": ["200", "240", "230", "260"]}
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，女性董事和多元化背景成員合計占董事會的比例為約50%。", "answer": "是", "question_group": 1147}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，女性董事和多元化背景成員合計占董事會的比例為約50%。", "answer": "是", "question_group": 1147}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，女性董事和多元化背景成員合計占董事會的比例為約70%。", "answer": "否", "question_group": 1147}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，女性董事和多元化背景成員合計占董事會的比例為約70%。", "answer": "否", "question_group": 1147}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，多語種財務報告比例的平均值為71.67%，法定期限內財務報表提交比例的平均值為86.67%。", "answer": "是", "question_group": 1148}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，多語種財務報告比例的平均值為71.67%，法定期限內財務報表提交比例的平均值為86.67%。", "answer": "是", "question_group": 1148}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，多語種財務報告比例的平均值為75%，法定期限內財務報表提交比例的平均值為85%。", "answer": "否", "question_group": 1148}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，多語種財務報告比例的平均值為75%，法定期限內財務報表提交比例的平均值為85%。", "answer": "否", "question_group": 1148}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，從2022年到2024年，電子投票系統採用比例的平均值是85%。", "answer": "是", "question_group": 1149}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表6，從2022年到2024年，電子投票系統採用比例的平均值是85%。", "answer": "是", "question_group": 1149}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年到2024年每年的電子投票系統採用比例都是85%。", "answer": "否", "question_group": 1149}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表6，2022年到2024年每年的電子投票系統採用比例都是85%。", "answer": "否", "question_group": 1149}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，從2022年到2024年，多元化措施實施公司比例每年增加5個百分點。", "answer": "是", "question_group": 1150}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖6，從2022年到2024年，多元化措施實施公司比例每年增加5個百分點。", "answer": "是", "question_group": 1150}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，從2022年到2024年，多元化措施實施公司比例每年增加10個百分點。", "answer": "否", "question_group": 1150}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖6，從2022年到2024年，多元化措施實施公司比例每年增加10個百分點。", "answer": "否", "question_group": 1150}
 

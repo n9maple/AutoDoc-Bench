@@ -2,11 +2,11 @@
 {"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果 2022 年 ESG 策略和數位轉型和創新研發的比例都要增加 10%，這兩者新的總和是多少？", "answer": "126.5%"}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "在下圖所示的公司A和公司B的現金股利和股票股利中，兩者總和的差異是多少？", "answer": "C", "choice": ["公司A的現金股利比公司B的現金股利多5%", "公司B的股票股利為10%，公司A沒有股票股利，因此存在差異", "0%", "公司A和公司B的總股利相同，因此差異為0%"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "假設2022年的ESG策略和數位轉型與創新研發的比例各自增加10%，那它們新的總和會是多少？請參考下面的數據來選擇正確答案：", "answer": "C", "choice": ["128.5%", "130.5%", "126.5%", "127%"]}
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，公司A和公司B的現金股利和股票股利總和的差異是0%。", "answer": "是", "question_group": 1294}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，公司A和公司B的現金股利和股票股利總和的差異是0%。", "answer": "是", "question_group": 1294}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，公司A和公司B的現金股利和股票股利總和的差異是1%。", "answer": "否", "question_group": 1294}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，公司A和公司B的現金股利和股票股利總和的差異是1%。", "answer": "否", "question_group": 1294}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2022 年公司的碳排放減少了 5%。", "answer": "是", "question_group": 1295}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表5，2022 年公司的碳排放減少了 5%。", "answer": "是", "question_group": 1295}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，未來三年內公司計劃將碳排放減少 10%。", "answer": "否", "question_group": 1295}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表5，未來三年內公司計劃將碳排放減少 10%。", "answer": "否", "question_group": 1295}
 

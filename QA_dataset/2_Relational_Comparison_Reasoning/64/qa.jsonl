@@ -26,31 +26,31 @@
 {"category": "Open", "question_type": "Ranking", "question": "在圖3中，哪一年客戶雙重認證啟用率達到最高？", "answer": "2023年"}
 {"category": "Open", "question_type": "Ranking", "question": "在圖5中，哪一個成因的比例最高？", "answer": "其他"}
 {"category": "MCQ", "question_type": "Ranking", "question": "根據圖3，以下哪一年客戶雙重認證的啟用率達到最高？", "answer": "A", "choice": ["2023年", "2023年啟用率下降至50%", "2022年的啟用率為45%", "2022年啟用率為2023年的90%"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，超過3天處理簡易異常的客戶滿意度比1天內的滿意度低28%。", "answer": "是", "question_group": 545}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，超過3天處理簡易異常的客戶滿意度比1天內的滿意度低28%。", "answer": "是", "question_group": 545}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，超過3天處理簡易異常的客戶滿意度比1天內的滿意度低18%。", "answer": "否", "question_group": 545}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，超過3天處理簡易異常的客戶滿意度比1天內的滿意度低18%。", "answer": "否", "question_group": 545}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，2022年的客戶雙重認證啟用率是最低的。", "answer": "是", "question_group": 546}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖3，2022年的客戶雙重認證啟用率是最低的。", "answer": "是", "question_group": 546}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，2023年的客戶雙重認證啟用率是最低的。", "answer": "否", "question_group": 546}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖3，2023年的客戶雙重認證啟用率是最低的。", "answer": "否", "question_group": 546}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，2023年金融機構資安事件的成因中，'其他'的比例是最高的。", "answer": "是", "question_group": 547}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖5，2023年金融機構資安事件的成因中，'其他'的比例是最高的。", "answer": "是", "question_group": 547}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，2023年金融機構資安事件的成因中，'內部人員疏失'的比例是最高的。", "answer": "否", "question_group": 547}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖5，2023年金融機構資安事件的成因中，'內部人員疏失'的比例是最高的。", "answer": "否", "question_group": 547}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，1萬元以下的轉帳次數比10萬元以上的轉帳次數多69次。", "answer": "是", "question_group": 548}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖2，1萬元以下的轉帳次數比10萬元以上的轉帳次數多69次。", "answer": "是", "question_group": 548}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，1萬元以下的轉帳次數比10萬元以上的轉帳次數多10次。", "answer": "否", "question_group": 548}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖2，1萬元以下的轉帳次數比10萬元以上的轉帳次數多10次。", "answer": "否", "question_group": 548}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年中異常登入地點偵測的次數比異常設備偵測多40次。", "answer": "是", "question_group": 549}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，2023年中異常登入地點偵測的次數比異常設備偵測多40次。", "answer": "是", "question_group": 549}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年中異常登入地點偵測的次數比異常設備偵測多50次。", "answer": "否", "question_group": 549}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，2023年中異常登入地點偵測的次數比異常設備偵測多50次。", "answer": "否", "question_group": 549}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，'其他'事件的數量比'身分認證不足'事件的數量多46件。", "answer": "是", "question_group": 550}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖5，'其他'事件的數量比'身分認證不足'事件的數量多46件。", "answer": "是", "question_group": 550}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，'身分認證不足'事件的數量比'其他'事件的數量多46件。", "answer": "否", "question_group": 550}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖5，'身分認證不足'事件的數量比'其他'事件的數量多46件。", "answer": "否", "question_group": 550}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據下圖，指標8的比例排在第二位。", "answer": "是", "question_group": 551}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖6，指標8的比例排在第二位。", "answer": "是", "question_group": 551}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據下圖，指標24的比例排在第二位。", "answer": "否", "question_group": 551}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖6，指標24的比例排在第二位。", "answer": "否", "question_group": 551}
 

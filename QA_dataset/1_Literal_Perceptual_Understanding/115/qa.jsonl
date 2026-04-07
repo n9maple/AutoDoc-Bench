@@ -14,27 +14,27 @@
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖片「未來消費趨勢預測與對策建議」的情境敘述（含標題與段落要點），下列哪一個選項最精確地識別三大主題、將策略1–5各配對至最直接對應的主題（若策略可屬於多主題，僅選最直接者）、並指出預計年增率範圍以及在該增率範圍內最可能成為主要成長動能？請選出一項最符合圖片描述的完整答案（回答需依賴圖片內具體敘述）。", "answer": "A", "choice": ["三大主題：數位化、個性化、可持續性。策略配對：1→數位化；2→個性化；3→可持續性；4→數位化；5→個性化。預計年增率：10%–15%。主要成長動能：數位化（因圖片強調5G、智慧裝置普及與數位支付將推升線上／無接觸消費）。", "三大主題：數位化、個性化、顧客關係。策略配對：1→個性化；2→個性化；3→可持續性；4→數位化；5→顧客關係。預計年增率：8%–12%。主要成長動能：個性化（因圖片強調AI與大數據改善單客價值）。", "三大主題：數位化、綠色消費、個人隱私。策略配對：1→數位化；2→可持續性；3→可持續性；4→數位化；5→個性化。預計年增率：5%–9%。主要成長動能：可持續性（因圖片提到環保卡與綠色合作吸引新客群）。", "三大主題：科技採用、個性化、可持續性。策略配對：1→科技採用；2→個性化；3→可持續性；4→科技採用；5→科技採用。預計年增率：15%–20%。主要成長動能：可持續性（因圖片指出ESG趨勢為長期推力）。"]}
 {"category": "Open", "question_type": "Fact Lookup", "question": "根據圖4，2024Q2的消費比例是多少？", "answer": "2024Q2的消費比例為圖表中顯示的數值"}
 {"category": "MCQ", "question_type": "Proportion", "question": "根據圖2，旅行和娛樂的比例為何？以下哪個選項是正確的？", "answer": "A", "choice": ["15.0%", "25.0%", "10.0%", "13.0%"]}
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖中2025年第二季台銀信用卡促銷活動數據，刺激持卡人消費意願以現金回饋最具影響力，因為65%持卡人以現金回饋為主要驅動。", "answer": "是", "question_group": 251}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，刺激持卡人消費意願以現金回饋最具影響力，因為65%持卡人以現金回饋為主要驅動。", "answer": "是", "question_group": 251}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖中2025年第二季台銀信用卡促銷活動數據，商家交易額短期拉升以積分返還最有效。", "answer": "否", "question_group": 251}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，商家交易額短期拉升以積分返還最有效。", "answer": "否", "question_group": 251}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，高頻回饋型與分期大額型應優先推案，因為20–30歲約80%高使用率且活躍於高頻次類別可迅速放大交易量；30–45歲約60%採分期且集中大額支出可直接增加單戶收入與留存。", "answer": "是", "question_group": 252}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，高頻回饋型與分期大額型應優先推案，因為20–30歲約80%高使用率且活躍於高頻次類別可迅速放大交易量；30–45歲約60%採分期且集中大額支出可直接增加單戶收入與留存。", "answer": "是", "question_group": 252}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，成長型與醫療信任型應優先推案，因為高成長率代表快速擴張與醫療支出集中代表穩定高值交易。", "answer": "否", "question_group": 252}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，成長型與醫療信任型應優先推案，因為高成長率代表快速擴張與醫療支出集中代表穩定高值交易。", "answer": "否", "question_group": 252}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，旅遊與娛樂的信用卡消費比例為85%，主因為國際支付便利及台銀提供旅行保險與旅遊積分。", "answer": "是", "question_group": 253}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，旅遊與娛樂的信用卡消費比例為85%，主因為國際支付便利及台銀提供旅行保險與旅遊積分。", "answer": "是", "question_group": 253}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，餐飲的信用卡消費比例高於線上購物，且主要原因是電商促銷與信用卡折扣。", "answer": "否", "question_group": 253}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，餐飲的信用卡消費比例高於線上購物，且主要原因是電商促銷與信用卡折扣。", "answer": "否", "question_group": 253}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖中2025年第二季台銀信用卡促銷活動數據，65%持卡人以現金回饋為主要消費驅動。", "answer": "是", "question_group": 254}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，65%持卡人以現金回饋為主要消費驅動。", "answer": "是", "question_group": 254}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖中2025年第二季台銀信用卡促銷活動數據，透過數位渠道獲取促銷信息者中有90%於一週內消費。", "answer": "否", "question_group": 254}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，透過數位渠道獲取促銷信息者中有90%於一週內消費。", "answer": "否", "question_group": 254}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，因促銷為主要原因的線上消費者比例約為70%。", "answer": "是", "question_group": 255}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，因促銷為主要原因的線上消費者比例約為70%。", "answer": "是", "question_group": 255}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，購物前會用手機查詢或預約的實體店面消費者比例不足20%。", "answer": "否", "question_group": 255}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，購物前會用手機查詢或預約的實體店面消費者比例不足20%。", "answer": "否", "question_group": 255}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，台北、台中與高雄三地合計佔全台消費總額的百分比為70%。", "answer": "是", "question_group": 256}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，台北、台中與高雄三地合計佔全台消費總額的百分比為70%。", "answer": "是", "question_group": 256}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，零售與餐飲各自佔總消費額的百分比分別為40%和25%。", "answer": "否", "question_group": 256}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，零售與餐飲各自佔總消費額的百分比分別為40%和25%。", "answer": "否", "question_group": 256}
 

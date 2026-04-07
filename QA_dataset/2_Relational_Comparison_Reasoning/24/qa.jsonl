@@ -20,31 +20,31 @@
 {"category": "MCQ", "question_type": "Comparison", "question": "根據表4的資料，比較2022年與2023年的年成長率，哪一年的年成長率更接近2023年的兩倍？", "answer": "A", "choice": ["2023年", "2023年成長率為2022年的三分之一", "2023年成長率為2022年的1.5倍", "2022年成長率接近2023年年成長率的兩倍"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據表6的數據，若2023年潛在異常交易事件件數的異常率需要降至0.010，潛在異常交易事件件數需要減少以下哪一個數量？", "answer": "D", "choice": ["潛在異常交易事件件數需要減少800件。", "潛在異常交易事件件數需要減少600件。", "潛在異常交易事件件數需要減少250件。", "潛在異常交易事件件數需要減少700件。"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據圖4，以下哪一項目擁有最高的數量？", "answer": "A", "choice": ["項目6", "項目4", "項目3", "項目2"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的MITM/假冒頁面資料外洩件數小於人工復核確認異常比率。", "answer": "是", "question_group": 352}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表7，2023年的MITM/假冒頁面資料外洩件數小於人工復核確認異常比率。", "answer": "是", "question_group": 352}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的MITM/假冒頁面資料外洩件數大於人工復核確認異常比率。", "answer": "否", "question_group": 352}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表7，2023年的MITM/假冒頁面資料外洩件數大於人工復核確認異常比率。", "answer": "否", "question_group": 352}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，因外部攻擊暫停服務的時間（45）大於啟動備援次數（1）。", "answer": "是", "question_group": 353}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表8，因外部攻擊暫停服務的時間（45）大於啟動備援次數（1）。", "answer": "是", "question_group": 353}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，啟動備援次數（1）大於因外部攻擊暫停服務的時間（45）。", "answer": "否", "question_group": 353}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表8，啟動備援次數（1）大於因外部攻擊暫停服務的時間（45）。", "answer": "否", "question_group": 353}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據圖片，最左邊項目的數值是4。", "answer": "是", "question_group": 354}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖4，最左邊項目的數值是4。", "answer": "是", "question_group": 354}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據圖片，最左邊項目的數值是5。", "answer": "否", "question_group": 354}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖4，最左邊項目的數值是5。", "answer": "否", "question_group": 354}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，數值最高和最低的項目之間的差距是57。", "answer": "是", "question_group": 355}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖3，數值最高和最低的項目之間的差距是57。", "answer": "是", "question_group": 355}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，數值最高和最低的項目之間的差距是45。", "answer": "否", "question_group": 355}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖3，數值最高和最低的項目之間的差距是45。", "answer": "否", "question_group": 355}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，反洗錢警示數比電子支付警示數高出146。", "answer": "是", "question_group": 356}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表10，反洗錢警示數比電子支付警示數高出146。", "answer": "是", "question_group": 356}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，電子支付警示數比反洗錢警示數高出146。", "answer": "否", "question_group": 356}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表10，電子支付警示數比反洗錢警示數高出146。", "answer": "否", "question_group": 356}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2022年與2023年相比，數位金融服務用戶數增加了214,290。", "answer": "是", "question_group": 357}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，2022年與2023年相比，數位金融服務用戶數增加了214,290。", "answer": "是", "question_group": 357}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2022年與2023年相比，數位金融服務用戶數增加了314,290。", "answer": "否", "question_group": 357}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，2022年與2023年相比，數位金融服務用戶數增加了314,290。", "answer": "否", "question_group": 357}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的年度預算年成長率為20%，高於2022年的12%。", "answer": "是", "question_group": 358}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，2023年的年度預算年成長率為20%，高於2022年的12%。", "answer": "是", "question_group": 358}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2022年的年度預算年成長率為20%，高於2023年的12%。", "answer": "否", "question_group": 358}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，2022年的年度預算年成長率為20%，高於2023年的12%。", "answer": "否", "question_group": 358}
 

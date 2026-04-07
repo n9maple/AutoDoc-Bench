@@ -13,19 +13,19 @@
 {"category": "MCQ", "question_type": "Temporal Trend", "question": "根據以下圖表，行業平均ROE(%)在2023年至2025年之間的趨勢是什麼？", "answer": "C", "choice": ["行業平均ROE(%)在2024年達到最高點，然後在2025年下降。", "行業平均ROE(%)在2023年至2025年之間增加，但增幅不明顯。", "行業平均ROE(%)呈現逐年上升的趨勢。", "行業平均ROE(%)在2023年持平，然後在接下來的兩年內出現輕微上升。"]}
 {"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖片中顯示的綠色貸款金額變化情況，2025年至2029年之間，綠色貸款的金額是如何變化的？", "answer": "C", "choice": ["從2025年開始，綠色貸款金額保持穩定在1億美元，直至2029年。", "從2025年的2億美元逐年增加至2029年的5億美元。", "從2025年的1億美元逐年增加1億美元，至2029年達到5億美元。", "從2025年的1億美元到2029年減少至5000萬美元。"]}
 {"category": "Open", "question_type": "Aggregation", "question": "根據表1的資料，計算從2024年到2025年，現場與線上參與人數增長的總人數是多少？", "answer": "總增長人數是245。"}
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2024年到2025年，線上參與人數的變化幅度為15%。", "answer": "是", "question_group": 880}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，從2024年到2025年，線上參與人數的變化幅度為15%。", "answer": "是", "question_group": 880}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2024年到2025年，線上參與人數的變化幅度為10%。", "answer": "否", "question_group": 880}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，從2024年到2025年，線上參與人數的變化幅度為10%。", "answer": "否", "question_group": 880}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2024 年和 2025 年的現場參與人數與線上參與人數的總和是 4445。", "answer": "是", "question_group": 881}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，2024 年和 2025 年的現場參與人數與線上參與人數的總和是 4445。", "answer": "是", "question_group": 881}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2024 年和 2025 年的現場參與人數與線上參與人數的總和是 5000。", "answer": "否", "question_group": 881}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，2024 年和 2025 年的現場參與人數與線上參與人數的總和是 5000。", "answer": "否", "question_group": 881}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2030年的可持續項目投資比例和環保型業務比重的總和是45%。", "answer": "是", "question_group": 882}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，2030年的可持續項目投資比例和環保型業務比重的總和是45%。", "answer": "是", "question_group": 882}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2030年的可持續項目投資比例和環保型業務比重的總和是50%。", "answer": "否", "question_group": 882}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，2030年的可持續項目投資比例和環保型業務比重的總和是50%。", "answer": "否", "question_group": 882}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖表，從2023年至2025年，行業平均ROE(%)呈現逐年上升的趨勢。", "answer": "是", "question_group": 883}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖4，從2023年至2025年，行業平均ROE(%)呈現逐年上升的趨勢。", "answer": "是", "question_group": 883}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖表，從2023年至2025年，行業平均ROE(%)呈現下降的趨勢。", "answer": "否", "question_group": 883}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖4，從2023年至2025年，行業平均ROE(%)呈現下降的趨勢。", "answer": "否", "question_group": 883}
 

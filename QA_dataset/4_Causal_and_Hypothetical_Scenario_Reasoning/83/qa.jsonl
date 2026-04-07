@@ -3,7 +3,7 @@
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "如果資本適足率和監管要求在2023年各增加50%，那麼根據提供的圖片，資本適足率會多出監管要求多少個百分點？", "answer": "C", "choice": ["170個百分點", "160個百分點", "165個百分點", "180個百分點"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據2021到2025年間的數據分析能力增強投資情景，總支出差距是多少？", "answer": "C", "choice": ["40億", "15億", "25億", "28億"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表2的資料，假設亞洲的增長率每兩年增加10%，而其他地區的增長率每三年增加5%，到2028年時，亞洲和其他地區的增長率分別是以下哪個選項？", "answer": "B", "choice": ["亞洲的增長率為45%，其他地區的增長率為9%", "亞洲的增長率為35%，其他地區的增長率為10%", "亞洲的增長率為35%，其他地區的增長率為12.5%", "亞洲的增長率為30%，其他地區的增長率為7.5%"]}
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，從2021到2025年間技術升級和數據分析能力增強的總支出差距是25億。", "answer": "是", "question_group": 1495}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表5，從2021到2025年間技術升級和數據分析能力增強的總支出差距是25億。", "answer": "是", "question_group": 1495}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，從2021到2025年間技術升級和數據分析能力增強的總支出差距是15億。", "answer": "否", "question_group": 1495}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表5，從2021到2025年間技術升級和數據分析能力增強的總支出差距是15億。", "answer": "否", "question_group": 1495}
 

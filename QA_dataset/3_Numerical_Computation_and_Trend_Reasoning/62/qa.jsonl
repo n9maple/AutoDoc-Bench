@@ -23,27 +23,27 @@
 {"category": "Open", "question_type": "Aggregation", "question": "根據表9的資料，計算2022年和2023年的30分鐘內完成彙整及加密比例的平均值是多少？", "answer": "平均值是99.3。"}
 {"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表7的資料，若股東會召開日為7月15日，中華電信的投票截止時間是以下哪個選項？", "answer": "D", "choice": ["7月13日23時00分00秒", "7月14日23時59分59秒", "7月15日00時00分00秒", "7月13日23時59分59秒"]}
 {"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表2的資料，假設未來兩年操作容易上手比例每年增加2%，以下哪一項是到2025年時操作容易上手比例的正確估算值？", "answer": "B", "choice": ["95.04%", "94.04%", "93.04%", "92.04%"]}
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年和2023年30分鐘內完成彙整及加密的比例平均值為99.3。", "answer": "是", "question_group": 1009}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表9，2022年和2023年30分鐘內完成彙整及加密的比例平均值為99.3。", "answer": "是", "question_group": 1009}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年和2023年30分鐘內完成彙整及加密的比例平均值為95.0。", "answer": "否", "question_group": 1009}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表9，2022年和2023年30分鐘內完成彙整及加密的比例平均值為95.0。", "answer": "否", "question_group": 1009}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，鴻海經歷的實際開放天數是所有公司中最短的，為5.7天。", "answer": "是", "question_group": 1010}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表7，鴻海經歷的實際開放天數是所有公司中最短的，為5.7天。", "answer": "是", "question_group": 1010}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，聯發科經歷的實際開放天數是所有公司中最短的，為5.9天。", "answer": "否", "question_group": 1010}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表7，聯發科經歷的實際開放天數是所有公司中最短的，為5.9天。", "answer": "否", "question_group": 1010}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，從 2009 到 2023 年，上市櫃公司採用家數的平均數是 1084。", "answer": "是", "question_group": 1011}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，從 2009 到 2023 年，上市櫃公司採用家數的平均數是 1084。", "answer": "是", "question_group": 1011}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，從 2009 到 2023 年，上市櫃公司採用家數的平均數是 500。", "answer": "否", "question_group": 1011}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，從 2009 到 2023 年，上市櫃公司採用家數的平均數是 500。", "answer": "否", "question_group": 1011}
 
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，從2023年6月到7月，協助用戶數減少的百分比是17.58%。", "answer": "是", "question_group": 1012}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖6，從2023年6月到7月，協助用戶數減少的百分比是17.58%。", "answer": "是", "question_group": 1012}
 
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，從2023年6月到7月，協助用戶數減少的百分比是10%。", "answer": "否", "question_group": 1012}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖6，從2023年6月到7月，協助用戶數減少的百分比是10%。", "answer": "否", "question_group": 1012}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，所有問題類型的諮詢件數總和是16065。", "answer": "是", "question_group": 1013}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖5，所有問題類型的諮詢件數總和是16065。", "answer": "是", "question_group": 1013}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，所有問題類型的諮詢件數總和是15000。", "answer": "否", "question_group": 1013}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖5，所有問題類型的諮詢件數總和是15000。", "answer": "否", "question_group": 1013}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2022年到2023年，完成投票的股東人數增加了400人。", "answer": "是", "question_group": 1014}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表8，從2022年到2023年，完成投票的股東人數增加了400人。", "answer": "是", "question_group": 1014}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2022年到2023年，完成投票的股東人數增加了300人。", "answer": "否", "question_group": 1014}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表8，從2022年到2023年，完成投票的股東人數增加了300人。", "answer": "否", "question_group": 1014}
 

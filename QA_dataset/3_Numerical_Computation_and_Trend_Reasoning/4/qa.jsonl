@@ -6,11 +6,11 @@
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據所提供的促銷活動滿意度調查數據，滿意和非常滿意的百分比總和是多少？請選擇最符合該數字的選項。", "answer": "C", "choice": ["99%", "89%", "115%", "105%"]}
 {"category": "Open", "question_type": "Aggregation", "question": "所有用戶類型的月均使用次數總和是多少?", "answer": "30.35"}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據下列數據，所有用戶類型的月均使用次數總和是多少？", "answer": "C", "choice": ["34.50", "31.25", "30.35", "28.75"]}
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，去年月均消費額是新台幣8,333元，比今年的月均消費額新台幣10,000元更小。", "answer": "是", "question_group": 779}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，去年月均消費額是新台幣8,333元，比今年的月均消費額新台幣10,000元更小。", "answer": "是", "question_group": 779}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，今年月均消費額是新台幣8,333元，比去年的月均消費額新台幣10,000元更小。", "answer": "否", "question_group": 779}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，今年月均消費額是新台幣8,333元，比去年的月均消費額新台幣10,000元更小。", "answer": "否", "question_group": 779}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，促銷活動中非常滿意和滿意的百分比總和是115%。", "answer": "是", "question_group": 780}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表7，促銷活動中非常滿意和滿意的百分比總和是115%。", "answer": "是", "question_group": 780}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，促銷活動中非常滿意和滿意的百分比總和是100%。", "answer": "否", "question_group": 780}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表7，促銷活動中非常滿意和滿意的百分比總和是100%。", "answer": "否", "question_group": 780}
 

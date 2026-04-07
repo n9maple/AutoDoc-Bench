@@ -6,11 +6,11 @@
 {"category": "Open", "question_type": "Rate of Change", "question": "在2024年至2025年間，國泰金控的股利收益率增長了多少百分比？", "answer": "5.56%"}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的圖表，在2024年和2025年期間，聯發科的股利發放額總和為多少？", "answer": "C", "choice": ["根據過去的趨勢，聯發科2024年的股利可能為每股50元，2025年預計提升至60元，因此兩年的總和為110元。", "2024年聯發科的股利發放額是每股5元，2025年是6元，總和為11元。", "無法確定具體數字，因為缺少必要的圖表數據。", "2024年聯發科的股利預測為每股10元，2025年為15元，兩年總和為25元。"]}
 {"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖表顯示，國泰金控在2024年至2025年間的股利收益率增長了多少百分比？", "answer": "C", "choice": ["6.00%", "4.50%", "5.56%", "3.50%"]}
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，電子產業和金融業的比例總和是最高的三個行業之一。", "answer": "是", "question_group": 1080}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，電子產業和金融業的比例總和是最高的三個行業之一。", "answer": "是", "question_group": 1080}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，電子產業和金融業的比例總和不是最高的三個行業之一。", "answer": "否", "question_group": 1080}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，電子產業和金融業的比例總和不是最高的三個行業之一。", "answer": "否", "question_group": 1080}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，聯發科和台積電2025年的股利發放總額合計是1150億新台幣。", "answer": "是", "question_group": 1081}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，聯發科和台積電2025年的股利發放總額合計是1150億新台幣。", "answer": "是", "question_group": 1081}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，聯發科和台積電2025年的股利發放總額合計是1000億新台幣。", "answer": "否", "question_group": 1081}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，聯發科和台積電2025年的股利發放總額合計是1000億新台幣。", "answer": "否", "question_group": 1081}
 

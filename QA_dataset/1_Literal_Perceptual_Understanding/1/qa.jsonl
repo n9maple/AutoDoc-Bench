@@ -15,31 +15,31 @@
 {"category": "Open", "question_type": "Fact Lookup", "question": "根據標題為「未來改進方向與建議」的圖文敘述，以下哪一選項最正確反映圖中提供的數字或措辭？（請以圖中文本為依據回答）\n\nA) 圖中顯示客戶服務有30%不滿，作者以提升客戶服務為首要；網路銀行安全性擔憂低於30%；使用者界面滿意度低於80%。\nB) 圖中文本明示網路銀行安全性有32%受訪者表示擔憂，為三者中最高；作者明確將「提升客戶服務效率與質量」列為首要改善；客戶服務為「超過30%」不滿；使用者界面80%滿意（約20%不滿）。\nC) 圖中指出使用者界面不滿比例約為50%，作者將使用者界面改善列為首要；客戶服務和網路安全均低於20%不滿。\nD) 圖文指出客戶服務不滿為明確的32%，作者首要建議是強化網路銀行安全性，使用者界面滿意度為80%。", "answer": "B) 圖中文本明示網路銀行安全性有32%擔憂（為三者最高）；作者明確以「提升客戶服務效率與質量」為首要改善，客戶服務為「超過30%」不滿，使用者界面80%滿意（約20%不滿）。"}
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "根據標題為「未來改進方向與建議」的圖文敘述，以下哪一選項最正確反映圖中提供的數字或措辭？（請以圖中文本為依據回答）\n\nA) 圖中顯示客戶服務有30%不滿，作者以提升客戶服務為首要；網路銀行安全性擔憂低於30%；使用者界面滿意度低於80%。\nB) 圖中文本明示網路銀行安全性有32%受訪者表示擔憂，為三者中最高；作者明確將「提升客戶服務效率與質量」列為首要改善；客戶服務為「超過30%」不滿；使用者界面80%滿意（約20%不滿）。\nC) 圖中指出使用者界面不滿比例約為50%，作者將使用者界面改善列為首要；客戶服務和網路安全均低於20%不滿。\nD) 圖文指出客戶服務不滿為明確的32%，作者首要建議是強化網路銀行安全性，使用者界面滿意度為80%。", "answer": "B", "choice": ["圖中三個百分比（>30%、32%、80%）相加超過100%，因此這些比例必為互斥群體且作者報告有誤，應將其調整使總和≤100%。", "B) 圖中文本明示網路銀行安全性有32%擔憂（為三者最高）；作者明確以「提升客戶服務效率與質量」為首要改善，客戶服務為「超過30%」不滿，使用者界面80%滿意（約20%不滿）。", "圖中文本明示網路銀行安全性有32%受訪者表示擔憂，作者將網路銀行安全性列為首要改善；客戶服務為「超過30%」不滿；使用者界面80%滿意（約20%不滿）。", "圖中顯示客戶服務有約30%不滿，作者以提升客戶服務為首要；網路銀行安全性擔憂低於30%；使用者界面滿意度低於80%。"]}
 {"category": "MCQ", "question_type": "Proportion", "question": "根據圖6所示，以下哪種客戶服務渠道的使用比例最低？", "answer": "B", "choice": ["網頁即時聊天使用比例為15.0%", "電子郵件的使用比例為20.0%", "電話的使用比例為18.0%", "郵寄的使用比例為8.0%"]}
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，台新銀行的使用者中有80%的人對網路銀行界面表示滿意，是所有百分比中最高的。", "answer": "是", "question_group": 1}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，台新銀行的使用者中有80%的人對網路銀行界面表示滿意，是所有百分比中最高的。", "answer": "是", "question_group": 1}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，台新銀行的使用者中有20%的人希望在高風險操作時有更明確的安全提示，是所有百分比中最高的。", "answer": "否", "question_group": 1}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，台新銀行的使用者中有20%的人希望在高風險操作時有更明確的安全提示，是所有百分比中最高的。", "answer": "否", "question_group": 1}
 
-{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，電子郵件的使用比例是所有客戶服務渠道中最低的。", "answer": "是", "question_group": 2}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖6，電子郵件的使用比例是所有客戶服務渠道中最低的。", "answer": "是", "question_group": 2}
 
-{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，線上即時聊天的使用比例是所有客戶服務渠道中最低的。", "answer": "否", "question_group": 2}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖6，線上即時聊天的使用比例是所有客戶服務渠道中最低的。", "answer": "否", "question_group": 2}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，帳戶管理的滿意度為85%，是所有功能中最高的，並且比整體滿意度的74%高11個百分點。", "answer": "是", "question_group": 3}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，帳戶管理的滿意度為85%，是所有功能中最高的，並且比整體滿意度的74%高11個百分點。", "answer": "是", "question_group": 3}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，平台安全性的滿意度為80%，是所有功能中最高的。", "answer": "否", "question_group": 3}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，平台安全性的滿意度為80%，是所有功能中最高的。", "answer": "否", "question_group": 3}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖片，25–34歲受訪者比例高於35–44歲（37% vs. 28%），且男性比例高於女性（55% vs. 45%）。", "answer": "是", "question_group": 4}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，25–34歲受訪者比例高於35–44歲（37% vs. 28%），且男性比例高於女性（55% vs. 45%）。", "answer": "是", "question_group": 4}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖片，35–44歲受訪者比例高於25–34歲（28% vs. 37%），且女性比例高於男性（45% vs. 55%）。", "answer": "否", "question_group": 4}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，35–44歲受訪者比例高於25–34歲（28% vs. 37%），且女性比例高於男性（45% vs. 55%）。", "answer": "否", "question_group": 4}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，25–34歲受訪者比例高於35–44歲（37% vs. 28%），且男性比例高於女性（55% vs. 45%）。", "answer": "是", "question_group": 5}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，25–34歲受訪者比例高於35–44歲（37% vs. 28%），且男性比例高於女性（55% vs. 45%）。", "answer": "是", "question_group": 5}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，35–44歲受訪者比例高於25–34歲（28% vs. 37%），且女性比例高於男性（45% vs. 55%）。", "answer": "否", "question_group": 5}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，35–44歲受訪者比例高於25–34歲（28% vs. 37%），且女性比例高於男性（45% vs. 55%）。", "answer": "否", "question_group": 5}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，80%的使用者對網路銀行界面表示滿意，這是最高的百分比。", "answer": "是", "question_group": 6}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，80%的使用者對網路銀行界面表示滿意，這是最高的百分比。", "answer": "是", "question_group": 6}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，68%的使用者提出改進建議，這是最低的百分比。", "answer": "否", "question_group": 6}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，68%的使用者提出改進建議，這是最低的百分比。", "answer": "否", "question_group": 6}
 
-{"category": "YesNo", "question_type": "Proportion", "question": "根據圖表，學生的比例是所有職業類別中最低的。", "answer": "是", "question_group": 7}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖3，學生的比例是所有職業類別中最低的。", "answer": "是", "question_group": 7}
 
-{"category": "YesNo", "question_type": "Proportion", "question": "根據圖表，企業主或自營業者的比例是所有職業類別中最低的。", "answer": "否", "question_group": 7}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖3，企業主或自營業者的比例是所有職業類別中最低的。", "answer": "否", "question_group": 7}
 

@@ -5,11 +5,11 @@
 {"category": "Open", "question_type": "Ranking", "question": "在2023年上半年台股市場外資資金流向中，哪個季度的資金流動量最低？", "answer": "由於具體數據未提供，無法確定哪個季度的資金流動量最低。"}
 {"category": "MCQ", "question_type": "Ranking", "question": "根據2023年上半年台股市場外資資金流向的信息，哪一個季度的資金流動量最低？ (請參考提供的數據圖表)", "answer": "C", "choice": ["第一季度無資金流入", "第三季度資金流入量增加", "第二季度", "全年平均資金流動量持平"]}
 {"category": "Open", "question_type": "Ranking", "question": "根據圖3，哪個板塊的外資增持比例是最低的？", "answer": "金融板塊的外資增持比例是最低的，為-2%。"}
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，2023年上半年台股市場外資資金流向中，第二季度的資金流動量最低。", "answer": "是", "question_group": 308}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖2，2023年上半年台股市場外資資金流向中，第二季度的資金流動量最低。", "answer": "是", "question_group": 308}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，2023年上半年台股市場外資資金流向中，第一季度的資金流動量最低。", "answer": "否", "question_group": 308}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖2，2023年上半年台股市場外資資金流向中，第一季度的資金流動量最低。", "answer": "否", "question_group": 308}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的年增長率比市場需求增長率高1個百分點。", "answer": "是", "question_group": 309}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，2023年的年增長率比市場需求增長率高1個百分點。", "answer": "是", "question_group": 309}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的年增長率比市場需求增長率低1個百分點。", "answer": "否", "question_group": 309}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，2023年的年增長率比市場需求增長率低1個百分點。", "answer": "否", "question_group": 309}
 

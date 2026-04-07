@@ -21,27 +21,27 @@
 {"category": "Open", "question_type": "Aggregation", "question": "根據表2的資料，2023年新台幣/人民幣和新台幣/歐元的匯率增長率平均值是多少？", "answer": "7.4%"}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據圖7，以下哪一項代表所有指標的完成率總和？", "answer": "C", "choice": ["600", "450", "300", "150"]}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據圖6的資料，各控管措施的採用銀行數的總和是多少？以下哪一項是正確的？", "answer": "B", "choice": ["22", "16", "8", "12"]}
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據下圖，各指標的完成率總和是300%。", "answer": "是", "question_group": 983}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖7，各指標的完成率總和是300%。", "answer": "是", "question_group": 983}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據下圖，各指標的完成率總和是200%。", "answer": "否", "question_group": 983}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖7，各指標的完成率總和是200%。", "answer": "否", "question_group": 983}
 
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖片顯示，2020年至2022年期間，亞洲地區的杠杆交易占比增加了7個百分點。", "answer": "是", "question_group": 984}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖4，2020年至2022年期間，亞洲地區的杠杆交易占比增加了7個百分點。", "answer": "是", "question_group": 984}
 
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖片顯示，2020年至2022年期間，亞洲地區的杠杆交易占比減少了7個百分點。", "answer": "否", "question_group": 984}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖4，2020年至2022年期間，亞洲地區的杠杆交易占比減少了7個百分點。", "answer": "否", "question_group": 984}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，美洲的杠杆交易占比從2020年的22%增加到2022年的29%。", "answer": "是", "question_group": 985}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖4，美洲的杠杆交易占比從2020年的22%增加到2022年的29%。", "answer": "是", "question_group": 985}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，美洲的杠杆交易占比從2020年的29%減少到2022年的22%。", "answer": "否", "question_group": 985}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖4，美洲的杠杆交易占比從2020年的29%減少到2022年的22%。", "answer": "否", "question_group": 985}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2022年到2023年，新台幣兌美元的匯率變化為-0.6%。", "answer": "是", "question_group": 986}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表2，從2022年到2023年，新台幣兌美元的匯率變化為-0.6%。", "answer": "是", "question_group": 986}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2022年到2023年，新台幣兌人民幣的匯率變化為0.6%。", "answer": "否", "question_group": 986}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表2，從2022年到2023年，新台幣兌人民幣的匯率變化為0.6%。", "answer": "否", "question_group": 986}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023年兆豐銀行合規稽核覆蓋率與新開戶風險揭露及合約簽署比率的總和為199.7。", "answer": "是", "question_group": 987}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表7，2023年兆豐銀行合規稽核覆蓋率與新開戶風險揭露及合約簽署比率的總和為199.7。", "answer": "是", "question_group": 987}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023年兆豐銀行合規稽核覆蓋率與新開戶風險揭露及合約簽署比率的總和為150。", "answer": "否", "question_group": 987}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表7，2023年兆豐銀行合規稽核覆蓋率與新開戶風險揭露及合約簽署比率的總和為150。", "answer": "否", "question_group": 987}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年新台幣兌美元的平均增長率是8.5%。", "answer": "是", "question_group": 988}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，2022年新台幣兌美元的平均增長率是8.5%。", "answer": "是", "question_group": 988}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023年新台幣兌美元、新台幣兌人民幣、新台幣兌歐元的平均增長率是8.2%。", "answer": "否", "question_group": 988}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，2023年新台幣兌美元、新台幣兌人民幣、新台幣兌歐元的平均增長率是8.2%。", "answer": "否", "question_group": 988}
 

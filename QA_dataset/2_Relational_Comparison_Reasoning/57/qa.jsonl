@@ -16,23 +16,23 @@
 {"category": "Open", "question_type": "Comparison", "question": "在圖7中，所有指標的完成率是否一致？", "answer": "是，所有指標的完成率一致，因為每個指標的完成率都是100%。"}
 {"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖5的資料，兩個地區之間的金融機構違約損失年成長率差異是多少？以下哪一選項是正確的？", "answer": "C", "choice": ["12%", "4%", "7%", "5%"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據圖6，控管措施的採用銀行數是否呈現相同的數值？", "answer": "C", "choice": ["是，但只有一半的銀行採用相同的控管措施。", "否，控管措施的採用銀行數顯示有明顯差異。", "是，控管措施的採用銀行數呈現相同的數值。", "是，但只有部分控管措施的採用銀行數相同。"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，所有控管措施的採用銀行數均相同，均為2。", "answer": "是", "question_group": 501}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖6，所有控管措施的採用銀行數均相同，均為2。", "answer": "是", "question_group": 501}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，某些控管措施的採用銀行數不同，並非均為2。", "answer": "否", "question_group": 501}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖6，某些控管措施的採用銀行數不同，並非均為2。", "answer": "否", "question_group": 501}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，市場的主要參與者數量未超過主要貨幣對數量的800倍。", "answer": "是", "question_group": 502}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，市場的主要參與者數量未超過主要貨幣對數量的800倍。", "answer": "是", "question_group": 502}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，市場的主要參與者數量超過主要貨幣對數量的800倍。", "answer": "否", "question_group": 502}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，市場的主要參與者數量超過主要貨幣對數量的800倍。", "answer": "否", "question_group": 502}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年信用損失占總風險曝險比例低於5%。", "answer": "是", "question_group": 503}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，2023年信用損失占總風險曝險比例低於5%。", "answer": "是", "question_group": 503}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年信用損失占總風險曝險比例高於5%。", "answer": "否", "question_group": 503}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，2023年信用損失占總風險曝險比例高於5%。", "answer": "否", "question_group": 503}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，年份 A 的倍數是所有年份中最低的。", "answer": "是", "question_group": 504}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖2，年份 A 的倍數是所有年份中最低的。", "answer": "是", "question_group": 504}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，年份 A 的倍數是所有年份中最高的。", "answer": "否", "question_group": 504}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖2，年份 A 的倍數是所有年份中最高的。", "answer": "否", "question_group": 504}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2022年和2023年合規性缺失糾正件數的差異是4件。", "answer": "是", "question_group": 505}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表7，2022年和2023年合規性缺失糾正件數的差異是4件。", "answer": "是", "question_group": 505}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2022年和2023年合規性缺失糾正件數的差異是6件。", "answer": "否", "question_group": 505}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表7，2022年和2023年合規性缺失糾正件數的差異是6件。", "answer": "否", "question_group": 505}
 

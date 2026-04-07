@@ -29,35 +29,35 @@
 {"category": "MCQ", "question_type": "Ranking", "question": "根據2023年ATM申訴案件處理時效分布，以下哪一類別的案件處理時間最短？(請參考相關圖片敘述)", "answer": "C", "choice": ["五個至十個工作天的案件", "三個工作天內完成全部處理的案件", "三個工作天內初步查核回覆的案件", "五個工作天內初步查核回覆的案件"]}
 {"category": "MCQ", "question_type": "Ranking", "question": "根據2023年ATM故障申訴處理流程客戶滿意度分布，哪個類別的滿意度評價最高？", "answer": "C", "choice": ["不滿意", "輕微滿意", "滿意或非常滿意", "中立"]}
 {"category": "Open", "question_type": "Comparison", "question": "根據圖6，不滿意的比例與一般的比例相差多少個百分比？", "answer": "5.0%"}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，螢幕/操作介面故障的比例高於收據異常，但低於交易中斷。", "answer": "是", "question_group": 513}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，螢幕/操作介面故障的比例高於收據異常，但低於交易中斷。", "answer": "是", "question_group": 513}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，語音/輔助功能異常的比例高於收據異常，但低於交易中斷。", "answer": "否", "question_group": 513}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，語音/輔助功能異常的比例高於收據異常，但低於交易中斷。", "answer": "否", "question_group": 513}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，提款金額異常的案件比其他類型的案件多420件。", "answer": "是", "question_group": 514}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖3，提款金額異常的案件比其他類型的案件多420件。", "answer": "是", "question_group": 514}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，提款金額異常的案件比其他類型的案件多530件。", "answer": "否", "question_group": 514}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖3，提款金額異常的案件比其他類型的案件多530件。", "answer": "否", "question_group": 514}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，快速取回原卡的使用百分比（65%）最接近緊急現金提領和免除補卡手續費的總和（37%）。", "answer": "是", "question_group": 515}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表7，快速取回原卡的使用百分比（65%）最接近緊急現金提領和免除補卡手續費的總和（37%）。", "answer": "是", "question_group": 515}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，行動分行服務的使用百分比（91%）最接近緊急現金提領和免除補卡手續費的總和（37%）。", "answer": "否", "question_group": 515}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表7，行動分行服務的使用百分比（91%）最接近緊急現金提領和免除補卡手續費的總和（37%）。", "answer": "否", "question_group": 515}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據下圖，故障類型A的通報件數是所有類型中最低的，為175。", "answer": "是", "question_group": 516}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，故障類型A的通報件數是所有類型中最低的，為175。", "answer": "是", "question_group": 516}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據下圖，故障類型A的通報件數高於其他類型。", "answer": "否", "question_group": 516}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，故障類型A的通報件數高於其他類型。", "answer": "否", "question_group": 516}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，成功申訴案件完整資訊比例高於存提款異常即時通報獲快速處理比例。", "answer": "是", "question_group": 517}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，成功申訴案件完整資訊比例高於存提款異常即時通報獲快速處理比例。", "answer": "是", "question_group": 517}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，存提款異常即時通報獲快速處理比例高於成功申訴案件完整資訊比例。", "answer": "否", "question_group": 517}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，存提款異常即時通報獲快速處理比例高於成功申訴案件完整資訊比例。", "answer": "否", "question_group": 517}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，滿意或非常滿意的客戶滿意度評價為最高，達到87.0%。", "answer": "是", "question_group": 518}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖6，滿意或非常滿意的客戶滿意度評價為最高，達到87.0%。", "answer": "是", "question_group": 518}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，一般的客戶滿意度評價為最高，達到9.0%。", "answer": "否", "question_group": 518}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖6，一般的客戶滿意度評價為最高，達到9.0%。", "answer": "否", "question_group": 518}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年ATM申訴案件中，超過七個工作天處理的案件數量比五至七個工作天處理複雜案件的數量多1件。", "answer": "是", "question_group": 519}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖5，2023年ATM申訴案件中，超過七個工作天處理的案件數量比五至七個工作天處理複雜案件的數量多1件。", "answer": "是", "question_group": 519}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年ATM申訴案件中，超過七個工作天處理的案件數量比五至七個工作天處理複雜案件的數量少5件。", "answer": "否", "question_group": 519}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖5，2023年ATM申訴案件中，超過七個工作天處理的案件數量比五至七個工作天處理複雜案件的數量少5件。", "answer": "否", "question_group": 519}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，三個工作天內初步查核回覆的案件處理時間最短。", "answer": "是", "question_group": 520}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖5，三個工作天內初步查核回覆的案件處理時間最短。", "answer": "是", "question_group": 520}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，五至七個工作天處理複雜案件的處理時間最短。", "answer": "否", "question_group": 520}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖5，五至七個工作天處理複雜案件的處理時間最短。", "answer": "否", "question_group": 520}
 

@@ -33,39 +33,39 @@
 {"category": "Open", "question_type": "Creative Scenario", "question": "考量圖片中所述的治理與道德標準，台新銀行在2025年如何通過調整董事會結構應對數字化轉型與金融危機？", "answer": "引入具有技術與ESG專長的新董事成員，以提高應變能力和決策透明性。"}
 {"category": "MCQ", "question_type": "Creative Scenario", "question": "考量圖片中所述的治理與道德標準，台新銀行在2025年如何通過調整董事會結構應對數字化轉型與金融危機？", "answer": "C", "choice": ["專注於提升董事會的年齡多樣性以促進跨代智慧交流。", "雇用具備創新思維的顧問來指導董事會運行。", "引入具有技術與ESG專長的新董事成員，以提高應變能力和決策透明性。", "成立專門監管數字化轉型的董事會小組。"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表1的資料，2025年的綠色貸款比2024年多了多少億元？以下哪一項是正確的答案？", "answer": "A", "choice": ["143億元", "157億元", "135億元", "145億元"]}
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，公司A更可能在2025年底前取得顯著減排成果，因為其策略直接降低運營中的碳排放和提升能效。", "answer": "是", "question_group": 1298}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，公司A更可能在2025年底前取得顯著減排成果，因為其策略直接降低運營中的碳排放和提升能效。", "answer": "是", "question_group": 1298}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，公司B更可能在2025年底前取得顯著減排成果，因為其主要專注於員工環保活動的參與。", "answer": "否", "question_group": 1298}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，公司B更可能在2025年底前取得顯著減排成果，因為其主要專注於員工環保活動的參與。", "answer": "否", "question_group": 1298}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，提升董事會的多樣性和增加決策的透明度是台新銀行在其企業治理中強調的優先事項。", "answer": "是", "question_group": 1299}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，提升董事會的多樣性和增加決策的透明度是台新銀行在其企業治理中強調的優先事項。", "answer": "是", "question_group": 1299}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，全面道德培訓是台新銀行在其企業治理中唯一強調的優先事項。", "answer": "否", "question_group": 1299}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，全面道德培訓是台新銀行在其企業治理中唯一強調的優先事項。", "answer": "否", "question_group": 1299}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據圖中所述內容，乙銀行在2025年可能更能提升員工的工作滿意度與忠誠度，因為它著重於強化多元文化指標與培訓。", "answer": "是", "question_group": 1300}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，乙銀行在2025年可能更能提升員工的工作滿意度與忠誠度，因為它著重於強化多元文化指標與培訓。", "answer": "是", "question_group": 1300}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據圖中所述內容，甲銀行在2025年可能更能提升員工的工作滿意度與忠誠度，因為它著重於削減員工福利。", "answer": "否", "question_group": 1300}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，甲銀行在2025年可能更能提升員工的工作滿意度與忠誠度，因為它著重於削減員工福利。", "answer": "否", "question_group": 1300}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，台新銀行的女性領導力發展計畫為女性員工提供更廣泛的培訓和交流機會，多元文化活動日促進不同文化背景員工之間的理解與合作。", "answer": "是", "question_group": 1301}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，台新銀行的女性領導力發展計畫為女性員工提供更廣泛的培訓和交流機會，多元文化活動日促進不同文化背景員工之間的理解與合作。", "answer": "是", "question_group": 1301}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，台新銀行的女性領導力發展計畫僅僅是為了增加公司的女員工數量，而多元文化活動日主要是為了舉辦員工聚餐活動。", "answer": "否", "question_group": 1301}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，台新銀行的女性領導力發展計畫僅僅是為了增加公司的女員工數量，而多元文化活動日主要是為了舉辦員工聚餐活動。", "answer": "否", "question_group": 1301}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據圖片，台新銀行在2025年通過引入具有技術與ESG專長的新董事成員，以提高應變能力和決策透明性。", "answer": "是", "question_group": 1302}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，台新銀行在2025年通過引入具有技術與ESG專長的新董事成員，以提高應變能力和決策透明性。", "answer": "是", "question_group": 1302}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據圖片，台新銀行在2025年通過減少董事會成員數量應對數字化轉型與金融危機。", "answer": "否", "question_group": 1302}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，台新銀行在2025年通過減少董事會成員數量應對數字化轉型與金融危機。", "answer": "否", "question_group": 1302}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，依賴再生能源協議以穩定供應，並促員工持續參與綠色倡導，有助於台新銀行在有限資源下達成其減碳和綠色建築目標。", "answer": "是", "question_group": 1303}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，依賴再生能源協議以穩定供應，並促員工持續參與綠色倡導，有助於台新銀行在有限資源下達成其減碳和綠色建築目標。", "answer": "是", "question_group": 1303}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，僅依靠傳統能源供應且不推動綠色倡導者項目，能有效支持台新銀行的減碳和綠色建築目標。", "answer": "否", "question_group": 1303}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，僅依靠傳統能源供應且不推動綠色倡導者項目，能有效支持台新銀行的減碳和綠色建築目標。", "answer": "否", "question_group": 1303}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，情境B專注於可再生能源項目並將綠色債券增至新台幣250億元，這符合台新銀行的可持續發展政策。", "answer": "是", "question_group": 1304}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，情境B專注於可再生能源項目並將綠色債券增至新台幣250億元，這符合台新銀行的可持續發展政策。", "answer": "是", "question_group": 1304}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，情境A專注於可再生能源項目並將綠色債券增至新台幣250億元，這符合台新銀行的可持續發展政策。", "answer": "否", "question_group": 1304}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，情境A專注於可再生能源項目並將綠色債券增至新台幣250億元，這符合台新銀行的可持續發展政策。", "answer": "否", "question_group": 1304}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，台新銀行需擴大國際投資者基礎以減少市場波動影響，並利用金融科技優化資金流動性。", "answer": "是", "question_group": 1305}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，台新銀行需擴大國際投資者基礎以減少市場波動影響，並利用金融科技優化資金流動性。", "answer": "是", "question_group": 1305}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，台新銀行應縮小國際投資者基礎以增加市場波動影響，並不使用金融科技來優化資金流動性。", "answer": "否", "question_group": 1305}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，台新銀行應縮小國際投資者基礎以增加市場波動影響，並不使用金融科技來優化資金流動性。", "answer": "否", "question_group": 1305}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據圖片，2025年台新銀行引入具有國際金融背景和ESG知識的成員設立獨立道德監察，最可能提升公司治理和道德標準。", "answer": "是", "question_group": 1306}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，2025年台新銀行引入具有國際金融背景和ESG知識的成員設立獨立道德監察，最可能提升公司治理和道德標準。", "answer": "是", "question_group": 1306}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據圖片，2025年台新銀行採取的策略中，加強內部培訓最可能在提升公司治理和道德標準方面有所進展。", "answer": "否", "question_group": 1306}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，2025年台新銀行採取的策略中，加強內部培訓最可能在提升公司治理和道德標準方面有所進展。", "answer": "否", "question_group": 1306}
 

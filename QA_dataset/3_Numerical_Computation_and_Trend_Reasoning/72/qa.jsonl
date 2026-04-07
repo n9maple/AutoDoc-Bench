@@ -14,19 +14,19 @@
 {"category": "MCQ", "question_type": "Aggregation", "question": "在以下流程項目中，哪一項的所有期限總和為1885天？請參考圖片中顯示的各項目期限數據。", "answer": "C", "choice": ["所有流程項目的期限總和為1500天。", "所有流程項目的期限總和為2000天。", "所有流程項目的期限總和為1885天。", "所有流程項目的期限總和為1885工作天。"]}
 {"category": "Open", "question_type": "Aggregation", "question": "根據圖4的資料，所有流程項目的總期限(天數)是多少？", "answer": "1885天"}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據表3的資料，從2021年到2023年，權限異動及異常操作即時警示的平均達成率為何？以下哪個選項是正確的？", "answer": "B", "choice": ["99.8%", "99.3%", "99.1%", "98.5%"]}
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，所有流程項目的期限總和為1885天。", "answer": "是", "question_group": 1051}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖4，所有流程項目的期限總和為1885天。", "answer": "是", "question_group": 1051}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，所有流程項目的期限總和為1950天。", "answer": "否", "question_group": 1051}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖4，所有流程項目的期限總和為1950天。", "answer": "否", "question_group": 1051}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，2023年第四季的月交易筆數顯示出穩定上升的趨勢。", "answer": "是", "question_group": 1052}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖2，2023年第四季的月交易筆數顯示出穩定上升的趨勢。", "answer": "是", "question_group": 1052}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，2023年第四季的月交易筆數顯示出下降的趨勢。", "answer": "否", "question_group": 1052}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖2，2023年第四季的月交易筆數顯示出下降的趨勢。", "answer": "否", "question_group": 1052}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，權限異動及異常操作即時警示達成率最近三年的平均值為99.3%。", "answer": "是", "question_group": 1053}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，權限異動及異常操作即時警示達成率最近三年的平均值為99.3%。", "answer": "是", "question_group": 1053}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，權限異動及異常操作即時警示達成率最近三年的平均值為98.5%。", "answer": "否", "question_group": 1053}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，權限異動及異常操作即時警示達成率最近三年的平均值為98.5%。", "answer": "否", "question_group": 1053}
 
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，2023年11月到12月的月交易金額變化率約為1.11%。", "answer": "是", "question_group": 1054}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖2，2023年11月到12月的月交易金額變化率約為1.11%。", "answer": "是", "question_group": 1054}
 
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，2023年11月到12月的月交易金額變化率約為2%。", "answer": "否", "question_group": 1054}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖2，2023年11月到12月的月交易金額變化率約為2%。", "answer": "否", "question_group": 1054}
 

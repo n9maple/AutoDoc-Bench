@@ -34,43 +34,43 @@
 {"category": "MCQ", "question_type": "Creative Scenario", "question": "在華南銀行的數位支付服務情境中，若因系統升級造成功能變更而影響客戶滿意度，哪種策略最能有效增強服務效率並提高客戶滿意度？請參考圖片中提供的情境進行選擇。", "answer": "C", "choice": ["C) 增加客服人力以應對操作問題", "D) 強化線上即時聊天功能的支持", "A) 預先更新FAQ以涵蓋變更影響，B) 培訓客戶服務團隊以適應新功能", "F) 提高自助服務選項的可訪問性"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表4的數據，若華南銀行手續費在2024年減少5%，那麼2024年華南銀行手續費與2023年市場平均水平相比，可能相差多少百分比？", "answer": "A", "choice": ["相差55%", "相差50%", "相差60%", "相差65%"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表1的資料，如果年增長率保持不變，則在2024年到2025年之間的用戶數量增長約為多少萬？", "answer": "B", "choice": ["21.0000萬", "19.8375萬", "20.8375萬", "22.5萬"]}
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，當數位支付系統遭遇穿透SSL加密和雙重身份認證的惡意軟體攻擊時，華南銀行應加強安全合作，快速更新系統，採用生物識別技術和機器學習識別異常，通知用戶並提供身份監控與經濟損失保護，加強用戶教育。", "answer": "是", "question_group": 1530}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，當數位支付系統遭遇穿透SSL加密和雙重身份認證的惡意軟體攻擊時，華南銀行應加強安全合作，快速更新系統，採用生物識別技術和機器學習識別異常，通知用戶並提供身份監控與經濟損失保護，加強用戶教育。", "answer": "是", "question_group": 1530}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，當數位支付系統遭遇穿透SSL加密和雙重身份認證的惡意軟體攻擊時，華南銀行應減少安全合作，推遲系統更新，停止使用生物識別技術並忽視用戶通知和教育。", "answer": "否", "question_group": 1530}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，當數位支付系統遭遇穿透SSL加密和雙重身份認證的惡意軟體攻擊時，華南銀行應減少安全合作，推遲系統更新，停止使用生物識別技術並忽視用戶通知和教育。", "answer": "否", "question_group": 1530}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2024年華南銀行的手續費將增加至62.5%。", "answer": "是", "question_group": 1531}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表4，2024年華南銀行的手續費將增加至62.5%。", "answer": "是", "question_group": 1531}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2024年華南銀行的手續費將增加至75%。", "answer": "否", "question_group": 1531}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表4，2024年華南銀行的手續費將增加至75%。", "answer": "否", "question_group": 1531}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，用戶B的連結方式包含了一個完整的動態驗證流程，從而提高了安全性和用戶體驗。", "answer": "是", "question_group": 1532}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，用戶B的連結方式包含了一個完整的動態驗證流程，從而提高了安全性和用戶體驗。", "answer": "是", "question_group": 1532}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，用戶A的連結方式在安全性和用戶體驗方面較高，因為它不需要動態驗證流程。", "answer": "否", "question_group": 1532}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，用戶A的連結方式在安全性和用戶體驗方面較高，因為它不需要動態驗證流程。", "answer": "否", "question_group": 1532}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，預先更新FAQ以涵蓋變更影響和培訓客戶服務團隊以適應新功能，是最能有效增強服務效率並提高客戶滿意度的策略。", "answer": "是", "question_group": 1533}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，預先更新FAQ以涵蓋變更影響和培訓客戶服務團隊以適應新功能，是最能有效增強服務效率並提高客戶滿意度的策略。", "answer": "是", "question_group": 1533}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，僅依靠客戶反饋來調整系統，是最能有效增強服務效率並提高客戶滿意度的策略。", "answer": "否", "question_group": 1533}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，僅依靠客戶反饋來調整系統，是最能有效增強服務效率並提高客戶滿意度的策略。", "answer": "否", "question_group": 1533}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，華南銀行數位支付的成功關鍵在於其便捷、安全的支付體驗，以及支持多種貨幣和平台的無縫對接。", "answer": "是", "question_group": 1534}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，華南銀行數位支付的成功關鍵在於其便捷、安全的支付體驗，以及支持多種貨幣和平台的無縫對接。", "answer": "是", "question_group": 1534}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，華南銀行數位支付的成功主要是因為它不提供多種貨幣支持和平台對接，但仍保持卓越的安全系統。", "answer": "否", "question_group": 1534}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，華南銀行數位支付的成功主要是因為它不提供多種貨幣支持和平台對接，但仍保持卓越的安全系統。", "answer": "否", "question_group": 1534}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據圖片描述，雙重身份驗證顯著降低了華南銀行數位支付詐騙事件發生率至低於0.01%。", "answer": "是", "question_group": 1535}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，雙重身份驗證顯著降低了華南銀行數位支付詐騙事件發生率至低於0.01%。", "answer": "是", "question_group": 1535}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據圖片描述，加密技術顯著降低了華南銀行數位支付詐騙事件發生率至低於0.01%。", "answer": "否", "question_group": 1535}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，加密技術顯著降低了華南銀行數位支付詐騙事件發生率至低於0.01%。", "answer": "否", "question_group": 1535}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據圖片描述，華南銀行數位支付服務的故障導致個人用戶無法支付賬單，而企業客戶面臨現金流中斷風險。", "answer": "是", "question_group": 1536}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，華南銀行數位支付服務的故障導致個人用戶無法支付賬單，而企業客戶面臨現金流中斷風險。", "answer": "是", "question_group": 1536}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據圖片描述，華南銀行數位支付服務的故障導致個人用戶無法支付賬單，但企業客戶不受影響。", "answer": "否", "question_group": 1536}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，華南銀行數位支付服務的故障導致個人用戶無法支付賬單，但企業客戶不受影響。", "answer": "否", "question_group": 1536}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，生物識別驗證提高了安全性和便捷性，且生物識別用戶比例達40%。", "answer": "是", "question_group": 1537}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，生物識別驗證提高了安全性和便捷性，且生物識別用戶比例達40%。", "answer": "是", "question_group": 1537}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，傳統密碼方式的用戶比例達40%，提高了安全性和便捷性。", "answer": "否", "question_group": 1537}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，傳統密碼方式的用戶比例達40%，提高了安全性和便捷性。", "answer": "否", "question_group": 1537}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，華南銀行的數位支付服務因低手續費和交易效率的提升，企業環境中進行跨行與國際轉帳的用戶B受益更多。", "answer": "是", "question_group": 1538}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，華南銀行的數位支付服務因低手續費和交易效率的提升，企業環境中進行跨行與國際轉帳的用戶B受益更多。", "answer": "是", "question_group": 1538}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，華南銀行的數位支付服務因低手續費和交易效率的提升，主要是個人用戶在本地日常支付中受益更多。", "answer": "否", "question_group": 1538}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，華南銀行的數位支付服務因低手續費和交易效率的提升，主要是個人用戶在本地日常支付中受益更多。", "answer": "否", "question_group": 1538}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，使用高標準加密技術和動態驗證碼提供雙重保護，配合風險評估進行必要的手機簡訊驗證能提升支付安全性及資金管理的便利性。", "answer": "是", "question_group": 1539}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，使用高標準加密技術和動態驗證碼提供雙重保護，配合風險評估進行必要的手機簡訊驗證能提升支付安全性及資金管理的便利性。", "answer": "是", "question_group": 1539}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，僅依賴單一的加密技術而不使用動態驗證碼與風險評估可以提升支付安全性及資金管理的便利性。", "answer": "否", "question_group": 1539}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，僅依賴單一的加密技術而不使用動態驗證碼與風險評估可以提升支付安全性及資金管理的便利性。", "answer": "否", "question_group": 1539}
 

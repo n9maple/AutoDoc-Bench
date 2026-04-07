@@ -12,19 +12,19 @@
 {"category": "Open", "question_type": "Difference Calculation", "question": "數值最高的活動指標與最低的活動指標之間的差距是多少？", "answer": "1194"}
 {"category": "MCQ", "question_type": "Comparison", "question": "在2023年國票金控環境教育及公益參與成果中，下列哪個活動指標的數值是最低的？（請參考附圖）", "answer": "C", "choice": ["指標數值為5（環境教育參與人次）", "指標數值為4（公益活動次數）", "指標數值為6", "指標數值為9（環境改善項目數）"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據圖1，以下哪一個活動指標的數值是最低的？", "answer": "D", "choice": ["活動指標: 3 - '雖然不是最低，但參與率約為15%'", "活動指標: 4 - '此指標的參與率中等，約為30%'", "活動指標: 2 - '此指標在大規模活動中通常最低，且參與率約為10%'", "活動指標: 6"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023 年的多元文化活動場次比性別平等講座場次多。", "answer": "是", "question_group": 598}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，2023 年的多元文化活動場次比性別平等講座場次多。", "answer": "是", "question_group": 598}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023 年的性別平等講座場次比多元文化活動場次多。", "answer": "否", "question_group": 598}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，2023 年的性別平等講座場次比多元文化活動場次多。", "answer": "否", "question_group": 598}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年相較於2022年，參與供應商人數增加的比例是41.18%。", "answer": "是", "question_group": 599}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，2023年相較於2022年，參與供應商人數增加的比例是41.18%。", "answer": "是", "question_group": 599}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年相較於2022年，參與供應商人數增加的比例是50%。", "answer": "否", "question_group": 599}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，2023年相較於2022年，參與供應商人數增加的比例是50%。", "answer": "否", "question_group": 599}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的無紙化文件傳遞率比2022年高12個百分點。", "answer": "是", "question_group": 600}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，2023年的無紙化文件傳遞率比2022年高12個百分點。", "answer": "是", "question_group": 600}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的無紙化文件傳遞率比2022年高8個百分點。", "answer": "否", "question_group": 600}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，2023年的無紙化文件傳遞率比2022年高8個百分點。", "answer": "否", "question_group": 600}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據下圖，數值最高的活動指標與最低的活動指標之間的差距是1194。", "answer": "是", "question_group": 601}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖1，數值最高的活動指標與最低的活動指標之間的差距是1194。", "answer": "是", "question_group": 601}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據下圖，數值最高的活動指標與最低的活動指標之間的差距是200。", "answer": "否", "question_group": 601}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖1，數值最高的活動指標與最低的活動指標之間的差距是200。", "answer": "否", "question_group": 601}
 

@@ -22,27 +22,27 @@
 {"category": "Open", "question_type": "Ranking", "question": "在圖2中，哪一個失誤原因的佔比是最低的？", "answer": "其他"}
 {"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖6中的資料，以下哪一項最接近兩個處理階段的百分比差異?", "answer": "B", "choice": ["7.0%", "4.9%", "3.5%", "4.6%"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據圖3，5分鐘內有效解決的比例與超過5分鐘解決的比例的差異，以下哪一個數據最接近？", "answer": "A", "choice": ["96.3%", "96.0%", "95.5%", "97.0%"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2022年的存款即時查詢率高於2021年的查詢率。", "answer": "是", "question_group": 570}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，2022年的存款即時查詢率高於2021年的查詢率。", "answer": "是", "question_group": 570}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2021年的存款即時查詢率高於2022年的查詢率。", "answer": "否", "question_group": 570}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，2021年的存款即時查詢率高於2022年的查詢率。", "answer": "否", "question_group": 570}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，數值最低的處理階段是第二個數據點。", "answer": "是", "question_group": 571}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖6，數值最低的處理階段是第二個數據點。", "answer": "是", "question_group": 571}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，數值最低的處理階段是第一個數據點。", "answer": "否", "question_group": 571}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖6，數值最低的處理階段是第一個數據點。", "answer": "否", "question_group": 571}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，紙鈔過度皺摺或沾黏異物導致的存款受阻比例和機台自動退回異常鈔券的存款受阻比例的差距為2.98。", "answer": "是", "question_group": 572}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，紙鈔過度皺摺或沾黏異物導致的存款受阻比例和機台自動退回異常鈔券的存款受阻比例的差距為2.98。", "answer": "是", "question_group": 572}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，紙鈔過度皺摺或沾黏異物導致的存款受阻比例和機台自動退回異常鈔券的存款受阻比例的差距為3.5。", "answer": "否", "question_group": 572}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，紙鈔過度皺摺或沾黏異物導致的存款受阻比例和機台自動退回異常鈔券的存款受阻比例的差距為3.5。", "answer": "否", "question_group": 572}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，帳戶號碼輸入錯誤與選擇錯誤的存入帳戶這兩者的比例相同，都是47.5%。", "answer": "是", "question_group": 573}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖2，帳戶號碼輸入錯誤與選擇錯誤的存入帳戶這兩者的比例相同，都是47.5%。", "answer": "是", "question_group": 573}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，帳戶號碼輸入錯誤的比例高於選擇錯誤的存入帳戶。", "answer": "否", "question_group": 573}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖2，帳戶號碼輸入錯誤的比例高於選擇錯誤的存入帳戶。", "answer": "否", "question_group": 573}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，帳戶號碼輸入錯誤和選擇錯誤的存入帳戶的比例均為47.5%，且是最高的。", "answer": "是", "question_group": 574}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖2，帳戶號碼輸入錯誤和選擇錯誤的存入帳戶的比例均為47.5%，且是最高的。", "answer": "是", "question_group": 574}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，其他失誤原因的比例是最高的，達到50%。", "answer": "否", "question_group": 574}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖2，其他失誤原因的比例是最高的，達到50%。", "answer": "否", "question_group": 574}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，使用金融卡的百分比是99.9%，免卡存款的百分比是98.7%，因此兩者的百分比差是1.2%。", "answer": "是", "question_group": 575}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，使用金融卡的百分比是99.9%，免卡存款的百分比是98.7%，因此兩者的百分比差是1.2%。", "answer": "是", "question_group": 575}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，使用金融卡的百分比是95%，免卡存款的百分比是94%，因此兩者的百分比差是1.2%。", "answer": "否", "question_group": 575}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，使用金融卡的百分比是95%，免卡存款的百分比是94%，因此兩者的百分比差是1.2%。", "answer": "否", "question_group": 575}
 

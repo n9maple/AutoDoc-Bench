@@ -9,15 +9,15 @@
 {"category": "MCQ", "question_type": "Difference Calculation", "question": "根據提供的流程項目圖，最高與最低的流程項目期限差距是多少天？", "answer": "C", "choice": ["1450 天", "1600 天", "1825 天", "1700 天"]}
 {"category": "Open", "question_type": "Comparison", "question": "在圖4中，哪一個流程項目的期限(天數)最低？", "answer": "0 天"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "根據圖1，產業類別為1110的企業數比產業類別為405的企業數多多少？", "answer": "705"}
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，最高與最低的流程項目期限差距是1825天。", "answer": "是", "question_group": 592}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖4，最高與最低的流程項目期限差距是1825天。", "answer": "是", "question_group": 592}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，最高與最低的流程項目期限差距是30天。", "answer": "否", "question_group": 592}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖4，最高與最低的流程項目期限差距是30天。", "answer": "否", "question_group": 592}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，從3月到7月，5月的平均系統開通天數是最低的。", "answer": "是", "question_group": 593}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，從3月到7月，5月的平均系統開通天數是最低的。", "answer": "是", "question_group": 593}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，從3月到7月，4月的平均系統開通天數是最低的。", "answer": "否", "question_group": 593}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，從3月到7月，4月的平均系統開通天數是最低的。", "answer": "否", "question_group": 593}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年滲透測試次數最多，與2021年的差距是2次。", "answer": "是", "question_group": 594}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，2023年滲透測試次數最多，與2021年的差距是2次。", "answer": "是", "question_group": 594}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2022年滲透測試次數最多，與2021年的差距是3次。", "answer": "否", "question_group": 594}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，2022年滲透測試次數最多，與2021年的差距是3次。", "answer": "否", "question_group": 594}
 

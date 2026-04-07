@@ -42,47 +42,47 @@
 {"category": "MCQ", "question_type": "Creative Scenario", "question": "根據圖片中凱基銀行現有的線上轉帳異常處理流程，若面臨規模更大且手法更複雜的詐騙攻擊，下列哪兩項策略最能提升偵測準確度與客戶資產保護效果？請根據圖片描述的異常情境選出正確組合。", "answer": "C", "choice": ["將所有異常案件直接交由警方處理，並暫停所有疑似異常帳戶交易功能，以避免資安風險擴大。", "強化AI智能監控以提升異常偵測準確度，但僅依賴單一身份驗證方式，加強密碼複雜度而不採多重認證。", "強化AI智能監控以提升異常偵測及即時反應，並加入多重身份驗證降低盜用風險。", "依賴手動回報與客服介入強化異常通報流程，減少自動警示系統的比重以確保資訊完整性。"]}
 {"category": "Open", "question_type": "Creative Scenario", "question": "依據圖片中凱基銀行2023年資安調查資料，針對一位既不定期檢查帳戶交易紀錄，亦未啟用即時交易通知功能的客戶，下列哪兩項選項最符合其可能面臨的資安風險及銀行官方建議的防護措施？", "answer": "該客戶容易延遲發現異常交易，增加資金損失風險；銀行建議開啟每日或每月轉帳限額及利用24小時客服和行動銀行App即時確認交易。"}
 {"category": "MCQ", "question_type": "Creative Scenario", "question": "依據圖片中凱基銀行2023年資安調查資料，針對一位既不定期檢查帳戶交易紀錄，亦未啟用即時交易通知功能的客戶，下列哪兩項選項最符合其可能面臨的資安風險及銀行官方建議的防護措施？", "answer": "C", "choice": ["該客戶可依賴分行臨櫃服務替代定期數位帳戶檢查，確保資安風險降至最低。", "該客戶即使不定期檢查帳戶，銀行系統會主動透過人工客服通知任何異常，且只需透過客服電話回報即可解決問題。", "該客戶容易延遲發現異常交易，增加資金損失風險；銀行建議開啟每日或每月轉帳限額及利用24小時客服和行動銀行App即時確認交易。", "該客戶未能利用行動銀行App及即時通知功能，即使開啟每日轉帳限額，也難以即時掌握異常交易，資安風險顯著提升。"]}
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據圖片，凱基銀行透過異常交易監控暫停大額交易並要求客戶二次確認，阻止超過2億元可疑交易，並透過客戶教育降低受騙率至0.2%以下。", "answer": "是", "question_group": 1405}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，凱基銀行透過異常交易監控暫停大額交易並要求客戶二次確認，阻止超過2億元可疑交易，並透過客戶教育降低受騙率至0.2%以下。", "answer": "是", "question_group": 1405}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據圖片，凱基銀行主要依賴客戶自行識別異常交易，沒有進行交易暫停或二次確認，且受騙率維持在5%以上。", "answer": "否", "question_group": 1405}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，凱基銀行主要依賴客戶自行識別異常交易，沒有進行交易暫停或二次確認，且受騙率維持在5%以上。", "answer": "否", "question_group": 1405}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據圖中凱基銀行2023年資安教育調查數據，小林因定期檢查帳戶明細及啟用即時通知，異常偵測率約為95%，未授權交易率低於0.1%。", "answer": "是", "question_group": 1406}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，小林因定期檢查帳戶明細及啟用即時通知，異常偵測率約為95%，未授權交易率低於0.1%。", "answer": "是", "question_group": 1406}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據圖中凱基銀行2023年資安教育調查數據，小張的異常偵測率約為95%，未授權交易率低於0.1%。", "answer": "否", "question_group": 1406}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，小張的異常偵測率約為95%，未授權交易率低於0.1%。", "answer": "否", "question_group": 1406}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據圖片，銀行應導入行為生物特徵分析及設備指紋技術偵測異常行為、結合地理位置風險評估並推廣硬體安全金鑰以強化多層防護。", "answer": "是", "question_group": 1407}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，銀行應導入行為生物特徵分析及設備指紋技術偵測異常行為、結合地理位置風險評估並推廣硬體安全金鑰以強化多層防護。", "answer": "是", "question_group": 1407}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據圖片，銀行應只依賴密碼和OTP作為主要的身份驗證手段以提升整體資安防禦。", "answer": "否", "question_group": 1407}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，銀行應只依賴密碼和OTP作為主要的身份驗證手段以提升整體資安防禦。", "answer": "否", "question_group": 1407}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，定期更換密碼可減少長期被攻擊風險，且避免跨平台重複使用相同密碼能防止一處密碼外洩導致多個帳戶被入侵。", "answer": "是", "question_group": 1408}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，定期更換密碼可減少長期被攻擊風險，且避免跨平台重複使用相同密碼能防止一處密碼外洩導致多個帳戶被入侵。", "answer": "是", "question_group": 1408}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，使用簡單易記的密碼能有效降低線上銀行帳戶遭駭及資料外洩風險。", "answer": "否", "question_group": 1408}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，使用簡單易記的密碼能有效降低線上銀行帳戶遭駭及資料外洩風險。", "answer": "否", "question_group": 1408}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據圖片，情境B中客戶立即撥打銀行官方客服確認身份可以將受騙率降至0.2%以下，有效阻斷詐騙行為。", "answer": "是", "question_group": 1409}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，情境B中客戶立即撥打銀行官方客服確認身份可以將受騙率降至0.2%以下，有效阻斷詐騙行為。", "answer": "是", "question_group": 1409}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據圖片，情境A中客戶收到偽造銀行簡訊並依指示輸入帳號密碼可以有效降低詐騙風險。", "answer": "否", "question_group": 1409}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，情境A中客戶收到偽造銀行簡訊並依指示輸入帳號密碼可以有效降低詐騙風險。", "answer": "否", "question_group": 1409}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，主動檢查帳戶明細能及時發現異常交易，阻止損失的成功率高達95%。", "answer": "是", "question_group": 1410}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，主動檢查帳戶明細能及時發現異常交易，阻止損失的成功率高達95%。", "answer": "是", "question_group": 1410}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，銀行的即時交易通知將未授權交易率降低至5%以上。", "answer": "否", "question_group": 1410}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，銀行的即時交易通知將未授權交易率降低至5%以上。", "answer": "否", "question_group": 1410}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據圖片，乙客戶使用簡訊OTP、行動安全密碼及生物識別技術的多重驗證方式，大幅降低可疑登入事件及盜用風險。", "answer": "是", "question_group": 1411}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，乙客戶使用簡訊OTP、行動安全密碼及生物識別技術的多重驗證方式，大幅降低可疑登入事件及盜用風險。", "answer": "是", "question_group": 1411}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據圖片，乙客戶只使用密碼驗證方式就能大幅降低可疑登入事件及盜用風險。", "answer": "否", "question_group": 1411}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，乙客戶只使用密碼驗證方式就能大幅降低可疑登入事件及盜用風險。", "answer": "否", "question_group": 1411}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據圖片中凱基銀行2023年線上轉帳流程，結合行為異常監控、強化密碼策略、限額控管與多階段驗證選項，並推動用戶安全教育，可有效降低未授權交易風險並維持用戶信任。", "answer": "是", "question_group": 1412}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，結合行為異常監控、強化密碼策略、限額控管與多階段驗證選項，並推動用戶安全教育，可有效降低未授權交易風險並維持用戶信任。", "answer": "是", "question_group": 1412}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據圖片中凱基銀行2023年線上轉帳流程，僅依靠用戶自訂密碼強度即可有效降低未授權交易風險並維持用戶信任。", "answer": "否", "question_group": 1412}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，僅依靠用戶自訂密碼強度即可有效降低未授權交易風險並維持用戶信任。", "answer": "否", "question_group": 1412}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，針對未啟用即時交易通知功能的客戶，銀行建議開啟每日或每月轉帳限額及利用24小時客服和行動銀行App即時確認交易。", "answer": "是", "question_group": 1413}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，針對未啟用即時交易通知功能的客戶，銀行建議開啟每日或每月轉帳限額及利用24小時客服和行動銀行App即時確認交易。", "answer": "是", "question_group": 1413}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，針對未啟用即時交易通知功能的客戶，銀行建議不需要開啟任何交易通知或限額設置。", "answer": "否", "question_group": 1413}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，針對未啟用即時交易通知功能的客戶，銀行建議不需要開啟任何交易通知或限額設置。", "answer": "否", "question_group": 1413}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據圖片，銀行可強化生物辨識及多因素驗證，提升異常交易監控準確性，而用戶應主動撥打官方客服驗證身分並避免泄露個資。", "answer": "是", "question_group": 1414}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，銀行可強化生物辨識及多因素驗證，提升異常交易監控準確性，而用戶應主動撥打官方客服驗證身分並避免泄露個資。", "answer": "是", "question_group": 1414}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據圖片，銀行應主要依賴用戶自行辨別假客服語音及深偽影片來保護數位金融安全，而不需要強化生物辨識或多因素驗證。", "answer": "否", "question_group": 1414}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，銀行應主要依賴用戶自行辨別假客服語音及深偽影片來保護數位金融安全，而不需要強化生物辨識或多因素驗證。", "answer": "否", "question_group": 1414}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2023年因額外驗證程序攔截的可疑交易總數是86次。", "answer": "是", "question_group": 1415}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表1，2023年因額外驗證程序攔截的可疑交易總數是86次。", "answer": "是", "question_group": 1415}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2023年因額外驗證程序攔截的可疑交易總數是50次。", "answer": "否", "question_group": 1415}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表1，2023年因額外驗證程序攔截的可疑交易總數是50次。", "answer": "否", "question_group": 1415}
 

@@ -10,15 +10,15 @@
 {"category": "Open", "question_type": "Comparison", "question": "在圖6中，哪一個幣別的最低定存金額是最低的？", "answer": "最低定存金額是1000"}
 {"category": "Open", "question_type": "Comparison", "question": "根據圖2，2024-03-10時，哪一種貨幣的定存利率是最高的？", "answer": "美元的定存利率是最高的，為 3.5%"}
 {"category": "MCQ", "question_type": "Ranking", "question": "根據圖1，渣打銀行的人民幣12個月存款利率在所有幣別與存款天期中排名為何？", "answer": "C", "choice": ["第11位", "第15位", "第14位", "第13位"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，12個月的人民幣利率比1個月的利率高0.70%。", "answer": "是", "question_group": 448}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，12個月的人民幣利率比1個月的利率高0.70%。", "answer": "是", "question_group": 448}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，12個月的人民幣利率比1個月的利率高1.00%。", "answer": "否", "question_group": 448}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，12個月的人民幣利率比1個月的利率高1.00%。", "answer": "否", "question_group": 448}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，數值最低的外幣利率是0.25。", "answer": "是", "question_group": 449}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖3，數值最低的外幣利率是0.25。", "answer": "是", "question_group": 449}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，數值最低的外幣利率是3.6。", "answer": "否", "question_group": 449}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖3，數值最低的外幣利率是3.6。", "answer": "否", "question_group": 449}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，美元在12個月定存中提供的利率最高。", "answer": "是", "question_group": 450}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，美元在12個月定存中提供的利率最高。", "answer": "是", "question_group": 450}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，日圓在12個月定存中提供的利率最高。", "answer": "否", "question_group": 450}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，日圓在12個月定存中提供的利率最高。", "answer": "否", "question_group": 450}
 

@@ -15,19 +15,19 @@
 {"category": "Open", "question_type": "Fact Lookup", "question": "根據圖1，哪個範例交易金額的手續費最低？", "answer": "範例交易金額10萬的手續費最低。"}
 {"category": "Open", "question_type": "Fact Lookup", "question": "在圖3中，手續費為150新台幣元的幣別數量有多少個？", "answer": "3"}
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖1，以下哪個範例交易金額的手續費是最低的？", "answer": "C", "choice": ["範例交易金額50萬的手續費是最低的。", "範例交易金額15萬的手續費是最低的。", "範例交易金額10萬的手續費最低。", "範例交易金額20萬的手續費是最低的。"]}
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，主要幣別的手續費由100元調升為150元，並且當單筆兌換金額超過等值新臺幣10萬元時，20萬元美元兌換手續費為150元基本費加50元超額費，共200元。", "answer": "是", "question_group": 198}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，主要幣別的手續費由100元調升為150元，並且當單筆兌換金額超過等值新臺幣10萬元時，20萬元美元兌換手續費為150元基本費加50元超額費，共200元。", "answer": "是", "question_group": 198}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，其他幣別的手續費由120元調整為100元，並且當單筆兌換金額超過等值新臺幣10萬元時，不會有額外的手續費加收。", "answer": "否", "question_group": 198}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，其他幣別的手續費由120元調整為100元，並且當單筆兌換金額超過等值新臺幣10萬元時，不會有額外的手續費加收。", "answer": "否", "question_group": 198}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，彰化銀行於2024年7月1日生效的外幣現鈔兌換手續費新規定中，超過新臺幣10萬元部分每10萬元四捨五入計算，額外加收新臺幣50元。", "answer": "是", "question_group": 199}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，彰化銀行於2024年7月1日生效的外幣現鈔兌換手續費新規定中，超過新臺幣10萬元部分每10萬元四捨五入計算，額外加收新臺幣50元。", "answer": "是", "question_group": 199}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，彰化銀行的新規定中，超過新臺幣10萬元部分每10萬元四捨五入計算，額外加收新臺幣100元。", "answer": "否", "question_group": 199}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，彰化銀行的新規定中，超過新臺幣10萬元部分每10萬元四捨五入計算，額外加收新臺幣100元。", "answer": "否", "question_group": 199}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，VIP貴賓依等級享9折（黃金）或8折（白金）優惠，而企業戶依年度累計兌換金額分級享9折（100萬元以上）或8折（200萬元以上）；數位銀行用戶透過網銀或APP預約並指定櫃檯取鈔可減免30元手續費。", "answer": "是", "question_group": 200}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，VIP貴賓依等級享9折（黃金）或8折（白金）優惠，而企業戶依年度累計兌換金額分級享9折（100萬元以上）或8折（200萬元以上）；數位銀行用戶透過網銀或APP預約並指定櫃檯取鈔可減免30元手續費。", "answer": "是", "question_group": 200}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，數位銀行用戶可以在任何時候免除所有手續費，而社會弱勢族群無需提供任何證明即可獲得每年三次手續費全免。", "answer": "否", "question_group": 200}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，數位銀行用戶可以在任何時候免除所有手續費，而社會弱勢族群無需提供任何證明即可獲得每年三次手續費全免。", "answer": "否", "question_group": 200}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，當金額超過10萬元時，其他幣別的相關費用是新臺幣50元。", "answer": "是", "question_group": 201}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表2，當金額超過10萬元時，其他幣別的相關費用是新臺幣50元。", "answer": "是", "question_group": 201}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，當金額超過10萬元時，其他幣別的相關費用是新臺幣100元。", "answer": "否", "question_group": 201}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表2，當金額超過10萬元時，其他幣別的相關費用是新臺幣100元。", "answer": "否", "question_group": 201}
 

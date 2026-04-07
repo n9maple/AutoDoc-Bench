@@ -10,15 +10,15 @@
 {"category": "MCQ", "question_type": "Comparison", "question": "根據提供的流程階段資訊，平均所需時間最短的流程階段是以下哪一項？", "answer": "C", "choice": ["流程階段 2（5天）", "流程階段 3（7天）", "流程階段 6", "流程階段 4（10天）"]}
 {"category": "Open", "question_type": "Ranking", "question": "在圖3中，成功率最高的擔保條件是多少？", "answer": "擔保條件40"}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據表2的資料，以下哪個行業的行業專案貸款比例比其固定資產貸款比例高得最多？", "answer": "B", "choice": ["科技行業", "特定行業", "農業行業", "服務業"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，流程階段 6 的平均所需時間是所有階段中最短的。", "answer": "是", "question_group": 700}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，流程階段 6 的平均所需時間是所有階段中最短的。", "answer": "是", "question_group": 700}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，流程階段 1 的平均所需時間是所有階段中最短的。", "answer": "否", "question_group": 700}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，流程階段 1 的平均所需時間是所有階段中最短的。", "answer": "否", "question_group": 700}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，貿易及服務業的固定資產貸款佔比是20%，為所有行業中最小。", "answer": "是", "question_group": 701}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，貿易及服務業的固定資產貸款佔比是20%，為所有行業中最小。", "answer": "是", "question_group": 701}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，技術服務業的固定資產貸款佔比是所有行業中最小。", "answer": "否", "question_group": 701}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，技術服務業的固定資產貸款佔比是所有行業中最小。", "answer": "否", "question_group": 701}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，貸款批准的平均時間比資料提交的縮短時間多3.5週。", "answer": "是", "question_group": 702}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，貸款批准的平均時間比資料提交的縮短時間多3.5週。", "answer": "是", "question_group": 702}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，貸款批准的平均時間比資料提交的縮短時間多2.5週。", "answer": "否", "question_group": 702}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，貸款批准的平均時間比資料提交的縮短時間多2.5週。", "answer": "否", "question_group": 702}
 

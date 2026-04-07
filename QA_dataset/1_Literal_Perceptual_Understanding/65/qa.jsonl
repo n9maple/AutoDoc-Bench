@@ -33,39 +33,39 @@
 {"category": "Open", "question_type": "Fact Lookup", "question": "根據圖8，哪個指標的數值最高？", "answer": "指標100的數值最高"}
 {"category": "MCQ", "question_type": "Proportion", "question": "根據圖1，基本資料正確填寫與基本資料錯誤填寫的比例關係是什麼？", "answer": "D", "choice": ["10:1", "8:1", "12:1", "11.5:1"]}
 {"category": "MCQ", "question_type": "Proportion", "question": "根據圖3，零存整付在總開戶中所占的比例約為多少？", "answer": "D", "choice": ["10.0%", "12.0%", "13.5%", "11.0%"]}
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2023 年的存本取息平均每月領息金額為 350 元。", "answer": "是", "question_group": 171}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表5，2023 年的存本取息平均每月領息金額為 350 元。", "answer": "是", "question_group": 171}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2023 年的存本取息平均每月領息金額為 500 元。", "answer": "否", "question_group": 171}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表5，2023 年的存本取息平均每月領息金額為 500 元。", "answer": "否", "question_group": 171}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，整存整付帳戶因提供多種存期選擇並可到期一次領回本息，符合多數客戶的多元理財需求，故開戶比例最高。", "answer": "是", "question_group": 172}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，整存整付帳戶因提供多種存期選擇並可到期一次領回本息，符合多數客戶的多元理財需求，故開戶比例最高。", "answer": "是", "question_group": 172}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，整存整付帳戶的開戶比例最高是因為它不提供多種存期選擇。", "answer": "否", "question_group": 172}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，整存整付帳戶的開戶比例最高是因為它不提供多種存期選擇。", "answer": "否", "question_group": 172}
 
-{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，2023年新台幣定存開戶申請案件中，基本資料錯誤填寫的比例是8.0%。", "answer": "是", "question_group": 173}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖1，2023年新台幣定存開戶申請案件中，基本資料錯誤填寫的比例是8.0%。", "answer": "是", "question_group": 173}
 
-{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，2023年新台幣定存開戶申請案件中，基本資料錯誤填寫的比例是5.0%。", "answer": "否", "question_group": 173}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖1，2023年新台幣定存開戶申請案件中，基本資料錯誤填寫的比例是5.0%。", "answer": "否", "question_group": 173}
 
-{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，代理人代辦的申請比例是2.0%。", "answer": "是", "question_group": 174}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖5，代理人代辦的申請比例是2.0%。", "answer": "是", "question_group": 174}
 
-{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，代理人代辦的申請比例是10%。", "answer": "否", "question_group": 174}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖5，代理人代辦的申請比例是10%。", "answer": "否", "question_group": 174}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，銀行採用加密傳輸、嚴格權限控管及異常警示系統等多重防護，且2023年稽核顯示資料外洩為零，保全措施合格率達100%，員工個資保護教育參與率高達98.7%。", "answer": "是", "question_group": 175}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，銀行採用加密傳輸、嚴格權限控管及異常警示系統等多重防護，且2023年稽核顯示資料外洩為零，保全措施合格率達100%，員工個資保護教育參與率高達98.7%。", "answer": "是", "question_group": 175}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，銀行的保全措施合格率低於80%，並且員工個資保護教育參與率低於90%。", "answer": "否", "question_group": 175}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，銀行的保全措施合格率低於80%，並且員工個資保護教育參與率低於90%。", "answer": "否", "question_group": 175}
 
-{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，2023年定存客戶中，1年期的開戶比例是52.0%。", "answer": "是", "question_group": 176}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖6，2023年定存客戶中，1年期的開戶比例是52.0%。", "answer": "是", "question_group": 176}
 
-{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，2023年定存客戶中，1年期的開戶比例是35.0%。", "answer": "否", "question_group": 176}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖6，2023年定存客戶中，1年期的開戶比例是35.0%。", "answer": "否", "question_group": 176}
 
-{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，整存整付的比例為68.0%。", "answer": "是", "question_group": 177}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖3，整存整付的比例為68.0%。", "answer": "是", "question_group": 177}
 
-{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，整存整付的比例為50.0%。", "answer": "否", "question_group": 177}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖3，整存整付的比例為50.0%。", "answer": "否", "question_group": 177}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，合作金庫銀行對每一存戶於本行及其國內分支機構的新台幣定存，最高保障金額為三百萬元。", "answer": "是", "question_group": 178}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，合作金庫銀行對每一存戶於本行及其國內分支機構的新台幣定存，最高保障金額為三百萬元。", "answer": "是", "question_group": 178}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，合作金庫銀行建議將定存金額超過保障上限的資金集中存放於同一金融機構。", "answer": "否", "question_group": 178}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，合作金庫銀行建議將定存金額超過保障上限的資金集中存放於同一金融機構。", "answer": "否", "question_group": 178}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2023年的因格式不符需重填比率是85%。", "answer": "是", "question_group": 179}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表1，2023年的因格式不符需重填比率是85%。", "answer": "是", "question_group": 179}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2023年的因格式不符需重填比率是75%。", "answer": "否", "question_group": 179}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表1，2023年的因格式不符需重填比率是75%。", "answer": "否", "question_group": 179}
 

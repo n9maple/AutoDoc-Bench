@@ -11,15 +11,15 @@
 {"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表1的資料，2022年和2023年間次數的變化趨勢為何？", "answer": "D", "choice": ["2023年的次數比2022年減少了3次，趨勢是減少。", "2023年的次數和2022年相同，趨勢是持平。", "2023年的次數比2022年減少了1次，趨勢是穩定。", "2023年的次數比2022年減少了1次，趨勢是減少。"]}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據圖2，所有貸款類型的統一利率總和可能是多少？", "answer": "A", "choice": ["31.0", "30.5", "32.5", "34.0"]}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據表1的資料，2022年和2023年的次數總和為何？請選擇正確的答案。", "answer": "D", "choice": ["6", "5", "11", "7"]}
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，信用評級高的客戶群體和信用評級低的客戶群體的年利率下限平均值為4.5%。", "answer": "是", "question_group": 1107}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，信用評級高的客戶群體和信用評級低的客戶群體的年利率下限平均值為4.5%。", "answer": "是", "question_group": 1107}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，信用評級高的客戶群體和信用評級低的客戶群體的年利率下限平均值為6%。", "answer": "否", "question_group": 1107}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，信用評級高的客戶群體和信用評級低的客戶群體的年利率下限平均值為6%。", "answer": "否", "question_group": 1107}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022 年和 2023 年的事件次數總和是 7。", "answer": "是", "question_group": 1108}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，2022 年和 2023 年的事件次數總和是 7。", "answer": "是", "question_group": 1108}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022 年和 2023 年的事件次數總和是 8。", "answer": "否", "question_group": 1108}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，2022 年和 2023 年的事件次數總和是 8。", "answer": "否", "question_group": 1108}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖表，感到有幫助的客戶百分比的平均值是 63.5%。", "answer": "是", "question_group": 1109}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖3，感到有幫助的客戶百分比的平均值是 63.5%。", "answer": "是", "question_group": 1109}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖表，感到有幫助的客戶百分比的平均值是 60%。", "answer": "否", "question_group": 1109}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖3，感到有幫助的客戶百分比的平均值是 60%。", "answer": "否", "question_group": 1109}
 

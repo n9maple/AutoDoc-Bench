@@ -8,15 +8,15 @@
 {"category": "MCQ", "question_type": "Proportion", "question": "根據圖表，30-39歲的申訴人占總人數的百分比是多少？", "answer": "C", "choice": ["15.0%", "18.5%", "20.0%", "35.0%"]}
 {"category": "MCQ", "question_type": "Proportion", "question": "根據2023年消費者爭議案件類型分布，理賠爭議所占的比例是多少？", "answer": "C", "choice": ["45.0%", "50.5%", "48.0%", "47.0%"]}
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2023年消費者教育推動成果的資料，以下哪一類活動場次為40，是場次最低的活動類型？", "answer": "C", "choice": ["場次最低的活動類型是社區講座", "場次最低的活動類型為50，雖然不是最低但仍然低", "場次最低的活動類型是某類型活動", "場次最低的活動類型是堂內學習，場次為40"]}
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，進修完成率是97.2%，平均每人進修的時數是12.6小時。", "answer": "是", "question_group": 108}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表2，進修完成率是97.2%，平均每人進修的時數是12.6小時。", "answer": "是", "question_group": 108}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，進修完成率是97.2%，平均每人進修的時數是15小時。", "answer": "否", "question_group": 108}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表2，進修完成率是97.2%，平均每人進修的時數是15小時。", "answer": "否", "question_group": 108}
 
-{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，2023年保險業消費者申訴案件中契約解釋的比例為30.0%。", "answer": "是", "question_group": 109}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖1，2023年保險業消費者申訴案件中契約解釋的比例為30.0%。", "answer": "是", "question_group": 109}
 
-{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，2023年保險業消費者申訴案件中契約解釋的比例為50.0%。", "answer": "否", "question_group": 109}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖1，2023年保險業消費者申訴案件中契約解釋的比例為50.0%。", "answer": "否", "question_group": 109}
 
-{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，2023年消費者爭議案件中，理賠爭議所占的比例是48.0%。", "answer": "是", "question_group": 110}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖5，2023年消費者爭議案件中，理賠爭議所占的比例是48.0%。", "answer": "是", "question_group": 110}
 
-{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，2023年消費者爭議案件中，理賠爭議所占的比例是58.0%。", "answer": "否", "question_group": 110}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖5，2023年消費者爭議案件中，理賠爭議所占的比例是58.0%。", "answer": "否", "question_group": 110}
 

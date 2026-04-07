@@ -22,27 +22,27 @@
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "根據台灣企銀2023年度企業網銀客服統計的資訊，以下哪些描述正確反映登入失敗與批次轉帳失敗的主要原因與佔比？同時，企業用戶應採取何種措施以避免批次轉帳因授權及檔案格式不符而失敗？", "answer": "C", "choice": ["登入失敗佔24%，主因為憑證遺失及密碼輸入錯誤；批次轉帳失敗多因每日限額設置不當及檔案上傳格式錯誤。企業用戶應調整每日限額並遵循正確檔案格式規範以避免失敗。", "登入失敗約佔24%，主要因密碼輸入錯誤與憑證失效；批次轉帳失敗多因授權流程未完成與資料格式不符。企業用戶應完成授權流程並核對批次檔格式，確保交易成功。", "登入失敗約佔24%，主要因密碼錯誤、憑證過期或未插入認證設備；批次轉帳失敗常因授權流程未完成或檔案格式錯誤。企業用戶應確保授權人完成線上審核，並檢查批次檔案格式符合系統要求。", "登入失敗約佔24%，原因包括密碼錯誤及憑證過期，批次轉帳失敗常因授權審核未完成及檔案格式錯誤。企業用戶應按程序完成授權及檢查檔案格式，防止交易異常。"]}
 {"category": "Open", "question_type": "Fact Lookup", "question": "根據表2的資料，2023年1月至12月中，哪幾個月的總查詢次數超過570000次？", "answer": "2023-03, 2023-07, 2023-11"}
 {"category": "Open", "question_type": "Fact Lookup", "question": "根據表4的資料，從2023年1月至2023年12月，哪個月份的繳費交易筆數最多？", "answer": "2023-12 月份的繳費交易筆數最多，為 47,300 筆。"}
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，批次轉帳的使用率是64%。", "answer": "是", "question_group": 180}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表5，批次轉帳的使用率是64%。", "answer": "是", "question_group": 180}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，批次轉帳的使用率是50%。", "answer": "否", "question_group": 180}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表5，批次轉帳的使用率是50%。", "answer": "否", "question_group": 180}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，該平台運用即時財務資訊、多元交易明細檢索與匯出，以及即時交易通知，有效提升資金流向掌握與帳務核對效率，且88%企業每日查詢帳戶餘額。", "answer": "是", "question_group": 181}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，該平台運用即時財務資訊、多元交易明細檢索與匯出，以及即時交易通知，有效提升資金流向掌握與帳務核對效率，且88%企業每日查詢帳戶餘額。", "answer": "是", "question_group": 181}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，該平台主要依靠人工處理交易明細，導致使用頻率低且無法有效促進財務監控。", "answer": "否", "question_group": 181}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，該平台主要依靠人工處理交易明細，導致使用頻率低且無法有效促進財務監控。", "answer": "否", "question_group": 181}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據下圖，2023年7月的活期存款帳戶查詢次數達到340000次，是全年最高的。", "answer": "是", "question_group": 182}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表2，2023年7月的活期存款帳戶查詢次數達到340000次，是全年最高的。", "answer": "是", "question_group": 182}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據下圖，2023年8月的活期存款帳戶查詢次數達到350000次，是全年最高的。", "answer": "否", "question_group": 182}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表2，2023年8月的活期存款帳戶查詢次數達到350000次，是全年最高的。", "answer": "否", "question_group": 182}
 
-{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據表格，從2023年1月到2023年12月，異常登入的通報數量在12月份達到最高峰。", "answer": "是", "question_group": 183}
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據圖4，從2023年1月到2023年12月，異常登入的通報數量在12月份達到最高峰。", "answer": "是", "question_group": 183}
 
-{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據表格，從2023年1月到2023年12月，異地存取的通報數量在12月份達到最高峰。", "answer": "否", "question_group": 183}
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據圖4，從2023年1月到2023年12月，異地存取的通報數量在12月份達到最高峰。", "answer": "否", "question_group": 183}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖片中，最左邊的效益指標幅度是 40%。", "answer": "是", "question_group": 184}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖1，最左邊的效益指標幅度是 40%。", "answer": "是", "question_group": 184}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖片中，最左邊的效益指標幅度是 30%。", "answer": "否", "question_group": 184}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖1，最左邊的效益指標幅度是 30%。", "answer": "否", "question_group": 184}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2023年12月的總通知數為43800，為所有月份中最高。", "answer": "是", "question_group": 185}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表3，2023年12月的總通知數為43800，為所有月份中最高。", "answer": "是", "question_group": 185}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2023年6月的總通知數為43800，為所有月份中最高。", "answer": "否", "question_group": 185}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表3，2023年6月的總通知數為43800，為所有月份中最高。", "answer": "否", "question_group": 185}
 

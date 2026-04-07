@@ -18,19 +18,19 @@
 {"category": "Open", "question_type": "Aggregation", "question": "根據圖5的資料，所有需要此文件的擔保品類型總數是多少？", "answer": "8"}
 {"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表2中『權利質押』的核貸成功率，每年增長3%，那麼在未來3年後，核貸成功率可能達到哪一個百分比？", "answer": "A", "choice": ["76.24%", "78.50%", "71.00%", "77.00%"]}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據表3的資料，第三人提供不動產的案件占比與權利質押的案件占比的總和為何？以下哪些選項正確？", "answer": "C", "choice": ["21%", "15%", "18%", "19%"]}
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據下圖，從2021年到2022年，財務報表比例的變化率是2.27%。", "answer": "是", "question_group": 957}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖1，從2021年到2022年，財務報表比例的變化率是2.27%。", "answer": "是", "question_group": 957}
 
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據下圖，從2021年到2022年，財務報表比例的變化率是5%。", "answer": "否", "question_group": 957}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖1，從2021年到2022年，財務報表比例的變化率是5%。", "answer": "否", "question_group": 957}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，兩個情境的平均核貸比率差異分別為24和30，這兩者的差異相加後，總和是54。", "answer": "是", "question_group": 958}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，兩個情境的平均核貸比率差異分別為24和30，這兩者的差異相加後，總和是54。", "answer": "是", "question_group": 958}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，兩個情境的平均核貸比率差異分別為38和16，這兩者的差異相加後，總和是54。", "answer": "否", "question_group": 958}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，兩個情境的平均核貸比率差異分別為38和16，這兩者的差異相加後，總和是54。", "answer": "否", "question_group": 958}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，從2021年到2023年，核貸成功率呈現逐年上升的趨勢。", "answer": "是", "question_group": 959}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖2，從2021年到2023年，核貸成功率呈現逐年上升的趨勢。", "answer": "是", "question_group": 959}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，從2021年到2023年，核貸成功率呈現逐年下降的趨勢。", "answer": "否", "question_group": 959}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖2，從2021年到2023年，核貸成功率呈現逐年下降的趨勢。", "answer": "否", "question_group": 959}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據下圖，核貸案件繳交率從2021年到2023年每年增加2%。", "answer": "是", "question_group": 960}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖1，核貸案件繳交率從2021年到2023年每年增加2%。", "answer": "是", "question_group": 960}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據下圖，核貸案件繳交率從2021年到2023年每年減少2%。", "answer": "否", "question_group": 960}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖1，核貸案件繳交率從2021年到2023年每年減少2%。", "answer": "否", "question_group": 960}
 

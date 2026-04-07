@@ -12,19 +12,19 @@
 {"category": "MCQ", "question_type": "Part-to-Whole", "question": "根據2023年台灣數位銀行客戶類型分布，哪一類別的客戶數量占總客戶數的最大部分？", "answer": "C", "choice": ["所有類別的客戶數量相同，各占總客戶數的33.3%", "數位銀行的新客戶數量只占10%的總客戶數，為160人", "傳統銀行的客戶數量占總客戶數的最大部分，為1600人，占88.9%", "傳統銀行的客戶數量占總客戶數的最大部分，為800人，占44.4%"]}
 {"category": "MCQ", "question_type": "Peak/Valley", "question": "根據2024年每月的高風險攻擊事件次數，哪一個月份的平均次數最低？", "answer": "C", "choice": ["2024-03", "2024-02", "2024-01", "2024-05"]}
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "根據提供的數據，以下哪一年份的存取權限控管升級次數超過了50？", "answer": "C", "choice": ["2020 年的升級次數在 50 到 70 之間，無疑超過 50 次。", "2021 年份的存取權限控管升級次數超過了 50", "無法確定具體年份", "2022年升級次數超過60次"]}
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2024年的合規檢核系統自動化程度是90%。", "answer": "是", "question_group": 100}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表7，2024年的合規檢核系統自動化程度是90%。", "answer": "是", "question_group": 100}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2024年的合規檢核系統自動化程度是75%。", "answer": "否", "question_group": 100}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表7，2024年的合規檢核系統自動化程度是75%。", "answer": "否", "question_group": 100}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，無法確定具體哪一年的存取權限控管升級次數超過了50。", "answer": "是", "question_group": 101}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖3，無法確定具體哪一年的存取權限控管升級次數超過了50。", "answer": "是", "question_group": 101}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，可以確定每一年的存取權限控管升級次數是否超過了50。", "answer": "否", "question_group": 101}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖3，可以確定每一年的存取權限控管升級次數是否超過了50。", "answer": "否", "question_group": 101}
 
-{"category": "YesNo", "question_type": "Part-to-Whole", "question": "根據表格，傳統銀行的客戶數量占總客戶數的最大部分，為1600人，占88.9%。", "answer": "是", "question_group": 102}
+{"category": "YesNo", "question_type": "Part-to-Whole", "question": "根據圖1，傳統銀行的客戶數量占總客戶數的最大部分，為1600人，占88.9%。", "answer": "是", "question_group": 102}
 
-{"category": "YesNo", "question_type": "Part-to-Whole", "question": "根據表格，純網銀的客戶數量占總客戶數的最大部分，為200人，占11.1%。", "answer": "否", "question_group": 102}
+{"category": "YesNo", "question_type": "Part-to-Whole", "question": "根據圖1，純網銀的客戶數量占總客戶數的最大部分，為200人，占11.1%。", "answer": "否", "question_group": 102}
 
-{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，傳統銀行的客戶占總客戶的百分比是88.9%。", "answer": "是", "question_group": 103}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖1，傳統銀行的客戶占總客戶的百分比是88.9%。", "answer": "是", "question_group": 103}
 
-{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，傳統銀行的客戶占總客戶的百分比是70%。", "answer": "否", "question_group": 103}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖1，傳統銀行的客戶占總客戶的百分比是70%。", "answer": "否", "question_group": 103}
 

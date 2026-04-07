@@ -14,15 +14,15 @@
 {"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖5，兩個策略類型的風險降低效果差距為多少百分比？", "answer": "D", "choice": ["12%", "5%", "25%", "10%"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據表1的資料，2022年的線上銷售比例與2020年相比，是否高於10個百分比？", "answer": "D", "choice": ["不，2022年的線上銷售比例比2020年增長了3個百分比。", "不，2022年的線上銷售比例與2020年相比沒有變化。", "是的，2022年的線上銷售比例比2020年高出20個百分比。", "是的，2022年的線上銷售比例比2020年高出15個百分比"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據表3的資料，在2025年，全球可穿戴設備市場規模相對於跨界產品年均銷售增長率，哪個數字更大？", "answer": "D", "choice": ["跨界產品的成長使全球可穿戴設備市場萎縮", "全球可穿戴設備市場規模較小", "全球可穿戴設備市場持平", "全球可穿戴設備市場規模更大"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，數位行銷活動的ROI增長率比線下行銷活動高出10%。", "answer": "是", "question_group": 717}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，數位行銷活動的ROI增長率比線下行銷活動高出10%。", "answer": "是", "question_group": 717}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，線下行銷活動的ROI增長率比數位行銷活動高出10%。", "answer": "否", "question_group": 717}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，線下行銷活動的ROI增長率比數位行銷活動高出10%。", "answer": "否", "question_group": 717}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年線上銷售比例相較於2020年增加了22%。", "answer": "是", "question_group": 718}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，2023年線上銷售比例相較於2020年增加了22%。", "answer": "是", "question_group": 718}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年線上銷售比例相較於2020年增加了10%。", "answer": "否", "question_group": 718}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，2023年線上銷售比例相較於2020年增加了10%。", "answer": "否", "question_group": 718}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，富邦人壽的市場份額是15.0%，是三者中最小的。", "answer": "是", "question_group": 719}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖2，富邦人壽的市場份額是15.0%，是三者中最小的。", "answer": "是", "question_group": 719}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，富邦人壽的市場份額是55.0%，是三者中最大的。", "answer": "否", "question_group": 719}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖2，富邦人壽的市場份額是55.0%，是三者中最大的。", "answer": "否", "question_group": 719}
 

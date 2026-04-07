@@ -11,15 +11,15 @@
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖片中顯示的數據，第三個數據點的諮詢件數可能是以下哪一個數字？", "answer": "D", "choice": ["2720", "2690", "2740", "2730"]}
 {"category": "MCQ", "question_type": "Peak/Valley", "question": "根據2023年密碼重設協助的數據，以下哪個月份的協助用戶數最低？", "answer": "C", "choice": ["2023年01月", "2023年05月", "2023年02月", "2023年11月"]}
 {"category": "Open", "question_type": "Fact Lookup", "question": "根據圖3，選用率超過50%的驗證方式有多少個？", "answer": "1"}
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖片中顯示的數據，第三個數據點的諮詢件數是2730。", "answer": "是", "question_group": 159}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖5，第三個數據點的諮詢件數是2730。", "answer": "是", "question_group": 159}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖片中顯示的數據，第三個數據點的諮詢件數是2500。", "answer": "否", "question_group": 159}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖5，第三個數據點的諮詢件數是2500。", "answer": "否", "question_group": 159}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2023年的客服解決率為96%。", "answer": "是", "question_group": 160}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表4，2023年的客服解決率為96%。", "answer": "是", "question_group": 160}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2023年的客服解決率為85%。", "answer": "否", "question_group": 160}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表4，2023年的客服解決率為85%。", "answer": "否", "question_group": 160}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2023年的操作諮詢件數是21000，滿意度比例是96%。", "answer": "是", "question_group": 161}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表3，2023年的操作諮詢件數是21000，滿意度比例是96%。", "answer": "是", "question_group": 161}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2023年的操作諮詢件數是20000，滿意度比例是94%。", "answer": "否", "question_group": 161}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表3，2023年的操作諮詢件數是20000，滿意度比例是94%。", "answer": "否", "question_group": 161}
 

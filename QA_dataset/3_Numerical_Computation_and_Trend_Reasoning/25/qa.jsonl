@@ -14,19 +14,19 @@
 {"category": "MCQ", "question_type": "Aggregation", "question": "查看下圖顯示的計劃項目實施比例，所有計劃項目的實施比例總和是多少？", "answer": "C", "choice": ["145%", "205%", "190%", "190%（其他公司數據）"]}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據表6，假設所有公司在2022年均提出董事選舉和公司章程修訂提案，且這些提案的通過率維持不變，則這兩類提案合計獲得通過的比例是多少？以下哪一選項是正確的？", "answer": "D", "choice": ["75%", "78%", "82%", "80%"]}
 {"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表4的資料，假設2023年ESG投入提案比例減少了15個百分點，以下哪一項是ESG投入提案比例的減少百分比？", "answer": "D", "choice": ["15%", "18%", "20%", "25%"]}
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年公司成功減少了碳排放量5%並提高能源使用效率10%。", "answer": "是", "question_group": 852}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表5，2022年公司成功減少了碳排放量5%並提高能源使用效率10%。", "answer": "是", "question_group": 852}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年公司僅提高了能源使用效率5%且未減少碳排放量。", "answer": "否", "question_group": 852}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表5，2022年公司僅提高了能源使用效率5%且未減少碳排放量。", "answer": "否", "question_group": 852}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據下圖，所有計劃項目的實施比例總和為190%。", "answer": "是", "question_group": 853}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖5，所有計劃項目的實施比例總和為190%。", "answer": "是", "question_group": 853}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據下圖，所有計劃項目的實施比例總和為150%。", "answer": "否", "question_group": 853}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖5，所有計劃項目的實施比例總和為150%。", "answer": "否", "question_group": 853}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，治理結構提案與ESG投入提案的比例總和是90%。", "answer": "是", "question_group": 854}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，治理結構提案與ESG投入提案的比例總和是90%。", "answer": "是", "question_group": 854}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，治理結構提案與ESG投入提案的比例總和是70%。", "answer": "否", "question_group": 854}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，治理結構提案與ESG投入提案的比例總和是70%。", "answer": "否", "question_group": 854}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖表，從2020年到2022年，股利支付比率逐年增加。", "answer": "是", "question_group": 855}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖2，從2020年到2022年，股利支付比率逐年增加。", "answer": "是", "question_group": 855}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖表，從2020年到2022年，股利支付比率逐年減少。", "answer": "否", "question_group": 855}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖2，從2020年到2022年，股利支付比率逐年減少。", "answer": "否", "question_group": 855}
 

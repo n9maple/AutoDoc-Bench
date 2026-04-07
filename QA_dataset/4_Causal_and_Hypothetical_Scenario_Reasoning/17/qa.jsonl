@@ -2,7 +2,7 @@
 {"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果將支付技術和區塊鏈應用的企業數量合併，這兩個類別的市場份額總和是多少？", "answer": "65%"}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據提供的圖表，從2022年到2023年，支付技術和區塊鏈的數量變化總和是多少？", "answer": "C", "choice": ["18", "19", "17", "20"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據下圖顯示的支付技術和區塊鏈應用的企業數量，這兩個類別的市場份額總和是多少？", "answer": "C", "choice": ["73%", "68%", "65%", "72%"]}
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，從2022年到2023年，支付技術和區塊鏈的數量變化總和是17。", "answer": "是", "question_group": 1249}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表1，從2022年到2023年，支付技術和區塊鏈的數量變化總和是17。", "answer": "是", "question_group": 1249}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，從2022年到2023年，支付技術和區塊鏈的數量變化總和是10。", "answer": "否", "question_group": 1249}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表1，從2022年到2023年，支付技術和區塊鏈的數量變化總和是10。", "answer": "否", "question_group": 1249}
 

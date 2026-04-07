@@ -8,15 +8,15 @@
 {"category": "Open", "question_type": "Comparison", "question": "哪個指標數值較低，10.5還是49.6？", "answer": "10.5 是較低的數值"}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據下列數據，哪一個指標的數值較低？ 10.5 與 49.6。", "answer": "C", "choice": ["10.5 和 49.6 是不相容的指標，因此無法比較", "10.5 是一個例外值，並不代表較低的經濟狀況", "10.5 是較低的數值", "兩者均屬於不同的經濟範疇，因此無法進行比較"]}
 {"category": "Open", "question_type": "Comparison", "question": "根據表5的資料，2023年9月1日與9月30日相比，哪一天台幣相對美元比較疲弱？", "answer": "2023年9月30日台幣相對美元比較疲弱。"}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，月初的台幣兌韓圓匯率較高。", "answer": "是", "question_group": 319}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，月初的台幣兌韓圓匯率較高。", "answer": "是", "question_group": 319}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，月中的台幣兌韓圓匯率較高。", "answer": "否", "question_group": 319}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，月中的台幣兌韓圓匯率較高。", "answer": "否", "question_group": 319}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2024年Q2的中國消費者指數比2024年Q1更高。", "answer": "是", "question_group": 320}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，2024年Q2的中國消費者指數比2024年Q1更高。", "answer": "是", "question_group": 320}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2024年Q1的中國消費者指數比2024年Q2更高。", "answer": "否", "question_group": 320}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，2024年Q1的中國消費者指數比2024年Q2更高。", "answer": "否", "question_group": 320}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，9月份台幣對美元的匯率是下降的趨勢。", "answer": "是", "question_group": 321}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，9月份台幣對美元的匯率是下降的趨勢。", "answer": "是", "question_group": 321}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，9月份台幣對美元的匯率是上升的趨勢。", "answer": "否", "question_group": 321}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，9月份台幣對美元的匯率是上升的趨勢。", "answer": "否", "question_group": 321}
 

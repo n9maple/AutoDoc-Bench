@@ -39,47 +39,47 @@
 {"category": "Open", "question_type": "Creative Scenario", "question": "根據台灣企銀2023年度客服統計資料，當企業在執行批次轉帳操作時，儘管所有授權程序完成且批次檔案格式初步確認正確，但系統頻繁出現異常錯誤訊息。請根據圖片中所示的常見問題與客服支援機制，比較下列哪些技術與設定層面可能是導致異常的原因？企業應採取哪些系統性排查步驟以有效掌控風險並確保作業符合資安與操作規範？", "answer": "可能原因包括每日限額已達上限、交易權限設定不足、網路連線不穩定及批次檔案格式仍有異常；企業應依序檢視操作紀錄與錯誤訊息，確認限額與權限，排查網路狀態，並保持系統及瀏覽器更新，必要時啟動客服支援並利用權限管理模組進行全面診斷。"}
 {"category": "MCQ", "question_type": "Creative Scenario", "question": "根據台灣企銀2023年度客服統計資料，當企業在執行批次轉帳操作時，儘管所有授權程序完成且批次檔案格式初步確認正確，但系統頻繁出現異常錯誤訊息。請根據圖片中所示的常見問題與客服支援機制，比較下列哪些技術與設定層面可能是導致異常的原因？企業應採取哪些系統性排查步驟以有效掌控風險並確保作業符合資安與操作規範？", "answer": "C", "choice": ["系統異常多因操作設定錯誤造成，建議企業加強操作流程訓練，並定期進行使用者權限審核，但技術層面可暫不優先考慮。", "可能因核心系統軟體錯誤或伺服器資源不足導致批次處理異常，建議企業安排IT部門監控系統運行狀態並適時進行升級，但應與權限及限額檢查併行。", "可能原因包括每日限額已達上限、交易權限設定不足、網路連線不穩定及批次檔案格式仍有異常；企業應依序檢視操作紀錄與錯誤訊息，確認限額與權限，排查網路狀態，並保持系統及瀏覽器更新，必要時啟動客服支援並利用權限管理模組進行全面診斷。", "異常可能源自網路不穩及部分批次文件格式錯誤，建議企業全面檢測網路連線品質並再次確認批次檔案與系統相容性，但須搭配權限和限額檢查以紮實控管。"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表7的資料，假設今年總事件數為600起，哪些選項是交易明細匯出格式問題事件數與憑證遺失或損壞事件數之和的正確計算結果？", "answer": "D", "choice": ["180", "150", "200", "168"]}
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，若批次轉帳的使用率下個月提高10%，那麼新的使用率是70.4。", "answer": "是", "question_group": 1427}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表5，若批次轉帳的使用率下個月提高10%，那麼新的使用率是70.4。", "answer": "是", "question_group": 1427}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，若批次轉帳的使用率下個月提高10%，那麼新的使用率是74。", "answer": "否", "question_group": 1427}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表5，若批次轉帳的使用率下個月提高10%，那麼新的使用率是74。", "answer": "否", "question_group": 1427}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，建立明確的主帳號與子帳號分權制度，定期檢視並撤銷離職員工權限，結合權限申請核准流程，並啟用OTP或USB憑證等多重身份驗證，有助於因應員工頻繁流動導致的操作權限管理混亂。", "answer": "是", "question_group": 1428}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，建立明確的主帳號與子帳號分權制度，定期檢視並撤銷離職員工權限，結合權限申請核准流程，並啟用OTP或USB憑證等多重身份驗證，有助於因應員工頻繁流動導致的操作權限管理混亂。", "answer": "是", "question_group": 1428}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，僅依賴單一密碼驗證方式足以因應員工頻繁流動導致的操作權限管理混亂。", "answer": "否", "question_group": 1428}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，僅依賴單一密碼驗證方式足以因應員工頻繁流動導致的操作權限管理混亂。", "answer": "否", "question_group": 1428}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，情境B符合系統設計理念，因為它具備多重認證、使用便利性輔助功能、雙語支援及10分鐘自動登出。", "answer": "是", "question_group": 1429}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，情境B符合系統設計理念，因為它具備多重認證、使用便利性輔助功能、雙語支援及10分鐘自動登出。", "answer": "是", "question_group": 1429}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，情境A符合系統設計理念，因為它提供了多重認證和使用便利性輔助功能。", "answer": "否", "question_group": 1429}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，情境A符合系統設計理念，因為它提供了多重認證和使用便利性輔助功能。", "answer": "否", "question_group": 1429}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，當企業在執行批次轉帳操作時，系統異常可能由每日限額已達上限、交易權限設定不足或網路連線不穩定所導致。", "answer": "是", "question_group": 1430}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，當企業在執行批次轉帳操作時，系統異常可能由每日限額已達上限、交易權限設定不足或網路連線不穩定所導致。", "answer": "是", "question_group": 1430}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，當企業在執行批次轉帳操作時，系統異常主要是由於企業未完成授權程序所導致。", "answer": "否", "question_group": 1430}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，當企業在執行批次轉帳操作時，系統異常主要是由於企業未完成授權程序所導致。", "answer": "否", "question_group": 1430}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，主帳號管理者掌握最高權限，並依職責分離與最小權限原則分配子帳號權限，分行專員協助填寫申請表並說明權限設定，確認授權人員與權限合理分配。", "answer": "是", "question_group": 1431}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，主帳號管理者掌握最高權限，並依職責分離與最小權限原則分配子帳號權限，分行專員協助填寫申請表並說明權限設定，確認授權人員與權限合理分配。", "answer": "是", "question_group": 1431}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，子帳號管理者掌握最高權限，並由分行專員隨意分配權限而無需經過審核。", "answer": "否", "question_group": 1431}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，子帳號管理者掌握最高權限，並由分行專員隨意分配權限而無需經過審核。", "answer": "否", "question_group": 1431}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據圖片，企業B較可能符合資格並成功啟用網銀服務，因其完整提交公司登記證明及依流程指定多層級授權人員。", "answer": "是", "question_group": 1432}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，企業B較可能符合資格並成功啟用網銀服務，因其完整提交公司登記證明及依流程指定多層級授權人員。", "answer": "是", "question_group": 1432}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據圖片，企業A未提交公司登記證明且未指定授權人員，因此較可能成功啟用網銀服務。", "answer": "否", "question_group": 1432}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，企業A未提交公司登記證明且未指定授權人員，因此較可能成功啟用網銀服務。", "answer": "否", "question_group": 1432}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據圖片中台灣企銀企業網銀平台的描述，利用多樣檢索條件分批查詢交易明細並結合自動對帳服務，可以保障即時資金監控不中斷並降低重大風險。", "answer": "是", "question_group": 1433}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，利用多樣檢索條件分批查詢交易明細並結合自動對帳服務，可以保障即時資金監控不中斷並降低重大風險。", "answer": "是", "question_group": 1433}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據圖片中台灣企銀企業網銀平台的描述，僅依賴手動查詢交易明細而不使用自動對帳服務，能有效保障即時資金監控並降低風險。", "answer": "否", "question_group": 1433}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，僅依賴手動查詢交易明細而不使用自動對帳服務，能有效保障即時資金監控並降低風險。", "answer": "否", "question_group": 1433}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，升級至三層簽核提升交易授權嚴謹性並減少未授權交易，圖中可採取的策略包括細分員工權限以避免不必要簽核。", "answer": "是", "question_group": 1434}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，升級至三層簽核提升交易授權嚴謹性並減少未授權交易，圖中可採取的策略包括細分員工權限以避免不必要簽核。", "answer": "是", "question_group": 1434}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，升級至三層簽核不會影響交易處理時間的效率，且不需要採取任何策略來維持控管嚴密。", "answer": "否", "question_group": 1434}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，升級至三層簽核不會影響交易處理時間的效率，且不需要採取任何策略來維持控管嚴密。", "answer": "否", "question_group": 1434}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，中小企業中單層和兩層比例的總和是全部企業中單層比例的3.4545倍。", "answer": "是", "question_group": 1435}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表6，中小企業中單層和兩層比例的總和是全部企業中單層比例的3.4545倍。", "answer": "是", "question_group": 1435}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，中小企業中單層和兩層比例的總和是全部企業中單層比例的2倍。", "answer": "否", "question_group": 1435}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表6，中小企業中單層和兩層比例的總和是全部企業中單層比例的2倍。", "answer": "否", "question_group": 1435}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，情境A藉由即時查詢、自動對帳與即時通知有效提升資金掌握與異常偵測速度，較適合多分行多帳戶管理。", "answer": "是", "question_group": 1436}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，情境A藉由即時查詢、自動對帳與即時通知有效提升資金掌握與異常偵測速度，較適合多分行多帳戶管理。", "answer": "是", "question_group": 1436}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，情境B在即時資金掌握和安全風險偵測方面比情境A更有效，較適合多分行多帳戶管理。", "answer": "否", "question_group": 1436}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，情境B在即時資金掌握和安全風險偵測方面比情境A更有效，較適合多分行多帳戶管理。", "answer": "否", "question_group": 1436}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據圖片，系統採用USB憑證、IC卡及OTP動態密碼的多重身份驗證，並結合多層級帳戶管理即時顯示權限防止權限誤用。", "answer": "是", "question_group": 1437}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，系統採用USB憑證、IC卡及OTP動態密碼的多重身份驗證，並結合多層級帳戶管理即時顯示權限防止權限誤用。", "answer": "是", "question_group": 1437}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據圖片，在每日約2.4萬次高流量下，系統不具備流量管理能力，容易發生網路擁塞。", "answer": "否", "question_group": 1437}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，在每日約2.4萬次高流量下，系統不具備流量管理能力，容易發生網路擁塞。", "answer": "否", "question_group": 1437}
 

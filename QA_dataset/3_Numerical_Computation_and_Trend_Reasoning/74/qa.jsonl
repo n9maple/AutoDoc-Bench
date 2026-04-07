@@ -20,27 +20,27 @@
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據下列數據，2022年和2023年參與供應商人數的平均值是多少？", "answer": "C", "choice": ["100", "115", "102.5", "105"]}
 {"category": "Open", "question_type": "Aggregation", "question": "根據表6的資料，2022年和2023年供應商說明會場次的總和是多少？", "answer": "5"}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據表2的資料，2023年資源回收率和無紙化文件傳遞率的總和是多少？請選出以下選項中正確的總和：", "answer": "A", "choice": ["166", "150", "165", "190"]}
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022 年和 2023 年的多元文化活動場次總和為 26 場。", "answer": "是", "question_group": 1057}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，2022 年和 2023 年的多元文化活動場次總和為 26 場。", "answer": "是", "question_group": 1057}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022 年和 2023 年的多元文化活動場次總和為 20 場。", "answer": "否", "question_group": 1057}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，2022 年和 2023 年的多元文化活動場次總和為 20 場。", "answer": "否", "question_group": 1057}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2022年到2023年，多元文化活動的參與人次增加了300。", "answer": "是", "question_group": 1058}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表4，從2022年到2023年，多元文化活動的參與人次增加了300。", "answer": "是", "question_group": 1058}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2022年到2023年，多元文化活動的參與人次增加了100。", "answer": "否", "question_group": 1058}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表4，從2022年到2023年，多元文化活動的參與人次增加了100。", "answer": "否", "question_group": 1058}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據下圖，所有活動指標的總和是2164。", "answer": "是", "question_group": 1059}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖1，所有活動指標的總和是2164。", "answer": "是", "question_group": 1059}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據下圖，所有活動指標的總和是2000。", "answer": "否", "question_group": 1059}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖1，所有活動指標的總和是2000。", "answer": "否", "question_group": 1059}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2022年到2023年，資源回收率增加了5個百分點。", "answer": "是", "question_group": 1060}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表2，從2022年到2023年，資源回收率增加了5個百分點。", "answer": "是", "question_group": 1060}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2022年到2023年，資源回收率的增幅是5%。", "answer": "否", "question_group": 1060}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表2，從2022年到2023年，資源回收率的增幅是5%。", "answer": "否", "question_group": 1060}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年和2023年參與供應商人數的平均值是102.5。", "answer": "是", "question_group": 1061}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表6，2022年和2023年參與供應商人數的平均值是102.5。", "answer": "是", "question_group": 1061}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年和2023年參與供應商人數的平均值是100。", "answer": "否", "question_group": 1061}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表6，2022年和2023年參與供應商人數的平均值是100。", "answer": "否", "question_group": 1061}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年和2023年的資源回收率的平均值是71.5。", "answer": "是", "question_group": 1062}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，2022年和2023年的資源回收率的平均值是71.5。", "answer": "是", "question_group": 1062}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年和2023年的資源回收率的平均值是65。", "answer": "否", "question_group": 1062}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，2022年和2023年的資源回收率的平均值是65。", "answer": "否", "question_group": 1062}
 

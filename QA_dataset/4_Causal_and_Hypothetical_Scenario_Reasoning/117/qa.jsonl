@@ -33,43 +33,43 @@
 {"category": "Open", "question_type": "Creative Scenario", "question": "考慮到圖像描述的台灣金融科技行業的迅速發展，假如現有監管框架無法及時適應這一增長，可能會在投資者和消費者層面上引發問題。以下哪項策略最有可能改進監管以確保市場的穩定性和合法性？", "answer": "加強監管機構能力"}
 {"category": "MCQ", "question_type": "Creative Scenario", "question": "考慮到圖像描述的台灣金融科技行業的迅速發展，假如現有監管框架無法及時適應這一增長，可能會在投資者和消費者層面上引發問題。以下哪項策略最有可能改進監管以確保市場的穩定性和合法性？", "answer": "C", "choice": ["集中監控大型企業", "提高行業自律性", "加強監管機構能力", "依賴於技術公司進行監控和評估"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表2的資料，每一天的淨流入淨額中，哪些天的淨流入淨額為負？", "answer": "B", "choice": ["週二、週三和週五", "週一、週二、週三、週四和週五", "週一、週四和週五", "只有週二和週四"]}
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據圖片中顯示的2023年第三季度數據，台灣金融科技領域的投資額增長了25%，顯示市場信心增強，小張的策略在短期內最有可能獲得較高的回報。", "answer": "是", "question_group": 1540}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，台灣金融科技領域的投資額增長了25%，顯示市場信心增強，小張的策略在短期內最有可能獲得較高的回報。", "answer": "是", "question_group": 1540}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據圖片中顯示的2023年第三季度數據，台灣金融科技領域的投資額下降了25%，因此小林的策略在短期內最有可能獲得較高的回報。", "answer": "否", "question_group": 1540}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，台灣金融科技領域的投資額下降了25%，因此小林的策略在短期內最有可能獲得較高的回報。", "answer": "否", "question_group": 1540}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，增加內需以減少對外貿易依賴、優化資源配置推動產業轉型、多元化出口市場以應對地緣政治風險是最能促進內需的政策組合。", "answer": "是", "question_group": 1541}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，增加內需以減少對外貿易依賴、優化資源配置推動產業轉型、多元化出口市場以應對地緣政治風險是最能促進內需的政策組合。", "answer": "是", "question_group": 1541}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，僅依賴增加對外貿易依賴和不進行資源配置優化是最能促進內需的政策組合。", "answer": "否", "question_group": 1541}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，僅依賴增加對外貿易依賴和不進行資源配置優化是最能促進內需的政策組合。", "answer": "否", "question_group": 1541}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，若小紅繼續維持其投資策略，金融股上漲將支持其實現穩健收益目標。", "answer": "是", "question_group": 1542}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，若小紅繼續維持其投資策略，金融股上漲將支持其實現穩健收益目標。", "answer": "是", "question_group": 1542}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，若小明繼續維持其投資策略，科技股上漲將支持其實現穩健收益目標。", "answer": "否", "question_group": 1542}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，若小明繼續維持其投資策略，科技股上漲將支持其實現穩健收益目標。", "answer": "否", "question_group": 1542}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，美聯儲保持利率不變可能降低美元需求，提升新台幣兌美元升值潛力。", "answer": "是", "question_group": 1543}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，美聯儲保持利率不變可能降低美元需求，提升新台幣兌美元升值潛力。", "answer": "是", "question_group": 1543}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，台灣央行的經濟支持政策不會對新台幣兌美元匯率產生任何影響。", "answer": "否", "question_group": 1543}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，台灣央行的經濟支持政策不會對新台幣兌美元匯率產生任何影響。", "answer": "否", "question_group": 1543}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，台灣央行在全球利率穩定但國內通脹壓力上升時更可能調整基準利率。", "answer": "是", "question_group": 1544}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，台灣央行在全球利率穩定但國內通脹壓力上升時更可能調整基準利率。", "answer": "是", "question_group": 1544}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，台灣央行在全球利率上升且經濟增長緩慢時更可能調整基準利率。", "answer": "否", "question_group": 1544}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，台灣央行在全球利率上升且經濟增長緩慢時更可能調整基準利率。", "answer": "否", "question_group": 1544}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，美國經濟數據強勁和美聯儲加息預期推高美元並壓低新台幣，進出口商應加強匯率風險管理來應對不穩定的市場環境。", "answer": "是", "question_group": 1545}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，美國經濟數據強勁和美聯儲加息預期推高美元並壓低新台幣，進出口商應加強匯率風險管理來應對不穩定的市場環境。", "answer": "是", "question_group": 1545}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，美國經濟數據疲軟和美聯儲降息預期導致美元走弱，進出口商不需要關注匯率風險管理。", "answer": "否", "question_group": 1545}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，美國經濟數據疲軟和美聯儲降息預期導致美元走弱，進出口商不需要關注匯率風險管理。", "answer": "否", "question_group": 1545}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，如果中國、東南亞和美國的出口額總和增加了10%，則增加後的出口額總和是286億美元。", "answer": "是", "question_group": 1546}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表5，如果中國、東南亞和美國的出口額總和增加了10%，則增加後的出口額總和是286億美元。", "answer": "是", "question_group": 1546}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，如果中國、東南亞和美國的出口額總和增加了10%，則增加後的出口額總和是290億美元。", "answer": "否", "question_group": 1546}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表5，如果中國、東南亞和美國的出口額總和增加了10%，則增加後的出口額總和是290億美元。", "answer": "否", "question_group": 1546}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，假設下週FOMC會議宣布放鬆加息政策，科技板塊可能會因利率下降而反彈。", "answer": "是", "question_group": 1547}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，假設下週FOMC會議宣布放鬆加息政策，科技板塊可能會因利率下降而反彈。", "answer": "是", "question_group": 1547}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，假設下週FOMC會議宣布放鬆加息政策，金融板塊可能會因預期利率走低而大幅上漲不受限制。", "answer": "否", "question_group": 1547}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，假設下週FOMC會議宣布放鬆加息政策，金融板塊可能會因預期利率走低而大幅上漲不受限制。", "answer": "否", "question_group": 1547}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據圖像描述，加強監管機構能力最有可能改進監管以確保台灣金融科技市場的穩定性和合法性。", "answer": "是", "question_group": 1548}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，加強監管機構能力最有可能改進監管以確保台灣金融科技市場的穩定性和合法性。", "answer": "是", "question_group": 1548}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據圖像描述，減少監管機構的能力最有可能改進監管以確保台灣金融科技市場的穩定性和合法性。", "answer": "否", "question_group": 1548}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，減少監管機構的能力最有可能改進監管以確保台灣金融科技市場的穩定性和合法性。", "answer": "否", "question_group": 1548}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，全球晶片需求預期下降影響了科技股的表現。", "answer": "是", "question_group": 1549}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，全球晶片需求預期下降影響了科技股的表現。", "answer": "是", "question_group": 1549}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，利率上升預期對科技股的表現起到了顯著作用。", "answer": "否", "question_group": 1549}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，利率上升預期對科技股的表現起到了顯著作用。", "answer": "否", "question_group": 1549}
 

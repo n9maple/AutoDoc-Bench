@@ -15,19 +15,19 @@
 {"category": "Open", "question_type": "Comparison", "question": "根據圖3，哪個季度的成交總額較高？", "answer": "第二個季度的成交總額較高"}
 {"category": "Open", "question_type": "Comparison", "question": "依據表6，請問台中和高雄在2023Q1至2023Q2的增長幅度差異是多少？", "answer": "4%"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "在圖3中，兩個季度的成交總額差是多少新台幣億元？", "answer": "65億元"}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，台中和高雄在2023年第一季度和第二季度的增長變化均為4%。", "answer": "是", "question_group": 304}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，台中和高雄在2023年第一季度和第二季度的增長變化均為4%。", "answer": "是", "question_group": 304}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，台北和新北在2023年第一季度和第二季度的增長變化均為4%。", "answer": "否", "question_group": 304}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，台北和新北在2023年第一季度和第二季度的增長變化均為4%。", "answer": "否", "question_group": 304}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023 年的建築成本變化率較 2022 年高出 5%。", "answer": "是", "question_group": 305}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，2023 年的建築成本變化率較 2022 年高出 5%。", "answer": "是", "question_group": 305}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2022 年的建築成本變化率較 2023 年高出 5%。", "answer": "否", "question_group": 305}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，2022 年的建築成本變化率較 2023 年高出 5%。", "answer": "否", "question_group": 305}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年與2024年的經濟增長率差異為0.2%。", "answer": "是", "question_group": 306}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，2023年與2024年的經濟增長率差異為0.2%。", "answer": "是", "question_group": 306}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年與2024年的經濟增長率差異為0.5%。", "answer": "否", "question_group": 306}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，2023年與2024年的經濟增長率差異為0.5%。", "answer": "否", "question_group": 306}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，土地市場成交總額的最高與最低成交總額的差距是65億元。", "answer": "是", "question_group": 307}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖3，土地市場成交總額的最高與最低成交總額的差距是65億元。", "answer": "是", "question_group": 307}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，土地市場成交總額的最高與最低成交總額的差距是85億元。", "answer": "否", "question_group": 307}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖3，土地市場成交總額的最高與最低成交總額的差距是85億元。", "answer": "否", "question_group": 307}
 

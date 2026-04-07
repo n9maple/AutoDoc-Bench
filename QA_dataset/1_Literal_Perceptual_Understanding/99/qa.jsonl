@@ -1,6 +1,6 @@
 {"category": "Open", "question_type": "Fact Lookup", "question": "哪個城市的預計參與人數最多？", "answer": "台北的預計參與人數最多，為 3600"}
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖片中各城市的預計參與人數，哪個城市的參與人數預計最多？", "answer": "C", "choice": ["台南的預計參與人數為 1800，最接近台北", "台中和台北的參與人數相同，均為 3500", "台北的預計參與人數最多，為 3600", "高雄的預計參與人數為 3000"]}
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，台北的預計參與人數最多，為3600人。", "answer": "是", "question_group": 236}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表3，台北的預計參與人數最多，為3600人。", "answer": "是", "question_group": 236}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，台中的預計參與人數最多，為3600人。", "answer": "否", "question_group": 236}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表3，台中的預計參與人數最多，為3600人。", "answer": "否", "question_group": 236}
 

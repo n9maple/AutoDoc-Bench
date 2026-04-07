@@ -11,19 +11,19 @@
 {"category": "MCQ", "question_type": "Rate of Change", "question": "根據提供的數據，從2022年到2023年，營收增長率的變化幅度為何？", "answer": "C", "choice": ["營收增長率的變化幅度是1.5%", "營收增長率的變化幅度是4%", "營收增長率的變化幅度是2%", "營收增長率的變化幅度是3.5%"]}
 {"category": "MCQ", "question_type": "Temporal Trend", "question": "根據提供的數據，從2023年到2025年，綠色金融產品比例的變化趨勢是什麼？", "answer": "C", "choice": ["綠色金融產品比例年增長率逐年減少。", "綠色金融產品逐年下降。", "綠色金融產品比例逐年上升。", "綠色金融產品從2023年到2025年增長緩慢。"]}
 {"category": "Open", "question_type": "Aggregation", "question": "根據表1的資料，現場和線上參與股東數總和的平均值是多少？", "answer": "至少為550"}
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，從2022年到2023年，營收增長率的變化幅度是2%。", "answer": "是", "question_group": 1118}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖1，從2022年到2023年，營收增長率的變化幅度是2%。", "answer": "是", "question_group": 1118}
 
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，從2022年到2023年，營收增長率的變化幅度是4%。", "answer": "否", "question_group": 1118}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖1，從2022年到2023年，營收增長率的變化幅度是4%。", "answer": "否", "question_group": 1118}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，董事和監察人的總提名人數是45。", "answer": "是", "question_group": 1119}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，董事和監察人的總提名人數是45。", "answer": "是", "question_group": 1119}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，董事和監察人的總提名人數是50。", "answer": "否", "question_group": 1119}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，董事和監察人的總提名人數是50。", "answer": "否", "question_group": 1119}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，從2023年到2025年，綠色金融產品比例逐年上升。", "answer": "是", "question_group": 1120}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖6，從2023年到2025年，綠色金融產品比例逐年上升。", "answer": "是", "question_group": 1120}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，從2023年到2025年，綠色金融產品比例保持不變。", "answer": "否", "question_group": 1120}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖6，從2023年到2025年，綠色金融產品比例保持不變。", "answer": "否", "question_group": 1120}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，從2023年到2025年，數位基礎設施升級的總投資是55億。", "answer": "是", "question_group": 1121}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表5，從2023年到2025年，數位基礎設施升級的總投資是55億。", "answer": "是", "question_group": 1121}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，從2023年到2025年，數位基礎設施升級的總投資是50億。", "answer": "否", "question_group": 1121}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表5，從2023年到2025年，數位基礎設施升級的總投資是50億。", "answer": "否", "question_group": 1121}
 

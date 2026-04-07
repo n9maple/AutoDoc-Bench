@@ -1,7 +1,7 @@
 {"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果電動巴士和電動汽車充電站的替代化石燃料效益分別增加0.2和0.1，它們的總替代化石燃料效益將是多少？", "answer": "總替代化石燃料效益為1.3。"}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據以下電動巴士和電動汽車的替代化石燃料效益數據，總替代化石燃料效益是多少？電動巴士增加0.2，電動汽車增加0.1。請參考圖片數據。", "answer": "C", "choice": ["總替代化石燃料效益為0.3。", "總替代化石燃料效益為1.0。", "總替代化石燃料效益為1.3。", "總替代化石燃料效益為1.4。"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表2，如果2019年的總發電量為2000億千瓦時，以下哪一項正確描述了2019年和2029年之間可再生能源發電量的增長？", "answer": "D", "choice": ["2029年的總發電量將會減少至1800億千瓦時。", "在此期間，可再生能源的貢獻增加了250億千瓦時。", "2019年和2029年的可再生能源發電量增長是150億千瓦時。", "2019年和2029年的可再生能源發電量增長是190億千瓦時。"]}
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，電動巴士和電動汽車充電站的總替代化石燃料效益是1.3。", "answer": "是", "question_group": 1494}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表4，電動巴士和電動汽車充電站的總替代化石燃料效益是1.3。", "answer": "是", "question_group": 1494}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，電動巴士和電動汽車充電站的總替代化石燃料效益是1.5。", "answer": "否", "question_group": 1494}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表4，電動巴士和電動汽車充電站的總替代化石燃料效益是1.5。", "answer": "否", "question_group": 1494}
 

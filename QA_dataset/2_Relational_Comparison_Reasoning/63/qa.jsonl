@@ -8,15 +8,15 @@
 {"category": "Open", "question_type": "Ranking", "question": "在台灣存款戶存款金額區間分布中，哪個區間的存款戶數量最少？", "answer": "超過300萬元"}
 {"category": "MCQ", "question_type": "Ranking", "question": "根據台灣存款戶存款金額區間分布，以下哪個區間的存款戶數量最少？", "answer": "C", "choice": ["500萬元以上", "250萬元到300萬元", "超過300萬元", "300萬元到400萬元"]}
 {"category": "Open", "question_type": "Comparison", "question": "根據表4的資料，請問匯款和現場領現的比例差是多少百分點？", "answer": "75個百分點"}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據下圖，0-100萬的金額範圍的存款戶百分比是最大的，達到63.5%。", "answer": "是", "question_group": 542}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，0-100萬的金額範圍的存款戶百分比是最大的，達到63.5%。", "answer": "是", "question_group": 542}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據下圖，1001萬以上的金額範圍的存款戶百分比是最大的，達到63.5%。", "answer": "否", "question_group": 542}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，1001萬以上的金額範圍的存款戶百分比是最大的，達到63.5%。", "answer": "否", "question_group": 542}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的匯款佔比與其他項目的佔比之間的差距是86個百分比點。", "answer": "是", "question_group": 543}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，2023年的匯款佔比與其他項目的佔比之間的差距是86個百分比點。", "answer": "是", "question_group": 543}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的匯款佔比與其他項目的佔比之間的差距是10個百分比點。", "answer": "否", "question_group": 543}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，2023年的匯款佔比與其他項目的佔比之間的差距是10個百分比點。", "answer": "否", "question_group": 543}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，超過300萬元的存款戶數量是所有區間中最少的。", "answer": "是", "question_group": 544}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖3，超過300萬元的存款戶數量是所有區間中最少的。", "answer": "是", "question_group": 544}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，未達300萬元的存款戶數量是所有區間中最少的。", "answer": "否", "question_group": 544}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖3，未達300萬元的存款戶數量是所有區間中最少的。", "answer": "否", "question_group": 544}
 

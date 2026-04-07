@@ -24,31 +24,31 @@
 {"category": "Open", "question_type": "Ranking", "question": "在2024年貸款糾紛案件成因中，哪一個成因的案件比例最低？", "answer": "利率浮動爭議和手續費爭議的案件比例最低，都是18.0%"}
 {"category": "MCQ", "question_type": "Ranking", "question": "在2024年貸款糾紛案件成因中，以下哪一個成因的案件比例最低？請參考提供的資料。", "answer": "C", "choice": ["手續費爭議 (10.0%)", "抵押品估值爭議 (17.0%)", "利率浮動爭議和手續費爭議的案件比例都是18.0%", "利率浮動爭議 (18.0%)"]}
 {"category": "Open", "question_type": "Comparison", "question": "根據表5的資料，若傳統製造業與創新/技術型企業都以最高核貸額度的下限取得標準信用貸款，哪一個企業類型在第一年支付的利息較少？", "answer": "創新/技術型企業在第一年支付的利息較少。"}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，新創/微型企業的無擔保貸款額度上限是1,200萬元，為最低。", "answer": "是", "question_group": 612}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表7，新創/微型企業的無擔保貸款額度上限是1,200萬元，為最低。", "answer": "是", "question_group": 612}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，創新/技術型企業的無擔保貸款額度上限是最低，低於1,200萬元。", "answer": "否", "question_group": 612}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表7，創新/技術型企業的無擔保貸款額度上限是最低，低於1,200萬元。", "answer": "否", "question_group": 612}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，對利率影響的評估因素中，有至少一個因素的強度評估為 5。", "answer": "是", "question_group": 613}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖3，對利率影響的評估因素中，有至少一個因素的強度評估為 5。", "answer": "是", "question_group": 613}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，所有評估因素對利率影響的強度評估均低於 5。", "answer": "否", "question_group": 613}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖3，所有評估因素對利率影響的強度評估均低於 5。", "answer": "否", "question_group": 613}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，利率浮動爭議和手續費爭議的案件比例都是18.0%，是2024年貸款糾紛案件成因中比例最低的。", "answer": "是", "question_group": 614}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖6，利率浮動爭議和手續費爭議的案件比例都是18.0%，是2024年貸款糾紛案件成因中比例最低的。", "answer": "是", "question_group": 614}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，其他爭議的案件比例是2024年貸款糾紛案件成因中比例最低的。", "answer": "否", "question_group": 614}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖6，其他爭議的案件比例是2024年貸款糾紛案件成因中比例最低的。", "answer": "否", "question_group": 614}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，永豐銀行的新創/微型企業信用貸款的最高利率高於台新銀行。", "answer": "是", "question_group": 615}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，永豐銀行的新創/微型企業信用貸款的最高利率高於台新銀行。", "answer": "是", "question_group": 615}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，台新銀行的新創/微型企業信用貸款的最高利率高於永豐銀行。", "answer": "否", "question_group": 615}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，台新銀行的新創/微型企業信用貸款的最高利率高於永豐銀行。", "answer": "否", "question_group": 615}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，信用貸款的最高額度與擔保貸款的最高額度之間的差額是3000。", "answer": "是", "question_group": 616}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表8，信用貸款的最高額度與擔保貸款的最高額度之間的差額是3000。", "answer": "是", "question_group": 616}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，信用貸款的最高額度與擔保貸款的最高額度之間的差額是2000。", "answer": "否", "question_group": 616}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表8，信用貸款的最高額度與擔保貸款的最高額度之間的差額是2000。", "answer": "否", "question_group": 616}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，最高與最低的最低專案利率之間的差距是0.45。", "answer": "是", "question_group": 617}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖2，最高與最低的最低專案利率之間的差距是0.45。", "answer": "是", "question_group": 617}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，最高與最低的最低專案利率之間的差距是0.55。", "answer": "否", "question_group": 617}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖2，最高與最低的最低專案利率之間的差距是0.55。", "answer": "否", "question_group": 617}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，永豐銀行的標準型信貸利率區間最小值與最大值的差距是1.1%，這是所有銀行中最大的差距之一。", "answer": "是", "question_group": 618}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，永豐銀行的標準型信貸利率區間最小值與最大值的差距是1.1%，這是所有銀行中最大的差距之一。", "answer": "是", "question_group": 618}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，台灣銀行的標準型信貸利率區間最小值與最大值的差距是1.1%，這是所有銀行中最大的差距。", "answer": "否", "question_group": 618}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，台灣銀行的標準型信貸利率區間最小值與最大值的差距是1.1%，這是所有銀行中最大的差距。", "answer": "否", "question_group": 618}
 

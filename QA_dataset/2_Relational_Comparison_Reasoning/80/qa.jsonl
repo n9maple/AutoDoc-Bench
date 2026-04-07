@@ -12,19 +12,19 @@
 {"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖片中所示的股東回報率，最高的股東回報率與最低的股東回報率之間的差距是多少？", "answer": "C", "choice": ["4.1", "5.5", "4.5", "3.0"]}
 {"category": "Open", "question_type": "Ranking", "question": "如果將股東回報率按從高到低排列，位於中間的行業的回報率是多少？", "answer": "11.25"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "根據圖1，聯發科在2024年和2025年的股利發放額相差多少億新台幣？", "answer": "25億新台幣"}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2025年相比2024年，上市公司數量增長了23家。", "answer": "是", "question_group": 634}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，2025年相比2024年，上市公司數量增長了23家。", "answer": "是", "question_group": 634}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2024年相比2025年，上市公司數量增長了23家。", "answer": "否", "question_group": 634}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，2024年相比2025年，上市公司數量增長了23家。", "answer": "否", "question_group": 634}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據圖表，2025年台積電的股利發放額高於國泰金控。", "answer": "是", "question_group": 635}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，2025年台積電的股利發放額高於國泰金控。", "answer": "是", "question_group": 635}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據圖表，2025年國泰金控的股利發放額高於台積電。", "answer": "否", "question_group": 635}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，2025年國泰金控的股利發放額高於台積電。", "answer": "否", "question_group": 635}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，聯發科的股利收益率為4.5%，是最高的。", "answer": "是", "question_group": 636}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，聯發科的股利收益率為4.5%，是最高的。", "answer": "是", "question_group": 636}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，統一企業的股利收益率為4.5%，是最高的。", "answer": "否", "question_group": 636}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，統一企業的股利收益率為4.5%，是最高的。", "answer": "否", "question_group": 636}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，中間位置的行業回報率是11.25。", "answer": "是", "question_group": 637}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖2，中間位置的行業回報率是11.25。", "answer": "是", "question_group": 637}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，中間位置的行業回報率是12。", "answer": "否", "question_group": 637}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖2，中間位置的行業回報率是12。", "answer": "否", "question_group": 637}
 

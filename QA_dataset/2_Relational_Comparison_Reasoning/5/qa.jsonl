@@ -11,11 +11,11 @@
 {"category": "Open", "question_type": "Difference Calculation", "question": "根據圖2，兩個活動指標的交易數量差異是多少？", "answer": "999250"}
 {"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖5，以下哪一個選項正確表示兩個培訓類型的參與人數相差的數字？", "answer": "A", "choice": ["500", "700", "400", "600"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據圖3，指標為750的數值相較於其他指標的情況是怎樣的？", "answer": "A", "choice": ["指標為750的數值相較於其他指標是低的。", "指標為750的數值顯示出行業的一個常見水準，但不是最佳選擇。", "指標為750的數值在所有指標中是最低的。", "指標為750的數值在一些指標中與其他指標持平。"]}
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，數值最低的指標位於第2個數據點。", "answer": "是", "question_group": 286}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖3，數值最低的指標位於第2個數據點。", "answer": "是", "question_group": 286}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，數值最低的指標位於第1個數據點。", "answer": "否", "question_group": 286}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖3，數值最低的指標位於第1個數據點。", "answer": "否", "question_group": 286}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，人工智能領域在2023年到2025年間的投資增幅最大。", "answer": "是", "question_group": 287}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，人工智能領域在2023年到2025年間的投資增幅最大。", "answer": "是", "question_group": 287}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，技術升級領域在2023年到2025年間的投資增幅最大。", "answer": "否", "question_group": 287}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，技術升級領域在2023年到2025年間的投資增幅最大。", "answer": "否", "question_group": 287}
 

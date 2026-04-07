@@ -28,51 +28,51 @@
 {"category": "MCQ", "question_type": "Creative Scenario", "question": "原始問題: 根據附圖所述：2025年商業健康險普及率預計為30%，且圖中指出醫療費用稅前扣除約推動個人健康險銷售成長15%。假設政府從2026年起在三年內逐步取消該稅前扣除，且同期大幅提高保險業風險資本要求（監管提高資本比率與風險權重）。請基於圖中數據與前提，完成以下要求：\n1) 比較並評估此雙重政策變動對中國人壽在短期（0–12個月）與中期（1–3年）之主要影響，說明作用機制並指出可量化的方向性變動（例如保費增速、普及率、ROE或資本充足率的方向與合理幅度範圍）；\n2) 提出一組具體、可操作的策略組合，至少覆蓋五大面向：產品、定價/資本轉移、分銷、風險管理（含ALM/再保）與公共關係/政策互動。每項策略須說明如何直接回應政策帶來的風險或機會，並列出1–3個可量化的KPI（含具體目標值或相對改善方向）。\n注意：問題必須以圖中提供的30%普及率與15%稅優貢獻為分析基礎；答案應僅以圖中資訊與合理推論為依據，且需可實際操作與衡量。\n請選擇最符合原始答案要點的一項：", "answer": "A", "choice": ["短期（0–12月）因稅優移除導致個人新保費增速立即下滑約10–15個百分點、ROE下滑數個百分點且資本充足率承壓；中期（1–3年）若採行模組化低資本產品、再保/資本市場轉移、團體與數位分銷、強化ALM與政策互動，可使年化成長回升至約5–10%並在1–3年內恢復至監管要求以上的資本水準；並提出涵蓋產品、定價/資本轉移、分銷、風險管理、公關五大面向的具體策略與KPI。", "短期影響有限，個人保費與普及率因行為黏著性維持不變；中期因監管提高資本要求，公司能透過內部留存盈利完全吸收風險資本變動，無需大幅調整產品或分銷策略。", "雙重政策將導致整體業務全面崩潰，個人與團體業務、資本充足率及ROE全線長期下降且無可行策略可回復，應立刻停止對新保單的承保以保存資本。", "取消稅優與提高資本要求短期會導致需求下滑，但公司可完全透過大幅提價將保費增速維持在原基線並提升ROE，不需改變分銷或產品結構。"]}
 {"category": "Open", "question_type": "Creative Scenario", "question": "參考附圖中對未來的關鍵假設（圖中指出：至2030年65歲以上人口占比將顯著上升至約20%；AI／大數據與區塊鏈能提升運營效率與信任；政策與市場競爭不確定性增強），並假設在2028年同時發生三項衝擊：A) 政府頒布更嚴格的個人健康數據使用與定價限制（禁止以個人化健康資料進行差別定價）；B) 一家以低價即時核保吸引年輕客群的AI＋大數據微型健康險新創快速擴張；C) 65歲以上人口比例短期加速上升導致理賠壓力顯著增加。以中國人壽立場，請提出至少四項策略並按優先順序排列（1為最高），對每項說明：1) 如何同時回應A、B、C（簡明邏輯），2) 最主要利弊（各一到二項），3) 2–3個可量化KPI。要求答案必須結合圖中的人口與科技／政策假設作判斷（若未參考圖中資訊不得作答）。最後以一句話說明你在排序時最看重的關鍵判斷依據。\n\n根據上述情境與附圖假設（高齡化至約20%、AI/大數據技術能提升效率與信任、政策與市場競爭不確定性增強），以下哪一項多選選項最符合對中國人壽在面對2028年A/B/C三項衝擊時應採取的優先策略排序？（請依附圖假設做判斷，選項均為可行但有差異的優先次序）\n\nA) 1) 強化合規與信任建構；2) 推出以服務為核心的分層產品與長期護理生態；3) 建構合規的群體級數據平台與可解釋AI；4) 組建快速創新與戰略合作機制；5) 強化品牌與客戶關係管理。\n\nB) 1) 推出以服務為核心的分層產品與長期護理生態；2) 建構合規的群體級數據平台與可解釋AI；3) 強化合規與信任建構；4) 組建快速創新與戰略合作機制；5) 強化品牌與客戶關係管理。\n\nC) 1) 組建快速創新與戰略合作機制（含投資/收購新創以獲取年輕客群）；2) 建構合規的群體級數據平台與可解釋AI；3) 推出以服務為核心的分層產品與長期護理生態；4) 強化合規與信任建構；5) 強化品牌與客戶關係管理。\n\nD) 1) 建構合規的群體級數據平台與可解釋AI；2) 強化合規與信任建構；3) 推出以服務為核心的分層產品與長期護理生態；4) 強化品牌與客戶關係管理；5) 組建快速創新與戰略合作機制。\n\nE) 1) 強化品牌與客戶關係管理；2) 推出以服務為核心的分層產品與長期護理生態；3) 組建快速創新與戰略合作機制；4) 建構合規的群體級數據平台與可解釋AI；5) 強化合規與信任建構。", "answer": "A) 以「強化合規與信任→服務/長期照護生態→群體級數據與可解釋AI→快速創新合作→品牌/CRM」為排序，因為在圖示高齡化與AI技術背景下，監管與信任衝擊最具急迫性，先穩固合規與信任可保護市佔並為後續產品、數據與合作策略創造安全的落地條件。"}
 {"category": "MCQ", "question_type": "Creative Scenario", "question": "參考附圖中對未來的關鍵假設（圖中指出：至2030年65歲以上人口占比將顯著上升至約20%；AI／大數據與區塊鏈能提升運營效率與信任；政策與市場競爭不確定性增強），並假設在2028年同時發生三項衝擊：A) 政府頒布更嚴格的個人健康數據使用與定價限制（禁止以個人化健康資料進行差別定價）；B) 一家以低價即時核保吸引年輕客群的AI＋大數據微型健康險新創快速擴張；C) 65歲以上人口比例短期加速上升導致理賠壓力顯著增加。以中國人壽立場，請提出至少四項策略並按優先順序排列（1為最高），對每項說明：1) 如何同時回應A、B、C（簡明邏輯），2) 最主要利弊（各一到二項），3) 2–3個可量化KPI。要求答案必須結合圖中的人口與科技／政策假設作判斷（若未參考圖中資訊不得作答）。最後以一句話說明你在排序時最看重的關鍵判斷依據。\n\n根據上述情境與附圖假設（高齡化至約20%、AI/大數據技術能提升效率與信任、政策與市場競爭不確定性增強），以下哪一項多選選項最符合對中國人壽在面對2028年A/B/C三項衝擊時應採取的優先策略排序？（請依附圖假設做判斷，選項均為可行但有差異的優先次序）\n\nA) 1) 強化合規與信任建構；2) 推出以服務為核心的分層產品與長期護理生態；3) 建構合規的群體級數據平台與可解釋AI；4) 組建快速創新與戰略合作機制；5) 強化品牌與客戶關係管理。\n\nB) 1) 推出以服務為核心的分層產品與長期護理生態；2) 建構合規的群體級數據平台與可解釋AI；3) 強化合規與信任建構；4) 組建快速創新與戰略合作機制；5) 強化品牌與客戶關係管理。\n\nC) 1) 組建快速創新與戰略合作機制（含投資/收購新創以獲取年輕客群）；2) 建構合規的群體級數據平台與可解釋AI；3) 推出以服務為核心的分層產品與長期護理生態；4) 強化合規與信任建構；5) 強化品牌與客戶關係管理。\n\nD) 1) 建構合規的群體級數據平台與可解釋AI；2) 強化合規與信任建構；3) 推出以服務為核心的分層產品與長期護理生態；4) 強化品牌與客戶關係管理；5) 組建快速創新與戰略合作機制。\n\nE) 1) 強化品牌與客戶關係管理；2) 推出以服務為核心的分層產品與長期護理生態；3) 組建快速創新與戰略合作機制；4) 建構合規的群體級數據平台與可解釋AI；5) 強化合規與信任建構。", "answer": "D", "choice": ["B) 優先推出以服務為核心的分層產品與長期照護生態（短期0–6月推出針對65+的保全/理賠緩衝方案以緩解理賠壓力），其次建構合規的群體級數據平台與可解釋AI（6–18月，前提為達到群體級匿名化與治理標準），第三位強化合規與信任建構（持續進行，將作為平台上線的合規門檻），第四組建快速創新與戰略合作機制（以合規條款作為並行條件），第五強化品牌與客戶關係管理。", "D) 優先建構合規的群體級數據平台與可解釋AI（0–9月完成匿名化治理框架並申請監管諮詢，平台上線以群體級指標為唯一輸入來源），第二同期強化合規與信任建構（包括透明可審計流程與消費者保護宣示），第三推出以服務為核心的分層產品與長期照護生態（依賴已驗證的群體級洞察），第四強化品牌與客戶關係管理，第五組建快速創新與戰略合作機制（作為平台成熟後的擴張工具）。", "C) 以組建快速創新與戰略合作機制為首（含投資/收購AI＋大數據微型健康險，0–12月目標降低CAC並快速提高年輕客群占比，但收購/產品必須在合規“凍結窗”與匿名化標準下運行），第二建構合規的群體級數據平台與可解釋AI（同步推動技術合規化），第三推出以服務為核心的分層產品與長期護理生態（12–36月逐步擴展），第四強化合規與信任建構（作為交易條件與事後治理），第五強化品牌與客戶關係管理。", "A) 以「強化合規與信任→服務/長期照護生態→群體級數據與可解釋AI→快速創新合作→品牌/CRM」為排序，因為在圖示高齡化與AI技術背景下，監管與信任衝擊最具急迫性，先穩固合規與信任可保護市佔並為後續產品、數據與合作策略創造安全的落地條件。"]}
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，眾安的市占預測在未來兩年將增加4至7個百分點，並且中國人壽若不積極回應，市占將面臨3至6個百分點的壓力。", "answer": "是", "question_group": 1250}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，眾安的市占預測在未來兩年將增加4至7個百分點，並且中國人壽若不積極回應，市占將面臨3至6個百分點的壓力。", "answer": "是", "question_group": 1250}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，太平洋的市占預測在未來兩年將增加3至5個百分點，而中國人壽的市占將增加6至10個百分點。", "answer": "否", "question_group": 1250}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，太平洋的市占預測在未來兩年將增加3至5個百分點，而中國人壽的市占將增加6至10個百分點。", "answer": "否", "question_group": 1250}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，短期內以再保承擔增量50%並快速推出20% coinsurance 的模組化產品，將導致賠付率約為66.1%。", "answer": "是", "question_group": 1251}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，短期內以再保承擔增量50%並快速推出20% coinsurance 的模組化產品，將導致賠付率約為66.1%。", "answer": "是", "question_group": 1251}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，單純動用資本與準備金，短期內無需調整賠付率結構即可完全吸收賠付上升。", "answer": "否", "question_group": 1251}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，單純動用資本與準備金，短期內無需調整賠付率結構即可完全吸收賠付上升。", "answer": "否", "question_group": 1251}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，路徑A提高風險識別精準度可以通過分群後AUC或新契約損率下降百分比來衡量。", "answer": "是", "question_group": 1252}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，路徑A提高風險識別精準度可以通過分群後AUC或新契約損率下降百分比來衡量。", "answer": "是", "question_group": 1252}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，路徑B的主要風險是模型偏差造成的族群錯誤率差距，而不是資料隱私事件。", "answer": "否", "question_group": 1252}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，路徑B的主要風險是模型偏差造成的族群錯誤率差距，而不是資料隱私事件。", "answer": "否", "question_group": 1252}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據附圖，2025年政策機制包括將商業健康保險定位為基本醫療補充並提升參與度，普及率預計達30%。", "answer": "是", "question_group": 1253}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，2025年政策機制包括將商業健康保險定位為基本醫療補充並提升參與度，普及率預計達30%。", "answer": "是", "question_group": 1253}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據附圖，2025年政策機制包括將商業健康保險的普及率維持在10%以下。", "answer": "否", "question_group": 1253}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，2025年政策機制包括將商業健康保險的普及率維持在10%以下。", "answer": "否", "question_group": 1253}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，採用策略B即以數位化與產品創新為核心更合適，因為平安、太平洋與眾安都在朝數位化、醫療合作與大數據方向發展，而市場同時存在年輕客群線上化與老齡化需求。", "answer": "是", "question_group": 1254}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，採用策略B即以數位化與產品創新為核心更合適，因為平安、太平洋與眾安都在朝數位化、醫療合作與大數據方向發展，而市場同時存在年輕客群線上化與老齡化需求。", "answer": "是", "question_group": 1254}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，採用策略A即依靠規模與線下代理人更合適，因為平安、太平洋與眾安主要依靠傳統產品和線下代理人來保住市場份額。", "answer": "否", "question_group": 1254}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，採用策略A即依靠規模與線下代理人更合適，因為平安、太平洋與眾安主要依靠傳統產品和線下代理人來保住市場份額。", "answer": "否", "question_group": 1254}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，2025年商業健康險普及率預計為30%，且稅前扣除約推動個人健康險銷售成長15%。", "answer": "是", "question_group": 1255}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，2025年商業健康險普及率預計為30%，且稅前扣除約推動個人健康險銷售成長15%。", "answer": "是", "question_group": 1255}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，稅前扣除的取消預計將立即提高個人健康險的銷售成長率至15%。", "answer": "否", "question_group": 1255}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，稅前扣除的取消預計將立即提高個人健康險的銷售成長率至15%。", "answer": "否", "question_group": 1255}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，方案A中提到的模組化保障和健康服務為核心的策略，確實符合消費者調查中約70%會考慮或增加健康險的趨勢。", "answer": "是", "question_group": 1256}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，方案A中提到的模組化保障和健康服務為核心的策略，確實符合消費者調查中約70%會考慮或增加健康險的趨勢。", "answer": "是", "question_group": 1256}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，消費者調查顯示，線上購買比例不會受到監管與演算法調整的影響，將保持在約40%。", "answer": "否", "question_group": 1256}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，消費者調查顯示，線上購買比例不會受到監管與演算法調整的影響，將保持在約40%。", "answer": "否", "question_group": 1256}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，短期內（0–12個月）中國人壽的個人新保費增速預計下滑約10–15個百分點，ROE下落數個百分點且資本比率承壓。", "answer": "是", "question_group": 1257}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，短期內（0–12個月）中國人壽的個人新保費增速預計下滑約10–15個百分點，ROE下落數個百分點且資本比率承壓。", "answer": "是", "question_group": 1257}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，中期內（1–3年）中國人壽無法將年化成長回升至約5–10%且資本充足率無法恢復至監管要求以上。", "answer": "否", "question_group": 1257}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，中期內（1–3年）中國人壽無法將年化成長回升至約5–10%且資本充足率無法恢復至監管要求以上。", "answer": "否", "question_group": 1257}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據圖片，利用健康數據與AI推出針對性產品並提供差異化增值服務和與科技平台整合，能夠直接導致中國人壽健康險客戶滿意度達到85%以上且高於行業平均。", "answer": "是", "question_group": 1258}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，利用健康數據與AI推出針對性產品並提供差異化增值服務和與科技平台整合，能夠直接導致中國人壽健康險客戶滿意度達到85%以上且高於行業平均。", "answer": "是", "question_group": 1258}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據圖片，僅依靠傳統營銷策略而不使用科技平台整合，能夠直接導致中國人壽健康險客戶滿意度達到85%以上且高於行業平均。", "answer": "否", "question_group": 1258}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，僅依靠傳統營銷策略而不使用科技平台整合，能夠直接導致中國人壽健康險客戶滿意度達到85%以上且高於行業平均。", "answer": "否", "question_group": 1258}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，選擇以策略A為主、納入策略B核心要素的混合策略（A主、B輔）是適合的，因為30%普及率目標與15%的年增顯示擴張機會，而合規趨嚴要求納入風控要素。", "answer": "是", "question_group": 1259}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，選擇以策略A為主、納入策略B核心要素的混合策略（A主、B輔）是適合的，因為30%普及率目標與15%的年增顯示擴張機會，而合規趨嚴要求納入風控要素。", "answer": "是", "question_group": 1259}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，完全依賴策略A的快速擴張而忽略合規風控是最佳策略，因為市場競爭加劇不會影響中國人壽的長期表現。", "answer": "否", "question_group": 1259}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，完全依賴策略A的快速擴張而忽略合規風控是最佳策略，因為市場競爭加劇不會影響中國人壽的長期表現。", "answer": "否", "question_group": 1259}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據圖示，優先強化品牌、客戶關係與政策監測是因應競爭加劇與政策不確定性以保護既有收入的正確策略。", "answer": "是", "question_group": 1260}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，優先強化品牌、客戶關係與政策監測是因應競爭加劇與政策不確定性以保護既有收入的正確策略。", "answer": "是", "question_group": 1260}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據圖示，加速科技應用應優先於產品與服務創新來滿足老齡化與健康意識需求。", "answer": "否", "question_group": 1260}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，加速科技應用應優先於產品與服務創新來滿足老齡化與健康意識需求。", "answer": "否", "question_group": 1260}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，中國人壽2025年重大疾病險保費若恰好為5000億元，則佔比為整個健康險市場的33.333…%，不屬於『三分之一以上』。", "answer": "是", "question_group": 1261}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，中國人壽2025年重大疾病險保費若恰好為5000億元，則佔比為整個健康險市場的33.333…%，不屬於『三分之一以上』。", "answer": "是", "question_group": 1261}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，2020至2025年健康險市場的增長倍數精確等同於翻倍（100%）。", "answer": "否", "question_group": 1261}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，2020至2025年健康險市場的增長倍數精確等同於翻倍（100%）。", "answer": "否", "question_group": 1261}
 

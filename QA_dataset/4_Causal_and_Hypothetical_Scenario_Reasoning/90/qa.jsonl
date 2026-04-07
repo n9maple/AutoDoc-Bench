@@ -1,6 +1,6 @@
 {"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果2025年的資產管理規模繼續以2023到2024年的年增長率增長，那麼2025年的資產管理規模將是多少？", "answer": "2025年的資產管理規模將是43.904。"}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據2023到2024年的年增長率，2025年的資產管理規模預計將是多少？", "answer": "C", "choice": ["42.504", "44.200", "43.904", "41.560"]}
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2025年的資產管理規模預計將是43.904。", "answer": "是", "question_group": 1498}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表5，2025年的資產管理規模預計將是43.904。", "answer": "是", "question_group": 1498}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2025年的資產管理規模預計將是41.5。", "answer": "否", "question_group": 1498}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表5，2025年的資產管理規模預計將是41.5。", "answer": "否", "question_group": 1498}
 

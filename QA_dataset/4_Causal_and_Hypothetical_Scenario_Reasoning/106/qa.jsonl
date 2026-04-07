@@ -1,7 +1,7 @@
 {"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果高科技產業和金融業在法定期限內提交財務報表的比例增加了5%，那麼增加後的平均比例是多少？", "answer": "96%"}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "假設高科技產業和金融業在法定期限內提交財務報表的比例在原有的基礎上增加了5%。根據圖表所示，增加後的平均比例是？", "answer": "C", "choice": ["98%", "94%", "96%", "89%"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表2的資料，假設2023年的良好或優秀等級公司比例是2022年的兩倍增長百分比，請問2023年的這個比例可能是以下哪一個選項？", "answer": "D", "choice": ["90%", "86%", "80%", "85%"]}
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據圖表，增加5%後，高科技產業和金融業提交財務報表的平均比例是96%。", "answer": "是", "question_group": 1510}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表4，增加5%後，高科技產業和金融業提交財務報表的平均比例是96%。", "answer": "是", "question_group": 1510}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據圖表，增加5%後，高科技產業和金融業提交財務報表的平均比例是98%。", "answer": "否", "question_group": 1510}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表4，增加5%後，高科技產業和金融業提交財務報表的平均比例是98%。", "answer": "否", "question_group": 1510}
 

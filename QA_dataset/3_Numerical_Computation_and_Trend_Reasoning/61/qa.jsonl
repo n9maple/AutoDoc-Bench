@@ -10,19 +10,19 @@
 {"category": "Open", "question_type": "Rate of Change", "question": "從2023-07-01到2024-07-01，3年期的年利率變化率是多少？", "answer": "3.23%"}
 {"category": "MCQ", "question_type": "Temporal Trend", "question": "根據以下情景，從2023-07-01到2024-07-01，1年期的年利率是如何變化的？", "answer": "C", "choice": ["在2023年底上升至高點", "從2023年中到年底持平", "減少", "整體走勢呈現周期性波動"]}
 {"category": "MCQ", "question_type": "Rate of Change", "question": "根據2023-07-01到2024-07-01的資料，3年期的年利率變化率為多少？", "answer": "C", "choice": ["2.98%", "3.45%", "3.23%", "3.75%"]}
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，從2023-07-01到2024-07-01，3年期的年利率變化率是約3.23%。", "answer": "是", "question_group": 1005}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖1，從2023-07-01到2024-07-01，3年期的年利率變化率是約3.23%。", "answer": "是", "question_group": 1005}
 
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，從2023-07-01到2024-07-01，3年期的年利率變化率是約5%。", "answer": "否", "question_group": 1005}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖1，從2023-07-01到2024-07-01，3年期的年利率變化率是約5%。", "answer": "否", "question_group": 1005}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，所有帳戶在歐元下的平均利率是0.108%。", "answer": "是", "question_group": 1006}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表6，所有帳戶在歐元下的平均利率是0.108%。", "answer": "是", "question_group": 1006}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，所有帳戶在歐元下的平均利率是0.11%。", "answer": "否", "question_group": 1006}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表6，所有帳戶在歐元下的平均利率是0.11%。", "answer": "否", "question_group": 1006}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，中華郵政定期儲蓄存款一年期和兩年期的平均利率是1.50%。", "answer": "是", "question_group": 1007}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，中華郵政定期儲蓄存款一年期和兩年期的平均利率是1.50%。", "answer": "是", "question_group": 1007}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，中華郵政定期儲蓄存款一年期和兩年期的平均利率是1.60%。", "answer": "否", "question_group": 1007}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，中華郵政定期儲蓄存款一年期和兩年期的平均利率是1.60%。", "answer": "否", "question_group": 1007}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，所有貨幣的本期年利率的平均值是2.40%。", "answer": "是", "question_group": 1008}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，所有貨幣的本期年利率的平均值是2.40%。", "answer": "是", "question_group": 1008}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，所有貨幣的本期年利率的平均值是3.00%。", "answer": "否", "question_group": 1008}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，所有貨幣的本期年利率的平均值是3.00%。", "answer": "否", "question_group": 1008}
 

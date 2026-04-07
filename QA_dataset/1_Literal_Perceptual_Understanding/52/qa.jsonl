@@ -9,15 +9,15 @@
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2023年的股票下單類型，限價單的數量是多少？以下選項中哪一個正確？", "answer": "C", "choice": ["41", "45", "43", "37"]}
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖片中的數據，最右邊的項目在2024年Q1的瀏覽量是多少？", "answer": "C", "choice": ["14800", "15200", "15000", "13000"]}
 {"category": "Open", "question_type": "Fact Lookup", "question": "根據表1的資料，在建議密碼更換週期為90天的情況下，請問一年內建議更換密碼的次數是多少？", "answer": "4次"}
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，未啟用雙重驗證的情況下，帳戶遭未授權登入的風險更高。", "answer": "是", "question_group": 133}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表6，未啟用雙重驗證的情況下，帳戶遭未授權登入的風險更高。", "answer": "是", "question_group": 133}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，啟用雙重驗證的情況下，帳戶遭未授權登入的風險更高。", "answer": "否", "question_group": 133}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表6，啟用雙重驗證的情況下，帳戶遭未授權登入的風險更高。", "answer": "否", "question_group": 133}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，最右邊的項目在2024年Q1的瀏覽量是15000。", "answer": "是", "question_group": 134}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖8，最右邊的項目在2024年Q1的瀏覽量是15000。", "answer": "是", "question_group": 134}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，最右邊的項目在2024年Q1的瀏覽量是30000。", "answer": "否", "question_group": 134}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖8，最右邊的項目在2024年Q1的瀏覽量是30000。", "answer": "否", "question_group": 134}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2024年4月所有客服管道的用戶滿意度得分皆為4.8。", "answer": "是", "question_group": 135}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表5，2024年4月所有客服管道的用戶滿意度得分皆為4.8。", "answer": "是", "question_group": 135}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2024年4月某個單一客服管道的用戶滿意度得分為4.8，而其他的得分不同。", "answer": "否", "question_group": 135}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表5，2024年4月某個單一客服管道的用戶滿意度得分為4.8，而其他的得分不同。", "answer": "否", "question_group": 135}
 

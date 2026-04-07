@@ -19,19 +19,19 @@
 {"category": "Open", "question_type": "Comparison", "question": "根據表4的資料，現金回饋和積分返還在旅遊支出偏好的比例差異是多少個百分點？", "answer": "30個百分點"}
 {"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖4，關於2024Q2與2025Q2的消費比例差異，以下哪個選項是正確的？", "answer": "C", "choice": ["2024Q2的消費比例與2025Q2的消費比例存在顯著的差異，從而需要進一步分析。", "2025Q2的消費比例應該是2024Q2的基準上升了50%，因此能夠計算出差異。", "無法計算2024Q2與2025Q2的消費比例差異，因為缺少具體數據。", "根據2024年的整體消費數據來推測2025Q2的消費比例，可以推算出大概的差異。"]}
 {"category": "MCQ", "question_type": "Ranking", "question": "根據圖3，以下哪個選項正確按消費類別的使用增長率從低到高的排序？", "answer": "D", "choice": ["75%, 65%, 40%, 30%", "40%, 30%, 75%, 65%", "30%, 75%, 40%, 65%", "30%, 40%, 65%, 75%"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，酒店預訂和機票預訂的信用卡使用率相同，都是75%。", "answer": "是", "question_group": 753}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，酒店預訂和機票預訂的信用卡使用率相同，都是75%。", "answer": "是", "question_group": 753}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，酒店預訂的信用卡使用率比機票預訂高。", "answer": "否", "question_group": 753}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，酒店預訂的信用卡使用率比機票預訂高。", "answer": "否", "question_group": 753}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，年齡段 45-60 在醫療保健和超市購物中的使用率差距最大。", "answer": "是", "question_group": 754}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，年齡段 45-60 在醫療保健和超市購物中的使用率差距最大。", "answer": "是", "question_group": 754}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，年齡段 30-45 在醫療保健和超市購物中的使用率差距最大。", "answer": "否", "question_group": 754}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，年齡段 30-45 在醫療保健和超市購物中的使用率差距最大。", "answer": "否", "question_group": 754}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，總消費額增長率比促銷活動貢獻率高5個百分點。", "answer": "是", "question_group": 755}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，總消費額增長率比促銷活動貢獻率高5個百分點。", "answer": "是", "question_group": 755}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，總消費額增長率比促銷活動貢獻率低5個百分點。", "answer": "否", "question_group": 755}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，總消費額增長率比促銷活動貢獻率低5個百分點。", "answer": "否", "question_group": 755}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，積分返還在旅遊支出方面的偏好比例最高，為65%。", "answer": "是", "question_group": 756}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，積分返還在旅遊支出方面的偏好比例最高，為65%。", "answer": "是", "question_group": 756}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，現金回饋在旅遊支出方面的偏好比例最高，為35%。", "answer": "否", "question_group": 756}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，現金回饋在旅遊支出方面的偏好比例最高，為35%。", "answer": "否", "question_group": 756}
 

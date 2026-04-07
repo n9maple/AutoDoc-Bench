@@ -20,31 +20,31 @@
 {"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖片顯示，從2020年到2024年，北美投資者對ESG因素考量的比例總共增加了多少百分比？", "answer": "C", "choice": ["15%", "20%", "18%", "22%"]}
 {"category": "Open", "question_type": "Aggregation", "question": "根據表2的資料，計算全球和亞洲年輕消費者數字平台偏好的平均百分比是多少？", "answer": "65%"}
 {"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表5的數據，如果Oscar Health在未來三年內，其在北美市場的佔有率每年增加0.5%，那麼在三年後，他們的市場佔有率將是以下哪一個選項？", "answer": "B", "choice": ["3.8%", "3.5%", "4.2%", "3.0%"]}
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據下圖，從2020年至2024年，拉丁美洲投資者對ESG因素考量的比例從42%增加到62%。", "answer": "是", "question_group": 772}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖8，從2020年至2024年，拉丁美洲投資者對ESG因素考量的比例從42%增加到62%。", "answer": "是", "question_group": 772}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據下圖，從2020年至2024年，拉丁美洲投資者對ESG因素考量的比例從62%下降到42%。", "answer": "否", "question_group": 772}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖8，從2020年至2024年，拉丁美洲投資者對ESG因素考量的比例從62%下降到42%。", "answer": "否", "question_group": 772}
 
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，從2023年到2050年，65歲及以上的人口比例將增加6個百分點。", "answer": "是", "question_group": 773}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖4，從2023年到2050年，65歲及以上的人口比例將增加6個百分點。", "answer": "是", "question_group": 773}
 
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，從2023年到2050年，65歲及以上的人口比例將增加10個百分點。", "answer": "否", "question_group": 773}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖4，從2023年到2050年，65歲及以上的人口比例將增加10個百分點。", "answer": "否", "question_group": 773}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，Lemonade 在北美市場和美國租戶保險市場的佔有率之和為 8%。", "answer": "是", "question_group": 774}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表5，Lemonade 在北美市場和美國租戶保險市場的佔有率之和為 8%。", "answer": "是", "question_group": 774}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，Lemonade 在北美市場和美國租戶保險市場的佔有率之和為 10%。", "answer": "否", "question_group": 774}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表5，Lemonade 在北美市場和美國租戶保險市場的佔有率之和為 10%。", "answer": "否", "question_group": 774}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023年全球和亞太地區的經濟總量為8.85萬億美元，高於2022年的8.51萬億美元。", "answer": "是", "question_group": 775}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，2023年全球和亞太地區的經濟總量為8.85萬億美元，高於2022年的8.51萬億美元。", "answer": "是", "question_group": 775}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年全球和亞太地區的經濟總量為8.85萬億美元，高於2023年的8.51萬億美元。", "answer": "否", "question_group": 775}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，2022年全球和亞太地區的經濟總量為8.85萬億美元，高於2023年的8.51萬億美元。", "answer": "否", "question_group": 775}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，從2020年到2024年，亞太地區65歲及以上人口比例每年穩定上升0.2%。", "answer": "是", "question_group": 776}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖7，從2020年到2024年，亞太地區65歲及以上人口比例每年穩定上升0.2%。", "answer": "是", "question_group": 776}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，從2020年到2024年，亞太地區65歲及以上人口比例保持不變。", "answer": "否", "question_group": 776}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖7，從2020年到2024年，亞太地區65歲及以上人口比例保持不變。", "answer": "否", "question_group": 776}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2022年到2023年，拉丁美洲的經濟總量增長了11.11%。", "answer": "是", "question_group": 777}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，從2022年到2023年，拉丁美洲的經濟總量增長了11.11%。", "answer": "是", "question_group": 777}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2022年到2023年，拉丁美洲的經濟總量增長了5%。", "answer": "否", "question_group": 777}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，從2022年到2023年，拉丁美洲的經濟總量增長了5%。", "answer": "否", "question_group": 777}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2020年到2024年，通過數字渠道完成保險流程的百分比增加了25%。", "answer": "是", "question_group": 778}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表7，從2020年到2024年，通過數字渠道完成保險流程的百分比增加了25%。", "answer": "是", "question_group": 778}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2020年到2024年，通過數字渠道完成保險流程的百分比增加了10%。", "answer": "否", "question_group": 778}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表7，從2020年到2024年，通過數字渠道完成保險流程的百分比增加了10%。", "answer": "否", "question_group": 778}
 

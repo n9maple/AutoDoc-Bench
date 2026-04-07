@@ -27,51 +27,51 @@
 {"category": "MCQ", "question_type": "Creative Scenario", "question": "參照圖片中『綠色及社會責任資產占投組25%』與『資本充足率(CAR)維持在15%以上』之描述，假設綠色資產市值瞬間下跌40%且監管臨時提高資本緩衝2個百分點（RWA=100，損失直接沖減資本）。在此情境下，哪一項選擇最符合風險管理主管在『立即(0–7天)與短期(1週–3月)』應優先採取的綜合應變措施，且正確描述其對資本/流動性的方向與簡化數值影響？選項：\nA) 立即啟動流動性緊急機制（動用高流動性資產、央行窗口、暫停股利）、即時透明溝通與AI篩查高風險客群；短期出售非核心高評級可變現資產並與監管協商資本恢復計畫。數值：資本15→損失10後剩5，CAR=5%，監管目標17%，需補資約12。\nB) 立即全面出售所有綠色資產以回籠現金並恢復CAR；數值：出售會實現40%跌價，資本不會改善且需額外補資。\nC) 優先維持社會承諾，短期不出售資產，全部依靠境外短期債務融資以避免資本稀釋；數值：可短暫緩解流動性但仍需立即大量資本補足≈12。\nD) 以RWA快速轉移（SPV或保險）為唯一手段，假設可在短期內把RWA從100降至60，並不立即補資；數值：聲稱可自動回復CAR而無需資本補充。\nE) 只靠內部成本削減與延後投資來恢復CAR，無需外部資本或資產處分；數值：短期無法在7天內顯著改善CAR。", "answer": "D", "choice": ["主要依賴境外短期債務融資以避免立即攤薄股權或出售資產；數值說明：若能短期募得12現金可緩解支付壓力，但若募集的是非資本性短期債務，監管資本仍為5，CAR仍為5%；僅當募得可計入資本的工具（如合規次級債/CoCo）時，資本5→17可使CAR回到17%，但在0–7天內完成並透過監管認可的可行性極低。", "以RWA快速轉移（設立SPV或購買風險轉移保險）作為主要手段，假設短期可把RWA從100降至60且不立即補資；數值：若成功把RWA降至60、資本仍為5，則CAR≈5/60≈8.3%，仍遠低於監管17%，仍需額外資本或更多RWA減幅才能達標。", "短期全面或大量折價出售綠色資產以回籠現金以恢復CAR；數值示例：若全部出售且市價已下跌40%，會實現損失25×0.4=10，資本由15降至5，CAR=5%（RWA=100），仍需約12資本；若只出售一半綠色資產（12.5）在同樣跌幅下實現損失5，資本10，CAR=10%，仍未達17%。", "A) 立即啟動流動性緊急機制、即時溝通與AI篩查並短期出售非核心高評級資產與向監管協商；數值：資本15−(25×0.4)=5，CAR=5%，監管目標17%，需補資約12（或以補資+RWA調整併行）。"]}
 {"category": "Open", "question_type": "Creative Scenario", "question": "情境：參考附圖資訊——新光金控已優化董事會（董事會成員中女性占比30%、引入多位獨立董事）、設立企業治理委員會、建置投資者關係平台（吸引超過1000名投資者）、2023年財報獲無保留審計意見，且完成全員合規培訓（參訓人次>5000）。假設該投資者關係平台遭遇重大資安事件，導致尚未公開的財務預測與內部決策資訊外洩並引發市場劇烈波動。請從公司治理與透明度角度回應：1) 比較評估圖中已實施措施在此情境下能發揮的正面作用與具體不足（請以圖中敘述為依據）；2) 董事會與企業治理委員會在事件發生後應在24小時、72小時與30天內各優先採取哪些具體、可執行的行動（含指派之職務層級），並按優先順序列出最少關鍵步驟以維持/恢復利益相關者信任；3) 提出三項優先強化的制度或技術改進，每項說明如何直接對應圖中揭示的現況或缺口、預期在90日內可達成的可量化指標（KPI）及負責單位。", "answer": "選項：\nA.（正確）在評估上肯定IR平台與合規訓練與董事會多元化與審計意見的正面基礎，但指出缺乏資安治理；24小時內由CISO隔離系統並由董事長/CEO指示企業治理委員會召開臨時會、法務與IR發布初步聲明並通報監管機關；72小時內由企業治理委員會監督委託獨立第三方取證並提供投資者保護措施；30天內公布調查初步結果、修訂通報與控制措施並完成短期系統加固。三項90日優先改進：1) 在董事會層級明確設置資安監督並至少指定/引入一名具資安背景獨立董事（KPI：職權文件修訂完成並任命人選）；2) 對IR平台實施MFA與資料加密並完成外部滲透測試及修復（KPI：MFA/加密部署完成且高/中風險項目復測通過）；3) 建立資安事件通報SOP並完成跨部門桌上演練（KPI：SOP發布且完成演練）；負責單位分別為董事會秘書/治理委員會、CIO/CISO與資訊部門、合規/風險/CISO/人資。 \nB. 以PR與透明度為主策略：立即由IR發布完整細節安撫市場並開放QA頻道，將技術調查置於次要，72小時內持續發布更新，30天內完成內部調查；三項改進集中於 IR 溝通流程與投資者補償方案（缺點：忽略技術取證與法律通報，可能妨礙證據保存與合規）。\nC. 以懲罰與高壓管理為主：24小時內停職相關管理人員並啟動內部紀律處分調查，72小時內全面內部稽核，30天內公開懲處結果；三項改進主打問責與人事調整（缺點：可能在未確認事實前喪失市場信任並妨礙獨立取證）。\nD. 以技術封堵為主：立即由IT全面下線IR平台並集中補丁與修復，72小時內完成系統修補與權限重置，30天內重新上線；三項改進僅聚焦技術防護（缺點：缺少董事會層級的透明披露與治理監督，且忽略投資者溝通與監管通報時效）。\nE. 延後對外揭露以完整調查為先：24–72小時內僅內部處理並暫緩對外說明，30天內公布完整報告並採取補救（缺點：高風險造成市場不確定性與監管處罰）。\n正確答案：A — 以兼顧治理監督、即時技術封鎖與透明揭露為優先，並在90日內完成董事會層級資安職責明定、IR平台技術加固與事件通報SOP與演練（各具具體KPI與負責單位）。"}
 {"category": "MCQ", "question_type": "Creative Scenario", "question": "情境：參考附圖資訊——新光金控已優化董事會（董事會成員中女性占比30%、引入多位獨立董事）、設立企業治理委員會、建置投資者關係平台（吸引超過1000名投資者）、2023年財報獲無保留審計意見，且完成全員合規培訓（參訓人次>5000）。假設該投資者關係平台遭遇重大資安事件，導致尚未公開的財務預測與內部決策資訊外洩並引發市場劇烈波動。請從公司治理與透明度角度回應：1) 比較評估圖中已實施措施在此情境下能發揮的正面作用與具體不足（請以圖中敘述為依據）；2) 董事會與企業治理委員會在事件發生後應在24小時、72小時與30天內各優先採取哪些具體、可執行的行動（含指派之職務層級），並按優先順序列出最少關鍵步驟以維持/恢復利益相關者信任；3) 提出三項優先強化的制度或技術改進，每項說明如何直接對應圖中揭示的現況或缺口、預期在90日內可達成的可量化指標（KPI）及負責單位。", "answer": "A", "choice": ["（正確）在評估上肯定IR平台與合規訓練與董事會多元化與審計意見的正面基礎，但指出缺乏資安治理；24小時內由CISO隔離系統並由董事長/CEO指示企業治理委員會召開臨時會、法務與IR發布初步聲明並通報監管機關；72小時內由企業治理委員會監督委託獨立第三方取證並提供投資者保護措施；30天內公布調查初步結果、修訂通報與控制措施並完成短期系統加固。三項90日優先改進：1) 在董事會層級明確設置資安監督並至少指定/引入一名具資安背景獨立董事（KPI：職權文件修訂完成並任命人選）；2) 對IR平台實施MFA與資料加密並完成外部滲透測試及修復（KPI：MFA/加密部署完成且高/中風險項目復測通過）；3) 建立資安事件通報SOP並完成跨部門桌上演練（KPI：SOP發布且完成演練）；負責單位分別為董事會秘書/治理委員會、CIO/CISO與資訊部門、合規/風險/CISO/人資。", "以既有合規與審計為主要依據：強調公司已完成全員合規訓練且財報獲無保留意見，建議短期內先由合規/稽核與外部審計再次檢視IR平台存取與流程，透過合規檢查與例行稽核確認監控與紀錄無缺，暫不在董事會層級立即新增資安專責監督或引入資安背景獨立董事，並主張由內部資安團隊執行週期性滲透測試與修復。", "以技術封堵與快速復原為主，結合受控通報：24小時內由CIO/CISO隔離並下線受影響IR系統、封鎖外部連線、保全日誌與痕跡，並由法務/合規在24小時內向監管機關報備且由董事長召集企業治理委員會進行簡報；72小時內完成權限重置、緊急修補與外部滲透測試，30天內完成系統加固與恢復上線，溝通重點以技術進度為主，對外公告維持以修復為主的節奏。", "以公關與透明溝通為第一優先：立即由IR發布受控且透明的初步聲明以安撫市場、設立公開Q&A頻道並定時更新，同步由法務與合規短暫保全證據與委託第三方取證，但將深入技術封堵與長期修復置於次要階段以避免引發過度恐慌；72小時內維持頻繁溝通，30天內公布初步調查結果與賠償/投資者保護方案。"]}
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，方案B在削減後可保留80%的救災經費和醫療檢查覆蓋率，較符合「傷害最小化」原則。", "answer": "是", "question_group": 1218}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，方案B在削減後可保留80%的救災經費和醫療檢查覆蓋率，較符合「傷害最小化」原則。", "answer": "是", "question_group": 1218}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，方案A在削減後可保留80%的教育受惠人數，較符合「傷害最小化」原則。", "answer": "否", "question_group": 1218}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，方案A在削減後可保留80%的教育受惠人數，較符合「傷害最小化」原則。", "answer": "否", "question_group": 1218}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，新光金控在資金與資源投入的相對配比上部分達到了經濟效益與社會/環境效益的平衡，因為圖片顯示約15億元綠色金融投入、超過30%貸款支持中小企業，並有5000萬捐贈與1500人次／16000小時志工。", "answer": "是", "question_group": 1219}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，新光金控在資金與資源投入的相對配比上部分達到了經濟效益與社會/環境效益的平衡，因為圖片顯示約15億元綠色金融投入、超過30%貸款支持中小企業，並有5000萬捐贈與1500人次／16000小時志工。", "answer": "是", "question_group": 1219}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，新光金控的成效可量化與可驗證性顯示它在經濟效益與社會/環境效益間完全達到了平衡。", "answer": "否", "question_group": 1219}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，新光金控的成效可量化與可驗證性顯示它在經濟效益與社會/環境效益間完全達到了平衡。", "answer": "否", "question_group": 1219}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，將1億投入中小企業貸款符合新光金控超過30%貸款支持中小企業的策略，並且有助於創造約500個就業機會和提升地方GDP。", "answer": "是", "question_group": 1220}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，將1億投入中小企業貸款符合新光金控超過30%貸款支持中小企業的策略，並且有助於創造約500個就業機會和提升地方GDP。", "answer": "是", "question_group": 1220}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，將1億投入於大型太陽能專案能在短期內快速回收且不會增加碳排放。", "answer": "否", "question_group": 1220}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，將1億投入於大型太陽能專案能在短期內快速回收且不會增加碳排放。", "answer": "否", "question_group": 1220}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，緊急救助為最大項，金額30,000,000，且三項合計60,000,000，緊急救助佔比為50%。", "answer": "是", "question_group": 1221}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，緊急救助為最大項，金額30,000,000，且三項合計60,000,000，緊急救助佔比為50%。", "answer": "是", "question_group": 1221}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，教育為最大項，金額20,000,000，且三項合計60,000,000，教育佔比最高。", "answer": "否", "question_group": 1221}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，教育為最大項，金額20,000,000，且三項合計60,000,000，教育佔比最高。", "answer": "否", "question_group": 1221}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，新光金控已優化董事會多元化並強化合規訓練，但在資安治理上存在不足。", "answer": "是", "question_group": 1222}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，新光金控已優化董事會多元化並強化合規訓練，但在資安治理上存在不足。", "answer": "是", "question_group": 1222}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，新光金控已經全面解決了所有資安問題，無需任何技術改進。", "answer": "否", "question_group": 1222}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，新光金控已經全面解決了所有資安問題，無需任何技術改進。", "answer": "否", "question_group": 1222}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，平均培訓時數約為4小時/人次（計算式為20,000 ÷ 5,000 = 4），但實際平均應略低於4小時，因人次為『超過5000』。", "answer": "是", "question_group": 1223}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，平均培訓時數約為4小時/人次（計算式為20,000 ÷ 5,000 = 4），但實際平均應略低於4小時，因人次為『超過5000』。", "answer": "是", "question_group": 1223}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，平均培訓時數可直接等同為每位員工的年度平均培訓時數，假設每位員工僅參訓一次。", "answer": "否", "question_group": 1223}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，平均培訓時數可直接等同為每位員工的年度平均培訓時數，假設每位員工僅參訓一次。", "answer": "否", "question_group": 1223}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，情境B較符合新光金控的策略，因其以國內已商轉、分散性高之資產提供較穩定現金流與資本保全，更易在維持資本充足率>15%及運用大數據與AI強化風險預警下管控風險，且較能滿足可量化的社會責任揭露要求。", "answer": "是", "question_group": 1224}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，情境B較符合新光金控的策略，因其以國內已商轉、分散性高之資產提供較穩定現金流與資本保全，更易在維持資本充足率>15%及運用大數據與AI強化風險預警下管控風險，且較能滿足可量化的社會責任揭露要求。", "answer": "是", "question_group": 1224}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，情境A較符合新光金控的策略，因其資產不穩定且未能提供穩定的現金流和資本保全，難以維持資本充足率>15%及強化風險預警。", "answer": "否", "question_group": 1224}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，情境A較符合新光金控的策略，因其資產不穩定且未能提供穩定的現金流和資本保全，難以維持資本充足率>15%及強化風險預警。", "answer": "否", "question_group": 1224}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，優先保護治理底線（董事會女性維持30%），將自有綠色金融投入按30%削減至10.5億，但透過綠色債券、合投與政府保證等槓桿撬動2–3倍總投資，以信用保證/風險分擔把對中小企業的到位支持回補至約90%基準。", "answer": "是", "question_group": 1225}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，優先保護治理底線（董事會女性維持30%），將自有綠色金融投入按30%削減至10.5億，但透過綠色債券、合投與政府保證等槓桿撬動2–3倍總投資，以信用保證/風險分擔把對中小企業的到位支持回補至約90%基準。", "answer": "是", "question_group": 1225}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，為了優先保護社會慈善與志工，將綠色金融與對中小企業支持大幅削減超過30%，並透過內部志工與捐贈替代金融措施。", "answer": "否", "question_group": 1225}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，為了優先保護社會慈善與志工，將綠色金融與對中小企業支持大幅削減超過30%，並透過內部志工與捐贈替代金融措施。", "answer": "否", "question_group": 1225}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，將1億投入中小企業貸款以延續並放大公司已超過30%支持中小企業的核心貸款策略，符合公司的社會與財務回報目標。", "answer": "是", "question_group": 1226}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，將1億投入中小企業貸款以延續並放大公司已超過30%支持中小企業的核心貸款策略，符合公司的社會與財務回報目標。", "answer": "是", "question_group": 1226}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，將1億追加至大型太陽能專案會符合公司已超過30%支持中小企業的核心貸款策略。", "answer": "否", "question_group": 1226}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，將1億追加至大型太陽能專案會符合公司已超過30%支持中小企業的核心貸款策略。", "answer": "否", "question_group": 1226}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，縮減內部職涯諮詢為高潛/關鍵崗位一對一，其餘改線上平台符合要求。", "answer": "是", "question_group": 1227}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，縮減內部職涯諮詢為高潛/關鍵崗位一對一，其餘改線上平台符合要求。", "answer": "是", "question_group": 1227}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，保留新光學院與未來領袖的一般課程並停止核心領袖名額不符合要求。", "answer": "否", "question_group": 1227}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，保留新光學院與未來領袖的一般課程並停止核心領袖名額不符合要求。", "answer": "否", "question_group": 1227}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，選擇情境A（投入教育）符合公司核心優先方向，因為圖片顯示教育已捐超過2000萬新台幣，支持30所偏遠學校，並有500名獎學金受惠者。", "answer": "是", "question_group": 1228}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，選擇情境A（投入教育）符合公司核心優先方向，因為圖片顯示教育已捐超過2000萬新台幣，支持30所偏遠學校，並有500名獎學金受惠者。", "answer": "是", "question_group": 1228}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，選擇情境B（投入健康與救援）比選擇情境A更符合公司核心優先方向，因為健康與救援已經獲得的資金和支持比教育更多。", "answer": "否", "question_group": 1228}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，選擇情境B（投入健康與救援）比選擇情境A更符合公司核心優先方向，因為健康與救援已經獲得的資金和支持比教育更多。", "answer": "否", "question_group": 1228}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，未來五年以每年相同的絕對百分點逐年累加所需之年度數值為3.00個百分點。", "answer": "是", "question_group": 1229}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，未來五年以每年相同的絕對百分點逐年累加所需之年度數值為3.00個百分點。", "answer": "是", "question_group": 1229}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，未來五年以每年相同的絕對百分點逐年累加所需之年度數值為5.00個百分點。", "answer": "否", "question_group": 1229}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，未來五年以每年相同的絕對百分點逐年累加所需之年度數值為5.00個百分點。", "answer": "否", "question_group": 1229}
 

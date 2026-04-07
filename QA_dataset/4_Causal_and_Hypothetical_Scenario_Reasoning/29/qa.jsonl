@@ -1,6 +1,6 @@
 {"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果電子期貨的成交量在下一季度增長與這一季度相同的百分比，那麼下一季度的成交量會是多少萬口？", "answer": "480萬口"}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據下圖中電子期貨的成交量趨勢，如果下一季度的成交量增長與這一季度相同的百分比，那麼下一季度的成交量會是以下哪一選項？", "answer": "C", "choice": ["450萬口", "520萬口", "480萬口", "550萬口"]}
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，如果下一季度的成交量增長與這一季度相同的百分比，那麼下一季度的成交量會是480萬口。", "answer": "是", "question_group": 1307}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表2，如果下一季度的成交量增長與這一季度相同的百分比，那麼下一季度的成交量會是480萬口。", "answer": "是", "question_group": 1307}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，如果下一季度的成交量增長與這一季度相同的百分比，那麼下一季度的成交量會是450萬口。", "answer": "否", "question_group": 1307}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表2，如果下一季度的成交量增長與這一季度相同的百分比，那麼下一季度的成交量會是450萬口。", "answer": "否", "question_group": 1307}
 

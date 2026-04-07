@@ -13,15 +13,15 @@
 {"category": "Open", "question_type": "Comparison", "question": "根據圖6，使用量最低的服務項目有幾次使用量？", "answer": "210"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "在圖5中，申請/諮詢人數最多的協助方案與最少的協助方案之間的差異是多少？", "answer": "260"}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據圖3，以下哪個專案類型受到利率調整影響的戶數最多？", "answer": "B", "choice": ["專案類型 5100", "專案類型 5200", "專案類型 5300", "專案類型 5400"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2024-07 和 2024-12 兩個月份的最大新房貸申請案件數量相差40。", "answer": "是", "question_group": 423}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，2024-07 和 2024-12 兩個月份的最大新房貸申請案件數量相差40。", "answer": "是", "question_group": 423}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2024-07 和 2024-12 兩個月份的最大新房貸申請案件數量相差30。", "answer": "否", "question_group": 423}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，2024-07 和 2024-12 兩個月份的最大新房貸申請案件數量相差30。", "answer": "否", "question_group": 423}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2024年3月的使用人數增長最多。", "answer": "是", "question_group": 424}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，2024年3月的使用人數增長最多。", "answer": "是", "question_group": 424}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2024年4月的使用人數增長最多。", "answer": "否", "question_group": 424}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，2024年4月的使用人數增長最多。", "answer": "否", "question_group": 424}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，線上客服處理的諮詢案件數比專屬房貸顧問多出900案件。", "answer": "是", "question_group": 425}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，線上客服處理的諮詢案件數比專屬房貸顧問多出900案件。", "answer": "是", "question_group": 425}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，專屬房貸顧問處理的諮詢案件數比線上客服多出900案件。", "answer": "否", "question_group": 425}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，專屬房貸顧問處理的諮詢案件數比線上客服多出900案件。", "answer": "否", "question_group": 425}
 

@@ -15,19 +15,19 @@
 {"category": "Open", "question_type": "Difference Calculation", "question": "在圖2中，卡種的調幅_正卡(%)中，數值最高的卡種與數值最低的卡種之差是多少？", "answer": "16.6"}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據表1的資料，各種類型卡的正卡和附卡年費用總和分別為多少？哪種類型卡的年費用總和最低？", "answer": "B", "choice": ["火焰卡的年費用為950元，低於太陽卡的1200元。", "太陽卡的年費用總和最低，為1200元。", "星星卡的年費用總和為1000元，為所有卡中最低。", "火焰卡的年費用總和為1100元，為所有卡中最低。"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據表3的資料，2023年達年費減免用戶比例與受年費調整影響用戶比例相比，以下哪項描述是正確的？", "answer": "C", "choice": ["受年費調整影響用戶比例更高，百分比差距為8%。", "達年費減免用戶比例更低，百分比差距為8.5%。", "受年費調整影響用戶比例更高，百分比差距為5.75%。", "受年費調整影響用戶比例低於達年費減免用戶比例，百分比差距為2%。"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年受年費調整影響的用戶比例與達年費減免用戶比例之差是5。", "answer": "是", "question_group": 481}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，2023年受年費調整影響的用戶比例與達年費減免用戶比例之差是5。", "answer": "是", "question_group": 481}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年受年費調整影響的用戶比例與達年費減免用戶比例之差是6。", "answer": "否", "question_group": 481}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，2023年受年費調整影響的用戶比例與達年費減免用戶比例之差是6。", "answer": "否", "question_group": 481}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據下圖，最右邊的項目在比例大小上排名第二。", "answer": "是", "question_group": 482}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖1，最右邊的項目在比例大小上排名第二。", "answer": "是", "question_group": 482}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據下圖，最右邊的項目在比例大小上排名第一。", "answer": "否", "question_group": 482}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖1，最右邊的項目在比例大小上排名第一。", "answer": "否", "question_group": 482}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，調幅_正卡(%)從高到低的排序為33.3%、25.0%、16.7%。", "answer": "是", "question_group": 483}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖2，調幅_正卡(%)從高到低的排序為33.3%、25.0%、16.7%。", "answer": "是", "question_group": 483}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，調幅_正卡(%)從高到低的排序為16.7%、25.0%、33.3%。", "answer": "否", "question_group": 483}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖2，調幅_正卡(%)從高到低的排序為16.7%、25.0%、33.3%。", "answer": "否", "question_group": 483}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，白金卡的占比是聯名卡及特定卡種的兩倍以上。", "answer": "是", "question_group": 484}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，白金卡的占比是聯名卡及特定卡種的兩倍以上。", "answer": "是", "question_group": 484}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，聯名卡及特定卡種的占比是白金卡的兩倍以上。", "answer": "否", "question_group": 484}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，聯名卡及特定卡種的占比是白金卡的兩倍以上。", "answer": "否", "question_group": 484}
 

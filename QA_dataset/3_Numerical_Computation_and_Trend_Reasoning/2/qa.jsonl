@@ -7,15 +7,15 @@
 {"category": "MCQ", "question_type": "Rate of Change", "question": "根據下圖，從2024年到2025年，綠色金融研討會的次數增加的比率是多少？", "answer": "C", "choice": ["15%", "30%", "20%", "25%"]}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據以下圖表，從2023年至2027年，員工培訓次數的總和是多少？", "answer": "C", "choice": ["25", "50", "40", "35"]}
 {"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖表顯示，從2022到2024年間，綠色投資基金的投資回報率有什麼變化趨勢？", "answer": "C", "choice": ["投資回報率逐年增長，每年增加1%。", "投資回報率在2023年達到最高點，2024年回落至2022年的水平。", "投資回報率逐年增加，每年增加0.5%。", "投資回報率從2022年到2024年保持不變，沒有增長。"]}
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，從2023年至2027年，員工培訓次數的總和是40次。", "answer": "是", "question_group": 769}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖1，從2023年至2027年，員工培訓次數的總和是40次。", "answer": "是", "question_group": 769}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，從2023年至2027年，員工培訓次數的總和是45次。", "answer": "否", "question_group": 769}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖1，從2023年至2027年，員工培訓次數的總和是45次。", "answer": "否", "question_group": 769}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，2023年至2027年員工培訓次數每年都呈現穩定增長趨勢。", "answer": "是", "question_group": 770}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖1，2023年至2027年員工培訓次數每年都呈現穩定增長趨勢。", "answer": "是", "question_group": 770}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，2023年至2027年員工培訓次數在某一年出現下降。", "answer": "否", "question_group": 770}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖1，2023年至2027年員工培訓次數在某一年出現下降。", "answer": "否", "question_group": 770}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，從2020年到2025年，市場規模總共增長了18.31。", "answer": "是", "question_group": 771}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，從2020年到2025年，市場規模總共增長了18.31。", "answer": "是", "question_group": 771}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，從2020年到2025年，市場規模總共增長了15。", "answer": "否", "question_group": 771}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，從2020年到2025年，市場規模總共增長了15。", "answer": "否", "question_group": 771}
 

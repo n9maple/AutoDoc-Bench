@@ -27,27 +27,27 @@
 {"category": "MCQ", "question_type": "Comparison", "question": "根據表3的資料，以下哪一個類別的平均單筆交易額最接近餐飲類別的兩倍？", "answer": "A", "choice": ["零售", "娛樂", "醫療", "旅遊"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據圖5的顯示，以下哪一年份的行動支付使用率較高？", "answer": "D", "choice": ["41年（使用率25%）", "38年（使用率10%）", "39年（使用率20%）", "40年"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據表6的資料，假設餐飲行業的初始交易數量為50次，旅遊行業的初始交易數量為40次，經過增長一年後，以下哪一個行業的最終交易數量較高？", "answer": "B", "choice": ["餐飲行業的最終交易數量為55次。", "餐飲行業的最終交易數量為67.5次。", "餐飲行業的最終交易數量為70次。", "旅遊行業的最終交易數量為65次。"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據圖片，用戶類型 9 的月均使用次數最低。", "answer": "是", "question_group": 280}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖7，用戶類型 9 的月均使用次數最低。", "answer": "是", "question_group": 280}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據圖片，用戶類型 5 的月均使用次數最低。", "answer": "否", "question_group": 280}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖7，用戶類型 5 的月均使用次數最低。", "answer": "否", "question_group": 280}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，本科學歷用戶的比例比高中及以下學歷用戶高15.0%。", "answer": "是", "question_group": 281}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖2，本科學歷用戶的比例比高中及以下學歷用戶高15.0%。", "answer": "是", "question_group": 281}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，本科學歷用戶的比例比高中及以下學歷用戶高5.0%。", "answer": "否", "question_group": 281}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖2，本科學歷用戶的比例比高中及以下學歷用戶高5.0%。", "answer": "否", "question_group": 281}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，不滿意級別的產品設計評分高於問題解決效率的評分。", "answer": "是", "question_group": 282}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表7，不滿意級別的產品設計評分高於問題解決效率的評分。", "answer": "是", "question_group": 282}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，滿意級別的產品設計評分高於問題解決效率的評分。", "answer": "否", "question_group": 282}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表7，滿意級別的產品設計評分高於問題解決效率的評分。", "answer": "否", "question_group": 282}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據圖表，年齡段56以上的用戶比例與年齡段18-24的用戶比例相同。", "answer": "是", "question_group": 283}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，年齡段56以上的用戶比例與年齡段18-24的用戶比例相同。", "answer": "是", "question_group": 283}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據圖表，年齡段56以上的用戶比例明顯低於年齡段18-24的用戶比例。", "answer": "否", "question_group": 283}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，年齡段56以上的用戶比例明顯低於年齡段18-24的用戶比例。", "answer": "否", "question_group": 283}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，旅遊業的平均單筆交易額是所有行業中最高的。", "answer": "是", "question_group": 284}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，旅遊業的平均單筆交易額是所有行業中最高的。", "answer": "是", "question_group": 284}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，餐飲業的平均單筆交易額是所有行業中最高的。", "answer": "否", "question_group": 284}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，餐飲業的平均單筆交易額是所有行業中最高的。", "answer": "否", "question_group": 284}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據下圖，新北市用戶數與其他地區用戶數相等。", "answer": "是", "question_group": 285}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖4，新北市用戶數與其他地區用戶數相等。", "answer": "是", "question_group": 285}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據下圖，新北市用戶數比其他地區用戶數多。", "answer": "否", "question_group": 285}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖4，新北市用戶數比其他地區用戶數多。", "answer": "否", "question_group": 285}
 

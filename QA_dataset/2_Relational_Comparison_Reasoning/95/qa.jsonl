@@ -4,15 +4,15 @@
 {"category": "MCQ", "question_type": "Comparison", "question": "根據所提供的數據圖，2023年亞洲和北美的數值相差多少？", "answer": "C", "choice": ["20", "50", "30", "15"]}
 {"category": "Open", "question_type": "Comparison", "question": "根據表4的資料，亞洲和北美的數值之和與歐洲數值相比，哪一個更大？", "answer": "亞洲和北美的數值之和比歐洲的數值大。"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "在圖3中，指標7.5的收益率比指標6.2高多少百分比？", "answer": "指標7.5的收益率比指標6.2高出1.3個百分比。"}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的合規性得分是95%，高於客戶滿意度93%。", "answer": "是", "question_group": 685}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，2023年的合規性得分是95%，高於客戶滿意度93%。", "answer": "是", "question_group": 685}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的客戶滿意度是95%，高於合規性得分93%。", "answer": "否", "question_group": 685}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，2023年的客戶滿意度是95%，高於合規性得分93%。", "answer": "否", "question_group": 685}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，指標 10 的百分比是 10%，因此它的百分比較低。", "answer": "是", "question_group": 686}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖4，指標 10 的百分比是 10%，因此它的百分比較低。", "answer": "是", "question_group": 686}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，指標 15 的百分比比指標 10 更低。", "answer": "否", "question_group": 686}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖4，指標 15 的百分比比指標 10 更低。", "answer": "否", "question_group": 686}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據下圖，第2個指標的數值是最低的。", "answer": "是", "question_group": 687}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖4，第2個指標的數值是最低的。", "answer": "是", "question_group": 687}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據下圖，第1個指標的數值是最低的。", "answer": "否", "question_group": 687}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖4，第1個指標的數值是最低的。", "answer": "否", "question_group": 687}
 

@@ -21,31 +21,31 @@
 {"category": "Open", "question_type": "Ranking", "question": "在2023年違規處理程序案件分布中，哪一個程序的案件數量最少？", "answer": "進入紀律委員會審議的案件數量最少"}
 {"category": "MCQ", "question_type": "Ranking", "question": "在2023年違規處理程序案件分布中，根據圖表，哪一個程序的案件數量最少？", "answer": "C", "choice": ["進入聽證程序的案件數量最多", "進入調解程序的案件數量不多", "進入紀律委員會審議的案件數量最少", "進入申訴程序的案件數量與紀律委員會相似"]}
 {"category": "Open", "question_type": "Difference Calculation", "question": "在圖5中，揭露率為92的揭露內容與揭露率為95的揭露內容之間的揭露率差是多少？", "answer": "3%"}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，首次通知後補正的案件數量比進入紀律委員會審議多32件。", "answer": "是", "question_group": 506}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖7，首次通知後補正的案件數量比進入紀律委員會審議多32件。", "answer": "是", "question_group": 506}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，首次通知後補正的案件數量比進入紀律委員會審議多15件。", "answer": "否", "question_group": 506}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖7，首次通知後補正的案件數量比進入紀律委員會審議多15件。", "answer": "否", "question_group": 506}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2022年與2023年相比，未評鑑/違規的比例沒有變化，均為6%。", "answer": "是", "question_group": 507}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，2022年與2023年相比，未評鑑/違規的比例沒有變化，均為6%。", "answer": "是", "question_group": 507}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2022年與2023年相比，未評鑑/違規的比例有顯著增長。", "answer": "否", "question_group": 507}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，2022年與2023年相比，未評鑑/違規的比例有顯著增長。", "answer": "否", "question_group": 507}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年董監改選案的數量多於章程修正案。", "answer": "是", "question_group": 508}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，2023年董監改選案的數量多於章程修正案。", "answer": "是", "question_group": 508}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年章程修正案的數量多於董監改選案。", "answer": "否", "question_group": 508}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，2023年章程修正案的數量多於董監改選案。", "answer": "否", "question_group": 508}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的資訊申報系統自動比對次數比2021年增加了1500次。", "answer": "是", "question_group": 509}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表7，2023年的資訊申報系統自動比對次數比2021年增加了1500次。", "answer": "是", "question_group": 509}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的資訊申報系統自動比對次數比2021年增加了2000次。", "answer": "否", "question_group": 509}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表7，2023年的資訊申報系統自動比對次數比2021年增加了2000次。", "answer": "否", "question_group": 509}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的即時公告比例較高，為50%。", "answer": "是", "question_group": 510}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，2023年的即時公告比例較高，為50%。", "answer": "是", "question_group": 510}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2022年的即時公告比例較高，為50%。", "answer": "否", "question_group": 510}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，2022年的即時公告比例較高，為50%。", "answer": "否", "question_group": 510}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，進入紀律委員會審議的案件數量是所有程序中最少的。", "answer": "是", "question_group": 511}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖7，進入紀律委員會審議的案件數量是所有程序中最少的。", "answer": "是", "question_group": 511}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，首次通知後補正的案件數量是所有程序中最少的。", "answer": "否", "question_group": 511}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖7，首次通知後補正的案件數量是所有程序中最少的。", "answer": "否", "question_group": 511}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，參與人次與舉辦場次的比率是約55.56，這個比率大於50。", "answer": "是", "question_group": 512}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，參與人次與舉辦場次的比率是約55.56，這個比率大於50。", "answer": "是", "question_group": 512}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，參與人次與舉辦場次的比率是約45，這個比率大於50。", "answer": "否", "question_group": 512}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，參與人次與舉辦場次的比率是約45，這個比率大於50。", "answer": "否", "question_group": 512}
 

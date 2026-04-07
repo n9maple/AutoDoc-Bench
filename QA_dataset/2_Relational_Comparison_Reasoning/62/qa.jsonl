@@ -26,35 +26,35 @@
 {"category": "Open", "question_type": "Difference Calculation", "question": "在圖3中，選用率最高的驗證方式比最低的高出多少百分點？", "answer": "43"}
 {"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖5的資料，前兩名問題類型的諮詢件數之差是多少？以下哪一個選項是正確的？", "answer": "B", "choice": ["1600", "1470", "1400", "1300"]}
 {"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖7所示，無法計算2022年和2023年之間數值差異的原因是什麼？", "answer": "B", "choice": ["數據顯示範圍有限，導致計算不全", "缺乏具體的數據值", "缺乏關於過去數據的詳細說明", "圖表設計未能有效展示數據的變化"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，投票議案總數確實比錯誤攔截次數多出超過一千倍。", "answer": "是", "question_group": 534}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，投票議案總數確實比錯誤攔截次數多出超過一千倍。", "answer": "是", "question_group": 534}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，投票議案總數比錯誤攔截次數少於五百倍。", "answer": "否", "question_group": 534}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，投票議案總數比錯誤攔截次數少於五百倍。", "answer": "否", "question_group": 534}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖片所示，選用率最高與最低的驗證方式之間的差距是43%。", "answer": "是", "question_group": 535}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖3，選用率最高與最低的驗證方式之間的差距是43%。", "answer": "是", "question_group": 535}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖片所示，選用率最高與最低的驗證方式之間的差距是30%。", "answer": "否", "question_group": 535}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖3，選用率最高與最低的驗證方式之間的差距是30%。", "answer": "否", "question_group": 535}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，選用率最低的驗證方式的選用率是12%。", "answer": "是", "question_group": 536}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖3，選用率最低的驗證方式的選用率是12%。", "answer": "是", "question_group": 536}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，選用率最低的驗證方式的選用率是18%。", "answer": "否", "question_group": 536}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖3，選用率最低的驗證方式的選用率是18%。", "answer": "否", "question_group": 536}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據下圖，數值最高的項目與最低的項目之間的差距是3200。", "answer": "是", "question_group": 537}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖2，數值最高的項目與最低的項目之間的差距是3200。", "answer": "是", "question_group": 537}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據下圖，數值最高的項目與最低的項目之間的差距是2200。", "answer": "否", "question_group": 537}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖2，數值最高的項目與最低的項目之間的差距是2200。", "answer": "否", "question_group": 537}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，最左邊項目的數值在所有項目中排名第一。", "answer": "是", "question_group": 538}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖2，最左邊項目的數值在所有項目中排名第一。", "answer": "是", "question_group": 538}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，最左邊項目的數值在所有項目中排名第二。", "answer": "否", "question_group": 538}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖2，最左邊項目的數值在所有項目中排名第二。", "answer": "否", "question_group": 538}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的操作容易上手比例是91%，超過了85%。", "answer": "是", "question_group": 539}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，2023年的操作容易上手比例是91%，超過了85%。", "answer": "是", "question_group": 539}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的操作容易上手比例是84%，低於85%。", "answer": "否", "question_group": 539}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，2023年的操作容易上手比例是84%，低於85%。", "answer": "否", "question_group": 539}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，集保e存摺是2023年電子投票平台登入方式中使用人數排名第二的方式。", "answer": "是", "question_group": 540}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖1，集保e存摺是2023年電子投票平台登入方式中使用人數排名第二的方式。", "answer": "是", "question_group": 540}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，網路銀行憑證是2023年電子投票平台登入方式中使用人數排名第二的方式。", "answer": "否", "question_group": 540}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖1，網路銀行憑證是2023年電子投票平台登入方式中使用人數排名第二的方式。", "answer": "否", "question_group": 540}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據下圖，諮詢件數最多的問題類型與最少的問題類型之差是6405。", "answer": "是", "question_group": 541}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖5，諮詢件數最多的問題類型與最少的問題類型之差是6405。", "answer": "是", "question_group": 541}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據下圖，諮詢件數最多的問題類型與最少的問題類型之差是5000。", "answer": "否", "question_group": 541}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖5，諮詢件數最多的問題類型與最少的問題類型之差是5000。", "answer": "否", "question_group": 541}
 

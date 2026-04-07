@@ -4,15 +4,15 @@
 {"category": "Open", "question_type": "Comparison", "question": "哪一個項目類型的預計資金投入是最低的？", "answer": "3.5億美元的項目類型的預計資金投入是最低的。"}
 {"category": "MCQ", "question_type": "Comparison", "question": "在以下項目中，哪一個項目類型的預計資金投入最低？請參考圖片中的項目金額。", "answer": "C", "choice": ["4.0億美元的項目類型", "3.0億美元的項目類型", "3.5億美元的項目類型", "2.5億美元的項目類型"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據圖2，以下哪一個項目類型支持的建築數量最多？", "answer": "B", "choice": ["50", "100", "75", "120"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2020年的綠色債券投資增長率較2019年更高，增長率差為9%。", "answer": "是", "question_group": 641}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，2020年的綠色債券投資增長率較2019年更高，增長率差為9%。", "answer": "是", "question_group": 641}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2019年的綠色債券投資增長率較2020年更高，增長率差為5%。", "answer": "否", "question_group": 641}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，2019年的綠色債券投資增長率較2020年更高，增長率差為5%。", "answer": "否", "question_group": 641}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據下圖，項目類型 1 和項目類型 2 支持建築數量的差距是 50。", "answer": "是", "question_group": 642}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖2，項目類型 1 和項目類型 2 支持建築數量的差距是 50。", "answer": "是", "question_group": 642}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據下圖，項目類型 1 和項目類型 2 支持建築數量的差距是 30。", "answer": "否", "question_group": 642}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖2，項目類型 1 和項目類型 2 支持建築數量的差距是 30。", "answer": "否", "question_group": 642}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，3.5億美元的項目類型是預計資金投入最低的。", "answer": "是", "question_group": 643}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，3.5億美元的項目類型是預計資金投入最低的。", "answer": "是", "question_group": 643}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，8.5億美元的項目類型是預計資金投入最低的。", "answer": "否", "question_group": 643}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，8.5億美元的項目類型是預計資金投入最低的。", "answer": "否", "question_group": 643}
 

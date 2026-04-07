@@ -12,19 +12,19 @@
 {"category": "Open", "question_type": "Aggregation", "question": "所有退回原因的件數總和是多少?", "answer": "0"}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據圖片，所有退回原因的件數總和是多少？", "answer": "C", "choice": ["1", "2", "0", "數據沒有被記錄"]}
 {"category": "Open", "question_type": "Aggregation", "question": "根據圖4，所有異常原因的退回件數總和是多少？", "answer": "0"}
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2021年到2023年，異常鈔券偵測準確率的總增長率是0.08008%。", "answer": "是", "question_group": 1032}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，從2021年到2023年，異常鈔券偵測準確率的總增長率是0.08008%。", "answer": "是", "question_group": 1032}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2021年到2023年，異常鈔券偵測準確率的總增長率是0.8%。", "answer": "否", "question_group": 1032}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，從2021年到2023年，異常鈔券偵測準確率的總增長率是0.8%。", "answer": "否", "question_group": 1032}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖片，所有退回原因的件數總和為0。", "answer": "是", "question_group": 1033}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖5，所有退回原因的件數總和為0。", "answer": "是", "question_group": 1033}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖片，至少有一個退回原因的件數大於0。", "answer": "否", "question_group": 1033}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖5，至少有一個退回原因的件數大於0。", "answer": "否", "question_group": 1033}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖表，所有異常原因的退回件數總和是0。", "answer": "是", "question_group": 1034}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖4，所有異常原因的退回件數總和是0。", "answer": "是", "question_group": 1034}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖表，某些異常原因的退回件數總和超過0。", "answer": "否", "question_group": 1034}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖4，某些異常原因的退回件數總和超過0。", "answer": "否", "question_group": 1034}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，所有情況的異常鈔券退回準確率的平均值為99.84。", "answer": "是", "question_group": 1035}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，所有情況的異常鈔券退回準確率的平均值為99.84。", "answer": "是", "question_group": 1035}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，紙鈔過度皺摺/沾黏異物導致存款受阻的異常鈔券退回準確率的平均值為99.84。", "answer": "否", "question_group": 1035}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，紙鈔過度皺摺/沾黏異物導致存款受阻的異常鈔券退回準確率的平均值為99.84。", "answer": "否", "question_group": 1035}
 

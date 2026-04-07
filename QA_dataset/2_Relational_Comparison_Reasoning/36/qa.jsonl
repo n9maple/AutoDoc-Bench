@@ -11,15 +11,15 @@
 {"category": "MCQ", "question_type": "Comparison", "question": "根據一項研究，2024年AI技術整合比例相比於2023年預期將增長多少百分比？", "answer": "C", "choice": ["12.5%", "18%", "16.67%", "14%"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據2026年與2023年的外資投入增長百分比比較，以下哪個選項最接近2026年外資投入增長比2023年多的百分比？", "answer": "C", "choice": ["6%", "4%", "5%", "9%"]}
 {"category": "Open", "question_type": "Comparison", "question": "在圖2中，從2021年至2022年，行動支付用戶數量(百萬人)和占總人口比例(%)的增長率，哪一個更大？", "answer": "行動支付用戶數量(百萬人)和占總人口比例(%)的增長率相同，都是26.67%。"}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2026年的外資投入增長百分比比2023年多5%。", "answer": "是", "question_group": 397}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表7，2026年的外資投入增長百分比比2023年多5%。", "answer": "是", "question_group": 397}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2026年的外資投入增長百分比比2023年多10%。", "answer": "否", "question_group": 397}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表7，2026年的外資投入增長百分比比2023年多10%。", "answer": "否", "question_group": 397}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，客戶服務的信用評估準確性比風險管理高5個百分點。", "answer": "是", "question_group": 398}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，客戶服務的信用評估準確性比風險管理高5個百分點。", "answer": "是", "question_group": 398}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，客戶服務的信用評估準確性比風險管理高10個百分點。", "answer": "否", "question_group": 398}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，客戶服務的信用評估準確性比風險管理高10個百分點。", "answer": "否", "question_group": 398}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2024年的人才供應相較於2023年增加了3000。", "answer": "是", "question_group": 399}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，2024年的人才供應相較於2023年增加了3000。", "answer": "是", "question_group": 399}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2024年的人才供應相較於2023年增加了5000。", "answer": "否", "question_group": 399}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，2024年的人才供應相較於2023年增加了5000。", "answer": "否", "question_group": 399}
 

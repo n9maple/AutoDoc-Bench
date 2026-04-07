@@ -10,27 +10,27 @@
 {"category": "Open", "question_type": "Fact Lookup", "question": "依附圖說明（不得引入圖外資料），下列哪一項陳述最正確：比較大數據與人工智慧在台灣金融業風險管理中的三項具體成效（含圖中數值／來源），並指出在信用風險、詐欺檢測、投資組合於市場波動時哪項技術更具影響力，以及圖中提及的三項限制如何可能削弱成效？（請選一項正確陳述；答題時須依圖中數值或來源）", "answer": "圖中顯示：大數據在信用風險上使貸款逾期率約下降20%（來源：台灣某大型商業銀行案例）；AI在詐欺檢測上將偵測準確率約提升30%並降低誤報（圖中研究）；AI於市場波動期間之投資組合風險管理使風險調整後回報約提升15%（台灣金融研究院報告）；因此圖中評估為大數據在信用風險更具影響力，而AI在即時詐欺偵測與波動期投組管理更具決定性；但圖中亦指出數據品質與隱私、AI可解釋性及人才短缺會削弱上述成效。"}
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "依附圖說明（不得引入圖外資料），下列哪一項陳述最正確：比較大數據與人工智慧在台灣金融業風險管理中的三項具體成效（含圖中數值／來源），並指出在信用風險、詐欺檢測、投資組合於市場波動時哪項技術更具影響力，以及圖中提及的三項限制如何可能削弱成效？（請選一項正確陳述；答題時須依圖中數值或來源）", "answer": "C", "choice": ["圖中雖列出三個成效數值（貸款逾期率下降約20%、詐欺檢測準確率提升約30%、投組風險調整後回報提升約15%），但20%來自台灣某大型商業銀行的單一案例，可能有選擇性偏差；因此不能僅以這些數值比較大數據與AI在信用風險、詐欺檢測與投組管理上的相對影響力，亦無法直接推論圖中列出的數據品質與隱私、AI可解釋性及人才短缺會如何普遍削弱成效。", "圖中數值顯示AI在三項成效皆為主導：AI使貸款逾期率下降約20%、詐欺檢測準確率提升約30%並降低誤報、以及在市場波動期間使投組風險調整後回報提升約15%；因此AI單獨在信用風險、詐欺偵測與投組管理三方面皆更具影響力，且可在不改變資料來源或處理方式下重現這些成效。", "圖中顯示：大數據在信用風險上使貸款逾期率約下降20%（來源：台灣某大型商業銀行案例）；AI在詐欺檢測上將偵測準確率約提升30%並降低誤報（圖中研究）；AI於市場波動期間之投資組合風險管理使風險調整後回報約提升15%（台灣金融研究院報告）；因此圖中評估為大數據在信用風險更具影響力，而AI在即時詐欺偵測與波動期投組管理更具決定性；但圖中亦指出數據品質與隱私、AI可解釋性及人才短缺會削弱上述成效。", "圖表僅列出三個百分比（20%、30%、15%）而未標示來源或指明哪項技術（大數據或AI）對應哪個數值，故無法判斷在信用風險、詐欺檢測與波動期投組管理上哪種技術更具影響力，也無法據此分析圖中提及的三項限制會如何削弱成效。"]}
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "參照圖像（標題：未來展望：數位轉型對傳統金融機構的影響）中所呈現的資料與例證，關於「數位化後相較於數位化前的傳統營運模式」在以下四個面向—(1) 運營效率與成本、(2) 業務模式與競爭格局、(3) 客戶體驗、(4) 風險管理與資料安全—哪一個選項最符合圖中A) 可驗證的具體數據或例證、B) 對短期（1–2年）運營效益的相對強度（高／中／低）、C) 對中長期（3–5年）競爭風險或機會的重要性（高／中／低）的綜合評估？（請依圖中資訊作答，圖示為必要參考）\n\n選項：", "answer": "A", "choice": ["(1) A: 麥肯錫預測到2025年數位化可使全球金融機構成本降低20%–30%；某大型台灣銀行數位化後每筆交易平均處理時間縮短40%。 B: 短期效益：高。 C: 中長期重要性：高。", "(1) A: 圖中顯示平均成本降低不到10%，且交易處理時間僅微幅下降10%； B: 短期效益：低。 C: 中長期重要性：中。", "(1) A: 圖中指出成本下降幅度為20%–30%但未提及交易時間變化； B: 短期效益：中。 C: 中長期重要性：中。", "(1) A: 圖中宣稱成本可降50%以上且交易時間縮短超過70%； B: 短期效益：高。 C: 中長期重要性：低。"]}
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，AI在詐欺檢測上將偵測準確率約提升30%並降低誤報，且在市場波動期間的投資組合風險管理使風險調整後回報約提升15%。", "answer": "是", "question_group": 33}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，AI在詐欺檢測上將偵測準確率約提升30%並降低誤報，且在市場波動期間的投資組合風險管理使風險調整後回報約提升15%。", "answer": "是", "question_group": 33}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，大數據在市場波動期間的投資組合風險管理使風險調整後回報約提升15%。", "answer": "否", "question_group": 33}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，大數據在市場波動期間的投資組合風險管理使風險調整後回報約提升15%。", "answer": "否", "question_group": 33}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，數位化後的運營成本可降低20%–30%，交易時間縮短約40%，且短期效益多為高或中等，中長期重要性多為高。", "answer": "是", "question_group": 34}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，數位化後的運營成本可降低20%–30%，交易時間縮短約40%，且短期效益多為高或中等，中長期重要性多為高。", "answer": "是", "question_group": 34}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，數位化後的運營成本增加20%–30%，交易時間延長約40%，且短期效益多為低，中長期重要性多為低。", "answer": "否", "question_group": 34}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，數位化後的運營成本增加20%–30%，交易時間延長約40%，且短期效益多為低，中長期重要性多為低。", "answer": "否", "question_group": 34}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2023年的市場規模是500，增長率是15%。", "answer": "是", "question_group": 35}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表3，2023年的市場規模是500，增長率是15%。", "answer": "是", "question_group": 35}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2023年的市場規模是400，增長率是10%。", "answer": "否", "question_group": 35}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表3，2023年的市場規模是400，增長率是10%。", "answer": "否", "question_group": 35}
 
-{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據表格，2023年的金融科技投資增加比例是最低的，為65%。", "answer": "是", "question_group": 36}
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據圖3，2023年的金融科技投資增加比例是最低的，為65%。", "answer": "是", "question_group": 36}
 
-{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據表格，2025年的金融科技投資增加比例是最低的，為65%。", "answer": "否", "question_group": 36}
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據圖3，2025年的金融科技投資增加比例是最低的，為65%。", "answer": "否", "question_group": 36}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖中，支付與清算的主要痛點為跨境支付需數天且涉及多重中介，圖中列舉國泰世華銀行與玉山銀行已開始區塊鏈跨境支付嘗試。", "answer": "是", "question_group": 37}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，支付與清算的主要痛點為跨境支付需數天且涉及多重中介，圖中列舉國泰世華銀行與玉山銀行已開始區塊鏈跨境支付嘗試。", "answer": "是", "question_group": 37}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖中，保險的主要痛點為理賠成本高，並且以代幣化保費而非智能合約自動理賠來解決。", "answer": "否", "question_group": 37}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，保險的主要痛點為理賠成本高，並且以代幣化保費而非智能合約自動理賠來解決。", "answer": "否", "question_group": 37}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖片，2023年金融機構攻擊事件約增30%，因此將來銀行、樂天國際商業銀行和連線商業銀行須加大多層資安防護、即時偵測與事件回應以避免營運中斷與客戶信任流失。", "answer": "是", "question_group": 38}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，2023年金融機構攻擊事件約增30%，因此將來銀行、樂天國際商業銀行和連線商業銀行須加大多層資安防護、即時偵測與事件回應以避免營運中斷與客戶信任流失。", "answer": "是", "question_group": 38}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖片，將來銀行、樂天國際商業銀行和連線商業銀行因2023年攻擊事件增加而不需調整其資安防護措施。", "answer": "否", "question_group": 38}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，將來銀行、樂天國際商業銀行和連線商業銀行因2023年攻擊事件增加而不需調整其資安防護措施。", "answer": "否", "question_group": 38}
 

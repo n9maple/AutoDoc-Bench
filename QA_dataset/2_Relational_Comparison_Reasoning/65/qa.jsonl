@@ -33,43 +33,43 @@
 {"category": "Open", "question_type": "Difference Calculation", "question": "在圖8中，數值為100的指標比數值為0的指標高出多少？", "answer": "100"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "在圖7中，最高和最低使用率的差值是多少？", "answer": "52%"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "根據圖2的資料，兩個指標的百分比差異是多少？", "answer": "25%"}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，1年期與3年期的零存整付利率相差0.3個百分點。", "answer": "是", "question_group": 552}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，1年期與3年期的零存整付利率相差0.3個百分點。", "answer": "是", "question_group": 552}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，1年期與3年期的零存整付利率相差0.5個百分點。", "answer": "否", "question_group": 552}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，1年期與3年期的零存整付利率相差0.5個百分點。", "answer": "否", "question_group": 552}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年定存戶個資信任度的數值較其他選項更高。", "answer": "是", "question_group": 553}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，2023年定存戶個資信任度的數值較其他選項更高。", "answer": "是", "question_group": 553}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年定存戶個資信任度的數值較其他選項更低。", "answer": "否", "question_group": 553}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，2023年定存戶個資信任度的數值較其他選項更低。", "answer": "否", "question_group": 553}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，使用率最低的便利服務項目與第二低的項目之間的使用率差異是34。", "answer": "是", "question_group": 554}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖7，使用率最低的便利服務項目與第二低的項目之間的使用率差異是34。", "answer": "是", "question_group": 554}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，使用率最低的便利服務項目與第二低的項目之間的使用率差異是20。", "answer": "否", "question_group": 554}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖7，使用率最低的便利服務項目與第二低的項目之間的使用率差異是20。", "answer": "否", "question_group": 554}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，最高與最低指標數值的差距是100。", "answer": "是", "question_group": 555}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖8，最高與最低指標數值的差距是100。", "answer": "是", "question_group": 555}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，最高與最低指標數值的差距是98.7。", "answer": "否", "question_group": 555}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖8，最高與最低指標數值的差距是98.7。", "answer": "否", "question_group": 555}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023 年的提前解約案件占比是 4%。", "answer": "是", "question_group": 556}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，2023 年的提前解約案件占比是 4%。", "answer": "是", "question_group": 556}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023 年的提前解約案件占比是 6%。", "answer": "否", "question_group": 556}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，2023 年的提前解約案件占比是 6%。", "answer": "否", "question_group": 556}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，第一個數據點在所有指標中的排名是最後一名。", "answer": "是", "question_group": 557}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖8，第一個數據點在所有指標中的排名是最後一名。", "answer": "是", "question_group": 557}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，第一個數據點在所有指標中的排名是第一名。", "answer": "否", "question_group": 557}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖8，第一個數據點在所有指標中的排名是第一名。", "answer": "否", "question_group": 557}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，基本資料正確填寫的件數排名第一。", "answer": "是", "question_group": 558}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖1，基本資料正確填寫的件數排名第一。", "answer": "是", "question_group": 558}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，基本資料錯誤填寫的件數排名第一。", "answer": "否", "question_group": 558}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖1，基本資料錯誤填寫的件數排名第一。", "answer": "否", "question_group": 558}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，基本資料錯誤填寫的件數較少。", "answer": "是", "question_group": 559}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，基本資料錯誤填寫的件數較少。", "answer": "是", "question_group": 559}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，基本資料正確填寫的件數較少。", "answer": "否", "question_group": 559}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，基本資料正確填寫的件數較少。", "answer": "否", "question_group": 559}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖表，最左邊的指標的百分比是95，最右邊的指標的百分比是70，兩者之間的百分比差距是25%。", "answer": "是", "question_group": 560}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖2，最左邊的指標的百分比是95，最右邊的指標的百分比是70，兩者之間的百分比差距是25%。", "answer": "是", "question_group": 560}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖表，最左邊的指標的百分比是85，最右邊的指標的百分比是60，兩者之間的百分比差距是25%。", "answer": "否", "question_group": 560}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖2，最左邊的指標的百分比是85，最右邊的指標的百分比是60，兩者之間的百分比差距是25%。", "answer": "否", "question_group": 560}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，整存整付的比例是最高的，達到68.0%。", "answer": "是", "question_group": 561}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖3，整存整付的比例是最高的，達到68.0%。", "answer": "是", "question_group": 561}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，單筆定存的比例是最高的，達到15.0%。", "answer": "否", "question_group": 561}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖3，單筆定存的比例是最高的，達到15.0%。", "answer": "否", "question_group": 561}
 

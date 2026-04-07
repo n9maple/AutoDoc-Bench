@@ -7,11 +7,11 @@
 {"category": "Open", "question_type": "Comparison", "question": "根據表3的資料，製造業和零售業的平均負債比例之和與服務業和高科技產業的平均負債比例之和相比，哪一組的和比較大？", "answer": "製造業和零售業的平均負債比例之和比較大。"}
 {"category": "Open", "question_type": "Comparison", "question": "根據表4的資料，2025年人工智慧覆蓋率與2024年區塊鏈技術應用相比，哪一個數值更高？", "answer": "2025年人工智慧覆蓋率高於2024年區塊鏈技術應用。"}
 {"category": "Open", "question_type": "Comparison", "question": "根據圖1中的資料，哪個模型或方法的使用比例最低？", "answer": "使用比例最低的模型或方法是15%"}
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖片中的數據，使用比例最高的模型或方法與最低的差距為60%。", "answer": "是", "question_group": 377}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖1，使用比例最高的模型或方法與最低的差距為60%。", "answer": "是", "question_group": 377}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖片中的數據，使用比例最高的模型或方法與最低的差距為50%。", "answer": "否", "question_group": 377}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖1，使用比例最高的模型或方法與最低的差距為50%。", "answer": "否", "question_group": 377}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2022年公司的依賴外部融資比例（65%）高於平均自有資金比例（35%）。", "answer": "是", "question_group": 378}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，2022年公司的依賴外部融資比例（65%）高於平均自有資金比例（35%）。", "answer": "是", "question_group": 378}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2022年公司的平均自有資金比例（35%）高於依賴外部融資比例（65%）。", "answer": "否", "question_group": 378}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，2022年公司的平均自有資金比例（35%）高於依賴外部融資比例（65%）。", "answer": "否", "question_group": 378}
 

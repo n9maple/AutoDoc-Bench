@@ -16,23 +16,23 @@
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖片描述的銀行業務政策變化，在全球利率上行的背景下，台灣央行維持基準利率不變，這種情況下，以下哪種選項最能反映不同類型貸款的變化？", "answer": "C", "choice": ["企業貸款利率下降是因為與全球的利率政策不同步。", "所有貸款利率均因央行維持基準利率不變而普遍下降。", "房貸利率因房市活躍和審核嚴格度上升，而企業貸款維持低利率。", "房市需求增高使房貸利率上升，而企業貸款利率未變化。"]}
 {"category": "Open", "question_type": "Fact Lookup", "question": "根據圖中的資料和具體措施，2023年第三季度台灣金融科技行業的支付、借貸、投資及保險四個領域，哪個領域的技術創新對整體市場有最大的影響？請根據交易金額或增長百分比作出選擇。", "answer": "支付領域，因行動支付交易金額達到5,000億新台幣，同比增長30%。"}
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖中的資料和具體措施，2023年第三季度台灣金融科技行業的支付、借貸、投資及保險四個領域，哪個領域的技術創新對整體市場有最大的影響？請根據交易金額或增長百分比作出選擇。", "answer": "C", "choice": ["保險領域，由於大數據分析使得保費收入增長達到15%。", "借貸領域，因P2P借貸平台的總貸款額增長至1,500億新台幣，年增長率為20%。", "支付領域，因行動支付交易金額達到5,000億新台幣，同比增長30%。", "投資領域，因AI驅動的投資顧問服務用戶增長率達到25%。"]}
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，美國經濟的強勁表現對於本週新台幣兌美元匯率從開盤到收盤的變化具有關鍵影響。", "answer": "是", "question_group": 261}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，美國經濟的強勁表現對於本週新台幣兌美元匯率從開盤到收盤的變化具有關鍵影響。", "answer": "是", "question_group": 261}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，歐洲央行的利率決策對於本週新台幣兌美元匯率從開盤到收盤的變化具有關鍵影響。", "answer": "否", "question_group": 261}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，歐洲央行的利率決策對於本週新台幣兌美元匯率從開盤到收盤的變化具有關鍵影響。", "answer": "否", "question_group": 261}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖片資訊，週四台灣10年期公債殖利率達到1.3%的高點，主要受全球利率環境變化和美聯儲加息預期影響。", "answer": "是", "question_group": 262}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，週四台灣10年期公債殖利率達到1.3%的高點，主要受全球利率環境變化和美聯儲加息預期影響。", "answer": "是", "question_group": 262}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖片資訊，週四台灣10年期公債殖利率達到2.5%的高點，主要受全球利率環境變化和美聯儲加息預期影響。", "answer": "否", "question_group": 262}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，週四台灣10年期公債殖利率達到2.5%的高點，主要受全球利率環境變化和美聯儲加息預期影響。", "answer": "否", "question_group": 262}
 
-{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據表格，2023年8月是台灣外匯存底的最高月份。", "answer": "是", "question_group": 263}
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據圖2，2023年8月是台灣外匯存底的最高月份。", "answer": "是", "question_group": 263}
 
-{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據表格，2023年9月是台灣外匯存底的最低月份。", "answer": "否", "question_group": 263}
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據圖2，2023年9月是台灣外匯存底的最低月份。", "answer": "否", "question_group": 263}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，製造業PMP下降可能反映全球需求特別是電子產品和半導體方面的疲軟，進而影響台灣的製造活動。", "answer": "是", "question_group": 264}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，製造業PMP下降可能反映全球需求特別是電子產品和半導體方面的疲軟，進而影響台灣的製造活動。", "answer": "是", "question_group": 264}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，PMP和CCI指數下滑說明全球供應鏈完全恢復，經濟活動將顯著增強。", "answer": "否", "question_group": 264}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，PMP和CCI指數下滑說明全球供應鏈完全恢復，經濟活動將顯著增強。", "answer": "否", "question_group": 264}
 
-{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據表格，2022年Q1季度的行動支付交易金額是四個季度中最低的。", "answer": "是", "question_group": 265}
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據圖7，2022年Q1季度的行動支付交易金額是四個季度中最低的。", "answer": "是", "question_group": 265}
 
-{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據表格，2022年Q4季度的行動支付交易金額是四個季度中最低的。", "answer": "否", "question_group": 265}
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據圖7，2022年Q4季度的行動支付交易金額是四個季度中最低的。", "answer": "否", "question_group": 265}
 

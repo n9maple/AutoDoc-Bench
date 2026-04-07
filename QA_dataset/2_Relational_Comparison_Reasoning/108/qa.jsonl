@@ -8,15 +8,15 @@
 {"category": "Open", "question_type": "Difference Calculation", "question": "數值最高的券商與數值最低的券商的市場份額差距是多少？", "answer": "2.0%"}
 {"category": "MCQ", "question_type": "Difference Calculation", "question": "根據所提供的圖片，數值最高的券商與數值最低的券商的市場份額差距為多少？", "answer": "C", "choice": ["1.5%", "4.0%", "2.0%", "2.8%"]}
 {"category": "Open", "question_type": "Difference Calculation", "question": "根據圖1，2025年8月與9月的台股市場總交易量差異是多少？", "answer": "由於未提供具體數據，無法計算具體差異。"}
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，數值最高的券商與數值最低的券商的市場份額差距為2.0%。", "answer": "是", "question_group": 729}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖6，數值最高的券商與數值最低的券商的市場份額差距為2.0%。", "answer": "是", "question_group": 729}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，數值最高的券商與數值最低的券商的市場份額差距為3.0%。", "answer": "否", "question_group": 729}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖6，數值最高的券商與數值最低的券商的市場份額差距為3.0%。", "answer": "否", "question_group": 729}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，科技的環比增長率是消費品的4倍。", "answer": "是", "question_group": 730}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，科技的環比增長率是消費品的4倍。", "answer": "是", "question_group": 730}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，科技的環比增長率是消費品的3倍。", "answer": "否", "question_group": 730}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，科技的環比增長率是消費品的3倍。", "answer": "否", "question_group": 730}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，科技股和金融股在2025年9月期間的增長率都是最高的，達到80%。", "answer": "是", "question_group": 731}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，科技股和金融股在2025年9月期間的增長率都是最高的，達到80%。", "answer": "是", "question_group": 731}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，綠色能源在2025年9月期間的增長率是最高的，達到80%。", "answer": "否", "question_group": 731}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，綠色能源在2025年9月期間的增長率是最高的，達到80%。", "answer": "否", "question_group": 731}
 

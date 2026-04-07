@@ -7,11 +7,11 @@
 {"category": "Open", "question_type": "Aggregation", "question": "所有審核階段的不通過件數總和是多少？", "answer": "1"}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據下列審核階段的結果，所有不通過件數的總和是多少？（參見圖片）", "answer": "C", "choice": ["3", "4", "1", "6"]}
 {"category": "Open", "question_type": "Aggregation", "question": "在圖1中，所有審核階段的不通過件數總和是多少？", "answer": "1"}
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，全年申請件數超過40萬件，若線上申請比例為65%，則線上申請的件數約為260,000件。", "answer": "是", "question_group": 898}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，全年申請件數超過40萬件，若線上申請比例為65%，則線上申請的件數約為260,000件。", "answer": "是", "question_group": 898}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，全年申請件數超過40萬件，若線上申請比例為65%，則線上申請的件數約為300,000件。", "answer": "否", "question_group": 898}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，全年申請件數超過40萬件，若線上申請比例為65%，則線上申請的件數約為300,000件。", "answer": "否", "question_group": 898}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，所有審核階段的不通過件數總和為1。", "answer": "是", "question_group": 899}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖1，所有審核階段的不通過件數總和為1。", "answer": "是", "question_group": 899}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，所有審核階段的不通過件數總和為3。", "answer": "否", "question_group": 899}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖1，所有審核階段的不通過件數總和為3。", "answer": "否", "question_group": 899}
 

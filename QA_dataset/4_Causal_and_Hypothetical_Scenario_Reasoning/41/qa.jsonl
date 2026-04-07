@@ -40,47 +40,47 @@
 {"category": "Open", "question_type": "Creative Scenario", "question": "根據圖片中反映的客戶行為與銀行提供的支援服務細節，請評估在今年下半年約46,800戶浮動利率房貸戶利率調整情境下，以下哪一組策略最能有效整合多渠道溝通、技術支援與風險緩解措施，以最大化線上還款試算工具使用並降低違約風險？", "answer": "透過簡訊、郵件、LINE及行動銀行APP多渠道通知，高風險戶主動電話關懷；優化還款試算工具界面並提供個人化還款建議；提前識別風險戶，推動暫緩還款和還本展延方案，並強化房貸專員面對面輔導。"}
 {"category": "MCQ", "question_type": "Creative Scenario", "question": "根據圖片中反映的客戶行為與銀行提供的支援服務細節，請評估在今年下半年約46,800戶浮動利率房貸戶利率調整情境下，以下哪一組策略最能有效整合多渠道溝通、技術支援與風險緩解措施，以最大化線上還款試算工具使用並降低違約風險？", "answer": "C", "choice": ["僅依賴官方網站公告更新利率資訊，並呼籲客戶主動查詢還款試算工具；鼓勵使用線上還款試算工具但不提供個人化建議；將風險管理集中於違約後追蹤，減少主動介入。", "以簡訊與官方LINE帳號通知所有房貸戶，並依據還款餘額高低分配還款建議，但不主動識別風險戶或推動紓困方案。", "透過簡訊、郵件、LINE及行動銀行APP多渠道通知，高風險戶主動電話關懷；優化還款試算工具界面並提供個人化還款建議；提前識別風險戶，推動暫緩還款和還本展延方案，並強化房貸專員面對面輔導。", "強化行動銀行APP的功能，包括還款試算和即時諮詢，但未包含其他非數位聯絡管道與面對面諮詢服務。"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表3的資料，計算2024-07到2024-12每月新房貸申請案件數的平均範圍。以下哪一個月份的案件數最接近這個平均值？", "answer": "C", "choice": ["2024-07", "2024-10", "2024-08", "2024-11"]}
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據圖片，該客戶的新貸款因核貸簽約於2024年7月1日之前，適用舊利率不受7月1日利率調升影響。", "answer": "是", "question_group": 1326}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，該客戶的新貸款因核貸簽約於2024年7月1日之前，適用舊利率不受7月1日利率調升影響。", "answer": "是", "question_group": 1326}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據圖片，該客戶的新貸款即使核貸簽約於2024年7月1日之前，仍會受7月1日利率調升影響。", "answer": "否", "question_group": 1326}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，該客戶的新貸款即使核貸簽約於2024年7月1日之前，仍會受7月1日利率調升影響。", "answer": "否", "question_group": 1326}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，只有既有浮動利率房貸客戶會依照新利率範圍（2.00%至2.38%）於每年1月、4月、7月、10月基準日調整還款，固定利率客戶於原約定期限內利率不變，不受調整影響。", "answer": "是", "question_group": 1327}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，只有既有浮動利率房貸客戶會依照新利率範圍（2.00%至2.38%）於每年1月、4月、7月、10月基準日調整還款，固定利率客戶於原約定期限內利率不變，不受調整影響。", "answer": "是", "question_group": 1327}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，固定利率房貸客戶的利率會在每年1月、4月、7月、10月基準日依照新利率範圍（2.00%至2.38%）進行調整。", "answer": "否", "question_group": 1327}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，固定利率房貸客戶的利率會在每年1月、4月、7月、10月基準日依照新利率範圍（2.00%至2.38%）進行調整。", "answer": "否", "question_group": 1327}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，新承作及既有浮動利率房貸利率上調0.125至0.25個百分點，主流一段式利率從1.88%-2.13%升至2.00%-2.38%，導致房貸客戶每月利息支出增加約120至350元新台幣。", "answer": "是", "question_group": 1328}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，新承作及既有浮動利率房貸利率上調0.125至0.25個百分點，主流一段式利率從1.88%-2.13%升至2.00%-2.38%，導致房貸客戶每月利息支出增加約120至350元新台幣。", "answer": "是", "question_group": 1328}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，政府配合專案利率調整幅度為0.15至0.20個百分點，最低利率升至1.78%-1.85%，導致房貸客戶每月利息支出顯著減少。", "answer": "否", "question_group": 1328}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，政府配合專案利率調整幅度為0.15至0.20個百分點，最低利率升至1.78%-1.85%，導致房貸客戶每月利息支出顯著減少。", "answer": "否", "question_group": 1328}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，採用浮動利率的既有房貸戶利息負擔隨基準利率調整明顯增加，約占72%。", "answer": "是", "question_group": 1329}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，採用浮動利率的既有房貸戶利息負擔隨基準利率調整明顯增加，約占72%。", "answer": "是", "question_group": 1329}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，固定利率戶的利息會隨基準利率調整而增加。", "answer": "否", "question_group": 1329}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，固定利率戶的利息會隨基準利率調整而增加。", "answer": "否", "question_group": 1329}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，調整後的最低年利率分別增加0.12%和0.22%，總和為4.22%。", "answer": "是", "question_group": 1330}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表1，調整後的最低年利率分別增加0.12%和0.22%，總和為4.22%。", "answer": "是", "question_group": 1330}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，調整後的最低年利率分別增加0.12%和0.22%，總和為4.32%。", "answer": "否", "question_group": 1330}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表1，調整後的最低年利率分別增加0.12%和0.22%，總和為4.32%。", "answer": "否", "question_group": 1330}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，小王因在2024年6月25日完成核貸及簽約，適用調整前的舊利率，而小李在利率調整後簽約，須適用調升後的新利率。", "answer": "是", "question_group": 1331}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，小王因在2024年6月25日完成核貸及簽約，適用調整前的舊利率，而小李在利率調整後簽約，須適用調升後的新利率。", "answer": "是", "question_group": 1331}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，小王和小李都適用相同的利率，因為他們的貸款在同一政策下生效。", "answer": "否", "question_group": 1331}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，小王和小李都適用相同的利率，因為他們的貸款在同一政策下生效。", "answer": "否", "question_group": 1331}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，乙客戶的第一段分段式房貸利率由1.72%調整至1.85%，其利率增幅為0.13%。", "answer": "是", "question_group": 1332}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，乙客戶的第一段分段式房貸利率由1.72%調整至1.85%，其利率增幅為0.13%。", "answer": "是", "question_group": 1332}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，甲客戶的使用一段式浮動利率房貸利率增幅大於乙客戶的分段式房貸利率增幅。", "answer": "否", "question_group": 1332}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，甲客戶的使用一段式浮動利率房貸利率增幅大於乙客戶的分段式房貸利率增幅。", "answer": "否", "question_group": 1332}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據圖片，假設市場資金成本在下半年持續顯著上升且中央銀行進一步升息0.25個百分點，第一銀行可能加碼調高浮動利率及新承作房貸利率，調幅超過0.25個百分點，並提升分段式房貸優惠利率，該策略有助控制銀行資金成本與維護放款品質。", "answer": "是", "question_group": 1333}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，假設市場資金成本在下半年持續顯著上升且中央銀行進一步升息0.25個百分點，第一銀行可能加碼調高浮動利率及新承作房貸利率，調幅超過0.25個百分點，並提升分段式房貸優惠利率，該策略有助控制銀行資金成本與維護放款品質。", "answer": "是", "question_group": 1333}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據圖片，假設市場資金成本在下半年持續顯著上升且中央銀行進一步升息0.25個百分點，第一銀行將大幅降低浮動利率及新承作房貸利率，並減少分段式房貸優惠利率，從而提高房市需求。", "answer": "否", "question_group": 1333}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，假設市場資金成本在下半年持續顯著上升且中央銀行進一步升息0.25個百分點，第一銀行將大幅降低浮動利率及新承作房貸利率，並減少分段式房貸優惠利率，從而提高房市需求。", "answer": "否", "question_group": 1333}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，如果下個月官方LINE帳號的新增案件數增加一倍，累計諮詢案件數將會是330。", "answer": "是", "question_group": 1334}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表5，如果下個月官方LINE帳號的新增案件數增加一倍，累計諮詢案件數將會是330。", "answer": "是", "question_group": 1334}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，如果下個月官方LINE帳號的新增案件數增加一倍，累計諮詢案件數將會是290。", "answer": "否", "question_group": 1334}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表5，如果下個月官方LINE帳號的新增案件數增加一倍，累計諮詢案件數將會是290。", "answer": "否", "question_group": 1334}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據圖片，新申請房貸戶因貸款額度較高及利率提升較多，月付與總還款負擔明顯增加，建議可提早還款或改用等額本金還款。", "answer": "是", "question_group": 1335}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，新申請房貸戶因貸款額度較高及利率提升較多，月付與總還款負擔明顯增加，建議可提早還款或改用等額本金還款。", "answer": "是", "question_group": 1335}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據圖片，既有浮動利率房貸戶因利率提升較少，月付與總還款負擔明顯增加，建議可提早還款或改用等額本金還款。", "answer": "否", "question_group": 1335}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，既有浮動利率房貸戶因利率提升較少，月付與總還款負擔明顯增加，建議可提早還款或改用等額本金還款。", "answer": "否", "question_group": 1335}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，浮動利率客戶的還款壓力會明顯增加，而固定利率客戶在短期內不受影響，政策性房貸客戶的調整幅度較小且負擔有限。", "answer": "是", "question_group": 1336}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，浮動利率客戶的還款壓力會明顯增加，而固定利率客戶在短期內不受影響，政策性房貸客戶的調整幅度較小且負擔有限。", "answer": "是", "question_group": 1336}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，固定利率客戶的還款壓力會明顯增加，浮動利率客戶則在短期內不受影響。", "answer": "否", "question_group": 1336}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，固定利率客戶的還款壓力會明顯增加，浮動利率客戶則在短期內不受影響。", "answer": "否", "question_group": 1336}
 

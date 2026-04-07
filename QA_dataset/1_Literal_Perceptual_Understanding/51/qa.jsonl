@@ -14,19 +14,19 @@
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖片中安泰人壽所示2024年度紅利發放服務詳情，下列關於該公司利用官方平台說明紅利計算與領取機制，以及處理銀行帳戶資料異動導致紅利延遲入帳的措施，哪一項描述是正確的？", "answer": "C", "choice": ["公司雖提供紅利試算工具，但僅限預估紅利金額，未涵蓋資格說明，且銀行帳戶資料異動需保戶自行注意，公司無主動提醒措施。", "安泰人壽官方LINE帳號與行動APP為主要查詢管道，但官網未設立專區說明紅利計算與領取資格，且銀行資料異動問題不設自動通知。", "安泰人壽透過官網『紅利公告專區』說明紅利計算與資格，並提供試算工具；對約2%因銀行資料異動導致紅利延遲的保戶，設自動提醒機制，主動通知並協助更正，平均3個工作天處理完成。", "紅利計算及領取資格資訊僅透過電子郵件通知，無公開網路說明途徑，且紅利延遲多因銀行系統造成，公司不提供異動提醒或協助。"]}
 {"category": "Open", "question_type": "Fact Lookup", "question": "根據安泰人壽2024年度保單紅利發放作業說明，保戶在確保紅利順利入帳時，下列哪些措施是正確的？請選出所有符合的選項。", "answer": "保戶須於紅利發放前登入官網或APP，確認並更新個人基本資料和銀行帳戶，以避免延遲；紅利領取方式變更必須於6月30日前申請，逾期則影響當年度紅利入帳。"}
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "根據安泰人壽2024年度保單紅利發放作業說明，保戶在確保紅利順利入帳時，下列哪些措施是正確的？請選出所有符合的選項。", "answer": "C", "choice": ["保戶只須親自至服務據點辦理資料更新，無需透過官網或APP即可確保紅利發放順利。", "保戶可於紅利發放後再確認並更正資料，相關修正將即時反映於本年度紅利撥付。", "保戶須於紅利發放前登入官網或APP，確認並更新個人基本資料和銀行帳戶，以避免延遲；紅利領取方式變更必須於6月30日前申請，逾期則影響當年度紅利入帳。", "紅利領取方式可於年度內任何時間申請變更，且該變更自申請日起立即生效，不影響當年度紅利領取。"]}
-{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，2024年安泰人壽保單紅利來源中，費用節省的比例是10.0%。", "answer": "是", "question_group": 129}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖1，2024年安泰人壽保單紅利來源中，費用節省的比例是10.0%。", "answer": "是", "question_group": 129}
 
-{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，2024年安泰人壽保單紅利來源中，費用節省的比例是15.0%。", "answer": "否", "question_group": 129}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖1，2024年安泰人壽保單紅利來源中，費用節省的比例是15.0%。", "answer": "否", "question_group": 129}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖片中安泰人壽所示，該公司透過官網『紅利公告專區』說明紅利計算與資格，並提供試算工具，對約2%因銀行資料異動導致紅利延遲的保戶，設有自動提醒機制，主動通知並協助更正，平均3個工作天處理完成。", "answer": "是", "question_group": 130}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，該公司透過官網『紅利公告專區』說明紅利計算與資格，並提供試算工具，對約2%因銀行資料異動導致紅利延遲的保戶，設有自動提醒機制，主動通知並協助更正，平均3個工作天處理完成。", "answer": "是", "question_group": 130}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖片中安泰人壽所示，該公司不透過任何平台說明紅利計算與資格，也不提供任何處理銀行帳戶資料異動導致紅利延遲的措施。", "answer": "否", "question_group": 130}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，該公司不透過任何平台說明紅利計算與資格，也不提供任何處理銀行帳戶資料異動導致紅利延遲的措施。", "answer": "否", "question_group": 130}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，保戶須於紅利發放前登入官網或APP，確認並更新個人基本資料和銀行帳戶，以避免延遲。", "answer": "是", "question_group": 131}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，保戶須於紅利發放前登入官網或APP，確認並更新個人基本資料和銀行帳戶，以避免延遲。", "answer": "是", "question_group": 131}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，保戶可以在7月1日後變更紅利領取方式而不影響當年度紅利入帳。", "answer": "否", "question_group": 131}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，保戶可以在7月1日後變更紅利領取方式而不影響當年度紅利入帳。", "answer": "否", "question_group": 131}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據流程圖，紅利計算與審核於6月底完成，並於7月15日後紅利明細上架官網與APP，8月1日起分批發放至9月30日。", "answer": "是", "question_group": 132}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，紅利計算與審核於6月底完成，並於7月15日後紅利明細上架官網與APP，8月1日起分批發放至9月30日。", "answer": "是", "question_group": 132}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據流程圖，現金領取於8月1日至31日分批匯款，但累積生息於8月10日前自動存入並享1.5%利率。", "answer": "否", "question_group": 132}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，現金領取於8月1日至31日分批匯款，但累積生息於8月10日前自動存入並享1.5%利率。", "answer": "否", "question_group": 132}
 

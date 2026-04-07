@@ -35,51 +35,51 @@
 {"category": "MCQ", "question_type": "Creative Scenario", "question": "情境比較：圖像標示台銀未來消費趨勢以「數位化、個性化、可持續性」為三大主軸，並指出數位化與線上支付將驅動約10–15%年成長；假設未來三年內公司預算僅能啟動三項大型計畫，且每案須在三年內能量化成效與可觀察的投入回報（不得引入圖像以外的外部數據）。請參考圖像論點（數位化為基礎、個性化放大數據價值、可持續性為中長期品牌策略並且數位/線上支付驅動10–15%年成長），從下列選項中選出最應優先執行的三項具體計畫及其優先順序（每項以一句話描述其核心內容）：\nA) 1) 建置高可用且安全的數位支付平台升級（整合行動/無接觸支付、公開API與即時風險偵測）；2) 部署精準個性化會員與獎勵生態（以交易與行為資料做動態回饋）；3) 推出綠色信用卡與可持續消費激勵（環保卡材質＋綠色回饋）。\nB) 1) 先部署精準個性化會員與獎勵生態以快速提升客單與留存；2) 再建置數位支付平台升級；3) 最後推出綠色信用卡與可持續激勵。\nC) 1) 以大型可持續性品牌投資為首（大規模綠色金融與ESG專案）；2) 接著部署個性化會員服務；3) 最後改善數位支付平台。\nD) 1) 先實施數位支付平台升級；2) 同時投入大量資源在可持續性專案使其成為第二優先；3) 把個性化作為第三優先的小型試點。從上述 A–D 四個方案中選出最符合題述（即最能在三年內量化回報且符合圖像論點）的一項。", "answer": "D", "choice": ["先以精準個性化會員與獎勵生態為首，透過現有交易資料啟動快速促活與留存試驗，同步建立最小可行數位平台（MVP）與資料管道以支援成效量測，接著在二年內升級完整數位支付平台，最後推出綠色信用卡與可持續激勵。", "採混合外包策略：大量外包非核心支付與個性化模組以快速上線，同時保留核心資料倉與風險偵測內部管理，並執行小規模綠色卡試點以量化環保成效。", "首要啟動小規模且具可量化指標的可持續性試點（例如綠色回饋專案與第三方驗證的減碳報告）以強化品牌與社群認同，中期部署個性化會員服務，最後改善數位支付平台。", "A) 優先順序為：1) 升級高可用安全的數位支付平台以支撐線上交易並蒐集高品質行為資料（KPI示例：數位交易占比、平台成功交易率、詐欺損失下降）；2) 部署精準個性化會員與獎勵以放大數據價值並提升客單與留存（KPI示例：推送點擊/兌換率、持卡人消費成長率、留存率）；3) 推出綠色信用卡與可持續消費激勵以建立中長期品牌差異化並量化環境影響（KPI示例：綠色卡占比、綠色交易占比、可量化減碳指標）；排序理由基於圖像：數位化為基礎且線上支付驅動10–15%成長，個性化放大數據商業價值，可持續性為中長期品牌策略；主要風險與緩解分別包括資安與備援（以多層防護與多供應商備援緩解）、隱私疑慮（以透明同意與資料匿名化緩解）、與綠色漂洗風險（以第三方認證與公開報告緩解）。"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表1的資料，某人在大型購物商場和便利店的消費金額分別是1500元和600元。若他使用信用卡支付的金額為1080元，以下哪一項可能是正確的總支付金額？", "answer": "C", "choice": ["1800元", "660元", "1080元", "不可能的計算結果"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表5的資料，假設在一年內，手機應用程式的消費者參與增長了兩次，每次增長的百分比與表中所示相同，那麼手機應用程式的總消費者參與增長率為何？", "answer": "C", "choice": ["62%", "77%", "69%", "65%"]}
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據圖中數據，未來三年內台銀信用卡交易中線上消費占比將上升到60%，並且促銷活動主要驅動年輕族群的消費。", "answer": "是", "question_group": 1518}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，未來三年內台銀信用卡交易中線上消費占比將上升到60%，並且促銷活動主要驅動年輕族群的消費。", "answer": "是", "question_group": 1518}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據圖中數據，未來三年內台銀信用卡交易中實體消費占比將上升到60%，且主要由中老年族群驅動。", "answer": "否", "question_group": 1518}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，未來三年內台銀信用卡交易中實體消費占比將上升到60%，且主要由中老年族群驅動。", "answer": "否", "question_group": 1518}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，45–60歲的族群信用卡使用率約50%，醫療/健康支出以信用卡付款比率約70%。", "answer": "是", "question_group": 1519}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，45–60歲的族群信用卡使用率約50%，醫療/健康支出以信用卡付款比率約70%。", "answer": "是", "question_group": 1519}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，18–30歲的族群醫療/健康支出以信用卡付款比率約70%。", "answer": "否", "question_group": 1519}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，18–30歲的族群醫療/健康支出以信用卡付款比率約70%。", "answer": "否", "question_group": 1519}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，假設銀行的銷售預算不變且競爭者短期反應中性，策略B（全通路/實體強化）較可能在一年內提高整體信用卡交易額，因為實體仍為55%的主要消費來源。", "answer": "是", "question_group": 1520}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，假設銀行的銷售預算不變且競爭者短期反應中性，策略B（全通路/實體強化）較可能在一年內提高整體信用卡交易額，因為實體仍為55%的主要消費來源。", "answer": "是", "question_group": 1520}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，假設銀行的銷售預算不變且競爭者短期反應中性，策略A（線上優先）會在一年內最有效地提高整體信用卡交易額，因為線上消費的成長速度更快。", "answer": "否", "question_group": 1520}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，假設銀行的銷售預算不變且競爭者短期反應中性，策略A（線上優先）會在一年內最有效地提高整體信用卡交易額，因為線上消費的成長速度更快。", "answer": "否", "question_group": 1520}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，情境B較可能帶來較大的相對使用率成長，因為餐飲滲透率約40%且無接觸支付年增約30%，有較大滲透提升空間。", "answer": "是", "question_group": 1521}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，情境B較可能帶來較大的相對使用率成長，因為餐飲滲透率約40%且無接觸支付年增約30%，有較大滲透提升空間。", "answer": "是", "question_group": 1521}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，情境A較可能帶來較大的相對使用率成長，因為旅遊滲透率已經很高，提升空間有限。", "answer": "否", "question_group": 1521}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，情境A較可能帶來較大的相對使用率成長，因為旅遊滲透率已經很高，提升空間有限。", "answer": "否", "question_group": 1521}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，促銷活動貢獻率和交易額增長率的平均值在增加5%後，新的平均值應該是26.25%。", "answer": "是", "question_group": 1522}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，促銷活動貢獻率和交易額增長率的平均值在增加5%後，新的平均值應該是26.25%。", "answer": "是", "question_group": 1522}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，促銷活動貢獻率和交易額增長率的平均值在增加5%後，新的平均值應該是30%。", "answer": "否", "question_group": 1522}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，促銷活動貢獻率和交易額增長率的平均值在增加5%後，新的平均值應該是30%。", "answer": "否", "question_group": 1522}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據圖中，2025年第二季台銀信用卡消費中，線上消費比例約為45%，較去年同期成長近10個百分點。", "answer": "是", "question_group": 1523}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，2025年第二季台銀信用卡消費中，線上消費比例約為45%，較去年同期成長近10個百分點。", "answer": "是", "question_group": 1523}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據圖中，2025年第二季台銀信用卡消費中，超過50%的實體顧客在購物前會用手機app查詢或預約。", "answer": "否", "question_group": 1523}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，2025年第二季台銀信用卡消費中，超過50%的實體顧客在購物前會用手機app查詢或預約。", "answer": "否", "question_group": 1523}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，數位支付平台的升級應該被優先實施，因為它支撐線上交易並能驅動10-15%的年成長。", "answer": "是", "question_group": 1524}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，數位支付平台的升級應該被優先實施，因為它支撐線上交易並能驅動10-15%的年成長。", "answer": "是", "question_group": 1524}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，可持續性專案應該作為首要優先事項來實施，而不是數位支付平台升級。", "answer": "否", "question_group": 1524}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，可持續性專案應該作為首要優先事項來實施，而不是數位支付平台升級。", "answer": "否", "question_group": 1524}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，促銷前占 40 億元的商家在促銷期間其信用卡交易額平均成長約 30%，僅靠此增幅通常不足以解釋整體 20 億元的增量，應擴大參與或採更強促銷措施。", "answer": "是", "question_group": 1525}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，促銷前占 40 億元的商家在促銷期間其信用卡交易額平均成長約 30%，僅靠此增幅通常不足以解釋整體 20 億元的增量，應擴大參與或採更強促銷措施。", "answer": "是", "question_group": 1525}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，促銷前占 40 億元的商家在促銷期間其信用卡交易額平均成長約 30%，此增幅可完全解釋整體 20 億元的增量，無需其他因素。", "answer": "否", "question_group": 1525}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，促銷前占 40 億元的商家在促銷期間其信用卡交易額平均成長約 30%，此增幅可完全解釋整體 20 億元的增量，無需其他因素。", "answer": "否", "question_group": 1525}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據附圖報告，短期內情境A（大規模現金回饋）最可能帶來總消費額的即時最大增長，因為促銷使本季消費額增加20%。", "answer": "是", "question_group": 1526}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，短期內情境A（大規模現金回饋）最可能帶來總消費額的即時最大增長，因為促銷使本季消費額增加20%。", "answer": "是", "question_group": 1526}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據附圖報告，短期內情境B（數位化＋AI精準積分）最可能帶來總消費額的即時最大增長。", "answer": "否", "question_group": 1526}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，短期內情境B（數位化＋AI精準積分）最可能帶來總消費額的即時最大增長。", "answer": "否", "question_group": 1526}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，台銀若僅專注數位化，在短期數位投資與線上消費持續成長的條件下可能達到接近10%，但中長期難以穩定維持10%–15%。", "answer": "是", "question_group": 1527}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，台銀若僅專注數位化，在短期數位投資與線上消費持續成長的條件下可能達到接近10%，但中長期難以穩定維持10%–15%。", "answer": "是", "question_group": 1527}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，台銀僅專注數位化能在短期穩健達到並在中長期維持15%，且情境A風險較低且無顯著限制。", "answer": "否", "question_group": 1527}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，台銀僅專注數位化能在短期穩健達到並在中長期維持15%，且情境A風險較低且無顯著限制。", "answer": "否", "question_group": 1527}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，平衡策略的預期加權提升達16.05%，超過了15%的目標，且風險分散。", "answer": "是", "question_group": 1528}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，平衡策略的預期加權提升達16.05%，超過了15%的目標，且風險分散。", "answer": "是", "question_group": 1528}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，激進年輕策略的預期加權提升達到了15%以上，並且風險分散。", "answer": "否", "question_group": 1528}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，激進年輕策略的預期加權提升達到了15%以上，並且風險分散。", "answer": "否", "question_group": 1528}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據圖中，2025年第二季線上消費比例約為45%，較去年同期成長近10個百分點。", "answer": "是", "question_group": 1529}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，2025年第二季線上消費比例約為45%，較去年同期成長近10個百分點。", "answer": "是", "question_group": 1529}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據圖中，2025年第二季實體消費比例低於50%。", "answer": "否", "question_group": 1529}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，2025年第二季實體消費比例低於50%。", "answer": "否", "question_group": 1529}
 

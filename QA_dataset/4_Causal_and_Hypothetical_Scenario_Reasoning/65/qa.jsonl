@@ -36,47 +36,47 @@
 {"category": "Open", "question_type": "Creative Scenario", "question": "根據圖片中合作金庫銀行現行客戶個人資料保護措施與政策，當政府要求銀行在未經客戶同意下蒐集更多個資以加強國安監控時，銀行應採取哪些具體的技術與溝通策略來平衡法令遵循與個資安全，並維護客戶信任？請參考圖片資訊選出所有正確選項。", "answer": "依法配合政府要求並嚴格遵守法定程序；利用高標準加密技術與嚴密權限管控限制資料使用範圍；加強透明溝通，主動說明法令必要性與個資保護承諾；設立意見反饋管道並持續公開個資政策。"}
 {"category": "MCQ", "question_type": "Creative Scenario", "question": "根據圖片中合作金庫銀行現行客戶個人資料保護措施與政策，當政府要求銀行在未經客戶同意下蒐集更多個資以加強國安監控時，銀行應採取哪些具體的技術與溝通策略來平衡法令遵循與個資安全，並維護客戶信任？請參考圖片資訊選出所有正確選項。", "answer": "C", "choice": ["拒絕配合任何政府資料蒐集要求，即使符合法定程序", "在未經客戶同意下，將資料提供給非授權第三方進行安全分析", "依法配合政府要求並嚴格遵守法定程序；利用高標準加密技術與嚴密權限管控限制資料使用範圍；加強透明溝通，主動說明法令必要性與個資保護承諾；設立意見反饋管道並持續公開個資政策。", "只限制內部員工資料存取權限，且不需主動向客戶說明資料使用情況"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表1的資料，若每個因格式不符需重填的案件需額外花費1小時處理，2023年所有重填案件總共需要多少小時？(選擇正確的選項)", "answer": "A", "choice": ["221小時", "199小時", "221小時", "243小時"]}
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，姓名欄筆誤會直接導致申請延誤或退件，且出生年月日格式錯誤有85%需重填申請書，這兩項錯誤均嚴重影響開戶進度。", "answer": "是", "question_group": 1416}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，姓名欄筆誤會直接導致申請延誤或退件，且出生年月日格式錯誤有85%需重填申請書，這兩項錯誤均嚴重影響開戶進度。", "answer": "是", "question_group": 1416}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，姓名欄筆誤和出生年月日格式錯誤不會影響開戶進度。", "answer": "否", "question_group": 1416}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，姓名欄筆誤和出生年月日格式錯誤不會影響開戶進度。", "answer": "否", "question_group": 1416}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，申請人應將500萬元分散存入不同金融機構，確保每一金融機構的存款不超過300萬元，以確保存款全額獲得存款保險保障。", "answer": "是", "question_group": 1417}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，申請人應將500萬元分散存入不同金融機構，確保每一金融機構的存款不超過300萬元，以確保存款全額獲得存款保險保障。", "answer": "是", "question_group": 1417}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，申請人可以將500萬元全部存入同一金融機構，並確保存款全額獲得存款保險保障。", "answer": "否", "question_group": 1417}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，申請人可以將500萬元全部存入同一金融機構，並確保存款全額獲得存款保險保障。", "answer": "否", "question_group": 1417}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，將資金分散存於多家銀行，各自不超過300萬元存款保險上限，搭配短期定存及到期自動轉存服務，可以提升資金安全性及靈活性。", "answer": "是", "question_group": 1418}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，將資金分散存於多家銀行，各自不超過300萬元存款保險上限，搭配短期定存及到期自動轉存服務，可以提升資金安全性及靈活性。", "answer": "是", "question_group": 1418}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，將所有資金存於一家銀行，超過300萬元存款保險上限，但選擇長期定存不搭配自動轉存服務，可以提升資金安全性及靈活性。", "answer": "否", "question_group": 1418}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，將所有資金存於一家銀行，超過300萬元存款保險上限，但選擇長期定存不搭配自動轉存服務，可以提升資金安全性及靈活性。", "answer": "否", "question_group": 1418}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2024年受理案件數為191，平均處理天數為2.56天。", "answer": "是", "question_group": 1419}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表7，2024年受理案件數為191，平均處理天數為2.56天。", "answer": "是", "question_group": 1419}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2024年受理案件數為190，平均處理天數為2.6天。", "answer": "否", "question_group": 1419}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表7，2024年受理案件數為190，平均處理天數為2.6天。", "answer": "否", "question_group": 1419}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，情境A中年滿20歲且具完全行為能力且文件齊全的申請人在首次審核中較可能通過。", "answer": "是", "question_group": 1420}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，情境A中年滿20歲且具完全行為能力且文件齊全的申請人在首次審核中較可能通過。", "answer": "是", "question_group": 1420}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，情境B中未成年申請人不需要法定代理人陪同即可在首次審核中通過。", "answer": "否", "question_group": 1420}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，情境B中未成年申請人不需要法定代理人陪同即可在首次審核中通過。", "answer": "否", "question_group": 1420}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，未滿20歲的外籍申請人在合作金庫銀行申請新台幣定存帳戶時需由法定代理人陪同，並提供有效護照、外僑居留證、代理人身分證明、親屬關係證明及合法資金來源文件。", "answer": "是", "question_group": 1421}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，未滿20歲的外籍申請人在合作金庫銀行申請新台幣定存帳戶時需由法定代理人陪同，並提供有效護照、外僑居留證、代理人身分證明、親屬關係證明及合法資金來源文件。", "answer": "是", "question_group": 1421}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，未滿20歲的外籍申請人在合作金庫銀行申請新台幣定存帳戶時只需提供有效護照和外僑居留證即可開戶。", "answer": "否", "question_group": 1421}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，未滿20歲的外籍申請人在合作金庫銀行申請新台幣定存帳戶時只需提供有效護照和外僑居留證即可開戶。", "answer": "否", "question_group": 1421}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，申請人甲的身份資料正確可通過身份核驗，但無效電子郵件降低後續通知效率。", "answer": "是", "question_group": 1422}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，申請人甲的身份資料正確可通過身份核驗，但無效電子郵件降低後續通知效率。", "answer": "是", "question_group": 1422}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，申請人乙雖提供有效電子郵件，錯誤的身份證號碼不會影響身份核驗及流程安全。", "answer": "否", "question_group": 1422}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，申請人乙雖提供有效電子郵件，錯誤的身份證號碼不會影響身份核驗及流程安全。", "answer": "否", "question_group": 1422}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，合作金庫銀行採用多重技術防護（如加密、權限控管、資料備份、異常監控）結合法律合規程序，限制資料使用並配合主管機關，確保資料安全且符合法規。", "answer": "是", "question_group": 1423}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，合作金庫銀行採用多重技術防護（如加密、權限控管、資料備份、異常監控）結合法律合規程序，限制資料使用並配合主管機關，確保資料安全且符合法規。", "answer": "是", "question_group": 1423}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，合作金庫銀行僅依賴法律合規程序而不使用技術防護來確保資料安全和符合法規。", "answer": "否", "question_group": 1423}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，合作金庫銀行僅依賴法律合規程序而不使用技術防護來確保資料安全和符合法規。", "answer": "否", "question_group": 1423}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，存本取息帳戶適合需要每月穩定現金流且能快速動用資金的需求，因為其每月可領取利息且本金到期領回。", "answer": "是", "question_group": 1424}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，存本取息帳戶適合需要每月穩定現金流且能快速動用資金的需求，因為其每月可領取利息且本金到期領回。", "answer": "是", "question_group": 1424}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，單筆定存帳戶適合需要每月穩定現金流且能快速動用資金的需求，因為其提供靈活提領功能。", "answer": "否", "question_group": 1424}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，單筆定存帳戶適合需要每月穩定現金流且能快速動用資金的需求，因為其提供靈活提領功能。", "answer": "否", "question_group": 1424}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，當政府要求銀行在未經客戶同意下蒐集更多個資以加強國安監控時，銀行應依法配合政府要求並嚴格遵守法定程序。", "answer": "是", "question_group": 1425}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，當政府要求銀行在未經客戶同意下蒐集更多個資以加強國安監控時，銀行應依法配合政府要求並嚴格遵守法定程序。", "answer": "是", "question_group": 1425}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，當政府要求銀行在未經客戶同意下蒐集更多個資時，銀行可以忽略法定程序以加強國安監控。", "answer": "否", "question_group": 1425}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，當政府要求銀行在未經客戶同意下蒐集更多個資時，銀行可以忽略法定程序以加強國安監控。", "answer": "否", "question_group": 1425}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，1年期的整存整付利率和2年期的存本取息利率相加的總和是3.35%。", "answer": "是", "question_group": 1426}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，1年期的整存整付利率和2年期的存本取息利率相加的總和是3.35%。", "answer": "是", "question_group": 1426}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，1年期的整存整付利率和2年期的存本取息利率相加的總和是3%。", "answer": "否", "question_group": 1426}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，1年期的整存整付利率和2年期的存本取息利率相加的總和是3%。", "answer": "否", "question_group": 1426}
 

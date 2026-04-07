@@ -9,19 +9,19 @@
 {"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中顯示的數據，對美國和歐洲的出口額哪一項正確？", "answer": "C", "choice": ["美國的出口額為90億美元，而歐洲的為80億美元。", "美國的出口額為90億美元，而歐洲的為75億美元。", "對美國和歐洲的出口額相同，都是90億美元。", "歐洲的出口額大於美國的，為95億美元。"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據提供的利率數據，企業貸款相比中小企業優惠貸款的利率最高能差多少個百分比？請參考下圖的利率比較。", "answer": "C", "choice": ["1.5%", "0.7%", "0.8%", "0.5%"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據表6的數據，哪些貸款類型的原始利率和調整後利率差異最大？", "answer": "D", "choice": ["信用卡和學生貸款", "房貸和住房抵押貸款", "汽車貸款和企業貸款", "房貸和企業貸款"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023 年第一季度和第四季度的收入相比，增長了 0.5 億美元。", "answer": "是", "question_group": 761}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表7，2023 年第一季度和第四季度的收入相比，增長了 0.5 億美元。", "answer": "是", "question_group": 761}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023 年第一季度和第四季度的收入相比，增長了 1 億美元。", "answer": "否", "question_group": 761}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表7，2023 年第一季度和第四季度的收入相比，增長了 1 億美元。", "answer": "否", "question_group": 761}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，週二的收盤價與開盤價的差異最大。", "answer": "是", "question_group": 762}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，週二的收盤價與開盤價的差異最大。", "answer": "是", "question_group": 762}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，週五的收盤價與開盤價的差異最大。", "answer": "否", "question_group": 762}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，週五的收盤價與開盤價的差異最大。", "answer": "否", "question_group": 762}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，週五的淨流出比週一多1.2億美元。", "answer": "是", "question_group": 763}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，週五的淨流出比週一多1.2億美元。", "answer": "是", "question_group": 763}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，週五的淨流出比週一多0.5億美元。", "answer": "否", "question_group": 763}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，週五的淨流出比週一多0.5億美元。", "answer": "否", "question_group": 763}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，企業貸款的最高利率和中小企業優惠貸款的利率差距可以達到0.8%。", "answer": "是", "question_group": 764}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，企業貸款的最高利率和中小企業優惠貸款的利率差距可以達到0.8%。", "answer": "是", "question_group": 764}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，企業貸款的最高利率和中小企業優惠貸款的利率差距可以達到1.0%。", "answer": "否", "question_group": 764}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，企業貸款的最高利率和中小企業優惠貸款的利率差距可以達到1.0%。", "answer": "否", "question_group": 764}
 

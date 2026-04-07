@@ -19,27 +19,27 @@
 {"category": "Open", "question_type": "Ranking", "question": "第二個數據點在所有指標中排名第幾？", "answer": "第二個數據點在所有指標中排名第2"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "在圖1中，得分最高的項目與得分最低的項目的差值是多少？", "answer": "由於缺乏具體的數據，無法計算得分最高和最低項目的差值。"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "圖3中，第一個和第三個服務渠道的滿意度百分比差異是多少？", "answer": "3%"}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，個性化服務的比例相比於改善溝通方式高出5%。", "answer": "是", "question_group": 747}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表7，個性化服務的比例相比於改善溝通方式高出5%。", "answer": "是", "question_group": 747}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，個性化服務的比例相比於改善溝通方式高出10%。", "answer": "否", "question_group": 747}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表7，個性化服務的比例相比於改善溝通方式高出10%。", "answer": "否", "question_group": 747}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，數位生活方式結合產品在總受訪者與年輕受訪者中的選擇比例都是20%。", "answer": "是", "question_group": 748}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，數位生活方式結合產品在總受訪者與年輕受訪者中的選擇比例都是20%。", "answer": "是", "question_group": 748}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，數位生活方式結合產品在總受訪者中的選擇比例是30%，而在年輕受訪者中是10%。", "answer": "否", "question_group": 748}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，數位生活方式結合產品在總受訪者中的選擇比例是30%，而在年輕受訪者中是10%。", "answer": "否", "question_group": 748}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據下圖，特定需求的滿意度比例最低的是58%。", "answer": "是", "question_group": 749}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖5，特定需求的滿意度比例最低的是58%。", "answer": "是", "question_group": 749}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據下圖，特定需求的滿意度比例最低的是75%。", "answer": "否", "question_group": 749}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖5，特定需求的滿意度比例最低的是75%。", "answer": "否", "question_group": 749}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據下圖，第二個數據點的滿意度得分排名第2名。", "answer": "是", "question_group": 750}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖7，第二個數據點的滿意度得分排名第2名。", "answer": "是", "question_group": 750}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據下圖，第二個數據點的滿意度得分排名第1名。", "answer": "否", "question_group": 750}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖7，第二個數據點的滿意度得分排名第1名。", "answer": "否", "question_group": 750}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，指標 3.5 的滿意度得分最低。", "answer": "是", "question_group": 751}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖7，指標 3.5 的滿意度得分最低。", "answer": "是", "question_group": 751}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，指標 3.8 的滿意度得分最低。", "answer": "否", "question_group": 751}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖7，指標 3.8 的滿意度得分最低。", "answer": "否", "question_group": 751}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，所有產品類別的廣泛認可比例都是 75%。", "answer": "是", "question_group": 752}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖4，所有產品類別的廣泛認可比例都是 75%。", "answer": "是", "question_group": 752}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，某些產品類別的廣泛認可比例低於 75%。", "answer": "否", "question_group": 752}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖4，某些產品類別的廣泛認可比例低於 75%。", "answer": "否", "question_group": 752}
 

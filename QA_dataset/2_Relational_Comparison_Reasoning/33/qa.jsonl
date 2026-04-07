@@ -8,11 +8,11 @@
 {"category": "Open", "question_type": "Comparison", "question": "在圖2中，2024年的不良貸款率與2023年相比，哪一年較高？", "answer": "需要從圖表中擷取數據才能確定哪一年較高。"}
 {"category": "Open", "question_type": "Ranking", "question": "根據圖2的資料，2024年的營業收入、淨利潤和存款總額三者中，數值最高的是哪一個？", "answer": "存款總額"}
 {"category": "MCQ", "question_type": "Ranking", "question": "根據圖2的資料，2024年營業收入、淨利潤和存款總額中，哪一項的數值最高？", "answer": "B", "choice": ["2024年營業收入的增長幅度高於上一年", "存款總額", "2024年淨利潤低於2023年", "2024年存款總額達到歷史最高水平"]}
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，缺乏具體的數據使得無法準確評估2023年和2024年的營業收入成長幅度。", "answer": "是", "question_group": 387}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖2，缺乏具體的數據使得無法準確評估2023年和2024年的營業收入成長幅度。", "answer": "是", "question_group": 387}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，可以精確計算出2023年和2024年的營業收入成長百分比。", "answer": "否", "question_group": 387}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖2，可以精確計算出2023年和2024年的營業收入成長百分比。", "answer": "否", "question_group": 387}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2025年的股利支付率比2024年更高。", "answer": "是", "question_group": 388}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，2025年的股利支付率比2024年更高。", "answer": "是", "question_group": 388}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2024年的股利支付率比2025年更高。", "answer": "否", "question_group": 388}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，2024年的股利支付率比2025年更高。", "answer": "否", "question_group": 388}
 

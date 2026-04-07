@@ -20,27 +20,27 @@
 {"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2023年和2024年的數據，溫室氣體盤查及揭露公司比例的變化趨勢是什麼？", "answer": "C", "choice": ["從2023年到2024年，溫室氣體盤查及揭露公司比例減少了5個百分點。", "從2023年到2024年，溫室氣體盤查及揭露公司比例上升了8個百分點。", "從2023年到2024年，溫室氣體盤查及揭露公司比例上升了12個百分點。", "從2023年到2024年，溫室氣體盤查及揭露公司比例上升了15個百分點。"]}
 {"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖3，從2020年到2023年，以下哪一個指標的變化率最大？", "answer": "C", "choice": ["電子投票符合率的變化率（增長5%）", "女性投票者的比率變化率（持平於55%）", "女性董事比率的變化率", "男性董事比率的變化率（下降2%）"]}
 {"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表5的資料，從2023年到2024年，以下哪一項是外部專才引進數量的增長率？", "answer": "B", "choice": ["4.75%", "10.23%", "9.50%", "11.85%"]}
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據下圖，從2020年到2023年，女性董事比率有增加的趨勢。", "answer": "是", "question_group": 900}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖3，從2020年到2023年，女性董事比率有增加的趨勢。", "answer": "是", "question_group": 900}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據下圖，從2020年到2023年，女性董事比率有減少的趨勢。", "answer": "否", "question_group": 900}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖3，從2020年到2023年，女性董事比率有減少的趨勢。", "answer": "否", "question_group": 900}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023年的平均達標率為65，2024年的平均達標率為67.5。", "answer": "是", "question_group": 901}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，2023年的平均達標率為65，2024年的平均達標率為67.5。", "answer": "是", "question_group": 901}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023年的平均達標率為70，2024年的平均達標率為66。", "answer": "否", "question_group": 901}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，2023年的平均達標率為70，2024年的平均達標率為66。", "answer": "否", "question_group": 901}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2022年到2023年，『前6%-20%』組的數值增長最多，增長量為48。", "answer": "是", "question_group": 902}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，從2022年到2023年，『前6%-20%』組的數值增長最多，增長量為48。", "answer": "是", "question_group": 902}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2021年到2022年，『前6%-20%』組的數值增長最多，增長量為48。", "answer": "否", "question_group": 902}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，從2021年到2022年，『前6%-20%』組的數值增長最多，增長量為48。", "answer": "否", "question_group": 902}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，服務業是主動揭露永續報告書比例最低的產業，其比例為68。", "answer": "是", "question_group": 903}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，服務業是主動揭露永續報告書比例最低的產業，其比例為68。", "answer": "是", "question_group": 903}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，金融保險產業是主動揭露永續報告書比例最低的產業，其比例為68。", "answer": "否", "question_group": 903}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，金融保險產業是主動揭露永續報告書比例最低的產業，其比例為68。", "answer": "否", "question_group": 903}
 
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，從2020年到2023年，電子投票參與率增加了10個百分點。", "answer": "是", "question_group": 904}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖3，從2020年到2023年，電子投票參與率增加了10個百分點。", "answer": "是", "question_group": 904}
 
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，從2020年到2023年，電子投票參與率增加了15個百分點。", "answer": "否", "question_group": 904}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖3，從2020年到2023年，電子投票參與率增加了15個百分點。", "answer": "否", "question_group": 904}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2024年的非財務資訊揭露完整性指數和ESG指標揭露完整性的平均值是76。", "answer": "是", "question_group": 905}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表6，2024年的非財務資訊揭露完整性指數和ESG指標揭露完整性的平均值是76。", "answer": "是", "question_group": 905}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2024年的非財務資訊揭露完整性指數和ESG指標揭露完整性的平均值是80。", "answer": "否", "question_group": 905}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表6，2024年的非財務資訊揭露完整性指數和ESG指標揭露完整性的平均值是80。", "answer": "否", "question_group": 905}
 

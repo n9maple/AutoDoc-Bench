@@ -37,47 +37,47 @@
 {"category": "MCQ", "question_type": "Creative Scenario", "question": "根據圖片中所述，若一投資人因期貨價格頻繁波動屢次收到追加保證金通知且財務狀況有限，請依圖片內容判斷以下哪項描述正確反映該投資人與券商在風險管理及道德責任上的角色與責任？", "answer": "C", "choice": ["券商在提供交易服務時，只要履行基本交易流程即可，不需全面揭露槓桿商品的價格波動風險。", "投資人無需頻繁關注保證金通知，因券商應負全責確保帳戶資金安全。", "投資人應主動行使知情權與查詢權，審慎評估風險承受能力，並依規定及時繳納保證金；券商應清晰揭露風險並提供合理輔導。", "投資人如因財務狀況有限無法及時補足保證金，可要求券商降低保證金標準以降低風險負擔。"]}
 {"category": "Open", "question_type": "Creative Scenario", "question": "根據圖中兆豐證券於2023年展示的風險管理及客戶保護措施，當未來金融市場波動加劇且網路攻擊風險增加時，哪三項策略最能協同保障客戶資產安全與市場交易穩定？", "answer": "提升保證金標準控槓桿風險、強化智慧風險監控系統提高異常交易預警、加強資安措施如多重身份驗證與資訊透明化"}
 {"category": "MCQ", "question_type": "Creative Scenario", "question": "根據圖中兆豐證券於2023年展示的風險管理及客戶保護措施，當未來金融市場波動加劇且網路攻擊風險增加時，哪三項策略最能協同保障客戶資產安全與市場交易穩定？", "answer": "C", "choice": ["只依靠客戶教育提升投資知識，無法直接防範市場波動與資安風險", "降低保證金標準以吸引更多投資人，反而可能增加槓桿風險與市場波動", "提升保證金標準控槓桿風險、強化智慧風險監控系統提高異常交易預警、加強資安措施如多重身份驗證與資訊透明化", "將客戶資金與公司資金合併管理，違反資產分離原則且增加資產安全風險"]}
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，股票型基金主要面臨利率上升引發市場波動及匯率升值造成海外資產價值下降的風險，而結構型商品涉及結構性風險、提前贖回可能及多重匯率波動影響。", "answer": "是", "question_group": 1340}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，股票型基金主要面臨利率上升引發市場波動及匯率升值造成海外資產價值下降的風險，而結構型商品涉及結構性風險、提前贖回可能及多重匯率波動影響。", "answer": "是", "question_group": 1340}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，股票型基金主要面臨結構性風險及多重匯率波動影響，而結構型商品主要受到利率上升引發的市場波動及匯率升值造成的海外資產價值下降的影響。", "answer": "否", "question_group": 1340}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，股票型基金主要面臨結構性風險及多重匯率波動影響，而結構型商品主要受到利率上升引發的市場波動及匯率升值造成的海外資產價值下降的影響。", "answer": "否", "question_group": 1340}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據圖片中槓桿操作及保證金機制的描述，選擇權買方的最大損失限於支付的權利金，而賣方面臨無上限的損失風險。", "answer": "是", "question_group": 1341}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，選擇權買方的最大損失限於支付的權利金，而賣方面臨無上限的損失風險。", "answer": "是", "question_group": 1341}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據圖片中槓桿操作及保證金機制的描述，高槓桿倍數減少了賣方的損失金額，並降低了追加保證金的需求。", "answer": "否", "question_group": 1341}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，高槓桿倍數減少了賣方的損失金額，並降低了追加保證金的需求。", "answer": "否", "question_group": 1341}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據圖片，股票型基金風險較高，主要來自市場價格波動、公司經營風險及基金經理人操作影響。", "answer": "是", "question_group": 1342}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，股票型基金風險較高，主要來自市場價格波動、公司經營風險及基金經理人操作影響。", "answer": "是", "question_group": 1342}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據圖片，債券型基金主要面對市場價格波動及基金經理人操作影響，風險程度較高。", "answer": "否", "question_group": 1342}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，債券型基金主要面對市場價格波動及基金經理人操作影響，風險程度較高。", "answer": "否", "question_group": 1342}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據圖片，電子產業股票波動率達25%，存在經營及舞弊風險，資本損失可能性高於違約率約2.8%的高收益債券。", "answer": "是", "question_group": 1343}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，電子產業股票波動率達25%，存在經營及舞弊風險，資本損失可能性高於違約率約2.8%的高收益債券。", "answer": "是", "question_group": 1343}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據圖片，高收益企業債券的波動率高於電子產業股票，且資本損失可能性也更高。", "answer": "否", "question_group": 1343}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，高收益企業債券的波動率高於電子產業股票，且資本損失可能性也更高。", "answer": "否", "question_group": 1343}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據圖片，小華積極審閱風險揭露文件、主動查詢帳戶狀況並補繳追加保證金，這有助於降低強制平倉及損失風險。", "answer": "是", "question_group": 1344}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，小華積極審閱風險揭露文件、主動查詢帳戶狀況並補繳追加保證金，這有助於降低強制平倉及損失風險。", "answer": "是", "question_group": 1344}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據圖片，小明忽視風險揭露文件和帳戶狀況，這有助於降低強制平倉及損失風險。", "answer": "否", "question_group": 1344}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，小明忽視風險揭露文件和帳戶狀況，這有助於降低強制平倉及損失風險。", "answer": "否", "question_group": 1344}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據圖片，情境A透過提高保證金降低槓桿風險與爆倉可能，強化市場穩定及交易安全。", "answer": "是", "question_group": 1345}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，情境A透過提高保證金降低槓桿風險與爆倉可能，強化市場穩定及交易安全。", "answer": "是", "question_group": 1345}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據圖片，情境B透過不調整保證金降低槓桿風險及增加交易安全。", "answer": "否", "question_group": 1345}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，情境B透過不調整保證金降低槓桿風險及增加交易安全。", "answer": "否", "question_group": 1345}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據圖片，台指期貨因槓桿效應，損益波動遠大於股票型基金，且風險極高。", "answer": "是", "question_group": 1346}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，台指期貨因槓桿效應，損益波動遠大於股票型基金，且風險極高。", "answer": "是", "question_group": 1346}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據圖片，股票型基金因槓桿效應，損益波動遠大於台指期貨，且風險極高。", "answer": "否", "question_group": 1346}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，股票型基金因槓桿效應，損益波動遠大於台指期貨，且風險極高。", "answer": "否", "question_group": 1346}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，股票面臨價格劇烈波動與經濟敏感產業風險，債券因利率上升而價格下跌且信用違約風險提升，衍生性金融商品槓桿效應放大損失且保證金風險高，應提升多元化，減持高波動性資產，增加現金和短期低風險債券比重，嚴控衍生品槓桿，並依市場變化動態調整資產配置。", "answer": "是", "question_group": 1347}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，股票面臨價格劇烈波動與經濟敏感產業風險，債券因利率上升而價格下跌且信用違約風險提升，衍生性金融商品槓桿效應放大損失且保證金風險高，應提升多元化，減持高波動性資產，增加現金和短期低風險債券比重，嚴控衍生品槓桿，並依市場變化動態調整資產配置。", "answer": "是", "question_group": 1347}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，股票主要面臨穩定增長風險，債券因利率下降而價格上升且沒有信用違約風險，衍生性金融商品槓桿效應降低損失且保證金風險低，不需要提升多元化，應增加高波動性資產，減少現金和短期低風險債券比重，不需要調整資產配置。", "answer": "否", "question_group": 1347}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，股票主要面臨穩定增長風險，債券因利率下降而價格上升且沒有信用違約風險，衍生性金融商品槓桿效應降低損失且保證金風險低，不需要提升多元化，應增加高波動性資產，減少現金和短期低風險債券比重，不需要調整資產配置。", "answer": "否", "question_group": 1347}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，期貨與選擇權具有較高的槓桿效應和市場波動性，風險高於股票與債券；因此，投資人應嚴控保證金並關注波動及流動性以防損失超出投入。", "answer": "是", "question_group": 1348}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，期貨與選擇權具有較高的槓桿效應和市場波動性，風險高於股票與債券；因此，投資人應嚴控保證金並關注波動及流動性以防損失超出投入。", "answer": "是", "question_group": 1348}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，期貨與選擇權的槓桿效應和市場波動性低於股票與債券，因此風險較低，投資人無需過度關注保證金和市場流動性。", "answer": "否", "question_group": 1348}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，期貨與選擇權的槓桿效應和市場波動性低於股票與債券，因此風險較低，投資人無需過度關注保證金和市場流動性。", "answer": "否", "question_group": 1348}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2022年的全年最高點與最低點相差5,990點，且該年的單日個股最大漲跌幅超過2023年。", "answer": "是", "question_group": 1349}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，2022年的全年最高點與最低點相差5,990點，且該年的單日個股最大漲跌幅超過2023年。", "answer": "是", "question_group": 1349}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2022年的全年最高點與最低點相差5,000點，且該年的單日個股最大漲跌幅不超過2023年。", "answer": "否", "question_group": 1349}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，2022年的全年最高點與最低點相差5,000點，且該年的單日個股最大漲跌幅不超過2023年。", "answer": "否", "question_group": 1349}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據圖片，投資人在槓桿超過16倍且未設定停損措施的情況下，三日累計損失可能接近本金全損，並可能被強制平倉。", "answer": "是", "question_group": 1350}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，投資人在槓桿超過16倍且未設定停損措施的情況下，三日累計損失可能接近本金全損，並可能被強制平倉。", "answer": "是", "question_group": 1350}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據圖片，投資人槓桿超過16倍但設有停損措施，因此不會面臨強制平倉的風險。", "answer": "否", "question_group": 1350}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，投資人槓桿超過16倍但設有停損措施，因此不會面臨強制平倉的風險。", "answer": "否", "question_group": 1350}
 

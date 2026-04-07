@@ -15,19 +15,19 @@
 {"category": "MCQ", "question_type": "Proportion", "question": "根據2024年貸款糾紛案件的統計資料，其他爭議的比例可能是多少？請根據圖片內容選擇最接近的數值。", "answer": "C", "choice": ["48.0%", "50.5%", "64.0%", "75.0%"]}
 {"category": "Open", "question_type": "Fact Lookup", "question": "在圖3中，對利率影響的強度評估為5的因素有幾個？", "answer": "2"}
 {"category": "MCQ", "question_type": "Proportion", "question": "根據圖6，以下哪一項最接近手續費爭議的比例？", "answer": "C", "choice": ["16.0%", "17.5%", "18.0%", "19.0%"]}
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，玉山銀行、台新銀行和永豐銀行的最低利率為1.90%。", "answer": "是", "question_group": 209}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表6，玉山銀行、台新銀行和永豐銀行的最低利率為1.90%。", "answer": "是", "question_group": 209}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，只有一家銀行的最低利率為1.90%。", "answer": "否", "question_group": 209}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表6，只有一家銀行的最低利率為1.90%。", "answer": "否", "question_group": 209}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2024年台灣中小企業貸款核准時程延誤的主因之一是'不完整或遲未補交文件'。", "answer": "是", "question_group": 210}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖5，2024年台灣中小企業貸款核准時程延誤的主因之一是'不完整或遲未補交文件'。", "answer": "是", "question_group": 210}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2024年台灣中小企業貸款核准時程延誤的主因之一是'其他原因'。", "answer": "否", "question_group": 210}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖5，2024年台灣中小企業貸款核准時程延誤的主因之一是'其他原因'。", "answer": "否", "question_group": 210}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，信用貸款的最低優惠利率是2.1%。", "answer": "是", "question_group": 211}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表8，信用貸款的最低優惠利率是2.1%。", "answer": "是", "question_group": 211}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，擔保貸款的最低優惠利率是2.5%。", "answer": "否", "question_group": 211}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表8，擔保貸款的最低優惠利率是2.5%。", "answer": "否", "question_group": 211}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，玉山銀行、台新銀行和永豐銀行的專案最低利率小於2.0%。", "answer": "是", "question_group": 212}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表1，玉山銀行、台新銀行和永豐銀行的專案最低利率小於2.0%。", "answer": "是", "question_group": 212}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，台灣銀行、合作金庫銀行和第一銀行的專案最低利率小於2.0%。", "answer": "否", "question_group": 212}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表1，台灣銀行、合作金庫銀行和第一銀行的專案最低利率小於2.0%。", "answer": "否", "question_group": 212}
 

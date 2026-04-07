@@ -17,19 +17,19 @@
 {"category": "Open", "question_type": "Comparison", "question": "根據圖7，在哪一個季度符合條件的申請比例相對於不符合條件的申請比例差異最大？", "answer": "2024年第4季度"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "根據圖4，申請提交和最終處理的處理時間差多少天？", "answer": "由於沒有具體的數據提供，無法計算出申請提交和最終處理的處理時間差。"}
 {"category": "MCQ", "question_type": "Comparison", "question": "在圖2中，2023年的保險公司數位化理賠系統的採用率相較於2022年高出多少個百分點？", "answer": "A", "choice": ["10個百分點", "10%的降低", "15個百分點的提高", "保險公司數位化理賠系統未見上升"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2024-02的保障條款金額與2024-03的保障條款金額相減後的結果為-600。", "answer": "是", "question_group": 707}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表7，2024-02的保障條款金額與2024-03的保障條款金額相減後的結果為-600。", "answer": "是", "question_group": 707}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2024-02的保障條款金額與2024-03的保障條款金額相減後的結果為600。", "answer": "否", "question_group": 707}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表7，2024-02的保障條款金額與2024-03的保障條款金額相減後的結果為600。", "answer": "否", "question_group": 707}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據圖片，政策 30 的申請期限是 30 天，較政策 60 的申請期限短。", "answer": "是", "question_group": 708}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖6，政策 30 的申請期限是 30 天，較政策 60 的申請期限短。", "answer": "是", "question_group": 708}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據圖片，政策 60 的申請期限比政策 30 短。", "answer": "否", "question_group": 708}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖6，政策 60 的申請期限比政策 30 短。", "answer": "否", "question_group": 708}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，健康險的文件數量比意外險多4份。", "answer": "是", "question_group": 709}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，健康險的文件數量比意外險多4份。", "answer": "是", "question_group": 709}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，健康險的文件數量比意外險少4份。", "answer": "否", "question_group": 709}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，健康險的文件數量比意外險少4份。", "answer": "否", "question_group": 709}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，政策30的申請期限是30天，而政策60的申請期限是60天，兩者的期限差距是30天。", "answer": "是", "question_group": 710}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖6，政策30的申請期限是30天，而政策60的申請期限是60天，兩者的期限差距是30天。", "answer": "是", "question_group": 710}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，政策30的申請期限是60天，而政策60的申請期限是30天，兩者的期限差距是30天。", "answer": "否", "question_group": 710}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖6，政策30的申請期限是60天，而政策60的申請期限是30天，兩者的期限差距是30天。", "answer": "否", "question_group": 710}
 

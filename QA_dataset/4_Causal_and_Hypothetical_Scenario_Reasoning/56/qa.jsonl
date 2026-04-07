@@ -7,11 +7,11 @@
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "如果現金支票和臨櫃領取的比例增加一倍，根據下面的圖片，銀行轉帳比例會變成多少？", "answer": "C", "choice": ["50%", "68%", "74%", "76%"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據圖片中所示的資料，如果每件需醫療院所調閱的案件平均延誤5天，請問2023年所有此類案件的總延誤天數是以下哪一項？", "answer": "C", "choice": ["150000", "20000", "89000", "50000"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表6的資料，從2021年至2023年，因資料不實/文件偽造進入法律程序的案件數占總案件數的平均百分比為何？", "answer": "C", "choice": ["2.45%", "3.87%", "3.23%", "6.75%"]}
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，意外險的事故經過敘述不完整所需補件的比例以及事故經過描述不清所需補件的比例之和較高。", "answer": "是", "question_group": 1375}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表2，意外險的事故經過敘述不完整所需補件的比例以及事故經過描述不清所需補件的比例之和較高。", "answer": "是", "question_group": 1375}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，健康險的事故經過敘述不完整所需補件的比例以及事故經過描述不清所需補件的比例之和較高。", "answer": "否", "question_group": 1375}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表2，健康險的事故經過敘述不完整所需補件的比例以及事故經過描述不清所需補件的比例之和較高。", "answer": "否", "question_group": 1375}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，姓名不符和身分證字號不符的參與者比例總和為20%。", "answer": "是", "question_group": 1376}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，姓名不符和身分證字號不符的參與者比例總和為20%。", "answer": "是", "question_group": 1376}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，姓名不符和身分證字號不符的參與者比例總和為30%。", "answer": "否", "question_group": 1376}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，姓名不符和身分證字號不符的參與者比例總和為30%。", "answer": "否", "question_group": 1376}
 

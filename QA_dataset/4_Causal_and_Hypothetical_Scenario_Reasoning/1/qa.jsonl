@@ -27,55 +27,55 @@
 {"category": "Open", "question_type": "Creative Scenario", "question": "原始問題: 依據附圖的使用者滿意度結果（圖中標示：>30%不滿客服回應速度、32%對安全性有顧慮、24%希望交易有更多狀態更新、80%界面滿意），假設台新銀行在未來12個月內僅有有限預算與人力（請以總可用專案資源的百分比來配置），請：1) 從圖中與描述列出的改進項目（如：擴充客服並導入AI即時客服、引入生物識別與行為分析、提供更多界面自定義、精細化交易追蹤與即時通知、差異化客群方案、持續反饋機制等）選出三項優先執行；2) 對每一項給出0–3月、3–6月、6–12月的具體執行步驟（含最小可行產品/試點）、1–2個可量化KPI與在12個月內對圖中相關百分比的合理預估變動；3) 指定對三項的資源分配（以百分比表達，合計100%），並說明在有限資源下如何達成（要指出具體節省策略）；4) 比較你所選組合與一個替代組合（將「精細化交易追蹤」替換為「界面自定義」）的預期效益，計算每投入1%資源可帶來的「客服工單減少率」與「安全性顧慮下降百分點」的相對效益；5) 列出主要風險（每項2項）及可執行的緩解策略。請注意：答案必須直接參考圖中百分比，若未見圖示則資訊不足無法回答.", "answer": "正確選項：優先執行三項為「擴充客服並導入AI即時客服」「引入生物識別與行為分析（安全強化）」「精細化交易追蹤與即時通知」，資源分配建議為客服+AI 40%、安全技術 35%、交易追蹤 25%，採分階段MVP（0–3月分析與PoC、3–6月小範圍Beta/MVP、6–12月擴大與整合），預估12個月內圖中指標變化：不滿客服回應速度由>30%降至10–15%、安全性顧慮32%降至12–18%、希望更多交易狀態更新24%降至6–10%。"}
 {"category": "MCQ", "question_type": "Creative Scenario", "question": "原始問題: 依據附圖的使用者滿意度結果（圖中標示：>30%不滿客服回應速度、32%對安全性有顧慮、24%希望交易有更多狀態更新、80%界面滿意），假設台新銀行在未來12個月內僅有有限預算與人力（請以總可用專案資源的百分比來配置），請：1) 從圖中與描述列出的改進項目（如：擴充客服並導入AI即時客服、引入生物識別與行為分析、提供更多界面自定義、精細化交易追蹤與即時通知、差異化客群方案、持續反饋機制等）選出三項優先執行；2) 對每一項給出0–3月、3–6月、6–12月的具體執行步驟（含最小可行產品/試點）、1–2個可量化KPI與在12個月內對圖中相關百分比的合理預估變動；3) 指定對三項的資源分配（以百分比表達，合計100%），並說明在有限資源下如何達成（要指出具體節省策略）；4) 比較你所選組合與一個替代組合（將「精細化交易追蹤」替換為「界面自定義」）的預期效益，計算每投入1%資源可帶來的「客服工單減少率」與「安全性顧慮下降百分點」的相對效益；5) 列出主要風險（每項2項）及可執行的緩解策略。請注意：答案必須直接參考圖中百分比，若未見圖示則資訊不足無法回答.", "answer": "A", "choice": ["正確選項：優先執行三項為「擴充客服並導入AI即時客服」「引入生物識別與行為分析（安全強化）」「精細化交易追蹤與即時通知」，資源分配建議為客服+AI 40%、安全技術 35%、交易追蹤 25%，採分階段MVP（0–3月分析與PoC、3–6月小範圍Beta/MVP、6–12月擴大與整合），預估12個月內圖中指標變化：不滿客服回應速度由>30%降至10–15%、安全性顧慮32%降至12–18%、希望更多交易狀態更新24%降至6–10%。", "優先項目（替代組合）：擴充客服並導入AI即時客服、引入生物識別與行為分析（安全強化）、提供更多界面自定義（替代精細化交易追蹤）。資源分配：客服+AI 45%、安全技術 35%、界面自定義 20%。執行節奏：0–3月界面需求分群與PoC、3–6月Beta（針對活躍用戶分群推出主題與布局選項）、6–12月擴展與AB測試整合。KPI範例：個性化設置採用率達15–25%；客服AI置換率20%；安全啟用率提升10%。12個月預估：不滿客服回應速度由>30%降至20–25%；安全性顧慮32%降至22–28%；希望更多交易狀態更新24%降至18–20%（因未直接優先交易追蹤，改善有限）。", "優先項目：擴充客服並導入AI即時客服、引入生物識別與行為分析（安全強化）、精細化交易追蹤與即時通知。資源分配：客服+AI 40%、安全技術 35%、交易追蹤 25%。執行節奏採MVP分階段（0–3月需求分析與PoC、3–6月小範圍Beta/MVP、6–12月擴大與整合）。具體KPI（示例）：AI自動解決率達30%，平均首次回應時間從48小時降至12小時；安全多因子/生物識別啟用率達20%。保守且可驗證的12個月預估：不滿客服回應速度（圖中>30%）降至18–22%；安全性顧慮（圖中32%）降至18–24%；希望更多交易狀態更新（圖中24%）降至10–14%。", "優先項目（以用戶參與與差異化為主）：提供更多界面自定義、持續反饋機制、差異化客群方案（不含大規模客服擴充或高成本安全技術）。資源分配：界面自定義 35%、反饋機制與數據分析 35%、差異化客群方案 30%。執行節奏：0–3月建立反饋管道與簡易個性化PoC、3–6月小範圍個性化Beta與優先客群試點、6–12月擴展並用反饋驅動迭代。KPI範例：反饋回覆率提升至10%，個性化功能採用率達20%。12個月預估影響：不滿客服回應速度（>30%）輕微下降至25–28%（因引入輕量自助與FAQ改進）；安全性顧慮32%降至28–30%（主要靠教育與政策透明度提升）；希望更多交易狀態更新24%降至20–22%（未投入專門交易追蹤開發，改善有限）。"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表4的資料，假設希望更詳細的狀態更新的百分比和希望即時通知功能的百分比在未來五年內，每年分別增加4%和2%。根據這些假設，五年後這兩者的總百分比可能是多少？", "answer": "A", "choice": ["62%", "65%", "68%", "58%"]}
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，台新銀行應優先改善平台安全性，因為平台安全性滿意度為最低（68%），且受訪者明確要求加強安全。", "answer": "是", "question_group": 1179}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，台新銀行應優先改善平台安全性，因為平台安全性滿意度為最低（68%），且受訪者明確要求加強安全。", "answer": "是", "question_group": 1179}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，台新銀行應優先改善客戶服務，因為客戶服務滿意度比平台安全性滿意度更低。", "answer": "否", "question_group": 1179}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，台新銀行應優先改善客戶服務，因為客戶服務滿意度比平台安全性滿意度更低。", "answer": "否", "question_group": 1179}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，賬戶管理的滿意度提高10%後的值是95%，而交易處理的滿意度降低5%後的值是71%，所以它們的新滿意度之和是166%。", "answer": "是", "question_group": 1180}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表1，賬戶管理的滿意度提高10%後的值是95%，而交易處理的滿意度降低5%後的值是71%，所以它們的新滿意度之和是166%。", "answer": "是", "question_group": 1180}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，賬戶管理的滿意度提高10%後的值是90%，而交易處理的滿意度降低5%後的值是70%，所以它們的新滿意度之和是160%。", "answer": "否", "question_group": 1180}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表1，賬戶管理的滿意度提高10%後的值是90%，而交易處理的滿意度降低5%後的值是70%，所以它們的新滿意度之和是160%。", "answer": "否", "question_group": 1180}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，優先導入並擴展AI客服系統能在短期內快速降低約30%受訪者對回應速度的抱怨。", "answer": "是", "question_group": 1181}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，優先導入並擴展AI客服系統能在短期內快速降低約30%受訪者對回應速度的抱怨。", "answer": "是", "question_group": 1181}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，集中優化現有流程與監控報表能在短期內快速提高整體客服滿意度至超過80%。", "answer": "否", "question_group": 1181}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，集中優化現有流程與監控報表能在短期內快速提高整體客服滿意度至超過80%。", "answer": "否", "question_group": 1181}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，25–34歲年輕專業人員/管理階層是最大年齡群，佔比37%，且行動端使用率約70%，因此鎖定此群體有助於在資源有限的情況下提升每週使用網路銀行≥3次的比例。", "answer": "是", "question_group": 1182}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，25–34歲年輕專業人員/管理階層是最大年齡群，佔比37%，且行動端使用率約70%，因此鎖定此群體有助於在資源有限的情況下提升每週使用網路銀行≥3次的比例。", "answer": "是", "question_group": 1182}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，企業主/自營業者佔樣本的25%，是最大年齡群，且優化高階商業帳務儀表板能在短期內有效提高每週使用網路銀行≥3次的比例。", "answer": "否", "question_group": 1182}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，企業主/自營業者佔樣本的25%，是最大年齡群，且優化高階商業帳務儀表板能在短期內有效提高每週使用網路銀行≥3次的比例。", "answer": "否", "question_group": 1182}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，A方案在300萬元預算中分配65%（195萬）用於行動快速交易和即時客服，而B方案分配35%（105萬）用於資安和系統穩定。", "answer": "是", "question_group": 1183}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，A方案在300萬元預算中分配65%（195萬）用於行動快速交易和即時客服，而B方案分配35%（105萬）用於資安和系統穩定。", "answer": "是", "question_group": 1183}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，B方案在300萬元預算中分配70%（210萬）用於資安和系統穩定，而A方案分配30%（90萬）用於行動快速交易和即時客服。", "answer": "否", "question_group": 1183}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，B方案在300萬元預算中分配70%（210萬）用於資安和系統穩定，而A方案分配30%（90萬）用於行動快速交易和即時客服。", "answer": "否", "question_group": 1183}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，網路銀行的安全性問題是主要信任風險來源，因為對安全措施的關切最高，約32%。", "answer": "是", "question_group": 1184}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，網路銀行的安全性問題是主要信任風險來源，因為對安全措施的關切最高，約32%。", "answer": "是", "question_group": 1184}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，界面滿意度問題是主要信任風險來源，因為界面滿意度低於50%。", "answer": "否", "question_group": 1184}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，界面滿意度問題是主要信任風險來源，因為界面滿意度低於50%。", "answer": "否", "question_group": 1184}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，移動端在作業系統更新後出現偶發閃退與卡頓，因此在6個月內先改善行動應用穩定性較能有效維持並提升整體滿意度與使用信任。", "answer": "是", "question_group": 1185}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，移動端在作業系統更新後出現偶發閃退與卡頓，因此在6個月內先改善行動應用穩定性較能有效維持並提升整體滿意度與使用信任。", "answer": "是", "question_group": 1185}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，年齡族群對介面理解的差異是造成80%使用者滿意度下降的主要原因，因此在6個月內應優先推動年長者友善模式。", "answer": "否", "question_group": 1185}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，年齡族群對介面理解的差異是造成80%使用者滿意度下降的主要原因，因此在6個月內應優先推動年長者友善模式。", "answer": "否", "question_group": 1185}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，引入更先進的人工智慧客服系統和加強客服人員專業與技術支援培訓能同時改善高峰期等待與回應速度以及降低複雜問題多次轉接情形。", "answer": "是", "question_group": 1186}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，引入更先進的人工智慧客服系統和加強客服人員專業與技術支援培訓能同時改善高峰期等待與回應速度以及降低複雜問題多次轉接情形。", "answer": "是", "question_group": 1186}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，增加客服人力和引入更先進的人工智慧客服系統能同時改善高峰期等待與回應速度以及降低複雜問題多次轉接情形。", "answer": "否", "question_group": 1186}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，增加客服人力和引入更先進的人工智慧客服系統能同時改善高峰期等待與回應速度以及降低複雜問題多次轉接情形。", "answer": "否", "question_group": 1186}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，改善客服響應與平台安全可以將整體滿意度提升約11個百分點，並將不滿者比例減半。", "answer": "是", "question_group": 1187}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，改善客服響應與平台安全可以將整體滿意度提升約11個百分點，並將不滿者比例減半。", "answer": "是", "question_group": 1187}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，強化賬戶管理可以將整體滿意度提升約11個百分點，並將不滿者比例減半。", "answer": "否", "question_group": 1187}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，強化賬戶管理可以將整體滿意度提升約11個百分點，並將不滿者比例減半。", "answer": "否", "question_group": 1187}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，台新銀行應優先解決網路銀行的安全性問題，因為安全性關切為主要信任風險來源，約占32%。", "answer": "是", "question_group": 1188}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，台新銀行應優先解決網路銀行的安全性問題，因為安全性關切為主要信任風險來源，約占32%。", "answer": "是", "question_group": 1188}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，台新銀行應優先解決界面設計問題，因為界面滿意度低，影響用戶信任。", "answer": "否", "question_group": 1188}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，台新銀行應優先解決界面設計問題，因為界面滿意度低，影響用戶信任。", "answer": "否", "question_group": 1188}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據附圖，移動端出現的穩定性問題會直接中斷使用並威脅現有80%滿意度，因此在6個月內先修復穩定性較能有效維持並提升整體滿意度與使用信任。", "answer": "是", "question_group": 1189}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，移動端出現的穩定性問題會直接中斷使用並威脅現有80%滿意度，因此在6個月內先修復穩定性較能有效維持並提升整體滿意度與使用信任。", "answer": "是", "question_group": 1189}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據附圖，年齡族群對介面理解的差異是6個月內對整體滿意度與使用信任提升的最主要因素。", "answer": "否", "question_group": 1189}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，年齡族群對介面理解的差異是6個月內對整體滿意度與使用信任提升的最主要因素。", "answer": "否", "question_group": 1189}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，短期內選擇方案A提升客服效率與品質，可望在數週至3個月見到平均回應時間下降30–50%。", "answer": "是", "question_group": 1190}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，短期內選擇方案A提升客服效率與品質，可望在數週至3個月見到平均回應時間下降30–50%。", "answer": "是", "question_group": 1190}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，短期內選擇方案B強化網銀安全，將在數週內顯著提升用戶滿意度。", "answer": "否", "question_group": 1190}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，短期內選擇方案B強化網銀安全，將在數週內顯著提升用戶滿意度。", "answer": "否", "question_group": 1190}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，選擇方案C同時小幅改善平台安全和客服，預計在3個月內能夠將整體滿意度從78%提升至≥80%。", "answer": "是", "question_group": 1191}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，選擇方案C同時小幅改善平台安全和客服，預計在3個月內能夠將整體滿意度從78%提升至≥80%。", "answer": "是", "question_group": 1191}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，選擇方案A主要投入客服，預計在3個月內能夠將平台安全從68%提升至74%。", "answer": "否", "question_group": 1191}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，選擇方案A主要投入客服，預計在3個月內能夠將平台安全從68%提升至74%。", "answer": "否", "question_group": 1191}
 

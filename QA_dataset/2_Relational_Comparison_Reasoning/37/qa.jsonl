@@ -13,19 +13,19 @@
 {"category": "MCQ", "question_type": "Difference Calculation", "question": "根據提供的圖片，最右邊的審核階段其不通過件數相較於其他階段多出多少？", "answer": "C", "choice": ["4", "5", "1", "1.5"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據圖1的資料，以下哪一個審核階段的不通過件數最少？", "answer": "D", "choice": ["審核階段 2 的不通過件數明顯多於階段 1", "審核階段 4 的不通過件數比階段 1 多，但也比階段 2 少", "審核階段 3 的不通過件數跟階段 1 相近，但略高於階段 1", "審核階段 1 的不通過件數最少"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據表8的資料，聯徵通報人數與信用評分受影響人數的比較中，聯徵通報人數多出了多少百分比？", "answer": "B", "choice": ["18.50%", "11.11%", "10.75%", "14.00%"]}
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖片，最右邊的審核階段其不通過件數比其他階段多出1件。", "answer": "是", "question_group": 400}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖1，最右邊的審核階段其不通過件數比其他階段多出1件。", "answer": "是", "question_group": 400}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖片，最右邊的審核階段其不通過件數比其他階段少1件。", "answer": "否", "question_group": 400}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖1，最右邊的審核階段其不通過件數比其他階段少1件。", "answer": "否", "question_group": 400}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，營利事業登記證和其他合法收入證明的百分比為最低，均為0.3%。", "answer": "是", "question_group": 401}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，營利事業登記證和其他合法收入證明的百分比為最低，均為0.3%。", "answer": "是", "question_group": 401}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，薪資單的百分比是所有類別中最低的，為68%。", "answer": "否", "question_group": 401}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，薪資單的百分比是所有類別中最低的，為68%。", "answer": "否", "question_group": 401}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的申訴及諮詢案件總數比消費爭議案件總數多出11900宗。", "answer": "是", "question_group": 402}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，2023年的申訴及諮詢案件總數比消費爭議案件總數多出11900宗。", "answer": "是", "question_group": 402}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的申訴及諮詢案件總數比消費爭議案件總數多出15000宗。", "answer": "否", "question_group": 402}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，2023年的申訴及諮詢案件總數比消費爭議案件總數多出15000宗。", "answer": "否", "question_group": 402}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，線上申請因聯絡資料不全需補件比例較高。", "answer": "是", "question_group": 403}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，線上申請因聯絡資料不全需補件比例較高。", "answer": "是", "question_group": 403}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，文件不全或資料錯誤延誤/退件比例較高。", "answer": "否", "question_group": 403}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，文件不全或資料錯誤延誤/退件比例較高。", "answer": "否", "question_group": 403}
 

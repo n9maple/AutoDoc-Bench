@@ -37,43 +37,43 @@
 {"category": "Open", "question_type": "Creative Scenario", "question": "根據圖片中多元服務管道的示意，若因技術故障導致中華郵政官方網站、APP與客服系統同時停擺，以下哪項描述最能反映此情境下客戶面臨的挑戰及中華郵政應對策略？", "answer": "客戶無法即時線上查詢與諮詢，不同客群需親訪郵局，增加等待時間與交通負擔；中華郵政應提升櫃台服務量並延長營業時間，增派專人，強化免付費客服電話，並透過簡訊及社群媒體多管道即時傳遞資訊以維持服務品質。"}
 {"category": "MCQ", "question_type": "Creative Scenario", "question": "根據圖片中多元服務管道的示意，若因技術故障導致中華郵政官方網站、APP與客服系統同時停擺，以下哪項描述最能反映此情境下客戶面臨的挑戰及中華郵政應對策略？", "answer": "C", "choice": ["客服電話因系統故障無法接聽，客戶僅能透過郵局現場櫃檯尋求協助，導致查詢途徑大幅縮減且等待時間延長。", "系統停擺時，客戶無法使用網站、APP和客服系統，且缺乏有效替代數位查詢工具，郵政需即時通知客戶使用實體郵局及電話服務，並加強櫃檯服務人力以應對激增需求。", "客戶無法即時線上查詢與諮詢，不同客群需親訪郵局，增加等待時間與交通負擔；中華郵政應提升櫃台服務量並延長營業時間，增派專人，強化免付費客服電話，並透過簡訊及社群媒體多管道即時傳遞資訊以維持服務品質。", "在系統全面停擺期間，中華郵政應強化多樣化服務管道，包括延長郵局營業時間、增派櫃台及客服人員，並利用電話及簡訊通知客戶最新利率，以維持服務連續性並降低客戶不便。"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表3的資料，在市場最高利率條件下，若你依次進行三個月、一年和三年的定期儲蓄存款，每次連本帶利轉存，最後累積的總金額最接近以下哪個數字？", "answer": "C", "choice": ["104.15", "99.50", "106.37", "108.25"]}
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據圖片，利用中華郵政官方網站和行動郵局APP，可以查詢新臺幣與美元定期存款的即時利率變動，並通過行動郵局APP內建的24小時即時文字客服獲得全天候專業協助。", "answer": "是", "question_group": 1394}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，利用中華郵政官方網站和行動郵局APP，可以查詢新臺幣與美元定期存款的即時利率變動，並通過行動郵局APP內建的24小時即時文字客服獲得全天候專業協助。", "answer": "是", "question_group": 1394}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據圖片，僅使用中華郵政官方網站足以查詢新臺幣與美元定期存款的即時利率變動，並獲得全天候專業客服協助。", "answer": "否", "question_group": 1394}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，僅使用中華郵政官方網站足以查詢新臺幣與美元定期存款的即時利率變動，並獲得全天候專業客服協助。", "answer": "否", "question_group": 1394}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，該存款於113年6月29日至6月30日以1.40%計息，續存日起適用新公告利率1.45%。", "answer": "是", "question_group": 1395}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，該存款於113年6月29日至6月30日以1.40%計息，續存日起適用新公告利率1.45%。", "answer": "是", "question_group": 1395}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，該存款於113年6月29日至6月30日以1.40%計息，續存日起仍適用原來的1.40%利率。", "answer": "否", "question_group": 1395}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，該存款於113年6月29日至6月30日以1.40%計息，續存日起仍適用原來的1.40%利率。", "answer": "否", "question_group": 1395}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據圖片，A儲戶於113年6月15日開立的定期存款利息仍依原約定利率計算，且不受113年7月1日的新利率影響。", "answer": "是", "question_group": 1396}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，A儲戶於113年6月15日開立的定期存款利息仍依原約定利率計算，且不受113年7月1日的新利率影響。", "answer": "是", "question_group": 1396}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據圖片，B儲戶於113年7月5日開立的新定期存款將適用113年6月15日的舊利率。", "answer": "否", "question_group": 1396}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，B儲戶於113年7月5日開立的新定期存款將適用113年6月15日的舊利率。", "answer": "否", "question_group": 1396}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，若於民國113年6月15日開立的六個月期定期存款，因於113年6月30日（含）前開立，利息至到期日113年12月15日皆依舊利率計算。", "answer": "是", "question_group": 1397}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，若於民國113年6月15日開立的六個月期定期存款，因於113年6月30日（含）前開立，利息至到期日113年12月15日皆依舊利率計算。", "answer": "是", "question_group": 1397}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，若於民國113年6月15日開立的六個月期定期存款，其利息從113年7月1日利率調整生效後即按新利率1.25%計算。", "answer": "否", "question_group": 1397}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，若於民國113年6月15日開立的六個月期定期存款，其利息從113年7月1日利率調整生效後即按新利率1.25%計算。", "answer": "否", "question_group": 1397}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，行動郵局APP可全天候提供最新利率查詢及即時文字客服，較適合深夜使用。", "answer": "是", "question_group": 1398}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，行動郵局APP可全天候提供最新利率查詢及即時文字客服，較適合深夜使用。", "answer": "是", "question_group": 1398}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，客服專線可在深夜23:00即時接聽並提供最新利率查詢及諮詢。", "answer": "否", "question_group": 1398}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，客服專線可在深夜23:00即時接聽並提供最新利率查詢及諮詢。", "answer": "否", "question_group": 1398}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，將資金適度分散於活期存款及不同存期之定期存款，並分散於多個帳戶以避免單一帳戶超過中央存款保險最高保障新臺幣三百萬元，最能兼顧利率收益、資金流動性及中央存款保險保障。", "answer": "是", "question_group": 1399}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，將資金適度分散於活期存款及不同存期之定期存款，並分散於多個帳戶以避免單一帳戶超過中央存款保險最高保障新臺幣三百萬元，最能兼顧利率收益、資金流動性及中央存款保險保障。", "answer": "是", "question_group": 1399}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，將所有資金集中於一個帳戶的三年期定期存款，最能兼顧利率收益、資金流動性及中央存款保險保障。", "answer": "否", "question_group": 1399}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，將所有資金集中於一個帳戶的三年期定期存款，最能兼顧利率收益、資金流動性及中央存款保險保障。", "answer": "否", "question_group": 1399}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，新臺幣三年期定期存款利率是固定的，並享有300萬元中央存款保險保障。", "answer": "是", "question_group": 1400}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，新臺幣三年期定期存款利率是固定的，並享有300萬元中央存款保險保障。", "answer": "是", "question_group": 1400}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，美元一年期定期存款利率固定且不受匯率風險影響。", "answer": "否", "question_group": 1400}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，美元一年期定期存款利率固定且不受匯率風險影響。", "answer": "否", "question_group": 1400}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，將資金分配為活期存款50萬元（0.19%利率）、一年期定期存款100萬元（1.45%利率）以及三年期定期存款150萬元（1.60%利率），此配置有效利用利率階梯提升報酬，同時分散流動性風險。", "answer": "是", "question_group": 1401}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，將資金分配為活期存款50萬元（0.19%利率）、一年期定期存款100萬元（1.45%利率）以及三年期定期存款150萬元（1.60%利率），此配置有效利用利率階梯提升報酬，同時分散流動性風險。", "answer": "是", "question_group": 1401}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，將全部資金存入活期存款以獲得最高利率並維持最佳流動性是一個理想的資金配置方案。", "answer": "否", "question_group": 1401}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，將全部資金存入活期存款以獲得最高利率並維持最佳流動性是一個理想的資金配置方案。", "answer": "否", "question_group": 1401}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據圖片，儲戶B於利率調整日後開戶，直接適用較高的新利率1.45%，因此儲戶B可能獲得較高收益。", "answer": "是", "question_group": 1402}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，儲戶B於利率調整日後開戶，直接適用較高的新利率1.45%，因此儲戶B可能獲得較高收益。", "answer": "是", "question_group": 1402}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據圖片，儲戶A於利率調整日之前已存款，並且儲戶A的利率自動調整為更高的新利率1.45%。", "answer": "否", "question_group": 1402}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，儲戶A於利率調整日之前已存款，並且儲戶A的利率自動調整為更高的新利率1.45%。", "answer": "否", "question_group": 1402}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，若中央銀行實施降息，適度調低活期與定期存款利率可以控制資金成本並維持市場競爭力。", "answer": "是", "question_group": 1403}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，若中央銀行實施降息，適度調低活期與定期存款利率可以控制資金成本並維持市場競爭力。", "answer": "是", "question_group": 1403}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，若中央銀行實施降息，維持不變的活期與定期存款利率可以有效控制資金成本並吸引更多儲戶。", "answer": "否", "question_group": 1403}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，若中央銀行實施降息，維持不變的活期與定期存款利率可以有效控制資金成本並吸引更多儲戶。", "answer": "否", "question_group": 1403}
 

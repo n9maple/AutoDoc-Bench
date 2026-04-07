@@ -2,7 +2,7 @@
 {"category": "Open", "question_type": "Temporal Reasoning", "question": "如果每個服務的整體滿意度每年增加5個百分點，三年後行動銀行應用程式的整體滿意度會是多少？", "answer": "85%"}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖所示，若將公司職員和自營業者或自由職業者的比例加總，最接近的結果是多少？", "answer": "C", "choice": ["50%", "65%", "55%", "58%"]}
 {"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據以下情境，如果每年行動銀行應用程式的整體滿意度增加5個百分點，請選擇三年後的整體滿意度，假設目前滿意度為70%。", "answer": "C", "choice": ["80%", "78%", "85%", "82%"]}
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，將公司職員的比例40%與自營業者或自由職業者的比例15%相加，結果為55%。", "answer": "是", "question_group": 1089}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，將公司職員的比例40%與自營業者或自由職業者的比例15%相加，結果為55%。", "answer": "是", "question_group": 1089}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，將公司職員的比例40%與自營業者或自由職業者的比例15%相加，結果為50%。", "answer": "否", "question_group": 1089}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，將公司職員的比例40%與自營業者或自由職業者的比例15%相加，結果為50%。", "answer": "否", "question_group": 1089}
 

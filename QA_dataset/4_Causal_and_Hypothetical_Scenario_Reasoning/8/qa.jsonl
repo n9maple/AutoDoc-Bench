@@ -2,7 +2,7 @@
 {"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果將台指期貨和小型台指期貨的成交量加總，然後減去電子期貨的成交量，結果是多少？", "answer": "7000"}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "如果金融期貨的年增長率提高至電子期貨的水平，您認為其下一年的成交量將比目前多多少萬口？", "answer": "C", "choice": ["280", "390", "340", "520"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據圖示中顯示的交易數據，如果將台指期貨和小型台指期貨的成交量加總後，減去電子期貨的成交量，您認為得到的結果是多少？", "answer": "C", "choice": ["6800", "7200", "7000", "7500"]}
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，將台指期貨和小型台指期貨的成交量加總後，再減去電子期貨的成交量，結果是7000。", "answer": "是", "question_group": 1230}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表2，將台指期貨和小型台指期貨的成交量加總後，再減去電子期貨的成交量，結果是7000。", "answer": "是", "question_group": 1230}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，台指期貨、小型台指期貨和電子期貨的成交量加總後的結果是7000。", "answer": "否", "question_group": 1230}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表2，台指期貨、小型台指期貨和電子期貨的成交量加總後的結果是7000。", "answer": "否", "question_group": 1230}
 

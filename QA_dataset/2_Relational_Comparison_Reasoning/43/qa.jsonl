@@ -24,27 +24,27 @@
 {"category": "Open", "question_type": "Difference Calculation", "question": "根據圖1中的數據，2022年和2023年的農業產值差異是多少？", "answer": "2023年的農業產值減去2022年的農業產值的差異為Z"}
 {"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖2，以下哪一項描述了2022年與2023年數值之間的差異？", "answer": "D", "choice": ["返鄉青年人數差異為-5000", "農戶總數差異為+5000", "返鄉青年人數差異為0", "農戶總數差異為-5000"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據圖4，以下哪一年合庫銀行的農業貸款不良率較低？", "answer": "D", "choice": ["2022年", "2024年", "2026年", "2025年"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年啟動紓困戶數低於受惠農戶數的20%。", "answer": "是", "question_group": 433}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表7，2023年啟動紓困戶數低於受惠農戶數的20%。", "answer": "是", "question_group": 433}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年啟動紓困戶數高於受惠農戶數的20%。", "answer": "否", "question_group": 433}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表7，2023年啟動紓困戶數高於受惠農戶數的20%。", "answer": "否", "question_group": 433}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2025 年的智慧及綠色農業貸款佔比相比 2024 年增加了 5 個百分點。", "answer": "是", "question_group": 434}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表8，2025 年的智慧及綠色農業貸款佔比相比 2024 年增加了 5 個百分點。", "answer": "是", "question_group": 434}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2025 年的智慧及綠色農業貸款佔比相比 2024 年增加了 3 個百分點。", "answer": "否", "question_group": 434}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表8，2025 年的智慧及綠色農業貸款佔比相比 2024 年增加了 3 個百分點。", "answer": "否", "question_group": 434}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的農業金融服務覆蓋率比2022年高出5個百分點。", "answer": "是", "question_group": 435}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，2023年的農業金融服務覆蓋率比2022年高出5個百分點。", "answer": "是", "question_group": 435}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的農業金融服務覆蓋率比2022年高出10個百分點。", "answer": "否", "question_group": 435}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，2023年的農業金融服務覆蓋率比2022年高出10個百分點。", "answer": "否", "question_group": 435}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，2023年農業貸款申請管道中，'其他'的申請佔比最低，為2.0%。", "answer": "是", "question_group": 436}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖3，2023年農業貸款申請管道中，'其他'的申請佔比最低，為2.0%。", "answer": "是", "question_group": 436}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，2023年農業貸款申請管道中，'線上申貸平台'的申請佔比最低。", "answer": "否", "question_group": 436}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖3，2023年農業貸款申請管道中，'線上申貸平台'的申請佔比最低。", "answer": "否", "question_group": 436}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的智慧農業年增率高於2022年。", "answer": "是", "question_group": 437}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，2023年的智慧農業年增率高於2022年。", "answer": "是", "question_group": 437}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的智慧農業年增率低於2022年。", "answer": "否", "question_group": 437}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，2023年的智慧農業年增率低於2022年。", "answer": "否", "question_group": 437}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據圖表，無法確定2023年12月和2024年12月的滿意度哪一個更高。", "answer": "是", "question_group": 438}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖8，無法確定2023年12月和2024年12月的滿意度哪一個更高。", "answer": "是", "question_group": 438}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據圖表，2024年12月的滿意度顯著高於2023年12月。", "answer": "否", "question_group": 438}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖8，2024年12月的滿意度顯著高於2023年12月。", "answer": "否", "question_group": 438}
 

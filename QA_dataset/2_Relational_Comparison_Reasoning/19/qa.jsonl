@@ -2,7 +2,7 @@
 {"category": "MCQ", "question_type": "Comparison", "question": "根據圖片的數據，每個季度的壓力測試次數是否保持一致？如果是，具體次數為多少？", "answer": "C", "choice": ["每個季度的壓力測試次數不一致，具體為2次、2次、1次和3次。", "每個季度的壓力測試次數不一致，第一季度是1次，第二季度是3次，第三季度是2次。", "每個季度的壓力測試次數保持一致，具體是1次。", "每個季度的壓力測試次數保持一致，具體是2次。"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，2022年的固定收益資產佔比相較於2023年和2024年的平均值，情況為何？", "answer": "C", "choice": ["2022年的固定收益資產佔比低於2023年但高於2024年的平均值。", "2022年的固定收益資產佔比明顯低於2023年的平均值，接近2024年的水平。", "2022年的固定收益資產佔比高於2023年和2024年的平均值。", "2022年的固定收益資產佔比僅稍微高於2023年和2024年的平均值。"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據表4的資料，如果2023年已實施利率風險管理框架的銀行比例超過90%，那麼某銀行的資本充足率12%是否低於2023年的平均資本充足率？", "answer": "B", "choice": ["不，12%並不算特別低，許多銀行也經常面臨相似的資本充足率。", "是的，某銀行的資本充足率低於13%這一平均值。", "是的，某銀行的資本充足率雖然高於某些銀行，但仍然低於2023年的平均水準。", "不，根據行業標準，12%通常被認為是正常的資本充足率。"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，每個季度的壓力測試次數保持一致，具體是1次。", "answer": "是", "question_group": 328}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，每個季度的壓力測試次數保持一致，具體是1次。", "answer": "是", "question_group": 328}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，每個季度的壓力測試次數不保持一致，且有一個季度進行了3次測試。", "answer": "否", "question_group": 328}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，每個季度的壓力測試次數不保持一致，且有一個季度進行了3次測試。", "answer": "否", "question_group": 328}
 

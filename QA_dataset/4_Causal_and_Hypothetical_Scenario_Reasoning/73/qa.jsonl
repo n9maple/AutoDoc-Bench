@@ -45,47 +45,47 @@
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表1的資料，如果一個人在2024年7月1日以前購買人民幣價格的商品5次，然後在2024年7月1日以後購買澳幣價格的商品2次，總共需要使用多少新臺幣？", "answer": "A", "choice": ["新臺幣960元", "新臺幣900元", "新臺幣1100元", "新臺幣750元"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表3的資料，若某人以人民幣、港幣和澳幣各進行一次交易，總共需要支付的調整前和調整後手續費的差額為多少？以下哪個選項是正確的？", "answer": "D", "choice": ["175", "160", "250", "180"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表4的資料，如果在2024年6月30日前，你購買100美元和120人民幣，而在2024年7月1日之後，再購買150歐元，總共需要多少元？以下哪一個選項為正確答案？", "answer": "A", "choice": ["370元", "360元", "390元", "400元"]}
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，情境B的手續費為230元，比情境A的手續費200元高。", "answer": "是", "question_group": 1450}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，情境B的手續費為230元，比情境A的手續費200元高。", "answer": "是", "question_group": 1450}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，情境A的手續費為250元，比情境B的手續費230元高。", "answer": "否", "question_group": 1450}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，情境A的手續費為250元，比情境B的手續費230元高。", "answer": "否", "question_group": 1450}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，將LINE和Email的使用數量交換後，分行現場的使用數量仍然是最高的。", "answer": "是", "question_group": 1451}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表5，將LINE和Email的使用數量交換後，分行現場的使用數量仍然是最高的。", "answer": "是", "question_group": 1451}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，將LINE和Email的使用數量交換後，LINE的使用數量會是最高的。", "answer": "否", "question_group": 1451}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表5，將LINE和Email的使用數量交換後，LINE的使用數量會是最高的。", "answer": "否", "question_group": 1451}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據圖片，急需即時解答的客戶宜利用24小時客服專線、官方LINE及Facebook等即時通訊管道，回應快速但適用於簡易諮詢。", "answer": "是", "question_group": 1452}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，急需即時解答的客戶宜利用24小時客服專線、官方LINE及Facebook等即時通訊管道，回應快速但適用於簡易諮詢。", "answer": "是", "question_group": 1452}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據圖片，複雜申訴的客戶宜利用24小時客服專線、官方LINE及Facebook等即時通訊管道，適合深入審核與持續改善。", "answer": "否", "question_group": 1452}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，複雜申訴的客戶宜利用24小時客服專線、官方LINE及Facebook等即時通訊管道，適合深入審核與持續改善。", "answer": "否", "question_group": 1452}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據圖片，彰銀24小時客服專線及官方LINE與Facebook即時通訊管道能提供最快的即時回覆服務。", "answer": "是", "question_group": 1453}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，彰銀24小時客服專線及官方LINE與Facebook即時通訊管道能提供最快的即時回覆服務。", "answer": "是", "question_group": 1453}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據圖片，線上諮詢表單提供的回覆速度最快，適合急需即時回覆的需求。", "answer": "否", "question_group": 1453}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，線上諮詢表單提供的回覆速度最快，適合急需即時回覆的需求。", "answer": "否", "question_group": 1453}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，金額為15萬元時，應付費用總額為新臺幣150元。", "answer": "是", "question_group": 1454}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表2，金額為15萬元時，應付費用總額為新臺幣150元。", "answer": "是", "question_group": 1454}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，金額為15萬元時，應付費用總額為新臺幣175元。", "answer": "否", "question_group": 1454}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表2，金額為15萬元時，應付費用總額為新臺幣175元。", "answer": "否", "question_group": 1454}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，若客戶當日臨櫃急需大量瑞士法郎現鈔但未提前3個工作天預約，且銀行無此幣別現鈔存貨，客戶可選擇分次兌換或以較常備的美元或歐元現鈔替代。", "answer": "是", "question_group": 1455}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，若客戶當日臨櫃急需大量瑞士法郎現鈔但未提前3個工作天預約，且銀行無此幣別現鈔存貨，客戶可選擇分次兌換或以較常備的美元或歐元現鈔替代。", "answer": "是", "question_group": 1455}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，若客戶當日臨櫃急需大量瑞士法郎現鈔但未提前3個工作天預約，客戶只能等待銀行補足現鈔存貨，無其他替代方案。", "answer": "否", "question_group": 1455}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，若客戶當日臨櫃急需大量瑞士法郎現鈔但未提前3個工作天預約，客戶只能等待銀行補足現鈔存貨，無其他替代方案。", "answer": "否", "question_group": 1455}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，若VIP貴賓客戶於同一交易日分別兌換等值新臺幣15萬元的歐元現鈔與12萬元的港幣現鈔，計算得手續費為330元，VIP享8折優惠後實付264元。", "answer": "是", "question_group": 1456}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，若VIP貴賓客戶於同一交易日分別兌換等值新臺幣15萬元的歐元現鈔與12萬元的港幣現鈔，計算得手續費為330元，VIP享8折優惠後實付264元。", "answer": "是", "question_group": 1456}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，若VIP貴賓客戶於同一交易日分別兌換等值新臺幣15萬元的歐元現鈔與12萬元的港幣現鈔，計算得手續費為400元，VIP享8折優惠後實付320元。", "answer": "否", "question_group": 1456}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，若VIP貴賓客戶於同一交易日分別兌換等值新臺幣15萬元的歐元現鈔與12萬元的港幣現鈔，計算得手續費為400元，VIP享8折優惠後實付320元。", "answer": "否", "question_group": 1456}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，若一位客戶兌換等值新臺幣35萬元歐元現鈔，該筆兌換的總手續費為250元；VIP貴賓可享有手續費減免，降低總成本低於250元。", "answer": "是", "question_group": 1457}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，若一位客戶兌換等值新臺幣35萬元歐元現鈔，該筆兌換的總手續費為250元；VIP貴賓可享有手續費減免，降低總成本低於250元。", "answer": "是", "question_group": 1457}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，若一位客戶兌換等值新臺幣35萬元歐元現鈔，該筆兌換的總手續費為300元，且VIP貴賓無法享有任何手續費減免。", "answer": "否", "question_group": 1457}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，若一位客戶兌換等值新臺幣35萬元歐元現鈔，該筆兌換的總手續費為300元，且VIP貴賓無法享有任何手續費減免。", "answer": "否", "question_group": 1457}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，美元和日圓的調整前手續費差額加上英鎊的調整後手續費，總共是180。", "answer": "是", "question_group": 1458}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，美元和日圓的調整前手續費差額加上英鎊的調整後手續費，總共是180。", "answer": "是", "question_group": 1458}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，美元和日圓的調整前手續費差額加上英鎊的調整後手續費，總共是200。", "answer": "否", "question_group": 1458}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，美元和日圓的調整前手續費差額加上英鎊的調整後手續費，總共是200。", "answer": "否", "question_group": 1458}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，乙客戶提前網路預約可確保現鈔庫存並享有手續費減免，且須按時領取以免預約失效。", "answer": "是", "question_group": 1459}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，乙客戶提前網路預約可確保現鈔庫存並享有手續費減免，且須按時領取以免預約失效。", "answer": "是", "question_group": 1459}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，甲客戶即使未提前預約也能確保現鈔庫存並享有手續費減免。", "answer": "否", "question_group": 1459}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，甲客戶即使未提前預約也能確保現鈔庫存並享有手續費減免。", "answer": "否", "question_group": 1459}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，一名持有身心障礙手冊且尚未使用當年度三次全免優惠的學生，在暑期旅遊旺季期間透過行動銀行APP預約兌換原手續費150元的外幣現鈔，其手續費全額免除，因為身心障礙者每年有三次全免優惠，且需主動出示手冊並完成申請流程。", "answer": "是", "question_group": 1460}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，一名持有身心障礙手冊且尚未使用當年度三次全免優惠的學生，在暑期旅遊旺季期間透過行動銀行APP預約兌換原手續費150元的外幣現鈔，其手續費全額免除，因為身心障礙者每年有三次全免優惠，且需主動出示手冊並完成申請流程。", "answer": "是", "question_group": 1460}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，一名持有身心障礙手冊的學生在旺季期間透過APP預約兌換外幣現鈔時，只能獲得30元的手續費減免，因為APP預約減免優先於其他優惠。", "answer": "否", "question_group": 1460}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，一名持有身心障礙手冊的學生在旺季期間透過APP預約兌換外幣現鈔時，只能獲得30元的手續費減免，因為APP預約減免優先於其他優惠。", "answer": "否", "question_group": 1460}
 

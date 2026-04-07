@@ -6,11 +6,11 @@
 {"category": "Open", "question_type": "Aggregation", "question": "根據表2的資料，將簡化文件提交要求和推進電子化和自動化的受訪者建議比例加總，並計算這兩項建議所占的總百分比。", "answer": "36%"}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據表2的資料，以下哪些選項顯示了受訪者對簡化文件提交要求和推進電子化及自動化的建議比例？請選擇總百分比為36%的選項。", "answer": "C", "choice": ["32%", "40%", "36%", "36.5%"]}
 {"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表2顯示的未來每年受訪者建議比例的增長趨勢為2%，那麼在五年後，推進電子化和自動化的建議比例將會是多少？以下哪個選項是正確的？", "answer": "A", "choice": ["19.88%", "21.80%", "20.00%", "19.00%"]}
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2023年到2024年，跨部門溝通效率提升了30個百分點。", "answer": "是", "question_group": 1093}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表5，從2023年到2024年，跨部門溝通效率提升了30個百分點。", "answer": "是", "question_group": 1093}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2023年到2024年，跨部門溝通效率提升了15個百分點。", "answer": "否", "question_group": 1093}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表5，從2023年到2024年，跨部門溝通效率提升了15個百分點。", "answer": "否", "question_group": 1093}
 
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，2022年至2023年偏遠地區的滿意度增長了10個百分點。", "answer": "是", "question_group": 1094}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖5，2022年至2023年偏遠地區的滿意度增長了10個百分點。", "answer": "是", "question_group": 1094}
 
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，2022年至2023年偏遠地區的滿意度增長了5個百分點。", "answer": "否", "question_group": 1094}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖5，2022年至2023年偏遠地區的滿意度增長了5個百分點。", "answer": "否", "question_group": 1094}
 

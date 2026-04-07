@@ -25,31 +25,31 @@
 {"category": "MCQ", "question_type": "Ranking", "question": "根據2023年股票下單類型，以下哪一類型的下單數量排名第二？", "answer": "C", "choice": ["確認單", "限價單", "市價單", "止損單"]}
 {"category": "MCQ", "question_type": "Ranking", "question": "根據以下現金進出數據，哪位用戶的現金進出總額最高？（請參考圖片中的用戶數據）", "answer": "C", "choice": ["用戶ID B", "用戶ID F", "用戶ID A", "用戶ID G"]}
 {"category": "Open", "question_type": "Difference Calculation", "question": "在圖1中，驗證方式的未授權登入機率差異最大的是哪兩種方式？", "answer": "驗證方式 1.0% 和 驗證方式 0.01%"}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，因弱密碼造成的安全事件占比比因重複密碼造成的安全事件占比高出11%。", "answer": "是", "question_group": 474}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，因弱密碼造成的安全事件占比比因重複密碼造成的安全事件占比高出11%。", "answer": "是", "question_group": 474}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，因弱密碼造成的安全事件占比比因重複密碼造成的安全事件占比高出5%。", "answer": "否", "question_group": 474}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，因弱密碼造成的安全事件占比比因重複密碼造成的安全事件占比高出5%。", "answer": "否", "question_group": 474}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，問題類型的詢問佔比第二高的數值是17。", "answer": "是", "question_group": 475}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖7，問題類型的詢問佔比第二高的數值是17。", "answer": "是", "question_group": 475}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，問題類型的詢問佔比第二高的數值是14。", "answer": "否", "question_group": 475}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖7，問題類型的詢問佔比第二高的數值是14。", "answer": "否", "question_group": 475}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，佔比最高的問題類型與最低的問題類型之間的差距是 22。", "answer": "是", "question_group": 476}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖7，佔比最高的問題類型與最低的問題類型之間的差距是 22。", "answer": "是", "question_group": 476}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，佔比最高的問題類型與最低的問題類型之間的差距是 10。", "answer": "否", "question_group": 476}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖7，佔比最高的問題類型與最低的問題類型之間的差距是 10。", "answer": "否", "question_group": 476}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，即時訊息功能在2023年到2024年Q1的滿意度增幅最大，為4。", "answer": "是", "question_group": 477}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，即時訊息功能在2023年到2024年Q1的滿意度增幅最大，為4。", "answer": "是", "question_group": 477}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，功能分區明確在2023年到2024年Q1的滿意度增幅最大，為4。", "answer": "否", "question_group": 477}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，功能分區明確在2023年到2024年Q1的滿意度增幅最大，為4。", "answer": "否", "question_group": 477}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據下圖，最高瀏覽量和最低瀏覽量的差距是115000。", "answer": "是", "question_group": 478}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖8，最高瀏覽量和最低瀏覽量的差距是115000。", "answer": "是", "question_group": 478}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據下圖，最高瀏覽量和最低瀏覽量的差距是85000。", "answer": "否", "question_group": 478}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖8，最高瀏覽量和最低瀏覽量的差距是85000。", "answer": "否", "question_group": 478}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據圖片所示，驗證方式 1.0 的未授權登入機率是最高的。", "answer": "是", "question_group": 479}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，驗證方式 1.0 的未授權登入機率是最高的。", "answer": "是", "question_group": 479}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據圖片所示，驗證方式 0.01 的未授權登入機率是最高的。", "answer": "否", "question_group": 479}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，驗證方式 0.01 的未授權登入機率是最高的。", "answer": "否", "question_group": 479}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2024年1月的資安問題數量比2024年3月多20。", "answer": "是", "question_group": 480}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，2024年1月的資安問題數量比2024年3月多20。", "answer": "是", "question_group": 480}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2024年3月的資安問題數量比2024年1月多20。", "answer": "否", "question_group": 480}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，2024年3月的資安問題數量比2024年1月多20。", "answer": "否", "question_group": 480}
 

@@ -10,15 +10,15 @@
 {"category": "MCQ", "question_type": "Temporal Trend", "question": "根據以下圖表，期貨市場從上月至本月的總成交量變化情況是？", "answer": "C", "choice": ["成交量在上月略微增加，本月持平", "本月成交量高於上月，但增幅不夠明顯", "總成交量增加了", "上月成交量稍微上升，本月成交量出現大幅減少"]}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據表6，假設每個期貨的增長率在其指定區間的上限。如果某投資者將資金平均分配在三種期貨中，該投資組合的總增長率可能為哪個選項？", "answer": "B", "choice": ["13.5%", "13.33%", "12.5%", "14.5%"]}
 {"category": "MCQ", "question_type": "Temporal Reasoning", "question": "假設表5中的黃金期貨和石油期貨的調整後保證金比例在未來三年內每年增加1.5%，那麼三年後它們的保證金比例將是以下哪一組？", "answer": "A", "choice": ["黃金期貨約為34.67%，石油期貨約為42.79%", "黃金期貨約為32.50%，石油期貨約為40.50%", "黃金期貨約為35.00%，石油期貨約為42.50%", "黃金期貨約為34.00%，石油期貨約為42.10%"]}
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，黃金期貨和石油期貨的調整後保證金比例總和是67%。", "answer": "是", "question_group": 867}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表5，黃金期貨和石油期貨的調整後保證金比例總和是67%。", "answer": "是", "question_group": 867}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，黃金期貨和石油期貨的調整後保證金比例總和是60%。", "answer": "否", "question_group": 867}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表5，黃金期貨和石油期貨的調整後保證金比例總和是60%。", "answer": "否", "question_group": 867}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，匯率期貨和石油期貨的未平倉合約數量總和是70萬口。", "answer": "是", "question_group": 868}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，匯率期貨和石油期貨的未平倉合約數量總和是70萬口。", "answer": "是", "question_group": 868}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，匯率期貨和石油期貨的未平倉合約數量總和是60萬口。", "answer": "否", "question_group": 868}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，匯率期貨和石油期貨的未平倉合約數量總和是60萬口。", "answer": "否", "question_group": 868}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，匯率期貨和利率期貨的上月平均持倉時間與本月平均持倉時間的總和分別是10日。", "answer": "是", "question_group": 869}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，匯率期貨和利率期貨的上月平均持倉時間與本月平均持倉時間的總和分別是10日。", "answer": "是", "question_group": 869}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，匯率期貨和利率期貨的上月平均持倉時間與本月平均持倉時間的總和分別是12日。", "answer": "否", "question_group": 869}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，匯率期貨和利率期貨的上月平均持倉時間與本月平均持倉時間的總和分別是12日。", "answer": "否", "question_group": 869}
 

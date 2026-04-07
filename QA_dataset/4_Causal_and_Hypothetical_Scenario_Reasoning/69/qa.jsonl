@@ -8,15 +8,15 @@
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據2022年到2023年的數據，關於AI攔阻可疑詐騙案件的年增率和消費者損失的降低率，下列哪些描述是正確的？ (請參考提供的數據圖表進行回答)", "answer": "D", "choice": ["AI攔阻可疑詐騙案件年增率增加了8個百分點，消費者損失降低率增加了6個百分點。", "AI攔阻可疑詐騙案件年增率增加了14個百分點，消費者損失降低率增加了8個百分點。", "AI攔阻可疑詐騙案件年增率增加了10個百分點，消費者損失降低率增加了5個百分點。", "AI攔阻可疑詐騙案件年增率增加了12個百分點，消費者損失降低率增加了7個百分點。"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據銀行業和證券業的數據整合與申報時間縮短比例以及與主管機關溝通效率提升的總和，以下哪個選項正確？", "answer": "C", "choice": ["銀行業的總和是63，證券業的總和是58。", "銀行業的總和是61，證券業的總和是60。", "銀行業的總和是62，證券業的總和是59。", "銀行業的總和是62，證券業的總和是57。"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據2023年金融科技相關職缺數的年成長率，預計2024年的職缺數為多少？以下為可能的選項：", "answer": "C", "choice": ["8600", "8500", "8720", "9200"]}
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，AI攔阻可疑詐騙案件年增率增加了12個百分點，消費者損失降低率增加了7個百分點。", "answer": "是", "question_group": 1441}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表6，AI攔阻可疑詐騙案件年增率增加了12個百分點，消費者損失降低率增加了7個百分點。", "answer": "是", "question_group": 1441}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，AI攔阻可疑詐騙案件年增率增加了15個百分點，消費者損失降低率增加了5個百分點。", "answer": "否", "question_group": 1441}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表6，AI攔阻可疑詐騙案件年增率增加了15個百分點，消費者損失降低率增加了5個百分點。", "answer": "否", "question_group": 1441}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2025年美國和歐盟的收入總和是2026年亞洲和歐盟收入的104.20%。", "answer": "是", "question_group": 1442}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，2025年美國和歐盟的收入總和是2026年亞洲和歐盟收入的104.20%。", "answer": "是", "question_group": 1442}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2025年美國和歐盟的收入總和是2026年亞洲和歐盟收入的90%。", "answer": "否", "question_group": 1442}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，2025年美國和歐盟的收入總和是2026年亞洲和歐盟收入的90%。", "answer": "否", "question_group": 1442}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，銀行業的數據整合與申報時間縮短比例和與主管機關溝通效率提升的總和是62。", "answer": "是", "question_group": 1443}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表7，銀行業的數據整合與申報時間縮短比例和與主管機關溝通效率提升的總和是62。", "answer": "是", "question_group": 1443}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，證券業的數據整合與申報時間縮短比例和與主管機關溝通效率提升的總和是57。", "answer": "否", "question_group": 1443}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表7，證券業的數據整合與申報時間縮短比例和與主管機關溝通效率提升的總和是57。", "answer": "否", "question_group": 1443}
 

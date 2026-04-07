@@ -18,27 +18,27 @@
 {"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2023年9月美元指數的變化趨勢，以下哪一項描述是正確的？", "answer": "C", "choice": ["美元指數在此期間呈現下降趨勢，且全月都低於90點。", "美元指數在此期間保持穩定，變化範圍不超過1%。", "美元指數在此期間呈現上升趨勢。", "美元指數的變化主要因為範苦貨幣的影響而非自身因素。"]}
 {"category": "MCQ", "question_type": "Temporal Trend", "question": "根據下圖所示，從2023年Q4到2024年Q2，台幣對美元匯率的變化趨勢是什麼？", "answer": "C", "choice": ["雖然有波動，台幣匯率整體上升", "預測顯示台幣將穩定上升", "上升", "整體維持在一定範圍內，未有顯著變化"]}
 {"category": "Open", "question_type": "Aggregation", "question": "根據表3的資料，整個月份台幣兌韓圓的平均匯率是多少？", "answer": "整個月份台幣兌韓圓的平均匯率是0.023933333333333334"}
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，兩個指標的數據值相加總值為60.1。", "answer": "是", "question_group": 811}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖5，兩個指標的數據值相加總值為60.1。", "answer": "是", "question_group": 811}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，兩個指標的數據值相加總值為50.1。", "answer": "否", "question_group": 811}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖5，兩個指標的數據值相加總值為50.1。", "answer": "否", "question_group": 811}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，2023年9月的美元指數呈現上升趨勢。", "answer": "是", "question_group": 812}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖4，2023年9月的美元指數呈現上升趨勢。", "answer": "是", "question_group": 812}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，2023年9月的美元指數在整個月內下降。", "answer": "否", "question_group": 812}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖4，2023年9月的美元指數在整個月內下降。", "answer": "否", "question_group": 812}
 
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，從月中到月底，台幣兌人民幣的變化率約為0.93%。", "answer": "是", "question_group": 813}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖1，從月中到月底，台幣兌人民幣的變化率約為0.93%。", "answer": "是", "question_group": 813}
 
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，從月中到月底，台幣兌人民幣的變化率約為2%。", "answer": "否", "question_group": 813}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖1，從月中到月底，台幣兌人民幣的變化率約為2%。", "answer": "否", "question_group": 813}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從9月初到9月底，開盤價總共上升了0.2。", "answer": "是", "question_group": 814}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，從9月初到9月底，開盤價總共上升了0.2。", "answer": "是", "question_group": 814}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從9月初到9月底，開盤價總共下降了0.2。", "answer": "否", "question_group": 814}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，從9月初到9月底，開盤價總共下降了0.2。", "answer": "否", "question_group": 814}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從月初到月底，台幣兌韓圓的匯率保持在0.024，沒有變化。", "answer": "是", "question_group": 815}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表3，從月初到月底，台幣兌韓圓的匯率保持在0.024，沒有變化。", "answer": "是", "question_group": 815}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從月初到月底，台幣兌韓圓的匯率從0.024變為0.030。", "answer": "否", "question_group": 815}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表3，從月初到月底，台幣兌韓圓的匯率從0.024變為0.030。", "answer": "否", "question_group": 815}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖表，台幣兌日圓匯率從月初的0.217於月底上升至0.22。", "answer": "是", "question_group": 816}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖2，台幣兌日圓匯率從月初的0.217於月底上升至0.22。", "answer": "是", "question_group": 816}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖表，台幣兌日圓匯率從月初的0.217於月底下降至0.21。", "answer": "否", "question_group": 816}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖2，台幣兌日圓匯率從月初的0.217於月底下降至0.21。", "answer": "否", "question_group": 816}
 

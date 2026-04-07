@@ -1,6 +1,6 @@
 {"category": "Open", "question_type": "Proportion", "question": "在2023年各險種理賠案件比例中，附加險所佔的比例是多少？", "answer": "附加險所佔的比例是6.0%"}
 {"category": "MCQ", "question_type": "Proportion", "question": "根據2023年各險種理賠案件比例的資料，附加險所佔的比例是多少？", "answer": "C", "choice": ["9.0%", "7.0%", "6.0%", "5.5%"]}
-{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，附加險在2023年各險種理賠案件比例中所佔的比例是6.0%。", "answer": "是", "question_group": 140}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖4，附加險在2023年各險種理賠案件比例中所佔的比例是6.0%。", "answer": "是", "question_group": 140}
 
-{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，附加險在2023年各險種理賠案件比例中所佔的比例是10.0%。", "answer": "否", "question_group": 140}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖4，附加險在2023年各險種理賠案件比例中所佔的比例是10.0%。", "answer": "否", "question_group": 140}
 

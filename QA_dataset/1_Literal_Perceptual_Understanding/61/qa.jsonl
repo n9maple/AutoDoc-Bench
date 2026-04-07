@@ -12,19 +12,19 @@
 {"category": "Open", "question_type": "Fact Lookup", "question": "根據圖片中顯示的中華郵政客戶查詢及諮詢服務資訊，以下哪項描述正確比較了官方網站、客服專線、郵局櫃檯與行動郵局APP在提供最新儲蓄存款利率訊息及專業協助方面的功能特色與使用情境？", "answer": "官方網站提供即時及歷史利率查詢，適合自主查詢及利率比較；客服專線提供人工即時及留言諮詢，服務時間有限；郵局櫃檯提供面對面理財建議，適用複雜需求與個別規劃；行動郵局APP提供即時利率通知與線上客服，方便數位用戶隨時掌握資訊。"}
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖片中顯示的中華郵政客戶查詢及諮詢服務資訊，以下哪項描述正確比較了官方網站、客服專線、郵局櫃檯與行動郵局APP在提供最新儲蓄存款利率訊息及專業協助方面的功能特色與使用情境？", "answer": "C", "choice": ["官方網站提供新臺幣及外幣即時利率查詢，適合快速獲取最新資訊；客服專線服務時間為每日08:00至20:00，提供人工諮詢及留言回覆；郵局櫃檯除辦理存款業務外，也提供理財建議與專案說明；行動郵局APP支援利率查詢與線上客服功能，方便用戶隨時掌握資產狀況。", "官方網站提供新臺幣與外幣存款即時及歷史利率資訊，適合自主查詢；客服專線每日08:00至20:00提供人工及留言服務，並非全年無休；郵局櫃檯可提供理財建議與個別規劃，非僅處理存款業務；行動郵局APP可查詢利率及帳戶資訊並有在線客服功能。", "官方網站提供即時及歷史利率查詢，適合自主查詢及利率比較；客服專線提供人工即時及留言諮詢，服務時間有限；郵局櫃檯提供面對面理財建議，適用複雜需求與個別規劃；行動郵局APP提供即時利率通知與線上客服，方便數位用戶隨時掌握資訊。", "官方網站資訊包含新臺幣與外幣利率，並提供即時公告，適合各類儲戶查詢；客服專線服務時間有限，每日08:00至20:00，提供專人解答與留言回覆；郵局櫃檯除了存款業務，也提供專案型理財建議；行動郵局APP提供即時利率提示及訊息中心通知，方便行動用戶獲取資訊。"]}
 {"category": "Open", "question_type": "Fact Lookup", "question": "根據圖3，年利率為1.6的存款種類/期別是否為所有數據中的最高值？", "answer": "是，年利率為1.6的存款種類/期別是所有數據中的最高值。"}
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，113年7月1日及以後新開立或續存的定期存款立即適用新利率，且新利率為三個月期1.10%、六個月期1.25%、一年期1.45%、兩年期1.55%、三年期1.60%。", "answer": "是", "question_group": 155}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，113年7月1日及以後新開立或續存的定期存款立即適用新利率，且新利率為三個月期1.10%、六個月期1.25%、一年期1.45%、兩年期1.55%、三年期1.60%。", "answer": "是", "question_group": 155}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，113年6月30日（含）以前已開立的定期存款在到期前會立即適用113年7月1日生效的新利率。", "answer": "否", "question_group": 155}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，113年6月30日（含）以前已開立的定期存款在到期前會立即適用113年7月1日生效的新利率。", "answer": "否", "question_group": 155}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，玉山銀行的利率是2024年7月1日各銀行中最低的，為0.15%。", "answer": "是", "question_group": 156}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表1，玉山銀行的利率是2024年7月1日各銀行中最低的，為0.15%。", "answer": "是", "question_group": 156}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，中華郵政的利率是2024年7月1日各銀行中最低的，為0.19%。", "answer": "否", "question_group": 156}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表1，中華郵政的利率是2024年7月1日各銀行中最低的，為0.19%。", "answer": "否", "question_group": 156}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，各期定期存款利率均微幅上升，且美元一年期存款利率由4.50%升至4.80%，增幅0.30個百分點。", "answer": "是", "question_group": 157}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，各期定期存款利率均微幅上升，且美元一年期存款利率由4.50%升至4.80%，增幅0.30個百分點。", "answer": "是", "question_group": 157}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，三個月至三年期定期存款利率均下降，且美元一年期存款利率保持不變。", "answer": "否", "question_group": 157}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，三個月至三年期定期存款利率均下降，且美元一年期存款利率保持不變。", "answer": "否", "question_group": 157}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，利率調整自民國113年7月1日起生效，活期利率由0.18%調升至0.19%，一年期定期由1.40%調升至1.45%，兩年期由1.50%調升至1.55%，三年期由1.55%調升至1.60%，調整反映央行升息及市場利率上揚。", "answer": "是", "question_group": 158}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，利率調整自民國113年7月1日起生效，活期利率由0.18%調升至0.19%，一年期定期由1.40%調升至1.45%，兩年期由1.50%調升至1.55%，三年期由1.55%調升至1.60%，調整反映央行升息及市場利率上揚。", "answer": "是", "question_group": 158}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，利率調整自民國113年7月1日起生效，活期利率由0.18%調升至0.20%，一年期定期由1.40%調升至1.48%，兩年期由1.50%調升至1.60%，三年期由1.55%調升至1.65%，調整反映央行降息及市場利率下降。", "answer": "否", "question_group": 158}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，利率調整自民國113年7月1日起生效，活期利率由0.18%調升至0.20%，一年期定期由1.40%調升至1.48%，兩年期由1.50%調升至1.60%，三年期由1.55%調升至1.65%，調整反映央行降息及市場利率下降。", "answer": "否", "question_group": 158}
 

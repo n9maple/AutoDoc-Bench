@@ -8,11 +8,11 @@
 {"category": "Open", "question_type": "Fact Lookup", "question": "根據表3的資料，哪一年歐盟的收入首次超過40億美元？", "answer": "2024"}
 {"category": "Open", "question_type": "Fact Lookup", "question": "根據表6的資料，從2022年到2023年，AI攔阻可疑詐騙案件年增率的增加量是多少個百分點？", "answer": "12個百分點"}
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "根據表7，以下哪些行業的數據整合與申報時間縮短比例與銀行業相同？", "answer": "A", "choice": ["證券業和保險業", "電子商務和製造業", "農業和公共事業", "醫療業和餐飲業"]}
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2022年亞洲的總收入是80億美元。", "answer": "是", "question_group": 189}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表2，2022年亞洲的總收入是80億美元。", "answer": "是", "question_group": 189}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2022年亞洲的總收入是100億美元。", "answer": "否", "question_group": 189}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表2，2022年亞洲的總收入是100億美元。", "answer": "否", "question_group": 189}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2023年有40家企業導入了AI自動篩查系統。", "answer": "是", "question_group": 190}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖2，2023年有40家企業導入了AI自動篩查系統。", "answer": "是", "question_group": 190}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2023年只有20家企業導入了AI自動篩查系統。", "answer": "否", "question_group": 190}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖2，2023年只有20家企業導入了AI自動篩查系統。", "answer": "否", "question_group": 190}
 

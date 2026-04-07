@@ -7,11 +7,11 @@
 {"category": "MCQ", "question_type": "Ranking", "question": "在債券信用評級分布中，根據提供的圖表，哪個項目的比例最高？", "answer": "C", "choice": ["投機級的比例為50.0%。", "非投資級的比例為65.0%。", "投資級的比例最高，為85.0%。", "投資級的比例為80.0%。"]}
 {"category": "Open", "question_type": "Comparison", "question": "根據圖2，哪個國家的通貨膨脹率是最低的？", "answer": "5.2%的國家"}
 {"category": "Open", "question_type": "Comparison", "question": "根據圖3，在債券信用評級中，投資級的數量比非投資級多出多少？", "answer": "70"}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，中國的政府和企業債券收益率差距是所有國家中最大的，為 0.8%。", "answer": "是", "question_group": 364}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，中國的政府和企業債券收益率差距是所有國家中最大的，為 0.8%。", "answer": "是", "question_group": 364}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，印度的政府和企業債券收益率差距是所有國家中最大的，為 -0.7%。", "answer": "否", "question_group": 364}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，印度的政府和企業債券收益率差距是所有國家中最大的，為 -0.7%。", "answer": "否", "question_group": 364}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，現金及等價物的百分比與高流動性資產的百分比相等。", "answer": "是", "question_group": 365}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，現金及等價物的百分比與高流動性資產的百分比相等。", "answer": "是", "question_group": 365}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，現金及等價物的百分比低於高流動性資產的百分比。", "answer": "否", "question_group": 365}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，現金及等價物的百分比低於高流動性資產的百分比。", "answer": "否", "question_group": 365}
 

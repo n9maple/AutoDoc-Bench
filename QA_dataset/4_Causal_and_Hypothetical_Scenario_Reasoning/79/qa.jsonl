@@ -3,7 +3,7 @@
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據下圖顯示，從 2023 年到 2024 年，投入金額增加的百分比是多少？", "answer": "C", "choice": ["9%", "14%", "11.11%", "13%"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據給定的數據，從2023年到2024年，參與政策數量和支持政策數量的總增長是多少？（請參考提供的數據圖表）", "answer": "C", "choice": ["5", "15", "9", "11"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表4的資料，從2023年到2024年，支持項目數量和環境意識教育活動次數的增長率下列哪一項描述正確？", "answer": "C", "choice": ["支持項目數量的增長率是22%，環境意識教育活動次數的增長率是18%.", "支持項目數量的增長率是30%，環境意識教育活動次數的增長率是15%.", "支持項目數量的增長率是33.33%，環境意識教育活動次數的增長率是20%.", "支持項目數量的增長率是35%，環境意識教育活動次數的增長率是25%."]}
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，從2023年到2024年，參與政策數量和支持政策數量的總增長是9。", "answer": "是", "question_group": 1491}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表5，從2023年到2024年，參與政策數量和支持政策數量的總增長是9。", "answer": "是", "question_group": 1491}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，從2023年到2024年，參與政策數量和支持政策數量的總增長是12。", "answer": "否", "question_group": 1491}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表5，從2023年到2024年，參與政策數量和支持政策數量的總增長是12。", "answer": "否", "question_group": 1491}
 

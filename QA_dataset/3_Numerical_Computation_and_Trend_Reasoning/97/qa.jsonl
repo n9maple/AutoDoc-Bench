@@ -8,15 +8,15 @@
 {"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2023年1月至2023年4月的數據，旅遊休閒行業的變動趨勢上可觀察到哪些變化？", "answer": "C", "choice": ["1月到2月持平，2月到3月下降，3月到4月上升", "旅遊休閒行業從1月到2月上升，從2月到3月持平，3月到4月持平", "1月到2月下降，2月到3月上升，3月到4月再次下降", "1月到2月下降，2月到3月持平，3月到4月上升"]}
 {"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖3的資料，2023年1月至2023年4月，傳統製造業的變動率是如何變化的？", "answer": "C", "choice": ["偶爾上升", "緩慢下降", "下降", "持平"]}
 {"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖1，台灣加權指數在本月初到月底的變化趨勢是什麼？", "answer": "C", "choice": ["台灣加權指數的變化趨勢是持平，整體是一個波動不大的情況。", "台灣加權指數在月初有所上升，然後緩慢下降至月底顯示出微弱的上升趨勢。", "台灣加權指數的變化趨勢是先下降後上升，整體呈現先下降再回升的趨勢，但未回到月初的水平。", "台灣加權指數的變化趨勢是穩定下滑，整體呈現出持續下降的趨勢。"]}
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，旅遊休閒行業在2023年1月至2月下降，2月至3月上升，3月至4月再次下降。", "answer": "是", "question_group": 1122}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖3，旅遊休閒行業在2023年1月至2月下降，2月至3月上升，3月至4月再次下降。", "answer": "是", "question_group": 1122}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，旅遊休閒行業在2023年1月至2月上升，2月至3月下降，3月至4月再次上升。", "answer": "否", "question_group": 1122}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖3，旅遊休閒行業在2023年1月至2月上升，2月至3月下降，3月至4月再次上升。", "answer": "否", "question_group": 1122}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，若加權指數的開盤數值為17,500，櫃買指數的收盤數值為225，則它們的總和是17,725。", "answer": "是", "question_group": 1123}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，若加權指數的開盤數值為17,500，櫃買指數的收盤數值為225，則它們的總和是17,725。", "answer": "是", "question_group": 1123}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，若加權指數的開盤數值為17,500，櫃買指數的收盤數值為225，則它們的總和是16,725。", "answer": "否", "question_group": 1123}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，若加權指數的開盤數值為17,500，櫃買指數的收盤數值為225，則它們的總和是16,725。", "answer": "否", "question_group": 1123}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，台積電和聯發科的淨利潤增幅相加為38%。", "answer": "是", "question_group": 1124}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，台積電和聯發科的淨利潤增幅相加為38%。", "answer": "是", "question_group": 1124}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，台積電和聯發科的淨利潤增幅相加為28%。", "answer": "否", "question_group": 1124}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，台積電和聯發科的淨利潤增幅相加為28%。", "answer": "否", "question_group": 1124}
 

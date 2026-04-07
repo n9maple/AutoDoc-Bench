@@ -5,11 +5,11 @@
 {"category": "MCQ", "question_type": "Ranking", "question": "根據下列數據，各種挑戰類型的百分比，百分比最高的挑戰類型是第幾個數據點？", "answer": "C", "choice": ["第2個數據點", "第4個數據點", "第1個數據點", "無法確定"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據圖3，以下哪個挑戰類型的百分比較低？", "answer": "B", "choice": ["挑戰類型20的百分比為15%。", "挑戰類型40的百分比較低。", "挑戰類型30的百分比為20%。", "挑戰類型25的百分比為25%。"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據圖4，2024年，計劃增加綠色投資的公司比例與實施壓力測試的公司比例相比，哪一項的比例更高？", "answer": "B", "choice": ["根據過去數據，預測2024年綠色投資公司比例和實施壓力測試公司比例無法明確得出。", "實施壓力測試的公司比例更高。", "未來兩者比例大致相當，但仍需具體數據確認。", "實施壓力測試的公司比例可能無法達到主要標準。"]}
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，百分比最高的挑戰類型是第1個數據點。", "answer": "是", "question_group": 314}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖3，百分比最高的挑戰類型是第1個數據點。", "answer": "是", "question_group": 314}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，百分比最高的挑戰類型是第2個數據點。", "answer": "否", "question_group": 314}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖3，百分比最高的挑戰類型是第2個數據點。", "answer": "否", "question_group": 314}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，全球大型公司與歐洲在採用氣候風險建模技術的比例差異為25個百分點。", "answer": "是", "question_group": 315}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，全球大型公司與歐洲在採用氣候風險建模技術的比例差異為25個百分點。", "answer": "是", "question_group": 315}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，全球大型公司與歐洲在採用氣候風險建模技術的比例差異為10個百分點。", "answer": "否", "question_group": 315}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，全球大型公司與歐洲在採用氣候風險建模技術的比例差異為10個百分點。", "answer": "否", "question_group": 315}
 

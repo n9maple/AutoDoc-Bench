@@ -14,15 +14,15 @@
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的表5資料，目前所有項目的滿意度比例總和和平均滿意度比例分別是？", "answer": "D", "choice": ["滿意度比例總和是165%，平均滿意度比例是52%", "滿意度比例總和是170%，平均滿意度比例是55%", "滿意度比例總和是178%，平均滿意度比例是59%", "滿意度比例總和是176%，平均滿意度比例是58.67%"]}
 {"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表4，如果未來一年常規保險賠付的處理時間偏長比例增加一倍，對於這個保險類型與重大醫療保險的處理時間偏長比例的比較，下列哪一選項是正確的？", "answer": "D", "choice": ["如果常規保險賠付的處理時間偏長比例增加到15%，將低於重大醫療保險的25%。", "常規保險賠付的處理時間偏長比例增加一倍後，將達到30%, 依然低於重大醫療保險的25%。", "即使常規保險賠付的處理時間偏長比例增加到20%，依然等於重大醫療保險的20%。", "即使常規保險賠付的處理時間偏長比例增加到10%，仍然低於重大醫療保險的25%."]}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據表2的資料，以下哪一項目在滿意度和需求改進的總和上達到了最高的85%？", "answer": "A", "choice": ["每個項目的滿意度和需求改進的總和都是85%", "指定某個項目的滿意度和需求改進的總和正好是85%", "滿意度的最高平均值是80%，而需求改進的總和為75%", "所有項目的滿意度依然低於需求改進的總和85%"]}
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，面對面服務的平均得分與數位化服務的平均得分之和為8.2。", "answer": "是", "question_group": 1165}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，面對面服務的平均得分與數位化服務的平均得分之和為8.2。", "answer": "是", "question_group": 1165}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，面對面服務的平均得分與數位化服務的平均得分之和為7.5。", "answer": "否", "question_group": 1165}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，面對面服務的平均得分與數位化服務的平均得分之和為7.5。", "answer": "否", "question_group": 1165}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，所有保險類型的滿意及非常滿意比例相加的總和是260%。", "answer": "是", "question_group": 1166}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，所有保險類型的滿意及非常滿意比例相加的總和是260%。", "answer": "是", "question_group": 1166}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，所有保險類型的滿意及非常滿意比例相加的總和是200%。", "answer": "否", "question_group": 1166}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，所有保險類型的滿意及非常滿意比例相加的總和是200%。", "answer": "否", "question_group": 1166}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，銀髮族專屬保險產品和數位生活方式結合產品的總受訪者比例為45%。", "answer": "是", "question_group": 1167}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表6，銀髮族專屬保險產品和數位生活方式結合產品的總受訪者比例為45%。", "answer": "是", "question_group": 1167}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，銀髮族專屬保險產品和數位生活方式結合產品的總受訪者比例為50%。", "answer": "否", "question_group": 1167}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表6，銀髮族專屬保險產品和數位生活方式結合產品的總受訪者比例為50%。", "answer": "否", "question_group": 1167}
 

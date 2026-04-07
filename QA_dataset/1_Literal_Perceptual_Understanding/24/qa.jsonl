@@ -8,15 +8,15 @@
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖片中提供的報告，2023年攔截的可疑交易筆數是多少？", "answer": "C", "choice": ["950", "1300", "1150", "1100"]}
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2023年資料，因外部攻擊而暫停服務的時間是以下哪一項？", "answer": "C", "choice": ["15分鐘", "90分鐘", "45分鐘", "1.5小時"]}
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2023年的資料，異常警示總件數在48小時內處理的比例是多少？請參考下圖提供的數據。", "answer": "C", "choice": ["85%的處理件數", "90%的處理比例", "85%", "100%的處理比例"]}
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2023年攔截的可疑交易筆數是1150。", "answer": "是", "question_group": 67}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表7，2023年攔截的可疑交易筆數是1150。", "answer": "是", "question_group": 67}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2023年攔截的可疑交易筆數是1000。", "answer": "否", "question_group": 67}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表7，2023年攔截的可疑交易筆數是1000。", "answer": "否", "question_group": 67}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2023年異常警示總件數在48小時內處理的比例是85%。", "answer": "是", "question_group": 68}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表10，2023年異常警示總件數在48小時內處理的比例是85%。", "answer": "是", "question_group": 68}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2023年異常警示總件數在48小時內處理的比例是70%。", "answer": "否", "question_group": 68}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表10，2023年異常警示總件數在48小時內處理的比例是70%。", "answer": "否", "question_group": 68}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2023年的異常率計算結果為0.0128。", "answer": "是", "question_group": 69}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表6，2023年的異常率計算結果為0.0128。", "answer": "是", "question_group": 69}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2023年的異常率計算結果為0.128。", "answer": "否", "question_group": 69}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表6，2023年的異常率計算結果為0.128。", "answer": "否", "question_group": 69}
 

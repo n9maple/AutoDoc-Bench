@@ -30,43 +30,43 @@
 {"category": "MCQ", "question_type": "Creative Scenario", "question": "在描述的第一銀行的合作夥伴生態系統中，假設某關鍵合作夥伴，如合作的可再生能源公司，突然遭遇技術挑戰，這一變動將如何改變銀行持續推動綠色金融產品的能力？選出最合適的應變策略來比較銀行在此情境下的應對措施。", "answer": "C", "choice": ["銀行應強化對其他綠色項目的投資多元化，同時探索潛在的新合作夥伴，以降低風險。", "銀行應增加對受挫合作夥伴的技術支持，並衡量市場機會以確保創新能力不受影響。", "銀行應及時評估影響，並尋找替代合作夥伴，強化內部研發以加速創新應對挑戰。", "銀行應釋放更多資源進行內部技術研發，並同時評估合作夥伴網絡以增強彈性。"]}
 {"category": "Open", "question_type": "Creative Scenario", "question": "考慮圖中的第一銀行的持續金融產品推廣策略，如果全球市場對此類產品的興趣驟降，哪種調整策略能幫助銀行保持市場份額和客戶參與？", "answer": "在推廣策略中新增目標行業細分並強化環保合作"}
 {"category": "MCQ", "question_type": "Creative Scenario", "question": "考慮圖中的第一銀行的持續金融產品推廣策略，如果全球市場對此類產品的興趣驟降，哪種調整策略能幫助銀行保持市場份額和客戶參與？", "answer": "C", "choice": ["推出符合可持續性的高收益投資產品以吸引快速獲利需求", "暫時增加傳統金融產品的可持續性元素而非完全轉向", "在推廣策略中新增目標行業細分並強化環保合作", "推出針對特定社群的可持續金融產品以增加市場多樣性"]}
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據圖片，具有綜合投資策略的公司，包括員工培訓和創新實驗室，在創新和可持續性金融產品的長期競爭中更具優勢。", "answer": "是", "question_group": 1262}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，具有綜合投資策略的公司，包括員工培訓和創新實驗室，在創新和可持續性金融產品的長期競爭中更具優勢。", "answer": "是", "question_group": 1262}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據圖片，僅僅依靠高技術投資而缺乏員工培訓和創新實驗室的公司在創新和可持續性金融產品的長期競爭中更具優勢。", "answer": "否", "question_group": 1262}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，僅僅依靠高技術投資而缺乏員工培訓和創新實驗室的公司在創新和可持續性金融產品的長期競爭中更具優勢。", "answer": "否", "question_group": 1262}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據圖片，第一銀行的全面風險管理系統顯著降低風險損失，並且其合規團隊確保符合國際法規，這有助於提升市場競爭力和投資者信任，從而在全球市場保持領導地位。", "answer": "是", "question_group": 1263}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，第一銀行的全面風險管理系統顯著降低風險損失，並且其合規團隊確保符合國際法規，這有助於提升市場競爭力和投資者信任，從而在全球市場保持領導地位。", "answer": "是", "question_group": 1263}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據圖片，第一銀行的全面風險管理系統並未對其市場競爭力和投資者信任產生顯著影響，因此未能在全球市場保持領導地位。", "answer": "否", "question_group": 1263}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，第一銀行的全面風險管理系統並未對其市場競爭力和投資者信任產生顯著影響，因此未能在全球市場保持領導地位。", "answer": "否", "question_group": 1263}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，與可再生能源企業及教育非營利組織的合作通過推動30億美元的綠色投資和改善50萬學生的教育，顯示出更強的市場刺激和跨領域整合能力。", "answer": "是", "question_group": 1264}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，與可再生能源企業及教育非營利組織的合作通過推動30億美元的綠色投資和改善50萬學生的教育，顯示出更強的市場刺激和跨領域整合能力。", "answer": "是", "question_group": 1264}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，與公司治理機構及國際NGO的合作顯示出更強的市場刺激和跨領域整合能力。", "answer": "否", "question_group": 1264}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，與公司治理機構及國際NGO的合作顯示出更強的市場刺激和跨領域整合能力。", "answer": "否", "question_group": 1264}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據圖片描述，第一銀行通過創新實驗室孵化新產品與多方合作開發符合環境標準的產品，有效增強市場競爭力。", "answer": "是", "question_group": 1265}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，第一銀行通過創新實驗室孵化新產品與多方合作開發符合環境標準的產品，有效增強市場競爭力。", "answer": "是", "question_group": 1265}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據圖片描述，第一銀行主要通過削減內部團隊來減少成本並提升市場地位。", "answer": "否", "question_group": 1265}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，第一銀行主要通過削減內部團隊來減少成本並提升市場地位。", "answer": "否", "question_group": 1265}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，假設某關鍵合作夥伴遭遇技術挑戰，銀行應及時評估影響，並尋找替代合作夥伴，強化內部研發以加速創新應對挑戰。", "answer": "是", "question_group": 1266}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，假設某關鍵合作夥伴遭遇技術挑戰，銀行應及時評估影響，並尋找替代合作夥伴，強化內部研發以加速創新應對挑戰。", "answer": "是", "question_group": 1266}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，假設某關鍵合作夥伴遭遇技術挑戰，銀行應停止所有綠色金融產品開發以避免風險。", "answer": "否", "question_group": 1266}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，假設某關鍵合作夥伴遭遇技術挑戰，銀行應停止所有綠色金融產品開發以避免風險。", "answer": "否", "question_group": 1266}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，市場宣傳提高了產品查詢量30%和轉化率15%，個性化咨詢服務促使85%客戶願意再次選擇銀行產品。", "answer": "是", "question_group": 1267}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，市場宣傳提高了產品查詢量30%和轉化率15%，個性化咨詢服務促使85%客戶願意再次選擇銀行產品。", "answer": "是", "question_group": 1267}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，市場宣傳提高了產品查詢量20%和轉化率10%，個性化咨詢服務促使50%客戶願意再次選擇銀行產品。", "answer": "否", "question_group": 1267}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，市場宣傳提高了產品查詢量20%和轉化率10%，個性化咨詢服務促使50%客戶願意再次選擇銀行產品。", "answer": "否", "question_group": 1267}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據圖中，第一銀行提升技術投資，加強FinTech應用與數據分析能力，以及與環保技術公司合作推出創新產品。", "answer": "是", "question_group": 1268}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，第一銀行提升技術投資，加強FinTech應用與數據分析能力，以及與環保技術公司合作推出創新產品。", "answer": "是", "question_group": 1268}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據圖中，第一銀行僅專注於傳統金融服務，沒有進行任何技術投資或與環保技術公司合作。", "answer": "否", "question_group": 1268}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，第一銀行僅專注於傳統金融服務，沒有進行任何技術投資或與環保技術公司合作。", "answer": "否", "question_group": 1268}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據圖中的第一銀行的持續金融產品推廣策略，如果全球市場對此類產品的興趣驟降，在推廣策略中新增目標行業細分並強化環保合作能幫助銀行保持市場份額和客戶參與。", "answer": "是", "question_group": 1269}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，如果全球市場對此類產品的興趣驟降，在推廣策略中新增目標行業細分並強化環保合作能幫助銀行保持市場份額和客戶參與。", "answer": "是", "question_group": 1269}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據圖中的第一銀行的持續金融產品推廣策略，如果全球市場對此類產品的興趣驟降，減少對環保合作的關注能幫助銀行保持市場份額和客戶參與。", "answer": "否", "question_group": 1269}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，如果全球市場對此類產品的興趣驟降，減少對環保合作的關注能幫助銀行保持市場份額和客戶參與。", "answer": "否", "question_group": 1269}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，小明選擇的綠色貸款方案能更直接評估對環境標準的影響，因為它提供具體環境效益數據。", "answer": "是", "question_group": 1270}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，小明選擇的綠色貸款方案能更直接評估對環境標準的影響，因為它提供具體環境效益數據。", "answer": "是", "question_group": 1270}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，小紅選擇的社會影響投資基金能更直接評估對環境標準的影響，因為它提供具體環境效益數據。", "answer": "否", "question_group": 1270}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，小紅選擇的社會影響投資基金能更直接評估對環境標準的影響，因為它提供具體環境效益數據。", "answer": "否", "question_group": 1270}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，情境A的擴大內部風險管理機制有效地降低產品風險損失率，提升產品穩定性及市場適應性，這增強了銀行在長期市場競爭力方面的優勢。", "answer": "是", "question_group": 1271}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，情境A的擴大內部風險管理機制有效地降低產品風險損失率，提升產品穩定性及市場適應性，這增強了銀行在長期市場競爭力方面的優勢。", "answer": "是", "question_group": 1271}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，情境B加強國際合規顧問聯繫比情境A更能提升產品穩定性及市場適應性。", "answer": "否", "question_group": 1271}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，情境B加強國際合規顧問聯繫比情境A更能提升產品穩定性及市場適應性。", "answer": "否", "question_group": 1271}
 

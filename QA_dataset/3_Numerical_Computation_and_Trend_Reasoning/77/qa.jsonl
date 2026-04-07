@@ -19,23 +19,23 @@
 {"category": "MCQ", "question_type": "Aggregation", "question": "在以下數據中，FAQ分類問題數量的中位數為何？請根據所提供的數字選擇正確的答案： 24, 39, 56, 62。", "answer": "C", "choice": ["37", "50", "39", "62"]}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖中所有滿意度指標的數據，平均滿意比例是多少？", "answer": "C", "choice": ["88.0%", "86.5%", "87.5%", "89.0%"]}
 {"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表6的數據，2023年6月至2023年12月期間，行動裝置用戶比率的上升幅度是多少？以下哪一項是正確的選擇？", "answer": "A", "choice": ["行動裝置用戶比率的上升幅度為0%", "行動裝置用戶比率的上升幅度為5%", "行動裝置用戶比率的上升幅度為2%", "行動裝置用戶比率的上升幅度為-3%"]}
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022 年和 2023 年與用戶操作疏忽有關的損失總和為 950 萬元。", "answer": "是", "question_group": 1069}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表8，2022 年和 2023 年與用戶操作疏忽有關的損失總和為 950 萬元。", "answer": "是", "question_group": 1069}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022 年和 2023 年與用戶操作疏忽有關的損失總和為 800 萬元。", "answer": "否", "question_group": 1069}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表8，2022 年和 2023 年與用戶操作疏忽有關的損失總和為 800 萬元。", "answer": "否", "question_group": 1069}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，從2023年1月到2023年6月期間，登入模式人次的平均值為187333.33。", "answer": "是", "question_group": 1070}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，從2023年1月到2023年6月期間，登入模式人次的平均值為187333.33。", "answer": "是", "question_group": 1070}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，從2023年1月到2023年6月期間，登入模式人次的平均值為190000。", "answer": "否", "question_group": 1070}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，從2023年1月到2023年6月期間，登入模式人次的平均值為190000。", "answer": "否", "question_group": 1070}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據下圖，所有滿意度指標的平均滿意比例是 87.5%。", "answer": "是", "question_group": 1071}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖9，所有滿意度指標的平均滿意比例是 87.5%。", "answer": "是", "question_group": 1071}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據下圖，所有滿意度指標的平均滿意比例是 85%。", "answer": "否", "question_group": 1071}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖9，所有滿意度指標的平均滿意比例是 85%。", "answer": "否", "question_group": 1071}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，自助查詢解決率的平均值是約84.83%。", "answer": "是", "question_group": 1072}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表7，自助查詢解決率的平均值是約84.83%。", "answer": "是", "question_group": 1072}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，自助查詢解決率的平均值是約80%。", "answer": "否", "question_group": 1072}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表7，自助查詢解決率的平均值是約80%。", "answer": "否", "question_group": 1072}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023年各月份中，複雜諮詢比率最常出現的百分比是9%。", "answer": "是", "question_group": 1073}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表6，2023年各月份中，複雜諮詢比率最常出現的百分比是9%。", "answer": "是", "question_group": 1073}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023年各月份中，複雜諮詢比率最常出現的百分比是8%。", "answer": "否", "question_group": 1073}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表6，2023年各月份中，複雜諮詢比率最常出現的百分比是8%。", "answer": "否", "question_group": 1073}
 

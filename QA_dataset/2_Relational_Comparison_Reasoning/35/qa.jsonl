@@ -14,15 +14,15 @@
 {"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖4，2024Q2與2025Q2健康險的續保率差異為何？請選擇正確的選項。", "answer": "B", "choice": ["Y% - (X% - 5%)的差異", "Y% - X%的差異", "Y% + X%的總和", "Y% - (0.5 * X%)的差異"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據圖1，投資型壽險與傳統壽險之間的市場佔比差異是多少？", "answer": "D", "choice": ["5.5%", "7.5%", "10.0%", "8.0%"]}
 {"category": "MCQ", "question_type": "Ranking", "question": "根據圖3，2024Q2中，新增保單數量最多的保險類型是哪一種？以下選項中哪一項是正確的？", "answer": "A", "choice": ["健康險", "車險", "壽險", "意外險"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，傳統壽險的市場佔比超過了健康險與儲蓄型壽險的總和。", "answer": "是", "question_group": 394}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，傳統壽險的市場佔比超過了健康險與儲蓄型壽險的總和。", "answer": "是", "question_group": 394}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，健康險與儲蓄型壽險的市場佔比總和超過了傳統壽險。", "answer": "否", "question_group": 394}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，健康險與儲蓄型壽險的市場佔比總和超過了傳統壽險。", "answer": "否", "question_group": 394}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，投資型壽險的保費收入是所有產品類別中最低的。", "answer": "是", "question_group": 395}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖5，投資型壽險的保費收入是所有產品類別中最低的。", "answer": "是", "question_group": 395}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，投資型壽險的保費收入是所有產品類別中最高的。", "answer": "否", "question_group": 395}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖5，投資型壽險的保費收入是所有產品類別中最高的。", "answer": "否", "question_group": 395}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，健康險的市場佔比是傳統壽險的0.25倍。", "answer": "是", "question_group": 396}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，健康險的市場佔比是傳統壽險的0.25倍。", "answer": "是", "question_group": 396}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，健康險的市場佔比是傳統壽險的2倍。", "answer": "否", "question_group": 396}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，健康險的市場佔比是傳統壽險的2倍。", "answer": "否", "question_group": 396}
 

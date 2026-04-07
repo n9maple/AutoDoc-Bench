@@ -30,47 +30,47 @@
 {"category": "MCQ", "question_type": "Creative Scenario", "question": "情境比較：假設2026年出現一種新興跨境加密資產洗錢手法，導致可疑交易報告量與漏報案件數短期上升。請以題示圖片所述之2025年花旗臺灣分行培訓與宣導現況為基準（列明關鍵要素：基礎培訓合格率98%、超過500名新員工完成基礎培訓、超過1,000人參與進階培訓且該進階培訓使模擬識別率提高15%、每月合規通訊、約20名員工出席國際反洗錢會議），提出一套面向2026新手法的整體應變方案。要求：至少提出三項具體的「培訓或制度改進」；對每項說明（1）為何能彌補2025原計畫的不足（必須明確連結題示圖片中的至少一個關鍵要素）；（2）預期的正面效果（要能直接對應到偵測、升報或資訊流）；（3）可能限制或風險與具體緩解措施。最後列出至少兩個可量化的成效指標（含取樣方法與具體目標設定），並說明用哪些判準同時評估方案是否有效。注意：答案必須以圖片提供的2025數據為參照，不得憑空假設其他基線資料；題目設計為情境比較，答題者需參照並引用圖片中的要素才能完成回答。", "answer": "A", "choice": ["A.（正確）採三面向並明確對應2025基線：1) 把超過1,000人之進階培訓延伸為情境化攻防實作合格門檻，並以實務通過率補足2025年98%之書面基礎合格；2) 利用每月合規通訊與約20名出國參會情報，建立即時鏈上分析與人機回饋機制，將黑名單/規則快速下發；3) 制度化train‑the‑trainer與24小時一頁要點下發，並將加密風險指標納入KYC以擴大對500+基礎受訓員工的應用；量化指標包括：季度盲測（n≥100，且≥30%為新興加密情境）識別率相對於2025進階後基準再提升20%，以及每月隨機抽樣≥30件的中位Time‑to‑escalation在6個月內縮短30%。B.（不正確）主要以修訂跨境加密SOP與提高升報門檻為核心，僅依賴每月通訊與20名會議參與人員定期匯報，不新增實作評核或即時鏈上偵測，並以增加升報文件詳盡度作為主要成效指標。C.（不正確）全力導入自動化鏈上偵測與黑名單自動封鎖，減少人為判斷並以系統觸發自動升報為主，僅保留少量人員作例外覆核，並以系統自動攔截率為唯一量化指標。D.（不正確）把重心放在擴大海外會議與增加培訓頻次（把20名參會擴大為更多出國人次與每月增加通訊篇幅），但不改變進階訓練的實作深度或建立人機回饋，並以參訓人數覆蓋率作為主要成效指標。", "以每月合規通訊與約20名國際參會者為情報匯流核心，快速修訂跨境加密SOP並導入風險分層（低/中/高）與分流升報流程，且每月執行隨機抽樣稽核（≥30件）來檢驗SOP執行，但暫不大規模導入鏈上自動偵測或擴充進階情境化實作。", "以自動化鏈上偵測為主體，採購商業鏈上分析工具並實施人機混合覆核：以2025年超過1,000人之進階培訓受訓人員組成二階覆核小組，系統閾值以2025年進階後模擬識別率（提升15%）為調校基準，並將每月合規通訊納入誤報/漏報回饋迴路。", "保留2025年基礎培訓覆蓋（>500名）與98%合格門檻，但將基礎考核改為短式周期複訓（每年一次），把節省的培訓時數投入於讓超過1,000名進階學員參加集中化情境化攻防實作，並指定約20名國際參會人員為train‑the‑trainer以擴散實務技巧。"]}
 {"category": "Open", "question_type": "Creative Scenario", "question": "附圖說明：2025年花旗銀行台灣分行遭遇大量監控警示與誤判，主因為圖中所列關鍵前提：隱私幣的匿名性、跨境法幣路徑的複雜性，以及需強化AI/資料與人才並促進情報共享。根據該圖中前提，請選出最符合情境的四大類應對措施優先順序，並在每項中簡要指出三個分階段（0–9月、9–24月、12–36月）之核心要點與三年內總預算上限NT$5億元的資源配比。哪一項最符合圖中前提並能最實務地在短期止血、中期建平台、長期治理？\n\nA) 技術 > 人員 > 政策/流程 > 外部合作：0–9月緊急接入第三方on‑chain/混幣分析SaaS並提高人工覆核與高閾值規則；9–24月建置統一資料平台、可解釋ML+規則引擎、整合KYC/交易資料；12–36月模型產品化、case‑management自動化與模型治理；預算分配約技術50%、人才30%、流程/外部15%、預備5%。\n\nB) 人員 > 技術 > 政策/流程 > 外部合作：0–9月優先大量招募加密/AML專才與顧問來主導判斷並暫時維持既有系統；9–24月再導入自建ML平台；12–36月優化流程與外部合作；預算重心在人才（約45%）與後期技術（約35%）。\n\nC) 政策/流程 > 技術 > 人員 > 外部合作：0–9月先以嚴格臨時SOP與分層KYC壓制風險；9–24月同時採用技術強化；12–36月標準化稽核與KPI；預算以流程治理與法遵為主（約40%），技術次之（約30%）。\n\nD) 外部合作 > 技術 > 人員 > 政策/流程：0–9月立即發起跨行/監管情報通報並共享地址樣本；9–24月簽約資料分享與建立行業樣本庫，9–36月倡議監管沙盒；預算重心放在外部合作與資料購置（約40%）與技術（約35%）。", "answer": "選項A：優先順序為「技術 > 人員 > 政策/流程 > 外部合作」，短期以SaaS止血並提高人工覆核（0–9月）、中期建置統一資料平台並導入可解釋ML與整合KYC（9–24月）、長期產品化與模型治理與自動化案件管理（12–36月）；三年內建議預算分配約技術50%、人才30%、流程/外部15%、預備5%，此方案直接基於圖中提到的隱私幣匿名性、跨境複雜性及需強化AI/資料與人才與情報共享的前提，能在短期止血並兼顧長期可稽核與人才治理。"}
 {"category": "MCQ", "question_type": "Creative Scenario", "question": "附圖說明：2025年花旗銀行台灣分行遭遇大量監控警示與誤判，主因為圖中所列關鍵前提：隱私幣的匿名性、跨境法幣路徑的複雜性，以及需強化AI/資料與人才並促進情報共享。根據該圖中前提，請選出最符合情境的四大類應對措施優先順序，並在每項中簡要指出三個分階段（0–9月、9–24月、12–36月）之核心要點與三年內總預算上限NT$5億元的資源配比。哪一項最符合圖中前提並能最實務地在短期止血、中期建平台、長期治理？\n\nA) 技術 > 人員 > 政策/流程 > 外部合作：0–9月緊急接入第三方on‑chain/混幣分析SaaS並提高人工覆核與高閾值規則；9–24月建置統一資料平台、可解釋ML+規則引擎、整合KYC/交易資料；12–36月模型產品化、case‑management自動化與模型治理；預算分配約技術50%、人才30%、流程/外部15%、預備5%。\n\nB) 人員 > 技術 > 政策/流程 > 外部合作：0–9月優先大量招募加密/AML專才與顧問來主導判斷並暫時維持既有系統；9–24月再導入自建ML平台；12–36月優化流程與外部合作；預算重心在人才（約45%）與後期技術（約35%）。\n\nC) 政策/流程 > 技術 > 人員 > 外部合作：0–9月先以嚴格臨時SOP與分層KYC壓制風險；9–24月同時採用技術強化；12–36月標準化稽核與KPI；預算以流程治理與法遵為主（約40%），技術次之（約30%）。\n\nD) 外部合作 > 技術 > 人員 > 政策/流程：0–9月立即發起跨行/監管情報通報並共享地址樣本；9–24月簽約資料分享與建立行業樣本庫，9–36月倡議監管沙盒；預算重心放在外部合作與資料購置（約40%）與技術（約35%）。", "answer": "C", "choice": ["B) 人員 > 技術 > 政策/流程 > 外部合作：0–9月：緊急採購一套on‑chain/混幣分析SaaS做為短期止血工具，並同時快速招募3–5位高階加密/AML判定師與外部顧問（訂定SLA、24–48小時判定隊列）；9–24月：啟動自建ML平台雛形、內部培訓與SaaS並行測試與知識移轉；12–36月：擴充技術堆疊、制度化人才培育、標準化流程並建立外部合作管道。預算分配（合計NT$5億）：人才45%（NT$2.25億）、技術30%（NT$1.5億，含短期SaaS）、流程/外部15%（NT$0.75億）、預備/治理10%（NT$0.5億）。關鍵KPI：誤報率、處置時效、招募與留任率。", "D) 重度採購第三方SaaS（供應商主導） > 技術 > 外部合作 > 人員：0–9月：緊急採購多家加密追蹤與混幣分析SaaS，訂定供應商信心水準與跨供應商交叉比對規則，採高信心自動封鎖、低中信心保留人工覆核（明確二次判定閾值）；9–24月：將供應商輸出整合入統一資料湖、建立自動化規則與警示調校，要求供應商提供可解釋證據輸出與API證明鏈上證據；12–36月：逐步內化關鍵能力並建立模型治理，但仍保留供應商作為補強與資料來源。預算分配（合計NT$5億）：技術55%（NT$2.75億，含SaaS授權與資料購置）、外部合作25%（NT$1.25億）、人員10%（NT$0.5億）、流程/預備10%（NT$0.5億）。關鍵KPI：供應商信心水準一致性、錯殺率、案件處理速度。", "選項A：優先順序為「技術 > 人員 > 政策/流程 > 外部合作」，短期以SaaS止血並提高人工覆核（0–9月）、中期建置統一資料平台並導入可解釋ML與整合KYC（9–24月）、長期產品化與模型治理與自動化案件管理（12–36月）；三年內建議預算分配約技術50%、人才30%、流程/外部15%、預備5%，此方案直接基於圖中提到的隱私幣匿名性、跨境複雜性及需強化AI/資料與人才與情報共享的前提，能在短期止血並兼顧長期可稽核與人才治理。", "C) 政策/流程 > 技術 > 人員 > 外部合作：0–9月：以嚴格臨時SOP與分層KYC壓制風險，但採用分級封鎖、白名單、限時緊急措施與日內回顧以降低對重要客戶的阻斷；同步規定人工二次判定門檻與日常回溯。9–24月：並行導入on‑chain mapping、KYC整合與資料治理，減少流程依賴的盲點；12–36月：標準化稽核、KPI與回饋迴路，將SOP轉為技術可執行規則。預算分配（合計NT$5億）：流程/法遵40%（NT$2.0億）、技術30%（NT$1.5億）、人員20%（NT$1.0億）、外部/預備10%（NT$0.5億）。關鍵KPI：業務阻斷率、誤報率改善、合規爭議數。"]}
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據圖片，系統以高敏感度廣泛初篩，標記750筆交易，然後由合規團隊進行深入人工審查，並最終上報150份可疑交易報告。", "answer": "是", "question_group": 1207}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，系統以高敏感度廣泛初篩，標記750筆交易，然後由合規團隊進行深入人工審查，並最終上報150份可疑交易報告。", "answer": "是", "question_group": 1207}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據圖片，系統提高判定閾值，自動化決策減少標記的交易數，僅將高度確定的案件交由合規團隊處理。", "answer": "否", "question_group": 1207}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，系統提高判定閾值，自動化決策減少標記的交易數，僅將高度確定的案件交由合規團隊處理。", "answer": "否", "question_group": 1207}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，優先執行方案B（強化CDD/KYC）可以在短中期最有助於降低假陰性，因為圖示顯示>25,000筆KYC更新且>1,000,000筆交易僅攔截750筆，先改善客戶資料與風險分級可快速提升模型輸入品質。", "answer": "是", "question_group": 1208}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，優先執行方案B（強化CDD/KYC）可以在短中期最有助於降低假陰性，因為圖示顯示>25,000筆KYC更新且>1,000,000筆交易僅攔截750筆，先改善客戶資料與風險分級可快速提升模型輸入品質。", "answer": "是", "question_group": 1208}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，優先執行方案A（升級交易監控技術並擴增分析人力）會在短中期最有助於降低假陰性，因為現有標籤/資料品質已經足夠高以支持檢出能力的提升。", "answer": "否", "question_group": 1208}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，優先執行方案A（升級交易監控技術並擴增分析人力）會在短中期最有助於降低假陰性，因為現有標籤/資料品質已經足夠高以支持檢出能力的提升。", "answer": "否", "question_group": 1208}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，假設基礎培訓和進階培訓是互斥的群體，則最少有1502名不同參與者。", "answer": "是", "question_group": 1209}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，假設基礎培訓和進階培訓是互斥的群體，則最少有1502名不同參與者。", "answer": "是", "question_group": 1209}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，假設基礎培訓和進階培訓完全重疊，則最少有1000名不同參與者。", "answer": "否", "question_group": 1209}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，假設基礎培訓和進階培訓完全重疊，則最少有1000名不同參與者。", "answer": "否", "question_group": 1209}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，策略A（交易監控優先）在中短期內最有可能達成2026年可疑交易攔截量提升50%的目標。", "answer": "是", "question_group": 1210}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，策略A（交易監控優先）在中短期內最有可能達成2026年可疑交易攔截量提升50%的目標。", "answer": "是", "question_group": 1210}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，策略A（交易監控優先）建議將10%額外資源全部分配給審查員加班/短期外包。", "answer": "否", "question_group": 1210}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，策略A（交易監控優先）建議將10%額外資源全部分配給審查員加班/短期外包。", "answer": "否", "question_group": 1210}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據圖片，採取60%先進數據分析與AI監控、40%投入反洗錢人才培育、法規研究與情報共享，能有效應對花旗銀行台灣分行在2025年的反洗錢挑戰。", "answer": "是", "question_group": 1211}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，採取60%先進數據分析與AI監控、40%投入反洗錢人才培育、法規研究與情報共享，能有效應對花旗銀行台灣分行在2025年的反洗錢挑戰。", "answer": "是", "question_group": 1211}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據圖片，採取100%投入反洗錢人才培育而不使用AI技術，能最有效應對花旗銀行台灣分行在2025年的反洗錢挑戰。", "answer": "否", "question_group": 1211}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，採取100%投入反洗錢人才培育而不使用AI技術，能最有效應對花旗銀行台灣分行在2025年的反洗錢挑戰。", "answer": "否", "question_group": 1211}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據圖片，先進的數據處理系統和機器學習是導致被識別出超過750筆、約新台幣2億元可疑交易的主要驅因。", "answer": "是", "question_group": 1212}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，先進的數據處理系統和機器學習是導致被識別出超過750筆、約新台幣2億元可疑交易的主要驅因。", "answer": "是", "question_group": 1212}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據圖片，內部合規流程與培訓是導致被識別出超過750筆、約新台幣2億元可疑交易的主要驅因。", "answer": "否", "question_group": 1212}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，內部合規流程與培訓是導致被識別出超過750筆、約新台幣2億元可疑交易的主要驅因。", "answer": "否", "question_group": 1212}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，2023年識別並阻止的可疑交易平均金額的首選點估約為新台幣300,000元/例，並且以95%為保守下限，2022年的參與率估算在A（絕對增加8個百分點）下為87%。", "answer": "是", "question_group": 1213}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，2023年識別並阻止的可疑交易平均金額的首選點估約為新台幣300,000元/例，並且以95%為保守下限，2022年的參與率估算在A（絕對增加8個百分點）下為87%。", "answer": "是", "question_group": 1213}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，2023年識別並阻止的可疑交易平均金額的首選點估約為新台幣150,000元/例，並且以95%為保守下限，2022年的參與率估算在A（絕對增加8個百分點）下為89%。", "answer": "否", "question_group": 1213}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，2023年識別並阻止的可疑交易平均金額的首選點估約為新台幣150,000元/例，並且以95%為保守下限，2022年的參與率估算在A（絕對增加8個百分點）下為89%。", "answer": "否", "question_group": 1213}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，策略A（交易監控優先）可以在可接受風險下最有可能於中短期內達成2026年可疑交易攔截量較2025年提升50%的目標。", "answer": "是", "question_group": 1214}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，策略A（交易監控優先）可以在可接受風險下最有可能於中短期內達成2026年可疑交易攔截量較2025年提升50%的目標。", "answer": "是", "question_group": 1214}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，將10%額外資源全部分配給培訓/政策能最有效地提高2026年可疑交易攔截量50%。", "answer": "否", "question_group": 1214}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，將10%額外資源全部分配給培訓/政策能最有效地提高2026年可疑交易攔截量50%。", "answer": "否", "question_group": 1214}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據圖片，對客戶識別及盡職調查程序的更新使該行能夠在2023年有效識別和阻止了超過500例可能的可疑交易，這些交易的總金額高達新台幣1.5億元。", "answer": "是", "question_group": 1215}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，對客戶識別及盡職調查程序的更新使該行能夠在2023年有效識別和阻止了超過500例可能的可疑交易，這些交易的總金額高達新台幣1.5億元。", "answer": "是", "question_group": 1215}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據圖片，採用先進的技術來增強交易監控系統是該行能夠阻止超過500例可能的可疑交易的唯一原因。", "answer": "否", "question_group": 1215}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，採用先進的技術來增強交易監控系統是該行能夠阻止超過500例可能的可疑交易的唯一原因。", "answer": "否", "question_group": 1215}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，在受限於中等預算且須最小化正當客戶摩擦的條件下，先在高風險產品/通道進行小規模圖譜與跨通道累計規則試點是符合原始建議的優先措施。", "answer": "是", "question_group": 1216}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，在受限於中等預算且須最小化正當客戶摩擦的條件下，先在高風險產品/通道進行小規模圖譜與跨通道累計規則試點是符合原始建議的優先措施。", "answer": "是", "question_group": 1216}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，在受限於中等預算且須最小化正當客戶摩擦的條件下，立即全面導入區塊鏈分析並把所有可疑帳戶凍結是符合原始建議的優先措施。", "answer": "否", "question_group": 1216}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，在受限於中等預算且須最小化正當客戶摩擦的條件下，立即全面導入區塊鏈分析並把所有可疑帳戶凍結是符合原始建議的優先措施。", "answer": "否", "question_group": 1216}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，2026年初一週內出現的可疑交易筆數與金額相較於2025年基準分別約為14倍與13倍，這被視為高度異常情況，應立即採取A/B/C分流進行處置。", "answer": "是", "question_group": 1217}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，2026年初一週內出現的可疑交易筆數與金額相較於2025年基準分別約為14倍與13倍，這被視為高度異常情況，應立即採取A/B/C分流進行處置。", "answer": "是", "question_group": 1217}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，2026年初一週內出現的可疑交易筆數與金額與2025年基準相差不多，因此不需要立即採取任何緊急措施。", "answer": "否", "question_group": 1217}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，2026年初一週內出現的可疑交易筆數與金額與2025年基準相差不多，因此不需要立即採取任何緊急措施。", "answer": "否", "question_group": 1217}
 

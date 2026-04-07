@@ -25,31 +25,31 @@
 {"category": "Open", "question_type": "Fact Lookup", "question": "根據凱基銀行2023年資安調查及圖中所示客戶自我檢查與官方聯繫管道運用，以下哪些敘述正確比較了主動檢查帳戶明細與啟用即時交易通知在偵測及防範未授權交易和資金損失上的效果？", "answer": "主動檢查帳戶明細的用戶有95%能及時發現異常並阻止損失，顯著高於不檢查者的62%；啟用即時交易通知的用戶發生未授權交易的比例低於0.1%。"}
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "根據凱基銀行2023年資安調查及圖中所示客戶自我檢查與官方聯繫管道運用，以下哪些敘述正確比較了主動檢查帳戶明細與啟用即時交易通知在偵測及防範未授權交易和資金損失上的效果？", "answer": "C", "choice": ["啟用即時交易通知有助於即時提醒用戶發現異常交易，但仍須搭配定期檢查帳戶明細，以全面防範未授權交易的風險。", "主動檢查帳戶明細常常能發現異常行為並減少損失，而啟用即時通知主要提高用戶對交易的警覺性，兩者共同提升資安防護效率。", "主動檢查帳戶明細的用戶有95%能及時發現異常並阻止損失，顯著高於不檢查者的62%；啟用即時交易通知的用戶發生未授權交易的比例低於0.1%。", "啟用即時交易通知可降低未授權交易發生率，而定期檢查明細是用戶確認帳戶安全的必要步驟，兩者皆為防範資金遭竊的重要措施。"]}
 {"category": "Open", "question_type": "Fact Lookup", "question": "在圖4中，2022年的滿意度是否高於50%？", "answer": "由於圖表數據未提供，無法確定2022年的滿意度是否高於50%。"}
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖片，銀行主動攔截1,800筆可疑交易以有效防止詐騙。", "answer": "是", "question_group": 164}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，銀行主動攔截1,800筆可疑交易以有效防止詐騙。", "answer": "是", "question_group": 164}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖片，假冒客服是透過釣魚網站竊取帳密的主要手法。", "answer": "否", "question_group": 164}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，假冒客服是透過釣魚網站竊取帳密的主要手法。", "answer": "否", "question_group": 164}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，建議使用至少12位且含大小寫字母、數字與特殊符號的高強度密碼，並定期更換，避免跨平台重複使用，可以有效降低帳戶被盜風險。", "answer": "是", "question_group": 165}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，建議使用至少12位且含大小寫字母、數字與特殊符號的高強度密碼，並定期更換，避免跨平台重複使用，可以有效降低帳戶被盜風險。", "answer": "是", "question_group": 165}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，僅使用簡單且易記的短密碼並不影響帳戶安全性。", "answer": "否", "question_group": 165}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，僅使用簡單且易記的短密碼並不影響帳戶安全性。", "answer": "否", "question_group": 165}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，主動檢查帳戶明細的用戶有95%能及時發現異常並阻止損失。", "answer": "是", "question_group": 166}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，主動檢查帳戶明細的用戶有95%能及時發現異常並阻止損失。", "answer": "是", "question_group": 166}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，啟用即時交易通知的用戶發生未授權交易的比例高於10%。", "answer": "否", "question_group": 166}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，啟用即時交易通知的用戶發生未授權交易的比例高於10%。", "answer": "否", "question_group": 166}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖片，當客戶通報懷疑詐騙或帳戶盜用的異常交易時，凱基銀行透過行動銀行App等數位通報管道接收異常申訴，啟動專責團隊核查交易並暫停部分帳戶功能。", "answer": "是", "question_group": 167}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，當客戶通報懷疑詐騙或帳戶盜用的異常交易時，凱基銀行透過行動銀行App等數位通報管道接收異常申訴，啟動專責團隊核查交易並暫停部分帳戶功能。", "answer": "是", "question_group": 167}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖片，當客戶通報懷疑詐騙或帳戶盜用的異常交易時，凱基銀行不會啟動專責團隊核查交易或暫停任何帳戶功能。", "answer": "否", "question_group": 167}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，當客戶通報懷疑詐騙或帳戶盜用的異常交易時，凱基銀行不會啟動專責團隊核查交易或暫停任何帳戶功能。", "answer": "否", "question_group": 167}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2023年凱基銀行攔截的可疑交易筆數是1,800。", "answer": "是", "question_group": 168}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表2，2023年凱基銀行攔截的可疑交易筆數是1,800。", "answer": "是", "question_group": 168}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2023年凱基銀行攔截的可疑交易筆數是2,000。", "answer": "否", "question_group": 168}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表2，2023年凱基銀行攔截的可疑交易筆數是2,000。", "answer": "否", "question_group": 168}
 
-{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，5萬元至10萬元的轉帳佔全部轉帳的百分比是6%。", "answer": "是", "question_group": 169}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖2，5萬元至10萬元的轉帳佔全部轉帳的百分比是6%。", "answer": "是", "question_group": 169}
 
-{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，5萬元至10萬元的轉帳佔全部轉帳的百分比是16%。", "answer": "否", "question_group": 169}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖2，5萬元至10萬元的轉帳佔全部轉帳的百分比是16%。", "answer": "否", "question_group": 169}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，只有一個活動類型的數值超過50。", "answer": "是", "question_group": 170}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖9，只有一個活動類型的數值超過50。", "answer": "是", "question_group": 170}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，有兩個活動類型的數值超過50。", "answer": "否", "question_group": 170}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖9，有兩個活動類型的數值超過50。", "answer": "否", "question_group": 170}
 

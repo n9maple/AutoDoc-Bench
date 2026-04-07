@@ -19,27 +19,27 @@
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據2024年中的數據，若平均每月阻擋高風險攻擊事件次數的最高值為200次，最低值為85次，請問它們之間的差距是多少？", "answer": "C", "choice": ["125次", "95次", "115", "120次"]}
 {"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2023年至2025年的數據，數位服務交易量年增率的變化趨勢是什麼？", "answer": "C", "choice": ["數位服務交易量年增率在2024年達到22%，隨後於2025年持平於22%。", "數位服務交易量年增率從2023年的18%上升至2025年的19%。", "數位服務交易量年增率呈現逐年上升的趨勢，從2023年的18%漸增至2025年的20%。", "數位服務交易量年增率在2024年達到18%，2025年再增至21%。"]}
 {"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖2，從2024年1月到2024年12月，重大資安事件通報率的趨勢是什麼？", "answer": "D", "choice": ["重大資安事件通報率在2024年初達到90%，然後在年末穩定在95%。", "重大資安事件通報率在2024年間時高達100%，但在特定的月份內有明顯的波動。", "重大資安事件通報率有周期性波動，季節變化影響通報率。", "重大資安事件通報率保持在100%，趨勢是穩定不變的。"]}
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022 年和 2023 年行動銀行用戶年增率的平均值是 11。", "answer": "是", "question_group": 912}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，2022 年和 2023 年行動銀行用戶年增率的平均值是 11。", "answer": "是", "question_group": 912}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022 年和 2023 年行動銀行用戶年增率的平均值是 13。", "answer": "否", "question_group": 912}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，2022 年和 2023 年行動銀行用戶年增率的平均值是 13。", "answer": "否", "question_group": 912}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2024年24小時資安諮詢專線的服務次數為12,500次，平均每月服務次數約為1,041.67次。", "answer": "是", "question_group": 913}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表8，2024年24小時資安諮詢專線的服務次數為12,500次，平均每月服務次數約為1,041.67次。", "answer": "是", "question_group": 913}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2024年24小時資安諮詢專線的服務次數為12,500次，平均每月服務次數約為1,250次。", "answer": "否", "question_group": 913}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表8，2024年24小時資安諮詢專線的服務次數為12,500次，平均每月服務次數約為1,250次。", "answer": "否", "question_group": 913}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2024年中平均每月阻擋高風險攻擊事件次數的最高值與最低值之間的差距是115次。", "answer": "是", "question_group": 914}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖2，2024年中平均每月阻擋高風險攻擊事件次數的最高值與最低值之間的差距是115次。", "answer": "是", "question_group": 914}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2024年中平均每月阻擋高風險攻擊事件次數的最高值與最低值之間的差距是105次。", "answer": "否", "question_group": 914}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖2，2024年中平均每月阻擋高風險攻擊事件次數的最高值與最低值之間的差距是105次。", "answer": "否", "question_group": 914}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，數位服務交易量年增率從2023年的18%逐年增加到2025年的20%。", "answer": "是", "question_group": 915}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖4，數位服務交易量年增率從2023年的18%逐年增加到2025年的20%。", "answer": "是", "question_group": 915}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，數位服務交易量年增率從2023年的18%下降到2025年的16%。", "answer": "否", "question_group": 915}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖4，數位服務交易量年增率從2023年的18%下降到2025年的16%。", "answer": "否", "question_group": 915}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023上半年和2024上半年用戶滿意度的平均值為85.5。", "answer": "是", "question_group": 916}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表5，2023上半年和2024上半年用戶滿意度的平均值為85.5。", "answer": "是", "question_group": 916}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023上半年和2024上半年用戶滿意度的平均值為84。", "answer": "否", "question_group": 916}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表5，2023上半年和2024上半年用戶滿意度的平均值為84。", "answer": "否", "question_group": 916}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2024年第一季的平均每用戶月交易筆數和App功能升級次數的總和是15。", "answer": "是", "question_group": 917}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，2024年第一季的平均每用戶月交易筆數和App功能升級次數的總和是15。", "answer": "是", "question_group": 917}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2024年第一季的平均每用戶月交易筆數和App功能升級次數的總和是24。", "answer": "否", "question_group": 917}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，2024年第一季的平均每用戶月交易筆數和App功能升級次數的總和是24。", "answer": "否", "question_group": 917}
 

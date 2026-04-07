@@ -23,31 +23,31 @@
 {"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖3，資金籌集額最多的合作類別與最少的合作類別之間的差額為多少億美元？", "answer": "A", "choice": ["4億美元", "2億美元", "5億美元", "7億美元"]}
 {"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖8，指標30的變化百分比與指標15相比，差異為多少？", "answer": "D", "choice": ["指標30的變化百分比比指標15多8%", "指標30的變化百分比比指標15多3%", "指標30的變化百分比比指標15少5%", "指標30的變化百分比比指標15多15%"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據圖5中的數據，以下哪一個指標的數據是最低的？", "answer": "C", "choice": ["指標: 7", "指標: 5", "指標: 10", "指標: 9"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，數值最低的項目是數值為30的項目。", "answer": "是", "question_group": 329}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖6，數值最低的項目是數值為30的項目。", "answer": "是", "question_group": 329}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，數值最低的項目是數值為100的項目。", "answer": "否", "question_group": 329}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖6，數值最低的項目是數值為100的項目。", "answer": "否", "question_group": 329}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的風險損失率降低百分比比2022年高7個百分點。", "answer": "是", "question_group": 330}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，2023年的風險損失率降低百分比比2022年高7個百分點。", "answer": "是", "question_group": 330}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的風險損失率降低百分比比2022年高5個百分點。", "answer": "否", "question_group": 330}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，2023年的風險損失率降低百分比比2022年高5個百分點。", "answer": "否", "question_group": 330}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2025年的金融科技投資額高於2024年。", "answer": "是", "question_group": 331}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，2025年的金融科技投資額高於2024年。", "answer": "是", "question_group": 331}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2024年的金融科技投資額高於2025年。", "answer": "否", "question_group": 331}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，2024年的金融科技投資額高於2025年。", "answer": "否", "question_group": 331}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，數值最低的指標是10。", "answer": "是", "question_group": 332}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖5，數值最低的指標是10。", "answer": "是", "question_group": 332}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，數值最低的指標是50。", "answer": "否", "question_group": 332}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖5，數值最低的指標是50。", "answer": "否", "question_group": 332}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2024年員工的參加比例較高，且提升能力的比例較大。", "answer": "是", "question_group": 333}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，2024年員工的參加比例較高，且提升能力的比例較大。", "answer": "是", "question_group": 333}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年員工的參加比例較高，且提升能力的比例較大。", "answer": "否", "question_group": 333}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，2023年員工的參加比例較高，且提升能力的比例較大。", "answer": "否", "question_group": 333}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖片，最左邊兩個指標的數值差距是190。", "answer": "是", "question_group": 334}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖5，最左邊兩個指標的數值差距是190。", "answer": "是", "question_group": 334}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖片，最左邊兩個指標的數值差距是180。", "answer": "否", "question_group": 334}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖5，最左邊兩個指標的數值差距是180。", "answer": "否", "question_group": 334}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023 年的風險管理得分比 2022 年高 2 分。", "answer": "是", "question_group": 335}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表7，2023 年的風險管理得分比 2022 年高 2 分。", "answer": "是", "question_group": 335}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023 年的風險管理得分比 2022 年低 2 分。", "answer": "否", "question_group": 335}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表7，2023 年的風險管理得分比 2022 年低 2 分。", "answer": "否", "question_group": 335}
 

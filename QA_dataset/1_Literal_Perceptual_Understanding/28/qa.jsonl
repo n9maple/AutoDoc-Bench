@@ -20,27 +20,27 @@
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "在台新銀行2025年度的企業社會責任報告中，董事會提升決策質量的措施中，以下哪一項在性別多元化和專業背景方面取得了顯著成效？考慮不同性別比例的起點對多元化影響的成效。", "answer": "C", "choice": ["董事會主要依靠董事年齡多樣性而非性別或專業背景。", "董事會通過將女性比例提高至50%，來確保決策多元化和專業性。", "董事會通過將女性比例提高至40%，並引入國際金融和ESG專業背景成員，來增強多元化和決策能力。", "董事會引入僅有男性的新成員以強化管理經驗。"]}
 {"category": "Open", "question_type": "Fact Lookup", "question": "根據表1的資料，2024年綠色貸款的數值是多少？", "answer": "357億元"}
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "根據表1的資料，以下哪一項最符合2024年綠色貸款的預估數值？", "answer": "C", "choice": ["355億元", "375億元", "357億元", "340億元"]}
-{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，節能減碳企業在2025年台新銀行綠色貸款用途中所佔的比例最低，為40.0%。", "answer": "是", "question_group": 76}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖3，節能減碳企業在2025年台新銀行綠色貸款用途中所佔的比例最低，為40.0%。", "answer": "是", "question_group": 76}
 
-{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，節能減碳企業在2025年台新銀行綠色貸款用途中所佔的比例最高，為40.0%。", "answer": "否", "question_group": 76}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖3，節能減碳企業在2025年台新銀行綠色貸款用途中所佔的比例最高，為40.0%。", "answer": "否", "question_group": 76}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據下圖，若2025年綠色貸款總額為600，可再生能源項目的金額將會是360。", "answer": "是", "question_group": 77}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖3，若2025年綠色貸款總額為600，可再生能源項目的金額將會是360。", "answer": "是", "question_group": 77}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據下圖，若2025年綠色貸款總額為600，可再生能源項目的金額將會是240。", "answer": "否", "question_group": 77}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖3，若2025年綠色貸款總額為600，可再生能源項目的金額將會是240。", "answer": "否", "question_group": 77}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2025年台新銀行董事會中有2項多元化指標的數值低於20。", "answer": "是", "question_group": 78}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖7，2025年台新銀行董事會中有2項多元化指標的數值低於20。", "answer": "是", "question_group": 78}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2025年台新銀行董事會中有3項多元化指標的數值低於20。", "answer": "否", "question_group": 78}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖7，2025年台新銀行董事會中有3項多元化指標的數值低於20。", "answer": "否", "question_group": 78}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，台新銀行透過太陽能和綠建築設計，每年減少約5,000噸二氧化碳排放，並節約至少20%的能源和水資源。", "answer": "是", "question_group": 79}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，台新銀行透過太陽能和綠建築設計，每年減少約5,000噸二氧化碳排放，並節約至少20%的能源和水資源。", "answer": "是", "question_group": 79}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，台新銀行每年僅透過使用節能燈泡減少約5,000噸二氧化碳排放，並節約至少20%的能源和水資源。", "answer": "否", "question_group": 79}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，台新銀行每年僅透過使用節能燈泡減少約5,000噸二氧化碳排放，並節約至少20%的能源和水資源。", "answer": "否", "question_group": 79}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，台新銀行提高了20%的員工福利預算用於健康支援和運動補助，70%參與健康活動，目標提升高階管理層女性比例至40%。", "answer": "是", "question_group": 80}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，台新銀行提高了20%的員工福利預算用於健康支援和運動補助，70%參與健康活動，目標提升高階管理層女性比例至40%。", "answer": "是", "question_group": 80}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，台新銀行僅增加了5%的員工福利預算用於健康支援，並沒有明確的目標來提升高階管理層女性比例。", "answer": "否", "question_group": 80}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，台新銀行僅增加了5%的員工福利預算用於健康支援，並沒有明確的目標來提升高階管理層女性比例。", "answer": "否", "question_group": 80}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，台新銀行計畫到2025年度將可持續金融產品提升至產品組合的25%並將碳排放降低30%。", "answer": "是", "question_group": 81}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，台新銀行計畫到2025年度將可持續金融產品提升至產品組合的25%並將碳排放降低30%。", "answer": "是", "question_group": 81}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，台新銀行計畫到2025年度將可持續金融產品提升至產品組合的50%並將碳排放降低10%。", "answer": "否", "question_group": 81}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，台新銀行計畫到2025年度將可持續金融產品提升至產品組合的50%並將碳排放降低10%。", "answer": "否", "question_group": 81}
 

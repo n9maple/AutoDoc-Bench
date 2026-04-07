@@ -20,23 +20,23 @@
 {"category": "Open", "question_type": "Comparison", "question": "在圖4中，其他選項的選擇比例是否低於App認證的比例？", "answer": "是，其他選項的選擇比例低於App認證的比例"}
 {"category": "MCQ", "question_type": "Comparison", "question": "在圖4中，以下選項中哪一項的選擇比例低於App認證的比例？", "answer": "A", "choice": ["其他選項的選擇比例", "社交媒體登錄的選擇比例", "生物識別技術的選擇比例", "雙重認證的選擇比例"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據表1的資料，以下哪種認證方式的效率最低？另外，該方式效率相較於最高的認證方式低了多少百分比？", "answer": "B", "choice": ["指紋辨識的效率最低，相較於手機簡訊OTP認證低了8%。", "臉部辨識的效率最低，相較於手機簡訊OTP認證低了5%。", "臉部辨識的效率低於手機簡訊OTP，低了15%。", "指紋辨識和臉部辨識的效率相同，相較於手機簡訊OTP認證均低10%。"]}
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，'其他'的選擇比例是所有安全設定中最低的。", "answer": "是", "question_group": 485}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖4，'其他'的選擇比例是所有安全設定中最低的。", "answer": "是", "question_group": 485}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，簡訊OTP的選擇比例是所有安全設定中最低的。", "answer": "否", "question_group": 485}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖4，簡訊OTP的選擇比例是所有安全設定中最低的。", "answer": "否", "question_group": 485}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據附圖，使用者解決率最低的客服管道是使用者解決率為80的管道。", "answer": "是", "question_group": 486}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖5，使用者解決率最低的客服管道是使用者解決率為80的管道。", "answer": "是", "question_group": 486}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據附圖，使用者解決率最低的客服管道是使用者解決率為95的管道。", "answer": "否", "question_group": 486}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖5，使用者解決率最低的客服管道是使用者解決率為95的管道。", "answer": "否", "question_group": 486}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，證件類型的用戶選擇比例從高到低排序為：91%、7%、2%。", "answer": "是", "question_group": 487}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖3，證件類型的用戶選擇比例從高到低排序為：91%、7%、2%。", "answer": "是", "question_group": 487}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，證件類型的用戶選擇比例從高到低排序為：7%、2%、91%。", "answer": "否", "question_group": 487}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖3，證件類型的用戶選擇比例從高到低排序為：7%、2%、91%。", "answer": "否", "question_group": 487}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，線上補件功能的補件完成率是最高的，為98。", "answer": "是", "question_group": 488}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，線上補件功能的補件完成率是最高的，為98。", "answer": "是", "question_group": 488}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，電子郵件通知補件的補件完成率是最高的，為98。", "answer": "否", "question_group": 488}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，電子郵件通知補件的補件完成率是最高的，為98。", "answer": "否", "question_group": 488}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，手機簡訊OTP認證的成功率比電子郵件認證高出2%。", "answer": "是", "question_group": 489}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，手機簡訊OTP認證的成功率比電子郵件認證高出2%。", "answer": "是", "question_group": 489}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，手機簡訊OTP認證的成功率比電子郵件認證高出5%。", "answer": "否", "question_group": 489}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，手機簡訊OTP認證的成功率比電子郵件認證高出5%。", "answer": "否", "question_group": 489}
 

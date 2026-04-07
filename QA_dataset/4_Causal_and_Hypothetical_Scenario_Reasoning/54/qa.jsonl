@@ -3,7 +3,7 @@
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "如果所有項目的平均處理時間都減少 0.1 天，根據提供的圖表，'開戶後一週內成功首次交易' 的新平均處理時間會是以下哪一項？", "answer": "C", "choice": ["3.6", "4.0", "3.7", "3.5"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據以下數據，簡訊通知補件和電子郵件通知補件的平均補件時間相加，然後減去線上補件功能的平均補件時間，最終結果是？（請參考提供的圖片數據進行計算）", "answer": "C", "choice": ["7", "9", "8", "11"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表2的資料，如果原始上傳的通過率降低了4%，而利用預覽功能修正後的通過率提高了2%，那麼最終的通過率是以下哪一項？", "answer": "C", "choice": ["原始上傳的最終通過率是82%，利用預覽功能修正後的最終通過率是100%。", "原始上傳的最終通過率是80%，利用預覽功能修正後的最終通過率是98%。", "原始上傳的最終通過率是83%，利用預覽功能修正後的最終通過率是99%。", "原始上傳的最終通過率是81%，利用預覽功能修正後的最終通過率是97%。"]}
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，'開戶後一週內成功首次交易' 的新平均處理時間是 3.7 天。", "answer": "是", "question_group": 1372}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，'開戶後一週內成功首次交易' 的新平均處理時間是 3.7 天。", "answer": "是", "question_group": 1372}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，'開戶後一週內成功首次交易' 的新平均處理時間是 3.9 天。", "answer": "否", "question_group": 1372}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，'開戶後一週內成功首次交易' 的新平均處理時間是 3.9 天。", "answer": "否", "question_group": 1372}
 

@@ -31,59 +31,59 @@
 {"category": "Open", "question_type": "Creative Scenario", "question": "參考圖中數據（整體滿意85%、客服90%、多卡用戶滿意75%、有15%建議降年費），在為期24個月且要求不降低淨收益（營收中性）的條件下，哪一組策略優先順序（由高→中→低）以及量化估算最符合將整體滿意度從85%提升到90%的保守方案？請選一項最接近並包含主要營收中性措施與關鍵量化估算：\n\nA) 優先 A→B→C：以精準費用設計回應15%降年費訴求、利用客服（90%）作為觸達；保守估算貢獻 A +3.0 pp、B +1.2 pp、C +0.8 pp，總計 +5.0 pp（85%→90%）；營收中性措施範例：門檻式免年費、只對高LTV分群減免、商家共同補貼；主要KPI：分群覆蓋率、該群月均刷卡額、年費淨收入、流失率；風險與緩解：年費放寬導致收益下滑→A/B測試與期限化門檻。\n\nB) 優先 B→A→C：先擴大中小商家優惠以回應15%與75%多卡用戶場景需求；估算貢獻例：B +2.5 pp、A +1.5 pp、C +0.8 pp，總計 +4.8 pp（未必達90%）；營收中性措施：商家付費展示或performance-based抽成、試點驗證；主要風險：商家不付費→成效付費契約。\n\nC) 優先 C→A→B：先強化個人化與數據驅動提升75%多卡用戶與中性者轉化；估算例：C +2.0 pp、A +1.8 pp、B +0.8 pp，總計 +4.6 pp（不足以達90%）；營收中性措施：提高交叉銷售以抵消優惠成本、客服自動化節省成本；風險：個人化失準→小範圍A/B測試。\n\nD) 優先 A→C→B：精準費用設計為首、個人化放第二、擴大商家優惠放最後；估算例：A +3.0 pp、C +1.5 pp、B +0.3 pp，總計 +4.8 pp（未必達90%）；營收中性措施與風險緩解同上。", "answer": "A) 優先順序 A→B→C：保守估算貢獻 A +3.0 pp、B +1.2 pp、C +0.8 pp，合計 +5.0 pp 將整體滿意度從85%提升到90%，並以門檻式免年費、針對高LTV分群減免與商家共同補貼等措施維持營收中性。"}
 {"category": "MCQ", "question_type": "Creative Scenario", "question": "參考圖中數據（整體滿意85%、客服90%、多卡用戶滿意75%、有15%建議降年費），在為期24個月且要求不降低淨收益（營收中性）的條件下，哪一組策略優先順序（由高→中→低）以及量化估算最符合將整體滿意度從85%提升到90%的保守方案？請選一項最接近並包含主要營收中性措施與關鍵量化估算：\n\nA) 優先 A→B→C：以精準費用設計回應15%降年費訴求、利用客服（90%）作為觸達；保守估算貢獻 A +3.0 pp、B +1.2 pp、C +0.8 pp，總計 +5.0 pp（85%→90%）；營收中性措施範例：門檻式免年費、只對高LTV分群減免、商家共同補貼；主要KPI：分群覆蓋率、該群月均刷卡額、年費淨收入、流失率；風險與緩解：年費放寬導致收益下滑→A/B測試與期限化門檻。\n\nB) 優先 B→A→C：先擴大中小商家優惠以回應15%與75%多卡用戶場景需求；估算貢獻例：B +2.5 pp、A +1.5 pp、C +0.8 pp，總計 +4.8 pp（未必達90%）；營收中性措施：商家付費展示或performance-based抽成、試點驗證；主要風險：商家不付費→成效付費契約。\n\nC) 優先 C→A→B：先強化個人化與數據驅動提升75%多卡用戶與中性者轉化；估算例：C +2.0 pp、A +1.8 pp、B +0.8 pp，總計 +4.6 pp（不足以達90%）；營收中性措施：提高交叉銷售以抵消優惠成本、客服自動化節省成本；風險：個人化失準→小範圍A/B測試。\n\nD) 優先 A→C→B：精準費用設計為首、個人化放第二、擴大商家優惠放最後；估算例：A +3.0 pp、C +1.5 pp、B +0.3 pp，總計 +4.8 pp（未必達90%）；營收中性措施與風險緩解同上。", "answer": "D", "choice": ["優先 A→B→C（考慮A/B重疊20%）：以精準費用設計回應15%降年費訴求、同步擴大中小商家優惠做為補強並利用客服觸達；保守估算貢獻 A +3.0 pp、B +1.0 pp、C +0.6 pp，總計 +4.6 pp（85%→89.6%）；營收中性措施範例：只對新客或達門檻群體提供期限化免年費、商家按成交補貼部分成本、以交叉銷售提升客單以抵消年費損失；主要KPI：門檻覆蓋率、商家補貼比率、年費淨收入變動。", "優先 C→A→B：以個人化與數據驅動優化（先提升多卡用戶與高價值族群體驗），再針對年費做分群化設計，最後擴大商家優惠；估算貢獻 C +2.5 pp、A +0.9 pp、B +0.6 pp，總計 +4.0 pp（85%→89.0%）；營收中性措施：強化客服自動化節省成本、以限定樣本試點的分群免年費加交叉銷售抵消成本、商家小額補貼；主要風險：個人化與交叉銷售見效慢、數據基礎不足時效果大幅折扣。", "優先 B→A→C：以擴大中小商家優惠為首（回應15%與75%多卡用戶需求），再以精準年費設計補強多卡用戶與中性者；估算貢獻 B +2.8 pp、A +1.0 pp、C +0.6 pp，總計 +4.4 pp（85%→89.4%）；營收中性措施：商家按效果付費或performance-based抽成、試點展示費由商家承擔、以商家補貼與分期優惠抵銷年費減免成本；主要風險：商家付費意願不足、補貼不足以支撐大規模推廣。", "A) 優先順序 A→B→C：保守估算貢獻 A +3.0 pp、B +1.2 pp、C +0.8 pp，合計 +5.0 pp 將整體滿意度從85%提升到90%，並以門檻式免年費、針對高LTV分群減免與商家共同補貼等措施維持營收中性。"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表3的資料，如果零售類別的平均單筆交易額增加20%，而餐飲類別的平均單筆交易額減少10%，那麼這兩個類別當前的平均單筆交易額差距是多少？以下哪一選項是正確的？", "answer": "B", "choice": ["1300", "1350", "1200", "1550"]}
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，今年的月均消費額比去年多了新台幣1,667元，這增額相當於去年消費額的20%。", "answer": "是", "question_group": 1193}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表4，今年的月均消費額比去年多了新台幣1,667元，這增額相當於去年消費額的20%。", "answer": "是", "question_group": 1193}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，今年的月均消費額比去年多了新台幣2,000元，這增額相當於去年消費額的25%。", "answer": "否", "question_group": 1193}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表4，今年的月均消費額比去年多了新台幣2,000元，這增額相當於去年消費額的25%。", "answer": "否", "question_group": 1193}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據圖中數據，強化客服與回應機制可直接針對約10%不滿意者挽回流失，提高留存率。", "answer": "是", "question_group": 1194}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，強化客服與回應機制可直接針對約10%不滿意者挽回流失，提高留存率。", "answer": "是", "question_group": 1194}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據圖中數據，長期產品或品牌改版是最適合在6個月內提升留存率的策略。", "answer": "否", "question_group": 1194}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，長期產品或品牌改版是最適合在6個月內提升留存率的策略。", "answer": "否", "question_group": 1194}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，推出小額即時微回饋＋頻次激勵，針對以25–45歲占68%且女性52%的日常消費族群在單筆<NT$500場景給予即時回饋，可以提高每戶月交易筆數來抵銷平均單筆金額下降造成的總額流失。", "answer": "是", "question_group": 1195}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，推出小額即時微回饋＋頻次激勵，針對以25–45歲占68%且女性52%的日常消費族群在單筆<NT$500場景給予即時回饋，可以提高每戶月交易筆數來抵銷平均單筆金額下降造成的總額流失。", "answer": "是", "question_group": 1195}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，推出專為45歲以上人口設計的高額消費回饋活動，是最直接利用年齡與教育結構以及小額即時支付普及化來減緩因平均單筆金額下降而造成的總交易額流失。", "answer": "否", "question_group": 1195}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，推出專為45歲以上人口設計的高額消費回饋活動，是最直接利用年齡與教育結構以及小額即時支付普及化來減緩因平均單筆金額下降而造成的總交易額流失。", "answer": "否", "question_group": 1195}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，策略優先順序為 A→B→C，並且估算貢獻總計 +5.0 pp，能夠將整體滿意度從85%提升到90%。", "answer": "是", "question_group": 1196}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，策略優先順序為 A→B→C，並且估算貢獻總計 +5.0 pp，能夠將整體滿意度從85%提升到90%。", "answer": "是", "question_group": 1196}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，策略優先順序為 B→A→C，估算貢獻總計 +4.8 pp，可以將整體滿意度提升到90%。", "answer": "否", "question_group": 1196}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，策略優先順序為 B→A→C，估算貢獻總計 +4.8 pp，可以將整體滿意度提升到90%。", "answer": "否", "question_group": 1196}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，零售與餐飲的平均單筆交易額各增加 10% 後，兩者加起來的平均單筆交易額總和是 6050。", "answer": "是", "question_group": 1197}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，零售與餐飲的平均單筆交易額各增加 10% 後，兩者加起來的平均單筆交易額總和是 6050。", "answer": "是", "question_group": 1197}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，零售與餐飲的平均單筆交易額各增加 10% 後，兩者加起來的平均單筆交易額總和是 7000。", "answer": "否", "question_group": 1197}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，零售與餐飲的平均單筆交易額各增加 10% 後，兩者加起來的平均單筆交易額總和是 7000。", "answer": "否", "question_group": 1197}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，少數高額交易如旅遊或大額網購，以及25–45歲的高消費族群，可以將月均消費拉高至45,000元。", "answer": "是", "question_group": 1198}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，少數高額交易如旅遊或大額網購，以及25–45歲的高消費族群，可以將月均消費拉高至45,000元。", "answer": "是", "question_group": 1198}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，高頻次且低單價的交易如零售和餐飲，能夠單獨達到月均消費45,000元。", "answer": "否", "question_group": 1198}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，高頻次且低單價的交易如零售和餐飲，能夠單獨達到月均消費45,000元。", "answer": "否", "question_group": 1198}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，推動未使用行動支付者轉為行動支付可以在短期內達到較穩健的成效，因為每張被轉化卡的3個月GTV增幅約為 NT$20,250。", "answer": "是", "question_group": 1199}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，推動未使用行動支付者轉為行動支付可以在短期內達到較穩健的成效，因為每張被轉化卡的3個月GTV增幅約為 NT$20,250。", "answer": "是", "question_group": 1199}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，推出旅遊促銷並假設每張被促動卡在3個月內僅新增1筆旅遊交易且無置換，增幅為 NT$15,000，能夠在短期內超越行動支付轉化的成效。", "answer": "否", "question_group": 1199}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，推出旅遊促銷並假設每張被促動卡在3個月內僅新增1筆旅遊交易且無置換，增幅為 NT$15,000，能夠在短期內超越行動支付轉化的成效。", "answer": "否", "question_group": 1199}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，採用分層因子式2^3 factorial 隨機化可以同時估計促銷主效應與交互效應，並且允許量化短期預測與設置停止門檻。", "answer": "是", "question_group": 1200}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，採用分層因子式2^3 factorial 隨機化可以同時估計促銷主效應與交互效應，並且允許量化短期預測與設置停止門檻。", "answer": "是", "question_group": 1200}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，對A、B、C分別執行三個獨立的A/B測試可以同時估計促銷主效應與交互效應，並允許量化短期預測與設置停止門檻。", "answer": "否", "question_group": 1200}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，對A、B、C分別執行三個獨立的A/B測試可以同時估計促銷主效應與交互效應，並允許量化短期預測與設置停止門檻。", "answer": "否", "question_group": 1200}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，為快速提升整體信用卡滿意度，應優先選擇改善信用卡費用與合作商家優惠，因為約15%用戶建議降低年費或擴大優惠。", "answer": "是", "question_group": 1201}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，為快速提升整體信用卡滿意度，應優先選擇改善信用卡費用與合作商家優惠，因為約15%用戶建議降低年費或擴大優惠。", "answer": "是", "question_group": 1201}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，應優先改善客戶服務來提升整體信用卡滿意度，因為客服滿意度明顯低於產品設計滿意度。", "answer": "否", "question_group": 1201}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，應優先改善客戶服務來提升整體信用卡滿意度，因為客服滿意度明顯低於產品設計滿意度。", "answer": "否", "question_group": 1201}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，情境A在短期內較能最大化整體消費總額，因為現金回饋使整體消費增加約25%，配合數位推廣可估為增長約30%。", "answer": "是", "question_group": 1202}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，情境A在短期內較能最大化整體消費總額，因為現金回饋使整體消費增加約25%，配合數位推廣可估為增長約30%。", "answer": "是", "question_group": 1202}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，情境B在短期內較能最大化整體消費總額，因為參與商家的交易額增長超過30%，且消費筆數增加約18%。", "answer": "否", "question_group": 1202}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，情境B在短期內較能最大化整體消費總額，因為參與商家的交易額增長超過30%，且消費筆數增加約18%。", "answer": "否", "question_group": 1202}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據圖中提供的數據，下一年度以情境A為主的策略（資源分配A 60% / B 40%）並且保留至少30%的資源給B作為防守投入，能最大化TPV與用卡黏性。", "answer": "是", "question_group": 1203}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，下一年度以情境A為主的策略（資源分配A 60% / B 40%）並且保留至少30%的資源給B作為防守投入，能最大化TPV與用卡黏性。", "answer": "是", "question_group": 1203}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據圖中提供的數據，下一年度應該完全優先選擇情境B，並將100%的資源都集中在數位與電商以最大化TPV與用卡黏性。", "answer": "否", "question_group": 1203}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，下一年度應該完全優先選擇情境B，並將100%的資源都集中在數位與電商以最大化TPV與用卡黏性。", "answer": "否", "question_group": 1203}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，若當前年假設為(40.0%,50.0%)，則前一年在相對增長12%的情況下約為(35.7%,44.6%)。", "answer": "是", "question_group": 1204}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，若當前年假設為(40.0%,50.0%)，則前一年在相對增長12%的情況下約為(35.7%,44.6%)。", "answer": "是", "question_group": 1204}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，四類合計100%表示一定沒有其他類別且四捨五入不會影響結論。", "answer": "否", "question_group": 1204}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，四類合計100%表示一定沒有其他類別且四捨五入不會影響結論。", "answer": "否", "question_group": 1204}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，若富邦銀行欲最大化全體持卡人的總消費額，應優先採取『特定商家折扣』，前提是參與商家占比大於約83.33%。", "answer": "是", "question_group": 1205}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，若富邦銀行欲最大化全體持卡人的總消費額，應優先採取『特定商家折扣』，前提是參與商家占比大於約83.33%。", "answer": "是", "question_group": 1205}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，若富邦銀行欲最大化交易次數，應優先採取『積分加倍』促銷策略。", "answer": "否", "question_group": 1205}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，若富邦銀行欲最大化交易次數，應優先採取『積分加倍』促銷策略。", "answer": "否", "question_group": 1205}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，擴大與中小型商家合作並提升優惠最有可能在6–18個月內提升整體滿意度與忠誠度。", "answer": "是", "question_group": 1206}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，擴大與中小型商家合作並提升優惠最有可能在6–18個月內提升整體滿意度與忠誠度。", "answer": "是", "question_group": 1206}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，大幅降低年費或提供更多免年費卡最有可能在6–18個月內提升整體滿意度與忠誠度。", "answer": "否", "question_group": 1206}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，大幅降低年費或提供更多免年費卡最有可能在6–18個月內提升整體滿意度與忠誠度。", "answer": "否", "question_group": 1206}
 

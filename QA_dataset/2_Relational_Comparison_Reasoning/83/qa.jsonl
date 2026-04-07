@@ -8,19 +8,19 @@
 {"category": "Open", "question_type": "Difference Calculation", "question": "根據圖1，2022年和2023年的總營收之間的差異是多少新台幣億元？", "answer": "50億元"}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據圖3，以下哪個保險產品類型的收入增長百分比更高？", "answer": "D", "choice": ["保險產品類型15的收入增長百分比低於保險產品類型20", "某些保險產品類型的收入增長百分比相近，但仍未確認具體數字", "保險產品類型5的增長百分比無法低於保險產品類型20", "保險產品類型20的收入增長百分比更高"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據表5的資料，2024年技術升級的投資額相較於數據分析能力增強和新興科技應用的投資總和，情況如何？", "answer": "B", "choice": ["2024年技術升級的投資額低於數據分析能力增強和新興科技應用的投資總和。", "2024年技術升級的投資額超過數據分析能力增強和新興科技應用的投資總和。", "2024年技術升級的投資額略低於數據分析能力增強和新興科技應用的投資總和的平均值。", "2024年技術升級的投資額幾乎等於數據分析能力增強和新興科技應用的投資總和。"]}
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，數值最高與最低的差距是550萬。", "answer": "是", "question_group": 644}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖5，數值最高與最低的差距是550萬。", "answer": "是", "question_group": 644}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，數值最高與最低的差距是650萬。", "answer": "否", "question_group": 644}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖5，數值最高與最低的差距是650萬。", "answer": "否", "question_group": 644}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，亞洲地區的百分比在2023年比其他地區高5%。", "answer": "是", "question_group": 645}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，亞洲地區的百分比在2023年比其他地區高5%。", "answer": "是", "question_group": 645}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，亞洲地區的百分比在2023年比其他地區高10%。", "answer": "否", "question_group": 645}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，亞洲地區的百分比在2023年比其他地區高10%。", "answer": "否", "question_group": 645}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，印尼的市場份額增長比越南多了5個百分點。", "answer": "是", "question_group": 646}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，印尼的市場份額增長比越南多了5個百分點。", "answer": "是", "question_group": 646}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，印尼的市場份額增長比越南多了10個百分點。", "answer": "否", "question_group": 646}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，印尼的市場份額增長比越南多了10個百分點。", "answer": "否", "question_group": 646}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的資本適足率高於監管要求，高出110個百分點。", "answer": "是", "question_group": 647}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，2023年的資本適足率高於監管要求，高出110個百分點。", "answer": "是", "question_group": 647}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的資本適足率低於監管要求。", "answer": "否", "question_group": 647}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，2023年的資本適足率低於監管要求。", "answer": "否", "question_group": 647}
 

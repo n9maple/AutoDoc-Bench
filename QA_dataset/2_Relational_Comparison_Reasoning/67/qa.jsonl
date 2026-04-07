@@ -13,15 +13,15 @@
 {"category": "Open", "question_type": "Comparison", "question": "根據表2的資料，30歲男性和女性在20年期方案中的費用相比，哪一方較低且差額是多少？", "answer": "30歲女性在20年期方案中的費用較低，差額是1,760元。"}
 {"category": "Open", "question_type": "Comparison", "question": "根據表6的資料，哪家壽險公司的投資型保單年化報酬率低於業界平均，並且是所有公司中最低的？", "answer": "國泰人壽"}
 {"category": "MCQ", "question_type": "Ranking", "question": "根據圖3，以下哪些商品類型的佔比從低到高排序為正確的？", "answer": "C", "choice": ["投資型保險, 定期壽險, 健康醫療險, 終身壽險", "健康醫療險, 投資型保險, 定期壽險, 終身壽險", "定期壽險, 投資型保險, 健康醫療險, 終身壽險", "終身壽險, 健康醫療險, 定期壽險, 投資型保險"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，沒有足夠的資訊來確定投資型保險的佔比是否超過健康醫療險。", "answer": "是", "question_group": 567}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖3，沒有足夠的資訊來確定投資型保險的佔比是否超過健康醫療險。", "answer": "是", "question_group": 567}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，可以明確看出投資型保險的佔比超過健康醫療險。", "answer": "否", "question_group": 567}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖3，可以明確看出投資型保險的佔比超過健康醫療險。", "answer": "否", "question_group": 567}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，男性在30歲的數值比女性多1760。", "answer": "是", "question_group": 568}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，男性在30歲的數值比女性多1760。", "answer": "是", "question_group": 568}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，男性在30歲的數值比女性多2000。", "answer": "否", "question_group": 568}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，男性在30歲的數值比女性多2000。", "answer": "否", "question_group": 568}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，30歲女性購買重大疾病險的保費是11,040元，45歲女性購買重大疾病險的保費是17,664元，因此兩者的保費差距是6,624元。", "answer": "是", "question_group": 569}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，30歲女性購買重大疾病險的保費是11,040元，45歲女性購買重大疾病險的保費是17,664元，因此兩者的保費差距是6,624元。", "answer": "是", "question_group": 569}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，30歲女性和45歲女性在購買重大疾病險時，彼此的保費差距是5,000元。", "answer": "否", "question_group": 569}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，30歲女性和45歲女性在購買重大疾病險時，彼此的保費差距是5,000元。", "answer": "否", "question_group": 569}
 

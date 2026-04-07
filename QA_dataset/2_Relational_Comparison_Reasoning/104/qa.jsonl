@@ -24,27 +24,27 @@
 {"category": "Open", "question_type": "Difference Calculation", "question": "在圖3中，資本適足率和不良貸款率的差值最大的是哪一年？", "answer": "2023年"}
 {"category": "Open", "question_type": "Ranking", "question": "根據圖5，投資收益在所有收入類別中的排名是第幾位？", "answer": "由於缺乏具體數據，無法確定投資收益的具體排名。"}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據表2，以下哪一年節能減碳項目佔綠色金融產品總額的比例較高？", "answer": "D", "choice": ["2022年", "2024年", "2020年", "2023年"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，網絡安全的預算比內部控制機制高新台幣6億元。", "answer": "是", "question_group": 711}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表7，網絡安全的預算比內部控制機制高新台幣6億元。", "answer": "是", "question_group": 711}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，網絡安全的預算比內部控制機制高新台幣2億元。", "answer": "否", "question_group": 711}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表7，網絡安全的預算比內部控制機制高新台幣2億元。", "answer": "否", "question_group": 711}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，環保技術貸款產品的合作機構數量比可再生能源專項貸款更多。", "answer": "是", "question_group": 712}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，環保技術貸款產品的合作機構數量比可再生能源專項貸款更多。", "answer": "是", "question_group": 712}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，可再生能源專項貸款的合作機構數量比環保技術貸款產品多。", "answer": "否", "question_group": 712}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，可再生能源專項貸款的合作機構數量比環保技術貸款產品多。", "answer": "否", "question_group": 712}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年和2024年風能的碳排放減少量差異是3萬噸，而太陽能的碳排放減少量差異是2萬噸，總差異為5萬噸。", "answer": "是", "question_group": 713}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，2023年和2024年風能的碳排放減少量差異是3萬噸，而太陽能的碳排放減少量差異是2萬噸，總差異為5萬噸。", "answer": "是", "question_group": 713}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年和2024年風能的碳排放減少量差異是4萬噸，而太陽能的碳排放減少量差異是2萬噸，總差異為6萬噸。", "answer": "否", "question_group": 713}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，2023年和2024年風能的碳排放減少量差異是4萬噸，而太陽能的碳排放減少量差異是2萬噸，總差異為6萬噸。", "answer": "否", "question_group": 713}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，提升數位基礎設施和開發創新金融科技應用的客戶比例目標和數位交易額佔比的總和是最高的，總和為110。", "answer": "是", "question_group": 714}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，提升數位基礎設施和開發創新金融科技應用的客戶比例目標和數位交易額佔比的總和是最高的，總和為110。", "answer": "是", "question_group": 714}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，人工智能和大數據應用的客戶比例目標和數位交易額佔比的總和是最高的。", "answer": "否", "question_group": 714}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，人工智能和大數據應用的客戶比例目標和數位交易額佔比的總和是最高的。", "answer": "否", "question_group": 714}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，不良貸款率的數值較低於核心資本適足率。", "answer": "是", "question_group": 715}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，不良貸款率的數值較低於核心資本適足率。", "answer": "是", "question_group": 715}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，核心資本適足率的數值較低於不良貸款率。", "answer": "否", "question_group": 715}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，核心資本適足率的數值較低於不良貸款率。", "answer": "否", "question_group": 715}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，無法確定台新銀行總負債的具體增加數額，因為缺乏相關的圖表數據。", "answer": "是", "question_group": 716}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖4，無法確定台新銀行總負債的具體增加數額，因為缺乏相關的圖表數據。", "answer": "是", "question_group": 716}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，台新銀行2023年到2024年的總負債增加了具體的數額。", "answer": "否", "question_group": 716}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖4，台新銀行2023年到2024年的總負債增加了具體的數額。", "answer": "否", "question_group": 716}
 

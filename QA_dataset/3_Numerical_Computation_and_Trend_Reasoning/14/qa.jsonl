@@ -11,19 +11,19 @@
 {"category": "MCQ", "question_type": "Aggregation", "question": "在某圖片中，所有挑戰類型的平均百分比可以怎麼描述？", "answer": "C", "choice": ["50%", "57.5%", "52.5%", "54%"]}
 {"category": "MCQ", "question_type": "Temporal Trend", "question": "從2023年到2024年，根據報告顯示，發布可持續性報告的公司比例增加了多少個百分點？", "answer": "C", "choice": ["減少了10個百分點", "增加了5個百分點", "增加了10個百分點", "增加了15個百分點"]}
 {"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表2的資料，假設台灣的ESG政策制定比例每年提升5%，而北美的比例保持不變，請問台灣需要幾年才能超過北美的現有比例？以下哪一項是正確的時間？", "answer": "C", "choice": ["6年", "11年", "8年", "9年"]}
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，2021年到2022年之間農業保險的需求增長幅度是2%，是最大增長幅度之一。", "answer": "是", "question_group": 805}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖2，2021年到2022年之間農業保險的需求增長幅度是2%，是最大增長幅度之一。", "answer": "是", "question_group": 805}
 
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，2020年到2021年之間農業保險的需求增長幅度是1%，是最大增長幅度之一。", "answer": "否", "question_group": 805}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖2，2020年到2021年之間農業保險的需求增長幅度是1%，是最大增長幅度之一。", "answer": "否", "question_group": 805}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，可再生能源和環保技術在2019年至2022年期間的百分比增長最多，均增加了15%。", "answer": "是", "question_group": 806}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，可再生能源和環保技術在2019年至2022年期間的百分比增長最多，均增加了15%。", "answer": "是", "question_group": 806}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，高碳排放企業在2019年至2022年期間的百分比增長最多，增加了15%。", "answer": "否", "question_group": 806}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，高碳排放企業在2019年至2022年期間的百分比增長最多，增加了15%。", "answer": "否", "question_group": 806}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，所有挑戰類型的平均百分比是52.5%。", "answer": "是", "question_group": 807}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖3，所有挑戰類型的平均百分比是52.5%。", "answer": "是", "question_group": 807}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，所有挑戰類型的平均百分比是60%。", "answer": "否", "question_group": 807}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖3，所有挑戰類型的平均百分比是60%。", "answer": "否", "question_group": 807}
 
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，2020年和2022年的地震理賠金額增長均為20億元。", "answer": "是", "question_group": 808}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖1，2020年和2022年的地震理賠金額增長均為20億元。", "answer": "是", "question_group": 808}
 
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，2021年的地震理賠金額增長最多，增加了10億元。", "answer": "否", "question_group": 808}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖1，2021年的地震理賠金額增長最多，增加了10億元。", "answer": "否", "question_group": 808}
 

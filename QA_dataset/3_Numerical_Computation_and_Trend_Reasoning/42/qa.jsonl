@@ -16,23 +16,23 @@
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據表6的資料，2024年至2026年間，中小學人數的總和是以下哪一項？", "answer": "C", "choice": ["65,000", "58,000", "60,000", "63,000"]}
 {"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表3的資料，假如專案查核次數以每年15%的速率增長，從2023年開始計算，到2025年底，專案查核次數預測會是多少？以下哪一項是最接近的預測數字？", "answer": "A", "choice": ["147.224", "152.500", "135.000", "145.300"]}
 {"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表2的資料，假設進修完成率每年提高0.5%，在2026年的預計進修完成率可能是多少？", "answer": "B", "choice": ["97.5%", "98.7%", "99.0%", "96.5%"]}
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從 2022 年到 2023 年，保險小學堂的瀏覽量增加了 89658。", "answer": "是", "question_group": 922}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表4，從 2022 年到 2023 年，保險小學堂的瀏覽量增加了 89658。", "answer": "是", "question_group": 922}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從 2022 年到 2023 年，保險小學堂的瀏覽量增加了 105000。", "answer": "否", "question_group": 922}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表4，從 2022 年到 2023 年，保險小學堂的瀏覽量增加了 105000。", "answer": "否", "question_group": 922}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，所有指標的平均值是74。", "answer": "是", "question_group": 923}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖4，所有指標的平均值是74。", "answer": "是", "question_group": 923}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，所有指標的平均值是85。", "answer": "否", "question_group": 923}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖4，所有指標的平均值是85。", "answer": "否", "question_group": 923}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，2022年和2023年之間，壽險公司的比率增加了6.2個百分比點。", "answer": "是", "question_group": 924}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，2022年和2023年之間，壽險公司的比率增加了6.2個百分比點。", "answer": "是", "question_group": 924}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，2022年和2023年之間，壽險公司的比率減少了6.2個百分比點。", "answer": "否", "question_group": 924}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，2022年和2023年之間，壽險公司的比率減少了6.2個百分比點。", "answer": "否", "question_group": 924}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023 年保險公會官網與保險小學堂的瀏覽量總和是 2200000。", "answer": "是", "question_group": 925}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，2023 年保險公會官網與保險小學堂的瀏覽量總和是 2200000。", "answer": "是", "question_group": 925}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023 年保險公會官網與保險小學堂的瀏覽量總和是 1500000。", "answer": "否", "question_group": 925}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，2023 年保險公會官網與保險小學堂的瀏覽量總和是 1500000。", "answer": "否", "question_group": 925}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023 年專案查核次數與公司糾紛減少次數相加的總和是 127。", "answer": "是", "question_group": 926}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，2023 年專案查核次數與公司糾紛減少次數相加的總和是 127。", "answer": "是", "question_group": 926}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023 年專案查核次數與公司糾紛減少次數相加的總和是 130。", "answer": "否", "question_group": 926}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，2023 年專案查核次數與公司糾紛減少次數相加的總和是 130。", "answer": "否", "question_group": 926}
 

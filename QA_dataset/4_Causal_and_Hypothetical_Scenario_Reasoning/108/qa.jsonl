@@ -6,11 +6,11 @@
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "假設在2025年9月初投資了1000美元在綠色能源，並在9月下旬賣出，那麼你的投資總額將是多少？請參考下面的資料來選擇正確答案。", "answer": "C", "choice": ["1200.00美元", "1350.00美元", "1299.75美元", "1400.00美元"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "在一個市場中，如果科技板塊的市場份額增加了5%，而金融板塊的市場份額減少了3%，那麼最終兩者的市場份額相差多少？", "answer": "C", "choice": ["市场份额相差8.0%", "市场份额相差7.0%", "9.0%", "市场份额相差11.0%"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表2的資料，如果鋼鐵行業的交易量以相同的環比增長率增長，六個月後的交易量將是多少？", "answer": "A", "choice": ["六個月後鋼鐵行業的交易量約為1194.05億。", "六個月後鋼鐵行業的交易量約為1100億。", "六個月後鋼鐵行業的交易量約為1250億。", "六個月後鋼鐵行業的交易量約為1350億。"]}
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，如果航運的交易量環比增長率提高到8%，下一期的交易量將會是1080億。", "answer": "是", "question_group": 1511}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表2，如果航運的交易量環比增長率提高到8%，下一期的交易量將會是1080億。", "answer": "是", "question_group": 1511}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，如果航運的交易量環比增長率提高到8%，下一期的交易量將會是1100億。", "answer": "否", "question_group": 1511}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表2，如果航運的交易量環比增長率提高到8%，下一期的交易量將會是1100億。", "answer": "否", "question_group": 1511}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，食品在增長後的交易量將超過零售180億。", "answer": "是", "question_group": 1512}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，食品在增長後的交易量將超過零售180億。", "answer": "是", "question_group": 1512}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，食品在增長後的交易量將超過零售9.5億。", "answer": "否", "question_group": 1512}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，食品在增長後的交易量將超過零售9.5億。", "answer": "否", "question_group": 1512}
 

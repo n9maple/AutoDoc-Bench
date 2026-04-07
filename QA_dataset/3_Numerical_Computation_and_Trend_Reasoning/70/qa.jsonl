@@ -9,15 +9,15 @@
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖所示的股市指數漲跌幅，總和是以下哪一個選項？", "answer": "C", "choice": ["-5.0", "-1.8", "-2.4", "-3.5"]}
 {"category": "Open", "question_type": "Aggregation", "question": "在圖6中，所有法人類別及指標的部位數量總和是多少？", "answer": "27440"}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據圖3，所有個股或族群的盤中最高漲幅的總和是多少？下列哪一項是正確的總和數字？", "answer": "A", "choice": ["14.7", "13.8", "16.5", "15.5"]}
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，今天加權指數與櫃買指數的總成交金額為4,040億元。", "answer": "是", "question_group": 1045}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，今天加權指數與櫃買指數的總成交金額為4,040億元。", "answer": "是", "question_group": 1045}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，今天加權指數與櫃買指數的總成交金額為3,000億元。", "answer": "否", "question_group": 1045}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，今天加權指數與櫃買指數的總成交金額為3,000億元。", "answer": "否", "question_group": 1045}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據下圖，所有股市指數漲跌幅的總和是 -2.4。", "answer": "是", "question_group": 1046}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖5，所有股市指數漲跌幅的總和是 -2.4。", "answer": "是", "question_group": 1046}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據下圖，所有股市指數漲跌幅的總和是 -1.5。", "answer": "否", "question_group": 1046}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖5，所有股市指數漲跌幅的總和是 -1.5。", "answer": "否", "question_group": 1046}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，合一的買賣超總和是1680，杏國的買賣超總和是730。", "answer": "是", "question_group": 1047}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，合一的買賣超總和是1680，杏國的買賣超總和是730。", "answer": "是", "question_group": 1047}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，合一的買賣超總和是1700，杏國的買賣超總和是740。", "answer": "否", "question_group": 1047}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，合一的買賣超總和是1700，杏國的買賣超總和是740。", "answer": "否", "question_group": 1047}
 

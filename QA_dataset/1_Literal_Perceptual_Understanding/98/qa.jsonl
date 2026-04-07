@@ -5,7 +5,7 @@
 {"category": "Open", "question_type": "Fact Lookup", "question": "根據圖2，哪個領域的專家數量最多？", "answer": "工程"}
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖2，以下哪個領域的專家數量最多？", "answer": "A", "choice": ["工程", "科技", "環境科學", "教育"]}
 {"category": "MCQ", "question_type": "Proportion", "question": "根據圖2，法律領域專家所占的百分比是多少？以下選項中哪一項是正確的？", "answer": "C", "choice": ["20%", "22%", "16.7%", "18%"]}
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，軌道與基礎設施維護及升級的資金分配比例是20%。", "answer": "是", "question_group": 235}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖1，軌道與基礎設施維護及升級的資金分配比例是20%。", "answer": "是", "question_group": 235}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，車輛購置的資金分配比例是20%。", "answer": "否", "question_group": 235}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖1，車輛購置的資金分配比例是20%。", "answer": "否", "question_group": 235}
 

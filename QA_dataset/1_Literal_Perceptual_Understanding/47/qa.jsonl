@@ -9,15 +9,15 @@
 {"category": "MCQ", "question_type": "Proportion", "question": "根據2023年信託資金配置比例，銀行定期存款的配置比例在總配置中佔多少百分比？", "answer": "C", "choice": ["55.0%", "57.5%", "58.0%", "59.0%"]}
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "在稽核指標中，根據圖片所示，數值超過50的指標數量為何？", "answer": "C", "choice": ["3", "5", "2", "1"]}
 {"category": "MCQ", "question_type": "Proportion", "question": "根據圖3，法人及團體客戶的比例為何？", "answer": "C", "choice": ["33.0%", "50.0%", "35.0%", "45.0%"]}
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2023年的平均每月新簽件數是125。", "answer": "是", "question_group": 121}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表3，2023年的平均每月新簽件數是125。", "answer": "是", "question_group": 121}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2023年的平均每月新簽件數是150。", "answer": "否", "question_group": 121}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表3，2023年的平均每月新簽件數是150。", "answer": "否", "question_group": 121}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖片顯示，數值最高的項目數量是3個。", "answer": "是", "question_group": 122}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖2，數值最高的項目數量是3個。", "answer": "是", "question_group": 122}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖片顯示，數值最高的項目數量是2個。", "answer": "否", "question_group": 122}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖2，數值最高的項目數量是2個。", "answer": "否", "question_group": 122}
 
-{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，2023年資金信託新開戶案件中法人及團體客戶的占比是35.0%。", "answer": "是", "question_group": 123}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖3，2023年資金信託新開戶案件中法人及團體客戶的占比是35.0%。", "answer": "是", "question_group": 123}
 
-{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，2023年資金信託新開戶案件中法人及團體客戶的占比是50.0%。", "answer": "否", "question_group": 123}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖3，2023年資金信託新開戶案件中法人及團體客戶的占比是50.0%。", "answer": "否", "question_group": 123}
 

@@ -10,19 +10,19 @@
 {"category": "Open", "question_type": "Rate of Change", "question": "從2023年到2024年，紙本理賠案件占比(%)的變化率是多少？", "answer": "-25%"}
 {"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2022年至2024年的數據，線上理賠案件占比的趨勢如何？", "answer": "C", "choice": ["線上理賠案件占比在2022年輕微上升，但在2023年出現明顯下降。", "2022年開始有所下降，2023年達到最低點，直到2024年才開始微幅恢復。", "線上理賠案件占比呈現逐年增加的趨勢。", "從2022年到2023年基本持平，2024年才開始明顯增加。"]}
 {"category": "MCQ", "question_type": "Rate of Change", "question": "根據下圖，2023年到2024年期間，紙本理賠案件的占比變化率最有可能是多少？", "answer": "C", "choice": ["-15%", "-30%", "-25%", "-35%"]}
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，所有統計項目的比例總和是227%。", "answer": "是", "question_group": 979}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖1，所有統計項目的比例總和是227%。", "answer": "是", "question_group": 979}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，所有統計項目的比例總和是150%。", "answer": "否", "question_group": 979}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖1，所有統計項目的比例總和是150%。", "answer": "否", "question_group": 979}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2021年到2023年，因資料不實或文件偽造進入法律程序案件的比例呈現下降趨勢。", "answer": "是", "question_group": 980}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表6，從2021年到2023年，因資料不實或文件偽造進入法律程序案件的比例呈現下降趨勢。", "answer": "是", "question_group": 980}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2021年到2023年，因資料不實或文件偽造進入法律程序案件的比例呈現上升趨勢。", "answer": "否", "question_group": 980}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表6，從2021年到2023年，因資料不實或文件偽造進入法律程序案件的比例呈現上升趨勢。", "answer": "否", "question_group": 980}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，姓名不符、身分證字號不符、關係不符及聯絡方式不符的總比例是23%。", "answer": "是", "question_group": 981}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，姓名不符、身分證字號不符、關係不符及聯絡方式不符的總比例是23%。", "answer": "是", "question_group": 981}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，姓名不符、身分證字號不符、關係不符及聯絡方式不符的總比例是15%。", "answer": "否", "question_group": 981}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，姓名不符、身分證字號不符、關係不符及聯絡方式不符的總比例是15%。", "answer": "否", "question_group": 981}
 
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據下圖，2023年到2024年期間，紙本理賠案件的占比變化率為-25%。", "answer": "是", "question_group": 982}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖5，2023年到2024年期間，紙本理賠案件的占比變化率為-25%。", "answer": "是", "question_group": 982}
 
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據下圖，2023年到2024年期間，紙本理賠案件的占比變化率為-10%。", "answer": "否", "question_group": 982}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖5，2023年到2024年期間，紙本理賠案件的占比變化率為-10%。", "answer": "否", "question_group": 982}
 

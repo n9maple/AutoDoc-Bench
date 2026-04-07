@@ -10,19 +10,19 @@
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據圖片顯示的2023年和2024年總投入金額，以下哪一選項最接近它們的平均值？", "answer": "C", "choice": ["1.50", "1.60", "1.45", "1.35"]}
 {"category": "Open", "question_type": "Aggregation", "question": "所有期間的事件數總和是多少？", "answer": "1"}
 {"category": "Open", "question_type": "Aggregation", "question": "根據表6的資料，2024年金融教育和弱勢關懷的投入總額是多少？", "answer": "0.9"}
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023年和2024年總投入金額的平均值是1.45。", "answer": "是", "question_group": 953}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表6，2023年和2024年總投入金額的平均值是1.45。", "answer": "是", "question_group": 953}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023年和2024年總投入金額的平均值是1.55。", "answer": "否", "question_group": 953}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表6，2023年和2024年總投入金額的平均值是1.55。", "answer": "否", "question_group": 953}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，這兩家公司的平均持股比率是35%。", "answer": "是", "question_group": 954}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，這兩家公司的平均持股比率是35%。", "answer": "是", "question_group": 954}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，這兩家公司的平均持股比率是40%。", "answer": "否", "question_group": 954}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，這兩家公司的平均持股比率是40%。", "answer": "否", "question_group": 954}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，台灣人壽保險的解約率和投資利差的數值總和是3.6%。", "answer": "是", "question_group": 955}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表5，台灣人壽保險的解約率和投資利差的數值總和是3.6%。", "answer": "是", "question_group": 955}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，台灣人壽保險的解約率和投資利差的數值總和是4.0%。", "answer": "否", "question_group": 955}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表5，台灣人壽保險的解約率和投資利差的數值總和是4.0%。", "answer": "否", "question_group": 955}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖片所示，各期間的事件數總和為 1。", "answer": "是", "question_group": 956}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖4，各期間的事件數總和為 1。", "answer": "是", "question_group": 956}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖片所示，各期間的事件數總和為 2。", "answer": "否", "question_group": 956}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖4，各期間的事件數總和為 2。", "answer": "否", "question_group": 956}
 

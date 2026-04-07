@@ -12,19 +12,19 @@
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖片中第一銀行因應本次房貸利率調整所採取的措施，下列關於該行對資金調度需求較高客戶與短期經濟困難客戶的還款方案，及其多元諮詢管道的描述，何者正確？", "answer": "C", "choice": ["銀行主要推薦資金調度需求高的客戶採用部分提前還款方式，並有提供調整還款年限的選項，且其諮詢管道包含線上客服及電話專線等多元服務。", "第一銀行提供資金調度需求較高客戶將浮動利率轉為固定利率的方案，亦協助短期經濟困難客戶申請暫緩還款及還本展延，並持續強化包含電話專線及分行諮詢的多元諮詢服務。", "第一銀行對資金調度需求較高客戶提供部分提前還款與還款年限調整方案，對短期經濟困難客戶則提供暫緩還款與還本展延機制，並透過線上客服、電話專線、分行諮詢及專屬顧問等管道，確保客戶在利率變動期間獲得即時且專業的支援。", "針對短期經濟困難的客戶，第一銀行提供還款期數調整及本金展延等方案，並且持續強化以線上客服、現場分行諮詢和專屬顧問為主的多元諮詢管道。"]}
 {"category": "Open", "question_type": "Fact Lookup", "question": "根據圖片中第一銀行自2024年7月1日起調整的新承作及既有浮動利率型房貸年利率範圍，及首購族與青年安心成家方案的專案優惠利率區間，下列哪些描述正確反映公告內容所示的利率調整與客戶服務策略？", "answer": "新承作及既有浮動利率房貸年利率調整為2.00%至2.38%，首購族及青年安心成家方案專案優惠利率維持在1.68%至1.75%，公告透過多管道溝通與主動通知展現利率透明與客戶關懷。"}
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖片中第一銀行自2024年7月1日起調整的新承作及既有浮動利率型房貸年利率範圍，及首購族與青年安心成家方案的專案優惠利率區間，下列哪些描述正確反映公告內容所示的利率調整與客戶服務策略？", "answer": "C", "choice": ["新承作及既有浮動利率房貸年利率調整為2.00%至2.38%，但首購族及青年安心成家方案利率將調整至1.70%至1.80%，且通知方式僅限於網路銀行訊息推播。", "所有既有房貸戶，包含浮動利率與固定利率方案，將自2024年7月1日起同時受到利率調整影響，且銀行不會提前發送任何通知。", "新承作及既有浮動利率房貸年利率調整為2.00%至2.38%，首購族及青年安心成家方案專案優惠利率維持在1.68%至1.75%，公告透過多管道溝通與主動通知展現利率透明與客戶關懷。", "客戶只能透過官方網站及行動銀行APP查詢貸款利率調整資訊，其他管道如客服專線或LINE帳號不提供相關服務。"]}
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖片，新申貸客戶自2024年7月1日（含）起簽約適用新利率，6月30日前簽約則維持舊利率。", "answer": "是", "question_group": 104}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，新申貸客戶自2024年7月1日（含）起簽約適用新利率，6月30日前簽約則維持舊利率。", "answer": "是", "question_group": 104}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖片，既有浮動利率貸款客戶的利率會在2024年7月1日自動生效調整，無需依契約調整週期。", "answer": "否", "question_group": 104}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，既有浮動利率貸款客戶的利率會在2024年7月1日自動生效調整，無需依契約調整週期。", "answer": "否", "question_group": 104}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，此次利率調整因應2024年3月中央銀行升息，影響新承作及既有浮動利率房貸方案，政府支持專案如首購族方案調整幅度較小。", "answer": "是", "question_group": 105}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，此次利率調整因應2024年3月中央銀行升息，影響新承作及既有浮動利率房貸方案，政府支持專案如首購族方案調整幅度較小。", "answer": "是", "question_group": 105}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，政府支持專案如首購族方案的利率調整幅度與一般浮動利率房貸方案相同。", "answer": "否", "question_group": 105}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，政府支持專案如首購族方案的利率調整幅度與一般浮動利率房貸方案相同。", "answer": "否", "question_group": 105}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖片，第一銀行對資金調度需求較高的客戶提供部分提前還款與還款年限調整方案，並對短期經濟困難客戶提供暫緩還款與還本展延機制，確保客戶在利率變動期間獲得即時且專業的支援。", "answer": "是", "question_group": 106}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，第一銀行對資金調度需求較高的客戶提供部分提前還款與還款年限調整方案，並對短期經濟困難客戶提供暫緩還款與還本展延機制，確保客戶在利率變動期間獲得即時且專業的支援。", "answer": "是", "question_group": 106}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖片，第一銀行僅對短期經濟困難客戶提供部分提前還款方案，且沒有提供任何多元諮詢管道。", "answer": "否", "question_group": 106}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，第一銀行僅對短期經濟困難客戶提供部分提前還款方案，且沒有提供任何多元諮詢管道。", "answer": "否", "question_group": 106}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，新申請房貸戶的利率與負擔增加幅度最大，月付增加673元且累計多付約16.15萬元。", "answer": "是", "question_group": 107}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，新申請房貸戶的利率與負擔增加幅度最大，月付增加673元且累計多付約16.15萬元。", "answer": "是", "question_group": 107}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，首購族專案戶的利率增加幅度最大，月付增加673元且累計多付約16.15萬元。", "answer": "否", "question_group": 107}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，首購族專案戶的利率增加幅度最大，月付增加673元且累計多付約16.15萬元。", "answer": "否", "question_group": 107}
 

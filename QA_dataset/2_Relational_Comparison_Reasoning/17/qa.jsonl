@@ -11,15 +11,15 @@
 {"category": "Open", "question_type": "Comparison", "question": "在圖5中，2022年和2023年的銀行客戶數位渠道使用率的差異是多少百分點？", "answer": "15百分點"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "在圖2中，2022年和2023年的增長率差額是多少？", "answer": "Y% - X%"}
 {"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖2，2022年和2023年的增長率差額是多少？", "answer": "D", "choice": ["Y% + (X% * 2)", "X% - Y%", "Y% - A%", "Y% - X%"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據圖片，最左邊和最右邊的技術應用比例相同，都是60%。", "answer": "是", "question_group": 322}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖3，最左邊和最右邊的技術應用比例相同，都是60%。", "answer": "是", "question_group": 322}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據圖片，最左邊的技術應用比例高於最右邊，分別是60%和50%。", "answer": "否", "question_group": 322}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖3，最左邊的技術應用比例高於最右邊，分別是60%和50%。", "answer": "否", "question_group": 322}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年客戶關係管理和風險管理的百分比相同。", "answer": "是", "question_group": 323}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，2023年客戶關係管理和風險管理的百分比相同。", "answer": "是", "question_group": 323}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年客戶關係管理的百分比高於風險管理的百分比。", "answer": "否", "question_group": 323}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，2023年客戶關係管理的百分比高於風險管理的百分比。", "answer": "否", "question_group": 323}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，沒有技術領域的企業數量比人工智慧多且市場份額較低。", "answer": "是", "question_group": 324}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，沒有技術領域的企業數量比人工智慧多且市場份額較低。", "answer": "是", "question_group": 324}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，支付技術的企業數量比人工智慧多且市場份額較低。", "answer": "否", "question_group": 324}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，支付技術的企業數量比人工智慧多且市場份額較低。", "answer": "否", "question_group": 324}
 

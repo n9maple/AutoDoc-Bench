@@ -22,27 +22,27 @@
 {"category": "MCQ", "question_type": "Rate of Change", "question": "根據下圖顯示的數據，從2025年到2026年，開放API數量的增長率是多少？", "answer": "C", "choice": ["3.75%", "12.30%", "8.24%", "7.50%"]}
 {"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表10，如果台灣金融業資安事件年增率每年增加5%，那麼在2026年，台灣金融業資安事件年增率將會是以下哪一項？", "answer": "D", "choice": ["40%", "20%", "30%", "25%"]}
 {"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表3的資料，從2023年到2024年上半年，個人化推薦用戶數成長率增加了以下哪一個百分比？", "answer": "D", "choice": ["10個百分比", "12個百分比", "18個百分比", "15個百分比"]}
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2024年的數位理財交易金額年增率和線上基金交易戶數年增率的平均值是29。", "answer": "是", "question_group": 838}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，2024年的數位理財交易金額年增率和線上基金交易戶數年增率的平均值是29。", "answer": "是", "question_group": 838}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2024年的數位理財交易金額年增率和線上基金交易戶數年增率的平均值是35。", "answer": "否", "question_group": 838}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，2024年的數位理財交易金額年增率和線上基金交易戶數年增率的平均值是35。", "answer": "否", "question_group": 838}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，金融科技創新投入與資安防護投入的總和為10.0。", "answer": "是", "question_group": 839}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，金融科技創新投入與資安防護投入的總和為10.0。", "answer": "是", "question_group": 839}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，金融科技創新投入與資安防護投入的總和為9.0。", "answer": "否", "question_group": 839}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，金融科技創新投入與資安防護投入的總和為9.0。", "answer": "否", "question_group": 839}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2024年所有滿意度的平均值最接近88.17%。", "answer": "是", "question_group": 840}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表6，2024年所有滿意度的平均值最接近88.17%。", "answer": "是", "question_group": 840}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2024年所有滿意度的平均值最接近75%。", "answer": "否", "question_group": 840}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表6，2024年所有滿意度的平均值最接近75%。", "answer": "否", "question_group": 840}
 
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據下圖，從2025年到2026年，開放API數量的增長率是8.24%。", "answer": "是", "question_group": 841}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖3，從2025年到2026年，開放API數量的增長率是8.24%。", "answer": "是", "question_group": 841}
 
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據下圖，從2025年到2026年，開放API數量的增長率是5%。", "answer": "否", "question_group": 841}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖3，從2025年到2026年，開放API數量的增長率是5%。", "answer": "否", "question_group": 841}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖表，從2024年到2027年，智能客服自助解決率逐年增加，從96.5%增加到99.8%。", "answer": "是", "question_group": 842}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖3，從2024年到2027年，智能客服自助解決率逐年增加，從96.5%增加到99.8%。", "answer": "是", "question_group": 842}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖表，從2024年到2027年，智能客服自助解決率逐年減少，從96.5%減少到94.0%。", "answer": "否", "question_group": 842}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖3，從2024年到2027年，智能客服自助解決率逐年減少，從96.5%減少到94.0%。", "answer": "否", "question_group": 842}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從 2023 年到 2024 年，智能投顧使用戶數的增長數量為 8。", "answer": "是", "question_group": 843}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表4，從 2023 年到 2024 年，智能投顧使用戶數的增長數量為 8。", "answer": "是", "question_group": 843}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從 2023 年到 2024 年，智能投顧使用戶數的增長數量為 5。", "answer": "否", "question_group": 843}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表4，從 2023 年到 2024 年，智能投顧使用戶數的增長數量為 5。", "answer": "否", "question_group": 843}
 

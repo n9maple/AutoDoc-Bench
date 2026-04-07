@@ -19,23 +19,23 @@
 {"category": "Open", "question_type": "Comparison", "question": "在圖5中，哪一個地區的人口比例是相同的？", "answer": "台中市和高雄市"}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據圖1，36-50歲受訪者與35歲以下受訪者的數量差異是多少？以下哪一選項是正確的？", "answer": "C", "choice": ["20", "25", "35", "50"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據圖3，該數位金融服務的滿意度得分中，哪一項為最低分？", "answer": "C", "choice": ["73", "72", "75", "74"]}
-{"category": "YesNo", "question_type": "Ranking", "question": "根據下圖，數位金融服務方面的滿意度值中，80顯示為最高的滿意度。", "answer": "是", "question_group": 648}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖3，數位金融服務方面的滿意度值中，80顯示為最高的滿意度。", "answer": "是", "question_group": 648}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據下圖，數位金融服務方面的滿意度值中，75顯示為最高的滿意度。", "answer": "否", "question_group": 648}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖3，數位金融服務方面的滿意度值中，75顯示為最高的滿意度。", "answer": "否", "question_group": 648}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，男性受訪者的比例數值較大。", "answer": "是", "question_group": 649}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖4，男性受訪者的比例數值較大。", "answer": "是", "question_group": 649}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，女性受訪者的比例數值較大。", "answer": "否", "question_group": 649}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖4，女性受訪者的比例數值較大。", "answer": "否", "question_group": 649}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖表，第一個數據點與第三個數據點的滿意度差距是2。", "answer": "是", "question_group": 650}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖3，第一個數據點與第三個數據點的滿意度差距是2。", "answer": "是", "question_group": 650}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖表，第一個數據點與第三個數據點的滿意度差距是5。", "answer": "否", "question_group": 650}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖3，第一個數據點與第三個數據點的滿意度差距是5。", "answer": "否", "question_group": 650}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，公司職員的比例是學生的2倍。", "answer": "是", "question_group": 651}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，公司職員的比例是學生的2倍。", "answer": "是", "question_group": 651}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，公司職員的比例是學生的3倍。", "answer": "否", "question_group": 651}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，公司職員的比例是學生的3倍。", "answer": "否", "question_group": 651}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，滿意或非常滿意的比例與系統維護或更新中斷的比例之差是72%。", "answer": "是", "question_group": 652}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，滿意或非常滿意的比例與系統維護或更新中斷的比例之差是72%。", "answer": "是", "question_group": 652}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，滿意或非常滿意的比例與系統維護或更新中斷的比例之差是50%。", "answer": "否", "question_group": 652}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，滿意或非常滿意的比例與系統維護或更新中斷的比例之差是50%。", "answer": "否", "question_group": 652}
 

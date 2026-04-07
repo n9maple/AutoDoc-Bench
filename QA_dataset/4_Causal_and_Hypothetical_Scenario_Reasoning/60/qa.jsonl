@@ -42,47 +42,47 @@
 {"category": "MCQ", "question_type": "Creative Scenario", "question": "根據圖片中永豐金證券對不同風險屬性、收入水平與投資期限之產品適合度與配對建議，請判斷以下哪一項最適合年收入55萬元、風險屬性為穩健型且有五年教育資金目標的投資人，以在流動性與風險控制間取得平衡？", "answer": "C", "choice": ["以平衡型基金為主要配置，並搭配部分股票型基金，且較少配置貨幣型基金與短中期債券，可能導致流動性不足。", "建議以高收益債及成長型股票為主要配置，儘管風險較高，但有機會提高長期收益，伴隨較大波動風險。", "建議主配置貨幣型基金與短中期債券，搭配部分平衡型基金，避免高風險股票型資產。", "建議主要配置定存和投資等級債券，並適度納入股票或平衡型基金以求穩定收益，降低風險但兼顧成長性。"]}
 {"category": "Open", "question_type": "Creative Scenario", "question": "根據圖片中永豐金證券2023年初的風險評估問卷結果與後續管理措施，一位原本被評為保守型風險承受能力的投資人因家庭結構與收入顯著改善，系統將如何動態調整其風險評估與資產配置？且在該調整過程中，系統如何確保客戶的交易行為符合新的風險承受範圍？", "answer": "系統會邀請客戶進行補充風險評估，可能調整為中度或積極型，並自動更新投資建議增加高風險資產比例；交易時發出風險提示並安排諮詢，確保交易符合最新風險承受範圍。"}
 {"category": "MCQ", "question_type": "Creative Scenario", "question": "根據圖片中永豐金證券2023年初的風險評估問卷結果與後續管理措施，一位原本被評為保守型風險承受能力的投資人因家庭結構與收入顯著改善，系統將如何動態調整其風險評估與資產配置？且在該調整過程中，系統如何確保客戶的交易行為符合新的風險承受範圍？", "answer": "C", "choice": ["系統會根據家庭收入的提升自動調升風險等級，並立即更改投資組合，無需額外問卷或客戶確認。", "系統會邀請客戶補充問卷，但不提供交易風險提示或諮詢服務，讓客戶完全自行決定是否調整資產配置。", "系統會邀請客戶進行補充風險評估，可能調整為中度或積極型，並自動更新投資建議增加高風險資產比例；交易時發出風險提示並安排諮詢，確保交易符合最新風險承受範圍。", "系統將使用固定算法將風險評估結果調整，再將結果同步至投資建議，交易時只有在極端風險時才發出提示，未安排主動諮詢。"]}
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據圖片中永豐金證券的資料，加入模擬投資案例能即時呈現不同市場下的風險與報酬，增強互動反饋，讓年輕投資人更真切體驗風險，從而提升風險認知並降低投資損失。", "answer": "是", "question_group": 1383}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，加入模擬投資案例能即時呈現不同市場下的風險與報酬，增強互動反饋，讓年輕投資人更真切體驗風險，從而提升風險認知並降低投資損失。", "answer": "是", "question_group": 1383}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據圖片中永豐金證券的資料，加入模擬投資案例無法即時呈現不同市場下的風險與報酬，且對年輕投資人的風險認知沒有影響。", "answer": "否", "question_group": 1383}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，加入模擬投資案例無法即時呈現不同市場下的風險與報酬，且對年輕投資人的風險認知沒有影響。", "answer": "否", "question_group": 1383}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，年收入55萬元、風險屬性為穩健型且有五年教育資金目標的投資人，應配置貨幣型基金與短中期債券，並搭配部分平衡型基金，以在流動性與風險控制間取得平衡。", "answer": "是", "question_group": 1384}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，年收入55萬元、風險屬性為穩健型且有五年教育資金目標的投資人，應配置貨幣型基金與短中期債券，並搭配部分平衡型基金，以在流動性與風險控制間取得平衡。", "answer": "是", "question_group": 1384}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，年收入55萬元、風險屬性為穩健型且有五年教育資金目標的投資人，應主要投資於高風險股票型資產，以在流動性與風險控制間取得平衡。", "answer": "否", "question_group": 1384}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，年收入55萬元、風險屬性為穩健型且有五年教育資金目標的投資人，應主要投資於高風險股票型資產，以在流動性與風險控制間取得平衡。", "answer": "否", "question_group": 1384}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，永豐金證券推薦A先生低風險且高流動性產品以降低風險與壓力，對B女士則建議高風險資產以追求收益最大化，兼顧各自風險承受度與財務能力。", "answer": "是", "question_group": 1385}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，永豐金證券推薦A先生低風險且高流動性產品以降低風險與壓力，對B女士則建議高風險資產以追求收益最大化，兼顧各自風險承受度與財務能力。", "answer": "是", "question_group": 1385}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，永豐金證券推薦A先生高風險資產以追求收益最大化，而對B女士建議低風險且高流動性產品以降低風險與壓力。", "answer": "否", "question_group": 1385}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，永豐金證券推薦A先生高風險資產以追求收益最大化，而對B女士建議低風險且高流動性產品以降低風險與壓力。", "answer": "否", "question_group": 1385}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，情境二因持續更新問卷，風險屬性與財務狀況反映更精確，資產報酬率提升約8%，波動降低，風險提示減少不適合交易15%，有助於穩健成長及理財目標實現。", "answer": "是", "question_group": 1386}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，情境二因持續更新問卷，風險屬性與財務狀況反映更精確，資產報酬率提升約8%，波動降低，風險提示減少不適合交易15%，有助於穩健成長及理財目標實現。", "answer": "是", "question_group": 1386}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，情境一即使未更新問卷且無重大財務變動通報，其風險屬性仍能準確反映，資產報酬率與波動情況不受影響。", "answer": "否", "question_group": 1386}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，情境一即使未更新問卷且無重大財務變動通報，其風險屬性仍能準確反映，資產報酬率與波動情況不受影響。", "answer": "否", "question_group": 1386}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，每年定期更新問卷並於重大變動時補充評估，可確保持續匹配客戶風險承受力，提升平均報酬率約8%，降低資產波動。", "answer": "是", "question_group": 1387}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，每年定期更新問卷並於重大變動時補充評估，可確保持續匹配客戶風險承受力，提升平均報酬率約8%，降低資產波動。", "answer": "是", "question_group": 1387}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，系統自動提示不適合交易可以完全消除風險交易，並且風險教育能保證所有客戶投資信心達到100%。", "answer": "否", "question_group": 1387}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，系統自動提示不適合交易可以完全消除風險交易，並且風險教育能保證所有客戶投資信心達到100%。", "answer": "否", "question_group": 1387}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，具備三年以上高風險商品操作經驗且五年以上長期投資規劃的投資人（情境A）損失容忍度高，適合積極型高風險商品與長期投資策略。", "answer": "是", "question_group": 1388}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，具備三年以上高風險商品操作經驗且五年以上長期投資規劃的投資人（情境A）損失容忍度高，適合積極型高風險商品與長期投資策略。", "answer": "是", "question_group": 1388}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，主要投資中低風險商品、投資期限三年內且在市場波動逾10%時感到明顯焦慮的短期投資人（情境B）損失容忍度高，適合積極型高風險商品。", "answer": "否", "question_group": 1388}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，主要投資中低風險商品、投資期限三年內且在市場波動逾10%時感到明顯焦慮的短期投資人（情境B）損失容忍度高，適合積極型高風險商品。", "answer": "否", "question_group": 1388}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據圖片，中年投資者B因收入較高且財務結構支持較大風險，儘管有長期負債，仍較適合高風險投資。", "answer": "是", "question_group": 1389}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，中年投資者B因收入較高且財務結構支持較大風險，儘管有長期負債，仍較適合高風險投資。", "answer": "是", "question_group": 1389}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據圖片，年輕投資者A因無長期負債且年齡較低，較適合高風險投資。", "answer": "否", "question_group": 1389}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，年輕投資者A因無長期負債且年齡較低，較適合高風險投資。", "answer": "否", "question_group": 1389}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，沒有任何群體的主動閱讀金融資訊比例是曾參加理財講座比例的兩倍以上。", "answer": "是", "question_group": 1390}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表8，沒有任何群體的主動閱讀金融資訊比例是曾參加理財講座比例的兩倍以上。", "answer": "是", "question_group": 1390}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，基礎群體的主動閱讀金融資訊比例是曾參加理財講座比例的兩倍以上。", "answer": "否", "question_group": 1390}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表8，基礎群體的主動閱讀金融資訊比例是曾參加理財講座比例的兩倍以上。", "answer": "否", "question_group": 1390}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，低收入且具重大支出責任者因資金流動性需求高且風險承受度低，建議配置高流動性低波動性產品如定存與投資等級債券。", "answer": "是", "question_group": 1391}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，低收入且具重大支出責任者因資金流動性需求高且風險承受度低，建議配置高流動性低波動性產品如定存與投資等級債券。", "answer": "是", "question_group": 1391}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，高收入且風險承受度高的投資人應該只配置高流動性低波動性產品如定存與投資等級債券。", "answer": "否", "question_group": 1391}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，高收入且風險承受度高的投資人應該只配置高流動性低波動性產品如定存與投資等級債券。", "answer": "否", "question_group": 1391}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，年輕投資者常追求高成長且風險承受力較高，而中年有家庭責任者重視資金安全與流動性且風險承受力較低。", "answer": "是", "question_group": 1392}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，年輕投資者常追求高成長且風險承受力較高，而中年有家庭責任者重視資金安全與流動性且風險承受力較低。", "answer": "是", "question_group": 1392}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，高學歷者通常不會理財需求多元且不懂風險分散。", "answer": "否", "question_group": 1392}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，高學歷者通常不會理財需求多元且不懂風險分散。", "answer": "否", "question_group": 1392}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，40歲以下金融知識自評中等的投資者應採中低風險、重視風險教育與流動性，而50歲以上金融知識自評深入的投資者應以穩健收益、多元分散投資及風險控管為主。", "answer": "是", "question_group": 1393}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，40歲以下金融知識自評中等的投資者應採中低風險、重視風險教育與流動性，而50歲以上金融知識自評深入的投資者應以穩健收益、多元分散投資及風險控管為主。", "answer": "是", "question_group": 1393}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，40歲以下金融知識自評中等的投資者應專注於高風險投資，而50歲以上金融知識自評深入的投資者應忽略風險控管。", "answer": "否", "question_group": 1393}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，40歲以下金融知識自評中等的投資者應專注於高風險投資，而50歲以上金融知識自評深入的投資者應忽略風險控管。", "answer": "否", "question_group": 1393}
 

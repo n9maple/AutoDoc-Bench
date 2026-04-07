@@ -7,11 +7,11 @@
 {"category": "MCQ", "question_type": "Ranking", "question": "根據中華郵政客戶持有的產品類別，持有僅貸款的比例在各類產品中排名第幾？", "answer": "C", "choice": ["第五高", "第六高", "第三高", "第一低"]}
 {"category": "Open", "question_type": "Comparison", "question": "在圖3中，2023年第三季度的儲蓄帳戶利率比2023年第二季度多增加多少個百分點？", "answer": "0.025個百分點"}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據圖3，2023年第三季度的儲蓄帳戶利率比第二季度多增加了多少個百分點？", "answer": "C", "choice": ["0.04個百分點", "0.02個百分點", "0.025個百分點", "0.06個百分點"]}
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，兩個類型的活期存款利率差距是 0.05%。", "answer": "是", "question_group": 366}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖4，兩個類型的活期存款利率差距是 0.05%。", "answer": "是", "question_group": 366}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，兩個類型的活期存款利率差距是 0.02%。", "answer": "否", "question_group": 366}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖4，兩個類型的活期存款利率差距是 0.02%。", "answer": "否", "question_group": 366}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，持有僅貸款的比例在各類產品中排名第三高。", "answer": "是", "question_group": 367}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖6，持有僅貸款的比例在各類產品中排名第三高。", "answer": "是", "question_group": 367}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，持有僅貸款的比例在各類產品中排名第二高。", "answer": "否", "question_group": 367}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖6，持有僅貸款的比例在各類產品中排名第二高。", "answer": "否", "question_group": 367}
 

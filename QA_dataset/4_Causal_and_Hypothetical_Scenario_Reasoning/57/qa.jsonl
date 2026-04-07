@@ -3,7 +3,7 @@
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "在一個表格中，假設列 'row' 的10和20兩個數值相加後得到的總和是30，請根據此總和找出欄 '3' 的百分比總和。以下哪一項描述正確？", "answer": "C", "choice": ["50%", "30%", "90%", "80%"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "如果信用損失金額增加一倍，根據下列情境，新的信用損失占總風險曝險比例會是多少？", "answer": "C", "choice": ["10%", "7%", "6%", "5%"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表3的資料，若在2022年底投入100,000元，以下哪一項最接近到2023年底的總收益或損失？", "answer": "C", "choice": ["總收益或損失為8,200元", "總收益或損失為6,600元", "總收益或損失為6,896.55元", "總收益或損失為7,000元"]}
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，當 'row' 的數值為 10 和 20 時，其在欄 '3' 的百分比總和為 90%。", "answer": "是", "question_group": 1377}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表4，當 'row' 的數值為 10 和 20 時，其在欄 '3' 的百分比總和為 90%。", "answer": "是", "question_group": 1377}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，當 'row' 的數值為 10 和 20 時，其在欄 '3' 的百分比總和為 100%。", "answer": "否", "question_group": 1377}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表4，當 'row' 的數值為 10 和 20 時，其在欄 '3' 的百分比總和為 100%。", "answer": "否", "question_group": 1377}
 

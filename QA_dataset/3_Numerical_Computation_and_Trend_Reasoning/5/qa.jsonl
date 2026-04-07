@@ -8,15 +8,15 @@
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據最近的活動指標圖表，所有活動的交易數量總和是多少？", "answer": "C", "choice": ["1000700", "1000800", "1000750", "1000900"]}
 {"category": "Open", "question_type": "Aggregation", "question": "根據表4，若客戶資料更新數量、核查工作數量和新客戶風險評估的數量共同構成了總工作量，那麼這個總工作量是多少？", "answer": "55000+"}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據圖3，所有指標的數值總和是多少？以下哪個選項是正確的？", "answer": "D", "choice": ["200002500", "200001600", "199999999", "200001750"]}
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，2023年內部培訓計畫的參與率相比2022年提高了8%。", "answer": "是", "question_group": 781}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，2023年內部培訓計畫的參與率相比2022年提高了8%。", "answer": "是", "question_group": 781}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，2023年內部培訓計畫的參與率相比2022年提高了12%。", "answer": "否", "question_group": 781}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，2023年內部培訓計畫的參與率相比2022年提高了12%。", "answer": "否", "question_group": 781}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，所有活動指標的交易數量總和是1000750。", "answer": "是", "question_group": 782}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖2，所有活動指標的交易數量總和是1000750。", "answer": "是", "question_group": 782}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，所有活動指標的交易數量總和是100000。", "answer": "否", "question_group": 782}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖2，所有活動指標的交易數量總和是100000。", "answer": "否", "question_group": 782}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據下圖，所有指標次數的總和是12。", "answer": "是", "question_group": 783}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖4，所有指標次數的總和是12。", "answer": "是", "question_group": 783}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據下圖，所有指標次數的總和是10。", "answer": "否", "question_group": 783}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖4，所有指標次數的總和是10。", "answer": "否", "question_group": 783}
 

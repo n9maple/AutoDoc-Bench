@@ -17,19 +17,19 @@
 {"category": "Open", "question_type": "Aggregation", "question": "根據表2的資料，從2023年到2025年，技術投入增長率的平均增長率是多少？", "answer": "18.33%"}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據表1，以下哪一項為個人投資者與千禧一代的比例之和？", "answer": "D", "choice": ["150%", "170%", "185%", "175%"]}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據表7的資料，在2022年到2024年期間，合規性得分的平均值為何？以下哪一項是正確的？", "answer": "B", "choice": ["合規性得分的平均值是90.50。", "合規性得分的平均值是88.33。", "合規性得分的平均值是84.50。", "合規性得分的平均值是86.75。"]}
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023年全年產品滿意度指數增長的平均值是6.75%。", "answer": "是", "question_group": 831}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，2023年全年產品滿意度指數增長的平均值是6.75%。", "answer": "是", "question_group": 831}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023年全年產品滿意度指數增長的平均值是10%。", "answer": "否", "question_group": 831}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，2023年全年產品滿意度指數增長的平均值是10%。", "answer": "否", "question_group": 831}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，從2020年至2023年，消費者對可持續產品的付費意願每年都有所增加。", "answer": "是", "question_group": 832}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖2，從2020年至2023年，消費者對可持續產品的付費意願每年都有所增加。", "answer": "是", "question_group": 832}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，從2020年至2023年，消費者對可持續產品的付費意願在某些年份有所下降。", "answer": "否", "question_group": 832}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖2，從2020年至2023年，消費者對可持續產品的付費意願在某些年份有所下降。", "answer": "否", "question_group": 832}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，從2020年至2024年，全球可持續發展金融市場規模每年都在穩定增長，年均增長率約為10%。", "answer": "是", "question_group": 833}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖1，從2020年至2024年，全球可持續發展金融市場規模每年都在穩定增長，年均增長率約為10%。", "answer": "是", "question_group": 833}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，從2020年至2024年，全球可持續發展金融市場規模每年都在減少，年均減少率約為10%。", "answer": "否", "question_group": 833}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖1，從2020年至2024年，全球可持續發展金融市場規模每年都在減少，年均減少率約為10%。", "answer": "否", "question_group": 833}
 
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，從2023年到2024年，全球可持續發展金融市場規模的成長率是10%。", "answer": "是", "question_group": 834}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖1，從2023年到2024年，全球可持續發展金融市場規模的成長率是10%。", "answer": "是", "question_group": 834}
 
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，從2023年到2024年，全球可持續發展金融市場規模的成長率是20%。", "answer": "否", "question_group": 834}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖1，從2023年到2024年，全球可持續發展金融市場規模的成長率是20%。", "answer": "否", "question_group": 834}
 

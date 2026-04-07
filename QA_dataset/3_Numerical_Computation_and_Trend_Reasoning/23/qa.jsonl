@@ -14,19 +14,19 @@
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖所示，所有審核項目的檢查要點數量的總和是多少？", "answer": "C", "choice": ["13", "10", "12", "16"]}
 {"category": "Open", "question_type": "Aggregation", "question": "根據表7的資料，計算2022年至2024年各年的首輪溝通成功解決占比的平均值是多少？", "answer": "71.33%"}
 {"category": "Open", "question_type": "Aggregation", "question": "根據圖1，所有審核項目的檢查要點數量總和是多少？", "answer": "12"}
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，平均每年醫療專科諮詢案件數是860。", "answer": "是", "question_group": 844}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，平均每年醫療專科諮詢案件數是860。", "answer": "是", "question_group": 844}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，平均每年醫療專科諮詢案件數是850。", "answer": "否", "question_group": 844}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，平均每年醫療專科諮詢案件數是850。", "answer": "否", "question_group": 844}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2022年到2024年，臨櫃服務的申請數量減少了12。", "answer": "是", "question_group": 845}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，從2022年到2024年，臨櫃服務的申請數量減少了12。", "answer": "是", "question_group": 845}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2022年到2024年，臨櫃服務的申請數量減少了15。", "answer": "否", "question_group": 845}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，從2022年到2024年，臨櫃服務的申請數量減少了15。", "answer": "否", "question_group": 845}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，2024年補件後平均審核天數的下限減少了0.5天，上限減少了1天。", "answer": "是", "question_group": 846}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表2，2024年補件後平均審核天數的下限減少了0.5天，上限減少了1天。", "answer": "是", "question_group": 846}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，2024年補件後平均審核天數的下限增加了0.5天，上限增加了1天。", "answer": "否", "question_group": 846}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表2，2024年補件後平均審核天數的下限增加了0.5天，上限增加了1天。", "answer": "否", "question_group": 846}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據下圖，所有審核項目的檢查要點數量的總和是 12。", "answer": "是", "question_group": 847}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖1，所有審核項目的檢查要點數量的總和是 12。", "answer": "是", "question_group": 847}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據下圖，所有審核項目的檢查要點數量的總和是 15。", "answer": "否", "question_group": 847}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖1，所有審核項目的檢查要點數量的總和是 15。", "answer": "否", "question_group": 847}
 

@@ -11,15 +11,15 @@
 {"category": "Open", "question_type": "Aggregation", "question": "驗證方式的成功率平均值是多少？", "answer": "98.33"}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖所示的驗證方式，成功率的平均值是多少？", "answer": "C", "choice": ["98.75", "97.67", "98.33", "99.00"]}
 {"category": "Open", "question_type": "Aggregation", "question": "依據表2，若將生產環境與測試環境的覆蓋漏洞指標數值加總，總和是多少？", "answer": "總和是2420。"}
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據下圖，自2023年12月到2024年3月，自動化通報率增加了10%。", "answer": "是", "question_group": 950}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表3，自2023年12月到2024年3月，自動化通報率增加了10%。", "answer": "是", "question_group": 950}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據下圖，自2023年12月到2024年3月，自動化通報率減少了10%。", "answer": "否", "question_group": 950}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表3，自2023年12月到2024年3月，自動化通報率減少了10%。", "answer": "否", "question_group": 950}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2023年到2024年，異常事件的平均偵測時間減少了0.3小時。", "answer": "是", "question_group": 951}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表4，從2023年到2024年，異常事件的平均偵測時間減少了0.3小時。", "answer": "是", "question_group": 951}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2023年到2024年，異常事件的平均偵測時間減少了1小時。", "answer": "否", "question_group": 951}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表4，從2023年到2024年，異常事件的平均偵測時間減少了1小時。", "answer": "否", "question_group": 951}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023年12月至2024年3月的CI/CD自動化安全檢查的平均覆蓋率是70.75%。", "answer": "是", "question_group": 952}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，2023年12月至2024年3月的CI/CD自動化安全檢查的平均覆蓋率是70.75%。", "answer": "是", "question_group": 952}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023年12月至2024年3月的CI/CD自動化安全檢查的平均覆蓋率是75%。", "answer": "否", "question_group": 952}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，2023年12月至2024年3月的CI/CD自動化安全檢查的平均覆蓋率是75%。", "answer": "否", "question_group": 952}
 

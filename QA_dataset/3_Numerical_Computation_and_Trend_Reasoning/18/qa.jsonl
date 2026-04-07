@@ -17,19 +17,19 @@
 {"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表3的資料，如果行業平均水平每年上升0.5%，在以下哪個情況下，行業平均水平可以達到續保率的同等水平？", "answer": "A", "choice": ["行業平均水平已經高於續保率，因此不需要任何年數。", "根據行業增長速度，行業平均水平若每年上升0.5%，需五年才能趕上續保率。", "如果續保率在未來的年份也每年提高0.5%，那麼行業平均水平需要至少三年才能追趕。", "行業平均水平需要在五年內穩定在某個數值，才能達到續保率的水平。"]}
 {"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖5，從2025年到2026年，銷售增長率變化了多少百分比？以下哪個選項是正確的？", "answer": "B", "choice": ["0%", "-3%", "-2%", "-5%"]}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據表4的數據，從2025到2028年，普及率的平均年增長率是多少個百分點？以下哪一項是正確的選擇？", "answer": "C", "choice": ["4.2 個百分點", "5.5 個百分點", "4 個百分點", "3 個百分點"]}
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，從2020年到2025年間，線上健康險購買比例增長了20個百分點，顯示出穩定的增長趨勢。", "answer": "是", "question_group": 823}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖4，從2020年到2025年間，線上健康險購買比例增長了20個百分點，顯示出穩定的增長趨勢。", "answer": "是", "question_group": 823}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，從2020年到2025年間，線上健康險購買比例僅增長了5個百分點，顯示出緩慢的增長趨勢。", "answer": "否", "question_group": 823}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖4，從2020年到2025年間，線上健康險購買比例僅增長了5個百分點，顯示出緩慢的增長趨勢。", "answer": "否", "question_group": 823}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2025年中國人壽和平安保險的市場份額總和是50%。", "answer": "是", "question_group": 824}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，2025年中國人壽和平安保險的市場份額總和是50%。", "answer": "是", "question_group": 824}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2025年中國人壽和平安保險的市場份額總和是40%。", "answer": "否", "question_group": 824}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，2025年中國人壽和平安保險的市場份額總和是40%。", "answer": "否", "question_group": 824}
 
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖片中提供的數據，2025年的線上健康險購買比例比2020年增加了100%。", "answer": "是", "question_group": 825}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖4，2025年的線上健康險購買比例比2020年增加了100%。", "answer": "是", "question_group": 825}
 
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖片中提供的數據，2025年的線上健康險購買比例比2020年只增加了50%。", "answer": "否", "question_group": 825}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖4，2025年的線上健康險購買比例比2020年只增加了50%。", "answer": "否", "question_group": 825}
 
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據下圖，從2020年到2025年，考慮購買或增加健康險的比例增加了20%。", "answer": "是", "question_group": 826}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖2，從2020年到2025年，考慮購買或增加健康險的比例增加了20%。", "answer": "是", "question_group": 826}
 
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據下圖，從2020年到2025年，考慮購買或增加健康險的比例增加了10%。", "answer": "否", "question_group": 826}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖2，從2020年到2025年，考慮購買或增加健康險的比例增加了10%。", "answer": "否", "question_group": 826}
 

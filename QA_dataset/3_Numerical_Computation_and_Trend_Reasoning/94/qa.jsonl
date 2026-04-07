@@ -5,11 +5,11 @@
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的數據，'社區捐贈金額 (億元)' 在所有年份的總和為何？請參考圖片中的資料。", "answer": "C", "choice": ["1.4億元", "2.0億元", "1.8億元", "1.5億元"]}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據圖片中所示，所有利益相關者的交流活動數量總和是多少？", "answer": "C", "choice": ["20", "40", "56", "75"]}
 {"category": "Open", "question_type": "Aggregation", "question": "根據圖6，所有利益相關者的交流活動數量總和是多少？", "answer": "56"}
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023年教育與環境保護的經費總和為5000萬新台幣。", "answer": "是", "question_group": 1115}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，2023年教育與環境保護的經費總和為5000萬新台幣。", "answer": "是", "question_group": 1115}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023年教育與環境保護的經費總和為7000萬新台幣。", "answer": "否", "question_group": 1115}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，2023年教育與環境保護的經費總和為7000萬新台幣。", "answer": "否", "question_group": 1115}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，兩個項目籌集資金的總和是60，減少的二氧化碳排放總和是40。", "answer": "是", "question_group": 1116}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，兩個項目籌集資金的總和是60，減少的二氧化碳排放總和是40。", "answer": "是", "question_group": 1116}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，兩個項目籌集資金的總和是50，減少的二氧化碳排放總和是30。", "answer": "否", "question_group": 1116}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，兩個項目籌集資金的總和是50，減少的二氧化碳排放總和是30。", "answer": "否", "question_group": 1116}
 

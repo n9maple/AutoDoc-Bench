@@ -10,15 +10,15 @@
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖所示，若一名30歲男性和一名45歲女性都購買健康醫療險，他們的保費總和可能是多少？", "answer": "C", "choice": ["16,500", "15,000", "16,184", "17,000"]}
 {"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據下圖，從2022年到2023年，線上理賠申請案件占比增加了多少百分點？", "answer": "C", "choice": ["25百分點", "10百分點", "15百分點", "35百分點"]}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的數據，2022年和2023年的線上理賠申請案件占比的平均值是多少？", "answer": "C", "choice": ["32.5", "38.5", "34.5", "29.0"]}
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年和2023年的線上理賠申請案件占比的平均值是34.5。", "answer": "是", "question_group": 1029}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，2022年和2023年的線上理賠申請案件占比的平均值是34.5。", "answer": "是", "question_group": 1029}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年和2023年的線上理賠申請案件占比的平均值是30.5。", "answer": "否", "question_group": 1029}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，2022年和2023年的線上理賠申請案件占比的平均值是30.5。", "answer": "否", "question_group": 1029}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年的定期壽險和年金保險的總金額是14.7億元，而2023年的總金額是16.1億元。", "answer": "是", "question_group": 1030}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，2022年的定期壽險和年金保險的總金額是14.7億元，而2023年的總金額是16.1億元。", "answer": "是", "question_group": 1030}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年的定期壽險和年金保險的總金額是15億元，而2023年的總金額是17億元。", "answer": "否", "question_group": 1030}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，2022年的定期壽險和年金保險的總金額是15億元，而2023年的總金額是17億元。", "answer": "否", "question_group": 1030}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，30歲男性和45歲女性購買健康醫療險的保費總和是16,184。", "answer": "是", "question_group": 1031}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，30歲男性和45歲女性購買健康醫療險的保費總和是16,184。", "answer": "是", "question_group": 1031}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，30歲男性和45歲女性購買健康醫療險的保費總和是15,000。", "answer": "否", "question_group": 1031}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，30歲男性和45歲女性購買健康醫療險的保費總和是15,000。", "answer": "否", "question_group": 1031}
 

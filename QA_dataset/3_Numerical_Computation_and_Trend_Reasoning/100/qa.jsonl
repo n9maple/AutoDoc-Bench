@@ -3,7 +3,7 @@
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，將運營成本及風險準備金與投資型保險紅利額合併後的總額是多少？", "answer": "C", "choice": ["49.9", "53.4", "51.2", "51.5"]}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖中的數據，計算1-4年和5+年期間的年金險紅利比例的平均值，下面哪一個選項是正確的？", "answer": "D", "choice": ["9.0%", "10.8%", "10.0%", "9.5%"]}
 {"category": "Open", "question_type": "Aggregation", "question": "根據圖2，這些產品類別的增長率中位數是多少？", "answer": "7"}
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，1-4年和5+年期間的年金險紅利比例的平均值是9.5%。", "answer": "是", "question_group": 1131}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，1-4年和5+年期間的年金險紅利比例的平均值是9.5%。", "answer": "是", "question_group": 1131}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，1-4年和5+年期間的年金險紅利比例的平均值是8.5%。", "answer": "否", "question_group": 1131}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，1-4年和5+年期間的年金險紅利比例的平均值是8.5%。", "answer": "否", "question_group": 1131}
 

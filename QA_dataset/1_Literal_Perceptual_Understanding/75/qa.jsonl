@@ -24,31 +24,31 @@
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "根據兆豐保險2023年理賠金額計算方式與說明，下列哪項描述正確反映了車體損失險、第三人責任險及竊盜險的理賠評估依據與平均理賠水平，以及超過保單賠償上限時的理賠原則與影響？", "answer": "C", "choice": ["當理賠金額超出保單賠償上限時，超出部分需由肇事方自行負擔，保險公司僅依限額給付理賠金，保戶不會免除任何責任。", "車體損失險理賠主要以維修費用為基準，若車輛全損則以事故時市價扣除殘值計算，平均理賠約3.8萬元；第三人責任險涵蓋財物損失及人身傷害，依醫療與修復費用評估，平均理賠約2.45萬元；竊盜險理賠依據事故車價扣除殘值及追回金額，平均理賠約30萬元。", "車體損失險以維修費用或全損時車輛市價扣除殘值計算，平均理賠約3.8萬元；第三人責任險依第三人財物修復或人傷醫療費計算，平均理賠約2.45萬元，重大傷害理賠可超過百萬元；竊盜險以事故時車價扣除殘值及追回部分計算，平均理賠超過30萬元；理賠超出保單賠償上限部分由肇事方負擔，保戶僅獲得限額內的保障。", "竊盜險的理賠計算是以事故發生時車輛市價扣除殘值及已追回車輛價值後的淨損失為基準，平均理賠金額超過30萬元，保戶須在找到車輛後退還已領取的賠款或由保險公司處理後續事宜。"]}
 {"category": "Open", "question_type": "Fact Lookup", "question": "根據圖片中兆豐保險2023年車險理賠爭議處理機制的描述，哪一階段主要透過客服專線與線上客服即時溝通快速解決約81%的案件？而哪一階段則由理賠主管或申訴小組結合第三方鑑定來處理較複雜的爭議？另外，司法訴訟在整體流程中的角色為何？", "answer": "初步申訴階段透過客服專線與線上客服快速解決約81%案件；複審階段由理賠主管或申訴小組結合第三方鑑定處理較複雜爭議；司法訴訟占6.5%，為最終保障權益的程序。"}
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖片中兆豐保險2023年車險理賠爭議處理機制的描述，哪一階段主要透過客服專線與線上客服即時溝通快速解決約81%的案件？而哪一階段則由理賠主管或申訴小組結合第三方鑑定來處理較複雜的爭議？另外，司法訴訟在整體流程中的角色為何？", "answer": "C", "choice": ["複審階段主要由客服專線負責與保戶溝通，第三方鑑定人員只參與罕見的初步申訴案件；司法訴訟則是罕見的選項且通常不涉及第三方鑑定意見。", "初步申訴階段主要由理賠主管或申訴小組處理約81%的案件；複審階段則主要透過客服專線及線上客服解決較複雜的爭議；司法訴訟占15%，為次要調解步驟。", "初步申訴階段透過客服專線與線上客服快速解決約81%案件；複審階段由理賠主管或申訴小組結合第三方鑑定處理較複雜爭議；司法訴訟占6.5%，為最終保障權益的程序。", "初步申訴階段透過客服專線與線上客服快速解決約21%的案件；複審階段由理賠主管或申訴小組結合第三方鑑定處理複雜爭議；司法訴訟占6.5%，為最後程序。"]}
-{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，2023年兆豐保險的車險理賠臨櫃申請的比例為36.0%。", "answer": "是", "question_group": 202}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖2，2023年兆豐保險的車險理賠臨櫃申請的比例為36.0%。", "answer": "是", "question_group": 202}
 
-{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，2023年兆豐保險的車險理賠臨櫃申請的比例為50.0%。", "answer": "否", "question_group": 202}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖2，2023年兆豐保險的車險理賠臨櫃申請的比例為50.0%。", "answer": "否", "question_group": 202}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，初步申訴階段透過客服專線與線上客服快速解決約81%的案件。", "answer": "是", "question_group": 203}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，初步申訴階段透過客服專線與線上客服快速解決約81%的案件。", "answer": "是", "question_group": 203}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，司法訴訟階段透過客服專線與線上客服快速解決約81%的案件。", "answer": "否", "question_group": 203}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，司法訴訟階段透過客服專線與線上客服快速解決約81%的案件。", "answer": "否", "question_group": 203}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，處理階段的案件數為 50 的有兩個。", "answer": "是", "question_group": 204}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖8，處理階段的案件數為 50 的有兩個。", "answer": "是", "question_group": 204}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，處理階段的案件數為 50 的有三個。", "answer": "否", "question_group": 204}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖8，處理階段的案件數為 50 的有三個。", "answer": "否", "question_group": 204}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，線上申請占案件64%，初審平均為2個工作天，滿意度達89%。", "answer": "是", "question_group": 205}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，線上申請占案件64%，初審平均為2個工作天，滿意度達89%。", "answer": "是", "question_group": 205}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，臨櫃申請占案件64%，初審平均為2個工作天，滿意度達87%。", "answer": "否", "question_group": 205}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，臨櫃申請占案件64%，初審平均為2個工作天，滿意度達87%。", "answer": "否", "question_group": 205}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，理賠申請書與車主身份證明為所有理賠情境必備文件。", "answer": "是", "question_group": 206}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，理賠申請書與車主身份證明為所有理賠情境必備文件。", "answer": "是", "question_group": 206}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，車輛失竊理賠不需要報案證明和車輛登記證。", "answer": "否", "question_group": 206}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，車輛失竊理賠不需要報案證明和車輛登記證。", "answer": "否", "question_group": 206}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，其他類案件的比例在所有爭議案件中是最小的。", "answer": "是", "question_group": 207}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表7，其他類案件的比例在所有爭議案件中是最小的。", "answer": "是", "question_group": 207}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，合同類案件的比例在所有爭議案件中是最小的。", "answer": "否", "question_group": 207}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表7，合同類案件的比例在所有爭議案件中是最小的。", "answer": "否", "question_group": 207}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，文件齊全無需補件的平均審核工作天數是3至5天。", "answer": "是", "question_group": 208}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表3，文件齊全無需補件的平均審核工作天數是3至5天。", "answer": "是", "question_group": 208}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，文件齊全無需補件的平均審核工作天數是6至8天。", "answer": "否", "question_group": 208}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表3，文件齊全無需補件的平均審核工作天數是6至8天。", "answer": "否", "question_group": 208}
 

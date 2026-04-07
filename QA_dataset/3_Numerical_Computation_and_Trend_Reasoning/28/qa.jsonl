@@ -9,11 +9,11 @@
 {"category": "Open", "question_type": "Aggregation", "question": "根據表2的資料，2025年三種清潔能源的總發電收入是多少億元？", "answer": "2025年三種清潔能源的總發電收入為200億元"}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據圖2的資料，以下哪一項代表兩個目標的比例總和？", "answer": "A", "choice": ["100%", "50%", "300%", "180%"]}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據圖1，所有目標的數值總和是多少？以下選項中哪一個是正確的？", "answer": "A", "choice": ["100095", "100150", "100000", "99950"]}
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2024年三種類型的貸款和債券總額為600億元。", "answer": "是", "question_group": 865}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，2024年三種類型的貸款和債券總額為600億元。", "answer": "是", "question_group": 865}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2025年三種類型的貸款和債券總額為700億元。", "answer": "否", "question_group": 865}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，2025年三種類型的貸款和債券總額為700億元。", "answer": "否", "question_group": 865}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，2024年到2025年綠色貸款的預期增長額度為143億元。", "answer": "是", "question_group": 866}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，2024年到2025年綠色貸款的預期增長額度為143億元。", "answer": "是", "question_group": 866}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，2024年到2025年綠色貸款的預期增長額度為200億元。", "answer": "否", "question_group": 866}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，2024年到2025年綠色貸款的預期增長額度為200億元。", "answer": "否", "question_group": 866}
 

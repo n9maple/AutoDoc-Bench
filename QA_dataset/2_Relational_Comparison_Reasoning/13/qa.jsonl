@@ -11,19 +11,19 @@
 {"category": "MCQ", "question_type": "Comparison", "question": "在信貸評級中，以下哪一個級別的年營業額融資比例通常被認為是最低的？", "answer": "C", "choice": ["信用評級接近最低標準的企業", "信用評級中等偏低企業（B級和C級）", "C級及以下", "仍能獲得小額融資的D級企業"]}
 {"category": "MCQ", "question_type": "Ranking", "question": "在下列流動比率的數值中，根據提供的案例，哪一個數值可能是最低的？請參考附加的數據圖表。", "answer": "C", "choice": ["流動比率在不同時間點不會改變，這使得它們難以進行比較。", "流動比率不需與同行業標準進行比較，因此任何數值都是可信的。", "未提供具體的數據，因此無法確定最低的流動比率。", "根據以往經驗，流動比率的最低值通常在 2.0 以上，這是一個安全邊際。"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據圖1，以下哪一個指標類型的數值最低？", "answer": "C", "choice": ["指標類型1.6的數值最低", "指標類型1.4的數值最低", "指標類型1.5的數值最低", "指標類型1.3的數值最低"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據圖示，如果一個機構的評級從C級及以下升至A級，獲得多家金融機構支持的機率增加了31%。", "answer": "是", "question_group": 310}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，如果一個機構的評級從C級及以下升至A級，獲得多家金融機構支持的機率增加了31%。", "answer": "是", "question_group": 310}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據圖示，如果一個機構的評級從C級及以下升至A級，獲得多家金融機構支持的機率增加了15%。", "answer": "否", "question_group": 310}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，如果一個機構的評級從C級及以下升至A級，獲得多家金融機構支持的機率增加了15%。", "answer": "否", "question_group": 310}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年綠色金融的比例是25%，高於科技製造業的18%。", "answer": "是", "question_group": 311}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，2023年綠色金融的比例是25%，高於科技製造業的18%。", "answer": "是", "question_group": 311}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年科技製造業的比例是25%，高於綠色金融的18%。", "answer": "否", "question_group": 311}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，2023年科技製造業的比例是25%，高於綠色金融的18%。", "answer": "否", "question_group": 311}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，數值最低的項目類別占比是25%。", "answer": "是", "question_group": 312}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖2，數值最低的項目類別占比是25%。", "answer": "是", "question_group": 312}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，數值最低的項目類別占比是35%。", "answer": "否", "question_group": 312}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖2，數值最低的項目類別占比是35%。", "answer": "否", "question_group": 312}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，無法確定哪一個數值是最低的流動比率，因為數據圖表中未提供具體的數據。", "answer": "是", "question_group": 313}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖4，無法確定哪一個數值是最低的流動比率，因為數據圖表中未提供具體的數據。", "answer": "是", "question_group": 313}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，可以確定最低的流動比率數值。", "answer": "否", "question_group": 313}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖4，可以確定最低的流動比率數值。", "answer": "否", "question_group": 313}
 

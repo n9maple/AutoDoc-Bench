@@ -16,19 +16,19 @@
 {"category": "MCQ", "question_type": "Rate of Change", "question": "根據2022年至2024年期間的預測，台灣銀行業的平均淨利差每年可能增加多少個百分點？請參考以下數據情境做比較。", "answer": "C", "choice": ["每年增加了0.25個百分點", "每年增加了0.1個百分點", "每年增加了0.2個百分點", "每年增加了0.3個百分點"]}
 {"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖3，從2022年到2023年，交易額增長率的變化率是多少個百分點？請從以下選項中選擇正確答案。", "answer": "C", "choice": ["7個百分點", "10個百分點", "5個百分點", "3個百分點"]}
 {"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖5，台灣銀行業的平均淨利差在2022年至2024年預測期間的趨勢是什麼？", "answer": "C", "choice": ["保持穩定", "輕微波動", "逐年上升", "逐年降低"]}
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2022年到2023年，淨利息收益佔總收益的比例變化了2個百分點。", "answer": "是", "question_group": 827}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，從2022年到2023年，淨利息收益佔總收益的比例變化了2個百分點。", "answer": "是", "question_group": 827}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2022年到2023年，淨利息收益佔總收益的比例變化了5個百分點。", "answer": "否", "question_group": 827}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，從2022年到2023年，淨利息收益佔總收益的比例變化了5個百分點。", "answer": "否", "question_group": 827}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年和2023年的長期資產佔比總和為142%。", "answer": "是", "question_group": 828}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，2022年和2023年的長期資產佔比總和為142%。", "answer": "是", "question_group": 828}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年和2023年的長期資產佔比總和為130%。", "answer": "否", "question_group": 828}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，2022年和2023年的長期資產佔比總和為130%。", "answer": "否", "question_group": 828}
 
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，2022年至2024年期間台灣銀行業的平均淨利差每年增加0.2個百分點。", "answer": "是", "question_group": 829}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖5，2022年至2024年期間台灣銀行業的平均淨利差每年增加0.2個百分點。", "answer": "是", "question_group": 829}
 
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，2022年至2024年期間台灣銀行業的平均淨利差每年增加0.5個百分點。", "answer": "否", "question_group": 829}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖5，2022年至2024年期間台灣銀行業的平均淨利差每年增加0.5個百分點。", "answer": "否", "question_group": 829}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023年每個季度進行了1次壓力測試。", "answer": "是", "question_group": 830}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，2023年每個季度進行了1次壓力測試。", "answer": "是", "question_group": 830}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023年每個季度進行了2次壓力測試。", "answer": "否", "question_group": 830}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，2023年每個季度進行了2次壓力測試。", "answer": "否", "question_group": 830}
 

@@ -8,19 +8,19 @@
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "根據所提供的圖片描述（包含統計數據與台灣法規／監管機構行動），將圖片中提出的三大RegTech發展挑戰──（A）數據隱私與安全、（B）技術標準化缺乏、（C）法律合規與監管框架不足──依對台灣RegTech發展的影響力由高到低排序。下列哪一項選序最符合圖片中給出的統計數據與法規事實？（答題須參照圖片所示的具體事實）\n選項：\n1) A > C > B\n2) A > B > C\n3) C > A > B\n4) B > A > C\n5) C > B > A", "answer": "C", "choice": ["2) A > B > C", "3) C > A > B", "正確選項為：1) A > C > B。支持事實：圖片指出Gartner報告約有60%企業將數據隱私視為首要風險且台灣《個人資料保護法》有高額罰則；圖片亦說明現行法規難以涵蓋演算法透明性且金管會已啟動相關框架研究；而IDC調查顯示超過50%金融機構認為技術標準缺乏為採用RegTech的主要障礙。", "4) B > A > C"]}
 {"category": "Open", "question_type": "Fact Lookup", "question": "依據附圖（標題：未來RegTech在台灣金融業的發展趨勢與機會）的文字描述，請為下列四大RegTech趨勢各選出一項「主要影響」（每題選一）。選項：A 提升監管效率/降低成本；B 保障資料完整性與透明度；C 推動市場擴張與跨境合規能力；D 創造發展環境並促進合作。題目：1) 人工智慧/機器學習 2) 區塊鏈技術 3) 跨境合規管理需求上升 4) 政府政策支持與產業合作。注意：請僅根據圖中文本片段判斷，未提供圖文即無法作答。", "answer": "1) 人工智慧/機器學習 — A 提升監管效率/降低成本。證據：圖文寫道「麥肯錫預測到2025年，人工智慧有望為全球金融服務業帶來高達1萬億美元的潛在成本節約和收入成長；在台灣金融機構已開始探索自然語言處理與深度學習以提高風險管理和合規檢測的精確度。」\n2) 區塊鏈技術 — B 保障資料完整性與透明度。證據：圖文指出「區塊鏈的去中心化和不可篡改特性使其成為保障數據完整性和透明度的理想工具；台灣多家FinTech正開發用於客戶身份驗證、交易記錄與合約管理的區塊鏈解決方案；普華永道預測應用可在未來數年內增長50%。」\n3) 跨境合規管理需求上升 — C 推動市場擴張與跨境合規能力。證據：圖文說明「全球監管環境日益複雜、國際監管標準不斷更新，使金融機構需具備更靈活合規能力，這將推動台灣RegTech市場擴展並強化其在亞太的地位。」\n4) 政府政策支持與產業合作 — D 創造發展環境並促進合作。證據：圖文列舉「台灣金管會採取多項措施，包括設立金融科技實驗監理沙盒與提供專項資金支持，為RegTech企業與金融機構／科技公司合作創造良好發展環境。」"}
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "依據附圖（標題：未來RegTech在台灣金融業的發展趨勢與機會）的文字描述，請為下列四大RegTech趨勢各選出一項「主要影響」（每題選一）。選項：A 提升監管效率/降低成本；B 保障資料完整性與透明度；C 推動市場擴張與跨境合規能力；D 創造發展環境並促進合作。題目：1) 人工智慧/機器學習 2) 區塊鏈技術 3) 跨境合規管理需求上升 4) 政府政策支持與產業合作。注意：請僅根據圖中文本片段判斷，未提供圖文即無法作答。", "answer": "C", "choice": ["跨境合規管理需求上升 — D 僅影響國內單一監管流程", "人工智慧/機器學習 — B 用於建立不可篡改的分散式帳本", "1) 人工智慧/機器學習 — A 提升監管效率/降低成本。證據：圖文寫道「麥肯錫預測到2025年，人工智慧有望為全球金融服務業帶來高達1萬億美元的潛在成本節約和收入成長；在台灣金融機構已開始探索自然語言處理與深度學習以提高風險管理和合規檢測的精確度。」", "區塊鏈技術 — A 主要用來提升客戶介面與使用者體驗"]}
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，Gartner報告指出約有60%企業將數據隱私視為首要風險，顯示數據隱私與安全對台灣RegTech發展的影響力最大。", "answer": "是", "question_group": 59}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，Gartner報告指出約有60%企業將數據隱私視為首要風險，顯示數據隱私與安全對台灣RegTech發展的影響力最大。", "answer": "是", "question_group": 59}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，技術標準化缺乏被視為台灣RegTech發展的最大挑戰，超過數據隱私與安全。", "answer": "否", "question_group": 59}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，技術標準化缺乏被視為台灣RegTech發展的最大挑戰，超過數據隱私與安全。", "answer": "否", "question_group": 59}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，金管會的監管報告審核時間縮短約40%，對監管反應速度的直接貢獻程度最高。", "answer": "是", "question_group": 60}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，金管會的監管報告審核時間縮短約40%，對監管反應速度的直接貢獻程度最高。", "answer": "是", "question_group": 60}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，PwC的合規流程時間節省對監管反應速度的直接貢獻程度最高。", "answer": "否", "question_group": 60}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，PwC的合規流程時間節省對監管反應速度的直接貢獻程度最高。", "answer": "否", "question_group": 60}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據附圖，AML以大數據和AI/機器學習為主，聚焦實時交易監控與異常偵測，而CDD則強調自動化身分驗證，並且區塊鏈技術有助於不可篡改的客戶紀錄。", "answer": "是", "question_group": 61}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，AML以大數據和AI/機器學習為主，聚焦實時交易監控與異常偵測，而CDD則強調自動化身分驗證，並且區塊鏈技術有助於不可篡改的客戶紀錄。", "answer": "是", "question_group": 61}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據附圖，AML主要依賴區塊鏈技術來減少合規成本，而CDD則依賴大數據和AI/機器學習進行實時交易監控。", "answer": "否", "question_group": 61}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，AML主要依賴區塊鏈技術來減少合規成本，而CDD則依賴大數據和AI/機器學習進行實時交易監控。", "answer": "否", "question_group": 61}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，跨境合規管理需求上升主要推動市場擴張與跨境合規能力。", "answer": "是", "question_group": 62}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，跨境合規管理需求上升主要推動市場擴張與跨境合規能力。", "answer": "是", "question_group": 62}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，人工智慧/機器學習主要保障資料完整性與透明度。", "answer": "否", "question_group": 62}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，人工智慧/機器學習主要保障資料完整性與透明度。", "answer": "否", "question_group": 62}
 

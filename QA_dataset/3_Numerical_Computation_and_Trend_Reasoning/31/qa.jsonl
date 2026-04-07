@@ -12,15 +12,15 @@
 {"category": "Open", "question_type": "Aggregation", "question": "根據表5的資料，啟動後第1年到第3年間，農藥使用減少百分比的總和是多少？", "answer": "8%"}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據圖3的資料，所有農產品單位產出提升的平均值為何？", "answer": "B", "choice": ["1400公斤/公頃", "1150公斤/公頃", "1050公斤/公頃", "1100公斤/公頃"]}
 {"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表2的資料，從2018年到2022年，稻米的百分比每年的增長情況是哪些？", "answer": "D", "choice": ["2019年增長1.1%，2020年增長1.1%，2021年增長1.1%，2022年增長1.1%", "2019年增長0.5%，2020年增長1.5%，2021年增長0.8%，2022年增長1.2%", "2019年增長1.2%，2020年增長1.5%，2021年增長0.8%，2022年增長0.5%", "2019年增長1%，2020年增長1%，2021年增長1%，2022年增長1%"]}
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，啟動後第5年和第1年之間的農民平均收入提升百分比的增加量是15%。", "answer": "是", "question_group": 874}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表4，啟動後第5年和第1年之間的農民平均收入提升百分比的增加量是15%。", "answer": "是", "question_group": 874}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，啟動後第5年和第1年之間的農民平均收入提升百分比的增加量是25%。", "answer": "否", "question_group": 874}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表4，啟動後第5年和第1年之間的農民平均收入提升百分比的增加量是25%。", "answer": "否", "question_group": 874}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2018年到2022年，稻米和水果的百分比變化絕對值都是4%，為最大變化。", "answer": "是", "question_group": 875}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表2，從2018年到2022年，稻米和水果的百分比變化絕對值都是4%，為最大變化。", "answer": "是", "question_group": 875}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2018年到2022年，蔬菜的百分比變化絕對值為4%，為最大變化。", "answer": "否", "question_group": 875}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表2，從2018年到2022年，蔬菜的百分比變化絕對值為4%，為最大變化。", "answer": "否", "question_group": 875}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，啟動後第5年，碳足跡減少了15%和化肥使用減少了10%的總和為25%。", "answer": "是", "question_group": 876}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表5，啟動後第5年，碳足跡減少了15%和化肥使用減少了10%的總和為25%。", "answer": "是", "question_group": 876}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，啟動後第5年，碳足跡減少了15%和化肥使用減少了10%的總和為20%。", "answer": "否", "question_group": 876}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表5，啟動後第5年，碳足跡減少了15%和化肥使用減少了10%的總和為20%。", "answer": "否", "question_group": 876}
 

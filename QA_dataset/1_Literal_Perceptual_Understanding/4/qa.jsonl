@@ -18,35 +18,35 @@
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖片中對富邦銀行各類促銷活動成效的敘述，請比較三類促銷（現金回饋、積分加倍、以及以餐飲與旅遊為主的特定商家折扣）在活動期間對交易額或消費總額的影響：指出哪一類促銷造成最大的增幅並給出圖中提供的具體百分比範圍；並把該最大增幅與現金回饋活動在「信用卡使用次數」與「消費總額」上的變化進行數值比較（必須使用圖片敘述中的數字）。僅依據圖片敘述作答；若不參考圖片資訊則無法回答完整。請從下列選項中選出最合適的一項：", "answer": "C", "choice": ["現金回饋為最大增幅（交易或消費總額增幅最高），同時現金回饋使信用卡使用次數↑約18%、消費總額↑約25%。", "積分加倍為最大增幅，參與者的消費總額增幅約15–20%；現金回饋的變化不如此高。", "特定商家折扣（以餐飲與旅遊為主）為最大增幅，參與商家的交易額增長超過30%；相比之下，現金回饋使信用卡使用次數↑約18%、消費總額↑約25%。", "三類促銷增幅相當，均未超過30%，且差異可忽略；現金回饋的使用次數與消費總額變化亦在相同小幅範圍內。"]}
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖片描述的調查結果（請參照圖片中的數據與敘述），以下哪一選項正確指出三項被標示為最主要促進富邦銀行信用卡客戶滿意度的因素的百分比、該百分比在本情境下的具體含義，並以最強→最弱排序？", "answer": "A", "choice": ["客戶服務 90%（表示90%受訪者對客服專業與問題解決效率表示滿意）；整體服務品質/產品多樣性 85%（表示85%受訪者對銀行整體服務滿意）；產品設計/卡片多樣性 75%（在多卡持有者中75%滿意）；排序：客戶服務(90%)→整體(85%)→產品設計(75%)；促銷活動有提及但無百分比證據。", "客戶服務 85%（表示85%受訪者滿意客服）；整體服務品質/產品多樣性 90%（表示90%受訪者滿意整體服務）；產品設計/卡片多樣性 75%（在多卡持有者中75%滿意）；排序：整體(90%)→客戶服務(85%)→產品設計(75%)。", "客戶服務 90%（表示90%受訪者滿意客服）；產品設計/卡片多樣性 85%（表示85%整體受訪者滿意卡片多樣性，不限子群）；整體服務品質/產品多樣性 75%（表示75%受訪者滿意整體服務）；排序：客戶服務(90%)→產品設計(85%)→整體(75%)。", "圖片僅以敘述指出三者皆為主要驅動因素，未提供可比較的百分比；應以敘述性證據判定排序（例如促銷活動與口碑較重要），因此無固定百分比排序可選。"]}
 {"category": "Open", "question_type": "Part-to-Whole", "question": "在圖1中，18-24歲與56歲以上的信用卡用戶合計佔總用戶的百分比是多少？", "answer": "20.0%"}
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，85% 的富邦信用卡用戶年度留存率和 >72% 的用戶持有三年以上是行為性指標，因為它們代表用戶的實際持續使用與長期持卡。", "answer": "是", "question_group": 14}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，85% 的富邦信用卡用戶年度留存率和 >72% 的用戶持有三年以上是行為性指標，因為它們代表用戶的實際持續使用與長期持卡。", "answer": "是", "question_group": 14}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，90% 的用戶對客服品質表示滿意和 80% 的用戶表示手機應用提升便利性是行為性指標，因為它們代表用戶的實際持續使用與長期持卡。", "answer": "否", "question_group": 14}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，90% 的用戶對客服品質表示滿意和 80% 的用戶表示手機應用提升便利性是行為性指標，因為它們代表用戶的實際持續使用與長期持卡。", "answer": "否", "question_group": 14}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖表，富邦銀行信用卡用戶的消費中，零售和餐飲合計佔比為63%，顯示中高程度的消費集中。", "answer": "是", "question_group": 15}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，富邦銀行信用卡用戶的消費中，零售和餐飲合計佔比為63%，顯示中高程度的消費集中。", "answer": "是", "question_group": 15}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖表，旅遊消費佔比超過50%，顯示極高的消費集中。", "answer": "否", "question_group": 15}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，旅遊消費佔比超過50%，顯示極高的消費集中。", "answer": "否", "question_group": 15}
 
-{"category": "YesNo", "question_type": "Proportion", "question": "根據下圖，不到30,000的消費額比例是25.0%。", "answer": "是", "question_group": 16}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖3，不到30,000的消費額比例是25.0%。", "answer": "是", "question_group": 16}
 
-{"category": "YesNo", "question_type": "Proportion", "question": "根據下圖，不到30,000的消費額比例是50.0%。", "answer": "否", "question_group": 16}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖3，不到30,000的消費額比例是50.0%。", "answer": "否", "question_group": 16}
 
-{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，博士學歷在富邦銀行信用卡用戶中所占的比例為5.0%。", "answer": "是", "question_group": 17}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖2，博士學歷在富邦銀行信用卡用戶中所占的比例為5.0%。", "answer": "是", "question_group": 17}
 
-{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，博士學歷在富邦銀行信用卡用戶中所占的比例為10.0%。", "answer": "否", "question_group": 17}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖2，博士學歷在富邦銀行信用卡用戶中所占的比例為10.0%。", "answer": "否", "question_group": 17}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖中數據，25–45歲群體的月均消費相較於整體高出新台幣5,000元，且相對差為11.1%。", "answer": "是", "question_group": 18}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，25–45歲群體的月均消費相較於整體高出新台幣5,000元，且相對差為11.1%。", "answer": "是", "question_group": 18}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖中數據，使用行動支付者的月均使用次數比未使用者少1.4次，且相對差為10%。", "answer": "否", "question_group": 18}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，使用行動支付者的月均使用次數比未使用者少1.4次，且相對差為10%。", "answer": "否", "question_group": 18}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2023年的三年以上用戶比例是72%。", "answer": "是", "question_group": 19}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表1，2023年的三年以上用戶比例是72%。", "answer": "是", "question_group": 19}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2023年的三年以上用戶比例是50%。", "answer": "否", "question_group": 19}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表1，2023年的三年以上用戶比例是50%。", "answer": "否", "question_group": 19}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，滿意度在80以上的指標有1個。", "answer": "是", "question_group": 20}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖6，滿意度在80以上的指標有1個。", "answer": "是", "question_group": 20}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，滿意度在80以上的指標有2個。", "answer": "否", "question_group": 20}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖6，滿意度在80以上的指標有2個。", "answer": "否", "question_group": 20}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖片，特定商家折扣（以餐飲與旅遊為主）促銷活動的交易額增長超過30%，是三類促銷中增幅最大的。", "answer": "是", "question_group": 21}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，特定商家折扣（以餐飲與旅遊為主）促銷活動的交易額增長超過30%，是三類促銷中增幅最大的。", "answer": "是", "question_group": 21}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖片，現金回饋活動的消費總額增幅超過特定商家折扣的交易額增幅。", "answer": "否", "question_group": 21}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，現金回饋活動的消費總額增幅超過特定商家折扣的交易額增幅。", "answer": "否", "question_group": 21}
 

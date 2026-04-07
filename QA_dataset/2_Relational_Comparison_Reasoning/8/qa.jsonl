@@ -19,23 +19,23 @@
 {"category": "Open", "question_type": "Comparison", "question": "根據圖3，2023年的其他交易占比比2022年高還是低？", "answer": "2023年的其他交易占比比2022年低"}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據圖3，2023年的其他交易占比相比2022年呈現什麼趨勢？", "answer": "A", "choice": ["2023年的其他交易占比比2022年低", "2023年出現一定程度的增加，但仍低於2022年", "2023年的其他交易占比回落至接近歷史低點", "2023年其他交易占比與2022年保持不變"]}
 {"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖3，2022年與2023年對沖型交易占比的差異為多少個百分比點？", "answer": "D", "choice": ["18個百分比點", "12個百分比點", "8個百分比點", "15個百分比點"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年個人投資者的比例與其他投資者相比有30%的差距。", "answer": "是", "question_group": 295}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，2023年個人投資者的比例與其他投資者相比有30%的差距。", "answer": "是", "question_group": 295}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年個人投資者的比例與其他投資者相比有20%的差距。", "answer": "否", "question_group": 295}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，2023年個人投資者的比例與其他投資者相比有20%的差距。", "answer": "否", "question_group": 295}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，2023年市場參與度最高的投資者類型是外資機構。", "answer": "是", "question_group": 296}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖4，2023年市場參與度最高的投資者類型是外資機構。", "answer": "是", "question_group": 296}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，2023年市場參與度最高的投資者類型是個人投資者。", "answer": "否", "question_group": 296}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖4，2023年市場參與度最高的投資者類型是個人投資者。", "answer": "否", "question_group": 296}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，台指期貨的增長率是最低的，為10。", "answer": "是", "question_group": 297}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，台指期貨的增長率是最低的，為10。", "answer": "是", "question_group": 297}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，ESG相關期貨的增長率是最低的，為30。", "answer": "否", "question_group": 297}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，ESG相關期貨的增長率是最低的，為30。", "answer": "否", "question_group": 297}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖表，無法確定2023年與2022年外資機構市場參與度變化的百分比，因為缺乏具體的數據。", "answer": "是", "question_group": 298}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖4，無法確定2023年與2022年外資機構市場參與度變化的百分比，因為缺乏具體的數據。", "answer": "是", "question_group": 298}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖表，可以確定2023年外資機構市場參與度相比2022年增加了20%。", "answer": "否", "question_group": 298}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖4，可以確定2023年外資機構市場參與度相比2022年增加了20%。", "answer": "否", "question_group": 298}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，增長百分比的排序是從低到高：0, 0, 13, 15, 18, 20。", "answer": "是", "question_group": 299}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖1，增長百分比的排序是從低到高：0, 0, 13, 15, 18, 20。", "answer": "是", "question_group": 299}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，增長百分比的排序是從高到低：20, 18, 15, 13, 0, 0。", "answer": "否", "question_group": 299}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖1，增長百分比的排序是從高到低：20, 18, 15, 13, 0, 0。", "answer": "否", "question_group": 299}
 

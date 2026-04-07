@@ -9,15 +9,15 @@
 {"category": "Open", "question_type": "Difference Calculation", "question": "在圖2中，這兩個國家的利率變動差是多少基點？", "answer": "10基點"}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據表3的資料，2023年和2024年的市場規模之間的差異是多少？", "answer": "C", "choice": ["350", "275", "333", "331"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據表5的資料，從2023年到2024年，資產管理規模的百分比增長可能是多少？", "answer": "A", "choice": ["12%", "20%", "10%", "8%"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，人工智慧市場的年增長率是所有市場中最高的，且其市場規模是2000。", "answer": "是", "question_group": 669}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，人工智慧市場的年增長率是所有市場中最高的，且其市場規模是2000。", "answer": "是", "question_group": 669}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，醫療健康市場的年增長率是所有市場中最高的，且其市場規模是2000。", "answer": "否", "question_group": 669}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，醫療健康市場的年增長率是所有市場中最高的，且其市場規模是2000。", "answer": "否", "question_group": 669}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2024年的市場規模預計大於2023年。", "answer": "是", "question_group": 670}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，2024年的市場規模預計大於2023年。", "answer": "是", "question_group": 670}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年的市場規模預計大於2024年。", "answer": "否", "question_group": 670}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，2023年的市場規模預計大於2024年。", "answer": "否", "question_group": 670}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，無法確定2023年和2024年哪一年的通脹率較高，因為缺乏具體數據。", "answer": "是", "question_group": 671}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖5，無法確定2023年和2024年哪一年的通脹率較高，因為缺乏具體數據。", "answer": "是", "question_group": 671}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，2023年的通脹率明顯高於2024年。", "answer": "否", "question_group": 671}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖5，2023年的通脹率明顯高於2024年。", "answer": "否", "question_group": 671}
 

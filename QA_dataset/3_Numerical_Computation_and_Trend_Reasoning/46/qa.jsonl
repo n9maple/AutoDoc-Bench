@@ -12,23 +12,23 @@
 {"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖示，哪一種外幣在不同存期中顯示出的定存利率變化最小？", "answer": "C", "choice": ["澳幣 (AUD) 的定存利率變化接近中等", "美元 (USD) 的定存利率變化較大", "日圓 (JPY) 的定存利率變化最小", "英鎊 (GBP) 的定存利率變化明顯高於日圓 (JPY)"]}
 {"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖片中1個月至12個月的美金 (USD) 定存利率變化，以下哪個選項最接近變化的利率？", "answer": "C", "choice": ["2.00%", "0.90%", "0.75%", "0.60%"]}
 {"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表5的資料，2024年7月澳幣的12個月收益率與2024年8月相比，變化率為何？以下哪一項是正確的？", "answer": "C", "choice": ["0.05%", "0.18%", "0.10%", "0.12%"]}
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖片所示，澳幣的定存利率在2023-12-10到2024-06-10期間從2.8%上升到3.1%。", "answer": "是", "question_group": 941}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖2，澳幣的定存利率在2023-12-10到2024-06-10期間從2.8%上升到3.1%。", "answer": "是", "question_group": 941}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖片所示，澳幣的定存利率在2023-12-10到2024-06-10期間從2.8%下降到2.5%。", "answer": "否", "question_group": 941}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖2，澳幣的定存利率在2023-12-10到2024-06-10期間從2.8%下降到2.5%。", "answer": "否", "question_group": 941}
 
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，日圓的定存利率從2023年12月10日到2024年6月10日增長了0.05%。", "answer": "是", "question_group": 942}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖2，日圓的定存利率從2023年12月10日到2024年6月10日增長了0.05%。", "answer": "是", "question_group": 942}
 
-{"category": "YesNo", "question_type": "Rate of Change", "question": "根據表格，美元的定存利率從2023年12月10日到2024年6月10日增長了0.05%。", "answer": "否", "question_group": 942}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖2，美元的定存利率從2023年12月10日到2024年6月10日增長了0.05%。", "answer": "否", "question_group": 942}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2024年7月的美元/6和澳幣/6的利率相加後的值是5.95%。", "answer": "是", "question_group": 943}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表5，2024年7月的美元/6和澳幣/6的利率相加後的值是5.95%。", "answer": "是", "question_group": 943}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2024年7月的美元/6和澳幣/6的利率相加後的值是6.15%。", "answer": "否", "question_group": 943}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表5，2024年7月的美元/6和澳幣/6的利率相加後的值是6.15%。", "answer": "否", "question_group": 943}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，人民幣/12的利率從2024年6月到2024年8月呈現下降趨勢。", "answer": "是", "question_group": 944}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表5，人民幣/12的利率從2024年6月到2024年8月呈現下降趨勢。", "answer": "是", "question_group": 944}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，人民幣/12的利率從2024年6月到2024年8月呈現上升趨勢。", "answer": "否", "question_group": 944}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表5，人民幣/12的利率從2024年6月到2024年8月呈現上升趨勢。", "answer": "否", "question_group": 944}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，美元和人民幣的活期存款利率平均是0.125%。", "answer": "是", "question_group": 945}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，美元和人民幣的活期存款利率平均是0.125%。", "answer": "是", "question_group": 945}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，美元和人民幣的活期存款利率平均是0.20%。", "answer": "否", "question_group": 945}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，美元和人民幣的活期存款利率平均是0.20%。", "answer": "否", "question_group": 945}
 

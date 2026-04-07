@@ -44,51 +44,51 @@
 {"category": "MCQ", "question_type": "Creative Scenario", "question": "根據圖片中兆豐保險的理賠規定，若保戶車輛被判定全損且部分零件事後追回，理賠金額會如何調整？以下哪些說法正確反映理賠的調整方式及保戶的後續義務？並基於此條款，哪些描述最符合保險公司與保戶間可能產生的利益衝突與激勵效果？", "answer": "C", "choice": ["理賠時扣除追回零件價值，但保戶可自行決定是否退還保險金，無須強制配合理賠處理。", "事故全損理賠主要根據車體損失險的維修費用估價，不涉及市價與殘值計算，追回零件不影響理賠金額。", "兆豐保險會依事故時車輛市價扣除殘值核算全損理賠金，追回零件價值將從理賠額中扣除，保戶需退還相應保險金或配合理賠處理，此條款防止過度賠付、鼓勵追回損失，保障理賠公平與成本控制，維繫雙方利益平衡並提升理賠效率。", "保戶於車輛全損後追回部分零件仍可獲得原理賠金額，且無退還義務，保險公司不介入追回物品處理。"]}
 {"category": "Open", "question_type": "Creative Scenario", "question": "根據圖片中兆豐保險2023年理賠爭議處理流程及客戶服務現況，若理賠爭議案件比例突然上升至10%，以下哪一組比較合理地反映了可能的驅動因素及其影響？", "answer": "理賠標準更嚴格或審核程序複雜導致爭議增加，客服回應延遲加劇客戶不滿，企業信任因頻繁爭議下降，可能延長理賠時間並損害長期品牌信譽。"}
 {"category": "MCQ", "question_type": "Creative Scenario", "question": "根據圖片中兆豐保險2023年理賠爭議處理流程及客戶服務現況，若理賠爭議案件比例突然上升至10%，以下哪一組比較合理地反映了可能的驅動因素及其影響？", "answer": "C", "choice": ["理賠流程全面數位化，雖提升效率，減少保戶與專人面對面溝通，導致溝通誤解增加與客服負擔加重，進而提高理賠爭議比例。", "保險公司因提高理賠標準嚴格程度，使保戶給付期望與實際間出現較大落差，客服人力不足導致回應速度緩慢，致理賠爭議及客戶不滿情緒增加。", "理賠標準更嚴格或審核程序複雜導致爭議增加，客服回應延遲加劇客戶不滿，企業信任因頻繁爭議下降，可能延長理賠時間並損害長期品牌信譽。", "因罹患大型自然災害致理賠案件激增，使審核流程變得更複雜且判斷困難，導致客服回應速度下降，進而延長理賠時間、引發客戶不滿及理賠爭議增加。"]}
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，若理賠爭議案件比例上升至10%，理賠標準更嚴格或審核程序複雜可能導致爭議增加，客服回應延遲加劇客戶不滿，進而延長理賠時間並損害長期品牌信譽。", "answer": "是", "question_group": 1462}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，若理賠爭議案件比例上升至10%，理賠標準更嚴格或審核程序複雜可能導致爭議增加，客服回應延遲加劇客戶不滿，進而延長理賠時間並損害長期品牌信譽。", "answer": "是", "question_group": 1462}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，若理賠爭議案件比例上升至10%，提高理賠速度和客戶滿意度不會對企業信任造成任何影響。", "answer": "否", "question_group": 1462}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，若理賠爭議案件比例上升至10%，提高理賠速度和客戶滿意度不會對企業信任造成任何影響。", "answer": "否", "question_group": 1462}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，當強制險理賠申請案件占比增至10%時，超過35,000件案件將涉及強制險理賠申請。", "answer": "是", "question_group": 1463}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表1，當強制險理賠申請案件占比增至10%時，超過35,000件案件將涉及強制險理賠申請。", "answer": "是", "question_group": 1463}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，當強制險理賠申請案件占比增至10%時，超過50,000件案件將涉及強制險理賠申請。", "answer": "否", "question_group": 1463}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表1，當強制險理賠申請案件占比增至10%時，超過50,000件案件將涉及強制險理賠申請。", "answer": "否", "question_group": 1463}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，線上申請平均初審較快（2個工作天），方便查詢與客服互動，文件需自備，而臨櫃申請初審較慢（4個工作天），但有現場文件協助，72%案件當場完成。", "answer": "是", "question_group": 1464}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，線上申請平均初審較快（2個工作天），方便查詢與客服互動，文件需自備，而臨櫃申請初審較慢（4個工作天），但有現場文件協助，72%案件當場完成。", "answer": "是", "question_group": 1464}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，臨櫃申請平均初審較快（2個工作天），方便查詢與客服互動，文件需自備，而線上申請初審較慢（4個工作天），但有現場文件協助，72%案件當場完成。", "answer": "否", "question_group": 1464}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，臨櫃申請平均初審較快（2個工作天），方便查詢與客服互動，文件需自備，而線上申請初審較慢（4個工作天），但有現場文件協助，72%案件當場完成。", "answer": "否", "question_group": 1464}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據圖片中兆豐保險的流程，當保戶文件疑似不完整時，兆豐保險會透過理賠專員初審、主管複審及外部鑑定的多重機制，並展開延伸調查。", "answer": "是", "question_group": 1465}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，當保戶文件疑似不完整時，兆豐保險會透過理賠專員初審、主管複審及外部鑑定的多重機制，並展開延伸調查。", "answer": "是", "question_group": 1465}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據圖片中兆豐保險的流程，當涉及多人醫療傷害時，兆豐保險僅由理賠專員進行初步審查即可完成理賠。", "answer": "否", "question_group": 1465}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，當涉及多人醫療傷害時，兆豐保險僅由理賠專員進行初步審查即可完成理賠。", "answer": "否", "question_group": 1465}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，情境A較有效率，約81%案件於第一線客服階段獲得快速解決，流程簡便。", "answer": "是", "question_group": 1466}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，情境A較有效率，約81%案件於第一線客服階段獲得快速解決，流程簡便。", "answer": "是", "question_group": 1466}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，情境B較有效率，超過50%案件在外部調解機構介入後快速解決，流程簡便。", "answer": "否", "question_group": 1466}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，情境B較有效率，超過50%案件在外部調解機構介入後快速解決，流程簡便。", "answer": "否", "question_group": 1466}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，現場服務中心的回覆即時性評價比電話客服的滿意度高1。", "answer": "是", "question_group": 1467}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表8，現場服務中心的回覆即時性評價比電話客服的滿意度高1。", "answer": "是", "question_group": 1467}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，現場服務中心的回覆即時性評價比電話客服的滿意度高5。", "answer": "否", "question_group": 1467}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表8，現場服務中心的回覆即時性評價比電話客服的滿意度高5。", "answer": "否", "question_group": 1467}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據圖片，缺少維修估價單與修車發票可能導致理賠申請文件不完整，引發理賠延遲或退件。", "answer": "是", "question_group": 1468}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，缺少維修估價單與修車發票可能導致理賠申請文件不完整，引發理賠延遲或退件。", "answer": "是", "question_group": 1468}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據圖片，只有附上警方交通事故初步研判表就足夠進行完整的理賠申請，不會導致任何延遲。", "answer": "否", "question_group": 1468}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，只有附上警方交通事故初步研判表就足夠進行完整的理賠申請，不會導致任何延遲。", "answer": "否", "question_group": 1468}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據圖片，臨櫃申請初審約4個工作天，文件一次備齊率約72%，適合文件不確定或案件複雜的保戶，能提供現場專員協助並降低補件風險。", "answer": "是", "question_group": 1469}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，臨櫃申請初審約4個工作天，文件一次備齊率約72%，適合文件不確定或案件複雜的保戶，能提供現場專員協助並降低補件風險。", "answer": "是", "question_group": 1469}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據圖片，線上申請初審約4個工作天，文件一次備齊率約72%，適合文件不確定或案件複雜的保戶，能提供現場專員協助並降低補件風險。", "answer": "否", "question_group": 1469}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，線上申請初審約4個工作天，文件一次備齊率約72%，適合文件不確定或案件複雜的保戶，能提供現場專員協助並降低補件風險。", "answer": "否", "question_group": 1469}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，當理賠爭議無法通過第一線客服快速解決時，理賠主管或申訴小組複審案件，並在必要時邀請第三方鑑定或律師介入，仍未解決則進入外部調解或司法訴訟。", "answer": "是", "question_group": 1470}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，當理賠爭議無法通過第一線客服快速解決時，理賠主管或申訴小組複審案件，並在必要時邀請第三方鑑定或律師介入，仍未解決則進入外部調解或司法訴訟。", "answer": "是", "question_group": 1470}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，當理賠爭議無法通過第一線客服快速解決時，直接進入司法訴訟而不經過理賠主管或申訴小組複審。", "answer": "否", "question_group": 1470}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，當理賠爭議無法通過第一線客服快速解決時，直接進入司法訴訟而不經過理賠主管或申訴小組複審。", "answer": "否", "question_group": 1470}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據圖片中兆豐保險的理賠規定，若保戶車輛被判定全損且部分零件事後追回，追回零件價值將從理賠額中扣除，保戶需退還相應保險金或配合理賠處理。", "answer": "是", "question_group": 1471}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，若保戶車輛被判定全損且部分零件事後追回，追回零件價值將從理賠額中扣除，保戶需退還相應保險金或配合理賠處理。", "answer": "是", "question_group": 1471}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據圖片中兆豐保險的理賠規定，若保戶車輛被判定全損且部分零件事後追回，理賠金額不受影響，保戶不需退還相應保險金。", "answer": "否", "question_group": 1471}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，若保戶車輛被判定全損且部分零件事後追回，理賠金額不受影響，保戶不需退還相應保險金。", "answer": "否", "question_group": 1471}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，情境B因附有完整事故現場照片，理賠審核時間平均縮短17%。", "answer": "是", "question_group": 1472}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，情境B因附有完整事故現場照片，理賠審核時間平均縮短17%。", "answer": "是", "question_group": 1472}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，情境A因附有完整事故現場照片，理賠審核時間平均縮短17%。", "answer": "否", "question_group": 1472}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，情境A因附有完整事故現場照片，理賠審核時間平均縮短17%。", "answer": "否", "question_group": 1472}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2023年的總理賠申請中，有約0.137%的案件最終需要外部調解或訴訟。", "answer": "是", "question_group": 1473}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表6，2023年的總理賠申請中，有約0.137%的案件最終需要外部調解或訴訟。", "answer": "是", "question_group": 1473}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2023年的總理賠申請中，有約1.5%的案件最終需要外部調解或訴訟。", "answer": "否", "question_group": 1473}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表6，2023年的總理賠申請中，有約1.5%的案件最終需要外部調解或訴訟。", "answer": "否", "question_group": 1473}
 

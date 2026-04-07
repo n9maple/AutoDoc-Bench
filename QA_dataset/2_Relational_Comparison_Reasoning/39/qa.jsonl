@@ -29,35 +29,35 @@
 {"category": "Open", "question_type": "Comparison", "question": "根據表4的資料，計算數位化申請和紙本申請的平均審核時間與客戶滿意度的比值，哪一種申請方式的比值更高？", "answer": "紙本申請的比值更高。"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "在圖7中，具有即時回饋經驗的滿意度與沒有即時回饋經驗的滿意度相比，滿意度的差距是多少？", "answer": "滿意度的差距是8.7%"}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據表6的資料，2024年和2025年中，哪一年數位化理賠申請滿意度與理賠時效滿意度的差異更大？", "answer": "C", "choice": ["2025年理賠時效滿意度提升對數位化理賠申請滿意度影響更大。", "2025年數位化理賠申請滿意度雖然下降，但仍高於2024年。", "2025年數位化理賠申請滿意度與理賠時效滿意度的差異更大。", "2024年數位化理賠申請滿意度與理賠時效滿意度的差異較小。"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2024年醫療險的百分比高於2025年傷害險的百分比。", "answer": "是", "question_group": 409}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，2024年醫療險的百分比高於2025年傷害險的百分比。", "answer": "是", "question_group": 409}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2025年傷害險的百分比高於2024年醫療險的百分比。", "answer": "否", "question_group": 409}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，2025年傷害險的百分比高於2024年醫療險的百分比。", "answer": "否", "question_group": 409}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，受理案件數從高到低排序後的第三個數據點是12800。", "answer": "是", "question_group": 410}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖5，受理案件數從高到低排序後的第三個數據點是12800。", "answer": "是", "question_group": 410}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，受理案件數從高到低排序後的第三個數據點是11200。", "answer": "否", "question_group": 410}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖5，受理案件數從高到低排序後的第三個數據點是11200。", "answer": "否", "question_group": 410}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據下圖，最高與最低理賠項目之間的差距是780億元。", "answer": "是", "question_group": 411}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖4，最高與最低理賠項目之間的差距是780億元。", "answer": "是", "question_group": 411}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據下圖，最高與最低理賠項目之間的差距是600億元。", "answer": "否", "question_group": 411}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖4，最高與最低理賠項目之間的差距是600億元。", "answer": "否", "question_group": 411}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2024 年的成功攔阻詐欺案件數為 56，小於高額理賠案件數 57。", "answer": "是", "question_group": 412}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表9，2024 年的成功攔阻詐欺案件數為 56，小於高額理賠案件數 57。", "answer": "是", "question_group": 412}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2024 年的成功攔阻詐欺案件數超過高額理賠案件數。", "answer": "否", "question_group": 412}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表9，2024 年的成功攔阻詐欺案件數超過高額理賠案件數。", "answer": "否", "question_group": 412}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2024 年的重大疾病險數值高於 2025 年的壽險數值。", "answer": "是", "question_group": 413}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，2024 年的重大疾病險數值高於 2025 年的壽險數值。", "answer": "是", "question_group": 413}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2024 年的重大疾病險數值低於 2025 年的壽險數值。", "answer": "否", "question_group": 413}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，2024 年的重大疾病險數值低於 2025 年的壽險數值。", "answer": "否", "question_group": 413}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據下圖，理賠金額為21.3億元的險種是所有險種中理賠金額最高的。", "answer": "是", "question_group": 414}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖2，理賠金額為21.3億元的險種是所有險種中理賠金額最高的。", "answer": "是", "question_group": 414}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據下圖，理賠金額為15億元的險種是所有險種中理賠金額最高的。", "answer": "否", "question_group": 414}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖2，理賠金額為15億元的險種是所有險種中理賠金額最高的。", "answer": "否", "question_group": 414}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，受理案件數最低的險種的案件數是3090。", "answer": "是", "question_group": 415}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖5，受理案件數最低的險種的案件數是3090。", "answer": "是", "question_group": 415}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，受理案件數最低的險種的案件數是11200。", "answer": "否", "question_group": 415}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖5，受理案件數最低的險種的案件數是11200。", "answer": "否", "question_group": 415}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2025 年的重大理賠案件數相比 2024 年增加了 4 件。", "answer": "是", "question_group": 416}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表7，2025 年的重大理賠案件數相比 2024 年增加了 4 件。", "answer": "是", "question_group": 416}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2025 年的重大理賠案件數相比 2024 年增加了 10 件。", "answer": "否", "question_group": 416}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表7，2025 年的重大理賠案件數相比 2024 年增加了 10 件。", "answer": "否", "question_group": 416}
 

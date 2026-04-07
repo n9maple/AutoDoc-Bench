@@ -26,31 +26,31 @@
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據圖1，從2019年到2023年，用電量變化的總變化百分比為何？", "answer": "A", "choice": ["-9.3%", "-8.0%", "-9.1%", "-10.5%"]}
 {"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表5的資料，預估永續債券承銷金額從2022年到2024年的增長率是多少？以下哪一項正確？", "answer": "D", "choice": ["從2022到2023年的增長率為10%，而從2023到2024的增長率為約25%。", "從2022到2023年的增長率為18%，而2023到2024的增長率為約15%。", "從2022到2023年的增長率為30%，而從2023到2024預估的增長率為約12%。", "從2022到2023年的增長率為20%，從2023到2024預估的增長率為約18.06%。"]}
 {"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表10的資料，若預計未來三年每年的意見與建議數量增長率是5%，請問三年後的預計意見與建議數量是下列哪一項？", "answer": "B", "choice": ["576", "579", "580", "578"]}
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據下圖，所有項目的數值總和是 840。", "answer": "是", "question_group": 972}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖2，所有項目的數值總和是 840。", "answer": "是", "question_group": 972}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據下圖，所有項目的數值總和是 750。", "answer": "否", "question_group": 972}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖2，所有項目的數值總和是 750。", "answer": "否", "question_group": 972}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，綠色授信餘額從基準年到2023年增加了600%。", "answer": "是", "question_group": 973}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，綠色授信餘額從基準年到2023年增加了600%。", "answer": "是", "question_group": 973}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，綠色授信餘額從基準年到2023年增加了200%。", "answer": "否", "question_group": 973}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，綠色授信餘額從基準年到2023年增加了200%。", "answer": "否", "question_group": 973}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2022年到2024年，綠色債券承銷金額總共增加了55。", "answer": "是", "question_group": 974}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表5，從2022年到2024年，綠色債券承銷金額總共增加了55。", "answer": "是", "question_group": 974}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2022年到2024年，綠色債券承銷金額總共增加了65。", "answer": "否", "question_group": 974}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表5，從2022年到2024年，綠色債券承銷金額總共增加了65。", "answer": "否", "question_group": 974}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，2022到2023年間員工滿意度增加了2個百分點，因此預測2024年的員工滿意度將是94。", "answer": "是", "question_group": 975}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表2，2022到2023年間員工滿意度增加了2個百分點，因此預測2024年的員工滿意度將是94。", "answer": "是", "question_group": 975}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，2022到2023年間員工滿意度增加了3個百分點，因此預測2024年的員工滿意度將是95。", "answer": "否", "question_group": 975}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表2，2022到2023年間員工滿意度增加了3個百分點，因此預測2024年的員工滿意度將是95。", "answer": "否", "question_group": 975}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年和2023年的社會公益捐贈金額平均值是0.9。", "answer": "是", "question_group": 976}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，2022年和2023年的社會公益捐贈金額平均值是0.9。", "answer": "是", "question_group": 976}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2022年和2023年的社會公益捐贈金額平均值是1.0。", "answer": "否", "question_group": 976}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，2022年和2023年的社會公益捐贈金額平均值是1.0。", "answer": "否", "question_group": 976}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，2023年的溫室氣體排放變化百分比為-10.1%，是所有年份中減少幅度最大的。", "answer": "是", "question_group": 977}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖1，2023年的溫室氣體排放變化百分比為-10.1%，是所有年份中減少幅度最大的。", "answer": "是", "question_group": 977}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，2021年的溫室氣體排放變化百分比為-10.1%，是所有年份中減少幅度最大的。", "answer": "否", "question_group": 977}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖1，2021年的溫室氣體排放變化百分比為-10.1%，是所有年份中減少幅度最大的。", "answer": "否", "question_group": 977}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023年的社區共融活動中，受益家庭數的平均值為60。", "answer": "是", "question_group": 978}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表12，2023年的社區共融活動中，受益家庭數的平均值為60。", "answer": "是", "question_group": 978}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023年的社區共融活動中，受益家庭數的平均值為75。", "answer": "否", "question_group": 978}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表12，2023年的社區共融活動中，受益家庭數的平均值為75。", "answer": "否", "question_group": 978}
 

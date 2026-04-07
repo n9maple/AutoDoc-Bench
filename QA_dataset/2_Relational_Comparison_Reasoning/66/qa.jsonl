@@ -20,23 +20,23 @@
 {"category": "Open", "question_type": "Difference Calculation", "question": "在圖1中，效益指標提升幅度的差異是多少？", "answer": "5%"}
 {"category": "Open", "question_type": "Ranking", "question": "根據圖3，哪一個交易類型在2分鐘內完成比例最低？", "answer": "交易類型: 80"}
 {"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖1，效益指標提升幅度的差異可能是多少？", "answer": "B", "choice": ["6%", "5%", "4%", "12%"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年12月的轉帳與付款交易筆數比2023年1月多23,000。", "answer": "是", "question_group": 562}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，2023年12月的轉帳與付款交易筆數比2023年1月多23,000。", "answer": "是", "question_group": 562}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年12月的轉帳與付款交易筆數比2023年1月多30,000。", "answer": "否", "question_group": 562}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，2023年12月的轉帳與付款交易筆數比2023年1月多30,000。", "answer": "否", "question_group": 562}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據圖片，效益指標 40 的幅度是最高的。", "answer": "是", "question_group": 563}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖1，效益指標 40 的幅度是最高的。", "answer": "是", "question_group": 563}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據圖片，效益指標 35 的幅度是最高的。", "answer": "否", "question_group": 563}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖1，效益指標 35 的幅度是最高的。", "answer": "否", "question_group": 563}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，下半年的平均異常交易通知數較上半年高。", "answer": "是", "question_group": 564}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，下半年的平均異常交易通知數較上半年高。", "answer": "是", "question_group": 564}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，上半年的平均異常交易通知數較下半年高。", "answer": "否", "question_group": 564}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，上半年的平均異常交易通知數較下半年高。", "answer": "否", "question_group": 564}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年11月的外幣帳戶查詢次數與定期存款帳戶查詢次數的差異是-37000，這是全年中最小的負數之一。", "answer": "是", "question_group": 565}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，2023年11月的外幣帳戶查詢次數與定期存款帳戶查詢次數的差異是-37000，這是全年中最小的負數之一。", "answer": "是", "question_group": 565}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2023年11月的外幣帳戶查詢次數是全年中唯一超過定期存款帳戶查詢次數的月份。", "answer": "否", "question_group": 565}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，2023年11月的外幣帳戶查詢次數是全年中唯一超過定期存款帳戶查詢次數的月份。", "answer": "否", "question_group": 565}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，大型企業中三層或以上的比例比中小企業多51個百分點。", "answer": "是", "question_group": 566}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，大型企業中三層或以上的比例比中小企業多51個百分點。", "answer": "是", "question_group": 566}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，大型企業和中小企業中三層或以上的比例相同。", "answer": "否", "question_group": 566}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，大型企業和中小企業中三層或以上的比例相同。", "answer": "否", "question_group": 566}
 

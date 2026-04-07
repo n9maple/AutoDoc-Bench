@@ -17,27 +17,27 @@
 {"category": "Open", "question_type": "Difference Calculation", "question": "在圖1中，數值最高的目標和數值最低的目標之間的差距是多少？", "answer": "99985"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "在圖7中，數值為5的指標比數值為3的指標高多少？", "answer": "2"}
 {"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖4中，數值最大的指標與數值最小的指標之間的差是多少？以下哪個選項是正確的？", "answer": "D", "choice": ["400", "300", "550", "475"]}
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，數值25是所有項目中最低的。", "answer": "是", "question_group": 368}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖4，數值25是所有項目中最低的。", "answer": "是", "question_group": 368}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，數值40是所有項目中最低的。", "answer": "否", "question_group": 368}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖4，數值40是所有項目中最低的。", "answer": "否", "question_group": 368}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，目標中的最高與最低數值差距是99985。", "answer": "是", "question_group": 369}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖1，目標中的最高與最低數值差距是99985。", "answer": "是", "question_group": 369}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，目標中的最高與最低數值差距是99995。", "answer": "否", "question_group": 369}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖1，目標中的最高與最低數值差距是99995。", "answer": "否", "question_group": 369}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，只有一個數值超過100。", "answer": "是", "question_group": 370}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖4，只有一個數值超過100。", "answer": "是", "question_group": 370}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，有兩個數值超過100。", "answer": "否", "question_group": 370}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖4，有兩個數值超過100。", "answer": "否", "question_group": 370}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據圖表，數值最高的指標是數值為15000的指標。", "answer": "是", "question_group": 371}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖5，數值最高的指標是數值為15000的指標。", "answer": "是", "question_group": 371}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據圖表，數值最高的指標是數值為50的指標。", "answer": "否", "question_group": 371}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖5，數值最高的指標是數值為50的指標。", "answer": "否", "question_group": 371}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，2025年台新銀行的環境保護目標中，最高與最低的比例差距為40%。", "answer": "是", "question_group": 372}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖2，2025年台新銀行的環境保護目標中，最高與最低的比例差距為40%。", "answer": "是", "question_group": 372}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據表格，2025年台新銀行的環境保護目標中，最高與最低的比例差距為20%。", "answer": "否", "question_group": 372}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖2，2025年台新銀行的環境保護目標中，最高與最低的比例差距為20%。", "answer": "否", "question_group": 372}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2025年社會福利預算的百分比比2024年減少。", "answer": "是", "question_group": 373}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，2025年社會福利預算的百分比比2024年減少。", "answer": "是", "question_group": 373}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2025年社會福利預算的百分比與2024年相比增加。", "answer": "否", "question_group": 373}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，2025年社會福利預算的百分比與2024年相比增加。", "answer": "否", "question_group": 373}
 

@@ -9,15 +9,15 @@
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的數據，2025Q1和2025Q2的交易失誤率下降的平均值是多少？請參考以下情境：在Q1期間，失誤率為12%，在Q2期間，失誤率為10%。", "answer": "C", "choice": ["10.5%", "10%", "11%", "13%"]}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據經濟專家的預測，如果2025年的經濟增長率在國際貨幣基金組織的預測3%和亞洲開發銀行的預測3.5%之間，那麼其平均增長率應該是多少？", "answer": "D", "choice": ["3.15%", "3.375%", "3.4%", "3.25%"]}
 {"category": "Open", "question_type": "Aggregation", "question": "在圖4中，所有季度匯率波動率下降百分比的平均值是多少？", "answer": "10%"}
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，2024年至2025年的基準利率下降了0.25%。", "answer": "是", "question_group": 877}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表2，2024年至2025年的基準利率下降了0.25%。", "answer": "是", "question_group": 877}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，2024年至2025年的基準利率上升了0.25%。", "answer": "否", "question_group": 877}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表2，2024年至2025年的基準利率上升了0.25%。", "answer": "否", "question_group": 877}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2025Q1和2025Q2的交易失誤率下降的平均值是11%。", "answer": "是", "question_group": 878}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，2025Q1和2025Q2的交易失誤率下降的平均值是11%。", "answer": "是", "question_group": 878}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2025Q1和2025Q2的交易失誤率下降的平均值是13%。", "answer": "否", "question_group": 878}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，2025Q1和2025Q2的交易失誤率下降的平均值是13%。", "answer": "否", "question_group": 878}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2025年的經濟增長率在國際貨幣基金組織的預測3%和亞洲開發銀行的預測3.5%之間，其平均增長率應該是3.25%。", "answer": "是", "question_group": 879}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，2025年的經濟增長率在國際貨幣基金組織的預測3%和亞洲開發銀行的預測3.5%之間，其平均增長率應該是3.25%。", "answer": "是", "question_group": 879}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2025年的經濟增長率在國際貨幣基金組織的預測3%和亞洲開發銀行的預測3.5%之間，其平均增長率應該是3.3%。", "answer": "否", "question_group": 879}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，2025年的經濟增長率在國際貨幣基金組織的預測3%和亞洲開發銀行的預測3.5%之間，其平均增長率應該是3.3%。", "answer": "否", "question_group": 879}
 

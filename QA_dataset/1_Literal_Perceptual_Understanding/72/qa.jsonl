@@ -5,11 +5,11 @@
 {"category": "Open", "question_type": "Fact Lookup", "question": "在2023年Q4各產業類別中，啟用電子支付企業數超過500的有幾個？", "answer": "3"}
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2023年Q4的數據，啟用電子支付企業數超過500的產業類別數量為多少？(請參考提供的圖片資訊)", "answer": "C", "choice": ["5", "2", "3", "6"]}
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "在下方流程項目中，數值等於30的項目有幾個？請參考圖示。", "answer": "C", "choice": ["1", "5", "2", "4"]}
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2023年的異常操作警示次數最少，為29次。", "answer": "是", "question_group": 196}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表3，2023年的異常操作警示次數最少，為29次。", "answer": "是", "question_group": 196}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2022年的異常操作警示次數最少，為36次。", "answer": "否", "question_group": 196}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表3，2022年的異常操作警示次數最少，為36次。", "answer": "否", "question_group": 196}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2月的『初步審查10日內完成率』與9月相同。", "answer": "是", "question_group": 197}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表1，2月的『初步審查10日內完成率』與9月相同。", "answer": "是", "question_group": 197}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，3月的『初步審查10日內完成率』與9月相同。", "answer": "否", "question_group": 197}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表1，3月的『初步審查10日內完成率』與9月相同。", "answer": "否", "question_group": 197}
 

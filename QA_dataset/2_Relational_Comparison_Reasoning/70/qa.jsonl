@@ -16,23 +16,23 @@
 {"category": "Open", "question_type": "Ranking", "question": "從高到低排名，第二個股市指數的漲跌幅是多少？", "answer": "-0.3"}
 {"category": "MCQ", "question_type": "Ranking", "question": "根據下圖中股市指數的漲跌幅，第二個股市指數的漲跌幅是多少？", "answer": "C", "choice": ["0.4", "-0.1", "-0.3", "-0.6"]}
 {"category": "Open", "question_type": "Comparison", "question": "根據圖5，哪一個股市指數的漲跌幅最低？", "answer": "-0.7"}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，今天的收盤指數是18,320，明日預期的收盤指數是18,360，差距是40。", "answer": "是", "question_group": 580}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，今天的收盤指數是18,320，明日預期的收盤指數是18,360，差距是40。", "answer": "是", "question_group": 580}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，今天的收盤指數是18,320，明日預期的收盤指數是18,360，差距是50。", "answer": "否", "question_group": 580}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，今天的收盤指數是18,320，明日預期的收盤指數是18,360，差距是50。", "answer": "否", "question_group": 580}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2024年6月外資的資金流出金額為42億元，這比自營商的資金流入金額7億元更大。", "answer": "是", "question_group": 581}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，2024年6月外資的資金流出金額為42億元，這比自營商的資金流入金額7億元更大。", "answer": "是", "question_group": 581}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，2024年6月自營商的資金流入金額為42億元，這比外資的資金流出金額7億元更大。", "answer": "否", "question_group": 581}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，2024年6月自營商的資金流入金額為42億元，這比外資的資金流出金額7億元更大。", "answer": "否", "question_group": 581}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據下圖，數值最高的項目是28500，最低的項目是-1200，它們之間的差距是29700。", "answer": "是", "question_group": 582}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖6，數值最高的項目是28500，最低的項目是-1200，它們之間的差距是29700。", "answer": "是", "question_group": 582}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據下圖，數值最高的項目是28500，最低的項目是320，它們之間的差距是29700。", "answer": "否", "question_group": 582}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖6，數值最高的項目是28500，最低的項目是320，它們之間的差距是29700。", "answer": "否", "question_group": 582}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖表，第二個數據點的盤中最高漲幅與最後一個數據點相比，差距是1.0。", "answer": "是", "question_group": 583}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖3，第二個數據點的盤中最高漲幅與最後一個數據點相比，差距是1.0。", "answer": "是", "question_group": 583}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖表，第二個數據點的盤中最高漲幅與最後一個數據點相比，差距是0.5。", "answer": "否", "question_group": 583}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖3，第二個數據點的盤中最高漲幅與最後一個數據點相比，差距是0.5。", "answer": "否", "question_group": 583}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，櫃買指數的成交金額相比昨天減少了60億元。", "answer": "是", "question_group": 584}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，櫃買指數的成交金額相比昨天減少了60億元。", "answer": "是", "question_group": 584}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，櫃買指數的成交金額相比昨天減少了30億元。", "answer": "否", "question_group": 584}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，櫃買指數的成交金額相比昨天減少了30億元。", "answer": "否", "question_group": 584}
 

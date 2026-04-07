@@ -2,7 +2,7 @@
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "根據給定的貸款類型，哪一種貸款的不良貸款率最低？", "answer": "C", "choice": ["學貸", "信用貸款", "房屋貸款", "汽車貸款"]}
 {"category": "Open", "question_type": "Fact Lookup", "question": "在2022年台灣基準利率變動中，數值最低的變動類型是什麼？", "answer": "0.5"}
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2022年台灣基準利率的變動，以下哪一項所代表的數值變動類型為最低？", "answer": "C", "choice": ["0.25", "0.3", "0.5", "1.0"]}
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2022年台灣基準利率變動中，數值變動類型為0.5是最低的。", "answer": "是", "question_group": 219}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖4，2022年台灣基準利率變動中，數值變動類型為0.5是最低的。", "answer": "是", "question_group": 219}
 
-{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表格，2022年台灣基準利率變動中，數值變動類型為2是最低的。", "answer": "否", "question_group": 219}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖4，2022年台灣基準利率變動中，數值變動類型為2是最低的。", "answer": "否", "question_group": 219}
 

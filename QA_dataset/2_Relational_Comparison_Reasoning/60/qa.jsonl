@@ -32,39 +32,39 @@
 {"category": "Open", "question_type": "Ranking", "question": "在2023年投資人風險屬性分布中，哪一類型的投資人數量最少？", "answer": "積極型"}
 {"category": "MCQ", "question_type": "Ranking", "question": "在2023年投資決策中，以下哪一項的擔憂因素數值最低？", "answer": "C", "choice": ["市場波動的潛在影響", "流動性風險的長期影響", "其他因素", "經濟不確定性對企業的影響"]}
 {"category": "MCQ", "question_type": "Ranking", "question": "根據2023年投資人風險屬性分布的情況下，以下哪一類型的投資人數量最少？", "answer": "C", "choice": ["謹慎型通常在風險資產配置中佔據相對較高的比例", "保守型在長期持有中通常會發現自己數量較少", "積極型", "激進型在追求高回報時可能面臨資金較少的挑戰"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，36-44歲這個年齡段的子女教育負擔比例是最高的，為32%。", "answer": "是", "question_group": 521}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，36-44歲這個年齡段的子女教育負擔比例是最高的，為32%。", "answer": "是", "question_group": 521}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，45-64歲這個年齡段的子女教育負擔比例是最高的，為24%。", "answer": "否", "question_group": 521}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，45-64歲這個年齡段的子女教育負擔比例是最高的，為24%。", "answer": "否", "question_group": 521}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，35歲以下的大專以上學歷比例比45-64歲高出10個百分點。", "answer": "是", "question_group": 522}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，35歲以下的大專以上學歷比例比45-64歲高出10個百分點。", "answer": "是", "question_group": 522}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，35歲以下和45-64歲的大專以上學歷比例相同。", "answer": "否", "question_group": 522}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，35歲以下和45-64歲的大專以上學歷比例相同。", "answer": "否", "question_group": 522}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，積極型的投資人數量最少，只有10人。", "answer": "是", "question_group": 523}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖3，積極型的投資人數量最少，只有10人。", "answer": "是", "question_group": 523}
 
-{"category": "YesNo", "question_type": "Ranking", "question": "根據表格，穩健型的投資人數量最少，只有36人。", "answer": "否", "question_group": 523}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖3，穩健型的投資人數量最少，只有36人。", "answer": "否", "question_group": 523}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，基礎和中等的主動閱讀金融資訊比例相差23。", "answer": "是", "question_group": 524}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表8，基礎和中等的主動閱讀金融資訊比例相差23。", "answer": "是", "question_group": 524}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，基礎和中等的主動閱讀金融資訊比例相差30。", "answer": "否", "question_group": 524}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表8，基礎和中等的主動閱讀金融資訊比例相差30。", "answer": "否", "question_group": 524}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，沒有符合比三至五年高，並且比一年內低的時間區間。", "answer": "是", "question_group": 525}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，沒有符合比三至五年高，並且比一年內低的時間區間。", "answer": "是", "question_group": 525}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，五年以上的時間區間符合比三至五年高，並且比一年內低的條件。", "answer": "否", "question_group": 525}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，五年以上的時間區間符合比三至五年高，並且比一年內低的條件。", "answer": "否", "question_group": 525}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，60萬元以下的收入區間比例是53，而120萬元以上的收入區間比例是12，兩者的比例差是41。", "answer": "是", "question_group": 526}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，60萬元以下的收入區間比例是53，而120萬元以上的收入區間比例是12，兩者的比例差是41。", "answer": "是", "question_group": 526}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，60萬元以下的收入區間比例是12，而120萬元以上的收入區間比例是53，兩者的比例差是41。", "answer": "否", "question_group": 526}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，60萬元以下的收入區間比例是12，而120萬元以上的收入區間比例是53，兩者的比例差是41。", "answer": "否", "question_group": 526}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，其他因素佔的比例相較於風險評估不足較低。", "answer": "是", "question_group": 527}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，其他因素佔的比例相較於風險評估不足較低。", "answer": "是", "question_group": 527}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，風險評估不足佔的比例相較於其他因素較低。", "answer": "否", "question_group": 527}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，風險評估不足佔的比例相較於其他因素較低。", "answer": "否", "question_group": 527}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，理財知識推播的提升信心比例比產品說明會高3個百分點。", "answer": "是", "question_group": 528}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表12，理財知識推播的提升信心比例比產品說明會高3個百分點。", "answer": "是", "question_group": 528}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，理財知識推播的提升信心比例比產品說明會高5個百分點。", "answer": "否", "question_group": 528}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表12，理財知識推播的提升信心比例比產品說明會高5個百分點。", "answer": "否", "question_group": 528}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，穩健型投資人的數量比積極型的多出25人。", "answer": "是", "question_group": 529}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖2，穩健型投資人的數量比積極型的多出25人。", "answer": "是", "question_group": 529}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，積極型投資人的數量比穩健型的多出25人。", "answer": "否", "question_group": 529}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖2，積極型投資人的數量比穩健型的多出25人。", "answer": "否", "question_group": 529}
 

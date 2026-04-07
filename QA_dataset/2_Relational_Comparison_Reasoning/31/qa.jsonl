@@ -15,23 +15,23 @@
 {"category": "Open", "question_type": "Comparison", "question": "根據圖5，哪個指標的目標最小？", "answer": "指標 20 的目標最小"}
 {"category": "Open", "question_type": "Comparison", "question": "根據圖1，在2024年，農業產值占GDP比例和農業從業人員占全國勞動力比例，哪一個比例較高？", "answer": "在2024年，農業產值占GDP比例 (2.0%) 較高。"}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據圖3，以下哪一種農產品的單位產出提升最低？", "answer": "A", "choice": ["對應於920的農產品", "對應於1000的農產品", "對應於950的農產品", "對應於850的農產品"]}
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，農產品C的單位產出提升後的數值是最低的，其值為920。", "answer": "是", "question_group": 379}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖3，農產品C的單位產出提升後的數值是最低的，其值為920。", "answer": "是", "question_group": 379}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，農產品A的單位產出提升後的數值是最低的。", "answer": "否", "question_group": 379}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖3，農產品A的單位產出提升後的數值是最低的。", "answer": "否", "question_group": 379}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據圖片中最右邊的地區，參與農戶數是100。", "answer": "是", "question_group": 380}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖4，參與農戶數是100。", "answer": "是", "question_group": 380}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據圖片中最右邊的地區，參與農戶數是50。", "answer": "否", "question_group": 380}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖4，參與農戶數是50。", "answer": "否", "question_group": 380}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，啟動後第3年的農藥使用減少百分比比啟動後第1年增加了4%。", "answer": "是", "question_group": 381}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，啟動後第3年的農藥使用減少百分比比啟動後第1年增加了4%。", "answer": "是", "question_group": 381}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，啟動後第3年的農藥使用減少百分比比啟動後第1年增加了2%。", "answer": "否", "question_group": 381}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，啟動後第3年的農藥使用減少百分比比啟動後第1年增加了2%。", "answer": "否", "question_group": 381}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據下圖，最高和最低指標的目標數值差距是49980。", "answer": "是", "question_group": 382}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖5，最高和最低指標的目標數值差距是49980。", "answer": "是", "question_group": 382}
 
-{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據下圖，最高和最低指標的目標數值差距是300。", "answer": "否", "question_group": 382}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖5，最高和最低指標的目標數值差距是300。", "answer": "否", "question_group": 382}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，農村金融基礎設施的預計社會資本投入是最低的。", "answer": "是", "question_group": 383}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，農村金融基礎設施的預計社會資本投入是最低的。", "answer": "是", "question_group": 383}
 
-{"category": "YesNo", "question_type": "Comparison", "question": "根據表格，農產品加值鏈拓展的預計社會資本投入是最低的。", "answer": "否", "question_group": 383}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，農產品加值鏈拓展的預計社會資本投入是最低的。", "answer": "否", "question_group": 383}
 

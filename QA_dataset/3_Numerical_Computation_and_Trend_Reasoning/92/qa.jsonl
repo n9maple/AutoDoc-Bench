@@ -12,15 +12,15 @@
 {"category": "MCQ", "question_type": "Temporal Trend", "question": "在2023年Q1到Q4之間，流動性覆蓋率（LCR）的變化趨勢是什麼？", "answer": "C", "choice": ["在2023年Q1到Q4之間，流動性覆蓋率（LCR）保持在一個穩定的範圍內，未顯示出任何明顯的波動。", "在2023年Q1到Q4之間，流動性覆蓋率（LCR）因受到外部政策影響而出現明顯的下降趨勢。", "在2023年Q1到Q4之間，流動性覆蓋率（LCR）總體呈現上升趨勢，但在Q3到Q4之間略有下降。", "在2023年Q1到Q4之間，流動性覆蓋率（LCR）顯著受市場情況影響，並在四季度出現上升。"]}
 {"category": "Open", "question_type": "Aggregation", "question": "根據表5中的資料，請計算2023年全年外幣資產負債淨敞口的平均值是多少億新台幣？", "answer": "4.85億新台幣"}
 {"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表5的資料，2023年第三季度與第四季度的外幣資產負債淨敞口數值變化是？", "answer": "D", "choice": ["略有減少", "穩定不變", "輕微減少", "減少"]}
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023年外幣資產負債淨敞口的平均值是4.85億新台幣。", "answer": "是", "question_group": 1110}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表5，2023年外幣資產負債淨敞口的平均值是4.85億新台幣。", "answer": "是", "question_group": 1110}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023年外幣資產負債淨敞口的平均值是5.5億新台幣。", "answer": "否", "question_group": 1110}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表5，2023年外幣資產負債淨敞口的平均值是5.5億新台幣。", "answer": "否", "question_group": 1110}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2022Q3到2023Q3，定期存款的增長金額是98.5億新台幣。", "answer": "是", "question_group": 1111}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表2，從2022Q3到2023Q3，定期存款的增長金額是98.5億新台幣。", "answer": "是", "question_group": 1111}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2022Q3到2023Q3，定期存款的增長金額是150億新台幣。", "answer": "否", "question_group": 1111}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表2，從2022Q3到2023Q3，定期存款的增長金額是150億新台幣。", "answer": "否", "question_group": 1111}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，在2023年Q1到Q3之間，流動性覆蓋率（LCR）呈現上升趨勢，從130增加到135。", "answer": "是", "question_group": 1112}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖3，在2023年Q1到Q3之間，流動性覆蓋率（LCR）呈現上升趨勢，從130增加到135。", "answer": "是", "question_group": 1112}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，在2023年Q3到Q4之間，流動性覆蓋率（LCR）從132增加到135。", "answer": "否", "question_group": 1112}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖3，在2023年Q3到Q4之間，流動性覆蓋率（LCR）從132增加到135。", "answer": "否", "question_group": 1112}
 

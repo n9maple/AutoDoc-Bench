@@ -8,11 +8,11 @@
 {"category": "MCQ", "question_type": "Proportion", "question": "根據提供的圖片，新北市的比例為以下哪一選項？", "answer": "C", "choice": ["15.0%", "35.0%", "20.0%", "5.0%"]}
 {"category": "Open", "question_type": "Fact Lookup", "question": "利用表4的數據，哪一個服務的安全性滿意度最低，並指出它的滿意度百分比？", "answer": "線上客服的安全性滿意度最低，滿意度百分比是65%。"}
 {"category": "MCQ", "question_type": "Proportion", "question": "根據圖1，51歲以上受訪者的數量占總受訪者的比例是以下哪一項？", "answer": "B", "choice": ["10.0%", "15.0%", "22.0%", "17.5%"]}
-{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，51歲以上的受訪者比例是15.0%。", "answer": "是", "question_group": 223}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖1，51歲以上的受訪者比例是15.0%。", "answer": "是", "question_group": 223}
 
-{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，51歲以上的受訪者比例是10.0%。", "answer": "否", "question_group": 223}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖1，51歲以上的受訪者比例是10.0%。", "answer": "否", "question_group": 223}
 
-{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，操作流程複雜的比例是18.0%。", "answer": "是", "question_group": 224}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖2，操作流程複雜的比例是18.0%。", "answer": "是", "question_group": 224}
 
-{"category": "YesNo", "question_type": "Proportion", "question": "根據表格，操作流程複雜的比例是28.0%。", "answer": "否", "question_group": 224}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖2，操作流程複雜的比例是28.0%。", "answer": "否", "question_group": 224}
 

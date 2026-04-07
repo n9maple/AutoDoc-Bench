@@ -1,9 +1,9 @@
 {"category": "Open", "question_type": "Aggregation", "question": "2023年，有多少百分比的人選擇了非匯款的支付方式？", "answer": "13%"}
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023年全台金融機構存款戶數與日盛銀行存款戶數的總和為186。", "answer": "是", "question_group": 1015}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，2023年全台金融機構存款戶數與日盛銀行存款戶數的總和為186。", "answer": "是", "question_group": 1015}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2023年全台金融機構存款戶數與日盛銀行存款戶數的總和為180。", "answer": "否", "question_group": 1015}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，2023年全台金融機構存款戶數與日盛銀行存款戶數的總和為180。", "answer": "否", "question_group": 1015}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，三個項目的平均餘額是18。", "answer": "是", "question_group": 1016}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，三個項目的平均餘額是18。", "answer": "是", "question_group": 1016}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，三個項目的平均餘額是20。", "answer": "否", "question_group": 1016}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，三個項目的平均餘額是20。", "answer": "否", "question_group": 1016}
 

@@ -7,11 +7,11 @@
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表2的資料，若2024年的社會公益捐贈金額預計增加20%，而員工滿意度與捐贈金額成正比，以下哪一選項最有可能代表2024年的員工滿意度？", "answer": "A", "choice": ["110.4", "109", "105", "111"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表7的資料，假設綠色採購金額和高碳排供應商碳盤查家數均增加一倍，下列哪一項描述正確？", "answer": "B", "choice": ["高碳排供應商的碳盤查家數不會影響綠色採購金額。", "綠色採購金額沒有超過總減少碳排放量。", "綠色採購金額可能會達到總減少碳排放量，但不一定超過。", "綠色採購的增長不一定會提高減少碳排放的效率，甚至可能無效。"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表8的資料，參加永續交流會的供應商中，有多少家尚未簽署永續承諾書？以下選項中哪一項是正確的？", "answer": "D", "choice": ["5家", "15家", "9家", "8家"]}
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2023年的節能專案投資金額比2021年和2022年的總和多了1200。", "answer": "是", "question_group": 1373}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，2023年的節能專案投資金額比2021年和2022年的總和多了1200。", "answer": "是", "question_group": 1373}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2023年的節能專案投資金額比2021年和2022年的總和少了1200。", "answer": "否", "question_group": 1373}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，2023年的節能專案投資金額比2021年和2022年的總和少了1200。", "answer": "否", "question_group": 1373}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2024年將有1500棵樹被種植。", "answer": "是", "question_group": 1374}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表12，2024年將有1500棵樹被種植。", "answer": "是", "question_group": 1374}
 
-{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表格，2024年將有1200棵樹被種植。", "answer": "否", "question_group": 1374}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表12，2024年將有1200棵樹被種植。", "answer": "否", "question_group": 1374}
 

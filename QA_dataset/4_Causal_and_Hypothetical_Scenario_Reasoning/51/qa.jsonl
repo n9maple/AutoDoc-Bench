@@ -34,39 +34,39 @@
 {"category": "MCQ", "question_type": "Creative Scenario", "question": "根據圖片中安泰人壽針對紅利入帳異常的多元通知與諮詢機制，若銀行系統更新導致約10%保戶帳戶資料暫時無法核對，以下哪些措施最適合用於綜合運用現有經驗與客戶服務管道，以減緩紅利延遲入帳對保戶信任與服務品質的衝擊？", "answer": "C", "choice": ["將銀行系統更新視為主要原因，並在官網及行動APP上主動公告異常狀況，提供線上資料更新教學，但僅限於等待保戶自行完成更新，未主動發送通知或提供多通路客服協助。", "積極設置多通路客服專線及線上服務，但通知方式僅限於電話聯繫，缺乏簡訊、LINE推播等即時提醒；同時未提供線上更新指引及臨櫃服務支持，導致通知範圍有限且保戶接收資訊不易。", "提升自動提醒頻率與多通路通知（如簡訊、LINE推播），提前公告異常狀況，並提供線上更新指引與客服專線協助。利用官網及APP即時查詢功能，加強臨櫃服務支持，並備妥替代領取方式如郵寄支票。", "透過多元通知管道（含簡訊、LINE推播及官網公告）主動提醒保戶，但未備妥替代領取方式且缺乏臨櫃與APP即時查詢功能的整合支援，服務完整性不足。"]}
 {"category": "Open", "question_type": "Creative Scenario", "question": "根據圖片中的重要提醒與注意事項，若保戶於2024年6月15日申請將紅利領取方式由現金更改為累積生息，但於8月初才發現個人資料錯誤且未透過專責窗口更正，以下哪些情況符合圖片說明？請選出所有正確選項。", "answer": "紅利發放可能延遲或依舊以原現金方式進行；保戶應立即登入官方網站確認個資並向專責窗口申請更正；資料更正處理約需10個工作天，以確保紅利依累積生息方式撥付。"}
 {"category": "MCQ", "question_type": "Creative Scenario", "question": "根據圖片中的重要提醒與注意事項，若保戶於2024年6月15日申請將紅利領取方式由現金更改為累積生息，但於8月初才發現個人資料錯誤且未透過專責窗口更正，以下哪些情況符合圖片說明？請選出所有正確選項。", "answer": "C", "choice": ["紅利更改申請可在任何時間生效，不會影響當年度紅利發放方式。", "即使資料錯誤未經更正，紅利仍會自動以累積生息方式計算及發放。", "紅利發放可能延遲或依舊以原現金方式進行；保戶應立即登入官方網站確認個資並向專責窗口申請更正；資料更正處理約需10個工作天，以確保紅利依累積生息方式撥付。", "保戶若透過非官方管道申請資料更正，無法確保紅利依新方式撥付，必須使用專責窗口。"]}
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，當因銀行帳戶資料錯誤導致部分保戶未能按時收到現金紅利時，公司由專責客戶服務小組主動聯繫保戶協助更新資料，並於資料更新後10個工作天內補發紅利。", "answer": "是", "question_group": 1360}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，當因銀行帳戶資料錯誤導致部分保戶未能按時收到現金紅利時，公司由專責客戶服務小組主動聯繫保戶協助更新資料，並於資料更新後10個工作天內補發紅利。", "answer": "是", "question_group": 1360}
 
-{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據表格，當因銀行帳戶資料錯誤導致部分保戶未能按時收到現金紅利時，公司立即取消紅利發放而不進行後續處理。", "answer": "否", "question_group": 1360}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，當因銀行帳戶資料錯誤導致部分保戶未能按時收到現金紅利時，公司立即取消紅利發放而不進行後續處理。", "answer": "否", "question_group": 1360}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，若保戶於基準日前已退保且存在未繳清保費，則該保戶不符合年度紅利分配資格。", "answer": "是", "question_group": 1361}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，若保戶於基準日前已退保且存在未繳清保費，則該保戶不符合年度紅利分配資格。", "answer": "是", "question_group": 1361}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，若保戶於基準日前退保但保費已繳清，則該保戶符合年度紅利分配資格。", "answer": "否", "question_group": 1361}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，若保戶於基準日前退保但保費已繳清，則該保戶符合年度紅利分配資格。", "answer": "否", "question_group": 1361}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據圖片，保戶可透過官網線上客服、官方LINE、行動APP智能客服或0800客服專線聯絡安泰人壽，並且公司會自動提醒異常並主動通知保戶協助資料更正，平均3個工作天內完成處理。", "answer": "是", "question_group": 1362}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，保戶可透過官網線上客服、官方LINE、行動APP智能客服或0800客服專線聯絡安泰人壽，並且公司會自動提醒異常並主動通知保戶協助資料更正，平均3個工作天內完成處理。", "answer": "是", "question_group": 1362}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據圖片，保戶只能通過郵寄信件的方式聯絡安泰人壽，公司不會主動通知保戶任何異常情況。", "answer": "否", "question_group": 1362}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，保戶只能通過郵寄信件的方式聯絡安泰人壽，公司不會主動通知保戶任何異常情況。", "answer": "否", "question_group": 1362}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據圖片，保戶A紅利於8月5日前一次性存入並享有1.1%年利率，發放時間固定且利息即時生效。", "answer": "是", "question_group": 1363}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，保戶A紅利於8月5日前一次性存入並享有1.1%年利率，發放時間固定且利息即時生效。", "answer": "是", "question_group": 1363}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據圖片，保戶B紅利於8月5日前一次性存入並享有1.1%年利率，發放時間固定且利息即時生效。", "answer": "否", "question_group": 1363}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，保戶B紅利於8月5日前一次性存入並享有1.1%年利率，發放時間固定且利息即時生效。", "answer": "否", "question_group": 1363}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，安泰人壽透過多元化資產配置，提升高評級債券與策略性股票比例，並積極調整投資組合以降低風險，維持資產價值並實現紅利成長8.5%。", "answer": "是", "question_group": 1364}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，安泰人壽透過多元化資產配置，提升高評級債券與策略性股票比例，並積極調整投資組合以降低風險，維持資產價值並實現紅利成長8.5%。", "answer": "是", "question_group": 1364}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，安泰人壽主要依賴單一類型的資產來實現紅利成長8.5%，並未進行多元化資產配置。", "answer": "否", "question_group": 1364}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，安泰人壽主要依賴單一類型的資產來實現紅利成長8.5%，並未進行多元化資產配置。", "answer": "否", "question_group": 1364}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據圖片，保戶B於6月15日申請，符合6月30日截止規定，可於2024年度享有累積生息紅利。", "answer": "是", "question_group": 1365}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，保戶B於6月15日申請，符合6月30日截止規定，可於2024年度享有累積生息紅利。", "answer": "是", "question_group": 1365}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據圖片，保戶A於7月申請，仍可於2024年度享有累積生息紅利。", "answer": "否", "question_group": 1365}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，保戶A於7月申請，仍可於2024年度享有累積生息紅利。", "answer": "否", "question_group": 1365}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，保戶A因持有長期壽險產品，其紅利分配比例較高，因此比保戶B更可能獲得較高的紅利回饋。", "answer": "是", "question_group": 1366}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，保戶A因持有長期壽險產品，其紅利分配比例較高，因此比保戶B更可能獲得較高的紅利回饋。", "answer": "是", "question_group": 1366}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據表格，保戶B因持有一般年金產品，其紅利分配比例較高，因此比保戶A更可能獲得較高的紅利回饋。", "answer": "否", "question_group": 1366}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，保戶B因持有一般年金產品，其紅利分配比例較高，因此比保戶A更可能獲得較高的紅利回饋。", "answer": "否", "question_group": 1366}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據圖片，保戶乙因繳費期間及持有年限較長，2024年度紅利配發率較高。", "answer": "是", "question_group": 1367}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，保戶乙因繳費期間及持有年限較長，2024年度紅利配發率較高。", "answer": "是", "question_group": 1367}
 
-{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據圖片，保戶甲因持有100萬元壽險保單，2024年度紅利配發率較高。", "answer": "否", "question_group": 1367}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，保戶甲因持有100萬元壽險保單，2024年度紅利配發率較高。", "answer": "否", "question_group": 1367}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，若保戶於2024年7月20日透過官方網站選擇現金領取方式查詢紅利明細，該保戶最早能於2024年8月1日開始分批收到紅利匯入銀行帳戶。", "answer": "是", "question_group": 1368}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，若保戶於2024年7月20日透過官方網站選擇現金領取方式查詢紅利明細，該保戶最早能於2024年8月1日開始分批收到紅利匯入銀行帳戶。", "answer": "是", "question_group": 1368}
 
-{"category": "YesNo", "question_type": "Reasoning", "question": "根據表格，若保戶於2024年7月20日透過官方網站選擇現金領取方式查詢紅利明細，如因資料異動無法發放，資料更新後3個工作天內補發。", "answer": "否", "question_group": 1368}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，若保戶於2024年7月20日透過官方網站選擇現金領取方式查詢紅利明細，如因資料異動無法發放，資料更新後3個工作天內補發。", "answer": "否", "question_group": 1368}
 

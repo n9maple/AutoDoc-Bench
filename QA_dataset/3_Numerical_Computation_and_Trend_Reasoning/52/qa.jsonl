@@ -16,23 +16,23 @@
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據以下圖表，前三個問題類型的詢問佔比總和是多少？", "answer": "C", "choice": ["65%", "52%", "55%", "58%"]}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據2024年Q1的瀏覽量數據，所有功能/用戶類型的總瀏覽量是多少？", "answer": "C", "choice": ["200000", "300000", "240000", "255000"]}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據表4的資料，計算2024年1月到3月所有其他問題的總數，並平均分配到每個月。以下哪一項是其平均值？", "answer": "D", "choice": ["600.00", "660.00", "616.67", "646.67"]}
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2024年1月至2024年3月解決下單問題的件數總和為6475。", "answer": "是", "question_group": 963}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表7，2024年1月至2024年3月解決下單問題的件數總和為6475。", "answer": "是", "question_group": 963}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2024年1月至2024年3月解決下單問題的件數總和為7000。", "answer": "否", "question_group": 963}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表7，2024年1月至2024年3月解決下單問題的件數總和為7000。", "answer": "否", "question_group": 963}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖表，前三個問題類型的詢問佔比總和是55%。", "answer": "是", "question_group": 964}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖7，前三個問題類型的詢問佔比總和是55%。", "answer": "是", "question_group": 964}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖表，前三個問題類型的詢問佔比總和是45%。", "answer": "否", "question_group": 964}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖7，前三個問題類型的詢問佔比總和是45%。", "answer": "否", "question_group": 964}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，2024年1月1日和2024年1月2日的自助匯出次數最少。", "answer": "是", "question_group": 965}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖5，2024年1月1日和2024年1月2日的自助匯出次數最少。", "answer": "是", "question_group": 965}
 
-{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據表格，2024年1月3日的自助匯出次數最少。", "answer": "否", "question_group": 965}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖5，2024年1月3日的自助匯出次數最少。", "answer": "否", "question_group": 965}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2024年Q1所有功能/用戶類型的總瀏覽量為240000。", "answer": "是", "question_group": 966}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖8，2024年Q1所有功能/用戶類型的總瀏覽量為240000。", "answer": "是", "question_group": 966}
 
-{"category": "YesNo", "question_type": "Aggregation", "question": "根據表格，2024年Q1所有功能/用戶類型的總瀏覽量為200000。", "answer": "否", "question_group": 966}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖8，2024年Q1所有功能/用戶類型的總瀏覽量為200000。", "answer": "否", "question_group": 966}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2024年1月到2024年3月，下單故障的數量在前兩個月保持不變，第三個月略有下降。", "answer": "是", "question_group": 967}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表4，從2024年1月到2024年3月，下單故障的數量在前兩個月保持不變，第三個月略有下降。", "answer": "是", "question_group": 967}
 
-{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表格，從2024年1月到2024年3月，下單故障的數量持續增加。", "answer": "否", "question_group": 967}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表4，從2024年1月到2024年3月，下單故障的數量持續增加。", "answer": "否", "question_group": 967}
 
