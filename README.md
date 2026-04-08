@@ -1,5 +1,6 @@
 # AutoDoc-Bench
 
+[Website](https://n9maple.github.io/AutoDoc-Bench)
 This is the repository of paper AutoDoc-Bench, including a comprehensive QA dataset designed to evaluate document understanding capabilities.
 
 ## QA_dataset

@@ -63,6 +63,21 @@
   </header>
 
   <main>
+
+    <section id="abstract" class="section">
+      <div class="container">
+        <h2>📁 Dataset Overview</h2>
+        <p>This dataset encompasses questions categorized into four distinct dimensions.
+          Each folder contains a <code>report.pdf</code> and a corresponding <code>qa.jsonl</code> file,
+          which includes questions directly related to the PDF report. In total, the dataset consists of
+          144 unique files and 10,250 questions. You can access the complete dataset via
+          <a href="https://github.com/n9maple/AutoDoc-Bench" target="_blank" rel="noopener noreferrer">this link</a> or
+          the
+          <strong>Code & Dataset</strong> button above.
+        </p>
+      </div>
+    </section>
+
     <!-- ABSTRACT + CONTRIBUTION -->
     <section id="abstract" class="section">
       <div class="container">
@@ -192,29 +207,9 @@
       </div> <!-- container -->
     </section>
 
-    <!-- Dataset Analysis -->
-    <section id="dataset" class="section">
+    <section id="difficulty" class="section">
       <div class="container">
-        <h2>📊 Dataset Analysis</h2>
-
-        <div class="row">
-          <div class="col-12">
-            <div class="card">
-              <h3>Overview of question dimension, type, and category counts</h3>
-              <div class="fig"><img src="assets/img/question_count.png"
-                  alt="Overview of question dimension, type, and category counts"></div>
-            </div>
-          </div>
-        </div>
-
-        <div class="row">
-          <div class="col-12">
-            <div class="card">
-              <h3>Document and QA example</h3>
-              <div class="fig"><img src="assets/img/QA_example.png" alt="Document and QA example"></div>
-            </div>
-          </div>
-        </div>
+        <h2>🎭 Question Difficulty Level Stratification</h2>
 
         <div class="row">
           <div class="col-12">
@@ -224,6 +219,56 @@
                   alt="Average judge score across difficulty in open-end questions"></div>
               <p class="caption">The figure shows that the performance of all models consistently decreases as the
                 difficulty of the questions increases.</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-12">
+            <div class="card">
+              <h3>Quantitative distribution of questions across various dimensions and difficulty levels for different
+                question formats</h3>
+              <div class="fig"><img src="assets/img/Stacked_Dimension_Open.png"
+                  alt="question distribution across difficulty levels (Open question)"></div>
+              <p class="caption">Question distribution across difficulty levels for open-end questions</p>
+              <div class="fig"><img src="assets/img/Stacked_Dimension_MCQ.png"
+                  alt="question distribution across difficulty levels (MCQ question)"></div>
+              <p class="caption">Question distribution across difficulty levels for MCQ questions</p>
+              <div class="fig"><img src="assets/img/Stacked_Dimension_YesNo.png"
+                  alt="question distribution across difficulty levels (Yes/No question)"></div>
+              <p class="caption">Question distribution across difficulty levels for Yes/No questions</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Dataset Analysis -->
+    <section id="dataset" class="section">
+      <div class="container">
+        <h2>📊 Dataset Analysis & Evaluation</h2>
+
+        <div class="row">
+          <div class="col-12">
+            <div class="card">
+              <h3>Overview of question dimension, type, and category counts</h3>
+              <div class="fig"><img src="assets/img/question_count.png"
+                  alt="Overview of question dimension, type, and category counts"></div>
+              <p class="caption">We generated a total of 10,250 questions, spanning 4 dimensions,
+                3 categories, and 15 question types.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-12">
+            <div class="card">
+              <h3>Document and QA example</h3>
+              <div class="fig"><img src="assets/img/QA_example.png" alt="Document and QA example"></div>
+              <p class="caption">The figure shows an example of a document and its corresponding questions and answers,
+                including Open-ended, MCQ, and Yes/No questions.
+              </p>
             </div>
           </div>
         </div>
@@ -243,6 +288,7 @@
         </div>
       </div> <!-- container -->
     </section>
+
 
     <!-- ACKNOWLEDGMENT -->
     <section id="acknowledgment" class="section">
