@@ -39,15 +39,13 @@ Each category folder contains several numbered folders (0, 1, 2, ...), and each 
 
 Each question-answer pair contains the following fields:
 
-```json
-{
+```
   "category": "MCQ|Open|YesNo",           // Question category
   "question_type": "string",              // Question type (e.g., Part-to-Whole, Comparison, etc.)
   "question": "string",                   // Question text
   "answer": "string|A|B|C|D",             // Answer (text for open-ended, option letter for MCQ)
   "choice": ["Option A", "Option B", "Option C", "Option D"],  // Only exists for MCQ category
-  "question_group": number                // Optional: Question group ID, only exists for YesNo category
-}
+  "question_group": "number"                // Optional: Question group ID, only exists for YesNo category}
 ```
 
 ### License and Citation
