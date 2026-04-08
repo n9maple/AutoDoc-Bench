@@ -195,10 +195,10 @@
             <div class="card">
               <h3>Model evaluation summary for MCQ questions</h3>
               <div class="fig"><img src="assets/img/MCQ_result.jpg" alt="Model evaluation summary for MCQ question">
-                <p class="caption">We report accuracy for overall and each dimension.
-                  Best LLM scores are highlighted in red, second best in blue.
-                </p>
               </div>
+              <p class="caption">We report accuracy for overall and each dimension.
+                Best LLM scores are highlighted in red, second best in blue.
+              </p>
             </div>
           </div>
         </div>
@@ -210,7 +210,24 @@
     <section id="difficulty" class="section">
       <div class="container">
         <h2>🎭 Question Difficulty Level Stratification</h2>
-
+        <p>
+          To rigorously quantify the intrinsic complexity of each QA pair, we implemented a hybrid framework combining
+          empirical model performance with LLM reasoning, outputting a normalized difficulty score from 0.0 to 1.0:
+        </p>
+        <ul>
+          <li>
+            <strong>Step 1: Empirical Evaluation (IRT):</strong> We first assess how many models correctly answer a
+            question. Questions with fewer correct answers are ranked as more difficult.
+          </li>
+          <li>
+            <strong>Step 2: LLM Pairwise Comparison:</strong> For questions with tied empirical performance, an LLM
+            judge performs pairwise comparisons to capture subtle semantic and logical nuances.
+          </li>
+          <li>
+            <strong>Step 3: Bradley-Terry Aggregation:</strong> All comparative outcomes are aggregated using the
+            Bradley-Terry (BT) model to generate a continuous, precise latent difficulty score.
+          </li>
+        </ul>
         <div class="row">
           <div class="col-12">
             <div class="card">
@@ -246,7 +263,7 @@
     <!-- Dataset Analysis -->
     <section id="dataset" class="section">
       <div class="container">
-        <h2>📊 Dataset Analysis & Evaluation</h2>
+        <h2>📊 Dataset Analysis</h2>
 
         <div class="row">
           <div class="col-12">
@@ -276,13 +293,48 @@
         <div class="row">
           <div class="col-12">
             <div class="card">
-              <h3>MMD distance matrix of document semantics analysis among different domains</h3>
+              <h3>Document semantics analysis among different domains</h3>
               <div class="fig"><img src="assets/img/MMD.png"
                   alt="MMD distance matrix of document semantics analysis among different domains"></div>
               <p class="caption">The figure shows the MMD distance matrix of document semantics
                 analysis among different domains. The result shows that AutoDoc-Bench (Ours) demonstrates
                 significant domain-specific alignment with banking report in Traditional Chinese.
               </p>
+            </div>
+          </div>
+        </div>
+        <p>
+          To ensure the objectivity of our automated evaluation, we conducted a rigorous blind cross-validation
+          comparing LLM judges against Human Experts. The results confirm that our framework is highly stable and
+          unbiased:
+        </p>
+        <ul>
+          <li>
+            <strong>Near-Perfect Alignment:</strong> Automated judges demonstrated striking consistency with human
+            experts, achieving a mean Spearman correlation of <strong>0.9326</strong>.
+          </li>
+          <li>
+            <strong>Exceptional Reliability:</strong> The system reached an overall ICC3k score of
+            <strong>0.9816</strong> (Excellent Agreement), confirming it as a highly reproducible measurement tool.
+          </li>
+          <li>
+            <strong>Zero Systemic Bias:</strong> Evaluators exhibited no self-preference bias towards their own
+            generated responses. The absolute scoring gap compared to humans remained consistently below
+            <strong>0.08</strong> (|&Delta;| &lt; 0.08), proving high objectivity.
+          </li>
+        </ul>
+        <div class="row">
+          <div class="col-12">
+            <div class="card">
+              <h3>LLM Judgement Reliability and Bias Analysis</h3>
+              <div class="fig"><img src="assets/img/relation_co.png" alt="LLM score reliability analysis"></div>
+              <p class="caption">The table presents pairwise Spearman rank correlation coefficients between human
+                experts and automated judges, followed by the systemic
+                Intraclass Correlation Coefficient (ICC) to validate evaluation consistency.</p>
+              <div class="fig"><img src="assets/img/bias.png" alt="LLM bias analysis"></div>
+              <p class="caption">The table presents mean scores assigned by evaluators per generator. Ratings are
+                discrete integers from 1 to 3, where 1, 2, and 3 represent completely incorrect, partially correct, and
+                completely correct responses, respectively.</p>
             </div>
           </div>
         </div>
