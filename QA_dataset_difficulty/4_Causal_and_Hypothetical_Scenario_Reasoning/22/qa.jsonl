@@ -1,0 +1,4 @@
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，從2023年到2024年上半年，第三方API串接數總共增加了18。", "question_group": 1287, "difficulty": 0.74, "answer": "是"}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，從2023年到2024年上半年，第三方API串接數總共增加了15。", "question_group": 1287, "difficulty": 0.55, "answer": "否"}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表1，從2023年底到2024年上半年，數位帳戶開戶總數增加了40個。", "question_group": 1289, "difficulty": 0.91, "answer": "是"}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表1，從2023年底到2024年上半年，數位帳戶開戶總數增加了40個。", "question_group": 1289, "difficulty": 0.54, "answer": "是"}

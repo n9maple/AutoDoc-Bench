@@ -1,0 +1,4 @@
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "若金融期貨的年增長率提高至電子期貨的水平，其下一年的成交量將比目前多多少萬口？", "difficulty": 0.84, "answer": "金融期貨的年增長率提高至電子期貨的水平後，其下一年的成交量將比目前多340萬口。"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果將台指期貨和小型台指期貨的成交量加總，然後減去電子期貨的成交量，結果是多少？", "difficulty": 0.68, "answer": "7000"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "如果金融期貨的年增長率提高至電子期貨的水平，您認為其下一年的成交量將比目前多多少萬口？", "difficulty": 0.62, "choice": ["390", "520", "280", "340"], "answer": "D"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據圖示中顯示的交易數據，如果將台指期貨和小型台指期貨的成交量加總後，減去電子期貨的成交量，您認為得到的結果是多少？", "difficulty": 0.51, "choice": ["7200", "6800", "7500", "7000"], "answer": "D"}

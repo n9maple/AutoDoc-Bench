@@ -1,0 +1,6 @@
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "2025年美國和歐盟的收入總和是2026年亞洲和歐盟收入的百分之幾？", "difficulty": 0.87, "answer": "104.20%"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "銀行業和證券業的數據整合與申報時間縮短比例和與主管機關溝通效率提升的總和分別是多少？", "difficulty": 0.83, "answer": "銀行業的總和是62，證券業的總和是59。"}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表6，AI攔阻可疑詐騙案件年增率增加了12個百分點，消費者損失降低率增加了7個百分點。", "question_group": 1441, "difficulty": 0.31, "answer": "是"}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表6，AI攔阻可疑詐騙案件年增率增加了15個百分點，消費者損失降低率增加了5個百分點。", "question_group": 1441, "difficulty": 0.78, "answer": "否"}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，2025年美國和歐盟的收入總和是2026年亞洲和歐盟收入的104.20%。", "question_group": 1442, "difficulty": 0.85, "answer": "是"}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，2025年美國和歐盟的收入總和是2026年亞洲和歐盟收入的90%。", "question_group": 1442, "difficulty": 0.6, "answer": "否"}

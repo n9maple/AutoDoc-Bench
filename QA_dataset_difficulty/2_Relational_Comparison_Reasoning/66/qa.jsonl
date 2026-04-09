@@ -1,0 +1,15 @@
+{"category": "Open", "question_type": "Comparison", "question": "2023年全年中，哪一個月的外幣帳戶查詢次數比定期存款帳戶查詢次數多最多？", "difficulty": 0.71, "answer": "2023-11"}
+{"category": "Open", "question_type": "Comparison", "question": "比較2023年上半年和下半年的平均異常交易通知數，哪一個時間段的平均數量較高？", "difficulty": 0.36, "answer": "下半年的平均異常交易通知數較高。"}
+{"category": "Open", "question_type": "Comparison", "question": "2023年12月的轉帳與付款交易筆數比2023年1月多多少？", "difficulty": 0.59, "answer": "23,000"}
+{"category": "Open", "question_type": "Comparison", "question": "批次轉帳的平均每批交易筆數和使用率相比，哪一個數值較大？", "difficulty": 0.16, "answer": "平均每批交易筆數（80）較大"}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖1，效益指標提升幅度的差異可能是多少？", "difficulty": 0.76, "choice": ["12%", "5%", "6%", "4%"], "answer": "B"}
+{"category": "Open", "question_type": "Comparison", "question": "根據表4的資料，2023年上半年（1月到6月）和下半年（7月到12月）的轉帳與付款交易筆數平均數分別是多少？哪個半年期的平均數較高？", "difficulty": 0.82, "answer": "2023年上半年的轉帳與付款交易筆數平均數為276,333.33，下半年的平均數為287,333.33，下半年平均數較高。"}
+{"category": "Open", "question_type": "Comparison", "question": "根據表2的資料，2023年上半年（1月至6月）與下半年（7月至12月）的定期存款帳戶查詢次數加總分別是多少，哪一個時期的查詢次數較多？", "difficulty": 0.81, "answer": "2023年上半年定期存款帳戶查詢次數加總為796000，下半年為821000，下半年查詢次數較多。"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "在圖1中，效益指標提升幅度的差異是多少？", "difficulty": 0.13, "answer": "5%"}
+{"category": "Open", "question_type": "Ranking", "question": "根據圖3，哪一個交易類型在2分鐘內完成比例最低？", "difficulty": 0.89, "answer": "交易類型: 80"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，下半年的平均異常交易通知數較上半年高。", "question_group": 564, "difficulty": 0.74, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，下半年的平均異常交易通知數較上半年高。", "question_group": 564, "difficulty": 0.32, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，2023年11月的外幣帳戶查詢次數與定期存款帳戶查詢次數的差異是-37000，這是全年中最小的負數之一。", "question_group": 565, "difficulty": 0.73, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，2023年11月的外幣帳戶查詢次數是全年中唯一超過定期存款帳戶查詢次數的月份。", "question_group": 565, "difficulty": 0.6, "answer": "否"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，大型企業中三層或以上的比例比中小企業多51個百分點。", "question_group": 566, "difficulty": 0.35, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，大型企業和中小企業中三層或以上的比例相同。", "question_group": 566, "difficulty": 0.17, "answer": "否"}

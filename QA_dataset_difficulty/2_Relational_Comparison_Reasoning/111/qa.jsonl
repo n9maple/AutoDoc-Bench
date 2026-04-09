@@ -1,0 +1,9 @@
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖5，市場類型的經濟增長率差異是多少？", "difficulty": 0.72, "choice": ["1.2%", "1.1%", "1.8%", "1.3%"], "answer": "B"}
+{"category": "Open", "question_type": "Comparison", "question": "在圖8中，哪一個國家的收益率最低？", "difficulty": 0.89, "answer": "0.6"}
+{"category": "Open", "question_type": "Ranking", "question": "在圖2中，GDP增長率為2.1%的國家在排名中位於第幾位？", "difficulty": 0.8, "answer": "第2位"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖2，國家C的GDP增長率是最低的，僅為2.0。", "question_group": 738, "difficulty": 0.91, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖2，國家A的GDP增長率是最低的。", "question_group": 738, "difficulty": 0.19, "answer": "否"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，歐洲從2023年初到2023年末的百分比變化是0.5%。", "question_group": 739, "difficulty": 0.31, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，中國從2023年初到2023年末的百分比變化是0.5%。", "question_group": 739, "difficulty": 0.55, "answer": "否"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，土耳其的基準利率較高，並且比巴西的高出11.25個百分點。", "question_group": 741, "difficulty": 0.3, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，土耳其的基準利率較高，並且比巴西的高出11.25個百分點。", "question_group": 741, "difficulty": 0.76, "answer": "是"}

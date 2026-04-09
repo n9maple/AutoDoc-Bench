@@ -1,0 +1,2 @@
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表1，從2022年到2023年，支付技術和區塊鏈的數量變化總和是17。", "question_group": 1249, "difficulty": 0.38, "answer": "是"}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表1，從2022年到2023年，支付技術和區塊鏈的數量變化總和是10。", "question_group": 1249, "difficulty": 0.72, "answer": "否"}

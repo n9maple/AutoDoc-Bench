@@ -1,0 +1,4 @@
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，2017至2022年間行動支付交易金額的增長百分比最高。", "question_group": 577, "difficulty": 0.57, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，2022至2023年間行動支付交易金額的增長百分比最高。", "question_group": 577, "difficulty": 0.8, "answer": "否"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，2023年上線的API服務數量比2022年增加了80。", "question_group": 579, "difficulty": 0.54, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，2023年上線的API服務數量比2022年增加了100。", "question_group": 579, "difficulty": 0.85, "answer": "否"}

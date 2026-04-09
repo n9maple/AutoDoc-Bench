@@ -1,0 +1,2 @@
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表2，從2022年到2023年即時公告件數增加了500件，這個增幅佔2022年全年總揭露件數的比例約為6.17%。", "question_group": 1378, "difficulty": 0.36, "answer": "是"}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表2，從2022年到2023年即時公告件數增加了400件，這個增幅佔2022年全年總揭露件數的比例約為5%。", "question_group": 1378, "difficulty": 0.82, "answer": "否"}

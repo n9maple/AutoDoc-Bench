@@ -1,0 +1,5 @@
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表1的資料，2023年全球經濟規模相較於2022年亞太地區與拉丁美洲經濟規模的總和情形為何？", "difficulty": 0.18, "choice": ["2023年全球經濟規模小於2022年亞太地區的經濟規模，但大於拉丁美洲的經濟規模總和。", "2023年全球經濟規模大於單一的2022年亞太地區經濟規模，但小於兩者總和。", "2023年全球經濟規模大於2022年亞太地區與拉丁美洲經濟規模的總和。", "2023年全球經濟規模等於2022年亞太地區的經濟規模與拉丁美洲經濟規模的平均值。"], "answer": "C"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖6的資料，以下哪一個國家的單人家庭比例最低？", "difficulty": 0.74, "choice": ["單人家庭比例為26%的國家", "單人家庭比例為35%的國家", "單人家庭比例為28%的國家", "單人家庭比例為27%的國家"], "answer": "C"}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖8的資料，2024年哪個地區的投資者比例最低？", "difficulty": 0.73, "answer": "亞太地區"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，計劃增加數字化投資的保險公司比例最低的地區其比例為70%。", "question_group": 276, "difficulty": 0.55, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，計劃增加數字化投資的保險公司比例最低的地區其比例為80%。", "question_group": 276, "difficulty": 0.56, "answer": "否"}

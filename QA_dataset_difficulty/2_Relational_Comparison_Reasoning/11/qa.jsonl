@@ -1,0 +1,7 @@
+{"category": "Open", "question_type": "Comparison", "question": "根據圖3，哪個季度的成交總額較高？", "difficulty": 0.13, "answer": "第二個季度的成交總額較高"}
+{"category": "Open", "question_type": "Comparison", "question": "依據表6，請問台中和高雄在2023Q1至2023Q2的增長幅度差異是多少？", "difficulty": 0.77, "answer": "4%"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "在圖3中，兩個季度的成交總額差是多少新台幣億元？", "difficulty": 0.48, "answer": "65億元"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，台中和高雄在2023年第一季度和第二季度的增長變化均為4%。", "question_group": 304, "difficulty": 0.86, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，台北和新北在2023年第一季度和第二季度的增長變化均為4%。", "question_group": 304, "difficulty": 0.18, "answer": "否"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖3，土地市場成交總額的最高與最低成交總額的差距是65億元。", "question_group": 307, "difficulty": 0.58, "answer": "是"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖3，土地市場成交總額的最高與最低成交總額的差距是85億元。", "question_group": 307, "difficulty": 0.77, "answer": "否"}

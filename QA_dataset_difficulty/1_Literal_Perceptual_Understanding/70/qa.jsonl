@@ -1,0 +1,7 @@
+{"category": "Open", "question_type": "Fact Lookup", "question": "哪個產業的成交比重是最低的？", "difficulty": 0.25, "answer": "造紙"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "在2024年5月，外資淨匯入金額是多少？", "difficulty": 0.16, "answer": "280"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2024年5月的數據，外資淨匯入金額為下列哪一項？", "difficulty": 0.13, "choice": ["290", "300", "275", "280"], "answer": "D"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據下面的表格，今天的指數是否在預期波動區間內？", "difficulty": 0.17, "choice": ["是", "否，因為指數已低於歷史平均水平，因此不在波動範圍內。", "即使指數在波動範圍內，但依然可能面臨驟降風險。", "指數在波動範圍外，因為技術指標顯示出不穩定性。"], "answer": "A"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "個股或族群中，盤中最高漲幅的最低數值是多少？", "difficulty": 0.79, "answer": "2.2"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表4，2024年5月的外資淨匯入金額為280。", "question_group": 192, "difficulty": 0.15, "answer": "是"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表4，2024年5月的外資淨匯入金額為150。", "question_group": 192, "difficulty": 0.16, "answer": "否"}

@@ -1,0 +1,12 @@
+{"category": "Open", "question_type": "Fact Lookup", "question": "在2025年台新銀行環境保護目標中，比例超過50的目標有幾個？", "difficulty": 0.72, "answer": "1"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "以下哪個選項正確描述台新銀行2025年度綠色金融產品策略中綠色貸款和綠色債券的具體目標及其主要資金用途？", "difficulty": 0.39, "answer": "台新銀行計劃將綠色貸款總額提升至新台幣500億元，主要支持可再生能源及節能減碳企業，並將綠色債券總額提升至新台幣200億元，投資於風力及太陽能等清潔能源。"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據表1的資料，以下哪一項最符合2024年綠色貸款的預估數值？", "difficulty": 0.19, "choice": ["357億元", "375億元", "355億元", "340億元"], "answer": "A"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "根據表1的資料，2024年綠色貸款的數值是多少？", "difficulty": 0.13, "answer": "357億元"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖3，節能減碳企業在2025年台新銀行綠色貸款用途中所佔的比例最低，為40.0%。", "question_group": 76, "difficulty": 0.34, "answer": "是"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖3，節能減碳企業在2025年台新銀行綠色貸款用途中所佔的比例最高，為40.0%。", "question_group": 76, "difficulty": 0.93, "answer": "否"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖3，若2025年綠色貸款總額為600，可再生能源項目的金額將會是360。", "question_group": 77, "difficulty": 0.3, "answer": "是"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖3，若2025年綠色貸款總額為600，可再生能源項目的金額將會是240。", "question_group": 77, "difficulty": 0.55, "answer": "否"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖7，2025年台新銀行董事會中有2項多元化指標的數值低於20。", "question_group": 78, "difficulty": 0.85, "answer": "是"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖7，2025年台新銀行董事會中有3項多元化指標的數值低於20。", "question_group": 78, "difficulty": 0.18, "answer": "否"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，台新銀行透過太陽能和綠建築設計，每年減少約5,000噸二氧化碳排放，並節約至少20%的能源和水資源。", "question_group": 79, "difficulty": 0.18, "answer": "是"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，台新銀行每年僅透過使用節能燈泡減少約5,000噸二氧化碳排放，並節約至少20%的能源和水資源。", "question_group": 79, "difficulty": 0.69, "answer": "否"}

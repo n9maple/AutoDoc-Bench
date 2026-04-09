@@ -1,0 +1,4 @@
+{"category": "Open", "question_type": "Comparison", "question": "聯發科的股價漲幅比台積電高多少百分比？", "difficulty": 0.65, "answer": "聯發科的股價漲幅比台積電高2%。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片所示的股價變動，聯發科的股價漲幅相比台積電提升了多少百分比？", "difficulty": 0.53, "choice": ["聯發科的股價漲幅為 1% 低於台積電", "2%", "聯發科的漲幅與台積電增幅相同，均為 2%", "聯發科的股價漲幅與台積電相近，約增加 3%"], "answer": "B"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，聯發科的股價漲幅比台積電高2%。", "question_group": 693, "difficulty": 0.84, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，聯發科的股價漲幅比台積電高2%。", "question_group": 693, "difficulty": 0.54, "answer": "是"}

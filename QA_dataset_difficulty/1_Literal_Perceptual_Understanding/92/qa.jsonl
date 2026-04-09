@@ -1,0 +1,6 @@
+{"category": "Open", "question_type": "Peak/Valley", "question": "在2023年，第一銀行不良貸款比率在哪個季度達到最高點？", "difficulty": 0.15, "answer": "2023Q3"}
+{"category": "MCQ", "question_type": "Peak/Valley", "question": "根據提供的圖表，第一銀行在2023年哪個季度的不良貸款比率達到最高點？", "difficulty": 0.25, "choice": ["2023Q1", "2023Q3", "2023整體年度", "2023Q2"], "answer": "B"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖3，2023Q3的流動性覆蓋率（LCR）和淨穩定資金比率（NSFR）分別是多少？以下哪一選項正確？", "difficulty": 0.22, "choice": ["流動性覆蓋率（LCR）是125，淨穩定資金比率（NSFR）是105。", "流動性覆蓋率（LCR）是135，淨穩定資金比率（NSFR）是110。", "流動性覆蓋率（LCR）是130，淨穩定資金比率（NSFR）是100。", "流動性覆蓋率（LCR）是145，淨穩定資金比率（NSFR）是95。"], "answer": "B"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "根據圖3，2023Q3的流動性覆蓋率（LCR）和淨穩定資金比率（NSFR）分別是多少？", "difficulty": 0.48, "answer": "2023Q3的流動性覆蓋率（LCR）是135，淨穩定資金比率（NSFR）是110。"}
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據圖5，第一銀行在2023年第三季度的不良貸款比率達到最高點。", "question_group": 231, "difficulty": 0.89, "answer": "是"}
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據圖5，第一銀行在2023年第一季度的不良貸款比率達到最高點。", "question_group": 231, "difficulty": 0.32, "answer": "否"}

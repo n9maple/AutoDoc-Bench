@@ -1,0 +1,5 @@
+{"category": "Open", "question_type": "Comparison", "question": "在欄 '1' 中，哪個 row 的百分比是最高的？", "difficulty": 0.83, "answer": "在欄 '1' 中，row 50 的百分比是最高的，為 50%。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的資料，所有控管措施的採用銀行數是否相同？", "difficulty": 0.23, "choice": ["是，所有控管措施的採用銀行數均相同。", "不，某些控管措施的採用銀行數明顯較少，但整體趨勢相似。", "是，所有控管措施的採用銀行數非常接近，差異微乎其微。", "不，不同控管措施的銀行數量存在輕微差異。"], "answer": "A"}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖5的資料，兩個地區之間的金融機構違約損失年成長率差異是多少？以下哪一選項是正確的？", "difficulty": 0.67, "choice": ["12%", "5%", "4%", "7%"], "answer": "D"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖6，控管措施的採用銀行數是否呈現相同的數值？", "difficulty": 0.45, "choice": ["是，但只有一半的銀行採用相同的控管措施。", "否，控管措施的採用銀行數顯示有明顯差異。", "是，但只有部分控管措施的採用銀行數相同。", "是，控管措施的採用銀行數呈現相同的數值。"], "answer": "D"}
+{"category": "Open", "question_type": "Comparison", "question": "在圖7中，所有指標的完成率是否一致？", "difficulty": 0.14, "answer": "是，所有指標的完成率一致，因為每個指標的完成率都是100%。"}

@@ -1,0 +1,9 @@
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表4的資料，銀行轉帳的比例是否大於現金支票和臨櫃領取比例的兩倍？以下哪一項最能反映這一情況？", "difficulty": 0.37, "choice": ["銀行轉帳的比例小於現金支票的比例。", "銀行轉帳的比例大於現金支票的比例，但小於現金支票和臨櫃領取比例的總和。", "銀行轉帳的比例大於現金支票和臨櫃領取比例的兩倍。", "銀行轉帳的比例等於現金支票和臨櫃領取比例的總和。"], "answer": "C"}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖5，2024年線上理賠案件占比與紙本理賠案件占比之間的差距是多少？", "difficulty": 0.16, "answer": "10%"}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖1，比例最低的統計項目是什麼？", "difficulty": 0.88, "answer": "比例最低的統計項目是5"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖1，數據的比例從低到高排序為5%、12%、40%、82%、88%。", "question_group": 496, "difficulty": 0.74, "answer": "是"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖1，數據的比例從低到高排序為5%、12%、40%、82%、88%。", "question_group": 496, "difficulty": 0.56, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，統計項目5的比例是5%，是所有項目中比例最低的。", "question_group": 497, "difficulty": 0.72, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，統計項目2的比例是最低的，低於其他所有項目。", "question_group": 497, "difficulty": 0.73, "answer": "否"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，被保險人比例最高的行與最低的行之間的比例差是76。", "question_group": 498, "difficulty": 0.81, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，被保險人比例最高的行與最低的行之間的比例差是50。", "question_group": 498, "difficulty": 0.55, "answer": "否"}

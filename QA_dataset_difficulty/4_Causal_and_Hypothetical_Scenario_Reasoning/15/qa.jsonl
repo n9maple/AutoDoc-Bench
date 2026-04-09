@@ -1,0 +1,4 @@
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "在2021年和2023年間，平均每年受惠企業數增加多少家？", "difficulty": 0.22, "answer": "平均每年受惠企業數增加15000家"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據2021年和2023年間的數據，平均每年受惠企業數增加了多少家？請參考下方提供的資訊進行選擇。", "difficulty": 0.32, "choice": ["平均每年受惠企業數增加13000家", "平均每年受惠企業數增加15000家", "平均每年受惠企業數增加17500家", "平均每年受惠企業數增加18000家"], "answer": "B"}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表1，2021年到2023年間平均每年受惠企業數增加15000家。", "question_group": 1247, "difficulty": 0.58, "answer": "是"}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表1，2021年到2023年間平均每年受惠企業數增加10000家。", "question_group": 1247, "difficulty": 0.57, "answer": "否"}

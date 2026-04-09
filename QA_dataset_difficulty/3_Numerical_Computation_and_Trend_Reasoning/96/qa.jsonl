@@ -1,0 +1,8 @@
+{"category": "Open", "question_type": "Aggregation", "question": "董事和監察人的總提名人數是多少？", "difficulty": 0.13, "answer": "總提名人數是 45"}
+{"category": "Open", "question_type": "Aggregation", "question": "2023年至2025年期間，教育支持的預算總和是多少？", "difficulty": 0.44, "answer": "新臺幣48億元"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據以下數據，從2022年到2023年，總收入和淨利潤的變化為何？請根據圖表提供的信息選擇正確的選項。", "difficulty": 0.34, "choice": ["總收入增加了130，淨利潤減少了5。", "總收入增加了111，淨利潤增加了21.4。", "總收入增加了100，淨利潤增加了20。", "總收入減少了5，淨利潤增加了25。"], "answer": "B"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表1的資料，現場和線上參與股東數總和的平均值是多少？", "difficulty": 0.31, "answer": "至少為550"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖1，從2022年到2023年，營收增長率的變化幅度是2%。", "question_group": 1118, "difficulty": 0.86, "answer": "是"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖1，從2022年到2023年，營收增長率的變化幅度是4%。", "question_group": 1118, "difficulty": 0.74, "answer": "否"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖6，從2023年到2025年，綠色金融產品比例逐年上升。", "question_group": 1120, "difficulty": 0.16, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖6，從2023年到2025年，綠色金融產品比例保持不變。", "question_group": 1120, "difficulty": 0.11, "answer": "否"}

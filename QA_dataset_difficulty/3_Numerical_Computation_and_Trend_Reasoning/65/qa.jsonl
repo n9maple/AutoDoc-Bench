@@ -1,0 +1,10 @@
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "假設2023年的出生年月日錯誤案件數增加10%，新的案件數會是多少？", "difficulty": 0.42, "answer": "286"}
+{"category": "Open", "question_type": "Aggregation", "question": "在所有年齡段中，收入在3萬元以下的人群比例總和是多少？", "difficulty": 0.64, "answer": "18%"}
+{"category": "Open", "question_type": "Aggregation", "question": "假設2023年利息未達2萬元和超過2萬元的比例之和必須是100%，那麼這兩個比例加起來是多少？", "difficulty": 0.13, "answer": "100%"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據給定的數據，以下哪些年齡段中，收入在3萬元以下的人群比例總和正確？（請參考相應的數據表）", "difficulty": 0.71, "choice": ["18%", "21%", "12%", "22%"], "answer": "A"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表6的資料，如果信任度每兩年下降1%，經過十年後的信任度會是以下哪一個選項？", "difficulty": 0.93, "choice": ["94.5%", "97%", "92%", "91%"], "answer": "A"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表2的資料，將所有年齡段的3萬元以下收入者百分比加總後，可能的總和是？", "difficulty": 0.85, "choice": ["22%", "18%", "20%", "21%"], "answer": "B"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，25-40歲、41-60歲和其他年齡段中，收入在3萬元以下的人群比例總和是18%。", "question_group": 1022, "difficulty": 0.33, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，25-40歲、41-60歲和其他年齡段中，收入在3萬元以下的人群比例總和是20%。", "question_group": 1022, "difficulty": 0.89, "answer": "否"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，2023年利息未達2萬元和超過2萬元的比例加起來是100%。", "question_group": 1023, "difficulty": 0.16, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，2023年利息未達2萬元和超過2萬元的比例加起來是50%。", "question_group": 1023, "difficulty": 0.32, "answer": "否"}

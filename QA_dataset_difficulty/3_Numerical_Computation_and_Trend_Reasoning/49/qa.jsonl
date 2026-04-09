@@ -1,0 +1,7 @@
+{"category": "Open", "question_type": "Aggregation", "question": "2023年和2024年合併總資產的平均值是多少？", "difficulty": 0.53, "answer": "31885"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "2024年台灣人壽的金融資產期末餘額與2023年相比增加了多少百分比？", "difficulty": 0.82, "answer": "2024年台灣人壽的金融資產期末餘額與2023年相比增加了5.88%。"}
+{"category": "Open", "question_type": "Aggregation", "question": "台灣人壽保險的解約率和投資利差的數值總和是多少？", "difficulty": 0.39, "answer": "3.6%"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2023年到2024年，綠能投資的增長百分比是多少？", "difficulty": 0.77, "answer": "40%"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表6的資料，2024年金融教育和弱勢關懷的投入總額是多少？", "difficulty": 0.44, "answer": "0.9"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表6，2023年和2024年總投入金額的平均值是1.45。", "question_group": 953, "difficulty": 0.33, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表6，2023年和2024年總投入金額的平均值是1.45。", "question_group": 953, "difficulty": 0.87, "answer": "是"}

@@ -1,0 +1,3 @@
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表2的資料，假設2023年的良好或優秀等級公司比例是2022年的兩倍增長百分比，請問2023年的這個比例可能是以下哪一個選項？", "difficulty": 0.9, "choice": ["85%", "80%", "86%", "90%"], "answer": "A"}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表4，增加5%後，高科技產業和金融業提交財務報表的平均比例是96%。", "question_group": 1510, "difficulty": 0.73, "answer": "是"}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表4，增加5%後，高科技產業和金融業提交財務報表的平均比例是98%。", "question_group": 1510, "difficulty": 0.6, "answer": "否"}

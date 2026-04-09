@@ -1,0 +1,4 @@
+{"category": "Open", "question_type": "Fact Lookup", "question": "圖表中最左邊的產品類型的增長率是多少？", "difficulty": 0.14, "answer": "5.0"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖表，最左邊的產品類型的增長率是多少？", "difficulty": 0.13, "choice": ["6.0", "5.0", "4.5", "3.5"], "answer": "B"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖1，2025年Q2壽險市場中健康險的市場佔比最低，為12.0%。", "question_group": 90, "difficulty": 0.24, "answer": "是"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖1，2025年Q2壽險市場中投資型壽險的市場佔比最低，為40.0%。", "question_group": 90, "difficulty": 0.34, "answer": "否"}

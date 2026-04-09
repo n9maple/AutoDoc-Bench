@@ -1,0 +1,9 @@
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表1的資料，假設資本適足率每年增加1%，那麼三年後的資本適足率預計會是多少？", "difficulty": 0.87, "choice": ["19%", "18%", "20%", "21%"], "answer": "B"}
+{"category": "Open", "question_type": "Aggregation", "question": "在圖7中，所有管理範疇的合規審核覆蓋率總和是多少？", "difficulty": 0.33, "answer": "300"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表4的資料，2024年的教育資助金額相比2023年增加的總金額是多少？", "difficulty": 0.61, "answer": "新台幣1000萬元"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表2，從2023年到2024年，綠色金融產品總額增加了50億元。", "question_group": 1142, "difficulty": 0.54, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表2，從2023年到2024年，綠色金融產品總額增加了100億元。", "question_group": 1142, "difficulty": 0.74, "answer": "否"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表7，2024年數位化管理和內部控制機制的總預算為新台幣10億元。", "question_group": 1143, "difficulty": 0.36, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表7，2024年數位化管理和內部控制機制的總預算為新台幣10億元。", "question_group": 1143, "difficulty": 0.57, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，2023年和2024年節能減碳項目的總投資額為250億元。", "question_group": 1145, "difficulty": 0.86, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，2023年和2024年節能減碳項目的總投資額為200億元。", "question_group": 1145, "difficulty": 0.53, "answer": "否"}

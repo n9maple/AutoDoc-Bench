@@ -1,0 +1,8 @@
+{"category": "Open", "question_type": "Aggregation", "question": "越南和印尼的市場份額增長總和是多少？", "difficulty": 0.13, "answer": "35%"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "哪一年新興科技應用的支出首次超過5億？", "difficulty": 0.66, "answer": "2025年"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的市場數據，越南和印尼的市場份額增長總和是以下哪個選項？", "difficulty": 0.44, "choice": ["33%", "20%", "50%", "35%"], "answer": "D"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據下圖，新興科技應用的支出在以下哪一年首次超過5億？", "difficulty": 0.85, "choice": ["2024年", "2025年", "2023年", "2026年"], "answer": "B"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表3的資料，假設資本適足率每年下降5%，那麼在以下幾年中，資本適足率何時會首次低於監管要求？", "difficulty": 0.78, "choice": ["13年後", "11年後", "16年後", "14年後"], "answer": "A"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據圖5的資料，兩個指標的平均數量是多少萬？", "difficulty": 0.44, "answer": "325萬"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，越南和印尼的市場份額增長總和是35%。", "question_group": 1088, "difficulty": 0.33, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，越南和印尼的市場份額增長總和是25%。", "question_group": 1088, "difficulty": 0.55, "answer": "否"}

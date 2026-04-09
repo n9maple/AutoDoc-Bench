@@ -1,0 +1,13 @@
+{"category": "Open", "question_type": "Comparison", "question": "哪一種通知方式的補件完成率最高？", "difficulty": 0.42, "answer": "線上補件功能的補件完成率最高，為98。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據上傳的圖片，原始上傳的通過率與利用預覽功能修正後的通過率相比，低多少個百分點？", "difficulty": 0.62, "choice": ["8個百分點", "10個百分點", "12個百分點", "7個百分點"], "answer": "B"}
+{"category": "MCQ", "question_type": "Comparison", "question": "在圖4中，以下選項中哪一項的選擇比例低於App認證的比例？", "difficulty": 0.77, "choice": ["雙重認證的選擇比例", "生物識別技術的選擇比例", "社交媒體登錄的選擇比例", "其他選項的選擇比例"], "answer": "D"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表1的資料，以下哪種認證方式的效率最低？另外，該方式效率相較於最高的認證方式低了多少百分比？", "difficulty": 0.61, "choice": ["臉部辨識的效率最低，相較於手機簡訊OTP認證低了5%。", "臉部辨識的效率低於手機簡訊OTP，低了15%。", "指紋辨識的效率最低，相較於手機簡訊OTP認證低了8%。", "指紋辨識和臉部辨識的效率相同，相較於手機簡訊OTP認證均低10%。"], "answer": "A"}
+{"category": "Open", "question_type": "Comparison", "question": "在圖4中，其他選項的選擇比例是否低於App認證的比例？", "difficulty": 0.24, "answer": "是，其他選項的選擇比例低於App認證的比例"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖4，'其他'的選擇比例是所有安全設定中最低的。", "question_group": 485, "difficulty": 0.73, "answer": "是"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖4，簡訊OTP的選擇比例是所有安全設定中最低的。", "question_group": 485, "difficulty": 0.53, "answer": "否"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖3，證件類型的用戶選擇比例從高到低排序為：91%、7%、2%。", "question_group": 487, "difficulty": 0.19, "answer": "是"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖3，證件類型的用戶選擇比例從高到低排序為：91%、7%、2%。", "question_group": 487, "difficulty": 0.58, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，線上補件功能的補件完成率是最高的，為98。", "question_group": 488, "difficulty": 0.3, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，電子郵件通知補件的補件完成率是最高的，為98。", "question_group": 488, "difficulty": 0.88, "answer": "否"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，手機簡訊OTP認證的成功率比電子郵件認證高出2%。", "question_group": 489, "difficulty": 0.18, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，手機簡訊OTP認證的成功率比電子郵件認證高出5%。", "question_group": 489, "difficulty": 0.86, "answer": "否"}

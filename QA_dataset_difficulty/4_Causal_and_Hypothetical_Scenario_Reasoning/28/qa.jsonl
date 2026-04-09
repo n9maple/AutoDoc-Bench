@@ -1,0 +1,9 @@
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表1的資料，2025年的綠色貸款比2024年多了多少億元？以下哪一項是正確的答案？", "difficulty": 0.92, "choice": ["157億元", "135億元", "145億元", "143億元"], "answer": "D"}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，乙銀行在2025年可能更能提升員工的工作滿意度與忠誠度，因為它著重於強化多元文化指標與培訓。", "question_group": 1300, "difficulty": 0.35, "answer": "是"}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，甲銀行在2025年可能更能提升員工的工作滿意度與忠誠度，因為它著重於削減員工福利。", "question_group": 1300, "difficulty": 0.11, "answer": "否"}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，台新銀行的女性領導力發展計畫為女性員工提供更廣泛的培訓和交流機會，多元文化活動日促進不同文化背景員工之間的理解與合作。", "question_group": 1301, "difficulty": 0.16, "answer": "是"}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，台新銀行的女性領導力發展計畫僅僅是為了增加公司的女員工數量，而多元文化活動日主要是為了舉辦員工聚餐活動。", "question_group": 1301, "difficulty": 0.12, "answer": "否"}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，情境B專注於可再生能源項目並將綠色債券增至新台幣250億元，這符合台新銀行的可持續發展政策。", "question_group": 1304, "difficulty": 0.9, "answer": "是"}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，情境A專注於可再生能源項目並將綠色債券增至新台幣250億元，這符合台新銀行的可持續發展政策。", "question_group": 1304, "difficulty": 0.4, "answer": "否"}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，台新銀行需擴大國際投資者基礎以減少市場波動影響，並利用金融科技優化資金流動性。", "question_group": 1305, "difficulty": 0.95, "answer": "是"}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，台新銀行應縮小國際投資者基礎以增加市場波動影響，並不使用金融科技來優化資金流動性。", "question_group": 1305, "difficulty": 0.12, "answer": "否"}

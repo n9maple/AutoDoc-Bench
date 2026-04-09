@@ -1,0 +1,8 @@
+{"category": "Open", "question_type": "Comparison", "question": "2023年的健康醫療險比2022年的投資型保險多多少億元？", "difficulty": 0.79, "answer": "8.4億元"}
+{"category": "Open", "question_type": "Comparison", "question": "比較男性30歲和女性30歲在20年期的數值，男性比女性多多少？", "difficulty": 0.46, "answer": "1760"}
+{"category": "Open", "question_type": "Comparison", "question": "一名30歲女性和一名45歲女性在購買重大疾病險時，彼此的保費差距是多少？", "difficulty": 0.71, "answer": "6,624"}
+{"category": "Open", "question_type": "Comparison", "question": "在這些保險商品中，哪一個保險類型在四家公司中費用的變動範圍最大？", "difficulty": 0.66, "answer": "年金險"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的數據，2023年的健康醫療險比2022年的投資型保險多多少億元？", "difficulty": 0.33, "choice": ["10.3億元", "8.4億元", "7.2億元", "5.9億元"], "answer": "B"}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據圖3，以下哪些商品類型的佔比從低到高排序為正確的？", "difficulty": 0.92, "choice": ["終身壽險, 健康醫療險, 定期壽險, 投資型保險", "健康醫療險, 投資型保險, 定期壽險, 終身壽險", "定期壽險, 投資型保險, 健康醫療險, 終身壽險", "投資型保險, 定期壽險, 健康醫療險, 終身壽險"], "answer": "C"}
+{"category": "Open", "question_type": "Comparison", "question": "根據表2的資料，30歲男性和女性在20年期方案中的費用相比，哪一方較低且差額是多少？", "difficulty": 0.36, "answer": "30歲女性在20年期方案中的費用較低，差額是1,760元。"}
+{"category": "Open", "question_type": "Comparison", "question": "根據表6的資料，哪家壽險公司的投資型保單年化報酬率低於業界平均，並且是所有公司中最低的？", "difficulty": 0.66, "answer": "國泰人壽"}

@@ -1,0 +1,7 @@
+{"category": "MCQ", "question_type": "Peak/Valley", "question": "根據圖4的資料，以下哪一年顯示了交易總額達到5184億元的情況？", "difficulty": 0.13, "choice": ["2027年（交易總額5200億元）", "2024年（交易總額4500億元）", "2025年（交易總額4900億元）", "2026年"], "answer": "D"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖1，只有一個金融機構類型的數位銀行服務採用率超過60%。", "question_group": 91, "difficulty": 0.28, "answer": "是"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖1，有兩個金融機構類型的數位銀行服務採用率超過60%。", "question_group": 91, "difficulty": 0.32, "answer": "否"}
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據圖8，2025年的應用增長百分比顯示出明顯的峰值。", "question_group": 92, "difficulty": 0.53, "answer": "是"}
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據圖8，2024年的應用增長百分比顯示出比2025年更明顯的峰值。", "question_group": 92, "difficulty": 0.21, "answer": "否"}
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據圖3，2026年的數位銀行用戶數是最高的。", "question_group": 93, "difficulty": 0.3, "answer": "是"}
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據圖3，2025年的數位銀行用戶數是最高的。", "question_group": 93, "difficulty": 0.75, "answer": "否"}

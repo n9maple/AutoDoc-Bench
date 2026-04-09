@@ -1,0 +1,9 @@
+{"category": "Open", "question_type": "Aggregation", "question": "從2022年到2024年，用戶數量總共增加了多少萬？", "difficulty": 0.31, "answer": "32.25萬"}
+{"category": "Open", "question_type": "Aggregation", "question": "在線客戶服務的用戶滿意度提升百分比和普及與信任度促進百分比的平均值是多少？", "difficulty": 0.21, "answer": "47.5%"}
+{"category": "Open", "question_type": "Aggregation", "question": "將客戶服務滿意度和用戶問題解決效率評價的百分比相加會是多少？", "difficulty": 0.29, "answer": "177%"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下面的圖表，從2022年到2024年，用戶數量增加了多少萬？", "difficulty": 0.6, "choice": ["32.25萬", "28.5萬", "31萬", "33.5萬"], "answer": "A"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖顯示，在線客戶服務的用戶滿意度提升百分比和普及與信任度促進百分比的平均值是多少？", "difficulty": 0.4, "choice": ["47.5%", "48.5%", "47%", "49%"], "answer": "A"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，在線客戶服務的用戶滿意度提升百分比和普及與信任度促進百分比的平均值是47.5%。", "question_group": 1169, "difficulty": 0.58, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，在線客戶服務的用戶滿意度提升百分比和普及與信任度促進百分比的平均值是40%。", "question_group": 1169, "difficulty": 0.64, "answer": "否"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，從2022年到2024年，用戶數量增加了32.25萬。", "question_group": 1170, "difficulty": 0.11, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，從2022年到2024年，用戶數量增加了20萬。", "question_group": 1170, "difficulty": 0.73, "answer": "否"}

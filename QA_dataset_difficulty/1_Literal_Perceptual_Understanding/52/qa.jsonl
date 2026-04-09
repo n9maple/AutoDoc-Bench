@@ -1,0 +1,5 @@
+{"category": "Open", "question_type": "Fact Lookup", "question": "根據表1的資料，在建議密碼更換週期為90天的情況下，請問一年內建議更換密碼的次數是多少？", "difficulty": 0.18, "answer": "4次"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表6，未啟用雙重驗證的情況下，帳戶遭未授權登入的風險更高。", "question_group": 133, "difficulty": 0.11, "answer": "是"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表6，未啟用雙重驗證的情況下，帳戶遭未授權登入的風險更高。", "question_group": 133, "difficulty": 0.11, "answer": "是"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖8，最右邊的項目在2024年Q1的瀏覽量是15000。", "question_group": 134, "difficulty": 0.3, "answer": "是"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖8，最右邊的項目在2024年Q1的瀏覽量是30000。", "question_group": 134, "difficulty": 0.32, "answer": "否"}

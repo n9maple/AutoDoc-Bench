@@ -1,0 +1,2 @@
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表2，如果操作便捷性從 70% 提升至 80%，而手機應用程式滿意度從 75% 提升至 85%，則總滿意度的平均值為 76.67%。", "question_group": 1517, "difficulty": 0.88, "answer": "是"}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表2，如果操作便捷性從 70% 提升至 80%，而手機應用程式滿意度從 75% 提升至 85%，則總滿意度的平均值為 80.00%。", "question_group": 1517, "difficulty": 0.91, "answer": "否"}

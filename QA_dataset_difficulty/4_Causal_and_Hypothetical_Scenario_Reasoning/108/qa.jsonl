@@ -1,0 +1,10 @@
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果航運的交易量環比增長率提高到8%，下一期的交易量會是多少億？", "difficulty": 0.5, "answer": "1080億"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果食品和零售的交易量都增加了它們各自的環比增長率，那麼食品的交易量將會比零售多多少億？", "difficulty": 0.9, "answer": "食品的交易量將會比零售多9.5億。"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果科技板塊的市場份額增加了5%，而金融板塊的市場份額減少了3%，那麼兩者的最終市場份額相差多少？", "difficulty": 0.84, "answer": "9.0%"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據下圖，如果航運的交易量環比增長率提高到8%，下一期的交易量將會是多少億？", "difficulty": 0.23, "choice": ["1080億", "1000億", "1200億", "1120億"], "answer": "A"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據所提供的圖片，如果食品和零售的交易量都增加了它們各自的環比增長率，那麼食品的交易量將會比零售多多少億？", "difficulty": 0.65, "choice": ["食品的交易量將會比零售多10億。", "食品的交易量將會比零售多5億。", "食品的交易量將會比零售多9.5億。", "食品的交易量將會比零售多15億。"], "answer": "C"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "假設在2025年9月初投資了1000美元在綠色能源，並在9月下旬賣出，那麼你的投資總額將是多少？請參考下面的資料來選擇正確答案。", "difficulty": 0.18, "choice": ["1350.00美元", "1400.00美元", "1200.00美元", "1299.75美元"], "answer": "D"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "在一個市場中，如果科技板塊的市場份額增加了5%，而金融板塊的市場份額減少了3%，那麼最終兩者的市場份額相差多少？", "difficulty": 0.72, "choice": ["市场份额相差11.0%", "9.0%", "市场份额相差7.0%", "市场份额相差8.0%"], "answer": "B"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表2的資料，如果鋼鐵行業的交易量以相同的環比增長率增長，六個月後的交易量將是多少？", "difficulty": 0.21, "choice": ["六個月後鋼鐵行業的交易量約為1100億。", "六個月後鋼鐵行業的交易量約為1350億。", "六個月後鋼鐵行業的交易量約為1194.05億。", "六個月後鋼鐵行業的交易量約為1250億。"], "answer": "C"}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表2，如果航運的交易量環比增長率提高到8%，下一期的交易量將會是1080億。", "question_group": 1511, "difficulty": 0.59, "answer": "是"}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表2，如果航運的交易量環比增長率提高到8%，下一期的交易量將會是1080億。", "question_group": 1511, "difficulty": 0.56, "answer": "是"}

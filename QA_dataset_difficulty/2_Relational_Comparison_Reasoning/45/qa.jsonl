@@ -1,0 +1,10 @@
+{"category": "Open", "question_type": "Comparison", "question": "成立年限超過兩年之核准案件比例比通過聯合徵信中心查核比例高多少百分比？", "difficulty": 0.41, "answer": "2%"}
+{"category": "Open", "question_type": "Comparison", "question": "核准案件的平均信用紀錄評分比全部案件高多少？", "difficulty": 0.85, "answer": "核准案件的平均信用紀錄評分比全部案件高1.0"}
+{"category": "Open", "question_type": "Comparison", "question": "2023 年線上審查的案件是否超過了一半的比例？", "difficulty": 0.13, "answer": "是的，2023 年線上審查的案件超過了一半的比例。"}
+{"category": "Open", "question_type": "Comparison", "question": "在所有撥款類型中，哪一個的平均申請至撥款天數最短，並且該類型的撥款用途證明比例是多少？", "difficulty": 0.6, "answer": "單筆撥款的平均申請至撥款天數最短，該類型的撥款用途證明比例是99%。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "在某個情境下，成立年限超過兩年的核准案件比例與通過聯合徵信中心查核的比例相比，請問它高出多少百分比？", "difficulty": 0.65, "choice": ["3%", "4%", "2%", "1%"], "answer": "C"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的資料，核准案件的平均信用紀錄評分比所有案件高多少分？", "difficulty": 0.84, "choice": ["1.8", "1.3", "0.5", "1.0"], "answer": "D"}
+{"category": "Open", "question_type": "Comparison", "question": "根據表2的資料，核准案件的平均信用紀錄評分比全部案件高出多少個百分比？", "difficulty": 0.85, "answer": "核准案件的平均信用紀錄評分比全部案件高出約8.20%。"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "根據圖5，兩個預警/管理類型的件數差是多少？", "difficulty": 0.13, "answer": "35"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖5，第一個類型和第二個類型的件數差距為35。", "question_group": 447, "difficulty": 0.5, "answer": "是"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖5，第一個類型和第二個類型的件數差距為25。", "question_group": 447, "difficulty": 0.75, "answer": "否"}

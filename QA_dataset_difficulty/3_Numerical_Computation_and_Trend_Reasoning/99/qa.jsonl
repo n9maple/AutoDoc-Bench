@@ -1,0 +1,14 @@
+{"category": "Open", "question_type": "Aggregation", "question": "哪一個項目的下載次數和觀看次數之和最大？", "difficulty": 0.36, "answer": "視頻教程的下載次數和觀看次數之和最大，為40,000"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據以下數據，哪一個項目的下載次數和觀看次數之和最大？（請參考圖表中的數據）", "difficulty": 0.13, "choice": ["圖片集的下載次數和觀看次數之和有增長趨勢", "電子書的下載次數和觀看次數之和接近視頻教程", "網頁文章的下載次數和觀看次數之和不顯著", "視頻教程的下載次數和觀看次數之和最大"], "answer": "D"}
+{"category": "Open", "question_type": "Temporal Trend", "question": "根據圖表，2024年1月至4月綠色金融數字平台的用戶數是否持續增長？", "difficulty": 0.13, "answer": "2024年1月至4月綠色金融數字平台的用戶數持續增長。"}
+{"category": "Open", "question_type": "Rate of Change", "question": "計算2024年3月至4月用戶數的增長量是多少？", "difficulty": 0.85, "answer": "2024年3月至4月用戶數的增長量是1.98375萬。"}
+{"category": "Open", "question_type": "Aggregation", "question": "所有評估指標的拒絕率總和是多少？", "difficulty": 0.39, "answer": "60%"}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖2，在2024年1月至2024年4月期間，總用戶數呈現了何種趨勢？", "difficulty": 0.31, "choice": ["總用戶數穩定增長，且增長幅度逐月增加。", "總用戶數在2024年4月達到峰值後開始減少。", "總用戶數在1月至4月期間穩定，但增長幅度逐月減少，最終在4月持平。", "總用戶數在2024年整體顯示下滑趨勢，特別是在3月份出現明顯減少。"], "answer": "A"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖4中的數據，所有評估指標的拒絕率總和是多少？以下哪一個選項是正確的？", "difficulty": 0.34, "choice": ["60", "55", "70", "80"], "answer": "A"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表1，請計算從2020年到2023年，這四年間的平均基金規模是多少。", "difficulty": 0.87, "answer": "93.6925"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖2，2024年3月至4月用戶數的增長量是1.98375萬。", "question_group": 1128, "difficulty": 0.73, "answer": "是"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖2，2024年3月至4月用戶數的增長量是2.5萬。", "question_group": 1128, "difficulty": 0.76, "answer": "否"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖4，所有評估指標的拒絕率總和是 60%。", "question_group": 1129, "difficulty": 0.75, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖4，所有評估指標的拒絕率總和是 50%。", "question_group": 1129, "difficulty": 0.53, "answer": "否"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖2，2024年1月至4月綠色金融數字平台的用戶數每個月都比前一個月增加。", "question_group": 1130, "difficulty": 0.11, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖2，2024年1月至4月綠色金融數字平台的用戶數在某些月份比前一個月減少。", "question_group": 1130, "difficulty": 0.18, "answer": "否"}

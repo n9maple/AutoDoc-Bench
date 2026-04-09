@@ -1,0 +1,10 @@
+{"category": "Open", "question_type": "Aggregation", "question": "請問調整前與調整後的最低年利率的平均值是多少？", "difficulty": 0.58, "answer": "1.94"}
+{"category": "Open", "question_type": "Aggregation", "question": "浮動利率和固定利率的貸款餘額總和是多少？", "difficulty": 0.68, "answer": "3000"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2024-07到2024-10，新房貸申請案件數的最大值有什麼樣的變化趨勢？", "difficulty": 0.55, "answer": "從2024-07到2024-10，新房貸申請案件數的最大值呈現逐月上升的趨勢，從980上升到1100。"}
+{"category": "Open", "question_type": "Aggregation", "question": "2024年下半年中，哪個月份的新房貸申請案件數量範圍最小，範圍是多少？", "difficulty": 0.74, "answer": "2024-07 的新房貸申請案件數量範圍最小，範圍是 70。"}
+{"category": "Open", "question_type": "Aggregation", "question": "2024年2月和3月的線上試算工具使用人數合計是多少？", "difficulty": 0.64, "answer": "4,400"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，浮動利率和固定利率的貸款餘額總和是？", "difficulty": 0.17, "choice": ["2800", "3200", "3000", "3100"], "answer": "C"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖4中提供的數據，以下哪一項是兩個調整基準月的浮動利率房貸戶數總和？", "difficulty": 0.44, "choice": ["45800", "46800", "39800", "47800"], "answer": "B"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據圖5，所有協助方案的申請/諮詢人數總和是多少？", "difficulty": 0.35, "answer": "1030"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖3，所有專案類型的總戶數為9750。", "question_group": 919, "difficulty": 0.49, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖3，所有專案類型的總戶數為9000。", "question_group": 919, "difficulty": 0.26, "answer": "否"}

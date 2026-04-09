@@ -1,0 +1,15 @@
+{"category": "Open", "question_type": "Rate of Change", "question": "從2021年到2022年，哪個國家的金融科技投資總額下降比例最小？", "difficulty": 0.74, "answer": "新加坡"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，從2022年到2026年間，中國經濟增長最顯著的年份是2026年。", "question_group": 1036, "difficulty": 0.69, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，從2022年到2026年間，中國經濟增長最顯著的年份是2025年。", "question_group": 1036, "difficulty": 0.32, "answer": "否"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖3，2022年與2023年間，成功驗證專案數的增加量為5。", "question_group": 1037, "difficulty": 0.83, "answer": "是"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖3，2022年與2023年間，成功驗證專案數的增加量為10。", "question_group": 1037, "difficulty": 0.56, "answer": "否"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖2，從2019年到2020年，可疑交易通報率提升了5%。", "question_group": 1039, "difficulty": 0.75, "answer": "是"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖2，從2019年到2020年，可疑交易通報率提升了10%。", "question_group": 1039, "difficulty": 0.53, "answer": "否"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖3，2020年到2023年間累計申請件數的年均增長是8件。", "question_group": 1040, "difficulty": 0.75, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖3，2020年到2023年間累計申請件數的年均增長是10件。", "question_group": 1040, "difficulty": 0.31, "answer": "否"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表8，2020年至2023年金融科技相關職缺數的平均年成長率是22.95%。", "question_group": 1041, "difficulty": 0.79, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表8，2020年至2023年金融科技相關職缺數的平均年成長率是15%。", "question_group": 1041, "difficulty": 0.76, "answer": "否"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖1，從2021年到2022年，美國的金融科技投資總額下降最多，達到45億美元。", "question_group": 1042, "difficulty": 0.85, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖1，從2021年到2022年，中國的金融科技投資總額下降最多，達到45億美元。", "question_group": 1042, "difficulty": 0.33, "answer": "否"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖4，2021年和2023年資安認證標準數增加最多，分別增加了1。", "question_group": 1043, "difficulty": 0.86, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖4，2022年資安認證標準數增加最多，增加了1。", "question_group": 1043, "difficulty": 0.53, "answer": "否"}

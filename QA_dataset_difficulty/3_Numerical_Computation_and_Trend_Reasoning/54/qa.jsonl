@@ -1,0 +1,4 @@
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表5，所有通知方式的平均審核完成時間之和是18。", "question_group": 970, "difficulty": 0.86, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表5，所有通知方式的平均審核完成時間之和是20。", "question_group": 970, "difficulty": 0.52, "answer": "否"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，2023年查詢帳戶資訊的數量與首次交易的數量相加為176。", "question_group": 971, "difficulty": 0.78, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，2023年查詢帳戶資訊的數量與首次交易的數量相加為180。", "question_group": 971, "difficulty": 0.74, "answer": "否"}

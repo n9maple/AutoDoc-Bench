@@ -1,0 +1,5 @@
+{"category": "Open", "question_type": "Aggregation", "question": "在日常生活中，45-60歲和60歲以上年齡段的使用率總和是多少百分比？", "difficulty": 0.74, "answer": "120%"}
+{"category": "Open", "question_type": "Aggregation", "question": "社交媒體平台和手機應用程式的消費者參與增長率的平均值是多少？", "difficulty": 0.35, "answer": "27.5%"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據一張顯示不同年齡段使用率的圖片，45-60歲及60歲以上年齡段的使用率總和是多少？", "difficulty": 0.16, "choice": ["110%", "125%", "135%", "120%"], "answer": "D"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖表，社交媒體平台和手機應用程式的消費者參與增長率的平均值是多少？", "difficulty": 0.54, "choice": ["29.2%", "26.5%", "28.0%", "27.5%"], "answer": "D"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據圖6的資料，2024年至2027年期間，增長率的總平均是多少？", "difficulty": 0.67, "answer": "12"}

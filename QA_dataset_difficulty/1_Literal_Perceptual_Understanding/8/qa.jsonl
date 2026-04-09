@@ -1,0 +1,4 @@
+{"category": "Open", "question_type": "Fact Lookup", "question": "圖表中有多少個產品類型的增長百分比為零?", "difficulty": 0.29, "answer": "2"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖表顯示，以下哪些選項正確描述產品類型的增長百分比為零的數量？", "difficulty": 0.29, "choice": ["所有產品類型的增長百分比均為零", "有3個產品類型的增長百分比為零", "有2個產品類型的增長百分比為零", "有2個產品類型的增長百分比為負"], "answer": "C"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖1，有2個產品類型的增長百分比為零。", "question_group": 32, "difficulty": 0.51, "answer": "是"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖1，有3個產品類型的增長百分比為零。", "question_group": 32, "difficulty": 0.32, "answer": "否"}

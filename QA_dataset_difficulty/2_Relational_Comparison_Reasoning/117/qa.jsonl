@@ -1,0 +1,3 @@
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表6的數據，哪些貸款類型的原始利率和調整後利率差異最大？", "difficulty": 0.34, "choice": ["房貸和住房抵押貸款", "房貸和企業貸款", "汽車貸款和企業貸款", "信用卡和學生貸款"], "answer": "B"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，週二的收盤價與開盤價的差異最大。", "question_group": 762, "difficulty": 0.68, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，週五的收盤價與開盤價的差異最大。", "question_group": 762, "difficulty": 0.56, "answer": "否"}

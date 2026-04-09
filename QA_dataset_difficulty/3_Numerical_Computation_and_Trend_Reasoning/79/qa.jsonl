@@ -1,0 +1,7 @@
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2024年到2026年，社區投資基金規模的年均增長是多少？", "difficulty": 0.49, "answer": "1"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2023年到2025年，獨立董事比例的增長率是多少？", "difficulty": 0.56, "answer": "25%"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2024年到2026年，供應商合規率的變化趨勢是如何的？", "difficulty": 0.31, "answer": "從2024年到2026年，供應商合規率呈現穩定上升的趨勢，每年增加10個百分點。"}
+{"category": "Open", "question_type": "Aggregation", "question": "2023 年和 2024 年的支持項目數量總和是多少？", "difficulty": 0.35, "answer": "支持項目數量總和是35。"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表1，2024年至2026年間，社區投資基金規模的平均年度增長率是多少？請選擇正確的選項。", "difficulty": 0.53, "choice": ["2.5", "1", "2", "1.2"], "answer": "B"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖3，從2024年至2026年，員工滿意度每年增加4個百分點。", "question_group": 1077, "difficulty": 0.71, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖3，從2024年至2026年，員工滿意度每年減少2個百分點。", "question_group": 1077, "difficulty": 0.11, "answer": "否"}

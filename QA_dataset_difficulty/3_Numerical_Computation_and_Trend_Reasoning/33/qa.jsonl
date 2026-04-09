@@ -1,0 +1,14 @@
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從 2024 年到 2025 年，線上參與人數增加了多少百分比？", "difficulty": 0.13, "answer": "15%"}
+{"category": "Open", "question_type": "Aggregation", "question": "2024 年和 2025 年所有現場參與人數與線上參與人數的總和是多少？", "difficulty": 0.71, "answer": "總和是 4445。"}
+{"category": "Open", "question_type": "Aggregation", "question": "從2023年到2025年，每股現金股利的總和是多少？", "difficulty": 0.29, "answer": "每股現金股利的總和是7.5。"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2025年到2030年，環保型業務比重增加了多少百分比？", "difficulty": 0.44, "answer": "環保型業務比重增加了10%。"}
+{"category": "Open", "question_type": "Aggregation", "question": "2030年的可持續項目投資比例和環保型業務比重加起來是多少百分比？", "difficulty": 0.31, "answer": "45%"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表1的資料，計算從2024年到2025年，現場與線上參與人數增長的總人數是多少？", "difficulty": 0.78, "answer": "總增長人數是245。"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，從2024年到2025年，線上參與人數的變化幅度為15%。", "question_group": 880, "difficulty": 0.54, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，從2024年到2025年，線上參與人數的變化幅度為15%。", "question_group": 880, "difficulty": 0.58, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，2024 年和 2025 年的現場參與人數與線上參與人數的總和是 4445。", "question_group": 881, "difficulty": 0.32, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，2024 年和 2025 年的現場參與人數與線上參與人數的總和是 4445。", "question_group": 881, "difficulty": 0.72, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，2030年的可持續項目投資比例和環保型業務比重的總和是45%。", "question_group": 882, "difficulty": 0.73, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，2030年的可持續項目投資比例和環保型業務比重的總和是45%。", "question_group": 882, "difficulty": 0.88, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖4，從2023年至2025年，行業平均ROE(%)呈現逐年上升的趨勢。", "question_group": 883, "difficulty": 0.54, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖4，從2023年至2025年，行業平均ROE(%)呈現下降的趨勢。", "question_group": 883, "difficulty": 0.34, "answer": "否"}

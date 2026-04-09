@@ -1,0 +1,9 @@
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖3，資金籌集額最多的合作類別與最少的合作類別之間的差額為多少億美元？", "difficulty": 0.88, "choice": ["4億美元", "5億美元", "2億美元", "7億美元"], "answer": "A"}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖8，指標30的變化百分比與指標15相比，差異為多少？", "difficulty": 0.91, "choice": ["指標30的變化百分比比指標15多3%", "指標30的變化百分比比指標15多15%", "指標30的變化百分比比指標15少5%", "指標30的變化百分比比指標15多8%"], "answer": "B"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖5中的數據，以下哪一個指標的數據是最低的？", "difficulty": 0.91, "choice": ["指標: 5", "指標: 10", "指標: 9", "指標: 7"], "answer": "B"}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖1，2023年和2024年的市場規模差距是多少萬億美元？", "difficulty": 0.56, "answer": "4萬億美元"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "根據圖8，指標30的變化百分比比指標15多多少？", "difficulty": 0.17, "answer": "指標30的變化百分比比指標15多15%"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "根據圖7，指標100與指標70的數據差異是多少？", "difficulty": 0.13, "answer": "30"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "在圖6中，項目數值的最大差異是多少？", "difficulty": 0.6, "answer": "70"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "在圖5中，數據為200的指標與數據為10的指標之間的差是多少？", "difficulty": 0.13, "answer": "190"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "根據圖9，兩個活動類型參與人數的差異是多少？", "difficulty": 0.26, "answer": "2000"}

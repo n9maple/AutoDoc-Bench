@@ -1,0 +1,9 @@
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2023年到2040年，電動車市場滲透率增長了多少百分比？", "difficulty": 0.93, "answer": "1900%"}
+{"category": "Open", "question_type": "Aggregation", "question": "在2023年和2025年，充電樁數量的平均值是多少？", "difficulty": 0.46, "answer": "3250"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2020年到2022年，發行規模的年平均增加多少?", "difficulty": 0.77, "answer": "750"}
+{"category": "Open", "question_type": "Aggregation", "question": "請計算2023年上半年（1月至6月）的平均咨詢數量是多少？", "difficulty": 0.76, "answer": "平均咨詢數量是 123.33。"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據下圖，從2023年到2040年，電動車市場滲透率的增長幅度為多少？", "difficulty": 0.84, "choice": ["2000%近似目標值的增長", "1750%", "1600%", "1900%"], "answer": "D"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表1的資料，從2024年到2028年間，哪一年綠色貸款佔總貸款額的比例首次達到14%或更高？", "difficulty": 0.13, "choice": ["2028", "2025", "2026", "2027"], "answer": "D"}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖3，從2021年到2030年，風能裝機容量呈現什麼樣的變化趨勢？", "difficulty": 0.15, "choice": ["風能裝機容量在整個期間呈現不穩定的增長，存在多次波動。", "風能裝機容量在2021年至2023年間持平，隨後在2024年以後開始緩慢增長。", "風能裝機容量在2021年後迅速增長，並從2025年起處於高位，直到2030年止。", "風能裝機容量從2021年到2030年穩步增長，特別是在2025年到2030年間增長速度加快。"], "answer": "D"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表5，2023年上半年（1月至6月）的平均咨詢數量是123.33。", "question_group": 1092, "difficulty": 0.57, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表5，2023年上半年（1月至6月）的平均咨詢數量是130。", "question_group": 1092, "difficulty": 0.76, "answer": "否"}

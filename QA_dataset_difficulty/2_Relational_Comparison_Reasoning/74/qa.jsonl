@@ -1,0 +1,8 @@
+{"category": "Open", "question_type": "Comparison", "question": "2023年的無紙化文件傳遞率比2022年高多少個百分點？", "difficulty": 0.16, "answer": "2023年的無紙化文件傳遞率比2022年高12個百分點。"}
+{"category": "Open", "question_type": "Comparison", "question": "2023 年的多元文化活動場次與性別平等講座場次相比，哪一個數字更大？", "difficulty": 0.29, "answer": "2023 年的多元文化活動場次（15）比性別平等講座場次（5）多。"}
+{"category": "Open", "question_type": "Comparison", "question": "2023 年的參訓員工人次比 2022 年增加了多少？", "difficulty": 0.18, "answer": "2023 年的參訓員工人次比 2022 年增加了 50。"}
+{"category": "Open", "question_type": "Comparison", "question": "在 2022 年和 2023 年中，哪一年匿名檢舉案件數量較多，且多出多少？", "difficulty": 0.41, "answer": "2023 年的匿名檢舉案件數量較多，多出 1 件。"}
+{"category": "Open", "question_type": "Comparison", "question": "2023年相較於2022年，參與供應商人數增加的比例是多少？", "difficulty": 0.64, "answer": "41.18%"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖1，以下哪一個活動指標的數值是最低的？", "difficulty": 0.9, "choice": ["活動指標: 2 - '此指標在大規模活動中通常最低，且參與率約為10%'", "活動指標: 4 - '此指標的參與率中等，約為30%'", "活動指標: 6", "活動指標: 3 - '雖然不是最低，但參與率約為15%'"], "answer": "C"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖1，數值最高的活動指標與最低的活動指標之間的差距是1194。", "question_group": 601, "difficulty": 0.76, "answer": "是"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖1，數值最高的活動指標與最低的活動指標之間的差距是200。", "question_group": 601, "difficulty": 0.55, "answer": "否"}

@@ -1,0 +1,6 @@
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，數位化後的運營成本可降低20%–30%，交易時間縮短約40%，且短期效益多為高或中等，中長期重要性多為高。", "question_group": 34, "difficulty": 0.75, "answer": "是"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，數位化後的運營成本增加20%–30%，交易時間延長約40%，且短期效益多為低，中長期重要性多為低。", "question_group": 34, "difficulty": 0.23, "answer": "否"}
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據圖3，2023年的金融科技投資增加比例是最低的，為65%。", "question_group": 36, "difficulty": 0.51, "answer": "是"}
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據圖3，2023年的金融科技投資增加比例是最低的，為65%。", "question_group": 36, "difficulty": 0.33, "answer": "是"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，2023年金融機構攻擊事件約增30%，因此將來銀行、樂天國際商業銀行和連線商業銀行須加大多層資安防護、即時偵測與事件回應以避免營運中斷與客戶信任流失。", "question_group": 38, "difficulty": 0.2, "answer": "是"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，將來銀行、樂天國際商業銀行和連線商業銀行因2023年攻擊事件增加而不需調整其資安防護措施。", "question_group": 38, "difficulty": 0.11, "answer": "否"}

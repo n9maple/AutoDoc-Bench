@@ -1,0 +1,11 @@
+{"category": "Open", "question_type": "Fact Lookup", "question": "2023年的操作諮詢件數和滿意度比例是多少？", "difficulty": 0.18, "answer": "2023年的操作諮詢件數是21000，滿意度比例是96%。"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "2023年的客服解決率如何？", "difficulty": 0.15, "answer": "96%"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "2023年的投票完成通知成功率是多高？", "difficulty": 0.28, "answer": "99.8%"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據提供的數據，2023年的操作諮詢件數和滿意度比例為何？請根據下圖選擇正確的選項。", "difficulty": 0.18, "choice": ["2023年的操作諮詢件數是22000，滿意度比例是91%。", "2023年的操作諮詢件數是21000，滿意度比例是85%。", "2023年的操作諮詢件數是25000，滿意度比例是92%。", "2023年的操作諮詢件數是21000，滿意度比例是96%。"], "answer": "D"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2023年的統計，客服解決率為以下哪個選項？", "difficulty": 0.28, "choice": ["92%", "90%", "96%", "98.5%"], "answer": "C"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2023年的數據，投票完成通知的成功率約為多少？請根據提供的數據圖表選擇正確的選項。", "difficulty": 0.32, "choice": ["99.8%", "99.7%", "99.5%", "99.9%"], "answer": "A"}
+{"category": "Open", "question_type": "Proportion", "question": "在2023年電子投票平台各登入方式中，集保e存摺的使用人數佔總人數的百分比是多少？", "difficulty": 0.15, "answer": "集保e存摺的使用人數佔總人數的百分比是40.0%"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "第三個數據點的諮詢件數是多少？", "difficulty": 0.89, "answer": "2730"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "根據圖3，選用率超過50%的驗證方式有多少個？", "difficulty": 0.27, "answer": "1"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表4，2023年的客服解決率為96%。", "question_group": 160, "difficulty": 0.16, "answer": "是"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表4，2023年的客服解決率為85%。", "question_group": 160, "difficulty": 0.11, "answer": "否"}

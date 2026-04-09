@@ -1,0 +1,7 @@
+{"category": "Open", "question_type": "Comparison", "question": "在2023年，能順利提供所有主要決策人完整身份證明的企業比例和需提供負責人及主要股東身份證明的案件比例哪個更高，並且高多少？", "difficulty": 0.85, "answer": "需提供負責人及主要股東身份證明的案件比例比能順利提供所有主要決策人完整身份證明的企業比例高19。"}
+{"category": "Open", "question_type": "Comparison", "question": "在所有類型中，哪一類的核貸成功率最高，且該類型的案件比例是多少？", "difficulty": 0.94, "answer": "核貸成功率最高的類型是『通過估價審查且具充足擔保價值』，該類型的案件比例是59。"}
+{"category": "Open", "question_type": "Comparison", "question": "哪一類型的案件占比是最少的？", "difficulty": 0.48, "answer": "權利質押，占比為6%"}
+{"category": "Open", "question_type": "Comparison", "question": "如果高風險國家往來企業的補件對審查流程影響需要延長 8 天，它的延長天數與哪一類企業的延長天數範圍重疊？", "difficulty": 0.7, "answer": "高風險國家往來企業延長8天與高風險國家往來企業（6-10天）的延長天數範圍重疊"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的數據，關於企業在提供身份證明的情況，哪一項比例更高？", "difficulty": 0.51, "choice": ["需提供負責人及主要股東身份證明的案件比例比能提供所有主要決策人完整身份證明的企業比例高12%", "能順利提供所有主要決策人完整身份證明的企業比例比需提供負責人及主要股東身份證明的案件比例高21%", "完整身份證明的企業比例比需提供負責人及主要股東身份證明的案件比例高8%", "需提供負責人及主要股東身份證明的案件比例比能順利提供所有主要決策人完整身份證明的企業比例高19"], "answer": "D"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖3，以下哪一種文件類型的補件比率最低？", "difficulty": 0.7, "choice": ["負責人與股東身分證明", "負責人與股東的信用證明文件", "其他財務報告的補件比率最低", "稅務申報文件的補件比率略低"], "answer": "A"}
+{"category": "Open", "question_type": "Comparison", "question": "在圖3中，哪一個文件類型的補件比率最低？", "difficulty": 0.49, "answer": "負責人與股東身分證明"}

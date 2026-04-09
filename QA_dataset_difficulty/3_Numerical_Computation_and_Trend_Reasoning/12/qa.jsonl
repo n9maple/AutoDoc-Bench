@@ -1,0 +1,8 @@
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2022年到2023年，高於疫情前水平百分比下降了多少百分點？", "difficulty": 0.32, "answer": "30個百分點"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據所提供的資料，從2022年到2023年，高於疫情前水平的百分比下降了多少百分點？請參考相關資料圖表。以下哪個選項是正確的？", "difficulty": 0.33, "choice": ["15個百分點", "45個百分點", "30個百分點", "25個百分點"], "answer": "C"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖表顯示，從2023年到2024年，市場需求增長率的平均值是多少？", "difficulty": 0.21, "choice": ["5.0%", "9.0%", "7.5%", "12%"], "answer": "C"}
+{"category": "Open", "question_type": "Rate of Change", "question": "2023年台灣對中國出口增長率在Q3和Q4之間的變化是什麼？", "difficulty": 0.61, "answer": "2023年台灣對中國出口增長率在Q3和Q4之間增加了2%"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖1的資料，從2023年第一季度到第四季度，出口增長率的總和是以下哪一個選項？", "difficulty": 0.86, "choice": ["12%", "18%", "14%", "16%"], "answer": "C"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表2的資料，假設從2024年到2025年，年增長率和市場需求增長率都持平，那麼2023年到2025年兩年間的年增長率平均值是多少？", "difficulty": 0.87, "answer": "8.67%"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，從2022年到2023年，高於疫情前水平的百分比下降了30個百分點。", "question_group": 802, "difficulty": 0.33, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，從2022年到2023年，高於疫情前水平的百分比下降了30個百分點。", "question_group": 802, "difficulty": 0.73, "answer": "是"}

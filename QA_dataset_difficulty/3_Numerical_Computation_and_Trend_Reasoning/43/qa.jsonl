@@ -1,0 +1,4 @@
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表7的資料，如果天災損失保險種類數每年減少1種，預計到2025年天災損失保險種類數將會是以下哪一個數字？", "difficulty": 0.64, "choice": ["3", "5", "1", "2"], "answer": "D"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表4的資料，計算從2022年到2023年智慧農業應用面積和友善環境耕作農戶數的絕對增長總和是多少。", "difficulty": 0.79, "answer": "3900"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，2023年的智慧農業應用面積和友善環境耕作農戶數的總和是30000。", "question_group": 931, "difficulty": 0.86, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，2023年的智慧農業應用面積和友善環境耕作農戶數的總和是25000。", "question_group": 931, "difficulty": 0.58, "answer": "否"}

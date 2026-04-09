@@ -1,0 +1,5 @@
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "從2024年第二季度到2025年第二季度，總保費收入的增長額是多少？", "difficulty": 0.62, "answer": "153億元"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果健康險和傳統壽險的新增保單數量總和減去投資型壽險的新增保單數量，剩下多少萬份保單？", "difficulty": 0.51, "answer": "17萬份"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據圖表，從2024年第二季度到2025年第二季度，總保費收入的增長額是多少？", "difficulty": 0.2, "choice": ["140億元", "120億元", "153億元", "165億元"], "answer": "C"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據圖片所示的新增保單數量，健康險和傳統壽險的新增保單數量總和減去投資型壽險的新增保單數量，剩下多少萬份保單？", "difficulty": 0.55, "choice": ["22萬份", "17萬份", "15萬份", "21萬份"], "answer": "B"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表1的資料，從2024Q2到2025Q2的總保費收入相較於之前的增長情況中，哪一選項正確描述了其絕對增長額？", "difficulty": 0.36, "choice": ["100億元", "153億元", "200億元", "70億元"], "answer": "B"}

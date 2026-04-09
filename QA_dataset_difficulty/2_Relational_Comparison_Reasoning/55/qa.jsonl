@@ -1,0 +1,10 @@
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據提供的圖3，員工類型修課完成率的最高與最低差距是以下哪一項？", "difficulty": 0.92, "choice": ["3.5%", "5%", "2%", "0%"], "answer": "C"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表6的資料，2023年綠色信用卡參與人數相比於2022年，增長的百分比是多少？", "difficulty": 0.13, "choice": ["35%", "33.33%", "30%", "25%"], "answer": "B"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表2的資料，從2022年到2023年，以下哪一項的變化比例更大？", "difficulty": 0.22, "choice": ["國內生產總值（GDP）的變化比例", "企業營業額的變化比例", "政府支出的變化比例", "社會公益捐贈金額的變化比例"], "answer": "D"}
+{"category": "Open", "question_type": "Comparison", "question": "根據表4的資料，從2021年到2025年，綠電採購量和再生能源占比同時達到最大增長的年度是哪一年？", "difficulty": 0.8, "answer": "2022年"}
+{"category": "Open", "question_type": "Comparison", "question": "根據表9的資料，哪一項的數值介於心理健康與性別平等之間？", "difficulty": 0.51, "answer": "勞動權益保障"}
+{"category": "Open", "question_type": "Comparison", "question": "根據表11的資料，如果簽署永續承諾供應商比例增加5%，而客戶滿意度不變，哪一個的數值將更高？", "difficulty": 0.15, "answer": "簽署永續承諾供應商比例將更高，為98%。"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖3，最左邊的員工類型修課完成率與最右邊的員工類型修課完成率相差1%。", "question_group": 493, "difficulty": 0.78, "answer": "是"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖3，最左邊的員工類型修課完成率與最右邊的員工類型修課完成率相差2%。", "question_group": 493, "difficulty": 0.52, "answer": "否"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表10，參與人次的數值大於意見與建議數。", "question_group": 494, "difficulty": 0.26, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表10，參與人次的數值大於意見與建議數。", "question_group": 494, "difficulty": 0.31, "answer": "是"}

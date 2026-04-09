@@ -1,0 +1,6 @@
+{"category": "Open", "question_type": "Aggregation", "question": "在2025年上半年，出口額和進口額的總和是多少億美元？", "difficulty": 0.2, "answer": "4400億美元"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2024年到2025年，基準利率的變化趨勢是什麼？", "difficulty": 0.13, "answer": "基準利率從2024年到2025年下降了0.25%。"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2025Q1到2025Q2，交易效率提升百分比增加了多少百分點？", "difficulty": 0.13, "answer": "增加了3個百分點。"}
+{"category": "Open", "question_type": "Aggregation", "question": "2025Q1和2025Q2的交易失誤率下降的平均值是多少？", "difficulty": 0.31, "answer": "11%"}
+{"category": "Open", "question_type": "Aggregation", "question": "如果2025年的經濟增長率持平於國際貨幣基金組織的預測3%和亞洲開發銀行的預測3.5%之間，那麼這平均增長率是多少？", "difficulty": 0.13, "answer": "3.25%"}
+{"category": "Open", "question_type": "Aggregation", "question": "在圖4中，所有季度匯率波動率下降百分比的平均值是多少？", "difficulty": 0.2, "answer": "10%"}

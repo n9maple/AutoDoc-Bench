@@ -1,0 +1,8 @@
+{"category": "Open", "question_type": "Comparison", "question": "亞洲的收益率比市場平均收益率高多少百分點？", "difficulty": 0.65, "answer": "1.0個百分點"}
+{"category": "Open", "question_type": "Comparison", "question": "哪個國家的政府債券和企業債券收益率差距最大？", "difficulty": 0.46, "answer": "中國"}
+{"category": "Open", "question_type": "Comparison", "question": "現金及等價物和高流動性資產的比例是否相等？", "difficulty": 0.23, "answer": "現金及等價物和高流動性資產的比例相等。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中顯示的不同國家政府債券與企業債券的收益率差距，以下哪個國家的政府和企業債券收益率差距最大？", "difficulty": 0.19, "choice": ["日本", "美國", "中國", "德國"], "answer": "C"}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖2，哪個國家的通貨膨脹率是最低的？", "difficulty": 0.85, "answer": "5.2%的國家"}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖3，在債券信用評級中，投資級的數量比非投資級多出多少？", "difficulty": 0.77, "answer": "70"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，現金及等價物的百分比與高流動性資產的百分比相等。", "question_group": 365, "difficulty": 0.24, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，現金及等價物的百分比低於高流動性資產的百分比。", "question_group": 365, "difficulty": 0.52, "answer": "否"}

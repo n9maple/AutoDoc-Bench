@@ -1,0 +1,6 @@
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2024年到2028年，哪一年的綠色建築投資增長最多，增幅是多少？", "difficulty": 0.81, "answer": "每年的增長相同，都是0.1億美元"}
+{"category": "Open", "question_type": "Aggregation", "question": "技術創新合作和最佳實踐共享的環境效益提高百分比總和是多少？", "difficulty": 0.13, "answer": "30%"}
+{"category": "Open", "question_type": "Aggregation", "question": "如果研討會和社區活動的市場信心增強百分比相加，總和是多少？", "difficulty": 0.26, "answer": "25%"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "在2024年到2028年間，哪一年綠色建築投資增長最多？請參考下列數據（每年的增長額為0.1億美元）。", "difficulty": 0.2, "choice": ["2024年政策支持增長至0.2億美元。", "2026年政策刺激導致增長達到0.15億美元。", "每年增長相同，均為0.1億美元。", "2028年是唯一沒有增長的一年。"], "answer": "C"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖6，北美的綠色債券市場規模從2023年的0.5萬億美元增至2024年的0.6萬億美元，並在2025年達到0.7萬億美元。", "question_group": 1095, "difficulty": 0.54, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖6，北美的綠色債券市場規模在2023年至2025年間保持不變，維持在0.5萬億美元。", "question_group": 1095, "difficulty": 0.17, "answer": "否"}

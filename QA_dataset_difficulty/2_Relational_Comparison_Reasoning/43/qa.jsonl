@@ -1,0 +1,6 @@
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖2，以下哪一項描述了2022年與2023年數值之間的差異？", "difficulty": 0.93, "choice": ["返鄉青年人數差異為0", "農戶總數差異為-5000", "返鄉青年人數差異為-5000", "農戶總數差異為+5000"], "answer": "B"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖4，以下哪一年合庫銀行的農業貸款不良率較低？", "difficulty": 0.91, "choice": ["2026年", "2022年", "2025年", "2024年"], "answer": "C"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "在圖8中，2023年6月與2024年12月的滿意度差異是多少？", "difficulty": 0.84, "answer": "無法提供具體的滿意度差異，因為沒有具體的數據。"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "根據圖1中的數據，2022年和2023年的農業產值差異是多少？", "difficulty": 0.92, "answer": "2023年的農業產值減去2022年的農業產值的差異為Z"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表8，2025 年的智慧及綠色農業貸款佔比相比 2024 年增加了 5 個百分點。", "question_group": 434, "difficulty": 0.71, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表8，2025 年的智慧及綠色農業貸款佔比相比 2024 年增加了 3 個百分點。", "question_group": 434, "difficulty": 0.57, "answer": "否"}

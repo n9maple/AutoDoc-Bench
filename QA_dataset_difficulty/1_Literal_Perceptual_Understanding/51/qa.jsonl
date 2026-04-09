@@ -1,0 +1,9 @@
+{"category": "Open", "question_type": "Proportion", "question": "在2024年安泰人壽保單紅利來源分配中，費用節省的比例是多少？", "difficulty": 0.13, "answer": "10.0%"}
+{"category": "Open", "question_type": "Proportion", "question": "紅利領取方式中，累積生息的比例是多少？", "difficulty": 0.13, "answer": "67.0%"}
+{"category": "MCQ", "question_type": "Proportion", "question": "在2024年安泰人壽保單紅利來源分配中，根據提供的資料，費用節省的比例是多少？", "difficulty": 0.13, "choice": ["10.0%", "9.0%", "12.0%", "8.0%"], "answer": "A"}
+{"category": "MCQ", "question_type": "Proportion", "question": "在紅利領取方式中，以下哪一比例代表累積生息的數值？", "difficulty": 0.13, "choice": ["67.0%", "70.0% (再投資的比例)", "78.0% (提領現金的比例)", "65.0% (即時兌換的比例)"], "answer": "A"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "以下哪一組描述正確比較2024年度安泰人壽保單紅利發放的今年與去年紅利總額及受惠保單戶數，且合理反映公司在全球經濟不確定性下的經營策略？", "difficulty": 0.35, "answer": "2024年紅利總額為12億元，年增8.5%；受惠保單戶數超過35萬，較去年增加1萬戶，顯示公司透過多元資產配置及調整分紅機制，有效應對經濟波動並提升保戶信心。"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖1，2024年安泰人壽保單紅利來源中，費用節省的比例是10.0%。", "question_group": 129, "difficulty": 0.11, "answer": "是"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖1，2024年安泰人壽保單紅利來源中，費用節省的比例是15.0%。", "question_group": 129, "difficulty": 0.11, "answer": "否"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，紅利計算與審核於6月底完成，並於7月15日後紅利明細上架官網與APP，8月1日起分批發放至9月30日。", "question_group": 132, "difficulty": 0.12, "answer": "是"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，現金領取於8月1日至31日分批匯款，但累積生息於8月10日前自動存入並享1.5%利率。", "question_group": 132, "difficulty": 0.37, "answer": "否"}

@@ -1,0 +1,19 @@
+{"category": "Open", "question_type": "Comparison", "question": "2023 年的行動銀行用戶數比 2022 年增加了多少？", "difficulty": 0.88, "answer": "2023 年的行動銀行用戶數比 2022 年增加了 193。"}
+{"category": "Open", "question_type": "Comparison", "question": "在2024Q1中，一站式資產管理用戶比例大於2023Q1的比例多少倍？", "difficulty": 0.89, "answer": "無法計算倍數，因為2023Q1的比例為0，不能除以零。"}
+{"category": "Open", "question_type": "Comparison", "question": "2023 年與 2024 年的平均開戶時程相差多少天？", "difficulty": 0.63, "answer": "8 天"}
+{"category": "Open", "question_type": "Comparison", "question": "兩個年份中，哪一年用戶滿意度更高，並且它的數位貸款申請量是否也比較多？", "difficulty": 0.34, "answer": "2024上半年用戶滿意度更高，且數位貸款申請量也比較多。"}
+{"category": "Open", "question_type": "Comparison", "question": "如果2024年的投資諮詢次數年增率為28%，這是否意味著2024年的次數比2023年增加了四分之一以上？", "difficulty": 0.13, "answer": "是的，2024年的次數比2023年增加了四分之一以上。"}
+{"category": "Open", "question_type": "Comparison", "question": "在 2024 年，合規檢核系統自動化程度比新法規與自律規範調整數少多少？", "difficulty": 0.74, "answer": "30"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖3，以下哪一個指標在所有年份中的數據變化最小？", "difficulty": 0.38, "choice": ["資訊系統合規性檢查合格率(%)", "個人資料保護意識提升活動參加率(%)", "合作系統資安稽核合格率(%)", "個資泄露事件回報數量(次)"], "answer": "C"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表2，以下哪些指標在2023Q1和2024Q1之間的數值變化幅度最大？", "difficulty": 0.34, "choice": ["活躍資產管理用戶數量顯著減少", "年度淨利潤持平", "市場滲透率小幅增長", "一站式資產管理用戶比例"], "answer": "D"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖4，以下哪一個指標在2025年的數值最低？", "difficulty": 0.89, "choice": ["數位金融交易量年複合成長率(%)", "數位金融用戶數年複合成長率(%)", "數位金融服務普及率(%)", "數位金融交易金額年複合成長率(%)"], "answer": "A"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表5的資料，2023上半年和2024上半年哪一年的核貸時間較短，以及短了多少天？", "difficulty": 0.84, "choice": ["2023上半年的核貸時間較長，長10天。", "2024上半年的核貸時間較短，短20天。", "2024上半年的核貸時間較短，短12天。", "2024下半年的核貸時間較短，短15天。"], "answer": "B"}
+{"category": "Open", "question_type": "Comparison", "question": "在表2中，哪一項指標在2023Q1和2024Q1之間的數值變化幅度最大？", "difficulty": 0.53, "answer": "一站式資產管理用戶比例"}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖4，2025年哪一個指標的數值最低？", "difficulty": 0.88, "answer": "數位金融交易量年複合成長率(%)"}
+{"category": "Open", "question_type": "Ranking", "question": "在圖1中，哪一類型的客戶占總客戶數的比例最大？", "difficulty": 0.24, "answer": "傳統銀行"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖3，資料加密機制升級次數在最左邊和最右邊年份的差距是 Y - X。", "question_group": 418, "difficulty": 0.71, "answer": "是"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖3，資料加密機制升級次數在最左邊和最右邊年份的差距是 X + Y。", "question_group": 418, "difficulty": 0.79, "answer": "否"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，2023年台灣純網銀的客戶數量與傳統銀行的客戶數量差距是1400。", "question_group": 421, "difficulty": 0.77, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，2023年台灣純網銀的客戶數量與傳統銀行的客戶數量差距是1400。", "question_group": 421, "difficulty": 0.17, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，2024年上半年用戶滿意度更高，且數位貸款申請量也較多。", "question_group": 422, "difficulty": 0.17, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，2023年上半年用戶滿意度更高，且數位貸款申請量也較多。", "question_group": 422, "difficulty": 0.34, "answer": "否"}

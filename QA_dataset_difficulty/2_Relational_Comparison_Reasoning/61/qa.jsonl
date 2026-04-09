@@ -1,0 +1,8 @@
+{"category": "Open", "question_type": "Comparison", "question": "美元的本期年利率比前一期年利率高多少個百分點？", "difficulty": 0.13, "answer": "0.30個百分點"}
+{"category": "Open", "question_type": "Comparison", "question": "中華郵政在不同年期的定期儲蓄存款中，哪一個年期的利率相對於市場最高利率的差距最小？", "difficulty": 0.93, "answer": "三個月、一年、二年、三年"}
+{"category": "Open", "question_type": "Comparison", "question": "在 113/07/01 時，所有帳戶的利率是否相同？如果相同，請指出利率是多少。", "difficulty": 0.44, "answer": "在 113/07/01 時，所有帳戶的利率相同，利率為 0.19%。"}
+{"category": "Open", "question_type": "Comparison", "question": "哪種貨幣在調整前後的增幅最大？", "difficulty": 0.14, "answer": "美元的增幅最大，為0.30%。"}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據圖5，以下利率中哪一組是從低到高排序的正確順序？", "difficulty": 0.14, "choice": ["1.45%, 1.25%, 1.1%, 1.55%, 1.6%", "1.1%, 1.25%, 1.45%, 1.55%, 1.6%", "1.1%, 1.55%, 1.45%, 1.25%, 1.6%", "1.25%, 1.1%, 1.6%, 1.55%, 1.45%"], "answer": "B"}
+{"category": "Open", "question_type": "Ranking", "question": "根據圖5，將所有存期的利率從低到高排序。", "difficulty": 0.57, "answer": "1.1%, 1.25%, 1.45%, 1.55%, 1.6%"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，中華郵政的利率增長幅度在2023年7月1日到2024年7月1日之間最大，增長了0.03%。", "question_group": 531, "difficulty": 0.94, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，玉山銀行的利率增長幅度在2023年7月1日到2024年7月1日之間最大，增長了0.03%。", "question_group": 531, "difficulty": 0.6, "answer": "否"}

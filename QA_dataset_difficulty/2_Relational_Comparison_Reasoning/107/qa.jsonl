@@ -1,0 +1,13 @@
+{"category": "Open", "question_type": "Comparison", "question": "2022年環保技術研發的投資金額相比可再生能源少多少億新台幣？", "difficulty": 0.29, "answer": "5億新台幣"}
+{"category": "Open", "question_type": "Comparison", "question": "2024年和2026年清潔技術與可再生能源的增長率之和分別是多少，哪一年更高？", "difficulty": 0.63, "answer": "2024年清潔技術與可再生能源的增長率之和是10%，2026年是12%，2026年更高。"}
+{"category": "Open", "question_type": "Comparison", "question": "2024年相比於2023年，綠色金融資產占總資產比重的增長幅度是多少？", "difficulty": 0.59, "answer": "5%"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2022年環保技術研發的投資金額，與可再生能源相比，差額是多少億新台幣？", "difficulty": 0.46, "choice": ["5億新台幣", "3億新台幣", "6億新台幣", "8億新台幣"], "answer": "A"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2024年和2026年的數據，哪一年清潔技術與可再生能源的增長率之和較高？", "difficulty": 0.36, "choice": ["2024年增長率之和是15%", "2026年清潔技術的增長率是5%，可再生能源的增長率是7%", "2026年增長率之和是10%", "2026年增長率之和是12%"], "answer": "D"}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖3的資料，綠色私募股權的投資額與風險投資基金的投資額相差幾億？以下哪個選項是正確的？", "difficulty": 0.9, "choice": ["風險投資基金的投資額與綠色私募股權相等。", "綠色私募股權的投資額比風險投資基金的少2億。", "綠色私募股權的投資額多於風險投資基金的投資額大約三億。", "由於缺乏具體數據，無法確定兩者的差額。"], "answer": "D"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表5的資料，2024年和2025年的綠色金融產品年增長率相比2023年有何關係？", "difficulty": 0.41, "choice": ["2024年的年增長率為25%，2025年為20%。", "2024年和2025年的年增長率與2023年相同，均為20%。", "2024年年增長率為20%，而2025年增長率小幅上升至22%。", "2024年和2025年的年增長率均降低至15%和10%。"], "answer": "B"}
+{"category": "Open", "question_type": "Comparison", "question": "在圖5中，哪個指標的數量最少？", "difficulty": 0.88, "answer": "指標: 20"}
+{"category": "Open", "question_type": "Comparison", "question": "根據表5的資料，2024年和2025年的綠色金融產品年增長率相比2023年有什麼不同？", "difficulty": 0.66, "answer": "2024年和2025年的綠色金融產品年增長率與2023年相同，均為20%。"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "根據圖3的資料，綠色私募股權的投資額與風險投資基金的投資額相差多少億？", "difficulty": 0.83, "answer": "由於沒有具體的數據提供，無法計算兩者的差額。"}
+{"category": "Open", "question_type": "Ranking", "question": "在圖3中，哪一個策略類型的投資額最高？", "difficulty": 0.18, "answer": "綠色私募股權"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，2024年綠色金融資產占總資產比重的增長幅度相比於2023年為5%。", "question_group": 727, "difficulty": 0.89, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，2024年綠色金融資產占總資產比重的增長幅度相比於2023年為10%。", "question_group": 727, "difficulty": 0.57, "answer": "否"}

@@ -1,0 +1,6 @@
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，週四台灣10年期公債殖利率達到1.3%的高點，主要受全球利率環境變化和美聯儲加息預期影響。", "question_group": 262, "difficulty": 0.57, "answer": "是"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，週四台灣10年期公債殖利率達到2.5%的高點，主要受全球利率環境變化和美聯儲加息預期影響。", "question_group": 262, "difficulty": 0.63, "answer": "否"}
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據圖2，2023年8月是台灣外匯存底的最高月份。", "question_group": 263, "difficulty": 0.14, "answer": "是"}
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據圖2，2023年9月是台灣外匯存底的最低月份。", "question_group": 263, "difficulty": 0.85, "answer": "否"}
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據圖7，2022年Q1季度的行動支付交易金額是四個季度中最低的。", "question_group": 265, "difficulty": 0.29, "answer": "是"}
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據圖7，2022年Q4季度的行動支付交易金額是四個季度中最低的。", "question_group": 265, "difficulty": 0.52, "answer": "否"}

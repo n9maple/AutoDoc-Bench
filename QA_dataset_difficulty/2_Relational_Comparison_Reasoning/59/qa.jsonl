@@ -1,0 +1,5 @@
+{"category": "Open", "question_type": "Comparison", "question": "根據圖6，不滿意的比例與一般的比例相差多少個百分比？", "difficulty": 0.44, "answer": "5.0%"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖3，提款金額異常的案件比其他類型的案件多420件。", "question_group": 514, "difficulty": 0.85, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖3，提款金額異常的案件比其他類型的案件多530件。", "question_group": 514, "difficulty": 0.76, "answer": "否"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表7，快速取回原卡的使用百分比（65%）最接近緊急現金提領和免除補卡手續費的總和（37%）。", "question_group": 515, "difficulty": 0.9, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表7，行動分行服務的使用百分比（91%）最接近緊急現金提領和免除補卡手續費的總和（37%）。", "question_group": 515, "difficulty": 0.59, "answer": "否"}

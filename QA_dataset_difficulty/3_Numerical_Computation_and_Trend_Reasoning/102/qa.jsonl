@@ -1,0 +1,8 @@
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "在 2024 年和 2025 年，優良比例的增長是多少百分點？", "difficulty": 0.36, "answer": "優良比例的增長是 15 個百分點。"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "在2021年至2023年間，資訊透明度權重的總增長百分比是多少？", "difficulty": 0.8, "answer": "15%"}
+{"category": "Open", "question_type": "Aggregation", "question": "從2025年到2029年，達成基本披露標準比例的平均增長幅度是多少？", "difficulty": 0.61, "answer": "2%"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據以下數據圖表，2024 年和 2025 年，優良比例的增長是多少百分點？", "difficulty": 0.53, "choice": ["15 個百分點", "5 個百分點", "20% 的增長", "10 個百分點"], "answer": "A"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "在2021年至2023年間，資訊透明度權重的總增長百分比是多少？根據下列選項，哪一項是正確的？", "difficulty": 0.2, "choice": ["10%", "12%", "30%", "15%"], "answer": "D"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表1的資料，如果2026年的良好以上比率增長率與2025年相比保持不變，預測2026年的良好以上百分比會是多少？", "difficulty": 0.26, "choice": ["98.46%", "97.30%", "99.10%", "95.50%"], "answer": "A"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖5，2025年至2029年間的職業發展規劃投入逐年增加。", "question_group": 1133, "difficulty": 0.17, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖5，2025年至2029年間的職業發展規劃投入保持不變。", "question_group": 1133, "difficulty": 0.11, "answer": "否"}

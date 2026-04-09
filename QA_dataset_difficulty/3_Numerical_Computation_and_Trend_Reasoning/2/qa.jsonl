@@ -1,0 +1,6 @@
+{"category": "Open", "question_type": "Aggregation", "question": "從2020年到2025年，市場規模總共增長了多少？", "difficulty": 0.5, "answer": "市場規模總共增長了18.31。"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據以下圖表，從2020年到2025年，市場規模的增長幅度是多少？", "difficulty": 0.25, "choice": ["市場規模總共增長了15.50", "市場規模總共減少了2.00", "市場規模總共增長了18.31", "市場規模總共增長了25.00"], "answer": "C"}
+{"category": "Open", "question_type": "Rate of Change", "question": "從2024年到2025年，綠色金融研討會次數增加的比率是多少？", "difficulty": 0.59, "answer": "增加的比率是20%"}
+{"category": "Open", "question_type": "Aggregation", "question": "從2023年至2027年，員工培訓次數的總和是多少？", "difficulty": 0.71, "answer": "40"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖1，2023年至2027年員工培訓次數每年都呈現穩定增長趨勢。", "question_group": 770, "difficulty": 0.35, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖1，2023年至2027年員工培訓次數在某一年出現下降。", "question_group": 770, "difficulty": 0.16, "answer": "否"}

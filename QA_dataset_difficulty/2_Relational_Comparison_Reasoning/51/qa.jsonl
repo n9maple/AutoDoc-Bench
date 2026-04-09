@@ -1,0 +1,7 @@
+{"category": "Open", "question_type": "Comparison", "question": "現金領取的操作步驟數量比抵扣保費多多少？", "difficulty": 0.15, "answer": "2"}
+{"category": "Open", "question_type": "Comparison", "question": "2024年的累積生息比2022年多了多少？", "difficulty": 0.75, "answer": "2024年的累積生息比2022年多了11。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下列操作步驟，現金領取的步驟數量相比於抵扣保費的步驟數量多出多少？", "difficulty": 0.2, "choice": ["2", "現金領取的步驟數量比抵扣保費的步驟數量少出2", "現金領取的步驟數量為5，抵扣保費的步驟數量為3", "現金領取需要4步驟，而抵扣保費需要3步驟"], "answer": "A"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據以下圖表，2024年的累積生息與2022年相比，哪一項是正確的？", "difficulty": 0.64, "choice": ["2024年的累積生息比2022年多了6", "2024年的累積生息比2022年少了5", "2024年的累積生息比2022年多了11", "2024年的累積生息比2022年少了2"], "answer": "C"}
+{"category": "Open", "question_type": "Comparison", "question": "在2024年安泰人壽保單紅利來源分配中，投資收益的比例是費用節省的幾倍？", "difficulty": 0.13, "answer": "7.2"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖3，抵扣保費是紅利領取方式中人數排名第三的方式。", "question_group": 472, "difficulty": 0.53, "answer": "是"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖3，現金領取是紅利領取方式中人數排名第三的方式。", "question_group": 472, "difficulty": 0.86, "answer": "否"}

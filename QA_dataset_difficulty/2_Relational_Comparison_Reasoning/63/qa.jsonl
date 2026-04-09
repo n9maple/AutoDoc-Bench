@@ -1,0 +1,9 @@
+{"category": "Open", "question_type": "Comparison", "question": "2023年的匯款佔比和其他佔比差多少個百分比點？", "difficulty": 0.76, "answer": "86個百分比點"}
+{"category": "MCQ", "question_type": "Comparison", "question": "在下列項目中，哪一項的餘額占日盛總存款比率最高？請參考附圖內容進行選擇。", "difficulty": 0.63, "choice": ["金融債券", "短期存款", "儲蓄存款", "定期存款"], "answer": "A"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的數據，匯款的佔比與其他項目的佔比之間的差距是多少個百分比點？", "difficulty": 0.88, "choice": ["86個百分比點", "85個百分比點", "87個百分比點", "84個百分比點"], "answer": "A"}
+{"category": "Open", "question_type": "Comparison", "question": "在日盛銀行存款戶保險金額分布中，0-100萬的金額範圍與1001萬以上的金額範圍相比，哪一個範圍的百分比較大？", "difficulty": 0.13, "answer": "0-100萬的金額範圍的百分比較大。"}
+{"category": "Open", "question_type": "Comparison", "question": "根據表4的資料，請問匯款和現場領現的比例差是多少百分點？", "difficulty": 0.49, "answer": "75個百分點"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，0-100萬的金額範圍的存款戶百分比是最大的，達到63.5%。", "question_group": 542, "difficulty": 0.11, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，1001萬以上的金額範圍的存款戶百分比是最大的，達到63.5%。", "question_group": 542, "difficulty": 0.26, "answer": "否"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖3，超過300萬元的存款戶數量是所有區間中最少的。", "question_group": 544, "difficulty": 0.24, "answer": "是"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖3，未達300萬元的存款戶數量是所有區間中最少的。", "question_group": 544, "difficulty": 0.29, "answer": "否"}

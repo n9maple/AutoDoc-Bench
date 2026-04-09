@@ -1,0 +1,10 @@
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表10的資料，以下哪一年『重大資安事件』的數量與『資安演練次數』之間的差異最大？", "difficulty": 0.54, "choice": ["2023", "2018", "2024", "2019"], "answer": "A"}
+{"category": "MCQ", "question_type": "Ranking", "question": "在圖1中，根據數據，2021年、2022年和2023年客戶選擇客服方式的比例總和哪一年最高？請在下列選項中選擇正確答案。", "difficulty": 0.68, "choice": ["2022年，由於疫情的影響，線上客服的使用率大幅提升，因此比例總和應該最高。", "2023年，由於網絡客服的興起，這一年客戶的選擇比例最高。", "無法確定哪一年的比例總和最高，因為缺少具體的數據。", "2021年客戶對客服方式的偏好尚未明朗，因此無法評估比例總和的高低。"], "answer": "C"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表2的資料，2023年1月至2023年6月與2023年7月至2023年12月之間，哪些時間段的訪客模式人次總和更高？", "difficulty": 0.95, "choice": ["2023年1月至6月的訪客模式人次總和714000高於2023年7月至12月的總和681000。", "2023年1月至6月的訪客模式人次總和716000高於2023年7月至12月的總和681000。", "2023年1月至6月的訪客模式人次總和700000，因此與2023年7月至12月的總和681000接近，但低於。", "2023年7月至12月的訪客模式人次總和與2023年1月至6月的總和相等，各為681000。"], "answer": "A"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表8的資料，以下哪個選項最接近2022年因資訊外洩相關的損失占該年資安事件總損失的百分比？", "difficulty": 0.93, "choice": ["60%", "35%", "45%", "20%"], "answer": "B"}
+{"category": "Open", "question_type": "Comparison", "question": "根據表8的資料，2022年因資訊外洩相關的損失占該年資安事件總損失的百分比是多少？", "difficulty": 0.44, "answer": "35%"}
+{"category": "Open", "question_type": "Comparison", "question": "根據表2的資料，2023年1月至2023年6月之間與2023年7月至2023年12月之間，哪一段時間的訪客模式人次總和更高？", "difficulty": 0.69, "answer": "2023年1月至6月的訪客模式人次總和714000高於2023年7月至12月的總和681000。"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，2023年2月的行動裝置用戶比率高於2023年9月。", "question_group": 620, "difficulty": 0.7, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，2023年2月的行動裝置用戶比率高於2023年9月。", "question_group": 620, "difficulty": 0.91, "answer": "是"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖7，FAQ分類問題數量的最高值與最低值的差距是23。", "question_group": 625, "difficulty": 0.77, "answer": "是"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖7，FAQ分類問題數量的最高值為32。", "question_group": 625, "difficulty": 0.32, "answer": "否"}

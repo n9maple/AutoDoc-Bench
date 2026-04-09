@@ -1,0 +1,4 @@
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖4，從2022年到2024年上半年，平均年利率的增長幅度是0.47%。", "question_group": 1065, "difficulty": 0.38, "answer": "是"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖4，從2022年到2024年上半年，平均年利率的增長幅度是0.60%。", "question_group": 1065, "difficulty": 0.76, "answer": "否"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，所有銀行在數位轉型領域的平均利率為1.5617%。", "question_group": 1068, "difficulty": 0.54, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，所有銀行在數位轉型領域的平均利率為1.75%。", "question_group": 1068, "difficulty": 0.16, "answer": "否"}

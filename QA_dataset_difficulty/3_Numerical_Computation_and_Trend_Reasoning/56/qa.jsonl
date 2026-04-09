@@ -1,0 +1,4 @@
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表6，從2021年到2023年，因資料不實或文件偽造進入法律程序案件的比例呈現下降趨勢。", "question_group": 980, "difficulty": 0.34, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表6，從2021年到2023年，因資料不實或文件偽造進入法律程序案件的比例呈現上升趨勢。", "question_group": 980, "difficulty": 0.32, "answer": "否"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖5，2023年到2024年期間，紙本理賠案件的占比變化率為-25%。", "question_group": 982, "difficulty": 0.3, "answer": "是"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖5，2023年到2024年期間，紙本理賠案件的占比變化率為-10%。", "question_group": 982, "difficulty": 0.89, "answer": "否"}

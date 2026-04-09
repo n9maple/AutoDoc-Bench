@@ -1,0 +1,6 @@
+{"category": "Open", "question_type": "Comparison", "question": "2023年的用戶數量與2022年的相比，增加了多少百分比？", "difficulty": 0.13, "answer": "2023年的用戶數量與2022年的相比，增加了15%。"}
+{"category": "Open", "question_type": "Comparison", "question": "雙重驗證的用戶採用比例比生物識別登入高多少個百分點？", "difficulty": 0.31, "answer": "雙重驗證的用戶採用比例比生物識別登入高45個百分點"}
+{"category": "Open", "question_type": "Comparison", "question": "華南銀行手續費在2023年是市場平均水平的多少倍？", "difficulty": 0.19, "answer": "0.5倍"}
+{"category": "Open", "question_type": "Comparison", "question": "客戶服務滿意度和FAQ頁面使用率的差異是多少個百分點？", "difficulty": 0.26, "answer": "22個百分點"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中顯示的數據，2023年的用戶數量相比於2022年增加了多少百分比？", "difficulty": 0.13, "choice": ["18%", "12%", "15%", "22%"], "answer": "C"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表2的資料，以下哪一項用戶採用比例更接近其安全性提升比例？", "difficulty": 0.19, "choice": ["雙重驗證的用戶採用比例", "生物識別技術的用戶採用比例", "單一密碼的用戶採用比例", "更新應用程序的用戶採用比例"], "answer": "A"}

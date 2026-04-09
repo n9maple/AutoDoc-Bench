@@ -1,0 +1,6 @@
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，假設基礎培訓和進階培訓是互斥的群體，則最少有1502名不同參與者。", "question_group": 1209, "difficulty": 0.64, "answer": "是"}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，假設基礎培訓和進階培訓完全重疊，則最少有1000名不同參與者。", "question_group": 1209, "difficulty": 0.58, "answer": "否"}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，2023年識別並阻止的可疑交易平均金額的首選點估約為新台幣300,000元/例，並且以95%為保守下限，2022年的參與率估算在A（絕對增加8個百分點）下為87%。", "question_group": 1213, "difficulty": 0.91, "answer": "是"}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，2023年識別並阻止的可疑交易平均金額的首選點估約為新台幣150,000元/例，並且以95%為保守下限，2022年的參與率估算在A（絕對增加8個百分點）下為89%。", "question_group": 1213, "difficulty": 0.69, "answer": "否"}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，在受限於中等預算且須最小化正當客戶摩擦的條件下，先在高風險產品/通道進行小規模圖譜與跨通道累計規則試點是符合原始建議的優先措施。", "question_group": 1216, "difficulty": 0.93, "answer": "是"}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，在受限於中等預算且須最小化正當客戶摩擦的條件下，立即全面導入區塊鏈分析並把所有可疑帳戶凍結是符合原始建議的優先措施。", "question_group": 1216, "difficulty": 0.22, "answer": "否"}

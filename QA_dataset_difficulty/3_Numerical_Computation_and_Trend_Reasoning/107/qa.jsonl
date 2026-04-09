@@ -1,0 +1,6 @@
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "若2026年的綠色貸款和投資規模依然保持25%的年增長率，預測2026年的數值是多少？", "difficulty": 0.59, "answer": "250.0"}
+{"category": "Open", "question_type": "Aggregation", "question": "如果將2022年可再生能源和節能改造的投資金額相加，總額是多少？", "difficulty": 0.36, "answer": "35億新台幣"}
+{"category": "Open", "question_type": "Aggregation", "question": "從2023年到2027年，哪一行的平均增長率最高？", "difficulty": 0.7, "answer": "綠色基礎設施"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2023年到2025年，綠色金融資產占總資產的比重增加了多少百分點？", "difficulty": 0.17, "answer": "增加了10個百分點"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表3的資料，在2023年到2027年間，以下哪一類別的增長率變化總量最大？", "difficulty": 0.91, "choice": ["技術類別的增長率在期間內下降至負值，影響了整體增長的表現。", "所有類別的增長率在2023到2027年間的增長量相同，均為3%。", "所有類別的增長率變化總量相同，都是2%。", "增長率在2023到2027年間是逐年上升的，但總體增長率是9%。"], "answer": "C"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據圖1的資料，所有教育活動的平均參與人數是多少？", "difficulty": 0.3, "answer": "176.67"}

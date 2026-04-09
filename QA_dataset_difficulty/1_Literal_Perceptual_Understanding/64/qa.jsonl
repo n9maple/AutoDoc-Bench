@@ -1,0 +1,9 @@
+{"category": "Open", "question_type": "Fact Lookup", "question": "在圖4中，2022年的滿意度是否高於50%？", "difficulty": 0.84, "answer": "由於圖表數據未提供，無法確定2022年的滿意度是否高於50%。"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，銀行主動攔截1,800筆可疑交易以有效防止詐騙。", "question_group": 164, "difficulty": 0.27, "answer": "是"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，假冒客服是透過釣魚網站竊取帳密的主要手法。", "question_group": 164, "difficulty": 0.84, "answer": "否"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，主動檢查帳戶明細的用戶有95%能及時發現異常並阻止損失。", "question_group": 166, "difficulty": 0.28, "answer": "是"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，啟用即時交易通知的用戶發生未授權交易的比例高於10%。", "question_group": 166, "difficulty": 0.11, "answer": "否"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表2，2023年凱基銀行攔截的可疑交易筆數是1,800。", "question_group": 168, "difficulty": 0.15, "answer": "是"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表2，2023年凱基銀行攔截的可疑交易筆數是2,000。", "question_group": 168, "difficulty": 0.32, "answer": "否"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖2，5萬元至10萬元的轉帳佔全部轉帳的百分比是6%。", "question_group": 169, "difficulty": 0.11, "answer": "是"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖2，5萬元至10萬元的轉帳佔全部轉帳的百分比是6%。", "question_group": 169, "difficulty": 0.72, "answer": "是"}

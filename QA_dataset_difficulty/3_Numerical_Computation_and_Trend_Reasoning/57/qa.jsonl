@@ -1,0 +1,9 @@
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖片顯示，2021年至2023年，各國/地區的外匯杠杆上限有何變化？", "difficulty": 0.51, "choice": ["各國/地區外匯杠杆上限在2021年持平，隨後在2022年小幅上升。", "各國/地區外匯杠杆上限的數值沒有任何變化。", "從2021年至2023年，各國/地區的外匯杠杆上限經歷了多次波動，但最終回到了2021年的水準。", "各國/地區在2023年將外匯杠杆上限從2022年的水平降低。"], "answer": "B"}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖片顯示，2020年至2022年期間，亞洲地區的杠杆交易占比變化為何？", "difficulty": 0.17, "choice": ["增加了4個百分點", "增加了7個百分點", "減少了2個百分點", "增加了8個百分點"], "answer": "B"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖7，以下哪一項代表所有指標的完成率總和？", "difficulty": 0.65, "choice": ["600", "150", "300", "450"], "answer": "C"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖6的資料，各控管措施的採用銀行數的總和是多少？以下哪一項是正確的？", "difficulty": 0.79, "choice": ["8", "12", "22", "16"], "answer": "D"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表2的資料，2023年新台幣/人民幣和新台幣/歐元的匯率增長率平均值是多少？", "difficulty": 0.71, "answer": "7.4%"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖4，2020年至2022年期間，亞洲地區的杠杆交易占比增加了7個百分點。", "question_group": 984, "difficulty": 0.78, "answer": "是"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖4，2020年至2022年期間，亞洲地區的杠杆交易占比減少了7個百分點。", "question_group": 984, "difficulty": 0.53, "answer": "否"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，2022年新台幣兌美元的平均增長率是8.5%。", "question_group": 988, "difficulty": 0.29, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，2023年新台幣兌美元、新台幣兌人民幣、新台幣兌歐元的平均增長率是8.2%。", "question_group": 988, "difficulty": 0.53, "answer": "否"}

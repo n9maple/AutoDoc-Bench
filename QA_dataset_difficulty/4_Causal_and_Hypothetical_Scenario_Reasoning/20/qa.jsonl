@@ -1,0 +1,8 @@
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，具有綜合投資策略的公司，包括員工培訓和創新實驗室，在創新和可持續性金融產品的長期競爭中更具優勢。", "question_group": 1262, "difficulty": 0.14, "answer": "是"}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，僅僅依靠高技術投資而缺乏員工培訓和創新實驗室的公司在創新和可持續性金融產品的長期競爭中更具優勢。", "question_group": 1262, "difficulty": 0.12, "answer": "否"}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，與可再生能源企業及教育非營利組織的合作通過推動30億美元的綠色投資和改善50萬學生的教育，顯示出更強的市場刺激和跨領域整合能力。", "question_group": 1264, "difficulty": 0.86, "answer": "是"}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，與公司治理機構及國際NGO的合作顯示出更強的市場刺激和跨領域整合能力。", "question_group": 1264, "difficulty": 0.88, "answer": "否"}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，第一銀行提升技術投資，加強FinTech應用與數據分析能力，以及與環保技術公司合作推出創新產品。", "question_group": 1268, "difficulty": 0.17, "answer": "是"}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，第一銀行僅專注於傳統金融服務，沒有進行任何技術投資或與環保技術公司合作。", "question_group": 1268, "difficulty": 0.11, "answer": "否"}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，小明選擇的綠色貸款方案能更直接評估對環境標準的影響，因為它提供具體環境效益數據。", "question_group": 1270, "difficulty": 0.32, "answer": "是"}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，小紅選擇的社會影響投資基金能更直接評估對環境標準的影響，因為它提供具體環境效益數據。", "question_group": 1270, "difficulty": 0.86, "answer": "否"}

@@ -1,0 +1,7 @@
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖1，以下哪一項描述的是所有事件類型的事件次數總和？", "difficulty": 0.84, "choice": ["9", "4", "5", "3"], "answer": "C"}
+{"category": "Open", "question_type": "Aggregation", "question": "在圖4中，所有項目的數量總和是多少？", "difficulty": 0.57, "answer": "20"}
+{"category": "Open", "question_type": "Aggregation", "question": "在圖1中，所有事件類型的事件次數總和是多少？", "difficulty": 0.35, "answer": "5"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，2023年釣魚網站和分散式阻斷服務攻擊的事件數量總和是770。", "question_group": 849, "difficulty": 0.56, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，2023年釣魚網站和分散式阻斷服務攻擊的事件數量總和是770。", "question_group": 849, "difficulty": 0.76, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，2022年和2023年行動銀行App下載量的平均值是1400000。", "question_group": 850, "difficulty": 0.72, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，2022年和2023年行動銀行App下載量的平均值是1300000。", "question_group": 850, "difficulty": 0.52, "answer": "否"}

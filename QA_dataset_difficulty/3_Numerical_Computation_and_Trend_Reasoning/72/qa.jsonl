@@ -1,0 +1,10 @@
+{"category": "Open", "question_type": "Aggregation", "question": "計算1月至6月的平均『需補件/退件比例』是多少？", "difficulty": 0.77, "answer": "7.0"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2021年到2023年，外部資安稽核次數每年增加多少次？", "difficulty": 0.43, "answer": "每年增加1次"}
+{"category": "Open", "question_type": "Aggregation", "question": "三年間高風險弱點發現次數的總和是多少？", "difficulty": 0.86, "answer": "1"}
+{"category": "Open", "question_type": "Aggregation", "question": "權限異動及異常操作即時警示達成率在這三年間的平均值是多少？", "difficulty": 0.56, "answer": "99.3%"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的數據，計算1月至6月的平均『需補件/退件比例』，以下哪一項是正確的？", "difficulty": 0.59, "choice": ["7.0", "8.2", "6.9", "7.5"], "answer": "A"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據圖表顯示，從2021年到2023年，外部資安稽核次數每年增加了多少次？", "difficulty": 0.65, "choice": ["每年增加0次", "2021年到2023年增加了3次", "每年增加1次", "2021年到2023年增加了4次"], "answer": "C"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表3的資料，從2021年到2023年，權限異動及異常操作即時警示的平均達成率為何？以下哪個選項是正確的？", "difficulty": 0.34, "choice": ["99.1%", "99.3%", "98.5%", "99.8%"], "answer": "B"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據圖4的資料，所有流程項目的總期限(天數)是多少？", "difficulty": 0.66, "answer": "1885天"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖2，2023年第四季的月交易筆數顯示出穩定上升的趨勢。", "question_group": 1052, "difficulty": 0.74, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖2，2023年第四季的月交易筆數顯示出下降的趨勢。", "question_group": 1052, "difficulty": 0.54, "answer": "否"}

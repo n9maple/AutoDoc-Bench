@@ -1,0 +1,3 @@
+{"category": "Open", "question_type": "Fact Lookup", "question": "根據表4的資料，哪一個活動在2023年的數量最多？", "difficulty": 0.41, "answer": "查詢帳戶資訊"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖4，選擇App認證的比例為3.2%。", "question_group": 137, "difficulty": 0.53, "answer": "是"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖4，選擇App認證的比例為5%。", "question_group": 137, "difficulty": 0.72, "answer": "否"}

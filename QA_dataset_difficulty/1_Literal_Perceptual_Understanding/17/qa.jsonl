@@ -1,0 +1,5 @@
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖6，2023年行動支付用戶數量和普及率的數值是以下哪一組？", "difficulty": 0.76, "choice": ["2023年行動支付用戶數量為15百萬人，普及率為55%。", "2023年行動支付用戶數量為20百萬人，普及率為50%。", "2023年行動支付用戶數量為15百萬人，普及率為65%。", "2023年行動支付用戶數量為10百萬人，普及率為70%。"], "answer": "C"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "根據圖7，2022年的海外市場收入比例是多少？", "difficulty": 0.13, "answer": "2022年的海外市場收入比例是10%"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "根據圖6，2023年行動支付用戶數量和普及率的數值分別是多少？", "difficulty": 0.66, "answer": "2023年行動支付用戶數量為15百萬人，普及率為65%。"}
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據圖1，2023年台灣的行動支付交易額達到最高峰。", "question_group": 45, "difficulty": 0.17, "answer": "是"}
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據圖1，2022年台灣的行動支付交易額達到最高峰。", "question_group": 45, "difficulty": 0.18, "answer": "否"}

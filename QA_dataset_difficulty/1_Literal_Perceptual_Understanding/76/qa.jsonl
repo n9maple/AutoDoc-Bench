@@ -1,0 +1,4 @@
+{"category": "MCQ", "question_type": "Proportion", "question": "根據圖6，以下哪一項最接近手續費爭議的比例？", "difficulty": 0.17, "choice": ["19.0%", "17.5%", "18.0%", "16.0%"], "answer": "C"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "在圖3中，對利率影響的強度評估為5的因素有幾個？", "difficulty": 0.27, "answer": "2"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表6，玉山銀行、台新銀行和永豐銀行的最低利率為1.90%。", "question_group": 209, "difficulty": 0.9, "answer": "是"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表6，只有一家銀行的最低利率為1.90%。", "question_group": 209, "difficulty": 0.57, "answer": "否"}

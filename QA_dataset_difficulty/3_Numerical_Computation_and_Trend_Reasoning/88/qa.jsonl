@@ -1,0 +1,3 @@
+{"category": "Open", "question_type": "Aggregation", "question": "從2020年至2023年，Solvency Ratio與法定標準的平均差距是多少？", "difficulty": 0.93, "answer": "95"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2020年至2023年的數據，下列哪些選項最符合Solvency Ratio與法定標準的平均差距？", "difficulty": 0.24, "choice": ["89", "93", "95", "96"], "answer": "C"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表2的資料，如果公司將2023年的現金及現金等價物和信用融資渠道數值相加，可能的合計數字是哪些？", "difficulty": 0.66, "choice": ["1100億元", "1200億元", "1400億元", "1300億元"], "answer": "B"}

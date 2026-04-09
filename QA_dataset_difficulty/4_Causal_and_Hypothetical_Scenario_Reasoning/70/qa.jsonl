@@ -1,0 +1,13 @@
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "加權指數從昨天到今天的成交金額變化百分比是多少？", "difficulty": 0.39, "answer": "-4%"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "若將電子與半導體的成交值加總，結果比金融多多少？", "difficulty": 0.64, "answer": "2230"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果自營商增加其在台積電的買超至500，台積電的總買賣超會變成多少？", "difficulty": 0.7, "answer": "-3000"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "消費者物價指數年增率加上製造業生產指數年增率的總和是多少？", "difficulty": 0.41, "answer": "5.9"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "2024年6月，外資的資金流出金額比投信的資金流入金額多多少億元？", "difficulty": 0.72, "answer": "24億元"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據今天的成交金額與昨天相比，加權指數的變化比例是多少？請參考下列數據圖表作出選擇。", "difficulty": 0.46, "choice": ["-5%", "-3%", "-1%", "-4%"], "answer": "D"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據下圖中顯示的電子、半導體及金融的成交值，如果將電子與半導體的成交值加總，則該結果比金融的成交值多多少？", "difficulty": 0.24, "choice": ["1500", "3000", "2000", "2230"], "answer": "D"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "如果自營商在台積電的買超增加至500，以下哪一項最接近台積電的總買賣超？", "difficulty": 0.67, "choice": ["-3700", "-3200", "-3000", "-2500"], "answer": "C"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據以下數據，消費者物價指數年增率與製造業生產指數年增率的總和是多少？（請參考提供的數據圖表）", "difficulty": 0.86, "choice": ["5.7", "4.8", "5.9", "6.5"], "answer": "C"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據下圖，2024年6月外資的資金流出金額比投信的資金流入金額多多少億元？", "difficulty": 0.66, "choice": ["22億元", "36億元", "24億元", "18億元"], "answer": "C"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據明日預期的指數漲跌幅，明日的收盤指數可能是多少？", "difficulty": 0.34, "choice": ["18,600", "18,400", "18,360", "18,200"], "answer": "C"}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表2，電子與半導體的成交值加總比金融的成交值多2230。", "question_group": 1446, "difficulty": 0.8, "answer": "是"}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表2，電子與半導體的成交值加總比金融的成交值多370。", "question_group": 1446, "difficulty": 0.79, "answer": "否"}

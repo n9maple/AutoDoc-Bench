@@ -1,0 +1,12 @@
+{"category": "Open", "question_type": "Comparison", "question": "調整後的最高年利率比調整前的最高年利率增加了多少？", "difficulty": 0.14, "answer": "0.25"}
+{"category": "Open", "question_type": "Comparison", "question": "2024-07 和 2024-12 兩個月份的最大新房貸申請案件數量相差多少？", "difficulty": 0.83, "answer": "40"}
+{"category": "Open", "question_type": "Comparison", "question": "在2024年1月至4月期間，哪一個月份的累計使用人數增長最多？", "difficulty": 0.35, "answer": "2024年3月"}
+{"category": "Open", "question_type": "Comparison", "question": "累計諮詢案件數中，線上客服比專屬房貸顧問多了多少案件數？", "difficulty": 0.45, "answer": "900"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下列數據，調整後的最高年利率比調整前的最高年利率增加了多少？請參考提供的圖表進行比較。", "difficulty": 0.22, "choice": ["0.15", "0.30", "0.25", "0.40"], "answer": "C"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖3，以下哪個專案類型受到利率調整影響的戶數最多？", "difficulty": 0.3, "choice": ["專案類型 5200", "專案類型 5100", "專案類型 5300", "專案類型 5400"], "answer": "A"}
+{"category": "Open", "question_type": "Comparison", "question": "根據表1的資料，調整前的最低年利率與調整後的最高年利率的差值與調整前的最高年利率相比，哪一個更大？", "difficulty": 0.57, "answer": "調整前的最高年利率更大"}
+{"category": "Open", "question_type": "Comparison", "question": "根據表3的資料，2024年下半年哪一個月的新房貸申請案件數範圍最窄？", "difficulty": 0.7, "answer": "2024-10"}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖6，使用量最低的服務項目有幾次使用量？", "difficulty": 0.8, "answer": "210"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "在圖5中，申請/諮詢人數最多的協助方案與最少的協助方案之間的差異是多少？", "difficulty": 0.43, "answer": "260"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，線上客服處理的諮詢案件數比專屬房貸顧問多出900案件。", "question_group": 425, "difficulty": 0.51, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，線上客服處理的諮詢案件數比專屬房貸顧問多出900案件。", "question_group": 425, "difficulty": 0.31, "answer": "是"}

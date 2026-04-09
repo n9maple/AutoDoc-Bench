@@ -1,0 +1,13 @@
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2023年到2024年，平均貸款利率下降了多少百分點？", "difficulty": 0.28, "answer": "平均貸款利率下降了0.7個百分點。"}
+{"category": "Open", "question_type": "Aggregation", "question": "如果這三個步驟的審批時間縮短效果加總起來是多少百分比？", "difficulty": 0.46, "answer": "99%"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據提供的數據，從2023年到2024年，貸款利率的變化情形如何？", "difficulty": 0.42, "choice": ["貸款利率在2024年回到2023年的水平。", "貸款利率在2023年增加了0.5個百分點。", "貸款利率下降了0.3個百分點。", "平均貸款利率下降了0.7個百分點。"], "answer": "D"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的情境，若這三個步驟的審批時間縮短，合計的效果是多少百分比？", "difficulty": 0.25, "choice": ["102%", "99%", "93%", "88%"], "answer": "B"}
+{"category": "Open", "question_type": "Rate of Change", "question": "從2022年到2023年，貸款申請數量增加率的上升幅度是多少？", "difficulty": 0.17, "answer": "5%"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表5中的政策，如果在兩年內分階段實施，等待新政策生效的比例每半年增加10%，那麼在第二年結束時的等待生效比例為何？", "difficulty": 0.74, "choice": ["80%", "55%", "65%", "50%"], "answer": "C"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據圖3中的資料，這兩個服務類型的申請成功率提升總和是多少？", "difficulty": 0.85, "answer": "30%"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，三個步驟的審批時間縮短的總和是99%。", "question_group": 1082, "difficulty": 0.28, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，三個步驟的審批時間縮短的總和是100%。", "question_group": 1082, "difficulty": 0.32, "answer": "否"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖2，2023年至2024年間，貸款申請的平均處理時間呈現下降趨勢。", "question_group": 1083, "difficulty": 0.11, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖2，2023年至2024年間，貸款申請的平均處理時間呈現上升趨勢。", "question_group": 1083, "difficulty": 0.17, "answer": "否"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖1，從2022年到2023年，貸款申請數量增加的幅度是5%。", "question_group": 1084, "difficulty": 0.85, "answer": "是"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖1，從2022年到2023年，貸款申請數量增加的幅度是10%。", "question_group": 1084, "difficulty": 0.33, "answer": "否"}

@@ -1,0 +1,10 @@
+{"category": "Open", "question_type": "Difference Calculation", "question": "在圖1中，得分最高的項目與得分最低的項目的差值是多少？", "difficulty": 0.9, "answer": "由於缺乏具體的數據，無法計算得分最高和最低項目的差值。"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "圖3中，第一個和第三個服務渠道的滿意度百分比差異是多少？", "difficulty": 0.81, "answer": "3%"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表7，個性化服務的比例相比於改善溝通方式高出5%。", "question_group": 747, "difficulty": 0.3, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表7，個性化服務的比例相比於改善溝通方式高出10%。", "question_group": 747, "difficulty": 0.53, "answer": "否"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，數位生活方式結合產品在總受訪者與年輕受訪者中的選擇比例都是20%。", "question_group": 748, "difficulty": 0.14, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，數位生活方式結合產品在總受訪者中的選擇比例是30%，而在年輕受訪者中是10%。", "question_group": 748, "difficulty": 0.18, "answer": "否"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖7，第二個數據點的滿意度得分排名第2名。", "question_group": 750, "difficulty": 0.85, "answer": "是"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖7，第二個數據點的滿意度得分排名第1名。", "question_group": 750, "difficulty": 0.55, "answer": "否"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖7，指標 3.5 的滿意度得分最低。", "question_group": 751, "difficulty": 0.85, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖7，指標 3.8 的滿意度得分最低。", "question_group": 751, "difficulty": 0.18, "answer": "否"}

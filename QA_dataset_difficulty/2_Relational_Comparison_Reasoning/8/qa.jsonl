@@ -1,0 +1,14 @@
+{"category": "Open", "question_type": "Comparison", "question": "哪一種期貨的年度成交量和年增長率的乘積最大？", "difficulty": 0.93, "answer": "台指期貨的年度成交量和年增長率的乘積最大，為900萬。"}
+{"category": "Open", "question_type": "Comparison", "question": "哪一種期貨或選擇權的增長率最低？", "difficulty": 0.31, "answer": "台指期貨"}
+{"category": "Open", "question_type": "Comparison", "question": "2023年個人投資者與其他投資者的占比差距是多大？", "difficulty": 0.36, "answer": "30%"}
+{"category": "Open", "question_type": "Comparison", "question": "2022年的外資機構交易量占比與其他機構相比，差距是多少百分點？", "difficulty": 0.52, "answer": "2022年的外資機構交易量占比與其他機構相比，差距是70個百分點。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖顯示的期貨成交量和年增長率，哪一種期貨的年度成交量和年增長率的乘積最大？", "difficulty": 0.37, "choice": ["股指期貨的年度成交量和年增長率的乘積低於台指期貨的乘積", "台指期貨的年度成交量和年增長率的乘積最大", "原油期貨的年度成交量和年增長率的乘積沒有明顯高於台指期貨", "電子期貨的年度成交量和年增長率的乘積等於或接近台指期貨的乘積"], "answer": "B"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖3，2023年的其他交易占比相比2022年呈現什麼趨勢？", "difficulty": 0.8, "choice": ["2023年的其他交易占比回落至接近歷史低點", "2023年出現一定程度的增加，但仍低於2022年", "2023年其他交易占比與2022年保持不變", "2023年的其他交易占比比2022年低"], "answer": "D"}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖3，2022年與2023年對沖型交易占比的差異為多少個百分比點？", "difficulty": 0.76, "choice": ["15個百分比點", "18個百分比點", "12個百分比點", "8個百分比點"], "answer": "A"}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖3，2023年的其他交易占比比2022年高還是低？", "difficulty": 0.19, "answer": "2023年的其他交易占比比2022年低"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，2023年個人投資者的比例與其他投資者相比有30%的差距。", "question_group": 295, "difficulty": 0.59, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，2023年個人投資者的比例與其他投資者相比有30%的差距。", "question_group": 295, "difficulty": 0.75, "answer": "是"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖4，2023年市場參與度最高的投資者類型是外資機構。", "question_group": 296, "difficulty": 0.88, "answer": "是"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖4，2023年市場參與度最高的投資者類型是個人投資者。", "question_group": 296, "difficulty": 0.55, "answer": "否"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，台指期貨的增長率是最低的，為10。", "question_group": 297, "difficulty": 0.11, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，ESG相關期貨的增長率是最低的，為30。", "question_group": 297, "difficulty": 0.15, "answer": "否"}

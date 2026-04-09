@@ -1,0 +1,10 @@
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表6，假設所有公司在2022年均提出董事選舉和公司章程修訂提案，且這些提案的通過率維持不變，則這兩類提案合計獲得通過的比例是多少？以下哪一選項是正確的？", "difficulty": 0.91, "choice": ["80%", "82%", "78%", "75%"], "answer": "A"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表4的資料，假設2023年ESG投入提案比例減少了15個百分點，以下哪一項是ESG投入提案比例的減少百分比？", "difficulty": 0.88, "choice": ["25%", "18%", "15%", "20%"], "answer": "A"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表5，2022年公司成功減少了碳排放量5%並提高能源使用效率10%。", "question_group": 852, "difficulty": 0.85, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表5，2022年公司僅提高了能源使用效率5%且未減少碳排放量。", "question_group": 852, "difficulty": 0.18, "answer": "否"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖5，所有計劃項目的實施比例總和為190%。", "question_group": 853, "difficulty": 0.76, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖5，所有計劃項目的實施比例總和為150%。", "question_group": 853, "difficulty": 0.48, "answer": "否"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，治理結構提案與ESG投入提案的比例總和是90%。", "question_group": 854, "difficulty": 0.76, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，治理結構提案與ESG投入提案的比例總和是70%。", "question_group": 854, "difficulty": 0.73, "answer": "否"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖2，從2020年到2022年，股利支付比率逐年增加。", "question_group": 855, "difficulty": 0.32, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖2，從2020年到2022年，股利支付比率逐年減少。", "question_group": 855, "difficulty": 0.31, "answer": "否"}

@@ -1,0 +1,10 @@
+{"category": "Open", "question_type": "Aggregation", "question": "高風險、中風險和低風險的初步發現數總和是多少？", "difficulty": 0.69, "answer": "初步發現數總和是119。"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從 2023 年 12 月到 2024 年 3 月，自動化通報率增加了多少百分比？", "difficulty": 0.71, "answer": "自動化通報率增加了 10%"}
+{"category": "Open", "question_type": "Aggregation", "question": "從 2023 年 12 月到 2024 年 3 月，CI/CD 自動化安全檢查覆蓋率的平均值為多少？", "difficulty": 0.73, "answer": "70.75%"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2023年到2024年，異常事件平均偵測時間減少了多少小時？", "difficulty": 0.45, "answer": "0.3小時"}
+{"category": "Open", "question_type": "Aggregation", "question": "在2024年，自動分級覆蓋率和AI行為建模導入率的總和是多少百分比？", "difficulty": 0.31, "answer": "75%"}
+{"category": "Open", "question_type": "Aggregation", "question": "依據表2，若將生產環境與測試環境的覆蓋漏洞指標數值加總，總和是多少？", "difficulty": 0.34, "answer": "總和是2420。"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表3，自2023年12月到2024年3月，自動化通報率增加了10%。", "question_group": 950, "difficulty": 0.73, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表3，自2023年12月到2024年3月，自動化通報率減少了10%。", "question_group": 950, "difficulty": 0.34, "answer": "否"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，2023年12月至2024年3月的CI/CD自動化安全檢查的平均覆蓋率是70.75%。", "question_group": 952, "difficulty": 0.78, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，2023年12月至2024年3月的CI/CD自動化安全檢查的平均覆蓋率是75%。", "question_group": 952, "difficulty": 0.56, "answer": "否"}

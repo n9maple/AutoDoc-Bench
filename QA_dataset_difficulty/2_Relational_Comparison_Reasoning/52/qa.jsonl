@@ -1,0 +1,9 @@
+{"category": "Open", "question_type": "Difference Calculation", "question": "在圖1中，驗證方式的未授權登入機率差異最大的是哪兩種方式？", "difficulty": 0.8, "answer": "驗證方式 1.0% 和 驗證方式 0.01%"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，因弱密碼造成的安全事件占比比因重複密碼造成的安全事件占比高出11%。", "question_group": 474, "difficulty": 0.55, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，因弱密碼造成的安全事件占比比因重複密碼造成的安全事件占比高出5%。", "question_group": 474, "difficulty": 0.31, "answer": "否"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖7，問題類型的詢問佔比第二高的數值是17。", "question_group": 475, "difficulty": 0.16, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖7，問題類型的詢問佔比第二高的數值是14。", "question_group": 475, "difficulty": 0.85, "answer": "否"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖7，佔比最高的問題類型與最低的問題類型之間的差距是 22。", "question_group": 476, "difficulty": 0.34, "answer": "是"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖7，佔比最高的問題類型與最低的問題類型之間的差距是 10。", "question_group": 476, "difficulty": 0.55, "answer": "否"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，2024年1月的資安問題數量比2024年3月多20。", "question_group": 480, "difficulty": 0.74, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，2024年1月的資安問題數量比2024年3月多20。", "question_group": 480, "difficulty": 0.52, "answer": "是"}

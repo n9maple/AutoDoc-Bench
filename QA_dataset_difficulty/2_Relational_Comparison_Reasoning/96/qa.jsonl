@@ -1,0 +1,8 @@
+{"category": "MCQ", "question_type": "Ranking", "question": "根據圖3，總負債在2022年和2023年的變化量在所有指標中排名第幾？", "difficulty": 0.39, "choice": ["3", "5", "未排名", "4"], "answer": "A"}
+{"category": "Open", "question_type": "Comparison", "question": "在圖4中，哪一個指標的增長率較高？", "difficulty": 0.86, "answer": "指標15的增長率較高"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "根據圖5的資料，2022年和2023年淨利潤(億元)的差值是多少？", "difficulty": 0.62, "answer": "21.43億元"}
+{"category": "Open", "question_type": "Ranking", "question": "根據圖3，總負債在2022年和2023年的變化量在所有指標中排名第幾？", "difficulty": 0.39, "answer": "3"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，2025年的社區發展預算與2023年相比增長了新臺幣2億元。", "question_group": 690, "difficulty": 0.53, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，2025年的社區發展預算與2023年相比增長了新臺幣2億元。", "question_group": 690, "difficulty": 0.88, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖5，2023年的經營活動現金流入淨額高於2022年。", "question_group": 691, "difficulty": 0.17, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖5，2023年的經營活動現金流入淨額高於2022年。", "question_group": 691, "difficulty": 0.3, "answer": "是"}

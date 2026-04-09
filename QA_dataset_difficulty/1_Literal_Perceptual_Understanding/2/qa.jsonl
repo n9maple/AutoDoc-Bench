@@ -1,0 +1,8 @@
+{"category": "Open", "question_type": "Peak/Valley", "question": "2023年至2027年期間，綠色金融研討會次數的最低值出現在哪一年？", "difficulty": 0.13, "answer": "2023年"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "在2025年，綠色金融研討會次數是多少？", "difficulty": 0.61, "answer": "6次"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "在2023年，基金規模和投資回報率的數值分別是多少？", "difficulty": 0.92, "answer": "在2023年，基金規模為45億台幣，投資回報率為5.5%。"}
+{"category": "MCQ", "question_type": "Peak/Valley", "question": "根據圖片中顯示的綠色金融研討會次數，哪一年出現了最低的研討會次數？", "difficulty": 0.13, "choice": ["2023年", "2026年", "2024年", "2025年"], "answer": "A"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2025年綠色金融研討會的安排，以下哪些次數為可能的選擇？", "difficulty": 0.42, "choice": ["6次", "5次", "4次", "2次"], "answer": "A"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖片，2023年基金的規模和投資回報率分別是多少？", "difficulty": 0.62, "choice": ["基金規模為45億台幣，投資回報率為6.5%", "基金規模為55億台幣，投資回報率為5.5%", "基金規模為50億台幣，投資回報率為4.9%", "基金規模為45億台幣，投資回報率為5.5%。"], "answer": "D"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖2，2023年基金的規模為45億台幣，投資回報率為5.5%。", "question_group": 9, "difficulty": 0.85, "answer": "是"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖2，2023年基金的規模為45億台幣，投資回報率為5.5%。", "question_group": 9, "difficulty": 0.75, "answer": "是"}

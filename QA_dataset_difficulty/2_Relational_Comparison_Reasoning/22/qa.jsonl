@@ -1,0 +1,10 @@
+{"category": "Open", "question_type": "Comparison", "question": "根據表7的資料，2024年1月至6月哪個月份的每月諮詢數和解決率的乘積值最高？", "difficulty": 0.27, "answer": "2024年3月"}
+{"category": "Open", "question_type": "Comparison", "question": "根據表4，哪一年智能投顧使用戶數的數值比其他指標的年增率更接近？", "difficulty": 0.92, "answer": "2023年"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖2，35歲以下族群和熟齡族群之間的數位服務滿意度差距為Z%。", "question_group": 340, "difficulty": 0.79, "answer": "是"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖2，35歲以下族群和熟齡族群之間的數位服務滿意度差距為Y%。", "question_group": 340, "difficulty": 0.8, "answer": "否"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖1，數值最高的指標和最低的指標之間的差距是93.2。", "question_group": 341, "difficulty": 0.79, "answer": "是"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖1，數值最高的指標和最低的指標之間的差距是90。", "question_group": 341, "difficulty": 0.62, "answer": "否"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，2024年線上信貸通過率的數值高於平均審核時效的數值。", "question_group": 342, "difficulty": 0.78, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，2024年線上信貸通過率的數值高於平均審核時效的數值。", "question_group": 342, "difficulty": 0.54, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表10，台灣數位金融用戶滲透率的數值高於台灣金融業資安事件年增率。", "question_group": 343, "difficulty": 0.3, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表10，台灣數位金融用戶滲透率的數值高於台灣金融業資安事件年增率。", "question_group": 343, "difficulty": 0.38, "answer": "是"}

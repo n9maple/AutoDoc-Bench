@@ -1,0 +1,10 @@
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表6的資料，2024年和2025年中，哪一年數位化理賠申請滿意度與理賠時效滿意度的差異更大？", "difficulty": 0.23, "choice": ["2025年理賠時效滿意度提升對數位化理賠申請滿意度影響更大。", "2024年數位化理賠申請滿意度與理賠時效滿意度的差異較小。", "2025年數位化理賠申請滿意度與理賠時效滿意度的差異更大。", "2025年數位化理賠申請滿意度雖然下降，但仍高於2024年。"], "answer": "C"}
+{"category": "Open", "question_type": "Comparison", "question": "根據表1的資料，從2024年到2025年，哪一種保險的比例沒有發生變化？", "difficulty": 0.78, "answer": "醫療險、壽險和傷害險"}
+{"category": "Open", "question_type": "Comparison", "question": "根據表4的資料，計算數位化申請和紙本申請的平均審核時間與客戶滿意度的比值，哪一種申請方式的比值更高？", "difficulty": 0.73, "answer": "紙本申請的比值更高。"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "在圖7中，具有即時回饋經驗的滿意度與沒有即時回饋經驗的滿意度相比，滿意度的差距是多少？", "difficulty": 0.61, "answer": "滿意度的差距是8.7%"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖5，受理案件數從高到低排序後的第三個數據點是12800。", "question_group": 410, "difficulty": 0.37, "answer": "是"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖5，受理案件數從高到低排序後的第三個數據點是11200。", "question_group": 410, "difficulty": 0.78, "answer": "否"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖5，受理案件數最低的險種的案件數是3090。", "question_group": 415, "difficulty": 0.28, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖5，受理案件數最低的險種的案件數是11200。", "question_group": 415, "difficulty": 0.75, "answer": "否"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表7，2025 年的重大理賠案件數相比 2024 年增加了 4 件。", "question_group": 416, "difficulty": 0.86, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表7，2025 年的重大理賠案件數相比 2024 年增加了 10 件。", "question_group": 416, "difficulty": 0.86, "answer": "否"}

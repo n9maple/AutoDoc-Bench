@@ -1,0 +1,6 @@
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表5的數據，如果Oscar Health在未來三年內，其在北美市場的佔有率每年增加0.5%，那麼在三年後，他們的市場佔有率將是以下哪一個選項？", "difficulty": 0.93, "choice": ["3.5%", "3.0%", "3.8%", "4.2%"], "answer": "A"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表2的資料，計算全球和亞洲年輕消費者數字平台偏好的平均百分比是多少？", "difficulty": 0.52, "answer": "65%"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖4，從2023年到2050年，65歲及以上的人口比例將增加6個百分點。", "question_group": 773, "difficulty": 0.52, "answer": "是"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖4，從2023年到2050年，65歲及以上的人口比例將增加10個百分點。", "question_group": 773, "difficulty": 0.78, "answer": "否"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，2023年全球和亞太地區的經濟總量為8.85萬億美元，高於2022年的8.51萬億美元。", "question_group": 775, "difficulty": 0.51, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，2023年全球和亞太地區的經濟總量為8.85萬億美元，高於2022年的8.51萬億美元。", "question_group": 775, "difficulty": 0.36, "answer": "是"}

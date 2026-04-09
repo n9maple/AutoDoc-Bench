@@ -1,0 +1,13 @@
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "在 2010 到 2023 年間，上市櫃公司採用家數的增長率是多少？", "difficulty": 0.71, "answer": "1400%"}
+{"category": "Open", "question_type": "Aggregation", "question": "從 2009 到 2023 年，上市櫃公司採用家數的平均數是多少？", "difficulty": 0.95, "answer": "平均數是 1084"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從投票開放時間到投票截止時間，哪一家公司經歷的實際開放天數是所有公司中最短的？", "difficulty": 0.92, "answer": "鴻海"}
+{"category": "Open", "question_type": "Aggregation", "question": "所有公司在2023年的實際投票開放天數之和是多少？", "difficulty": 0.81, "answer": "29.0天"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從 2022 年到 2023 年，完成投票的股東人數增加了多少？", "difficulty": 0.59, "answer": "從2022年到2023年，完成投票的股東人數增加了400。"}
+{"category": "Open", "question_type": "Aggregation", "question": "計算 2022 年與 2023 年的平均投票提醒涵蓋率是多少？", "difficulty": 0.6, "answer": "97.7"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表7的資料，若股東會召開日為7月15日，中華電信的投票截止時間是以下哪個選項？", "difficulty": 0.45, "choice": ["7月13日23時59分59秒", "7月14日23時59分59秒", "7月15日00時00分00秒", "7月13日23時00分00秒"], "answer": "A"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表2的資料，假設未來兩年操作容易上手比例每年增加2%，以下哪一項是到2025年時操作容易上手比例的正確估算值？", "difficulty": 0.81, "choice": ["94.04%", "93.04%", "95.04%", "92.04%"], "answer": "A"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表9的資料，計算2022年和2023年的30分鐘內完成彙整及加密比例的平均值是多少？", "difficulty": 0.38, "answer": "平均值是99.3。"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表8，從2022年到2023年，完成投票的股東人數增加了400人。", "question_group": 1014, "difficulty": 0.48, "answer": "是"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖6，從2023年6月到7月，協助用戶數減少的百分比是17.58%。", "question_group": 1012, "difficulty": 0.54, "answer": "是"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖6，從2023年6月到7月，協助用戶數減少的百分比是10%。", "question_group": 1012, "difficulty": 0.54, "answer": "否"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表8，從2022年到2023年，完成投票的股東人數增加了300人。", "question_group": 1014, "difficulty": 0.54, "answer": "否"}

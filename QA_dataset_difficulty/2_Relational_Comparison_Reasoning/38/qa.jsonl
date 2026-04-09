@@ -1,0 +1,8 @@
+{"category": "Open", "question_type": "Comparison", "question": "2023年『前6%-20%』組的數值與2022年相比增加了多少？", "difficulty": 0.18, "answer": "48"}
+{"category": "Open", "question_type": "Comparison", "question": "2023年中，前5%公司數與前6%-20%公司數相比，哪一個數值更高，差多少？", "difficulty": 0.51, "answer": "前6%-20%公司數更高，差值為95。"}
+{"category": "Open", "question_type": "Comparison", "question": "哪個產業的主動揭露重大訊息/ESG資料比例和溫室氣體盤查揭露比例的加總最高？", "difficulty": 0.13, "answer": "電子產業"}
+{"category": "Open", "question_type": "Comparison", "question": "從2023年到2024年，哪個指標的達標率增幅最大？", "difficulty": 0.93, "answer": "ESG報告書揭露率的達標率增幅最大，為4"}
+{"category": "Open", "question_type": "Comparison", "question": "哪一年專業背景多元化指數較高？", "difficulty": 0.13, "answer": "2024年的專業背景多元化指數較高"}
+{"category": "Open", "question_type": "Comparison", "question": "根據表4的資料，2023年哪一項指標的達標率最高，並且比當年供應鏈永續達標率高多少？", "difficulty": 0.91, "answer": "2023年達標率最高的指標是ESG報告書揭露率，比當年供應鏈永續達標率高16。"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖1，2019年和2023年的揭露比例差距是20%。", "question_group": 405, "difficulty": 0.32, "answer": "是"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖1，2019年和2023年的揭露比例差距是20%。", "question_group": 405, "difficulty": 0.53, "answer": "是"}

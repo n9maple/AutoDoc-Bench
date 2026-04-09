@@ -1,0 +1,15 @@
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表4的資料，假設希望更詳細的狀態更新的百分比和希望即時通知功能的百分比在未來五年內，每年分別增加4%和2%。根據這些假設，五年後這兩者的總百分比可能是多少？", "difficulty": 0.95, "choice": ["58%", "68%", "62%", "65%"], "answer": "C"}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，25–34歲年輕專業人員/管理階層是最大年齡群，佔比37%，且行動端使用率約70%，因此鎖定此群體有助於在資源有限的情況下提升每週使用網路銀行≥3次的比例。", "question_group": 1182, "difficulty": 0.82, "answer": "是"}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，企業主/自營業者佔樣本的25%，是最大年齡群，且優化高階商業帳務儀表板能在短期內有效提高每週使用網路銀行≥3次的比例。", "question_group": 1182, "difficulty": 0.38, "answer": "否"}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，A方案在300萬元預算中分配65%（195萬）用於行動快速交易和即時客服，而B方案分配35%（105萬）用於資安和系統穩定。", "question_group": 1183, "difficulty": 0.87, "answer": "是"}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，B方案在300萬元預算中分配70%（210萬）用於資安和系統穩定，而A方案分配30%（90萬）用於行動快速交易和即時客服。", "question_group": 1183, "difficulty": 0.8, "answer": "否"}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，網路銀行的安全性問題是主要信任風險來源，因為對安全措施的關切最高，約32%。", "question_group": 1184, "difficulty": 0.53, "answer": "是"}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，界面滿意度問題是主要信任風險來源，因為界面滿意度低於50%。", "question_group": 1184, "difficulty": 0.22, "answer": "否"}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，引入更先進的人工智慧客服系統和加強客服人員專業與技術支援培訓能同時改善高峰期等待與回應速度以及降低複雜問題多次轉接情形。", "question_group": 1186, "difficulty": 0.2, "answer": "是"}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，增加客服人力和引入更先進的人工智慧客服系統能同時改善高峰期等待與回應速度以及降低複雜問題多次轉接情形。", "question_group": 1186, "difficulty": 0.92, "answer": "否"}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，台新銀行應優先解決網路銀行的安全性問題，因為安全性關切為主要信任風險來源，約占32%。", "question_group": 1188, "difficulty": 0.5, "answer": "是"}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，台新銀行應優先解決界面設計問題，因為界面滿意度低，影響用戶信任。", "question_group": 1188, "difficulty": 0.32, "answer": "否"}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，短期內選擇方案A提升客服效率與品質，可望在數週至3個月見到平均回應時間下降30–50%。", "question_group": 1190, "difficulty": 0.87, "answer": "是"}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，短期內選擇方案B強化網銀安全，將在數週內顯著提升用戶滿意度。", "question_group": 1190, "difficulty": 0.36, "answer": "否"}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，選擇方案C同時小幅改善平台安全和客服，預計在3個月內能夠將整體滿意度從78%提升至≥80%。", "question_group": 1191, "difficulty": 0.86, "answer": "是"}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，選擇方案A主要投入客服，預計在3個月內能夠將平台安全從68%提升至74%。", "question_group": 1191, "difficulty": 0.16, "answer": "否"}

@@ -1,0 +1,3 @@
+{"category": "Open", "question_type": "Peak/Valley", "question": "在台幣兌新加坡元匯率波動圖中，什麼時候匯率最低？", "difficulty": 0.4, "answer": "月中"}
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據圖1，台幣兌人民幣匯率在月中達到最低值4.3。", "question_group": 44, "difficulty": 0.84, "answer": "是"}
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據圖1，台幣兌人民幣匯率在月底達到最低值4.3。", "question_group": 44, "difficulty": 0.15, "answer": "否"}

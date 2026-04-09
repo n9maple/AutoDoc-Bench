@@ -1,0 +1,17 @@
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表3的資料，如果零售類別的平均單筆交易額增加20%，而餐飲類別的平均單筆交易額減少10%，那麼這兩個類別當前的平均單筆交易額差距是多少？以下哪一選項是正確的？", "difficulty": 0.13, "choice": ["1550", "1300", "1200", "1350"], "answer": "D"}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，強化客服與回應機制可直接針對約10%不滿意者挽回流失，提高留存率。", "question_group": 1194, "difficulty": 0.73, "answer": "是"}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，長期產品或品牌改版是最適合在6個月內提升留存率的策略。", "question_group": 1194, "difficulty": 0.11, "answer": "否"}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，推出小額即時微回饋＋頻次激勵，針對以25–45歲占68%且女性52%的日常消費族群在單筆<NT$500場景給予即時回饋，可以提高每戶月交易筆數來抵銷平均單筆金額下降造成的總額流失。", "question_group": 1195, "difficulty": 0.67, "answer": "是"}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，推出專為45歲以上人口設計的高額消費回饋活動，是最直接利用年齡與教育結構以及小額即時支付普及化來減緩因平均單筆金額下降而造成的總交易額流失。", "question_group": 1195, "difficulty": 0.37, "answer": "否"}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，策略優先順序為 A→B→C，並且估算貢獻總計 +5.0 pp，能夠將整體滿意度從85%提升到90%。", "question_group": 1196, "difficulty": 0.91, "answer": "是"}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，策略優先順序為 B→A→C，估算貢獻總計 +4.8 pp，可以將整體滿意度提升到90%。", "question_group": 1196, "difficulty": 0.39, "answer": "否"}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，採用分層因子式2^3 factorial 隨機化可以同時估計促銷主效應與交互效應，並且允許量化短期預測與設置停止門檻。", "question_group": 1200, "difficulty": 0.93, "answer": "是"}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，對A、B、C分別執行三個獨立的A/B測試可以同時估計促銷主效應與交互效應，並允許量化短期預測與設置停止門檻。", "question_group": 1200, "difficulty": 0.45, "answer": "否"}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，為快速提升整體信用卡滿意度，應優先選擇改善信用卡費用與合作商家優惠，因為約15%用戶建議降低年費或擴大優惠。", "question_group": 1201, "difficulty": 0.56, "answer": "是"}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，應優先改善客戶服務來提升整體信用卡滿意度，因為客服滿意度明顯低於產品設計滿意度。", "question_group": 1201, "difficulty": 0.56, "answer": "否"}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，下一年度以情境A為主的策略（資源分配A 60% / B 40%）並且保留至少30%的資源給B作為防守投入，能最大化TPV與用卡黏性。", "question_group": 1203, "difficulty": 0.91, "answer": "是"}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，下一年度應該完全優先選擇情境B，並將100%的資源都集中在數位與電商以最大化TPV與用卡黏性。", "question_group": 1203, "difficulty": 0.4, "answer": "否"}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，若富邦銀行欲最大化全體持卡人的總消費額，應優先採取『特定商家折扣』，前提是參與商家占比大於約83.33%。", "question_group": 1205, "difficulty": 0.63, "answer": "是"}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，若富邦銀行欲最大化交易次數，應優先採取『積分加倍』促銷策略。", "question_group": 1205, "difficulty": 0.52, "answer": "否"}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，擴大與中小型商家合作並提升優惠最有可能在6–18個月內提升整體滿意度與忠誠度。", "question_group": 1206, "difficulty": 0.58, "answer": "是"}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，大幅降低年費或提供更多免年費卡最有可能在6–18個月內提升整體滿意度與忠誠度。", "question_group": 1206, "difficulty": 0.76, "answer": "否"}

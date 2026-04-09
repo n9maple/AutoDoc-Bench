@@ -1,0 +1,3 @@
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "從2023年的數據來看，若短期資產與負債匹配程度在2024年達成目標，需要提高多少個百分點？", "difficulty": 0.47, "answer": "需要提高5個百分點"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "從2022Q3到2023Q3，資本總額增加了多少，並且這個增加量佔2022Q3資本總額的百分比是多少？", "difficulty": 0.71, "answer": "資本總額增加了47.17，這個增加量佔2022Q3資本總額的百分比是約5.875%"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據下圖顯示的2022Q3至2023Q3的資本總額變化，資本總額的增加量是多少，並且這個增加量佔2022Q3資本總額的百分比是多少？", "difficulty": 0.14, "choice": ["資本總額增加了30，佔2022Q3資本總額的約3.5%", "資本總額增加了60，佔2022Q3資本總額的約7%", "資本總額增加了50，佔2022Q3資本總額的約4.5%", "資本總額增加了47.17，佔2022Q3資本總額的約5.875%"], "answer": "D"}

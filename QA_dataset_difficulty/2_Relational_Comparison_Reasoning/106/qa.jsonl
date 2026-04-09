@@ -1,0 +1,6 @@
+{"category": "Open", "question_type": "Comparison", "question": "在圖5中，哪一個指標的公司比例最低？", "difficulty": 0.88, "answer": "指標70"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "在圖2中，兩項措施的公司比例差異是多少？", "difficulty": 0.68, "answer": "5%"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，獨立董事占比比女性董事比率多超過55個百分點。", "question_group": 720, "difficulty": 0.64, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，獨立董事占比比女性董事比率多25個百分點。", "question_group": 720, "difficulty": 0.55, "answer": "否"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，金融業的電子投票系統引入比例比製造業高出25%。", "question_group": 723, "difficulty": 0.56, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，金融業的電子投票系統引入比例比製造業高出10%。", "question_group": 723, "difficulty": 0.87, "answer": "否"}

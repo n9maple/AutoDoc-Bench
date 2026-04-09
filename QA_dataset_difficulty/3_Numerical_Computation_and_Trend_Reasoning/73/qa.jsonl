@@ -1,0 +1,6 @@
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "新臺幣180元的價格是在什麼時間開始實施的？", "difficulty": 0.13, "answer": "2024-07-01"}
+{"category": "Open", "question_type": "Aggregation", "question": "在2024-07-01起的時間段內，人民幣、港幣和澳幣的價格總和是多少新臺幣？", "difficulty": 0.49, "answer": "新臺幣540元"}
+{"category": "Open", "question_type": "Aggregation", "question": "若將所有貨幣的調整前和調整後手續費加總，總共會是多少？", "difficulty": 0.86, "answer": "2700"}
+{"category": "Open", "question_type": "Aggregation", "question": "2023年，所有客服渠道的使用總數是多少？", "difficulty": 0.35, "answer": "8000"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，新臺幣180元的價格是在2024-07-01開始實施的。", "question_group": 1055, "difficulty": 0.24, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，新臺幣180元的價格是在2024-01-01開始實施的。", "question_group": 1055, "difficulty": 0.5, "answer": "否"}

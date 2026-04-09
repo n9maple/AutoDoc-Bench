@@ -1,0 +1,4 @@
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "在2023年，需補交最終受益人資料的案件比例和身份資料不齊全或過期的案件比例相加是多少？", "difficulty": 0.75, "answer": "85"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "由於銀行要求進一步說明資金來源及用途，哪一類企業的審查流程延長天數比一般企業更多，且最終受益人聲明書要求超過 30？", "difficulty": 0.52, "answer": "高風險國家往來"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據2023年的統計，需補交最終受益人資料的案件比例和身份資料不齊全或過期的案件比例相加的結果是多少？以下哪一個選項是正確的？", "difficulty": 0.55, "choice": ["70", "80", "95", "85"], "answer": "D"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據審查流程的延長和最終受益人聲明書的要求，以下哪一類企業會面臨比一般企業更多的要求？", "difficulty": 0.13, "choice": ["大型跨國金融機構", "涉及高風險業務的企業", "高風險國家往來的企業", "出口到高風險國家的製造商"], "answer": "C"}

@@ -1,0 +1,5 @@
+{"category": "Open", "question_type": "Aggregation", "question": "如果電子產業和金融業的比例總和是表格中最高的三個行業之一，那麼這個三個行業的總比例是多少？", "difficulty": 0.56, "answer": "87%"}
+{"category": "Open", "question_type": "Aggregation", "question": "如果聯發科和台積電2025年的股利發放總額合計是多少億新台幣？", "difficulty": 0.84, "answer": "1150億新台幣"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下面的表格，電子產業和金融業的比例總和是否是最高的三個行業之一？如果是，這三個行業的總比例為多少？", "difficulty": 0.62, "choice": ["86%", "88%", "87%", "83%"], "answer": "C"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2025年的預測，聯發科和台積電的股利發放總額合計可能達到以下哪一個數字？", "difficulty": 0.8, "choice": ["1050億新台幣", "1150億新台幣", "1340億新台幣", "960億新台幣"], "answer": "B"}
+{"category": "Open", "question_type": "Aggregation", "question": "2024年和2025年期間，聯發科的股利發放額總和是多少？", "difficulty": 0.95, "answer": "由於沒有具體的圖表數據，我無法提供最終答案。"}

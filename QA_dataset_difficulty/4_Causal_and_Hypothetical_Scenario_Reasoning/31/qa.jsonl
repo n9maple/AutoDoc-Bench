@@ -1,0 +1,2 @@
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果農村金融基礎設施的預計社會資本投入增加 20%，那麼新的投入金額是多少？", "difficulty": 0.27, "answer": "30"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "假設農村金融基礎設施的預計社會資本投入增加 20%，以下哪個選項最接近新的投入金額？", "difficulty": 0.44, "choice": ["25", "33", "30", "45"], "answer": "C"}

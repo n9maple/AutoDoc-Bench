@@ -1,0 +1,9 @@
+{"category": "Open", "question_type": "Fact Lookup", "question": "從表格中可以看出哪個年齡層在2023年有最高的審核通過率？", "difficulty": 0.52, "answer": "30至45歲上班族"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "2023年線上申請因聯絡資料不全需補件比例是多少？", "difficulty": 0.24, "answer": "30"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "在2023年，持卡人中有多少比例的利率低於10%？", "difficulty": 0.24, "answer": "80%"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "2023 年的平均處理時效是多少天？", "difficulty": 0.72, "answer": "5.2 天"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據以下表格，哪個年齡層在2023年有最高的審核通過率？", "difficulty": 0.48, "choice": ["30至35歲初級職員 (通過率 45%)", "60歲以上人士 (通過率 40%)", "全體年齡層的平均值 (通過率 50%)", "30至45歲上班族"], "answer": "D"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2023年的數據，因聯絡資料不全而需補件的比例是多少？請根據以下選項進行選擇。", "difficulty": 0.63, "choice": ["28%", "30%", "35%", "50%"], "answer": "B"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "在2023年，持卡人中利率低於10%的比例可能是多少？請參考相關數據。", "difficulty": 0.84, "choice": ["25%", "80%", "85%", "35%"], "answer": "B"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2023年的資料，下列哪一項最接近於平均處理時效（以天數計）？", "difficulty": 0.3, "choice": ["5.2 天", "5.0 天", "4.8 天", "7.0 天"], "answer": "A"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "不通過件數最低的審核階段有多少件？", "difficulty": 0.37, "answer": "0"}

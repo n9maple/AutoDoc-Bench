@@ -1,0 +1,13 @@
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2019年到2022年，哪一類別的百分比增加最多？", "difficulty": 0.79, "answer": "可再生能源和環保技術"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，2020年三個類別的百分比總和是多少？", "difficulty": 0.66, "choice": ["75%", "80%", "72%", "88%"], "answer": "A"}
+{"category": "Open", "question_type": "Temporal Trend", "question": "從2019年至2022年，哪一種類型的自然災害理賠金額波動最小？", "difficulty": 0.91, "answer": "地震和其他自然災害"}
+{"category": "Open", "question_type": "Rate of Change", "question": "從2019年至2022年，哪一年的地震理賠金額增長最多？", "difficulty": 0.93, "answer": "2020年和2022年地震理賠金額增長最多，均為20億元"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表2的資料，假設台灣的ESG政策制定比例每年提升5%，而北美的比例保持不變，請問台灣需要幾年才能超過北美的現有比例？以下哪一項是正確的時間？", "difficulty": 0.92, "choice": ["11年", "6年", "8年", "9年"], "answer": "C"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖2，2021年到2022年之間農業保險的需求增長幅度是2%，是最大增長幅度之一。", "question_group": 805, "difficulty": 0.54, "answer": "是"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖2，2021年到2022年之間農業保險的需求增長幅度是2%，是最大增長幅度之一。", "question_group": 805, "difficulty": 0.57, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，可再生能源和環保技術在2019年至2022年期間的百分比增長最多，均增加了15%。", "question_group": 806, "difficulty": 0.56, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，高碳排放企業在2019年至2022年期間的百分比增長最多，增加了15%。", "question_group": 806, "difficulty": 0.33, "answer": "否"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖3，所有挑戰類型的平均百分比是52.5%。", "question_group": 807, "difficulty": 0.76, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖3，所有挑戰類型的平均百分比是60%。", "question_group": 807, "difficulty": 0.34, "answer": "否"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖1，2020年和2022年的地震理賠金額增長均為20億元。", "question_group": 808, "difficulty": 0.81, "answer": "是"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖1，2021年的地震理賠金額增長最多，增加了10億元。", "question_group": 808, "difficulty": 0.32, "answer": "否"}

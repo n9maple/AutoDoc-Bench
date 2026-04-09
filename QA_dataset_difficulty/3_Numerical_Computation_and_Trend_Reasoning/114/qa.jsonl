@@ -1,0 +1,10 @@
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表1的資料，如果數位化服務的滿意度百分比在未來兩年內每年增長3%，則兩年後的滿意度百分比可能是多少？", "difficulty": 0.28, "choice": ["78.50%", "72.80%", "75.00%", "74.41%"], "answer": "D"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表6，假設數位生活方式結合產品的總受訪者比例每年減少1%，在5年後的總受訪者比例將會是以下哪一個選項？", "difficulty": 0.95, "choice": ["12%", "25%", "15%", "9%"], "answer": "C"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的表5資料，目前所有項目的滿意度比例總和和平均滿意度比例分別是？", "difficulty": 0.13, "choice": ["滿意度比例總和是176%，平均滿意度比例是58.67%", "滿意度比例總和是178%，平均滿意度比例是59%", "滿意度比例總和是170%，平均滿意度比例是55%", "滿意度比例總和是165%，平均滿意度比例是52%"], "answer": "A"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表4，如果未來一年常規保險賠付的處理時間偏長比例增加一倍，對於這個保險類型與重大醫療保險的處理時間偏長比例的比較，下列哪一選項是正確的？", "difficulty": 0.68, "choice": ["即使常規保險賠付的處理時間偏長比例增加到10%，仍然低於重大醫療保險的25%.", "常規保險賠付的處理時間偏長比例增加一倍後，將達到30%, 依然低於重大醫療保險的25%。", "如果常規保險賠付的處理時間偏長比例增加到15%，將低於重大醫療保險的25%。", "即使常規保險賠付的處理時間偏長比例增加到20%，依然等於重大醫療保險的20%。"], "answer": "A"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表2的資料，以下哪一項目在滿意度和需求改進的總和上達到了最高的85%？", "difficulty": 0.87, "choice": ["滿意度的最高平均值是80%，而需求改進的總和為75%", "每個項目的滿意度和需求改進的總和都是85%", "指定某個項目的滿意度和需求改進的總和正好是85%", "所有項目的滿意度依然低於需求改進的總和85%"], "answer": "B"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表5的資料，當前所有項目的滿意度比例總和是多少，且其平均滿意度比例是多少？", "difficulty": 0.64, "answer": "滿意度比例總和是176%，平均滿意度比例是58.67%"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，面對面服務的平均得分與數位化服務的平均得分之和為8.2。", "question_group": 1165, "difficulty": 0.75, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，面對面服務的平均得分與數位化服務的平均得分之和為7.5。", "question_group": 1165, "difficulty": 0.54, "answer": "否"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表6，銀髮族專屬保險產品和數位生活方式結合產品的總受訪者比例為45%。", "question_group": 1167, "difficulty": 0.53, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表6，銀髮族專屬保險產品和數位生活方式結合產品的總受訪者比例為50%。", "question_group": 1167, "difficulty": 0.55, "answer": "否"}

@@ -1,0 +1,13 @@
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表1的資料，支付技術在2022年到2023年間的增長量可能是多少？", "difficulty": 0.3, "choice": ["10", "14", "13", "11"], "answer": "D"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表3的資料，如果未來三年每年區塊鏈應用的市場份額增長2%，那麼三年後的市場份額可能會是以下哪一項？", "difficulty": 0.23, "choice": ["27.00%", "25.50%", "28.15%", "26.53%"], "answer": "D"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表6的資料，2023年支付、保險和投資的總支出可能是多少？", "difficulty": 0.86, "choice": ["62", "50", "53", "59"], "answer": "C"}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖7，從2022年到2023年，台灣金融科技企業的海外市場收入比例增加了多少百分比？以下哪一項是正確的增幅？", "difficulty": 0.36, "choice": ["12% (極端高估增長)", "4% (低於預測增長)", "8% (高於實際增長)", "5%"], "answer": "D"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表5的資料，若風險管理和客戶關係管理的百分比每年以相同的速率增加，每年增加10%，那麼在第4年結束時，這兩者的平均百分比是多少？", "difficulty": 0.95, "answer": "87.664%"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖7，2023年台灣金融科技企業的海外市場收入比例比2022年增加了5個百分點，顯著增加。", "question_group": 817, "difficulty": 0.11, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖7，2023年台灣金融科技企業的海外市場收入比例與2022年相比沒有變化。", "question_group": 817, "difficulty": 0.11, "answer": "否"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表6，支付和投資的數值總和是38。", "question_group": 818, "difficulty": 0.72, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表6，支付和投資的數值總和是42。", "question_group": 818, "difficulty": 0.54, "answer": "否"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖5，從2022年到2023年，銀行客戶數位渠道使用率增加了27.27%。", "question_group": 819, "difficulty": 0.63, "answer": "是"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖5，從2022年到2023年，銀行客戶數位渠道使用率增加了15%。", "question_group": 819, "difficulty": 0.53, "answer": "否"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖4，從2020年至2023年，台灣金融科技初創企業的增加數量是60。", "question_group": 821, "difficulty": 0.86, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖4，從2020年至2023年，台灣金融科技初創企業的增加數量是40。", "question_group": 821, "difficulty": 0.54, "answer": "否"}

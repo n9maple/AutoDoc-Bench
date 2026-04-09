@@ -1,0 +1,7 @@
+{"category": "Open", "question_type": "Comparison", "question": "2023年的下降百分比和高於疫情前水平百分比之間的差異是多少？", "difficulty": 0.64, "answer": "10%"}
+{"category": "Open", "question_type": "Comparison", "question": "2023年的年增長率比市場需求增長率高多少個百分點？", "difficulty": 0.18, "answer": "2023年的年增長率比市場需求增長率高1個百分點。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的數據，以下哪個選項最能代表2023年下降百分比和高於疫情前水平百分比之間的差異？", "difficulty": 0.55, "choice": ["25%", "8%", "10%", "15%"], "answer": "C"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，2023年的年增長率與市場需求增長率相比，差距為多少個百分點？", "difficulty": 0.76, "choice": ["2個百分點", "1.2個百分點", "1個百分點", "4個百分點"], "answer": "C"}
+{"category": "Open", "question_type": "Ranking", "question": "根據圖3，哪個板塊的外資增持比例是最低的？", "difficulty": 0.28, "answer": "金融板塊的外資增持比例是最低的，為-2%。"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖2，2023年上半年台股市場外資資金流向中，第二季度的資金流動量最低。", "question_group": 308, "difficulty": 0.53, "answer": "是"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖2，2023年上半年台股市場外資資金流向中，第一季度的資金流動量最低。", "question_group": 308, "difficulty": 0.19, "answer": "否"}

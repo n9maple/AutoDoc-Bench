@@ -1,0 +1,2 @@
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果信用良好的百分比增加5%，而有擔保的百分比減少5%，新的百分比是多少？", "difficulty": 0.5, "answer": "{'信用良好': '90%', '有擔保': '75%'}"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表3的資料，某人擁有150萬元的貸款，其中固定利率部分的金額可能是多少？", "difficulty": 0.7, "choice": ["90萬元", "120萬元", "80萬元", "70萬元"], "answer": "A"}

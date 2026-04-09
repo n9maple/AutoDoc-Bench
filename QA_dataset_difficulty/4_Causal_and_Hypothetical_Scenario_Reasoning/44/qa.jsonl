@@ -1,0 +1,7 @@
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據圖片顯示，從2022年到2023年，資產分離信託覆蓋率和IT基礎設施投資各自的增長倍數是？", "difficulty": 0.19, "choice": ["資產分離信託覆蓋率和IT基礎設施投資各自都沒有增長。", "資產分離信託覆蓋率增加了約1.01倍，IT基礎設施投資增加了約2.0倍。", "資產分離信託覆蓋率增加了約1.5倍，IT基礎設施投資增加了約2.0倍。", "資產分離信託覆蓋率增加了約1.0101倍，IT基礎設施投資增加了約1.6667倍。"], "answer": "D"}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，股票型基金主要面臨利率上升引發市場波動及匯率升值造成海外資產價值下降的風險，而結構型商品涉及結構性風險、提前贖回可能及多重匯率波動影響。", "question_group": 1340, "difficulty": 0.68, "answer": "是"}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，股票型基金主要面臨結構性風險及多重匯率波動影響，而結構型商品主要受到利率上升引發的市場波動及匯率升值造成的海外資產價值下降的影響。", "question_group": 1340, "difficulty": 0.67, "answer": "否"}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，選擇權買方的最大損失限於支付的權利金，而賣方面臨無上限的損失風險。", "question_group": 1341, "difficulty": 0.11, "answer": "是"}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，高槓桿倍數減少了賣方的損失金額，並降低了追加保證金的需求。", "question_group": 1341, "difficulty": 0.11, "answer": "否"}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，2022年的全年最高點與最低點相差5,990點，且該年的單日個股最大漲跌幅超過2023年。", "question_group": 1349, "difficulty": 0.81, "answer": "是"}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，2022年的全年最高點與最低點相差5,000點，且該年的單日個股最大漲跌幅不超過2023年。", "question_group": 1349, "difficulty": 0.4, "answer": "否"}

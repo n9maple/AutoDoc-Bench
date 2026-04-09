@@ -1,0 +1,9 @@
+{"category": "Open", "question_type": "Aggregation", "question": "哪個行業的現金流不穩定比例和貸款違約率的總和最高？", "difficulty": 0.29, "answer": "製造業"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2023年到2025年，人工智慧覆蓋率的總增加百分比是多少？", "difficulty": 0.6, "answer": "30%"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，哪個行業的現金流不穩定比例與貸款違約率的總和最高？", "difficulty": 0.68, "choice": ["建築業", "製造業", "零售業", "農業"], "answer": "B"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據下圖，從2023年到2025年，人工智慧覆蓋率的總增加百分比是多少？", "difficulty": 0.68, "choice": ["25%", "30%", "32%", "28%"], "answer": "B"}
+{"category": "Open", "question_type": "Temporal Trend", "question": "從2024年至2026年，全球經濟增長率的趨勢是如何變化的？", "difficulty": 0.51, "answer": "從2024年至2026年，全球經濟增長率的趨勢是先下降後上升。"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表4，從2023年到2025年，人工智慧覆蓋率的總增加百分比至少是30%。", "question_group": 872, "difficulty": 0.58, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表4，從2023年到2025年，人工智慧覆蓋率的總增加百分比是50%。", "question_group": 872, "difficulty": 0.76, "answer": "否"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖3，2025年政府融資支持增長率上升最多。", "question_group": 873, "difficulty": 0.28, "answer": "是"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖3，2024年政府融資支持增長率上升最多。", "question_group": 873, "difficulty": 0.74, "answer": "否"}

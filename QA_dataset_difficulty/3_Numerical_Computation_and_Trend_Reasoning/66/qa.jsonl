@@ -1,0 +1,12 @@
+{"category": "Open", "question_type": "Aggregation", "question": "在2023年上半年（2023-01到2023-06），活期存款帳戶查詢次數的總和是多少？", "difficulty": 0.76, "answer": "1933000"}
+{"category": "Open", "question_type": "Aggregation", "question": "從2023年1月至2023年6月，繳費交易筆數的平均值是多少？", "difficulty": 0.94, "answer": "44,550.0"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "哪一個月份的總交易金額比前一個月增加最多？", "difficulty": 0.74, "answer": "2023-11"}
+{"category": "Open", "question_type": "Aggregation", "question": "如果將全部企業中的單層和兩層比例合併計算，那麼合併後的比例是多少？", "difficulty": 0.21, "answer": "62%"}
+{"category": "Open", "question_type": "Aggregation", "question": "所有問題出現頻率的總和是多少？", "difficulty": 0.13, "answer": "100%"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表1的資料，假設2023年開始每月平均交易金額每年增加15%，到2025年時，可能的每月平均交易金額為何？", "difficulty": 0.13, "choice": ["5000.00", "4629.63", "4250.00", "4850.00"], "answer": "B"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖2，自動對帳設定數從2023年1月的8900增長到12月的10400，增長百分比約為16.85%。", "question_group": 1024, "difficulty": 0.35, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖2，自動對帳設定數從2023年1月的8900下降到12月的8000，顯示出下降趨勢。", "question_group": 1024, "difficulty": 0.56, "answer": "否"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖4，從2023年6月到2023年7月，異常登入和異地存取的通報數量變化都是30。", "question_group": 1026, "difficulty": 0.86, "answer": "是"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖4，從2023年6月到2023年7月，異常登入和密碼重設的通報數量變化都是30。", "question_group": 1026, "difficulty": 0.74, "answer": "否"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，從2023年1月至2023年6月，繳費交易筆數的平均值是44883.33。", "question_group": 1028, "difficulty": 0.74, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，從2023年1月至2023年6月，繳費交易筆數的平均值是44550.0。", "question_group": 1028, "difficulty": 0.53, "answer": "否"}

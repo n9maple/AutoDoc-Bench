@@ -1,0 +1,6 @@
+{"category": "MCQ", "question_type": "Proportion", "question": "根據受訪者職業分布的圖示，哪一類職業占的比例最低？", "difficulty": 0.14, "choice": ["自由職業者", "學生", "技術人員", "藝術家"], "answer": "B"}
+{"category": "MCQ", "question_type": "Proportion", "question": "根據圖6所示，以下哪種客戶服務渠道的使用比例最低？", "difficulty": 0.88, "choice": ["郵寄的使用比例為8.0%", "電子郵件的使用比例為20.0%", "電話的使用比例為18.0%", "網頁即時聊天使用比例為15.0%"], "answer": "B"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖6，電子郵件的使用比例是所有客戶服務渠道中最低的。", "question_group": 2, "difficulty": 0.33, "answer": "是"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖6，線上即時聊天的使用比例是所有客戶服務渠道中最低的。", "question_group": 2, "difficulty": 0.18, "answer": "否"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖3，學生的比例是所有職業類別中最低的。", "question_group": 7, "difficulty": 0.18, "answer": "是"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖3，企業主或自營業者的比例是所有職業類別中最低的。", "question_group": 7, "difficulty": 0.18, "answer": "否"}

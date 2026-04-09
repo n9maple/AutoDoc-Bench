@@ -1,0 +1,9 @@
+{"category": "Open", "question_type": "Fact Lookup", "question": "2025Q2的紅利比例是多少？", "difficulty": 0.28, "answer": "40%"}
+{"category": "Open", "question_type": "Proportion", "question": "在2025年第二季度保險產品保費收入比例中，健康險的保費收入比例是多少？", "difficulty": 0.16, "answer": "20.0%"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "在2025年第二季度保險產品保費收入比例中，四種保險產品中，哪一種的保費收入比例最低？", "difficulty": 0.18, "answer": "年金險的保費收入比例最低，為6.0%"}
+{"category": "MCQ", "question_type": "Proportion", "question": "根據2025年第二季度的保險產品保費收入比例，健康險的保費收入比例是多少？", "difficulty": 0.16, "choice": ["23.0%", "21.0%", "19.0%", "20.0%"], "answer": "D"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2025年第二季度保險產品保費收入比例的比較，以下哪一種保險產品的保費收入比例最低？", "difficulty": 0.13, "choice": ["年金險的保費收入比例為7.0%", "壽險的保費收入比例為10.0%", "定期險的保費收入比例為9.5%", "年金險的保費收入比例最低，為6.0%"], "answer": "D"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖4，年金險的保費收入比例是所有保險產品中最低的，為6.0%。", "question_group": 237, "difficulty": 0.17, "answer": "是"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖4，健康險的保費收入比例是所有保險產品中最低的。", "question_group": 237, "difficulty": 0.72, "answer": "否"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖4，2025年第二季度健康險的保費收入比例是20.0%。", "question_group": 238, "difficulty": 0.11, "answer": "是"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖4，2025年第二季度健康險的保費收入比例是30.0%。", "question_group": 238, "difficulty": 0.11, "answer": "否"}

@@ -1,0 +1,7 @@
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表2的資料，每一天的淨流入淨額中，哪些天的淨流入淨額為負？", "difficulty": 0.88, "choice": ["週二、週三和週五", "週一、週四和週五", "只有週二和週四", "週一、週二、週三、週四和週五"], "answer": "D"}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，台灣金融科技領域的投資額增長了25%，顯示市場信心增強，小張的策略在短期內最有可能獲得較高的回報。", "question_group": 1540, "difficulty": 0.65, "answer": "是"}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，台灣金融科技領域的投資額下降了25%，因此小林的策略在短期內最有可能獲得較高的回報。", "question_group": 1540, "difficulty": 0.11, "answer": "否"}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，台灣央行在全球利率穩定但國內通脹壓力上升時更可能調整基準利率。", "question_group": 1544, "difficulty": 0.93, "answer": "是"}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，台灣央行在全球利率上升且經濟增長緩慢時更可能調整基準利率。", "question_group": 1544, "difficulty": 0.54, "answer": "否"}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表5，如果中國、東南亞和美國的出口額總和增加了10%，則增加後的出口額總和是286億美元。", "question_group": 1546, "difficulty": 0.82, "answer": "是"}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表5，如果中國、東南亞和美國的出口額總和增加了10%，則增加後的出口額總和是290億美元。", "question_group": 1546, "difficulty": 0.65, "answer": "否"}

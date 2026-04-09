@@ -1,0 +1,12 @@
+{"category": "Open", "question_type": "Comparison", "question": "富邦人壽在2023年的成長率比市場平均高多少個百分點？", "difficulty": 0.15, "answer": "0.5個百分點"}
+{"category": "Open", "question_type": "Comparison", "question": "在2023年，資本適足率是否高於監管要求？如果是，高出多少百分點？", "difficulty": 0.21, "answer": "在2023年，資本適足率高於監管要求，高出110個百分點。"}
+{"category": "Open", "question_type": "Comparison", "question": "印尼的市場份額增長比越南多多少百分點？", "difficulty": 0.13, "answer": "印尼的市場份額增長比越南多5個百分點。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中顯示的2023年富邦人壽成長率與市場平均成長率的比較，富邦人壽的成長率比市場平均高了多少個百分點？", "difficulty": 0.85, "choice": ["0.3個百分點", "1.2個百分點", "0.5個百分點", "1.0個百分點"], "answer": "C"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖3，以下哪個保險產品類型的收入增長百分比更高？", "difficulty": 0.13, "choice": ["保險產品類型15的收入增長百分比低於保險產品類型20", "保險產品類型5的增長百分比無法低於保險產品類型20", "保險產品類型20的收入增長百分比更高", "某些保險產品類型的收入增長百分比相近，但仍未確認具體數字"], "answer": "C"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表5的資料，2024年技術升級的投資額相較於數據分析能力增強和新興科技應用的投資總和，情況如何？", "difficulty": 0.6, "choice": ["2024年技術升級的投資額幾乎等於數據分析能力增強和新興科技應用的投資總和。", "2024年技術升級的投資額超過數據分析能力增強和新興科技應用的投資總和。", "2024年技術升級的投資額低於數據分析能力增強和新興科技應用的投資總和。", "2024年技術升級的投資額略低於數據分析能力增強和新興科技應用的投資總和的平均值。"], "answer": "B"}
+{"category": "Open", "question_type": "Comparison", "question": "在圖5中，指標600的數量是指標50的多少倍？", "difficulty": 0.14, "answer": "12倍"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "根據圖1，2022年和2023年的總營收之間的差異是多少新台幣億元？", "difficulty": 0.74, "answer": "50億元"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，印尼的市場份額增長比越南多了5個百分點。", "question_group": 646, "difficulty": 0.74, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，印尼的市場份額增長比越南多了10個百分點。", "question_group": 646, "difficulty": 0.29, "answer": "否"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，2023年的資本適足率高於監管要求，高出110個百分點。", "question_group": 647, "difficulty": 0.58, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，2023年的資本適足率低於監管要求。", "question_group": 647, "difficulty": 0.11, "answer": "否"}

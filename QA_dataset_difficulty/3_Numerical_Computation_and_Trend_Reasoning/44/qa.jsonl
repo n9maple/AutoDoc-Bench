@@ -1,0 +1,9 @@
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表9的資料，2022年和2023年平均客訴處理時間的總和是多少？以下哪一項是正確答案？", "difficulty": 0.2, "choice": ["108", "100", "106", "112"], "answer": "A"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表1的資料，以下哪一年證券市場與期貨市場的總和較高？", "difficulty": 0.22, "choice": ["2023年的總和比2020年高相差750。", "2023年與2022年的總和相差小於100，顯示出穩定的市場狀況。", "2023年的總和更高，相差357。", "2021年的總和較高，因為期貨市場增長了10%。"], "answer": "C"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表3的資料，從2022年到2023年，全年最低點的變化趨勢如何？", "difficulty": 0.88, "choice": ["全年最低點顯示出逐漸上升的趨勢，但在某些月份出現短暫的下降。", "全年最低點顯示出持平趨勢，沒有明顯的改變。", "全年最低點顯示出上升趨勢。", "全年最低點顯示出多次劇烈的下降與上升，但整體趨勢不明確。"], "answer": "C"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表8，2022年和2023年適合性評估參與比例的平均值是85。", "question_group": 933, "difficulty": 0.56, "answer": "否"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表5，台指期貨單日最大結算損益倍數的平均值為3.9。", "question_group": 936, "difficulty": 0.75, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，證券市場的平均數值是2725，期貨市場的平均數值是76.5。", "question_group": 937, "difficulty": 0.49, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，證券市場的平均數值是2800，期貨市場的平均數值是75。", "question_group": 937, "difficulty": 0.56, "answer": "否"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表8，2022年和2023年適合性評估參與比例的平均值是90。", "question_group": 933, "difficulty": 0.94, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表5，台指期貨單日最大結算損益倍數的平均值為4.5。", "question_group": 936, "difficulty": 0.55, "answer": "否"}

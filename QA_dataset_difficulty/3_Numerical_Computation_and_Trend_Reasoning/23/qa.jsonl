@@ -1,0 +1,8 @@
+{"category": "Open", "question_type": "Aggregation", "question": "根據表7的資料，計算2022年至2024年各年的首輪溝通成功解決占比的平均值是多少？", "difficulty": 0.7, "answer": "71.33%"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據圖1，所有審核項目的檢查要點數量總和是多少？", "difficulty": 0.27, "answer": "12"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，從2022年到2024年，臨櫃服務的申請數量減少了12。", "question_group": 845, "difficulty": 0.74, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，從2022年到2024年，臨櫃服務的申請數量減少了15。", "question_group": 845, "difficulty": 0.54, "answer": "否"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表2，2024年補件後平均審核天數的下限減少了0.5天，上限減少了1天。", "question_group": 846, "difficulty": 0.34, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表2，2024年補件後平均審核天數的下限增加了0.5天，上限增加了1天。", "question_group": 846, "difficulty": 0.53, "answer": "否"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖1，所有審核項目的檢查要點數量的總和是 12。", "question_group": 847, "difficulty": 0.85, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖1，所有審核項目的檢查要點數量的總和是 15。", "question_group": 847, "difficulty": 0.35, "answer": "否"}

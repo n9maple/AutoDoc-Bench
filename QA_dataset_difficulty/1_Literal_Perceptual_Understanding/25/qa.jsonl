@@ -1,0 +1,7 @@
+{"category": "Open", "question_type": "Fact Lookup", "question": "在圖6中，獨立董事比例增加的公司的數量是多少？", "difficulty": 0.82, "answer": "50"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "在圖5中，實施比例介於50%到70%的計劃項目有幾個？", "difficulty": 0.75, "answer": "2"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "在圖3中，最低提案比例的提案內容是多少？", "difficulty": 0.87, "answer": "提案內容: 5"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖4，支持率低於50%的比例是10.0%。", "question_group": 70, "difficulty": 0.11, "answer": "是"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖4，支持率低於50%的比例是20.0%。", "question_group": 70, "difficulty": 0.87, "answer": "否"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖6，未增加獨立董事的公司占總公司的百分比為50%。", "question_group": 71, "difficulty": 0.19, "answer": "是"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖6，未增加獨立董事的公司占總公司的百分比為75%。", "question_group": 71, "difficulty": 0.28, "answer": "否"}

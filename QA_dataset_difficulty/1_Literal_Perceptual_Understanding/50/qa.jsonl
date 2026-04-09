@@ -1,0 +1,4 @@
+{"category": "Open", "question_type": "Fact Lookup", "question": "2023年有多少比例的案件是因為主股東未及時配合提供證件而延誤審查？", "difficulty": 0.27, "answer": "16%"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2023年的數據，主股東未及時配合提供證件而延誤審查的案件比例是？", "difficulty": 0.29, "choice": ["14%", "16%", "10%", "22%"], "answer": "B"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "對應審查用途數量最低的文件名稱有幾個？", "difficulty": 0.13, "answer": "1"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "在下列文件中，對應審查用途數量最低的文件名稱是哪一個？", "difficulty": 0.89, "choice": ["審查用途次數與文件類型相同", "只有一個文件用途", "只有一個文件名稱", "無對應用途文件"], "answer": "C"}

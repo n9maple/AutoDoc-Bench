@@ -1,0 +1,11 @@
+{"category": "Open", "question_type": "Comparison", "question": "在所有列中，滿意度最低的項目是什麼，其滿意度比滿意度最高的項目低多少百分點？", "difficulty": 0.49, "answer": "滿意度最低的項目是平台安全性，其滿意度比滿意度最高的項目低17個百分點。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖4，台北市與高雄市的受訪者數量差距為多少？以下哪一項是正確的？", "difficulty": 0.63, "choice": ["18", "24", "20", "26"], "answer": "B"}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖1中滿意度百分比的數據，滿意度百分比最小和最大的功能領域之間的差值是多少？", "difficulty": 0.67, "choice": ["17", "22", "10", "12"], "answer": "A"}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖3，專業人員或管理階層與其他的總比例是多少？", "difficulty": 0.46, "answer": "65.0%"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "在圖1中，滿意度百分比最小和最大的功能領域之間的差值是多少？", "difficulty": 0.32, "answer": "17"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，功能領域的滿意度百分比是所有領域中最低的，為 68%。", "question_group": 269, "difficulty": 0.32, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，功能領域的滿意度百分比是所有領域中最高的，為 68%。", "question_group": 269, "difficulty": 0.31, "answer": "否"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖7，第二個安全措施的受訪者比例比第一個安全措施高出33%。", "question_group": 270, "difficulty": 0.76, "answer": "是"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖7，第二個安全措施的受訪者比例與第一個安全措施相同。", "question_group": 270, "difficulty": 0.51, "answer": "否"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，滿意度最低的項目是平台安全性，其滿意度比滿意度最高的項目低17個百分點。", "question_group": 272, "difficulty": 0.17, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，滿意度最低的項目是客戶服務，其滿意度比滿意度最高的項目低10個百分點。", "question_group": 272, "difficulty": 0.53, "answer": "否"}

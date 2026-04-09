@@ -1,0 +1,7 @@
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表6的資料，2024年至2026年間，中小學人數的總和是以下哪一項？", "difficulty": 0.81, "choice": ["65,000", "58,000", "60,000", "63,000"], "answer": "C"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表3的資料，假如專案查核次數以每年15%的速率增長，從2023年開始計算，到2025年底，專案查核次數預測會是多少？以下哪一項是最接近的預測數字？", "difficulty": 0.61, "choice": ["147.224", "152.500", "135.000", "145.300"], "answer": "A"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表2的資料，假設進修完成率每年提高0.5%，在2026年的預計進修完成率可能是多少？", "difficulty": 0.35, "choice": ["98.7%", "97.5%", "99.0%", "96.5%"], "answer": "A"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表4，從 2022 年到 2023 年，保險小學堂的瀏覽量增加了 89658。", "question_group": 922, "difficulty": 0.3, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表4，從 2022 年到 2023 年，保險小學堂的瀏覽量增加了 105000。", "question_group": 922, "difficulty": 0.86, "answer": "否"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，2022年和2023年之間，壽險公司的比率增加了6.2個百分比點。", "question_group": 924, "difficulty": 0.47, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，2022年和2023年之間，壽險公司的比率減少了6.2個百分比點。", "question_group": 924, "difficulty": 0.54, "answer": "否"}

@@ -1,0 +1,11 @@
+{"category": "Open", "question_type": "Comparison", "question": "2023年的線上銷售比例比2020年多了多少百分比？", "difficulty": 0.2, "answer": "2023年的線上銷售比例比2020年多了22%。"}
+{"category": "Open", "question_type": "Comparison", "question": "兩個年齡組別中，哪一組對模組化保險需求的比例更高，他們的需求比例相差多少？", "difficulty": 0.47, "answer": "年輕一代對模組化保險需求的比例更高，他們的需求比例相差30%。"}
+{"category": "Open", "question_type": "Comparison", "question": "數位行銷活動和線下行銷活動的ROI增長率之間相差多少百分比？", "difficulty": 0.18, "answer": "10%"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據給定的數據，2023年線上銷售比例相較於2020年增加了多少百分比？", "difficulty": 0.77, "choice": ["22%", "18%", "15%", "28%"], "answer": "A"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據所提供的數位行銷與線下行銷活動的ROI增長率比較，以下哪一項描述最符合數據？", "difficulty": 0.55, "choice": ["數位行銷活動的ROI增長率比線下行銷活動高出10%", "線下行銷活動的ROI增長率比數位行銷活動高5%", "數位行銷活動的ROI增長率等於線下行銷活動的ROI增長率", "數位行銷活動的ROI增長率僅比線下行銷活動高出2%"], "answer": "A"}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據圖5，以下哪些策略類型的風險降低效果從高到低排序是正確的？", "difficulty": 0.43, "choice": ["策略類型30, 策略類型20", "策略類型50, 策略類型40", "策略類型40, 策略類型10", "策略類型40, 策略類型30"], "answer": "D"}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖5，兩個策略類型的風險降低效果差距為多少百分比？", "difficulty": 0.18, "choice": ["5%", "12%", "10%", "25%"], "answer": "C"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表1的資料，2022年的線上銷售比例與2020年相比，是否高於10個百分比？", "difficulty": 0.35, "choice": ["是的，2022年的線上銷售比例比2020年高出15個百分比", "是的，2022年的線上銷售比例比2020年高出20個百分比。", "不，2022年的線上銷售比例與2020年相比沒有變化。", "不，2022年的線上銷售比例比2020年增長了3個百分比。"], "answer": "A"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表3的資料，在2025年，全球可穿戴設備市場規模相對於跨界產品年均銷售增長率，哪個數字更大？", "difficulty": 0.13, "choice": ["全球可穿戴設備市場規模較小", "全球可穿戴設備市場持平", "跨界產品的成長使全球可穿戴設備市場萎縮", "全球可穿戴設備市場規模更大"], "answer": "D"}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖3，哪個推廣渠道的效果值較高？", "difficulty": 0.18, "answer": "根據圖3，線上活動的效果值較高。"}
+{"category": "Open", "question_type": "Ranking", "question": "在圖5中，將策略類型依風險降低效果由高到低排序。", "difficulty": 0.86, "answer": "策略類型40, 策略類型30"}

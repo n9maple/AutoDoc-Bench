@@ -1,0 +1,10 @@
+{"category": "Open", "question_type": "Peak/Valley", "question": "台灣老年人口比例在2020年至2023年間，哪一年達到最高？", "difficulty": 0.13, "answer": "2023年"}
+{"category": "Open", "question_type": "Proportion", "question": "台灣壽險市場中，2023年其他公司與富邦人壽的市場份額比例是多少？", "difficulty": 0.3, "answer": "其他公司與富邦人壽的市場份額比例是2:1"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "最左邊的產品類型的替代效應是多少？", "difficulty": 0.13, "answer": "30%"}
+{"category": "MCQ", "question_type": "Peak/Valley", "question": "根據提供的數據，台灣老年人口比例在2020年至2023年間，哪一年達到最高？請參考以下情境：2020年老年人口比例為14.4%，2021年為15.0%，2022年為15.5%，2023年為16.2%。", "difficulty": 0.13, "choice": ["2024年", "老年人口比例未變", "2023年", "2021年"], "answer": "C"}
+{"category": "MCQ", "question_type": "Proportion", "question": "根據2023年台灣壽險市場的數據，其他公司與富邦人壽的市場份額比例為何？", "difficulty": 0.31, "choice": ["4:1", "2:1", "1:2", "3:1"], "answer": "B"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "根據圖1，哪一年台灣老年人口比例首次超過15%？", "difficulty": 0.19, "answer": "2022"}
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據圖1，2023年台灣的老年人口比例達到16.1%，是2020年至2023年間的最高值。", "question_group": 241, "difficulty": 0.11, "answer": "是"}
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據圖1，2023年台灣的老年人口比例達到16.1%，是2020年至2023年間的最高值。", "question_group": 241, "difficulty": 0.17, "answer": "是"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖2，2023年台灣壽險市場中，其他公司與富邦人壽的市場份額比例為2:1。", "question_group": 242, "difficulty": 0.35, "answer": "是"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖2，2023年台灣壽險市場中，其他公司與富邦人壽的市場份額比例為2:1。", "question_group": 242, "difficulty": 0.11, "answer": "是"}

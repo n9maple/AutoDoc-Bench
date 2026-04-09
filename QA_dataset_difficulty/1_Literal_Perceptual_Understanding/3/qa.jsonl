@@ -1,0 +1,4 @@
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖2，2023年自然災害的未承擔經濟損失比例是60.0%。", "question_group": 11, "difficulty": 0.11, "answer": "是"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖2，2023年自然災害的未承擔經濟損失比例是50.0%。", "question_group": 11, "difficulty": 0.32, "answer": "否"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，2023年全球65歲及以上人口占比超過10%，預計到2050年將達到16%。", "question_group": 13, "difficulty": 0.11, "answer": "是"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，亞太地區的長期護理保險市場每年增長10%。", "question_group": 13, "difficulty": 0.11, "answer": "否"}

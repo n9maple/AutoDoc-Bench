@@ -1,0 +1,4 @@
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖1，美國在2023年第四季度的基準利率是5.0%。", "question_group": 73, "difficulty": 0.76, "answer": "是"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖1，美國在2023年第四季度的基準利率是5.0%。", "question_group": 73, "difficulty": 0.56, "answer": "是"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表3，2023年第二季度的通脹率是3.5%。", "question_group": 74, "difficulty": 0.19, "answer": "是"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表3，2023年第二季度的通脹率是4.5%。", "question_group": 74, "difficulty": 0.26, "answer": "否"}

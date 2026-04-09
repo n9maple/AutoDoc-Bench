@@ -1,0 +1,10 @@
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "在 2022 年和 2023 年期間，幅度范圍保持不變的次數是多少？", "difficulty": 0.87, "answer": "幅度範圍保持不變的次數是 7"}
+{"category": "Open", "question_type": "Aggregation", "question": "2022 年和 2023 年的次數總和是多少？", "difficulty": 0.45, "answer": "7"}
+{"category": "Open", "question_type": "Aggregation", "question": "若我們想了解B級和C級在5年期的利率平均值是多少，該怎麼計算？", "difficulty": 0.73, "answer": "5.6%"}
+{"category": "Open", "question_type": "Aggregation", "question": "信用評級高的客戶群體和信用評級低的客戶群體的年利率下限平均值是多少？", "difficulty": 0.58, "answer": "4.5%"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據圖片所示數據，在 2022 年和 2023 年期間，幅度範圍保持不變的次數是多少？", "difficulty": 0.88, "choice": ["7", "6", "5", "8"], "answer": "A"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表1的資料，2022年和2023年間次數的變化趨勢為何？", "difficulty": 0.25, "choice": ["2023年的次數比2022年減少了1次，趨勢是減少。", "2023年的次數比2022年減少了3次，趨勢是減少。", "2023年的次數和2022年相同，趨勢是持平。", "2023年的次數比2022年減少了1次，趨勢是穩定。"], "answer": "A"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖2，所有貸款類型的統一利率總和可能是多少？", "difficulty": 0.65, "choice": ["30.5", "32.5", "31.0", "34.0"], "answer": "C"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表1的資料，2022年和2023年的次數總和為何？請選擇正確的答案。", "difficulty": 0.81, "choice": ["6", "11", "5", "7"], "answer": "D"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，信用評級高的客戶群體和信用評級低的客戶群體的年利率下限平均值為4.5%。", "question_group": 1107, "difficulty": 0.77, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，信用評級高的客戶群體和信用評級低的客戶群體的年利率下限平均值為6%。", "question_group": 1107, "difficulty": 0.37, "answer": "否"}

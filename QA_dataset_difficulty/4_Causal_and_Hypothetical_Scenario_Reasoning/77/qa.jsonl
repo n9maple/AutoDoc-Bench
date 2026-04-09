@@ -1,0 +1,18 @@
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，透過官方App連接因啟用256位元SSL加密及多重身份驗證，個資外洩風險極低且符合銀行嚴格資安標準。", "question_group": 1477, "difficulty": 0.2, "answer": "是"}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，透過非官方第三方網站連接的個資外洩風險極低且符合銀行嚴格資安標準。", "question_group": 1477, "difficulty": 0.2, "answer": "否"}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，結合技術措施（如攔截非官方入口、多重身份驗證、智能監控）與教育策略（持續資安宣導、模擬詐騙演練、提醒識別官方管道及避免洩漏敏感資訊），能有效降低敏感資訊外洩的風險。", "question_group": 1479, "difficulty": 0.11, "answer": "是"}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，僅依賴用戶教育而不使用任何技術措施即可有效防止敏感資訊外洩。", "question_group": 1479, "difficulty": 0.11, "answer": "否"}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，情境A（線上客服）在回應速度、24小時多元服務管道及初步處理貸款諮詢並自動轉接專人方面，比情境B（電話客服）展現出更高的即時性與服務彈性。", "question_group": 1480, "difficulty": 0.2, "answer": "是"}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，情境B（電話客服）在回應速度和服務彈性方面優於情境A（線上客服）。", "question_group": 1480, "difficulty": 0.12, "answer": "否"}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，當智能引導功能誤判用戶需求推薦不相關的常見問題時，銀行應持續優化AI模型和問題庫以提升推薦準確性與用戶體驗。", "question_group": 1482, "difficulty": 0.21, "answer": "是"}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，使用者不會因智能引導功能誤判而增加查詢時間與挫折感。", "question_group": 1482, "difficulty": 0.52, "answer": "否"}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表7，將信用卡服務諮詢的人工客服解決率提升3個百分點後，會超過轉帳操作指引和貸款申請說明的人工客服解決率。", "question_group": 1483, "difficulty": 0.79, "answer": "是"}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表7，將信用卡服務諮詢的人工客服解決率提升3個百分點後，會超過數位銀行操作協助的人工客服解決率。", "question_group": 1483, "difficulty": 0.57, "answer": "否"}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，大眾銀行自助查詢功能透過官網、App及LINE三大入口，提升問題解決率達85%，並成功減輕超過60%用戶轉向人工客服的需求。", "question_group": 1484, "difficulty": 0.85, "answer": "是"}
+{"category": "YesNo", "question_type": "Reasoning", "question": "根據文中，大眾銀行自助查詢功能僅透過官網入口，且問題解決率未達50%，無法有效減輕用戶轉向人工客服的需求。", "question_group": 1484, "difficulty": 0.12, "answer": "否"}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，設計 AI 行為風險評估機制，透過分析訪客瀏覽與操作異常判斷風險，於高風險時要求輸入簡易驗證碼或動態口令，此機制能在保障訪客資料安全的同時提升服務便利性。", "question_group": 1485, "difficulty": 0.31, "answer": "是"}
+{"category": "YesNo", "question_type": "Creative Scenario", "question": "根據文中，設計 AI 行為風險評估機制會導致所有訪客必須在每次登入時輸入多重驗證碼，這降低了使用者體驗和服務便利性。", "question_group": 1485, "difficulty": 0.22, "answer": "否"}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，情境A因系統自動帶入資料和明確主題分流，人工客服平均2.2分鐘回應且首次結案率達91%，在速度與安全性上具明顯優勢。", "question_group": 1486, "difficulty": 0.47, "answer": "是"}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，情境B因自助查詢效率高，人工客服無需介入即可達成首次結案率91%。", "question_group": 1486, "difficulty": 0.46, "answer": "否"}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，情境A能較迅速且有效完成，因為帳戶查詢的自助解決率達85%且人工解決率達91%。", "question_group": 1487, "difficulty": 0.27, "answer": "是"}
+{"category": "YesNo", "question_type": "Complex Reasoning", "question": "根據文中，情境B能完全在線上完成且反應時間較短，無需轉介分行。", "question_group": 1487, "difficulty": 0.54, "answer": "否"}

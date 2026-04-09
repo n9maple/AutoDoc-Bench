@@ -1,0 +1,6 @@
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "台灣和北美的公司中，哪個地區的ESG政策制定比例更高？該比例比另一地區高出多少百分點？", "difficulty": 0.75, "answer": "北美的ESG政策制定比例更高，比台灣高出35個百分點。"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果公司A和公司C的綠色項目資金比例和減碳措施支持的總和增加了5%，那麼它們總和的平均值是多少？", "difficulty": 0.85, "answer": "57.5%"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "預測模型開發的未來目標相對於目前的增長百分比是多少？", "difficulty": 0.59, "answer": "120%"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據比較台灣和北美公司的ESG政策制定情況，哪個地區的政策制定比例更高？", "difficulty": 0.77, "choice": ["北美的ESG政策制定比例高於台灣約20個百分點，台灣為65%。", "台灣的ESG政策制定比例相比北美低，僅比北美低5個百分點。", "北美的ESG政策制定比例更高，比台灣高出35個百分點。", "北美的ESG政策制定比例稍高，為72%，台灣為70%。"], "answer": "C"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據公司A和公司C在綠色項目資金比例及減碳措施支持的總和增加了5%的情況，請問它們總和的平均值是？", "difficulty": 0.63, "choice": ["55%", "62.5%", "60%", "57.5%"], "answer": "D"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據最近的數據，預測模型開發的未來目標相對於目前的增長百分比是多少？請參考以下增長百分比情境：\n1. 100%\n2. 120%\n3. 150%\n4. 80%", "difficulty": 0.19, "choice": ["60%", "200%", "130%", "120%"], "answer": "D"}

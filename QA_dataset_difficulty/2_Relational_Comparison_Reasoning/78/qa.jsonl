@@ -1,0 +1,13 @@
+{"category": "Open", "question_type": "Comparison", "question": "2022 年的直接損失比間接損失少多少億？", "difficulty": 0.15, "answer": "10 億"}
+{"category": "Open", "question_type": "Comparison", "question": "企業貸款的佔比與個人貸款的佔比相比，哪一個較大，且大多少？", "difficulty": 0.22, "answer": "企業貸款的佔比較大，且大20。"}
+{"category": "Open", "question_type": "Comparison", "question": "供應商質量評估與外包服務監控的合格率之差是多少？", "difficulty": 0.36, "answer": "5%"}
+{"category": "Open", "question_type": "Comparison", "question": "2023年的資本充足率是否高於國際監管標準？", "difficulty": 0.13, "answer": "是的，2023年的資本充足率高於國際監管標準。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據以下數據，2022 年的直接損失與間接損失之間的差額為？（請參考圖片數據。）", "difficulty": 0.61, "choice": ["5 億", "10 億", "20 億", "無可用數據"], "answer": "B"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中提供的數據，供應商質量評估與外包服務監控的合格率之差是多少？", "difficulty": 0.47, "choice": ["12%", "3%", "8%", "5%"], "answer": "D"}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖5，在2023年，台灣銀行業的流動性覆蓋率（LCR）高於巴塞爾協議要求的百分點是多少？", "difficulty": 0.9, "answer": "32"}
+{"category": "Open", "question_type": "Comparison", "question": "在圖3中，製造業的企業貸款行業佔比與服務業相比，哪一個較高？", "difficulty": 0.13, "answer": "製造業的企業貸款行業佔比較高。"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "根據圖1，兩個指標的數值差是多少？", "difficulty": 0.31, "answer": "54.76"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖4，2022年台灣基準利率的最高與最低數值的差距是1.5。", "question_group": 628, "difficulty": 0.87, "answer": "是"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖4，2022年台灣基準利率的最高與最低數值的差距是2.0。", "question_group": 628, "difficulty": 0.59, "answer": "否"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，供應商質量評估的合格率比外包服務監控的合格率高5%。", "question_group": 629, "difficulty": 0.53, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，供應商質量評估的合格率比外包服務監控的合格率高5%。", "question_group": 629, "difficulty": 0.57, "answer": "是"}

@@ -1,0 +1,3 @@
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表3的資料，如果2024年主流中小企業貸款的最高利率比2023年的最高利率增加了0.3%，那麼2024年的最高利率可能是多少？", "difficulty": 0.89, "choice": ["3.3%", "3.0%", "3.4%", "2.5%"], "answer": "B"}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表2，永豐銀行在數位轉型利率提高0.05%後，該利率為1.60%，超過了玉山銀行的原始利率1.45%。", "question_group": 1474, "difficulty": 0.87, "answer": "是"}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表2，永豐銀行在數位轉型利率提高0.05%後，該利率為1.60%，低於台新銀行的原始利率1.50%。", "question_group": 1474, "difficulty": 0.3, "answer": "否"}

@@ -1,0 +1,12 @@
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表3的資料，國內交易爭議和國際交易爭議的平均處理時效差異是以下哪一個選項所指的天數？", "difficulty": 0.53, "choice": ["21天", "23天", "17天", "19天"], "answer": "D"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表2中的資料，以下哪一類型的申訴案件具有最高的缺少資料案件比例？", "difficulty": 0.2, "choice": ["盜刷申訴案件的缺少資料比例為39%", "盜刷申訴案件的缺少資料案件比例最高，為41%", "信用卡未授權使用的申訴案件缺少資料比例為35%", "信用卡申訴案件的缺少資料案件比例為45%"], "answer": "B"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖6，案件類型13的暫停支付啟動比例是最低的。", "question_group": 586, "difficulty": 0.31, "answer": "是"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖6，案件類型100的暫停支付啟動比例是最低的。", "question_group": 586, "difficulty": 0.52, "answer": "否"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，國內交易爭議的30日內結案率比國際交易爭議高14個百分點。", "question_group": 587, "difficulty": 0.28, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，國內交易爭議的30日內結案率比國際交易爭議高14個百分點。", "question_group": 587, "difficulty": 0.3, "answer": "是"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖4，統計項目中比例最高的是 85%。", "question_group": 588, "difficulty": 0.51, "answer": "是"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖4，統計項目中比例最高的是 70%。", "question_group": 588, "difficulty": 0.52, "answer": "否"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，商品未如期寄送的件數比收到仿冒品的件數多525件。", "question_group": 590, "difficulty": 0.32, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，商品未如期寄送的件數比收到仿冒品的件數少525件。", "question_group": 590, "difficulty": 0.78, "answer": "否"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖5，由於缺乏具體數據值，無法計算出通知與溝通指標中最高和最低指標的具體差距。", "question_group": 591, "difficulty": 0.7, "answer": "是"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖5，可以直接從中讀取具體數據值來計算通知與溝通指標中最高和最低指標的差距。", "question_group": 591, "difficulty": 0.76, "answer": "否"}

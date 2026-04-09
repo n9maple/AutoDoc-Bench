@@ -1,0 +1,5 @@
+{"category": "Open", "question_type": "Fact Lookup", "question": "如果全球貿易額在摩擦升級情況下減少0.8%，那麼此減幅處於哪個範圍內？", "difficulty": 0.13, "answer": "0.8%處於摩擦升級的-0.5%至-1.0%範圍內。"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "如果全球貿易額在摩擦升級情況下減少0.8%，這個減少的幅度處於哪個範圍內？", "difficulty": 0.21, "choice": ["-1.2%至-1.5%範圍內", "-0.8%至-1.0%範圍內", "-0.5%至-1.0%範圍內", "-0.5%至-0.8%範圍內"], "answer": "C"}
+{"category": "MCQ", "question_type": "Peak/Valley", "question": "根據圖1，2023年中經濟增長率最高的國家或地區是哪一個？", "difficulty": 0.13, "choice": ["韓國", "日本", "巴西", "印度"], "answer": "D"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據表1的資料，以下哪個地區在2024年的增長率最低？", "difficulty": 0.89, "choice": ["巴西", "美國", "中國", "日本"], "answer": "C"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "根據表1的資料，哪個地區在2024年的增長率最低？", "difficulty": 0.92, "answer": "中國"}

@@ -1,0 +1,8 @@
+{"category": "Open", "question_type": "Comparison", "question": "2025年與2024年相比，哪一年上市公司數量增長較多？", "difficulty": 0.15, "answer": "2025年"}
+{"category": "Open", "question_type": "Comparison", "question": "電子產業在2025年的比例是金融業的多少倍？", "difficulty": 0.26, "answer": "4倍"}
+{"category": "Open", "question_type": "Comparison", "question": "在這些公司中，哪一家公司的股利收益率最高？", "difficulty": 0.47, "answer": "聯發科的股利收益率最高，為4.5%。"}
+{"category": "Open", "question_type": "Comparison", "question": "2025年，台積電的股利收益率比聯發科高還是低，差異是多少百分點？", "difficulty": 0.74, "answer": "台積電的股利收益率比聯發科低，差異是0.7個百分點。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下方的數據，2025年與2024年相比，哪一年上市公司數量增長較多？", "difficulty": 0.13, "choice": ["2023年", "2024年和2025年相同", "2025年", "2022年"], "answer": "C"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "根據圖1，聯發科在2024年和2025年的股利發放額相差多少億新台幣？", "difficulty": 0.86, "answer": "25億新台幣"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖2，中間位置的行業回報率是11.25。", "question_group": 637, "difficulty": 0.87, "answer": "是"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖2，中間位置的行業回報率是12。", "question_group": 637, "difficulty": 0.9, "answer": "否"}

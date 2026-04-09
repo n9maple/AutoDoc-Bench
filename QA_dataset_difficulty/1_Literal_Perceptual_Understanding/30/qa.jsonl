@@ -1,0 +1,6 @@
+{"category": "Open", "question_type": "Fact Lookup", "question": "2022年有多少家中小企業？", "difficulty": 0.18, "answer": "2022年有140萬家中小企業。"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2022年的數據，以下哪一個選項最接近於中小企業的數量？", "difficulty": 0.32, "choice": ["140萬家中小企業", "135萬家中小企業", "145萬家中小企業", "125萬家中小企業"], "answer": "A"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "使用比例超過50的模型或方法有幾個?", "difficulty": 0.81, "answer": "3"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "在下列不同模型或方法中，哪些使用的比例超過50%？（請根據圖示信息進行判斷）", "difficulty": 0.82, "choice": ["3", "5", "4", "1"], "answer": "A"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖1，使用比例超過50%的模型或方法有5個。", "question_group": 83, "difficulty": 0.78, "answer": "否"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖1，使用比例超過50%的模型或方法有3個。", "question_group": 83, "difficulty": 0.8, "answer": "是"}

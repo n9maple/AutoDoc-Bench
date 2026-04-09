@@ -1,0 +1,10 @@
+{"category": "Open", "question_type": "Aggregation", "question": "受訪者建議比例總和是多少？", "difficulty": 0.76, "answer": "36%"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2023年到2024年，跨部門溝通效率提升了多少個百分點？", "difficulty": 0.13, "answer": "30個百分點"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據圖片顯示，從2023年到2024年，跨部門溝通效率提升了多少個百分點？", "difficulty": 0.13, "choice": ["20個百分點", "30個百分點", "15個百分點", "45個百分點"], "answer": "B"}
+{"category": "Open", "question_type": "Rate of Change", "question": "從2022年至2023年，偏遠地區的滿意度增長了多少百分點？", "difficulty": 0.17, "answer": "滿意度增長了10個百分點"}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據2022年至2023年的數據，偏遠地區滿意度的增長百分比是多少？", "difficulty": 0.2, "choice": ["滿意度增長了8個百分點", "滿意度增長了10個百分點", "滿意度增長了20個百分點", "滿意度有所提升，但未滿足10個百分點"], "answer": "B"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表2的資料，以下哪些選項顯示了受訪者對簡化文件提交要求和推進電子化及自動化的建議比例？請選擇總百分比為36%的選項。", "difficulty": 0.13, "choice": ["36.5%", "36%", "32%", "40%"], "answer": "B"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表2顯示的未來每年受訪者建議比例的增長趨勢為2%，那麼在五年後，推進電子化和自動化的建議比例將會是多少？以下哪個選項是正確的？", "difficulty": 0.79, "choice": ["20.00%", "19.00%", "21.80%", "19.88%"], "answer": "D"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表2的資料，將簡化文件提交要求和推進電子化和自動化的受訪者建議比例加總，並計算這兩項建議所占的總百分比。", "difficulty": 0.33, "answer": "36%"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖5，2022年至2023年偏遠地區的滿意度增長了10個百分點。", "question_group": 1094, "difficulty": 0.37, "answer": "是"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖5，2022年至2023年偏遠地區的滿意度增長了5個百分點。", "question_group": 1094, "difficulty": 0.74, "answer": "否"}

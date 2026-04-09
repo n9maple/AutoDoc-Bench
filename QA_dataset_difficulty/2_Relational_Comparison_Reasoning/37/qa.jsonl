@@ -1,0 +1,9 @@
+{"category": "Open", "question_type": "Comparison", "question": "在2023年，哪一類證明的百分比是最低的？", "difficulty": 0.88, "answer": "營利事業登記證和其他合法收入證明"}
+{"category": "Open", "question_type": "Comparison", "question": "在文件不全或資料錯誤延誤/退件比例和線上申請因聯絡資料不全需補件比例中，哪個比例較高？", "difficulty": 0.75, "answer": "線上申請因聯絡資料不全需補件比例較高"}
+{"category": "Open", "question_type": "Comparison", "question": "相比於玫瑰Giving卡，@GoGo卡的申辦通過率高出多少百分點？", "difficulty": 0.71, "answer": "3"}
+{"category": "Open", "question_type": "Comparison", "question": "2023年的預借現金年利率與最高循環利率相比，哪一個更高？", "difficulty": 0.83, "answer": "2023年的預借現金年利率與最高循環利率相等，都是15。"}
+{"category": "Open", "question_type": "Comparison", "question": "相比消費爭議案件總數，2023 年的申訴及諮詢案件總數多了多少宗？", "difficulty": 0.76, "answer": "11900"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖1的資料，以下哪一個審核階段的不通過件數最少？", "difficulty": 0.35, "choice": ["審核階段 4 的不通過件數比階段 1 多，但也比階段 2 少", "審核階段 2 的不通過件數明顯多於階段 1", "審核階段 3 的不通過件數跟階段 1 相近，但略高於階段 1", "審核階段 1 的不通過件數最少"], "answer": "D"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表8的資料，聯徵通報人數與信用評分受影響人數的比較中，聯徵通報人數多出了多少百分比？", "difficulty": 0.24, "choice": ["11.11%", "14.00%", "18.50%", "10.75%"], "answer": "A"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，2023年的申訴及諮詢案件總數比消費爭議案件總數多出11900宗。", "question_group": 402, "difficulty": 0.84, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，2023年的申訴及諮詢案件總數比消費爭議案件總數多出15000宗。", "question_group": 402, "difficulty": 0.75, "answer": "否"}

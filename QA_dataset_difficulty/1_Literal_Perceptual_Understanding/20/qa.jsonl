@@ -1,0 +1,5 @@
+{"category": "Open", "question_type": "Fact Lookup", "question": "根據圖6，數值最低的項目是什麼？", "difficulty": 0.88, "answer": "數值最低的項目是對應數值30的項目。"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖2，2020年消費者對可持續產品的付費意願比例是最低的，為65%。", "question_group": 54, "difficulty": 0.73, "answer": "是"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖2，2023年消費者對可持續產品的付費意願比例是最低的，為73%。", "question_group": 54, "difficulty": 0.18, "answer": "否"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，第一銀行的綠色貸款方案支持了超過200家企業，每年減少50萬公噸的二氧化碳。", "question_group": 57, "difficulty": 0.33, "answer": "是"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，第一銀行的綠色貸款方案支持了不到100家企業，每年減少10萬公噸的二氧化碳。", "question_group": 57, "difficulty": 0.32, "answer": "否"}

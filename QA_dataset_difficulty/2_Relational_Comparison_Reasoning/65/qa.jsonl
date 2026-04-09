@@ -1,0 +1,15 @@
+{"category": "Open", "question_type": "Comparison", "question": "25-40歲和41-60歲年齡段中，哪個年齡段收入在3萬元以上的人群比例更高？", "difficulty": 0.2, "answer": "25-40歲年齡段中收入在3萬元以上的人群比例更高。"}
+{"category": "Open", "question_type": "Comparison", "question": "1年期與3年期的零存整付利率相差多少個百分點？", "difficulty": 0.43, "answer": "0.3個百分點"}
+{"category": "Open", "question_type": "Comparison", "question": "2023年利息未達2萬元和超過2萬元的比例差是多少？", "difficulty": 0.18, "answer": "46%"}
+{"category": "Open", "question_type": "Comparison", "question": "如果提前解約案件占比增加到 5%，那麼與 2023 年的數據相比，增幅是多少？", "difficulty": 0.8, "answer": "25%"}
+{"category": "Open", "question_type": "Comparison", "question": "2023年『因資金來源不明暫緩開戶比例』和『定存戶個資信任度』相比，哪一個數值更大？", "difficulty": 0.56, "answer": "定存戶個資信任度的數值更大"}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖5的資料，成年人本人申請的比例是否高於未滿20歲申請（法定代理人協助）的比例？", "difficulty": 0.14, "answer": "成年人本人申請的比例高於未滿20歲申請（法定代理人協助）的比例。"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "在圖8中，數值為100的指標比數值為0的指標高出多少？", "difficulty": 0.14, "answer": "100"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "在圖7中，最高和最低使用率的差值是多少？", "difficulty": 0.8, "answer": "52%"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "根據圖2的資料，兩個指標的百分比差異是多少？", "difficulty": 0.42, "answer": "25%"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖7，使用率最低的便利服務項目與第二低的項目之間的使用率差異是34。", "question_group": 554, "difficulty": 0.86, "answer": "是"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖7，使用率最低的便利服務項目與第二低的項目之間的使用率差異是20。", "question_group": 554, "difficulty": 0.55, "answer": "否"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖8，最高與最低指標數值的差距是100。", "question_group": 555, "difficulty": 0.68, "answer": "是"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖8，最高與最低指標數值的差距是98.7。", "question_group": 555, "difficulty": 0.52, "answer": "否"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖1，基本資料正確填寫的件數排名第一。", "question_group": 558, "difficulty": 0.11, "answer": "是"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖1，基本資料錯誤填寫的件數排名第一。", "question_group": 558, "difficulty": 0.49, "answer": "否"}

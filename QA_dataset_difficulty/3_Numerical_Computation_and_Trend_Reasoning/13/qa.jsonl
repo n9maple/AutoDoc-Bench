@@ -1,0 +1,6 @@
+{"category": "Open", "question_type": "Aggregation", "question": "2023年科技製造業和綠色金融的成長百分比相加是多少？", "difficulty": 0.18, "answer": "43%"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2022年到2023年，製造業和科技業的比例分別有什麼變化？", "difficulty": 0.32, "answer": "從2022年到2023年，製造業的比例減少了5%，而科技業的比例增加了5%。"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年的資料，科技製造業和綠色金融的成長百分比相加後，最接近的結果是以下哪一選項？（請參考提供的數據圖片）", "difficulty": 0.23, "choice": ["50%", "43%", "45%", "34%"], "answer": "B"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據所提供的數據，從2022年到2023年，製造業和科技業的比例變化為何？", "difficulty": 0.68, "choice": ["製造業的比例減少了5%，而科技業的比例增加了5%。", "製造業的比例保持不變，而科技業的比例增加了3%。", "製造業的比例減少了2%，而科技業的比例增加了3%。", "製造業的比例減少了15%，而科技業的比例增加了5%。"], "answer": "A"}
+{"category": "Open", "question_type": "Aggregation", "question": "所有項目類別的占比總和是多少？", "difficulty": 0.13, "answer": "100%"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖2中所有項目類別的占比，總和是多少？", "difficulty": 0.16, "choice": ["150%", "95.5%", "110%", "100%"], "answer": "D"}

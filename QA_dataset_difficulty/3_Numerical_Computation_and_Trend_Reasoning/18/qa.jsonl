@@ -1,0 +1,12 @@
+{"category": "Open", "question_type": "Aggregation", "question": "在 2025 年，中國人壽和平安保險的市場份額總和是多少？", "difficulty": 0.21, "answer": "50%"}
+{"category": "Open", "question_type": "Aggregation", "question": "2025 到 2028 年間的普及率平均增長多少百分比？", "difficulty": 0.43, "answer": "4%"}
+{"category": "Open", "question_type": "Aggregation", "question": "從2024年到2026年，新進競爭者數量的總和是多少？", "difficulty": 0.33, "answer": "23"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖示，2025年中國人壽和平安保險的市場份額總和是多少？", "difficulty": 0.86, "choice": ["65%", "50%", "52%", "47%"], "answer": "B"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的數據，2025 到 2028 年間的普及率平均增長是多少百分比？", "difficulty": 0.19, "choice": ["增長率為8%", "增長率為3%", "增長率為10%", "4%"], "answer": "D"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表3的資料，如果行業平均水平每年上升0.5%，在以下哪個情況下，行業平均水平可以達到續保率的同等水平？", "difficulty": 0.88, "choice": ["根據行業增長速度，行業平均水平若每年上升0.5%，需五年才能趕上續保率。", "行業平均水平需要在五年內穩定在某個數值，才能達到續保率的水平。", "行業平均水平已經高於續保率，因此不需要任何年數。", "如果續保率在未來的年份也每年提高0.5%，那麼行業平均水平需要至少三年才能追趕。"], "answer": "C"}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖5，從2025年到2026年，銷售增長率變化了多少百分比？以下哪個選項是正確的？", "difficulty": 0.92, "choice": ["-2%", "-3%", "0%", "-5%"], "answer": "B"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表4的數據，從2025到2028年，普及率的平均年增長率是多少個百分點？以下哪一項是正確的選擇？", "difficulty": 0.56, "choice": ["4 個百分點", "4.2 個百分點", "3 個百分點", "5.5 個百分點"], "answer": "A"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖4，2025年的線上健康險購買比例比2020年增加了100%。", "question_group": 825, "difficulty": 0.79, "answer": "是"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖4，2025年的線上健康險購買比例比2020年只增加了50%。", "question_group": 825, "difficulty": 0.18, "answer": "否"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖2，從2020年到2025年，考慮購買或增加健康險的比例增加了20%。", "question_group": 826, "difficulty": 0.11, "answer": "是"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖2，從2020年到2025年，考慮購買或增加健康險的比例增加了10%。", "question_group": 826, "difficulty": 0.58, "answer": "否"}

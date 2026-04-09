@@ -1,0 +1,7 @@
+{"category": "Open", "question_type": "Peak/Valley", "question": "2025年8月至9月，台灣加權指數的最高點出現在哪個月份？", "difficulty": 0.2, "answer": "2025年9月"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "數值最低的券商的市場份額是多少？", "difficulty": 0.29, "answer": "12.5"}
+{"category": "MCQ", "question_type": "Peak/Valley", "question": "根據2025年台灣加權指數的趨勢，哪個月份的指數最高？", "difficulty": 0.68, "choice": ["2025年8月", "2025年9月", "2025年9月初", "2025年10月"], "answer": "B"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據下圖不同券商的市場份額，數值最低的券商市場份額是多少？", "difficulty": 0.82, "choice": ["9.5%", "12.5%", "11%", "10.5%"], "answer": "B"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "在圖1中，2025年8月的台股市場總交易量是多少？", "difficulty": 0.82, "answer": "無法提供具體數據，因為圖表內容未提供。"}
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據圖4，2025年9月的台灣加權指數高於2025年8月。", "question_group": 243, "difficulty": 0.2, "answer": "是"}
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據圖4，2025年9月的台灣加權指數高於2025年8月。", "question_group": 243, "difficulty": 0.18, "answer": "是"}

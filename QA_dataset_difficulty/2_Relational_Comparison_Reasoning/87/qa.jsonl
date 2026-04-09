@@ -1,0 +1,10 @@
+{"category": "Open", "question_type": "Comparison", "question": "2025年在水資源管理上的投資比2028年少了多少億美元？", "difficulty": 0.55, "answer": "0.3億美元"}
+{"category": "Open", "question_type": "Comparison", "question": "技術創新合作的環境效益提高百分比與最佳實踐共享相比是否相同？", "difficulty": 0.17, "answer": "技術創新合作的環境效益提高百分比與最佳實踐共享相同。"}
+{"category": "Open", "question_type": "Comparison", "question": "綠色金融論壇在提升公眾理解度和年輕投資者參與度上的效果相比，哪一個更高？", "difficulty": 0.25, "answer": "綠色金融論壇在提升公眾理解度上的效果更高。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據以下圖表，2025年在水資源管理上的投資與2028年相比，則少了多少億美元？", "difficulty": 0.84, "choice": ["1.2億美元", "0.6億美元", "0.3億美元", "0.8億美元"], "answer": "C"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖5中的資料，亞洲的投資者數量與北美及其他相比較，哪個選項正確表示它多出多少？", "difficulty": 0.5, "choice": ["35", "25", "45", "40"], "answer": "D"}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖5中的資料，亞洲的投資者數量比北美及其他多多少？", "difficulty": 0.83, "answer": "40"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖5，亞洲地區的投資者比例最高，為60.0%。", "question_group": 659, "difficulty": 0.11, "answer": "是"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖5，歐洲地區的投資者比例最高，為60.0%。", "question_group": 659, "difficulty": 0.11, "answer": "否"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，2024年資源節約項目所節約的用水量是2023年的1.2倍。", "question_group": 660, "difficulty": 0.87, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，2024年資源節約項目所節約的用水量是2023年的1.5倍。", "question_group": 660, "difficulty": 0.55, "answer": "否"}

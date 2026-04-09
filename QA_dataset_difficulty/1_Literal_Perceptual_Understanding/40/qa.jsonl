@@ -1,0 +1,15 @@
+{"category": "Open", "question_type": "Fact Lookup", "question": "從2023年到2024年，投資諮詢次數的年增率是多少？", "difficulty": 0.51, "answer": "28%"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "查詢 2024 年的合規檢核系統自動化程度是什麼？", "difficulty": 0.61, "answer": "90"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "線上資安宣導與反詐騙教育在2024年吸引了多少人次參與？", "difficulty": 0.43, "answer": "超過10萬人次"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據下圖顯示的2023年與2024年投資諮詢次數的變化，哪一項最接近年增率？", "difficulty": 0.58, "choice": ["32%", "25%", "30%", "28%"], "answer": "D"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2024年的合規檢核系統自動化程度，以下哪個選項最接近其自動化比率？", "difficulty": 0.79, "choice": ["90%", "85%", "70%", "92%"], "answer": "A"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "在2024年，線上資安宣導與反詐騙教育吸引了多少人次參與？請參考下列選項：", "difficulty": 0.15, "choice": ["正好15萬人次", "超過10萬人次", "少於10萬人次", "每年12000人次"], "answer": "B"}
+{"category": "Open", "question_type": "Proportion", "question": "在2023年台灣數位銀行客戶類型分布中，傳統銀行的客戶占總客戶的百分比是多少？", "difficulty": 0.13, "answer": "88.9%"}
+{"category": "Open", "question_type": "Part-to-Whole", "question": "在2023年台灣數位銀行客戶類型分布中，哪一類別的客戶數量占總客戶數的最大部分？", "difficulty": 0.13, "answer": "傳統銀行的客戶數量占總客戶數的最大部分，為1600人，占88.9%"}
+{"category": "Open", "question_type": "Peak/Valley", "question": "在2024年中，平均每月阻擋高風險攻擊事件次數最低的月份是哪一個？", "difficulty": 0.76, "answer": "2024-01"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖3，無法確定具體哪一年的存取權限控管升級次數超過了50。", "question_group": 101, "difficulty": 0.53, "answer": "是"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖3，可以確定每一年的存取權限控管升級次數是否超過了50。", "question_group": 101, "difficulty": 0.59, "answer": "否"}
+{"category": "YesNo", "question_type": "Part-to-Whole", "question": "根據圖1，傳統銀行的客戶數量占總客戶數的最大部分，為1600人，占88.9%。", "question_group": 102, "difficulty": 0.87, "answer": "是"}
+{"category": "YesNo", "question_type": "Part-to-Whole", "question": "根據圖1，純網銀的客戶數量占總客戶數的最大部分，為200人，占11.1%。", "question_group": 102, "difficulty": 0.32, "answer": "否"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖1，傳統銀行的客戶占總客戶的百分比是88.9%。", "question_group": 103, "difficulty": 0.11, "answer": "是"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖1，傳統銀行的客戶占總客戶的百分比是70%。", "question_group": 103, "difficulty": 0.52, "answer": "否"}

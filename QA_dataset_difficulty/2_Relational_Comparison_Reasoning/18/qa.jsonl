@@ -1,0 +1,7 @@
+{"category": "Open", "question_type": "Comparison", "question": "2025 年哪家保險公司的市場份額比太平洋保險多，但比中國人壽少？", "difficulty": 0.32, "answer": "平安保險"}
+{"category": "Open", "question_type": "Comparison", "question": "2027 年的普及率比 2026 年高出多少百分點？", "difficulty": 0.13, "answer": "4 個百分點"}
+{"category": "Open", "question_type": "Comparison", "question": "2025年的市場占有率變化比2024年多了多少個百分點？", "difficulty": 0.31, "answer": "2025年的市場占有率變化比2024年多了1個百分點。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2025年的市場分析，哪家保險公司的市場份額在太平洋保險之上，但又低於中國人壽？", "difficulty": 0.35, "choice": ["平安保險", "陽光保險", "人保財險", "中國太平保險"], "answer": "A"}
+{"category": "Open", "question_type": "Comparison", "question": "根據表2的資料，眾安保險2025年的市場份額相當於中國人壽的百分之多少？", "difficulty": 0.53, "answer": "16.67%"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，2027年的普及率比2026年高出4個百分點。", "question_group": 325, "difficulty": 0.17, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，2027年的普及率比2026年高出5個百分點。", "question_group": 325, "difficulty": 0.76, "answer": "否"}

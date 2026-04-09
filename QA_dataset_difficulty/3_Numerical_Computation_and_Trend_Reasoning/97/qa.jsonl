@@ -1,0 +1,5 @@
+{"category": "Open", "question_type": "Aggregation", "question": "加權指數開盤和櫃買指數收盤的數值總和是多少？", "difficulty": 0.72, "answer": "17725"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，若加權指數的開盤數值為X，櫃買指數的收盤數值為Y，則它們的總和的可能值包括哪一項？", "difficulty": 0.53, "choice": ["17725", "17730", "17800", "17650"], "answer": "A"}
+{"category": "Open", "question_type": "Aggregation", "question": "從月初到月底，台灣加權指數的總變化量是多少？", "difficulty": 0.33, "answer": "-300"}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖3的資料，2023年1月至2023年4月，傳統製造業的變動率是如何變化的？", "difficulty": 0.14, "choice": ["持平", "緩慢下降", "偶爾上升", "下降"], "answer": "D"}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖1，台灣加權指數在本月初到月底的變化趨勢是什麼？", "difficulty": 0.13, "choice": ["台灣加權指數在月初有所上升，然後緩慢下降至月底顯示出微弱的上升趨勢。", "台灣加權指數的變化趨勢是持平，整體是一個波動不大的情況。", "台灣加權指數的變化趨勢是穩定下滑，整體呈現出持續下降的趨勢。", "台灣加權指數的變化趨勢是先下降後上升，整體呈現先下降再回升的趨勢，但未回到月初的水平。"], "answer": "D"}

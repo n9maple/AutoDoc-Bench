@@ -1,0 +1,8 @@
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "在 2022 年和 2023 年，數位帳戶開戶數與行動銀行用戶數的比例變化是什麼？", "difficulty": 0.95, "answer": "2022年數位帳戶開戶數與行動銀行用戶數的比例為0.3111，2023年為0.3333，比例增加了0.0222。"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2023Q1到2024Q1，月活躍用戶成長率增加了多少百分點？", "difficulty": 0.8, "answer": "月活躍用戶成長率增加了18個百分點"}
+{"category": "Open", "question_type": "Aggregation", "question": "2024Q1平均每用戶月交易筆數和App功能升級次數的總和是多少？", "difficulty": 0.88, "answer": "24"}
+{"category": "Open", "question_type": "Aggregation", "question": "在 2023 年和 2024 年，流程完成率的平均值是多少？", "difficulty": 0.49, "answer": "86"}
+{"category": "Open", "question_type": "Aggregation", "question": "平均來看，2023上半年和2024上半年用戶滿意度是多少？", "difficulty": 0.65, "answer": "平均用戶滿意度是85.5。"}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖2，從2024年1月到2024年12月，重大資安事件通報率的趨勢是什麼？", "difficulty": 0.17, "choice": ["重大資安事件通報率在2024年初達到90%，然後在年末穩定在95%。", "重大資安事件通報率有周期性波動，季節變化影響通報率。", "重大資安事件通報率保持在100%，趨勢是穩定不變的。", "重大資安事件通報率在2024年間時高達100%，但在特定的月份內有明顯的波動。"], "answer": "C"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表8，2024年24小時資安諮詢專線的服務次數為12,500次，平均每月服務次數約為1,041.67次。", "question_group": 913, "difficulty": 0.19, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表8，2024年24小時資安諮詢專線的服務次數為12,500次，平均每月服務次數約為1,250次。", "question_group": 913, "difficulty": 0.85, "answer": "否"}

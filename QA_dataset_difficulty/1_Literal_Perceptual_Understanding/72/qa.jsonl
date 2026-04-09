@@ -1,0 +1,11 @@
+{"category": "Open", "question_type": "Fact Lookup", "question": "1月至12月中，哪個月的『初步審查10日內完成率』與同年9月相同？", "difficulty": 0.85, "answer": "2月、5月、7月、10月、12月"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "哪一年異常操作警示次數最少？", "difficulty": 0.42, "answer": "2023 年異常操作警示次數最少，為 29"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "在1月至12月中，哪個月的『初步審查10日內完成率』與同年9月相同？（請參考提供的數據圖）", "difficulty": 0.94, "choice": ["2月、5月、7月、10月、12月", "1月、4月、6月、10月、12月", "1月、3月、4月、8月、11月", "5月、6月、7月、10月、11月"], "answer": "A"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據以下圖表，哪一年異常操作警示次數最少？", "difficulty": 0.93, "choice": ["2023年", "2024年", "2022年", "2021年"], "answer": "A"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "在2023年Q4各產業類別中，啟用電子支付企業數超過500的有幾個？", "difficulty": 0.45, "answer": "3"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2023年Q4的數據，啟用電子支付企業數超過500的產業類別數量為多少？(請參考提供的圖片資訊)", "difficulty": 0.52, "choice": ["2", "3", "6", "5"], "answer": "B"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "在下方流程項目中，數值等於30的項目有幾個？請參考圖示。", "difficulty": 0.46, "choice": ["5", "1", "4", "2"], "answer": "D"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表3，2023年的異常操作警示次數最少，為29次。", "question_group": 196, "difficulty": 0.25, "answer": "是"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表3，2022年的異常操作警示次數最少，為36次。", "question_group": 196, "difficulty": 0.74, "answer": "否"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表1，2月的『初步審查10日內完成率』與9月相同。", "question_group": 197, "difficulty": 0.49, "answer": "是"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表1，3月的『初步審查10日內完成率』與9月相同。", "question_group": 197, "difficulty": 0.92, "answer": "否"}

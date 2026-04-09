@@ -1,0 +1,7 @@
+{"category": "Open", "question_type": "Comparison", "question": "哪家公司在綠色項目資金比例的數值上比減碳措施支持多10%或以上？", "difficulty": 0.86, "answer": "公司A和公司B"}
+{"category": "MCQ", "question_type": "Comparison", "question": "在圖片中，哪家公司在綠色項目資金比例的數值上比減碳措施支持多10%或以上？", "difficulty": 0.69, "choice": ["公司A和公司C", "公司C和公司D", "公司A和公司B", "公司B和公司D"], "answer": "C"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的數據，數據整合投入的比例相比於預測模型開發的比例，哪種情況是正確的？", "difficulty": 0.19, "choice": ["由於市場需求，預測模型開發的資金比數據整合高。", "數據整合投入高於預測模型開發，但後者的提高速度更快。", "數據整合和模型開發之間的投入差異相對較小。", "數據整合投入的比例高於預測模型開發的比例。"], "answer": "D"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖3，以下哪個挑戰類型的百分比較低？", "difficulty": 0.31, "choice": ["挑戰類型30的百分比為20%。", "挑戰類型20的百分比為15%。", "挑戰類型40的百分比較低。", "挑戰類型25的百分比為25%。"], "answer": "C"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖4，2024年，計劃增加綠色投資的公司比例與實施壓力測試的公司比例相比，哪一項的比例更高？", "difficulty": 0.27, "choice": ["實施壓力測試的公司比例更高。", "根據過去數據，預測2024年綠色投資公司比例和實施壓力測試公司比例無法明確得出。", "實施壓力測試的公司比例可能無法達到主要標準。", "未來兩者比例大致相當，但仍需具體數據確認。"], "answer": "A"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖3，百分比最高的挑戰類型是第1個數據點。", "question_group": 314, "difficulty": 0.75, "answer": "是"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖3，百分比最高的挑戰類型是第2個數據點。", "question_group": 314, "difficulty": 0.51, "answer": "否"}

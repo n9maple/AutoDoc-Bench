@@ -1,0 +1,9 @@
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表1的資料，您計算出來的平均每月攔截可疑交易數、異常登入地點偵測和異常設備偵測的平均值是下列哪一個選項？", "difficulty": 0.66, "choice": ["300", "500", "400", "150"], "answer": "A"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖8的資料，所有未授權交易發生比率的平均值可能是多少？", "difficulty": 0.7, "choice": ["0.70", "0.92", "0.88", "0.85"], "answer": "D"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表5的資料，可觀察到從1天內到超過3天的處理時間，客戶滿意度的變化趨勢是如何？", "difficulty": 0.24, "choice": ["客戶滿意度隨著處理時間的增加而有所波動，未明顯下降。", "客戶滿意度呈現下降趨勢。", "客戶滿意度在處理時間增加過程中保持不變，依然保持在高水準。", "客戶滿意度在處理時間增加時持平，但不會回落。"], "answer": "B"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表7，主動檢查帳戶明細與不主動檢查帳戶明細的異常發現及成功阻止資金損失的比率總和是157。", "question_group": 1017, "difficulty": 0.6, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表7，主動檢查帳戶明細與不主動檢查帳戶明細的異常發現及成功阻止資金損失的比率總和是150。", "question_group": 1017, "difficulty": 0.57, "answer": "否"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖7，從1月到12月，重複轉帳的案件數量變化率為-6.90%。", "question_group": 1019, "difficulty": 0.74, "answer": "是"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖7，從1月到12月，重複轉帳的案件數量變化率為6.90%。", "question_group": 1019, "difficulty": 0.6, "answer": "否"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表6，2023年資金流追蹤案件數相較於2022年的增長百分比為25.76%。", "question_group": 1021, "difficulty": 0.81, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表6，2023年資金流追蹤案件數相較於2022年的增長百分比為30%。", "question_group": 1021, "difficulty": 0.55, "answer": "否"}

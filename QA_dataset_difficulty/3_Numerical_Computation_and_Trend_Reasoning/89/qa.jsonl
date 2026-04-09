@@ -1,0 +1,12 @@
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表3的資料，自由職業者的滿意度若每年增加1.5%，在多少年後可以達到75%的滿意度？以下哪個選項是正確的？", "difficulty": 0.53, "choice": ["7年", "3年", "5年", "9年"], "answer": "C"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表3的資料，以下哪個選項最接近中小企業主和自由職業者的平均滿意度？", "difficulty": 0.67, "choice": ["72%", "70%", "68%", "69%"], "answer": "D"}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據某報告中的圖表，2024年的全球線上貸款市場規模相較於2023年有哪些可能的增長金額？", "difficulty": 0.86, "choice": ["450億美元", "420億美元", "480億美元", "550億美元"], "answer": "A"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表3的資料，實際使用中小企業主和自由職業者的平均滿意度是多少？", "difficulty": 0.26, "answer": "69%"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖3，從2022年到2023年，FirstPay平台的用戶數量增加了100萬人。", "question_group": 1099, "difficulty": 0.51, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖3，從2022年到2023年，FirstPay平台的用戶數量保持不變。", "question_group": 1099, "difficulty": 0.11, "answer": "否"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表5，從2023年到2025年，AI技術投資的年均增長率約為19.64%。", "question_group": 1100, "difficulty": 0.4, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表5，從2023年到2025年，AI技術的年均增長率約為30%。", "question_group": 1100, "difficulty": 0.59, "answer": "否"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖8，從2025年到2026年，聯合開發的合作次數沒有改變。", "question_group": 1101, "difficulty": 0.7, "answer": "是"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖8，從2025年到2026年，聯合開發的合作次數增加了。", "question_group": 1101, "difficulty": 0.73, "answer": "否"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖5，從2025年到2026年，全球區塊鏈金融市場規模的增長百分比是60%。", "question_group": 1104, "difficulty": 0.87, "answer": "是"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖5，從2025年到2026年，全球區塊鏈金融市場規模的增長百分比是80%。", "question_group": 1104, "difficulty": 0.77, "answer": "否"}

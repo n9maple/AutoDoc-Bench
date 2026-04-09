@@ -1,0 +1,8 @@
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從 2023 年到 2025 年，信用保證計畫合作的百分比總共減少了多少？", "difficulty": 0.28, "answer": "總共減少了0.5%"}
+{"category": "Open", "question_type": "Aggregation", "question": "從2023年到2025年，技術升級的總支出是多少新台幣？", "difficulty": 0.63, "answer": "5億新台幣"}
+{"category": "Open", "question_type": "Aggregation", "question": "從2023年到2025年，信用保證計畫合作的百分比總和是多少？", "difficulty": 0.63, "answer": "5.7%"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "2023年和2024年之間，風險分擔機制合作的百分比減少了多少？", "difficulty": 0.18, "answer": "0.4%"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2023年至2025年的數據，信用保證計畫合作的百分比變化為何？", "difficulty": 0.54, "choice": ["總共減少了0.5%", "總共減少了1.5%", "總共減少了0.2%", "總共保持不變"], "answer": "A"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表3的資料，2025年『信用保證計畫合作』的數值與2023年相比，以下哪個選項正確反映了數值變化的百分比？", "difficulty": 0.37, "choice": ["-22.73%", "5.00%", "-15.00%", "-40.00%"], "answer": "A"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表3，2023年和2024年之間，風險分擔機制合作的百分比減少了0.4%。", "question_group": 787, "difficulty": 0.17, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表3，2023年和2024年之間，風險分擔機制合作的百分比減少了1%。", "question_group": 787, "difficulty": 0.57, "answer": "否"}

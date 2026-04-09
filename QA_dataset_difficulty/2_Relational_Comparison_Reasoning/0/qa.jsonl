@@ -1,0 +1,8 @@
+{"category": "Open", "question_type": "Comparison", "question": "在金融業和製造業中，哪一個的固定股利比例較高，並且二者相差多少百分比？", "difficulty": 0.32, "answer": "金融業的固定股利比例較高，兩者相差45%。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片所示的數據，金融業和製造業的固定股利比例比較，哪一個行業的固定股利比例較高？此外，它們的比例相差多少百分比？", "difficulty": 0.37, "choice": ["金融業的固定股利比例較高，但相差只有10%。", "金融業的固定股利比例較低，兩者相差25%。", "金融業的固定股利比例較高，兩者相差45%。", "金融業的固定股利比例較低，兩者相差20%。"], "answer": "C"}
+{"category": "Open", "question_type": "Comparison", "question": "在2024年金融業高股息公司中，股息收益率大於5%的公司數量比小於或等於5%的多多少？", "difficulty": 0.84, "answer": "股息收益率大於5%的公司數量比小於或等於5%的多60家"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "根據圖3的資料，兩個比較的股價波動幅度差是多少？", "difficulty": 0.2, "answer": "20"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，金融業的固定股利比例比製造業高，兩者相差45%。", "question_group": 267, "difficulty": 0.32, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，金融業的固定股利比例比製造業高，兩者相差45%。", "question_group": 267, "difficulty": 0.22, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖3，數值最低的項目是 '比較' 的數值 80。", "question_group": 268, "difficulty": 0.45, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖3，數值最低的項目是 '比較' 的數值 100。", "question_group": 268, "difficulty": 0.57, "answer": "否"}

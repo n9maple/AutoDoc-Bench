@@ -1,0 +1,9 @@
+{"category": "Open", "question_type": "Aggregation", "question": "根據表3的資料，整個月份台幣兌韓圓的平均匯率是多少？", "difficulty": 0.52, "answer": "整個月份台幣兌韓圓的平均匯率是0.023933333333333334"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖4，2023年9月的美元指數呈現上升趨勢。", "question_group": 812, "difficulty": 0.19, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖4，2023年9月的美元指數在整個月內下降。", "question_group": 812, "difficulty": 0.11, "answer": "否"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖1，從月中到月底，台幣兌人民幣的變化率約為0.93%。", "question_group": 813, "difficulty": 0.74, "answer": "是"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖1，從月中到月底，台幣兌人民幣的變化率約為2%。", "question_group": 813, "difficulty": 0.76, "answer": "否"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，從9月初到9月底，開盤價總共上升了0.2。", "question_group": 814, "difficulty": 0.35, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，從9月初到9月底，開盤價總共下降了0.2。", "question_group": 814, "difficulty": 0.75, "answer": "否"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖2，台幣兌日圓匯率從月初的0.217於月底上升至0.22。", "question_group": 816, "difficulty": 0.26, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖2，台幣兌日圓匯率從月初的0.217於月底下降至0.21。", "question_group": 816, "difficulty": 0.17, "answer": "否"}

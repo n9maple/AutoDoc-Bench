@@ -1,0 +1,3 @@
+{"category": "Open", "question_type": "Aggregation", "question": "2023年，有多少百分比的人選擇了非匯款的支付方式？", "difficulty": 0.46, "answer": "13%"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，2023年全台金融機構存款戶數與日盛銀行存款戶數的總和為186。", "question_group": 1015, "difficulty": 0.89, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，2023年全台金融機構存款戶數與日盛銀行存款戶數的總和為180。", "question_group": 1015, "difficulty": 0.33, "answer": "否"}

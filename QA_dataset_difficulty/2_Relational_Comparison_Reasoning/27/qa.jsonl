@@ -1,0 +1,4 @@
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖3，2023年第三季度的儲蓄帳戶利率比第二季度多增加了多少個百分點？", "difficulty": 0.78, "choice": ["0.06個百分點", "0.02個百分點", "0.025個百分點", "0.04個百分點"], "answer": "C"}
+{"category": "Open", "question_type": "Comparison", "question": "在圖3中，2023年第三季度的儲蓄帳戶利率比2023年第二季度多增加多少個百分點？", "difficulty": 0.62, "answer": "0.025個百分點"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖6，持有僅貸款的比例在各類產品中排名第三高。", "question_group": 367, "difficulty": 0.84, "answer": "是"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖6，持有僅貸款的比例在各類產品中排名第二高。", "question_group": 367, "difficulty": 0.33, "answer": "否"}

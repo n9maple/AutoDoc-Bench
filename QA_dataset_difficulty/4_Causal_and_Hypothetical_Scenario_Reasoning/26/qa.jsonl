@@ -1,0 +1,2 @@
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果中國政府債券收益率下降1%，而企業債券收益率上升0.3%，新的差異是多少？", "difficulty": 0.78, "answer": "-0.5%"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據下列情境，若中國政府債券收益率下降1%，而企業債券收益率上升0.3%，新的收益率差異將會是：", "difficulty": 0.28, "choice": ["0.5%", "-0.7%", "-0.3%", "-0.5%"], "answer": "D"}

@@ -1,0 +1,4 @@
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖5，所有指標的公司比例總和可能是以下哪個選項？", "difficulty": 0.52, "choice": ["230", "240", "260", "200"], "answer": "B"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據圖5，所有指標的公司比例總和是多少？", "difficulty": 0.18, "answer": "240"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表6，從2022年到2024年，電子投票系統採用比例的平均值是85%。", "question_group": 1149, "difficulty": 0.56, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表6，2022年到2024年每年的電子投票系統採用比例都是85%。", "question_group": 1149, "difficulty": 0.29, "answer": "否"}

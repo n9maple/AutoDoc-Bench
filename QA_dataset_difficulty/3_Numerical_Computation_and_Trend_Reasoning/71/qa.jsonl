@@ -1,0 +1,6 @@
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表5的資料，如果即時反應滿意度在未來每年提升3%，那麼兩年後的滿意度分數將是多少？以下哪一項是正確的計算結果？", "difficulty": 0.43, "choice": ["93.50", "91.80", "92.65", "94.00"], "answer": "C"}
+{"category": "Open", "question_type": "Aggregation", "question": "依據表1的資料，收到仿冒品的件數佔總件數的百分比是多少？", "difficulty": 0.72, "answer": "收到仿冒品的件數佔總件數的百分比是 25%。"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，收到仿冒品與其他問題的件數總和是600。", "question_group": 1048, "difficulty": 0.75, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，收到仿冒品與其他問題的件數總和是500。", "question_group": 1048, "difficulty": 0.56, "answer": "否"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖4，兩個統計項目的比例的平均值是77.5%。", "question_group": 1050, "difficulty": 0.76, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖4，兩個統計項目的比例的平均值是80%。", "question_group": 1050, "difficulty": 0.78, "answer": "否"}

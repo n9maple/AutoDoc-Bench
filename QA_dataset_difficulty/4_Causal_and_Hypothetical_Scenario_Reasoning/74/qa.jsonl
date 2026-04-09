@@ -1,0 +1,2 @@
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果所有的問卷都收回了，那麼實際問卷回收的份數是多少？", "difficulty": 0.86, "answer": "1,032"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據圖片中的問卷回收總數，實際問卷回收的份數是多少？", "difficulty": 0.43, "choice": ["1,010", "1,200", "1,032", "900"], "answer": "C"}

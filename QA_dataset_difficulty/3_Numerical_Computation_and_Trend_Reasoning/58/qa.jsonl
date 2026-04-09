@@ -1,0 +1,9 @@
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表8的資料，假設2023年的總罰鍰金額為1200，每年固定增加100單位，請問哪一年總罰鍰金額將達到或超過2000？", "difficulty": 0.87, "choice": ["2030", "2031", "2033", "2027"], "answer": "B"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表2的資料，以下哪一項是2022年和2023年即時公告比例的平均值？", "difficulty": 0.66, "choice": ["48.10", "47.85", "46.75", "49.50"], "answer": "B"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表7的資料，以下哪一年法遵宣導會場次和參與人次的總和最大？", "difficulty": 0.21, "choice": ["2022", "2018", "2020", "2023"], "answer": "D"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，從2020年到2023年，A級以上的比例增加了10%。", "question_group": 990, "difficulty": 0.3, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，從2020年到2023年，A級以上的比例增加了15%。", "question_group": 990, "difficulty": 0.73, "answer": "否"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表7，2021年至2023年間法遵宣導會場次的平均值為20。", "question_group": 991, "difficulty": 0.86, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表7，2021年至2023年間法遵宣導會場次的平均值為25。", "question_group": 991, "difficulty": 0.33, "answer": "否"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖2，從2020年到2023年，重大訊息揭露件數的年均增長率約為5.68%。", "question_group": 994, "difficulty": 0.61, "answer": "是"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖2，從2020年到2023年，重大訊息揭露件數的年均增長率約為10%。", "question_group": 994, "difficulty": 0.6, "answer": "否"}

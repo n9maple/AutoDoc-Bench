@@ -1,0 +1,9 @@
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2022年到2023年，哪一種保險的金額增長最多？", "difficulty": 0.44, "answer": "健康醫療險的金額增長最多，增長了2.5億元。"}
+{"category": "Open", "question_type": "Aggregation", "question": "2022年和2023年的定期壽險和年金保險的總金額分別是多少？", "difficulty": 0.71, "answer": "2022年的定期壽險和年金保險總金額是14.7億元；2023年的總金額是16.1億元。"}
+{"category": "Open", "question_type": "Aggregation", "question": "如果將男性30歲和女性30歲的10年期、20年期和30年期數值相加，總和是多少？", "difficulty": 0.77, "answer": "132,096"}
+{"category": "Open", "question_type": "Aggregation", "question": "如果一名30歲男性和一名45歲女性都購買健康醫療險，他們的保費總和是多少？", "difficulty": 0.71, "answer": "16,184"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2022年到2023年，線上理賠申請案件占比增加了多少百分點？", "difficulty": 0.19, "answer": "15百分點"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，2022年和2023年的線上理賠申請案件占比的平均值是34.5。", "question_group": 1029, "difficulty": 0.74, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，2022年和2023年的線上理賠申請案件占比的平均值是34.5。", "question_group": 1029, "difficulty": 0.58, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，30歲男性和45歲女性購買健康醫療險的保費總和是16,184。", "question_group": 1031, "difficulty": 0.51, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，30歲男性和45歲女性購買健康醫療險的保費總和是15,000。", "question_group": 1031, "difficulty": 0.56, "answer": "否"}

@@ -1,0 +1,12 @@
+{"category": "Open", "question_type": "Comparison", "question": "科技的環比增長率是消費品的幾倍？", "difficulty": 0.41, "answer": "4倍"}
+{"category": "Open", "question_type": "Comparison", "question": "建築和水泥的交易量比鋼鐵多多少億？", "difficulty": 0.25, "answer": "建築和水泥的交易量比鋼鐵多500億"}
+{"category": "Open", "question_type": "Comparison", "question": "哪一個品類的交易量環比增長率較高？", "difficulty": 0.9, "answer": "零售"}
+{"category": "Open", "question_type": "Comparison", "question": "在2025年9月期間，哪一個行業的增長率最高？", "difficulty": 0.45, "answer": "科技股的增長率最高，為100%"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的數據，科技的環比增長率是消費品的倍數，請參考圖表來選擇正確的答案。", "difficulty": 0.7, "choice": ["3.5倍", "2倍", "4倍", "6倍"], "answer": "C"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "根據圖1，2025年8月與9月的台股市場總交易量差異是多少？", "difficulty": 0.81, "answer": "由於未提供具體數據，無法計算具體差異。"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖6，數值最高的券商與數值最低的券商的市場份額差距為2.0%。", "question_group": 729, "difficulty": 0.52, "answer": "是"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖6，數值最高的券商與數值最低的券商的市場份額差距為3.0%。", "question_group": 729, "difficulty": 0.76, "answer": "否"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，科技的環比增長率是消費品的4倍。", "question_group": 730, "difficulty": 0.75, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，科技的環比增長率是消費品的3倍。", "question_group": 730, "difficulty": 0.54, "answer": "否"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，科技股和金融股在2025年9月期間的增長率都是最高的，達到80%。", "question_group": 731, "difficulty": 0.94, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，綠色能源在2025年9月期間的增長率是最高的，達到80%。", "question_group": 731, "difficulty": 0.11, "answer": "否"}

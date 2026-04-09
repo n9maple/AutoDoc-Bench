@@ -1,0 +1,7 @@
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2022Q3到2023Q3，房地產貸款的百分比增長了多少百分點？", "difficulty": 0.26, "answer": "2個百分點"}
+{"category": "Open", "question_type": "Aggregation", "question": "2023Q3的房地產貸款和企業貸款的總百分比是多少？", "difficulty": 0.13, "answer": "70%"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從 2022Q3 到 2023Q3，定期存款的增長金額是多少？", "difficulty": 0.73, "answer": "98.5億新台幣"}
+{"category": "Open", "question_type": "Aggregation", "question": "計算2023年外幣資產負債淨敞口的平均值是多少億新台幣？", "difficulty": 0.14, "answer": "4.85億新台幣"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年第三季度的數據，房地產貸款和企業貸款的總百分比為多少？請參考以下圖表。圖表顯示了不同類型貸款的百分比。根據圖表，以下哪個選項正確？", "difficulty": 0.65, "choice": ["60%", "70%", "78%", "72%"], "answer": "B"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表5的資料，2023年第三季度與第四季度的外幣資產負債淨敞口數值變化是？", "difficulty": 0.53, "choice": ["減少", "穩定不變", "輕微減少", "略有減少"], "answer": "A"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表5中的資料，請計算2023年全年外幣資產負債淨敞口的平均值是多少億新台幣？", "difficulty": 0.81, "answer": "4.85億新台幣"}

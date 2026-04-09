@@ -1,0 +1,7 @@
+{"category": "Open", "question_type": "Difference Calculation", "question": "在圖5中，揭露率為92的揭露內容與揭露率為95的揭露內容之間的揭露率差是多少？", "difficulty": 0.13, "answer": "3%"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，2023年董監改選案的數量多於章程修正案。", "question_group": 508, "difficulty": 0.74, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表6，2023年董監改選案的數量多於章程修正案。", "question_group": 508, "difficulty": 0.53, "answer": "是"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖7，進入紀律委員會審議的案件數量是所有程序中最少的。", "question_group": 511, "difficulty": 0.16, "answer": "是"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖7，首次通知後補正的案件數量是所有程序中最少的。", "question_group": 511, "difficulty": 0.55, "answer": "否"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，參與人次與舉辦場次的比率是約55.56，這個比率大於50。", "question_group": 512, "difficulty": 0.37, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，參與人次與舉辦場次的比率是約45，這個比率大於50。", "question_group": 512, "difficulty": 0.11, "answer": "否"}

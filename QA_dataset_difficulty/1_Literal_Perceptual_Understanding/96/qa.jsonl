@@ -1,0 +1,4 @@
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據表6的資料，以下哪一年教育支持的支出與社區發展支出相等？", "difficulty": 0.82, "choice": ["2023年", "2022年", "2021年", "2024年"], "answer": "A"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據表5的資料，下列哪一年大數據與AI應用的投資額達到最高？", "difficulty": 0.92, "choice": ["2025年和2026年", "2022年和2023年", "2024年和2025年", "2023年和2025年"], "answer": "C"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "根據表5的資料，哪一年大數據與AI應用的投資額達到最高？", "difficulty": 0.79, "answer": "2024年和2025年"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "根據表6的資料，在哪一年教育支持的支出與社區發展支出相等？", "difficulty": 0.85, "answer": "2023年、2024年和2025年"}

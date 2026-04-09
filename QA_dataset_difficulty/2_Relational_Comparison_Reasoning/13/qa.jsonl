@@ -1,0 +1,9 @@
+{"category": "Open", "question_type": "Comparison", "question": "在2023年，綠色金融的比例是否比科技製造業高？", "difficulty": 0.27, "answer": "是的，綠色金融的比例比科技製造業高。"}
+{"category": "Open", "question_type": "Comparison", "question": "2023年，利率掉期和貨幣期權的百分比是否相同？", "difficulty": 0.24, "answer": "是的，2023年，利率掉期和貨幣期權的百分比相同，都是30%。"}
+{"category": "Open", "question_type": "Comparison", "question": "哪一級的平均貸款利率最高？", "difficulty": 0.28, "answer": "C級及以下的平均貸款利率最高，為 3.8%"}
+{"category": "Open", "question_type": "Comparison", "question": "如果一個機構的評級從 C級及以下升至 A級，那麼獲得多家金融機構支持的機率增加了多少百分比？", "difficulty": 0.93, "answer": "機率增加了31%。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖1，以下哪一個指標類型的數值最低？", "difficulty": 0.44, "choice": ["指標類型1.5的數值最低", "指標類型1.4的數值最低", "指標類型1.3的數值最低", "指標類型1.6的數值最低"], "answer": "A"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，2023年綠色金融的比例是25%，高於科技製造業的18%。", "question_group": 311, "difficulty": 0.11, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，2023年綠色金融的比例是25%，高於科技製造業的18%。", "question_group": 311, "difficulty": 0.54, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖2，數值最低的項目類別占比是25%。", "question_group": 312, "difficulty": 0.17, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖2，數值最低的項目類別占比是35%。", "question_group": 312, "difficulty": 0.55, "answer": "否"}

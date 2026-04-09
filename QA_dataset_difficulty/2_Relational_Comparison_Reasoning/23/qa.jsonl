@@ -1,0 +1,13 @@
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表4的資料，如果某年最快的入帳時間為3天，則最慢的入帳時間比最快的入帳時間多多少天？", "difficulty": 0.95, "choice": ["3天", "1天", "2天", "5天"], "answer": "B"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖5中提供的數據，2023年度的理賠案件數量與2024年度相比，哪一年較多？", "difficulty": 0.8, "choice": ["根據目前的觀察，理賠案件數量在2023和2024年度幾乎相同，因此無法確定更高的年度。", "根據2023年度的趨勢，理賠案件數量可能會持平，因此無法確定哪一年較多。", "無法確定，因為缺乏具體的數據支持。", "綜合考慮長期數據，2024年度的理賠案件數量有上升的潛力，或許較多。"], "answer": "C"}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖6，哪一個理賠類型的平均理賠金額是最低的？", "difficulty": 0.88, "answer": "理賠類型1的平均理賠金額是最低的，為12300新台幣元。"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "在圖4中，哪個審查措施在2024年的推行情形數值比2023年提高最多？", "difficulty": 0.91, "answer": "AI比對金額與日期異常"}
+{"category": "Open", "question_type": "Ranking", "question": "根據圖4，2023年推行情形數值最低的審查措施是什麼？", "difficulty": 0.81, "answer": "專科醫師小組審查"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖8，目前無法提供2023年和2024年間‘客服專線’的占比差距的確切數值。", "question_group": 344, "difficulty": 0.26, "answer": "是"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖8，2023年和2024年間‘客服專線’的占比差距為10%。", "question_group": 344, "difficulty": 0.57, "answer": "否"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖8，2024年中占比最低的申訴管道是臨櫃申訴。", "question_group": 346, "difficulty": 0.29, "answer": "是"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖8，2024年中占比最低的申訴管道是電話申訴。", "question_group": 346, "difficulty": 0.54, "answer": "否"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，所有審核項目的檢查要點數量都是 3。", "question_group": 347, "difficulty": 0.27, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，某些審核項目的檢查要點數量不同於其他項目。", "question_group": 347, "difficulty": 0.89, "answer": "否"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖5，2023年和2024年的理賠案件數無法確定哪一年最少。", "question_group": 348, "difficulty": 0.91, "answer": "是"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖5，可以清楚確定2023年或2024年其中一年有較少的理賠案件。", "question_group": 348, "difficulty": 0.84, "answer": "否"}

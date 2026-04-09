@@ -1,0 +1,4 @@
+{"category": "Open", "question_type": "Proportion", "question": "在2023年富邦人壽投資資產配置中，股票投資占總投資的百分比是多少？", "difficulty": 0.2, "answer": "25.0%"}
+{"category": "MCQ", "question_type": "Proportion", "question": "根據2023年的資料，富邦人壽的投資資產配置中，圖示顯示股票投資佔總投資的比例是？", "difficulty": 0.13, "choice": ["28.0%", "25.0%", "20.0%", "30.5%"], "answer": "B"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖4，富邦人壽的股票投資佔總投資的比例是25.0%。", "question_group": 222, "difficulty": 0.11, "answer": "是"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖4，富邦人壽的股票投資佔總投資的比例是50.0%。", "question_group": 222, "difficulty": 0.29, "answer": "否"}

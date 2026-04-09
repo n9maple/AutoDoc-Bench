@@ -1,0 +1,11 @@
+{"category": "Open", "question_type": "Comparison", "question": "2024 年和 2025 年中，哪一年良好以上的比例更高，差距是多少百分點？", "difficulty": 0.49, "answer": "2025 年良好以上的比例更高，差距是 15 個百分點。"}
+{"category": "Open", "question_type": "Comparison", "question": "2023年的資訊透明度權重比2019年高出了多少百分點？", "difficulty": 0.58, "answer": "6個百分點"}
+{"category": "Open", "question_type": "Comparison", "question": "2028年與2029年相比，引入數字化工具比例增加了多少百分比？", "difficulty": 0.49, "answer": "引入數字化工具比例增加了10%。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的數據，2024 年和 2025 年中，哪一年良好以上的比例較高？", "difficulty": 0.87, "choice": ["2024 年的良好以上比例高於 2025 年，差距是 10 個百分點。", "2025 年的良好以上比例高於 2024 年，差距是 5 個百分點。", "2025 年良好以上的比例較高，差距是 15 個百分點。", "2024 年良好以上的比例較高，差距是 3 個百分點。"], "answer": "C"}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖4，2029年哪一個指標的數值最低？", "difficulty": 0.52, "answer": "壓力測試頻率"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖2，X公司在透明度方面的得分低於行業平均最多。", "question_group": 704, "difficulty": 0.93, "answer": "是"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖2，X公司在透明度方面的得分高於行業平均。", "question_group": 704, "difficulty": 0.92, "answer": "否"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖1，在2025年股東權益保護評鑑中，'需改善'項目的數值是最低的。", "question_group": 705, "difficulty": 0.2, "answer": "是"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖1，在2025年股東權益保護評鑑中，'需改善'項目的數值是最高的。", "question_group": 705, "difficulty": 0.38, "answer": "否"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，2025 年良好以上的比例比 2024 年高出 15 個百分點。", "question_group": 706, "difficulty": 0.11, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，2025 年良好以上的比例比 2024 年高出 15 個百分點。", "question_group": 706, "difficulty": 0.33, "answer": "是"}

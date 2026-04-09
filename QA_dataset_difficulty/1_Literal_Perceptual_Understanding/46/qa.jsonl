@@ -1,0 +1,6 @@
+{"category": "Open", "question_type": "Fact Lookup", "question": "在1個月的時間範圍內，哪一種貨幣的利率最低？", "difficulty": 0.19, "answer": "日圓"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "在以下幾種貨幣中，根據圖表所示，哪一種貨幣在過去一個月內的利率最低？", "difficulty": 0.25, "choice": ["人民幣", "韓元", "日圓", "美元"], "answer": "C"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "在所有的幣別_存款天期中，哪一個的利率最高？", "difficulty": 0.92, "answer": "由於缺乏具體的利率數據，無法確定哪一個幣別_存款天期的利率最高。"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據提供的利率數據，以下哪一個幣別的存款天期利率可能最高？請根據圖片中的數據進行判斷。", "difficulty": 0.41, "choice": ["無法確定哪一個幣別的存款天期利率最高，因為缺乏具體的利率數據。", "在當前市場中，港元的存款天期利率通常較其他貨幣更具吸引力，應更高。", "英鎊的利率歷史上曾高於其他幣別，但在此情境中無法確認無確切數據。", "美元的存款利率常被認為是基準，但目前缺乏更新的利率數據來支持這一說法。"], "answer": "A"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖1，無法確定哪一個幣別的存款天期利率最高，因為缺乏具體的利率數據。", "question_group": 120, "difficulty": 0.86, "answer": "是"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖1，可以確定某個特定幣別的存款天期利率最高。", "question_group": 120, "difficulty": 0.88, "answer": "否"}

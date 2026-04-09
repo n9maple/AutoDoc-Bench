@@ -1,0 +1,11 @@
+{"category": "Open", "question_type": "Comparison", "question": "紙鈔過度皺摺/沾黏異物和機台自動退回異常鈔券的存款受阻比例差距是多少？", "difficulty": 0.3, "answer": "2.98"}
+{"category": "Open", "question_type": "Comparison", "question": "使用金融卡和免卡存款的百分比差是多少？", "difficulty": 0.25, "answer": "1.2%"}
+{"category": "Open", "question_type": "Comparison", "question": "2023 年的即時入帳比例和首次操作順利完成比例相比，哪一個較高？", "difficulty": 0.22, "answer": "2023 年的即時入帳比例較高。"}
+{"category": "Open", "question_type": "Comparison", "question": "在2023年，現金的使用比例相比金融卡和明細單中較低的那項多幾個百分比？", "difficulty": 0.68, "answer": "-1%"}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖6中的資料，以下哪一項最接近兩個處理階段的百分比差異?", "difficulty": 0.78, "choice": ["4.9%", "4.6%", "3.5%", "7.0%"], "answer": "A"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖3，5分鐘內有效解決的比例與超過5分鐘解決的比例的差異，以下哪一個數據最接近？", "difficulty": 0.86, "choice": ["96.0%", "96.3%", "95.5%", "97.0%"], "answer": "B"}
+{"category": "Open", "question_type": "Comparison", "question": "在圖5中，各退回原因的件數是否有差異？", "difficulty": 0.55, "answer": "各退回原因的件數沒有差異。"}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖2的資料，帳戶號碼輸入錯誤和其他原因的比例差距是多少？", "difficulty": 0.39, "answer": "42.5%"}
+{"category": "Open", "question_type": "Ranking", "question": "在圖2中，哪一個失誤原因的佔比是最低的？", "difficulty": 0.17, "answer": "其他"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，紙鈔過度皺摺或沾黏異物導致的存款受阻比例和機台自動退回異常鈔券的存款受阻比例的差距為2.98。", "question_group": 572, "difficulty": 0.22, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，紙鈔過度皺摺或沾黏異物導致的存款受阻比例和機台自動退回異常鈔券的存款受阻比例的差距為3.5。", "question_group": 572, "difficulty": 0.8, "answer": "否"}

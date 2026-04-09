@@ -1,0 +1,6 @@
+{"category": "Open", "question_type": "Proportion", "question": "中小企業貸款拒絕原因中，擔保品不足所占比例是多少？", "difficulty": 0.22, "answer": "擔保品不足所占比例是 40.0%。"}
+{"category": "Open", "question_type": "Proportion", "question": "在這個餅圖中，哪個類別的了解程度佔總百分比的一半？", "difficulty": 0.71, "answer": "充分了解和不夠了解這兩個類別的了解程度各佔總百分比的一半"}
+{"category": "MCQ", "question_type": "Proportion", "question": "根據相關資料，關於中小企業貸款拒絕的原因，擔保品不足所占的比例可能為以下哪一項？", "difficulty": 0.13, "choice": ["40.0%", "38.5%", "45.0%", "42.0%"], "answer": "A"}
+{"category": "MCQ", "question_type": "Proportion", "question": "根據以下餅圖，哪個類別的了解程度佔總百分比的一半？", "difficulty": 0.39, "choice": ["充分了解和不夠了解這兩個類別的了解程度各佔總百分比的一半", "充分了解和不充分了解合併後佔總百分比的70%", "充分了解和完全不了解這兩個類別的了解程度各佔總百分比的一半", "充分了解和略微了解這兩個類別的了解程度各佔總百分比的一半"], "answer": "A"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖3，擔保品不足在中小企業貸款拒絕原因中所占的比例是 40.0%。", "question_group": 43, "difficulty": 0.3, "answer": "是"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖3，擔保品不足在中小企業貸款拒絕原因中所占的比例是 30.0%。", "question_group": 43, "difficulty": 0.53, "answer": "否"}

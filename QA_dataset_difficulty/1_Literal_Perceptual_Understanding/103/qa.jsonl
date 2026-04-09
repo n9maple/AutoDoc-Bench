@@ -1,0 +1,4 @@
+{"category": "Open", "question_type": "Fact Lookup", "question": "在圖7中，2024Q3的不符合條件的申請比例是多少？", "difficulty": 0.77, "answer": "49%"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "在圖8中，參加人數最多的活動類型的參加人數是多少？", "difficulty": 0.43, "answer": "3000"}
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據圖7，2024Q4是'符合條件'系列申請比例最高的季度。", "question_group": 240, "difficulty": 0.54, "answer": "是"}
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據圖7，2024Q1是'符合條件'系列申請比例最高的季度。", "question_group": 240, "difficulty": 0.31, "answer": "否"}

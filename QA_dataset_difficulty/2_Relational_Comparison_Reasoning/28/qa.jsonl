@@ -1,0 +1,15 @@
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖4中，數值最大的指標與數值最小的指標之間的差是多少？以下哪個選項是正確的？", "difficulty": 0.54, "choice": ["475", "400", "300", "550"], "answer": "A"}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖4的資料，哪一個指標的數值最低？", "difficulty": 0.92, "answer": "指標 25 的數值最低"}
+{"category": "Open", "question_type": "Comparison", "question": "在圖2中，哪個目標的比例較高？", "difficulty": 0.89, "answer": "目標 70 的比例較高。"}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖3，哪一個用途的綠色貸款數量更多，並且多出多少？", "difficulty": 0.82, "answer": "可再生能源項目的綠色貸款數量更多，多出100。"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "在圖4中，數值最大的指標與數值最小的指標之間的差是多少？", "difficulty": 0.86, "answer": "475"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "在圖1中，數值最高的目標和數值最低的目標之間的差距是多少？", "difficulty": 0.89, "answer": "99985"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "在圖7中，數值為5的指標比數值為3的指標高多少？", "difficulty": 0.13, "answer": "2"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖4，數值25是所有項目中最低的。", "question_group": 368, "difficulty": 0.87, "answer": "是"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖4，數值40是所有項目中最低的。", "question_group": 368, "difficulty": 0.11, "answer": "否"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖5，數值最高的指標是數值為15000的指標。", "question_group": 371, "difficulty": 0.47, "answer": "是"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖5，數值最高的指標是數值為50的指標。", "question_group": 371, "difficulty": 0.55, "answer": "否"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖2，2025年台新銀行的環境保護目標中，最高與最低的比例差距為40%。", "question_group": 372, "difficulty": 0.58, "answer": "是"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖2，2025年台新銀行的環境保護目標中，最高與最低的比例差距為20%。", "question_group": 372, "difficulty": 0.79, "answer": "否"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，2025年社會福利預算的百分比比2024年減少。", "question_group": 373, "difficulty": 0.74, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，2025年社會福利預算的百分比與2024年相比增加。", "question_group": 373, "difficulty": 0.19, "answer": "否"}

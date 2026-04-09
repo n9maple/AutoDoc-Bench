@@ -1,0 +1,3 @@
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2022年彭博巴克萊全球綜合債券指數的年度漲跌幅情況，以下哪一選項正確描述其變化？", "difficulty": 0.37, "choice": ["-17%", "-19%", "-16%", "-15%"], "answer": "C"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，2022年TAIEX的最高與最低點價差超過3,000點，且最大波動幅度約為22%。", "question_group": 115, "difficulty": 0.22, "answer": "是"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，2022年TAIEX的最高與最低點價差小於1,000點，且最大波動幅度約為5%。", "question_group": 115, "difficulty": 0.22, "answer": "否"}

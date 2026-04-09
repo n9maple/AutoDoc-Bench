@@ -1,0 +1,4 @@
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "在2023年，如果受年費調整影響的用戶比例增加5%，而達年費減免的用戶比例不變，新的受年費調整影響用戶比例是多少？", "difficulty": 0.62, "answer": "97%"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據2023年的數據，若受年費調整影響的用戶比例增加5%，而達年費減免的用戶比例不變，新的受年費調整影響用戶比例將是多少？", "difficulty": 0.27, "choice": ["99%", "97%", "96%", "94%"], "answer": "B"}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表1，FlyGo卡的附卡增加量最大，增加了200張。", "question_group": 1371, "difficulty": 0.85, "answer": "是"}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表1，@GoGo卡的附卡增加量最大，增加了200張。", "question_group": 1371, "difficulty": 0.55, "answer": "否"}

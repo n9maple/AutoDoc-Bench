@@ -1,0 +1,3 @@
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖4，所有理賠項目的總理賠金額之和可能是多少億元？", "difficulty": 0.89, "choice": ["1200億元", "1250億元", "1150億元", "1350億元"], "answer": "A"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表8，2023到2025年的線上申請普及率總增長是10%。", "question_group": 906, "difficulty": 0.75, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表8，2023到2025年的線上申請普及率總增長是20%。", "question_group": 906, "difficulty": 0.54, "answer": "否"}

@@ -1,0 +1,2 @@
+{"category": "Open", "question_type": "Fact Lookup", "question": "請問南山人壽的健康醫療險費用是多少？", "difficulty": 0.18, "answer": "6,900元"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據南山人壽的健康醫療險資料，以下哪一項是該險種的年費用？", "difficulty": 0.46, "choice": ["6,900元", "6,200元", "7,500元", "6,800元"], "answer": "A"}

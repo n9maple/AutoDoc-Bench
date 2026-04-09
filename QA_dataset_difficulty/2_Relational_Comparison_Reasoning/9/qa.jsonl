@@ -1,0 +1,5 @@
+{"category": "Open", "question_type": "Comparison", "question": "依據表6，假設一家公司在未使用大數據和人工智慧技術時的貸款逾期率和反欺詐檢測準確率分別為12%和50%，使用這些技術後，哪一指標的改善幅度較大？", "difficulty": 0.13, "answer": "反欺詐檢測準確率的改善幅度較大"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，歐付寶在2023年的交易總額是最低的，為800億元。", "question_group": 300, "difficulty": 0.29, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，支付寶在2023年的交易總額是最低的，為2500億元。", "question_group": 300, "difficulty": 0.11, "answer": "否"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，投資理財和保險科技在2023年的數值都是30，是所有類別中最低的。", "question_group": 301, "difficulty": 0.15, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，支付在2023年的數值是所有類別中最低的。", "question_group": 301, "difficulty": 0.49, "answer": "否"}

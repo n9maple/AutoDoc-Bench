@@ -1,0 +1,10 @@
+{"category": "Open", "question_type": "Comparison", "question": "2025 年的市場規模與 2020 年相比，增加了多少倍？", "difficulty": 0.47, "answer": "3.044 倍"}
+{"category": "Open", "question_type": "Comparison", "question": "全球和台灣在系統整合難度上的百分比差距是多少？", "difficulty": 0.28, "answer": "15%"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2020年和2025年的市場規模比較，2025年的市場規模是2020年的多少倍？以下哪一選項是正確的？", "difficulty": 0.43, "choice": ["3.5 倍", "3.044 倍", "2 倍", "4.5 倍"], "answer": "B"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，全球和台灣在系統整合難度上的百分比差距是？", "difficulty": 0.52, "choice": ["18%", "16%", "15%", "14%"], "answer": "C"}
+{"category": "Open", "question_type": "Comparison", "question": "在圖3中，台灣和全球相比，哪一個地區在數據安全風險上所占的百分比更高？", "difficulty": 0.9, "answer": "需要從圖表中擷取具體數據才能確定最終答案。"}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖1，2025年佔全球GDP比例下限和比例上限相比，哪一個值較大？", "difficulty": 0.22, "answer": "2025年佔全球GDP比例上限較大。"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖3，台灣的數據隱私風險百分比低於全球。", "question_group": 336, "difficulty": 0.93, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖3，台灣的數據隱私風險百分比低於全球。", "question_group": 336, "difficulty": 0.29, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，2025年的市場規模是2020年的3.044倍。", "question_group": 337, "difficulty": 0.2, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，2025年的市場規模是2020年的2倍。", "question_group": 337, "difficulty": 0.52, "answer": "否"}

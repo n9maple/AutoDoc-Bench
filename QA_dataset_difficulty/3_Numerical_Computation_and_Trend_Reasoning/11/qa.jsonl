@@ -1,0 +1,10 @@
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表4的資料，以下哪個城市在2023Q1到2023Q4的平均增長率最低？", "difficulty": 0.74, "choice": ["高雄", "新北", "台中", "桃園"], "answer": "A"}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖5，台南在2023年Q1到2023年Q4的需求增長率變化為何？", "difficulty": 0.93, "choice": ["台南的需求增長率變化是1.5%。", "台南的需求增長率變化是1.2%。", "台南的需求增長率在2023年Q1至Q4保持不變。", "台南在2023年Q1的需求增長率為1.7%，雖然在Q4有所下降，但整體變化為1.5%。"], "answer": "A"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖5，2023年Q4在台中的需求增長百分比為3.5%，是全年中最高的。", "question_group": 797, "difficulty": 0.57, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖5，2023年Q1在台中的需求增長百分比為3.5%，是全年中最高的。", "question_group": 797, "difficulty": 0.2, "answer": "否"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖2，2022年至2023年間的租金增長率提高了3個百分點。", "question_group": 798, "difficulty": 0.53, "answer": "是"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖2，2022年至2023年間的租金增長率提高了5個百分點。", "question_group": 798, "difficulty": 0.76, "answer": "否"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖7，2027年新增社會住宅戶數大幅減少至5000，打破了之前的增長趨勢。", "question_group": 799, "difficulty": 0.17, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖7，2027年新增社會住宅戶數達到20000，延續了之前的增長趨勢。", "question_group": 799, "difficulty": 0.53, "answer": "否"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖2，從2022年到2023年，零售空間租金增長率上升了3個百分點。", "question_group": 800, "difficulty": 0.28, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖2，從2022年到2023年，零售空間租金增長率下降了3個百分點。", "question_group": 800, "difficulty": 0.51, "answer": "否"}

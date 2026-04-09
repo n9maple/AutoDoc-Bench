@@ -1,0 +1,12 @@
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2021年到2023年，哪一年『前6%-20%』組的數值增長最多？", "difficulty": 0.15, "answer": "2023"}
+{"category": "Open", "question_type": "Aggregation", "question": "2022年的『前5%』和『前21%-100%』組的數值總和是多少？", "difficulty": 0.63, "answer": "857"}
+{"category": "Open", "question_type": "Aggregation", "question": "2023年中，前5%和前6%-20%的公司總共數量是多少？", "difficulty": 0.55, "answer": "191"}
+{"category": "Open", "question_type": "Aggregation", "question": "在所有產業中，主動揭露永續報告書比例的最小值是多少？", "difficulty": 0.88, "answer": "68"}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖3，從2020年到2023年，以下哪一個指標的變化率最大？", "difficulty": 0.22, "choice": ["男性董事比率的變化率（下降2%）", "女性董事比率的變化率", "電子投票符合率的變化率（增長5%）", "女性投票者的比率變化率（持平於55%）"], "answer": "B"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表5的資料，從2023年到2024年，以下哪一項是外部專才引進數量的增長率？", "difficulty": 0.68, "choice": ["9.50%", "10.23%", "11.85%", "4.75%"], "answer": "B"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖3，從2020年到2023年，女性董事比率有增加的趨勢。", "question_group": 900, "difficulty": 0.11, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖3，從2020年到2023年，女性董事比率有減少的趨勢。", "question_group": 900, "difficulty": 0.11, "answer": "否"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，從2022年到2023年，『前6%-20%』組的數值增長最多，增長量為48。", "question_group": 902, "difficulty": 0.21, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，從2021年到2022年，『前6%-20%』組的數值增長最多，增長量為48。", "question_group": 902, "difficulty": 0.59, "answer": "否"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖3，從2020年到2023年，電子投票參與率增加了10個百分點。", "question_group": 904, "difficulty": 0.71, "answer": "是"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖3，從2020年到2023年，電子投票參與率增加了15個百分點。", "question_group": 904, "difficulty": 0.55, "answer": "否"}

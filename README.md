@@ -49,3 +49,5 @@ Each question-answer pair contains the following fields:
   "choice": ["Option A", "Option B", "Option C", "Option D"],  // Only exists for MCQ category
   "question_group": "number"                // Optional: Question group ID, only exists for YesNo category}
 ```
+
+We also provide the questions with labeled difficulty in `QA_dataset_difficulty` folder. The fields is the same as `QA_dataset` folder, but with an additional field `difficulty`.

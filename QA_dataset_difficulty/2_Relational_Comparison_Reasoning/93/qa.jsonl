@@ -1,0 +1,3 @@
+{"category": "Open", "question_type": "Comparison", "question": "哪一個項目的滿意度評分與使用頻率的平均分數差距最大？", "difficulty": 0.87, "answer": "使用頻率"}
+{"category": "Open", "question_type": "Comparison", "question": "滿意度百分比在78以下的指標類別有多少個？", "difficulty": 0.23, "answer": "2"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據給定的圖片中，滿意度百分比在78以下的指標類別有哪一個選項正確？", "difficulty": 0.21, "choice": ["有兩個指標類別", "只有一個指標類別滿意度在75以下", "有三個指標類別的滿意度在76到78之間", "至少有三個指標類別的滿意度在78以上"], "answer": "A"}

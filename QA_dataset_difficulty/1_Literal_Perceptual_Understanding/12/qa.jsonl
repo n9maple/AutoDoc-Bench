@@ -1,0 +1,5 @@
+{"category": "Open", "question_type": "Peak/Valley", "question": "2023年哪一個季度台灣對中國出口增長率達到最高點？", "difficulty": 0.48, "answer": "2023年Q1"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "哪個板塊的外資增持比例是正值？", "difficulty": 0.13, "answer": "科技板塊"}
+{"category": "MCQ", "question_type": "Peak/Valley", "question": "根據2023年的數據，台灣在以下哪一個季度對中國的出口增長率達到最高點？", "difficulty": 0.82, "choice": ["2023年Q4", "2023年Q3", "2023年Q2", "2023年Q1"], "answer": "D"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據下圖，哪個板塊的外資增持比例為正值？", "difficulty": 0.13, "choice": ["兩個板塊的增持比例相同且皆為0%", "科技板塊", "科技板塊的增持比例為負值", "金融板塊的增持比例為負值"], "answer": "B"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "在圖1中，2023年第三季度的出口增長率是多少？", "difficulty": 0.81, "answer": "2023年第三季度的出口增長率是2%"}

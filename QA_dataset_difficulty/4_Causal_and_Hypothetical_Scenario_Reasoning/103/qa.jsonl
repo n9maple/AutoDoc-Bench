@@ -1,0 +1,2 @@
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，如果法律法規和理賠技術的培訓次數總和增加50%，那麼它們合計的培訓次數將是18。", "question_group": 1507, "difficulty": 0.79, "answer": "是"}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，如果法律法規和理賠技術的培訓次數總和增加50%，那麼它們合計的培訓次數將是15。", "question_group": 1507, "difficulty": 0.92, "answer": "否"}

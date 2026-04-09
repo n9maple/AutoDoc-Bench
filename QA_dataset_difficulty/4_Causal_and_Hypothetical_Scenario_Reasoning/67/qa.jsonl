@@ -1,0 +1,4 @@
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "假設這些數值代表保險費率，若在30年期之後又續保10年，男性30歲的累計總額與女性30歲的累計總額差額是多少？", "difficulty": 0.92, "answer": "3,744"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "一名30歲男性從健康醫療險轉購重大疾病險，保費會增加多少？", "difficulty": 0.6, "answer": "保費會增加5,200。"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果將安泰人壽的終身壽險與健康醫療險的費用相加，它們的總花費會比新光人壽的年金險多多少錢？", "difficulty": 0.94, "answer": "安泰人壽的終身壽險與健康醫療險的總花費比新光人壽的年金險少1,000元"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據下圖顯示的保險費率，若男性30歲在續保10年後的累計總額與女性30歲的累計總額差額為何？", "difficulty": 0.43, "choice": ["3,744", "3,744.50", "4,500", "2,500"], "answer": "A"}

@@ -1,0 +1,14 @@
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表4的資料，比較2022年與2023年的年成長率，哪一年的年成長率更接近2023年的兩倍？", "difficulty": 0.91, "choice": ["2022年成長率接近2023年年成長率的兩倍", "2023年", "2023年成長率為2022年的三分之一", "2023年成長率為2022年的1.5倍"], "answer": "B"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表6的數據，若2023年潛在異常交易事件件數的異常率需要降至0.010，潛在異常交易事件件數需要減少以下哪一個數量？", "difficulty": 0.54, "choice": ["潛在異常交易事件件數需要減少600件。", "潛在異常交易事件件數需要減少700件。", "潛在異常交易事件件數需要減少250件。", "潛在異常交易事件件數需要減少800件。"], "answer": "B"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖4，以下哪一項目擁有最高的數量？", "difficulty": 0.13, "choice": ["項目6", "項目3", "項目2", "項目4"], "answer": "A"}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖1的資料，事件類型之間的事件次數是否有差異？", "difficulty": 0.75, "answer": "事件類型之間的事件次數沒有差異"}
+{"category": "Open", "question_type": "Comparison", "question": "根據表1的資料，哪一年數位金融服務用戶數與數位理財平台活躍用戶數的比例較小？", "difficulty": 0.57, "answer": "2023"}
+{"category": "Open", "question_type": "Comparison", "question": "根據表2的資料，哪一年惡意程式入侵的事件數量佔該年總潛在網路攻擊事件比例較高？", "difficulty": 0.58, "answer": "2023年惡意程式入侵的事件數量佔該年總潛在網路攻擊事件比例較高"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表7，2023年的MITM/假冒頁面資料外洩件數小於人工復核確認異常比率。", "question_group": 352, "difficulty": 0.81, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表7，2023年的MITM/假冒頁面資料外洩件數大於人工復核確認異常比率。", "question_group": 352, "difficulty": 0.55, "answer": "否"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖4，最左邊項目的數值是4。", "question_group": 354, "difficulty": 0.13, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖4，最左邊項目的數值是5。", "question_group": 354, "difficulty": 0.26, "answer": "否"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖3，數值最高和最低的項目之間的差距是57。", "question_group": 355, "difficulty": 0.75, "answer": "是"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖3，數值最高和最低的項目之間的差距是45。", "question_group": 355, "difficulty": 0.55, "answer": "否"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，2022年與2023年相比，數位金融服務用戶數增加了214,290。", "question_group": 357, "difficulty": 0.55, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，2022年與2023年相比，數位金融服務用戶數增加了214,290。", "question_group": 357, "difficulty": 0.91, "answer": "是"}

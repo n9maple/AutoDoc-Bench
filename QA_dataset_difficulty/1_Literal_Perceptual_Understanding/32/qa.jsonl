@@ -1,0 +1,15 @@
+{"category": "Open", "question_type": "Part-to-Whole", "question": "依據2025年第二季臺灣外匯市場主要貨幣對交易量比例，所有交易量比例超過15%的貨幣對有哪些？", "difficulty": 0.53, "answer": "USD/TWD, EUR/TWD"}
+{"category": "Open", "question_type": "Proportion", "question": "在主要貨幣對交易量佔比中，USD/TWD 的比例是多少？", "difficulty": 0.13, "answer": "USD/TWD 的比例是 45.0%"}
+{"category": "Open", "question_type": "Part-to-Whole", "question": "在2025年Q2外匯交易量參與者中，對沖基金和個人投資者的比例之和是多少？", "difficulty": 0.16, "answer": "15.0%"}
+{"category": "MCQ", "question_type": "Part-to-Whole", "question": "根據2025年第二季臺灣外匯市場，哪些貨幣對的交易量比例超過15%？請參考下列選項。", "difficulty": 0.18, "choice": ["GBP/TWD, JPY/TWD", "CNY/TWD, HKD/TWD", "AUD/TWD, NZD/TWD", "USD/TWD, EUR/TWD"], "answer": "D"}
+{"category": "MCQ", "question_type": "Part-to-Whole", "question": "根據2025年Q2外匯交易量的參與者比例，對沖基金和個人投資者的比例之和是多少？請根據提供的圓餅圖資訊回答下列問題。", "difficulty": 0.55, "choice": ["35.0%", "15.0%", "5.0%", "25.0%"], "answer": "B"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "1989年臺灣外匯管制放寬後，臺灣外匯市場結構發生了哪些變化？在2022年的背景下，哪種市場參與者對市場結構影響最大？", "difficulty": 0.23, "answer": "1989年管制放寬促使市場自由化，吸引外國投資進入，至2022年日均交易量達到350億美元。"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "1989年臺灣外匯管制放寬後，臺灣外匯市場結構發生了哪些變化？在2022年的背景下，哪種市場參與者對市場結構影響最大？", "difficulty": 0.23, "choice": ["1989年外匯管制放寬主要提升了市場透明度及數位交易技術的發展。", "1989年後，臺灣外匯市場的效率大幅提升，主要受益於本地銀行的積極參與與市場自動化。", "1989年管制放寬促使本地企業大量參與外匯市場，導致本地企業成為主要驅動力，雖未超過外資的影響。", "1989年管制放寬促使市場自由化，吸引外國投資進入，至2022年日均交易量達到350億美元。"], "answer": "D"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "2025年第二季臺灣外匯市場中，哪一組貨幣對的總交易量佔總交易比例最多？此外，哪些宏觀經濟因素最顯著地影響了這些貨幣對的交易活躍度？", "difficulty": 0.35, "answer": "USD/TWD和EUR/TWD的交易量共佔65%。美元受美國貨幣政策影響，歐元因歐洲經濟復甦和央行政策推動。"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "2025年第二季臺灣外匯市場中，哪一組貨幣對的總交易量佔總交易比例最多？此外，哪些宏觀經濟因素最顯著地影響了這些貨幣對的交易活躍度？", "difficulty": 0.35, "choice": ["USD/TWD和JPY/TWD的交易量共佔60%。美元受美聯儲政策影響，日圓因避險需求增加。", "EUR/TWD和USD/TWD的交易量共佔80%。美元受美聯儲政策及全球市場不確定性推動，歐元因歐洲央行政策而活躍。", "USD/TWD和EUR/TWD的交易量共佔65%。美元受美國貨幣政策影響，歐元因歐洲經濟復甦和央行政策推動。", "USD/TWD的交易量佔全部的50%。美元主要因美國貨幣政策和全球經濟不確定性影響。"], "answer": "C"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "在2025年第二季臺灣外匯市場的情境中，綜合宏觀經濟環境、政策變動及技術進步等因素，哪一組市場改變對銀行間交易量和對沖基金資產規模的波動性及流動性產生了顯著影響？選擇最合適的情境描述。", "difficulty": 0.86, "answer": "央行利率決策引導銀行調整策略，增加交易量，讓波動性增高及流動性提升。對沖基金在這一波動期間，資產規模增長12%，促進市場競爭和流動性。"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "在圖1中，哪一個貨幣對的交易量比例最低？", "difficulty": 0.87, "answer": "CNY/TWD 和 其他"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖2，USD/TWD 的交易量佔比為 45.0%。", "question_group": 85, "difficulty": 0.11, "answer": "是"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖2，USD/TWD 的交易量佔比為 55.0%。", "question_group": 85, "difficulty": 0.33, "answer": "否"}
+{"category": "YesNo", "question_type": "Part-to-Whole", "question": "根據圖1，USD/TWD 和 EUR/TWD 的交易量比例均超過15%。", "question_group": 86, "difficulty": 0.15, "answer": "是"}
+{"category": "YesNo", "question_type": "Part-to-Whole", "question": "根據圖1，JPY/TWD 和 CNY/TWD 的交易量比例均超過15%。", "question_group": 86, "difficulty": 0.19, "answer": "否"}

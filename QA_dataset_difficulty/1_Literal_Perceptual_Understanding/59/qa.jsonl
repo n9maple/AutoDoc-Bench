@@ -1,0 +1,8 @@
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表4，2023年的結案滿意度為89。", "question_group": 144, "difficulty": 0.16, "answer": "是"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表4，2023年的結案滿意度為79。", "question_group": 144, "difficulty": 0.13, "answer": "否"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖3，交易中斷的案件數量占總案件的百分比是20%。", "question_group": 145, "difficulty": 0.84, "answer": "是"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖3，交易中斷的案件數量占總案件的百分比是10%。", "question_group": 145, "difficulty": 0.34, "answer": "否"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖5，2023年ATM申訴案件中，初步查核回覆在三個工作天內的案件佔總案件的85.0%。", "question_group": 147, "difficulty": 0.11, "answer": "是"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖5，2023年ATM申訴案件中，初步查核回覆在三個工作天內的案件佔總案件的75.0%。", "question_group": 147, "difficulty": 0.55, "answer": "否"}
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據圖7，2023年故障類申訴案件滿意度最高的季度是2023Q3。", "question_group": 148, "difficulty": 0.86, "answer": "是"}
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據圖7，2023年故障類申訴案件滿意度最高的季度是2023Q1。", "question_group": 148, "difficulty": 0.17, "answer": "否"}

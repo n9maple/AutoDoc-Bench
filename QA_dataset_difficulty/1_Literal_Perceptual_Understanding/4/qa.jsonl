@@ -1,0 +1,9 @@
+{"category": "Open", "question_type": "Part-to-Whole", "question": "在圖1中，18-24歲與56歲以上的信用卡用戶合計佔總用戶的百分比是多少？", "difficulty": 0.19, "answer": "20.0%"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，富邦銀行信用卡用戶的消費中，零售和餐飲合計佔比為63%，顯示中高程度的消費集中。", "question_group": 15, "difficulty": 0.33, "answer": "是"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，旅遊消費佔比超過50%，顯示極高的消費集中。", "question_group": 15, "difficulty": 0.11, "answer": "否"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖3，不到30,000的消費額比例是25.0%。", "question_group": 16, "difficulty": 0.27, "answer": "是"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖3，不到30,000的消費額比例是50.0%。", "question_group": 16, "difficulty": 0.11, "answer": "否"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖2，博士學歷在富邦銀行信用卡用戶中所占的比例為5.0%。", "question_group": 17, "difficulty": 0.15, "answer": "是"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖2，博士學歷在富邦銀行信用卡用戶中所占的比例為10.0%。", "question_group": 17, "difficulty": 0.51, "answer": "否"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，特定商家折扣（以餐飲與旅遊為主）促銷活動的交易額增長超過30%，是三類促銷中增幅最大的。", "question_group": 21, "difficulty": 0.32, "answer": "是"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，現金回饋活動的消費總額增幅超過特定商家折扣的交易額增幅。", "question_group": 21, "difficulty": 0.29, "answer": "否"}

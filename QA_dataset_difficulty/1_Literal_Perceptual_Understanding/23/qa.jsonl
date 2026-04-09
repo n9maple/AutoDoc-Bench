@@ -1,0 +1,4 @@
+{"category": "Open", "question_type": "Fact Lookup", "question": "根據表1的資料，哪一年臨櫃服務的申請案件最少？", "difficulty": 0.26, "answer": "2024年"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "在圖2中，2023年的平均審核天數是多少？", "difficulty": 0.91, "answer": "2023年的平均審核天數為X天。"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表6，支票郵寄比例是最低的。", "question_group": 66, "difficulty": 0.48, "answer": "是"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表6，郵局匯款比例是最低的。", "question_group": 66, "difficulty": 0.92, "answer": "否"}

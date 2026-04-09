@@ -1,0 +1,9 @@
+{"category": "Open", "question_type": "Comparison", "question": "2023 年的批准率比 2022 年提高了多少百分比？", "difficulty": 0.43, "answer": "5%"}
+{"category": "Open", "question_type": "Comparison", "question": "2022年商業類與住宅類的價值相比，哪一類的價值較高？", "difficulty": 0.41, "answer": "2022年商業類的價值較高。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的數據，批准率相較於2022年提高了多少百分比？請依據提供的數據選擇正確的答案。", "difficulty": 0.63, "choice": ["7%", "12%", "2%", "5%"], "answer": "D"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2022年的資料，哪一類的價值在商業類與住宅類的比較中較高？", "difficulty": 0.25, "choice": ["在某些城市，商業類的價值相比住宅類更高，顯示出市場差異。", "商業類和住宅類的價值相似，主要受市場需求影響而變化。", "商業類的價值較高於某些高價住宅類，但整體仍然較低。", "商業類的價值較高。"], "answer": "D"}
+{"category": "Open", "question_type": "Comparison", "question": "哪一年不動產抵押貸款市場規模最小？", "difficulty": 0.27, "answer": "2022年"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖5，數值最高的指標是 85，最低的指標是 75，它們之間的差距是 10。", "question_group": 736, "difficulty": 0.43, "answer": "是"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖5，數值最高的指標是 90，最低的指標是 70，它們之間的差距是 15。", "question_group": 736, "difficulty": 0.34, "answer": "否"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，2023 年的批准率比 2022 年提高了 5%。", "question_group": 737, "difficulty": 0.54, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，2023 年的批准率比 2022 年提高了 10%。", "question_group": 737, "difficulty": 0.52, "answer": "否"}

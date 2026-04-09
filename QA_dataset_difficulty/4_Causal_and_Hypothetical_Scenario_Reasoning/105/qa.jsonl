@@ -1,0 +1,2 @@
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果數位行銷活動的效果調整次數增加至3次，假設每次調整ROI增長率將提高5%，那麼新的ROI增長率會是多少？", "difficulty": 0.51, "answer": "25%"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "在一個數位行銷活動中，如果調整次數增加至3次，每次調整預計可將ROI增長率提高5%。根據此情境，調整後的ROI增長率可能會是多少？", "difficulty": 0.84, "choice": ["20%", "15%", "25%", "30%"], "answer": "C"}

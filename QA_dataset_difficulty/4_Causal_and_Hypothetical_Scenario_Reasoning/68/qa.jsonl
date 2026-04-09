@@ -1,0 +1,2 @@
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果金融卡操作佔比提高 3%，那麼它會達到多少百分比？", "difficulty": 0.65, "answer": "95%"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表2的資料，若機台自動退回異常鈔券的情況下，若異常鈔券總數為 2000 張，則異常鈔券退回錯誤的次數為多少？以下哪個選項最符合這一結果？", "difficulty": 0.79, "choice": ["2 次", "8 次", "0.4 次", "6 次"], "answer": "C"}

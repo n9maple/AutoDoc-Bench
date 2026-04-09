@@ -1,0 +1,2 @@
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "若我們想知道台北市和新北市的18-35歲和50歲以上兩個年齡層所佔比例的總和是多少，可以如何計算？", "difficulty": 0.51, "answer": "65%"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據提供的圖片，若要計算台北市和新北市的18-35歲及50歲以上兩個年齡層所佔比例的總和，以下哪個選項最接近正確答案？", "difficulty": 0.54, "choice": ["52%", "75%", "65%", "80%"], "answer": "C"}

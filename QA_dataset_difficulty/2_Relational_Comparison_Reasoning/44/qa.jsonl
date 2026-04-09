@@ -1,0 +1,7 @@
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖3，以下哪個指標的落差較小？", "difficulty": 0.13, "choice": ["指標50的落差較大。", "指標33.5的落差較小。", "指標40的落差較大。", "所有指標的落差明顯不同。"], "answer": "B"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表4的資料，2022年美國10年期公債年初殖利率與年末殖利率相比，哪一個較高，且可能影響債券市場的原因是什麼？", "difficulty": 0.13, "choice": ["2022年美國10年期公債年末殖利率較低，這可能會導致投資者對債券市場的信心增加。", "2022年美國10年期公債年末殖利率較高，這可能導致債券價格下降。", "年初殖利率較高表示央行可能會加息，這與年末殖利率無直接關聯，因此不影響債券價格。", "年末殖利率較高可能與經濟增長預期有關，因此債券市場可能也不會受到影響。"], "answer": "B"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表6，標的價值是每口保證金的多少倍？以下哪一個選項是正確的？", "difficulty": 0.17, "choice": ["16.67", "14.50", "20.00", "10.00"], "answer": "A"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表2的資料，在2022年和2023年中，以下哪一年的台指期貨最大單日漲幅與最大單日跌幅的變化幅度更大？", "difficulty": 0.88, "choice": ["2022年漲幅較小且跌幅較大，因此變化幅度較小", "2023年因為交易日數量更高，所以漲幅應該更大", "2023年", "2023年經歷了較大的市場波動，導致漲跌幅變化明顯"], "answer": "C"}
+{"category": "Open", "question_type": "Comparison", "question": "根據表5的資料，比較2023年和2023-10月的台指期貨單日最大結算損益倍數，哪一段時間的損益倍數更高，並計算其增加或減少的百分比？", "difficulty": 0.85, "answer": "2023年的損益倍數更高，2023-10月的損益倍數相比減少了5.26%。"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表8，從2022年到2023年，講座參與人數年成長率增加了27個百分點，適合性評估參與比例增加了6個百分點。", "question_group": 439, "difficulty": 0.81, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表8，從2022年到2023年，講座參與人數年成長率增加了15個百分點，適合性評估參與比例增加了10個百分點。", "question_group": 439, "difficulty": 0.34, "answer": "否"}

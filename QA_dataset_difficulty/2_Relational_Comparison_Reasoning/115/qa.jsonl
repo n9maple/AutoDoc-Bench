@@ -1,0 +1,12 @@
+{"category": "Open", "question_type": "Comparison", "question": "在酒店預訂和機票預訂中，哪一個的信用卡使用率更高？", "difficulty": 0.61, "answer": "酒店預訂和機票預訂的信用卡使用率相同，都是75%。"}
+{"category": "Open", "question_type": "Comparison", "question": "哪個年齡段在醫療保健和超市購物中的使用率差距最大？", "difficulty": 0.83, "answer": "45-60"}
+{"category": "Open", "question_type": "Comparison", "question": "相比於促銷活動貢獻率，總消費額增長率高了多少百分點？", "difficulty": 0.26, "answer": "總消費額增長率比促銷活動貢獻率高5個百分點。"}
+{"category": "Open", "question_type": "Comparison", "question": "哪種回饋在旅遊支出方面的偏好比例最高？", "difficulty": 0.41, "answer": "積分返還在旅遊支出方面的偏好比例最高，為65%。"}
+{"category": "Open", "question_type": "Comparison", "question": "在社交媒體平台和手機應用程式中，哪一個的消費者參與增長率更高，並且高了多少百分點？", "difficulty": 0.3, "answer": "手機應用程式的消費者參與增長率更高，高了5個百分點。"}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖4，關於2024Q2與2025Q2的消費比例差異，以下哪個選項是正確的？", "difficulty": 0.53, "choice": ["2025Q2的消費比例應該是2024Q2的基準上升了50%，因此能夠計算出差異。", "無法計算2024Q2與2025Q2的消費比例差異，因為缺少具體數據。", "根據2024年的整體消費數據來推測2025Q2的消費比例，可以推算出大概的差異。", "2024Q2的消費比例與2025Q2的消費比例存在顯著的差異，從而需要進一步分析。"], "answer": "B"}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據圖3，以下哪個選項正確按消費類別的使用增長率從低到高的排序？", "difficulty": 0.19, "choice": ["40%, 30%, 75%, 65%", "30%, 40%, 65%, 75%", "30%, 75%, 40%, 65%", "75%, 65%, 40%, 30%"], "answer": "B"}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖5，哪一種活動類型的效果指標數值最低？", "difficulty": 0.87, "answer": "大型購物平台限時優惠"}
+{"category": "Open", "question_type": "Comparison", "question": "根據表3的資料，2025Q2的總消費額增長率減去促銷活動貢獻率的結果是多少百分比？", "difficulty": 0.13, "answer": "5%"}
+{"category": "Open", "question_type": "Comparison", "question": "根據表4的資料，現金回饋和積分返還在旅遊支出偏好的比例差異是多少個百分點？", "difficulty": 0.29, "answer": "30個百分點"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，積分返還在旅遊支出方面的偏好比例最高，為65%。", "question_group": 756, "difficulty": 0.56, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，現金回饋在旅遊支出方面的偏好比例最高，為35%。", "question_group": 756, "difficulty": 0.29, "answer": "否"}

@@ -1,0 +1,11 @@
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2018年到2023年，普及率增加了多少個百分點？", "difficulty": 0.13, "answer": "30個百分點"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2023年到2025年，哪一年增加投資的比例成長最快？", "difficulty": 0.54, "answer": "2024年"}
+{"category": "Open", "question_type": "Aggregation", "question": "在2023年，研發補助和創新創業資金的總和是多少？", "difficulty": 0.48, "answer": "新台幣10億元"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據圖表，從2018年到2023年，普及率的變化是多少個百分點？", "difficulty": 0.28, "choice": ["50個百分點", "30個百分點", "25個百分點", "30個基點"], "answer": "B"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據圖4，所有技術類型的用戶滿意度的平均值是多少？", "difficulty": 0.24, "answer": "85%"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，從2018年到2023年，普及率的變化是30個百分點。", "question_group": 1157, "difficulty": 0.11, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，從2018年到2023年，普及率的變化是25個百分點。", "question_group": 1157, "difficulty": 0.86, "answer": "否"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，2023年研發補助和創新創業資金的總和是新台幣10億元。", "question_group": 1158, "difficulty": 0.87, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，2023年研發補助和創新創業資金的總和是新台幣8億元。", "question_group": 1158, "difficulty": 0.73, "answer": "否"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖2，2023年到2025年間，台灣金融科技公司數量的成長率是25%。", "question_group": 1159, "difficulty": 0.59, "answer": "是"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖2，2023年到2025年間，台灣金融科技公司數量的成長率是10%。", "question_group": 1159, "difficulty": 0.52, "answer": "否"}

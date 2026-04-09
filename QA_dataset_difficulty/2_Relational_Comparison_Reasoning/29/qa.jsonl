@@ -1,0 +1,2 @@
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖6，無法確定具體的期貨品種排序，因為未提供具體的成交量數據。", "question_group": 376, "difficulty": 0.85, "answer": "是"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖6，可以確定所有期貨品種的具體排序，因為提供了詳盡的成交量數據。", "question_group": 376, "difficulty": 0.17, "answer": "否"}

@@ -1,0 +1,10 @@
+{"category": "Open", "question_type": "Comparison", "question": "2023年的合規性得分和客戶滿意度哪一個較高？", "difficulty": 0.16, "answer": "2023年的合規性得分較高。"}
+{"category": "Open", "question_type": "Comparison", "question": "2023年，亞洲和北美的數值相差多少？", "difficulty": 0.79, "answer": "30"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，2023年的合規性得分和客戶滿意度哪一個較高？", "difficulty": 0.26, "choice": ["2023年的合規性得分較高。", "2023年的合規性得分較低，因為它未滿足預期。", "2023年的合規性得分高於客戶滿意度的整體表現。", "2023年的合規性得分較高，但客戶滿意度無法達到基準。"], "answer": "A"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據所提供的數據圖，2023年亞洲和北美的數值相差多少？", "difficulty": 0.61, "choice": ["20", "30", "15", "50"], "answer": "B"}
+{"category": "Open", "question_type": "Comparison", "question": "根據表4的資料，亞洲和北美的數值之和與歐洲數值相比，哪一個更大？", "difficulty": 0.39, "answer": "亞洲和北美的數值之和比歐洲的數值大。"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "在圖3中，指標7.5的收益率比指標6.2高多少百分比？", "difficulty": 0.49, "answer": "指標7.5的收益率比指標6.2高出1.3個百分比。"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖4，指標 10 的百分比是 10%，因此它的百分比較低。", "question_group": 686, "difficulty": 0.68, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖4，指標 15 的百分比比指標 10 更低。", "question_group": 686, "difficulty": 0.18, "answer": "否"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖4，第2個指標的數值是最低的。", "question_group": 687, "difficulty": 0.47, "answer": "是"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖4，第1個指標的數值是最低的。", "question_group": 687, "difficulty": 0.14, "answer": "否"}

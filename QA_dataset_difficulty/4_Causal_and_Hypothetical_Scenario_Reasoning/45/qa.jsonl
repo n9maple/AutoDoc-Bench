@@ -1,0 +1,6 @@
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果一般案件和高複雜度案件各有 5 件需要審查，那麼總共需要多少個工作天才能完成這些案件的審查？", "difficulty": 0.54, "answer": "125"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "若單筆撥款的平均申請至撥款天數增加0.5天，這會等於哪一個撥款類型的原始平均申請至撥款天數？", "difficulty": 0.65, "answer": "循環性授信"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據圖片中顯示的工作效率和審查要求，如果一般案件和高複雜度案件各有 5 件需要審查，總共需要多少個工作天才能完成這些案件的審查？", "difficulty": 0.25, "choice": ["100", "180", "60", "125"], "answer": "D"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "若單筆撥款的平均申請至撥款天數增加0.5天，這會等於哪一個撥款類型的原始平均申請至撥款天數？(請參考以下選項)", "difficulty": 0.69, "choice": ["綜合性授信", "信用卡授信", "循環性授信", "一次性授信"], "answer": "C"}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，如果一般案件和高複雜度案件各有 5 件需要審查，總共需要 125 個工作天才能完成這些案件的審查。", "question_group": 1351, "difficulty": 0.83, "answer": "是"}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，如果一般案件和高複雜度案件各有 5 件需要審查，總共需要 100 個工作天才能完成這些案件的審查。", "question_group": 1351, "difficulty": 0.41, "answer": "否"}

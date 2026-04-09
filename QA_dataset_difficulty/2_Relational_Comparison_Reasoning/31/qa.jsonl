@@ -1,0 +1,13 @@
+{"category": "Open", "question_type": "Comparison", "question": "哪個項目的預計社會資本投入是最低的？", "difficulty": 0.28, "answer": "農村金融基礎設施"}
+{"category": "Open", "question_type": "Comparison", "question": "2019年和2020年之間，蔬菜的百分比是增加還是減少？懸殊是多少？", "difficulty": 0.41, "answer": "蔬菜的百分比從2019年到2020年增加了1%。"}
+{"category": "Open", "question_type": "Comparison", "question": "啟動後第1年到啟動後第3年，偏遠地區和城市地區的比例增幅的差異是多少？", "difficulty": 0.72, "answer": "2%"}
+{"category": "Open", "question_type": "Comparison", "question": "啟動後第5年新就業機會的數量是啟動前的多少倍？", "difficulty": 0.62, "answer": "未定義（因為除以零）"}
+{"category": "Open", "question_type": "Comparison", "question": "啟動後第3年的農藥使用減少百分比比啟動後第1年多了多少？", "difficulty": 0.45, "answer": "啟動後第3年的農藥使用減少百分比比啟動後第1年多了4%。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片顯示，2019年和2020年之間，蔬菜的百分比變化是什麼？", "difficulty": 0.27, "choice": ["蔬菜的百分比在2019年到2020年增加了2%。", "蔬菜的百分比在2019年到2020年增加了1%。", "蔬菜的百分比在2019年到2020年保持不變。", "蔬菜的百分比在2019年到2020年增加了3%。"], "answer": "B"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖3，以下哪一種農產品的單位產出提升最低？", "difficulty": 0.27, "choice": ["對應於1000的農產品", "對應於850的農產品", "對應於920的農產品", "對應於950的農產品"], "answer": "C"}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖5，哪個指標的目標最小？", "difficulty": 0.92, "answer": "指標 20 的目標最小"}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖1，在2024年，農業產值占GDP比例和農業從業人員占全國勞動力比例，哪一個比例較高？", "difficulty": 0.67, "answer": "在2024年，農業產值占GDP比例 (2.0%) 較高。"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，啟動後第3年的農藥使用減少百分比比啟動後第1年增加了4%。", "question_group": 381, "difficulty": 0.56, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表5，啟動後第3年的農藥使用減少百分比比啟動後第1年增加了2%。", "question_group": 381, "difficulty": 0.87, "answer": "否"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖5，最高和最低指標的目標數值差距是49980。", "question_group": 382, "difficulty": 0.52, "answer": "是"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖5，最高和最低指標的目標數值差距是300。", "question_group": 382, "difficulty": 0.33, "answer": "否"}

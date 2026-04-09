@@ -1,0 +1,11 @@
+{"category": "Open", "question_type": "Comparison", "question": "如果加密技術和雙因素身份驗證的風險降低效果相同，哪一項技術的檢測率提高更大？", "difficulty": 0.2, "answer": "加密技術的檢測率提高更大。"}
+{"category": "Open", "question_type": "Comparison", "question": "如果中介費用降低和匯率成本降低的百分比總和超過40%，哪些技術符合這個條件？", "difficulty": 0.74, "answer": "沒有技術符合中介費用降低和匯率成本降低的百分比總和超過40%的條件。"}
+{"category": "Open", "question_type": "Comparison", "question": "智能合約的交易時間縮短和整體效率提高的百分比相加後，和國際合作的相同數值相加後相比，哪一個更高？", "difficulty": 0.49, "answer": "智能合約的數值相加後更高"}
+{"category": "Open", "question_type": "Comparison", "question": "使用率增長的使用次數是功能優化的多少倍？", "difficulty": 0.29, "answer": "2.5 倍"}
+{"category": "Open", "question_type": "Comparison", "question": "2025 年的安全和合規投資增長率比 2023 年高多少百分比？", "difficulty": 0.31, "answer": "2025 年的增長率比 2023 年高 15%"}
+{"category": "Open", "question_type": "Ranking", "question": "根據圖2，支付成本增加百分比的市場從低到高排名是什麼？", "difficulty": 0.93, "answer": "市場 0.5, 市場 2"}
+{"category": "Open", "question_type": "Ranking", "question": "根據圖4的資料，哪個指標的百分比是第二高的？", "difficulty": 0.76, "answer": "指標 75"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖2，市場 1 的支付成本增加百分比是 2%，市場 2 的支付成本增加百分比是 0.5%，因此兩者之間的差距是 1.5%。", "question_group": 389, "difficulty": 0.34, "answer": "是"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖2，市場 1 的支付成本增加百分比是 3%，市場 2 的支付成本增加百分比是 0.5%，因此兩者之間的差距是 2.5%。", "question_group": 389, "difficulty": 0.79, "answer": "否"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖2，市場 0.5 的支付成本增加百分比是最低的。", "question_group": 392, "difficulty": 0.73, "answer": "是"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖2，市場 2 的支付成本增加百分比是最低的。", "question_group": 392, "difficulty": 0.77, "answer": "否"}

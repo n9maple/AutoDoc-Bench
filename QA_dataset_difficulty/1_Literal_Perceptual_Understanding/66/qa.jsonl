@@ -1,0 +1,17 @@
+{"category": "Open", "question_type": "Fact Lookup", "question": "從2023-01到2023-12，哪一個月的活期存款帳戶查詢次數最高？", "difficulty": 0.46, "answer": "2023-07的活期存款帳戶查詢次數最高，為340000"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "2023年中，哪個月份的總通知數最高？", "difficulty": 0.31, "answer": "2023-12 月的總通知數最高，為 43800。"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "請問批次轉帳的使用率是多少？", "difficulty": 0.13, "answer": "批次轉帳的使用率是 64"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據下圖，2023年哪一個月的活期存款帳戶查詢次數居首？", "difficulty": 0.28, "choice": ["2023年8月的查詢次數達到310000次", "2023年7月的查詢次數達到340000次", "2023年6月的查詢次數達到250000次", "2023年4月的查詢次數達到300000次"], "answer": "B"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2023年的資料，以下哪個月份的總通知數最高？", "difficulty": 0.13, "choice": ["2023年的所有月份通知數相同，均為45000，這是不太可能的情況。", "2023年11月的總通知數為44000，為所有月份中第二高。", "2023年10月的總通知數為38000，並非最高，但未來可能有改善的空間。", "2023年12月的總通知數為43800，為所有月份中最高。"], "answer": "D"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據以下數據，批次轉帳的使用率是多少？圖表顯示各類轉帳方式的使用率，其中批次轉帳的部分為64%。", "difficulty": 0.13, "choice": ["56%", "60%", "65%", "64%"], "answer": "D"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "最左邊的效益指標幅度是多少？", "difficulty": 0.13, "answer": "40%"}
+{"category": "Open", "question_type": "Peak/Valley", "question": "從2023年1月到2023年12月，哪一個異常行為的通報數量在12月份達到最高峰？", "difficulty": 0.69, "answer": "異常登入"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖片中，最左邊的效益指標幅度是多少？", "difficulty": 0.15, "choice": ["35%", "42%", "39%", "40%"], "answer": "D"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "根據表2的資料，2023年1月至12月中，哪幾個月的總查詢次數超過570000次？", "difficulty": 0.91, "answer": "2023-03, 2023-07, 2023-11"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "根據表4的資料，從2023年1月至2023年12月，哪個月份的繳費交易筆數最多？", "difficulty": 0.35, "answer": "2023-12 月份的繳費交易筆數最多，為 47,300 筆。"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表2，2023年7月的活期存款帳戶查詢次數達到340000次，是全年最高的。", "question_group": 182, "difficulty": 0.86, "answer": "是"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表2，2023年8月的活期存款帳戶查詢次數達到350000次，是全年最高的。", "question_group": 182, "difficulty": 0.56, "answer": "否"}
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據圖4，從2023年1月到2023年12月，異常登入的通報數量在12月份達到最高峰。", "question_group": 183, "difficulty": 0.72, "answer": "是"}
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據圖4，從2023年1月到2023年12月，異地存取的通報數量在12月份達到最高峰。", "question_group": 183, "difficulty": 0.88, "answer": "否"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表3，2023年12月的總通知數為43800，為所有月份中最高。", "question_group": 185, "difficulty": 0.48, "answer": "是"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表3，2023年6月的總通知數為43800，為所有月份中最高。", "question_group": 185, "difficulty": 0.54, "answer": "否"}

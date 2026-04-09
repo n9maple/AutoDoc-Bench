@@ -1,0 +1,11 @@
+{"category": "Open", "question_type": "Comparison", "question": "2023年貸款資金百分比和帶動經濟增長率之間的差異是多少？", "difficulty": 0.61, "answer": "28.5%"}
+{"category": "Open", "question_type": "Comparison", "question": "哪一項的提高至比例更高，能源使用效率還是再生能源使用比例？", "difficulty": 0.59, "answer": "能源使用效率"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的數據，貸款資金百分比與經濟增長率之間的差異為何？請參考相關圖表來回答。", "difficulty": 0.7, "choice": ["29.8%", "27.5%", "31.2%", "28.5%"], "answer": "D"}
+{"category": "MCQ", "question_type": "Comparison", "question": "在下列情況中，哪一項的提高至比例更高？請參考附圖中的數據。", "difficulty": 0.13, "choice": ["碳排放指數的波動與能源使用效率無直接相關", "再生能源比例在短期內可能不會顯著增加，受到政策限制", "水資源使用量相對穩定，通常會受到氣候條件影響", "能源使用效率"], "answer": "D"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表2的資料，教育領域和健康領域的捐贈金額相加與緊急救援領域的捐贈金額相比，哪一者的數值更高？", "difficulty": 0.13, "choice": ["教育領域的捐贈金額低於緊急救援領域", "健康領域的捐贈金額與緊急救援領域相等", "教育與健康兩個領域的捐贈金額相加仍低於任何一個領域", "教育領域和健康領域的捐贈金額相加的數值更高"], "answer": "D"}
+{"category": "Open", "question_type": "Comparison", "question": "在圖3中，哪個指標的數值較低？", "difficulty": 0.87, "answer": "指標5000的數值較低。"}
+{"category": "Open", "question_type": "Comparison", "question": "根據表2的資料，教育領域和健康領域的捐贈金額相加與緊急救援領域的捐贈金額相比，哪一者的數值更高？", "difficulty": 0.13, "answer": "教育領域和健康領域的捐贈金額相加的數值更高"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "在圖1中，第二個項目的數值與第三個項目的數值差距是多少？", "difficulty": 0.42, "answer": "15"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "根據圖4，兩個指標的百分比差異是多少？", "difficulty": 0.67, "answer": "兩個指標的百分比差異是7%。"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖2，最高數值與最低數值之間的差距是27。", "question_group": 289, "difficulty": 0.75, "answer": "是"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖2，最高數值與最低數值之間的差距是33。", "question_group": 289, "difficulty": 0.55, "answer": "否"}

@@ -1,0 +1,8 @@
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表7的資料，行動分行服務、臨時卡片方案和免除補卡手續費的百分比之和在2023年為196%。那麼行動分行服務和臨時卡片方案的百分比之和是以下哪一個選項？", "difficulty": 0.5, "choice": ["176%", "190%", "194%", "182%"], "answer": "D"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據圖2的資料，各改善方向對應措施數量的總和是多少？", "difficulty": 0.56, "answer": "25"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖7，2023年第四季度所有類型的ATM申訴案件滿意度平均值為90。", "question_group": 996, "difficulty": 0.54, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖7，2023年第四季度所有類型的ATM申訴案件滿意度平均值為85。", "question_group": 996, "difficulty": 0.3, "answer": "否"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，申訴資料不全或資訊錯誤案件的比例與人為錯誤於資料不全案件佔比的總和是78%。", "question_group": 998, "difficulty": 0.72, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，申訴資料不全或資訊錯誤案件的比例與人為錯誤於資料不全案件佔比的總和是68%。", "question_group": 998, "difficulty": 0.6, "answer": "否"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，2023 年中所有通訊方式的總數是 100。", "question_group": 999, "difficulty": 0.7, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，2023 年中所有通訊方式的總數是 100。", "question_group": 999, "difficulty": 0.51, "answer": "是"}

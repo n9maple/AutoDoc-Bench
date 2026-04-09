@@ -1,0 +1,8 @@
+{"category": "Open", "question_type": "Comparison", "question": "昨天與今天相比，櫃買指數的成交金額減少了多少？", "difficulty": 0.27, "answer": "60億元"}
+{"category": "Open", "question_type": "Comparison", "question": "塑化的成交比重與生技醫療相比，哪個較高？", "difficulty": 0.26, "answer": "塑化的成交比重較高"}
+{"category": "Open", "question_type": "Comparison", "question": "哪一家公司在投信買賣超中表現最佳？", "difficulty": 0.56, "answer": "合一"}
+{"category": "Open", "question_type": "Comparison", "question": "2024年5月電子零組件產值增幅與資通訊設備產值增幅相比，哪一項增幅較大？", "difficulty": 0.18, "answer": "電子零組件產值增幅較大"}
+{"category": "Open", "question_type": "Comparison", "question": "在2024年6月，外資的資金流出與自營商的資金流入相比，哪一方的金額更大？", "difficulty": 0.3, "answer": "外資的資金流出金額更大"}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖5，哪一個股市指數的漲跌幅最低？", "difficulty": 0.9, "answer": "-0.7"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖6，數值最高的項目是28500，最低的項目是-1200，它們之間的差距是29700。", "question_group": 582, "difficulty": 0.29, "answer": "是"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖6，數值最高的項目是28500，最低的項目是320，它們之間的差距是29700。", "question_group": 582, "difficulty": 0.68, "answer": "否"}

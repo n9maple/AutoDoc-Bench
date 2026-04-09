@@ -1,0 +1,4 @@
+{"category": "Open", "question_type": "Aggregation", "question": "總體、亞洲和拉丁美洲的收益率的平均值是多少？", "difficulty": 0.68, "answer": "7.7333%"}
+{"category": "Open", "question_type": "Aggregation", "question": "現金及等價物和高流動性資產的百分比總和是多少？", "difficulty": 0.21, "answer": "10%"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的數據，總體、亞洲和拉丁美洲的收益率的平均值為何？", "difficulty": 0.13, "choice": ["8.9000%", "7.9500%", "7.7333%", "6.8500%"], "answer": "C"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的財務報告，現金及等價物和高流動性資產的百分比總和是多少？", "difficulty": 0.27, "choice": ["10%", "9%", "14%", "11%"], "answer": "A"}

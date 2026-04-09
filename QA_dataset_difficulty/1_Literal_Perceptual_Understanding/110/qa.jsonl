@@ -1,0 +1,9 @@
+{"category": "Open", "question_type": "Fact Lookup", "question": "在2022年借款人還款能力審核結果中，符合要求的數量是多少？", "difficulty": 0.88, "answer": "符合要求的數量是85"}
+{"category": "Open", "question_type": "Part-to-Whole", "question": "2022年借款人還款能力審核結果中，符合要求的人數是總人數的幾成？", "difficulty": 0.24, "answer": "符合要求的人數是總人數的8.5成"}
+{"category": "Open", "question_type": "Proportion", "question": "2022年貸款申請者中選擇混合型利率的比例是多少？", "difficulty": 0.13, "answer": "15.0%"}
+{"category": "MCQ", "question_type": "Part-to-Whole", "question": "根據2022年借款人還款能力審核結果，以下哪一項描述符合要求的人數是總人數的百分比？", "difficulty": 0.2, "choice": ["符合要求的人數是總人數的75%", "符合要求的人數是總人數的80%", "符合要求的人數是總人數的85%", "符合要求的人數是總人數的88%"], "answer": "C"}
+{"category": "MCQ", "question_type": "Proportion", "question": "在2022年貸款申請者中，混合型利率的選擇比例是？請根據以下資料作答。", "difficulty": 0.13, "choice": ["10.0%", "25.0%", "20.0%", "15.0%"], "answer": "D"}
+{"category": "YesNo", "question_type": "Part-to-Whole", "question": "根據圖3，符合要求的人數是總人數的85%。", "question_group": 245, "difficulty": 0.11, "answer": "是"}
+{"category": "YesNo", "question_type": "Part-to-Whole", "question": "根據圖3，符合要求的人數是總人數的70%。", "question_group": 245, "difficulty": 0.73, "answer": "否"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖4，2022年貸款申請者中選擇混合型利率的比例是15.0%。", "question_group": 246, "difficulty": 0.11, "answer": "是"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖4，2022年貸款申請者中選擇混合型利率的比例是10.0%。", "question_group": 246, "difficulty": 0.18, "answer": "否"}

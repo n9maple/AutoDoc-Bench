@@ -1,0 +1,9 @@
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表4的資料，下列哪一項是上月和本週的PMI值平均值？", "difficulty": 0.84, "choice": ["52.00", "50.5", "50.75", "51.15"], "answer": "D"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表3的資料，2023年8月到10月的貿易順差總和是多少？以下哪一項是正確的總和？", "difficulty": 0.82, "choice": ["72", "74", "78", "70"], "answer": "A"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表7的資料，2023年Q1的數值和Q4的數值的平均值可能是以下哪個選項？", "difficulty": 0.84, "choice": ["1.95億美元", "1.85億美元", "2.00億美元", "1.92億美元"], "answer": "A"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表7的資料，2023年Q1的數值和Q4的數值的平均值是多少？", "difficulty": 0.62, "answer": "1.95億美元"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表5的資料，將對中國、東南亞、美國和歐洲的出口額合計起來，這些出口額佔總出口額的百分比是多少？", "difficulty": 0.8, "answer": "100%"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖2，台灣的外匯存底從2023年8月至2023年10月，每月減少約10億美元。", "question_group": 1173, "difficulty": 0.76, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖2，台灣的外匯存底從2023年8月至2023年10月，每月增加約10億美元。", "question_group": 1173, "difficulty": 0.6, "answer": "否"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，週一到週五的開盤價中，最高開盤價與最低開盤價之差為0.3。", "question_group": 1174, "difficulty": 0.31, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，週一到週五的開盤價中，最高開盤價與最低開盤價之差為0.5。", "question_group": 1174, "difficulty": 0.71, "answer": "否"}

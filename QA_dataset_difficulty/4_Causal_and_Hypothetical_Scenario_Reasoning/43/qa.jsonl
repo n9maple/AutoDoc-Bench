@@ -1,0 +1,3 @@
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表6的資料，如果初審通過的貸款案件數占總貸款案件數的比例增加了10%，而取得信用保證比率保持不變，那麼新的取得信用保證的貸款案件數應該是？", "difficulty": 0.66, "choice": ["1077", "1250", "900", "1130"], "answer": "A"}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表2，2022年每位服務農民獲得的平均金融貸款餘額是0.015。", "question_group": 1338, "difficulty": 0.85, "answer": "是"}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表2，2022年每位服務農民獲得的平均金融貸款餘額是0.015。", "question_group": 1338, "difficulty": 0.55, "answer": "是"}

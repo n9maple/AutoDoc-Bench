@@ -1,0 +1,2 @@
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表2，電子期貨的成交量增幅是20%。", "question_group": 82, "difficulty": 0.11, "answer": "是"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表2，電子期貨的成交量增幅是15%。", "question_group": 82, "difficulty": 0.32, "answer": "否"}

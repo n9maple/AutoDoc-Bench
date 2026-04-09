@@ -1,0 +1,6 @@
+{"category": "Open", "question_type": "Comparison", "question": "P2P貸款平台和眾籌平台中，哪個類型的受惠企業數相同？", "difficulty": 0.24, "answer": "P2P貸款平台和眾籌平台的受惠企業數相同。"}
+{"category": "Open", "question_type": "Comparison", "question": "哪一項措施在提高參與意願方面的增幅最小？", "difficulty": 0.52, "answer": "提高資訊透明度"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下列情境，P2P貸款平台和眾籌平台中，哪個類型的受惠企業數量可能相同？", "difficulty": 0.51, "choice": ["P2P貸款平台的受惠企業數量一般較眾籌平台高，但在特定行業中可能相似。", "眾籌平台的受惠企業數量一般較P2P貸款平台多，但在某些情況下可能相同。", "受惠企業的數量可能受多種因素影響，因此不能簡單比較P2P貸款與眾籌平台的情況。", "P2P貸款平台和眾籌平台的受惠企業數量相同。"], "answer": "D"}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖1，比例最高的指標和最低的指標之間的差異是多少？以下哪一個選項是正確的？", "difficulty": 0.17, "choice": ["57", "30", "80", "48"], "answer": "A"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，提高資訊透明度在提高參與意願方面的增幅為25%，是最小的。", "question_group": 316, "difficulty": 0.53, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，簡化申請程序在提高參與意願方面的增幅低於提高資訊透明度。", "question_group": 316, "difficulty": 0.33, "answer": "否"}

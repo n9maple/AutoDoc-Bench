@@ -1,0 +1,6 @@
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖1，從2023年至2027年，全球線上貸款市場規模的年均增長率有何變化？", "difficulty": 0.56, "choice": ["全球線上貸款市場規模的年均增長率在2023年至2027年期間變化不大，持平在8%。", "全球線上貸款市場規模年均增長率在2023至2027年呈現大幅波動，每年有不同的增長幅度。", "全球線上貸款市場規模的年均增長率將在2023年至2027年間穩定在5%。", "全球線上貸款市場規模的年均增長率始終保持在15%。"], "answer": "D"}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖1，從2023年至2027年，全球線上貸款市場規模的年均增長率是否有變化？", "difficulty": 0.41, "answer": "從2023年至2027年，全球線上貸款市場規模的年均增長率沒有變化，始終保持在15%。"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表7，新興市場擁有更多的合作夥伴關係。", "question_group": 665, "difficulty": 0.71, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表7，亞太地區擁有更多的合作夥伴關係。", "question_group": 665, "difficulty": 0.73, "answer": "否"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，2023年的FirstWealth財富為50億美元，較2022年的38.46億美元高。", "question_group": 667, "difficulty": 0.11, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，2022年的FirstWealth財富為50億美元，較2023年高。", "question_group": 667, "difficulty": 0.16, "answer": "否"}

@@ -1,0 +1,8 @@
+{"category": "Open", "question_type": "Aggregation", "question": "全年申請件數超過40萬件，若線上申請比例為65%，那麼線上申請的件數約是多少？", "difficulty": 0.22, "answer": "約260,000件"}
+{"category": "Open", "question_type": "Aggregation", "question": "2023年的所得稅扣繳憑單和報稅憑證的總和是多少百分比？", "difficulty": 0.92, "answer": "3.4%"}
+{"category": "Open", "question_type": "Aggregation", "question": "平均每張玫瑰Giving卡和FlyGo卡的平均月消費金額各是多少？", "difficulty": 0.87, "answer": "玫瑰Giving卡每張卡的平均月消費金額約為169.35，FlyGo卡每張卡的平均月消費金額約為375.00。"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "全年申請件數超過40萬件，若線上申請比例為65%，請根據下列選項選出線上申請的件數約是多少？", "difficulty": 0.49, "choice": ["約80,000件", "約450,000件", "約260,000件", "約240,000件"], "answer": "C"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年的所得稅計算，所得稅扣繳憑單和報稅憑證的總和可能是以下哪一個百分比？請參考相關資料做出選擇。", "difficulty": 0.69, "choice": ["4.5%", "3.4%", "3.7%", "4.0%"], "answer": "B"}
+{"category": "Open", "question_type": "Aggregation", "question": "在圖1中，所有審核階段的不通過件數總和是多少？", "difficulty": 0.25, "answer": "1"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖1，所有審核階段的不通過件數總和為1。", "question_group": 899, "difficulty": 0.51, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖1，所有審核階段的不通過件數總和為3。", "question_group": 899, "difficulty": 0.74, "answer": "否"}

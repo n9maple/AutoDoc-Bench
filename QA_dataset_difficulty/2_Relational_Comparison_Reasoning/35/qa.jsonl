@@ -1,0 +1,11 @@
+{"category": "Open", "question_type": "Comparison", "question": "哪一種保險的續保率是最高的？", "difficulty": 0.18, "answer": "傳統壽險的續保率是最高的，為90%"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片所示的數據，下列哪一年第二季度的同比增長率更高，並且差異是多少？", "difficulty": 0.13, "choice": ["2023年第二季度的同比增長率的差異是3%。", "2024年第二季度的同比增長率為0%，差異是1.5%。", "2025年第二季度的同比增長率更高，差異是1.5%。", "2025年第二季度的同比增長率的差異是3%。"], "answer": "C"}
+{"category": "Open", "question_type": "Comparison", "question": "在2025年Q2壽險產品市場中，健康險的市場佔比是傳統壽險的多少倍？", "difficulty": 0.29, "answer": "0.25"}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖4，2024Q2與2025Q2健康險的續保率差異為何？請選擇正確的選項。", "difficulty": 0.19, "choice": ["Y% - (0.5 * X%)的差異", "Y% + X%的總和", "Y% - X%的差異", "Y% - (X% - 5%)的差異"], "answer": "C"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖1，投資型壽險與傳統壽險之間的市場佔比差異是多少？", "difficulty": 0.88, "choice": ["5.5%", "10.0%", "8.0%", "7.5%"], "answer": "C"}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據圖3，2024Q2中，新增保單數量最多的保險類型是哪一種？以下選項中哪一項是正確的？", "difficulty": 0.16, "choice": ["壽險", "意外險", "健康險", "車險"], "answer": "C"}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖6，哪個產品類別的增長率最低？", "difficulty": 0.81, "answer": "增長率最低的產品類別是3.0%"}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖1，投資型壽險與傳統壽險的市場佔比差是多少？", "difficulty": 0.3, "answer": "8.0%"}
+{"category": "Open", "question_type": "Comparison", "question": "在圖3中，2024Q2和2025Q2相比，投資型壽險的新增保單數量是增長還是減少？", "difficulty": 0.9, "answer": "需要從圖表中擷取具體數據才能確定增長或減少。"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，傳統壽險的市場佔比超過了健康險與儲蓄型壽險的總和。", "question_group": 394, "difficulty": 0.54, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，傳統壽險的市場佔比超過了健康險與儲蓄型壽險的總和。", "question_group": 394, "difficulty": 0.71, "answer": "是"}

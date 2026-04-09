@@ -1,0 +1,13 @@
+{"category": "Open", "question_type": "Fact Lookup", "question": "2023年全國銀行總存款金額是多少？", "difficulty": 0.61, "answer": "42.5"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2023年的數據，以下哪一項最接近全國銀行的總存款金額？", "difficulty": 0.14, "choice": ["44.0", "42.5", "39.0", "43.0"], "answer": "B"}
+{"category": "Open", "question_type": "Proportion", "question": "日盛銀行存款戶保險金額分布中，501-1000萬金額所佔的百分比是多少？", "difficulty": 0.91, "answer": "2.1%"}
+{"category": "Open", "question_type": "Part-to-Whole", "question": "日盛銀行存款戶保險金額分布中，哪兩個金額範圍的百分比加起來正好超過90%？", "difficulty": 0.22, "answer": "0-100萬和101-300萬"}
+{"category": "Open", "question_type": "Proportion", "question": "在台灣存款戶存款金額區間分布中，超過300萬元的存款戶數量比例是多少？", "difficulty": 0.59, "answer": "2.0%"}
+{"category": "MCQ", "question_type": "Proportion", "question": "根據日盛銀行存款戶保險金額分布，501-1000萬金額所佔的百分比為何？", "difficulty": 0.66, "choice": ["2.1%", "1.8%", "2.7%", "2.3%"], "answer": "A"}
+{"category": "MCQ", "question_type": "Part-to-Whole", "question": "根據日盛銀行存款戶保險金額分布，哪兩個金額範圍的百分比加起來超過90%？請根據以下選項進行選擇。", "difficulty": 0.24, "choice": ["101-200萬和301-500萬", "100-200萬和201-500萬", "0-200萬和301-400萬", "0-100萬和101-300萬"], "answer": "D"}
+{"category": "MCQ", "question_type": "Proportion", "question": "在台灣的存款戶中，有關各存款區間的比較，超過300萬元的存款戶數量比例可能是？", "difficulty": 0.7, "choice": ["2.0%", "1.0%", "3.0%", "8.0%"], "answer": "A"}
+{"category": "MCQ", "question_type": "Proportion", "question": "根據圖3，關於超過300萬元的存款戶佔總存款戶的百分比，以下哪一項是正確的？", "difficulty": 0.8, "choice": ["超過300萬元的存款戶佔總存款戶的百分比是5.0%。", "超過300萬元的存款戶佔總存款戶的百分比是2.0%。", "超過300萬元的存款戶佔總存款戶的百分比是1.5%。", "超過300萬元的存款戶佔總存款戶的百分比是15.0%。"], "answer": "B"}
+{"category": "YesNo", "question_type": "Part-to-Whole", "question": "根據圖1，0-100萬和101-300萬的存款戶百分比加起來超過90%。", "question_group": 162, "difficulty": 0.2, "answer": "是"}
+{"category": "YesNo", "question_type": "Part-to-Whole", "question": "根據圖1，301-500萬和501-1000萬的存款戶百分比加起來超過90%。", "question_group": 162, "difficulty": 0.18, "answer": "否"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖3，超過300萬元的存款戶數量比例是2.0%。", "question_group": 163, "difficulty": 0.51, "answer": "是"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖3，未達300萬元的存款戶比例是50%。", "question_group": 163, "difficulty": 0.46, "answer": "否"}

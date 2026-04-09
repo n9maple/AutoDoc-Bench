@@ -1,0 +1,4 @@
+{"category": "Open", "question_type": "Peak/Valley", "question": "台灣加權指數的最低點出現在何時？", "difficulty": 0.7, "answer": "台灣加權指數的最低點出現在月中，指數為16800"}
+{"category": "MCQ", "question_type": "Peak/Valley", "question": "根據下圖，台灣加權指數的最低點出現在何時？", "difficulty": 0.7, "choice": ["最低點出現在月初，指數為16900", "最低點出現在月中，指數為16700", "最低點出現在月中，指數為16800", "最低點出現在月底，指數為16600"], "answer": "C"}
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據圖1，台灣加權指數的最低點出現在月中，指數為16800。", "question_group": 234, "difficulty": 0.7, "answer": "是"}
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據圖1，台灣加權指數的最低點出現在月底，指數為17500。", "question_group": 234, "difficulty": 0.17, "answer": "否"}

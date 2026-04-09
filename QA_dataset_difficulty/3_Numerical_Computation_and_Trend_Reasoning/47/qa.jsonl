@@ -1,0 +1,8 @@
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖8，以下哪一項是所有稽核指標的數值平均值？", "difficulty": 0.27, "choice": ["64.3", "66.0", "65.2", "63.0"], "answer": "A"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表7的資料，從2022年到2023年，平均稽核報告審閱時效減少了多少百分比？以下哪一項是正確的答案？", "difficulty": 0.86, "choice": ["50%", "70%", "55%", "65%"], "answer": "A"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表1的資料，計算2021年和2023年企業法人客戶的平均數量是多少？", "difficulty": 0.47, "answer": "400"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表5的資料，發現異常案件中，有多少百分比的案件是通報主管機關並調查的？", "difficulty": 0.52, "answer": "13.64%"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖1，從2020年到2023年，資金信託占比呈現上升趨勢。", "question_group": 946, "difficulty": 0.11, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖1，從2020年到2023年，資金信託占比呈現下降趨勢。", "question_group": 946, "difficulty": 0.11, "answer": "否"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，2023 年高風險客戶案件數與未通過資格認定案件數的總和是 155。", "question_group": 948, "difficulty": 0.69, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，2023 年高風險客戶案件數與未通過資格認定案件數的總和是 160。", "question_group": 948, "difficulty": 0.55, "answer": "否"}

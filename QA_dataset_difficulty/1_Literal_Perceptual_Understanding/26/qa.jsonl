@@ -1,0 +1,5 @@
+{"category": "Open", "question_type": "Proportion", "question": "非投資級在債券信用評級分布中所佔的百分比是多少？", "difficulty": 0.13, "answer": "非投資級在債券信用評級分布中所佔的百分比是15.0%。"}
+{"category": "MCQ", "question_type": "Proportion", "question": "根據下面提供的債券信用評級分布圖，非投資級債券所佔的百分比是？", "difficulty": 0.13, "choice": ["25.0%", "15.0%", "18.0%", "10.0%"], "answer": "B"}
+{"category": "MCQ", "question_type": "Proportion", "question": "根據圖3，非投資級債券佔總數的比例為何？", "difficulty": 0.15, "choice": ["30.0%", "15.0%", "5.0%", "12.0%"], "answer": "B"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖3，非投資級債券所佔的百分比是15.0%。", "question_group": 72, "difficulty": 0.11, "answer": "是"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖3，非投資級債券所佔的百分比是20.0%。", "question_group": 72, "difficulty": 0.2, "answer": "否"}

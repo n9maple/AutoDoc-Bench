@@ -1,0 +1,2 @@
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，公司A和公司B的現金股利和股票股利總和的差異是0%。", "question_group": 1294, "difficulty": 0.71, "answer": "是"}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，公司A和公司B的現金股利和股票股利總和的差異是1%。", "question_group": 1294, "difficulty": 0.77, "answer": "否"}

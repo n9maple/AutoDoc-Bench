@@ -1,0 +1,11 @@
+{"category": "Open", "question_type": "Comparison", "question": "從2024-07-01前到2024-07-01起，人民幣、港幣與澳幣的價格分別增加了多少新臺幣？", "difficulty": 0.19, "answer": "人民幣、港幣與澳幣的價格分別增加了新臺幣60元。"}
+{"category": "Open", "question_type": "Comparison", "question": "在主要幣別與其他幣別之間，哪一種費用在10萬元以下的情況下較高？", "difficulty": 0.28, "answer": "其他幣別的費用在10萬元以下的情況下較高。"}
+{"category": "Open", "question_type": "Comparison", "question": "相比於調整前，調整後手續費增加最多的是哪些貨幣？", "difficulty": 0.47, "answer": "人民幣、港幣、澳幣、新加坡幣、英鎊、加幣、瑞士法郎"}
+{"category": "Open", "question_type": "Comparison", "question": "2024年7月1日及以後，人民幣的價格比美元高多少？", "difficulty": 0.27, "answer": "30元"}
+{"category": "Open", "question_type": "Comparison", "question": "2023年中，哪種客服渠道的使用數量是Facebook的兩倍以上？", "difficulty": 0.85, "answer": "分行現場和網站/APP"}
+{"category": "Open", "question_type": "Comparison", "question": "根據表2的資料，兌換30萬元的主要幣別與25萬元的其他幣別相比，手續費相差多少？", "difficulty": 0.8, "answer": "30元"}
+{"category": "Open", "question_type": "Comparison", "question": "根據表5的資料，將Facebook和Email的數值相加，然後與客服專線相加的結果相比，哪一個比較大？", "difficulty": 0.64, "answer": "Facebook和Email的總和比較大"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "根據圖3的數據，手續費為180新台幣元的幣別數量是手續費為150新台幣元的多少倍？", "difficulty": 0.78, "answer": "2.33倍"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "在圖1中，範例交易金額為50萬的手續費比範例交易金額為35萬的手續費多多少？", "difficulty": 0.91, "answer": "範例交易金額為50萬的手續費比範例交易金額為35萬的手續費多多少"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，2024年7月1日及以後，人民幣的價格比美元高30元。", "question_group": 597, "difficulty": 0.86, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表4，2024年7月1日及以後，人民幣的價格比美元高50元。", "question_group": 597, "difficulty": 0.33, "answer": "否"}

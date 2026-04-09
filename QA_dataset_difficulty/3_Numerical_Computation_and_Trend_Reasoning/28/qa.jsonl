@@ -1,0 +1,3 @@
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖2的資料，以下哪一項代表兩個目標的比例總和？", "difficulty": 0.78, "choice": ["50%", "100%", "180%", "300%"], "answer": "B"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖1，所有目標的數值總和是多少？以下選項中哪一個是正確的？", "difficulty": 0.92, "choice": ["100150", "99950", "100000", "100095"], "answer": "D"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表2的資料，2025年三種清潔能源的總發電收入是多少億元？", "difficulty": 0.32, "answer": "2025年三種清潔能源的總發電收入為200億元"}

@@ -1,0 +1,10 @@
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表3的資料，下列哪一家公司在現金股利方面表現最佳？", "difficulty": 0.87, "choice": ["公司A在現金股利方面的表現好於公司B", "公司D的現金股利支付率高於公司B", "公司B", "公司C在現金股利方面的表現優於公司A和公司B"], "answer": "C"}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖5，實施比例最低的計劃項目與最高的計劃項目之間的差是多少？以下哪個選項是正確的？", "difficulty": 0.74, "choice": ["21%", "24%", "20%", "19%"], "answer": "C"}
+{"category": "Open", "question_type": "Comparison", "question": "在圖8中，哪一個措施類型的公司比例最低？", "difficulty": 0.85, "answer": "措施類型: 60"}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖6，增加獨立董事的公司和未增加的公司之間的比例是否相同？", "difficulty": 0.24, "answer": "增加獨立董事的公司和未增加的公司之間的比例是相同的。"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖8，60%的措施類型公司比例是最低的。", "question_group": 360, "difficulty": 0.85, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖8，80%的措施類型公司比例是最低的。", "question_group": 360, "difficulty": 0.22, "answer": "否"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，公司C的股票股利為3.2%，比其現金股利2.8%多，差額是0.4%。", "question_group": 361, "difficulty": 0.27, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，公司A的股票股利為3.0%，比其現金股利2.0%多，差額是1.0%。", "question_group": 361, "difficulty": 0.72, "answer": "否"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖7，未增加研發支出的公司數量排名第一。", "question_group": 363, "difficulty": 0.59, "answer": "是"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖7，增加研發支出的公司數量排名第一。", "question_group": 363, "difficulty": 0.3, "answer": "否"}

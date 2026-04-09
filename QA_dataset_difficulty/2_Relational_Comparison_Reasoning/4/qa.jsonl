@@ -1,0 +1,15 @@
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖2，高中及以下學歷用戶的數量與博士學歷用戶的數量之間的差異為多少？", "difficulty": 0.66, "choice": ["15", "10", "14", "16"], "answer": "A"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表3的資料，以下哪一個類別的平均單筆交易額最接近餐飲類別的兩倍？", "difficulty": 0.92, "choice": ["旅遊", "娛樂", "零售", "醫療"], "answer": "C"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖5的顯示，以下哪一年份的行動支付使用率較高？", "difficulty": 0.62, "choice": ["39年（使用率20%）", "38年（使用率10%）", "41年（使用率25%）", "40年"], "answer": "D"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表6的資料，假設餐飲行業的初始交易數量為50次，旅遊行業的初始交易數量為40次，經過增長一年後，以下哪一個行業的最終交易數量較高？", "difficulty": 0.41, "choice": ["餐飲行業的最終交易數量為55次。", "旅遊行業的最終交易數量為65次。", "餐飲行業的最終交易數量為67.5次。", "餐飲行業的最終交易數量為70次。"], "answer": "C"}
+{"category": "Open", "question_type": "Comparison", "question": "根據表5，哪一項優惠的使用次數增長率最高，並且該項優惠的增長率比最低的多多少百分比？", "difficulty": 0.35, "answer": "使用次數增長率最高的是『特定商家折扣』，該項優惠的增長率比最低的多10%。"}
+{"category": "Open", "question_type": "Comparison", "question": "根據表7，整體滿意度的非常滿意比例和促銷活動的滿意比例相差多少個百分點？", "difficulty": 0.91, "answer": "30"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "在圖6中，最高和最低指標的滿意度差異是多少百分點？", "difficulty": 0.26, "answer": "10百分點"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖7，用戶類型 9 的月均使用次數最低。", "question_group": 280, "difficulty": 0.9, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖7，用戶類型 5 的月均使用次數最低。", "question_group": 280, "difficulty": 0.52, "answer": "否"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖2，本科學歷用戶的比例比高中及以下學歷用戶高15.0%。", "question_group": 281, "difficulty": 0.28, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖2，本科學歷用戶的比例比高中及以下學歷用戶高5.0%。", "question_group": 281, "difficulty": 0.91, "answer": "否"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表7，不滿意級別的產品設計評分高於問題解決效率的評分。", "question_group": 282, "difficulty": 0.77, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表7，滿意級別的產品設計評分高於問題解決效率的評分。", "question_group": 282, "difficulty": 0.54, "answer": "否"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，年齡段56以上的用戶比例與年齡段18-24的用戶比例相同。", "question_group": 283, "difficulty": 0.73, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，年齡段56以上的用戶比例明顯低於年齡段18-24的用戶比例。", "question_group": 283, "difficulty": 0.93, "answer": "否"}

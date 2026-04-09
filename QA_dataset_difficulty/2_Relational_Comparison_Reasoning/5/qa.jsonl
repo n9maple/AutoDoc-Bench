@@ -1,0 +1,9 @@
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖5，以下哪一個選項正確表示兩個培訓類型的參與人數相差的數字？", "difficulty": 0.82, "choice": ["600", "500", "700", "400"], "answer": "B"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖3，指標為750的數值相較於其他指標的情況是怎樣的？", "difficulty": 0.78, "choice": ["指標為750的數值在所有指標中是最低的。", "指標為750的數值相較於其他指標是低的。", "指標為750的數值顯示出行業的一個常見水準，但不是最佳選擇。", "指標為750的數值在一些指標中與其他指標持平。"], "answer": "B"}
+{"category": "Open", "question_type": "Comparison", "question": "在圖6中，是否有任意兩個策略類別的具體行動數量是相同的？", "difficulty": 0.13, "answer": "是，任意兩個策略類別的具體行動數量是相同的。"}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖1，數值較高的指標是多少？", "difficulty": 0.8, "answer": "200000000"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "根據圖4的資料，指標5和指標7的次數差是多少？", "difficulty": 0.45, "answer": "2"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "根據圖5，兩個培訓類型的參與人數相差多少？", "difficulty": 0.2, "answer": "500"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "根據圖2，兩個活動指標的交易數量差異是多少？", "difficulty": 0.76, "answer": "999250"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖3，數值最低的指標位於第2個數據點。", "question_group": 286, "difficulty": 0.73, "answer": "是"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖3，數值最低的指標位於第1個數據點。", "question_group": 286, "difficulty": 0.27, "answer": "否"}

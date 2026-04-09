@@ -1,0 +1,4 @@
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖1，2023年保險業消費者申訴案件中契約解釋的比例為30.0%。", "question_group": 109, "difficulty": 0.11, "answer": "是"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖1，2023年保險業消費者申訴案件中契約解釋的比例為50.0%。", "question_group": 109, "difficulty": 0.17, "answer": "否"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖5，2023年消費者爭議案件中，理賠爭議所占的比例是48.0%。", "question_group": 110, "difficulty": 0.17, "answer": "是"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖5，2023年消費者爭議案件中，理賠爭議所占的比例是58.0%。", "question_group": 110, "difficulty": 0.52, "answer": "否"}

@@ -1,0 +1,9 @@
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2022年到2023年，個人投資者占比增加了多少個百分點？", "difficulty": 0.13, "answer": "8個百分點"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2022年到2023年，外資機構的交易量占比增加了多少百分點？", "difficulty": 0.17, "answer": "外資機構的交易量占比從2022年到2023年增加了5個百分點。"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據下圖，從2022年到2023年，個人投資者的占比變化了多少？", "difficulty": 0.41, "choice": ["保持穩定", "8個百分點", "上升了2個百分點", "下降了3個百分點"], "answer": "B"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據下圖，外資機構的交易量占比在2022年與2023年之間的變化顯示了多少百分點的增加？", "difficulty": 0.37, "choice": ["沒有變化", "10個百分點", "5個百分點", "2個百分點"], "answer": "C"}
+{"category": "Open", "question_type": "Aggregation", "question": "所有產品類型增長百分比的總和是多少?", "difficulty": 0.95, "answer": "66"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表2的資料，如果未來每種期貨的增長率每年增加2%，則在兩年後，哪一種期貨的增長率會是最高的？", "difficulty": 0.3, "choice": ["石油期貨（假設其增長率為10%）", "ESG相關期貨", "虛擬貨幣期貨（假設其增長率為7%）", "金屬期貨（假設其增長率為5%）"], "answer": "B"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖1，以下哪些產品類型的增長百分比最低？這些產品類型的增長百分比總和是多少？", "difficulty": 0.89, "choice": ["增長百分比最低的產品類型只有一個，且其增長百分比是1。", "增長百分比最低的產品類型有兩個，且它們的增長百分比總和為-4%。", "增長百分比最低的產品類型有三個，且它們的增長百分比總和為0。", "增長百分比最低的產品類型有兩個，且它們的增長百分比總和是0。"], "answer": "D"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表4，外資機構的交易量占比從2022年到2023年增加了5個百分點。", "question_group": 788, "difficulty": 0.11, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表4，外資機構的交易量占比從2022年到2023年增加了10個百分點。", "question_group": 788, "difficulty": 0.75, "answer": "否"}

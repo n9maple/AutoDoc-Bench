@@ -1,0 +1,3 @@
+{"category": "Open", "question_type": "Fact Lookup", "question": "根據圖6，決議細項中件數超過1000的有多少項？", "difficulty": 0.47, "answer": "3"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖7，在2023年違規處理程序案件中，進入紀律委員會審議的比例是15.2%。", "question_group": 142, "difficulty": 0.17, "answer": "是"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖7，在2023年違規處理程序案件中，進入紀律委員會審議的比例是25%。", "question_group": 142, "difficulty": 0.19, "answer": "否"}

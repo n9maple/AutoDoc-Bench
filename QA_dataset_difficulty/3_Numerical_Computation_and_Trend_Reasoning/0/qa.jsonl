@@ -1,0 +1,10 @@
+{"category": "Open", "question_type": "Aggregation", "question": "2023 年和 2024 年的平均增幅總和是多少？", "difficulty": 0.46, "answer": "12%"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從 2023 年到 2024 年，維持或增加股利比例的增幅是多少百分點？", "difficulty": 0.13, "answer": "5 個百分點"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2024Q1到2024Q4，製造業中因政策變動影響增加的公司首次出現在哪一季？", "difficulty": 0.49, "answer": "2024Q2"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2023年到2027年，考慮ESG因素的企業比例平均增加多少百分比？", "difficulty": 0.4, "answer": "平均每年增加5%"}
+{"category": "Open", "question_type": "Aggregation", "question": "2026年和2027年考慮ESG因素的企業比例之和是多少？", "difficulty": 0.19, "answer": "95%"}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖4，製造業在2024Q1至2024Q4期間的影響程度是否有持續增加的趨勢？", "difficulty": 0.15, "choice": ["不，製造業在2024Q1至2024Q4期間的影響程度略有反彈，但整體持平。", "是的，製造業在2024Q1至2024Q4期間的影響程度有持續增加的趨勢。", "是的，但製造業的影響在2024Q2和2024Q3交替變化，並未持續增長。", "不，製造業的影響在2024年逐步減少，特別是在2024Q4顯著下降。"], "answer": "B"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表5的資料，2023年至2025年間每年的平均企業比例是多少？", "difficulty": 0.32, "answer": "35%"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表4的資料，計算製造業在2024年四個季度中因政策變動影響增加的季度數量。", "difficulty": 0.89, "answer": "1"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，從 2023 年到 2024 年，股利比例的增幅是 5 個百分點。", "question_group": 767, "difficulty": 0.11, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，從 2023 年到 2024 年，股利比例的增幅是 10 個百分點。", "question_group": 767, "difficulty": 0.83, "answer": "否"}

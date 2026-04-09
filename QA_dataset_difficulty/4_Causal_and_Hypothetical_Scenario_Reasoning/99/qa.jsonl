@@ -1,0 +1,3 @@
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "台北和高雄的講座總數與其他城市的講座總數相差多少？", "difficulty": 0.65, "answer": "2"}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，台北和高雄的講座總數與其他城市的講座總數相差6。", "question_group": 1505, "difficulty": 0.76, "answer": "是"}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，台北和高雄的講座總數與其他城市的講座總數相差2。", "question_group": 1505, "difficulty": 0.77, "answer": "否"}

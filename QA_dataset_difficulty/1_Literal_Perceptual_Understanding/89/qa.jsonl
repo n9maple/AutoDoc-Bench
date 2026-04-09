@@ -1,0 +1,5 @@
+{"category": "MCQ", "question_type": "Peak/Valley", "question": "根據圖8，從2023年到2027年，在2025年達到了數量的高峰的合作類型是哪些？", "difficulty": 0.13, "choice": ["技術共享和獨立開發達到高峰", "技術共享、資金投入與其他類型無關", "技術共享、聯合開發和市場合作", "只進行市場合作，沒有其他合作類型"], "answer": "C"}
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據圖5，全球區塊鏈金融市場規模的峰值出現在2028年。", "question_group": 229, "difficulty": 0.2, "answer": "是"}
+{"category": "YesNo", "question_type": "Peak/Valley", "question": "根據圖5，全球區塊鏈金融市場規模的峰值出現在2023年。", "question_group": 229, "difficulty": 0.11, "answer": "否"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖5，2024年的區塊鏈金融市場規模將接近192億美元。", "question_group": 230, "difficulty": 0.73, "answer": "是"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖5，2024年的區塊鏈金融市場規模將接近100億美元。", "question_group": 230, "difficulty": 0.55, "answer": "否"}

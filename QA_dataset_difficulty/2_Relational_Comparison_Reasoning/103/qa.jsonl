@@ -1,0 +1,9 @@
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，2024-02的保障條款金額與2024-03的保障條款金額相減後，結果為多少？", "difficulty": 0.37, "choice": ["100", "-500", "-700", "-600"], "answer": "D"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "滿意度最高的調查指標與最低的差距是多少?", "difficulty": 0.68, "answer": "差距是5%"}
+{"category": "Open", "question_type": "Comparison", "question": "哪個政策的申請期限較短?", "difficulty": 0.86, "answer": "政策 30 的申請期限較短"}
+{"category": "MCQ", "question_type": "Comparison", "question": "在圖2中，2023年的保險公司數位化理賠系統的採用率相較於2022年高出多少個百分點？", "difficulty": 0.49, "choice": ["10%的降低", "15個百分點的提高", "保險公司數位化理賠系統未見上升", "10個百分點"], "answer": "D"}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖1，2022年和2023年相比，哪一年的某一需求類型客戶需求百分比降幅最大？", "difficulty": 0.93, "answer": "需求類型A在2023年的客戶需求百分比降幅最大，降幅為20%。"}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖7，在哪一個季度符合條件的申請比例相對於不符合條件的申請比例差異最大？", "difficulty": 0.78, "answer": "2024年第4季度"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "根據圖4，申請提交和最終處理的處理時間差多少天？", "difficulty": 0.9, "answer": "由於沒有具體的數據提供，無法計算出申請提交和最終處理的處理時間差。"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖6，政策30的申請期限是30天，而政策60的申請期限是60天，兩者的期限差距是30天。", "question_group": 710, "difficulty": 0.11, "answer": "是"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖6，政策30的申請期限是30天，而政策60的申請期限是60天，兩者的期限差距是30天。", "question_group": 710, "difficulty": 0.87, "answer": "是"}

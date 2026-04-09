@@ -1,0 +1,3 @@
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表4的資料，計算2024年1月到3月所有其他問題的總數，並平均分配到每個月。以下哪一項是其平均值？", "difficulty": 0.92, "choice": ["660.00", "646.67", "616.67", "600.00"], "answer": "B"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表7，2024年1月至2024年3月解決下單問題的件數總和為6475。", "question_group": 963, "difficulty": 0.18, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表7，2024年1月至2024年3月解決下單問題的件數總和為7000。", "question_group": 963, "difficulty": 0.56, "answer": "否"}

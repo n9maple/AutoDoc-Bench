@@ -1,0 +1,3 @@
+{"category": "Open", "question_type": "Comparison", "question": "在圖2中，從2021年至2022年，行動支付用戶數量(百萬人)和占總人口比例(%)的增長率，哪一個更大？", "difficulty": 0.88, "answer": "行動支付用戶數量(百萬人)和占總人口比例(%)的增長率相同，都是26.67%。"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表7，2026年的外資投入增長百分比比2023年多5%。", "question_group": 397, "difficulty": 0.76, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表7，2026年的外資投入增長百分比比2023年多10%。", "question_group": 397, "difficulty": 0.55, "answer": "否"}

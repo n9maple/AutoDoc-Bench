@@ -1,0 +1,4 @@
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖3，所有指標的數值總和是多少？以下哪個選項是正確的？", "difficulty": 0.74, "choice": ["199999999", "200002500", "200001750", "200001600"], "answer": "C"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表4，若客戶資料更新數量、核查工作數量和新客戶風險評估的數量共同構成了總工作量，那麼這個總工作量是多少？", "difficulty": 0.72, "answer": "55000+"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，2023年內部培訓計畫的參與率相比2022年提高了8%。", "question_group": 781, "difficulty": 0.17, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，2023年內部培訓計畫的參與率相比2022年提高了12%。", "question_group": 781, "difficulty": 0.3, "answer": "否"}

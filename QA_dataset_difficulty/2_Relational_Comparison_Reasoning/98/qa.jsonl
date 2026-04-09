@@ -1,0 +1,10 @@
+{"category": "Open", "question_type": "Comparison", "question": "哪一項目的預計資金投入高於軌道維護但低於車輛更新？", "difficulty": 0.2, "answer": "車站設施擴建"}
+{"category": "Open", "question_type": "Comparison", "question": "運營收入的增幅是周邊地區GDP增幅的多少倍？", "difficulty": 0.34, "answer": "運營收入的增幅是周邊地區GDP增幅的12.5倍。"}
+{"category": "Open", "question_type": "Comparison", "question": "哪一個項目在降低超支風險方面的百分比高於其他所有項目？", "difficulty": 0.2, "answer": "成本控制"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據資金投入預算，以下哪一項目預計投入高於軌道維護但低於車輛更新？", "difficulty": 0.13, "choice": ["安全系統升級", "車站設施擴建", "車輛維護", "電力系統升級"], "answer": "B"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的數據，運營收入的增幅相較於周邊地區GDP增幅的倍數為多少？請參考附圖中的數據做判斷。", "difficulty": 0.63, "choice": ["運營收入的增幅是周邊地區GDP增幅的8倍。", "運營收入的增幅是周邊地區GDP增幅的5倍。", "運營收入的增幅是周邊地區GDP增幅的12.5倍。", "運營收入的增幅是周邊地區GDP增幅的20倍。"], "answer": "C"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表2的資料，運營收入增幅相對於周邊地區GDP增幅的倍數是多少？", "difficulty": 0.69, "choice": ["運營收入的增幅是周邊地區GDP增幅的12.5倍", "運營收入的增幅是周邊地區GDP增幅的14倍", "運營收入的增幅是周邊地區GDP增幅的11.5倍", "運營收入的增幅是周邊地區GDP增幅的10倍"], "answer": "A"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖1，車輛更新與擴充的資金分配比例比軌道與基礎設施維護及升級高出多少個百分點？", "difficulty": 0.77, "choice": ["5個百分點", "15個百分點", "10個百分點", "20個百分點"], "answer": "D"}
+{"category": "Open", "question_type": "Comparison", "question": "根據圖3，所有市場的合規性要求數量是否完全相同？", "difficulty": 0.61, "answer": "是，所有市場的合規性要求數量完全相同。"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖2，法律領域的專家數量是最少的。", "question_group": 696, "difficulty": 0.29, "answer": "是"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖2，工程領域的專家數量是最少的。", "question_group": 696, "difficulty": 0.18, "answer": "否"}

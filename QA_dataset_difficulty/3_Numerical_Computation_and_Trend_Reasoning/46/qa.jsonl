@@ -1,0 +1,14 @@
+{"category": "Open", "question_type": "Aggregation", "question": "如果我們將1個月和3個月的港幣利率相加，總和是多少？", "difficulty": 0.84, "answer": "2.55%"}
+{"category": "Open", "question_type": "Aggregation", "question": "活期存款中，美元和人民幣的利率平均是多少？", "difficulty": 0.41, "answer": "0.125%"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2024年6月到2024年8月，人民幣/12的利率變化趨勢是如何的？", "difficulty": 0.9, "answer": "人民幣/12的利率從2024年6月到2024年8月呈現下降趨勢。"}
+{"category": "Open", "question_type": "Aggregation", "question": "在2024年7月，美元/6和澳幣/6的利率相加是多少？", "difficulty": 0.93, "answer": "5.95%"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖片顯示的利率資訊，若將1個月和3個月的港幣利率相加，會得出哪個選項的總和？", "difficulty": 0.76, "choice": ["2.65%", "2.35%", "3.45%", "2.55%"], "answer": "D"}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表5的資料，2024年7月澳幣的12個月收益率與2024年8月相比，變化率為何？以下哪一項是正確的？", "difficulty": 0.73, "choice": ["0.05%", "0.10%", "0.18%", "0.12%"], "answer": "B"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖2，澳幣的定存利率在2023-12-10到2024-06-10期間從2.8%上升到3.1%。", "question_group": 941, "difficulty": 0.51, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖2，澳幣的定存利率在2023-12-10到2024-06-10期間從2.8%下降到2.5%。", "question_group": 941, "difficulty": 0.55, "answer": "否"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖2，日圓的定存利率從2023年12月10日到2024年6月10日增長了0.05%。", "question_group": 942, "difficulty": 0.57, "answer": "是"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖2，美元的定存利率從2023年12月10日到2024年6月10日增長了0.05%。", "question_group": 942, "difficulty": 0.93, "answer": "否"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表5，人民幣/12的利率從2024年6月到2024年8月呈現下降趨勢。", "question_group": 944, "difficulty": 0.88, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表5，人民幣/12的利率從2024年6月到2024年8月呈現上升趨勢。", "question_group": 944, "difficulty": 0.28, "answer": "否"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，美元和人民幣的活期存款利率平均是0.125%。", "question_group": 945, "difficulty": 0.7, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，美元和人民幣的活期存款利率平均是0.20%。", "question_group": 945, "difficulty": 0.74, "answer": "否"}

@@ -1,0 +1,9 @@
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖1，36-50歲受訪者與35歲以下受訪者的數量差異是多少？以下哪一選項是正確的？", "difficulty": 0.77, "choice": ["35", "50", "20", "25"], "answer": "A"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖3，該數位金融服務的滿意度得分中，哪一項為最低分？", "difficulty": 0.77, "choice": ["74", "72", "75", "73"], "answer": "C"}
+{"category": "Open", "question_type": "Comparison", "question": "在圖5中，哪一個地區的人口比例是相同的？", "difficulty": 0.78, "answer": "台中市和高雄市"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖4，男性受訪者的比例數值較大。", "question_group": 649, "difficulty": 0.11, "answer": "是"}
+{"category": "YesNo", "question_type": "Ranking", "question": "根據圖4，女性受訪者的比例數值較大。", "question_group": 649, "difficulty": 0.27, "answer": "否"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖3，第一個數據點與第三個數據點的滿意度差距是2。", "question_group": 650, "difficulty": 0.73, "answer": "是"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖3，第一個數據點與第三個數據點的滿意度差距是5。", "question_group": 650, "difficulty": 0.53, "answer": "否"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，公司職員的比例是學生的2倍。", "question_group": 651, "difficulty": 0.25, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表3，公司職員的比例是學生的3倍。", "question_group": 651, "difficulty": 0.72, "answer": "否"}

@@ -1,0 +1,12 @@
+{"category": "Open", "question_type": "Comparison", "question": "從3月到7月，哪個月的平均系統開通天數是最低的？", "difficulty": 0.76, "answer": "5月"}
+{"category": "Open", "question_type": "Comparison", "question": "2021年和2023年之間，哪一年滲透測試次數最多，差距是多少次？", "difficulty": 0.6, "answer": "2023年滲透測試次數最多，與2021年的差距是2次。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據滲透測試的資料，哪一年滲透測試次數較多，且與另一年之間的差距是多少？", "difficulty": 0.86, "choice": ["2023年滲透測試次數最多，與2021年的差距是2次。", "2021年滲透測試次數最多，與2022年的差距是4次。", "2023年滲透測試次數最多，與2022年的差距是3次。", "2022年滲透測試次數最多，與2021年的差距是3次。"], "answer": "A"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "在2023年Q4各產業啟用電子支付企業數中，數值最高的產業類別與數值最低的產業類別之間的差距是多少？", "difficulty": 0.32, "answer": "830"}
+{"category": "Open", "question_type": "Comparison", "question": "在圖4中，哪一個流程項目的期限(天數)最低？", "difficulty": 0.89, "answer": "0 天"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "根據圖1，產業類別為1110的企業數比產業類別為405的企業數多多少？", "difficulty": 0.44, "answer": "705"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖4，最高與最低的流程項目期限差距是1825天。", "question_group": 592, "difficulty": 0.58, "answer": "是"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖4，最高與最低的流程項目期限差距是30天。", "question_group": 592, "difficulty": 0.76, "answer": "否"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，從3月到7月，5月的平均系統開通天數是最低的。", "question_group": 593, "difficulty": 0.85, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表1，從3月到7月，4月的平均系統開通天數是最低的。", "question_group": 593, "difficulty": 0.76, "answer": "否"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，2023年滲透測試次數最多，與2021年的差距是2次。", "question_group": 594, "difficulty": 0.75, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，2023年滲透測試次數最多，與2021年的差距是2次。", "question_group": 594, "difficulty": 0.87, "answer": "是"}

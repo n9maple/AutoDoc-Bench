@@ -1,0 +1,13 @@
+{"category": "MCQ", "question_type": "Proportion", "question": "根據圖3，以下哪一項最接近生物辨識的使用比例？", "difficulty": 0.44, "choice": ["73.0%", "77.5%", "70.0%", "62.0%"], "answer": "C"}
+{"category": "Open", "question_type": "Fact Lookup", "question": "根據表6的資料，從2023年1月至2023年12月期間，哪一個月的需轉介分行比率最低？", "difficulty": 0.87, "answer": "2023年6月和2023年10月"}
+{"category": "Open", "question_type": "Part-to-Whole", "question": "在圖2中，行動銀行App和官網的使用比例總和是多少？", "difficulty": 0.57, "answer": "83.0%"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，大眾銀行使用256位元SSL加密技術來保障資料傳輸，並結合帳號密碼、簡訊OTP及生物辨識等多層身份驗證機制。", "question_group": 214, "difficulty": 0.16, "answer": "是"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，大眾銀行不使用任何加密技術來保障資料傳輸，也不採用多層身份驗證機制。", "question_group": 214, "difficulty": 0.11, "answer": "否"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，線上客服透過官網、行動App及LINE提供24小時多平台支援，主要針對常見問題及日常操作。", "question_group": 215, "difficulty": 0.15, "answer": "是"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，高敏感及複雜案件可完全由線上客服處理，無需實體分行或人工客服介入。", "question_group": 215, "difficulty": 0.11, "answer": "否"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，2023年五大常見查詢問題包括網路銀行登入異常、信用卡繳費方式、轉帳手續費、定存利率查詢及遺失補辦流程，佔自助查詢總量52%，使銀行能透過智能推薦與流程優化提升服務效率與用戶自主解決率。", "question_group": 216, "difficulty": 0.35, "answer": "是"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，2023年五大常見查詢問題主要集中於貸款申請流程和外匯交易問題，佔自助查詢總量52%，使銀行能透過智能推薦與流程優化提升服務效率與用戶自主解決率。", "question_group": 216, "difficulty": 0.37, "answer": "否"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖8，信用卡交易爭議佔人工客服諮詢主題的百分比是27.0%。", "question_group": 217, "difficulty": 0.27, "answer": "是"}
+{"category": "YesNo", "question_type": "Proportion", "question": "根據圖8，信用卡交易爭議佔人工客服諮詢主題的百分比是15.0%。", "question_group": 217, "difficulty": 0.17, "answer": "否"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表5，2023年選擇進入人工客服對話流程的比例是24%。", "question_group": 218, "difficulty": 0.29, "answer": "是"}
+{"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表5，2023年選擇進入人工客服對話流程的比例是24%。", "question_group": 218, "difficulty": 0.15, "answer": "是"}

@@ -1,0 +1,12 @@
+{"category": "MCQ", "question_type": "Comparison", "question": "根據綠色債券發行和可再生能源項目支持的效果，以下哪一項正確描述了它們在減少二氧化碳排放方面的比較？", "difficulty": 0.67, "choice": ["綠色債券的效果相對於可再生能源項目的效果是難以評估的。", "綠色債券發行和可再生能源項目支持在減少二氧化碳排放上的數值相同。", "可再生能源項目支持的減少二氧化碳排放數據顯示為較低。", "綠色債券的發行僅在特定情況下能減少二氧化碳排放。"], "answer": "B"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的資料比較 '員工培訓時數 (人均)' 和 '合作非營利組織數' 在所有年份的數值，以下哪個指標在大多數年份中數值更高?", "difficulty": 0.87, "choice": ["員工培訓時數 (人均) 的數值在大多數年份中高於合作非營利組織數", "員工培訓時數 (人均) 在所有年份中數值都高於合作非營利組織數", "無法確定，因為缺乏具體的數據", "合作非營利組織數在大多數年份中數值更高"], "answer": "C"}
+{"category": "Open", "question_type": "Difference Calculation", "question": "根據圖3，兩個環保指標的百分比差是多少？", "difficulty": 0.56, "answer": "5%"}
+{"category": "Open", "question_type": "Ranking", "question": "根據圖2的資料，哪個年份的合作非營利組織數量最多？", "difficulty": 0.13, "answer": "2023年"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖6，交流活動數量為3的利益相關者擁有最少的交流活動。", "question_group": 680, "difficulty": 0.16, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據圖6，交流活動數量為10的利益相關者擁有最少的交流活動。", "question_group": 680, "difficulty": 0.32, "answer": "否"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，2023年文化遺產的預算與健康的預算相同，都是2500萬新台幣。", "question_group": 681, "difficulty": 0.14, "answer": "是"}
+{"category": "YesNo", "question_type": "Comparison", "question": "根據表2，2023年環境保護的預算與健康的預算相同，都是2500萬新台幣。", "question_group": 681, "difficulty": 0.87, "answer": "否"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖4，最高與最低數值項目的差距是 5045。", "question_group": 682, "difficulty": 0.78, "answer": "是"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖4，最高與最低數值項目的差距是 4000。", "question_group": 682, "difficulty": 0.53, "answer": "否"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖1，由於缺乏具體的數據，無法確定2022年與2023年的綠色金融投資金額差距。", "question_group": 683, "difficulty": 0.88, "answer": "是"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖1，我們可以確定2022年與2023年的綠色金融投資金額差距為某個具體數值。", "question_group": 683, "difficulty": 0.86, "answer": "否"}

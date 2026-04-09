@@ -1,0 +1,2 @@
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表4，若平均撥款時間增加0.5天，最終撥款時間會是2.2天。", "question_group": 1291, "difficulty": 0.9, "answer": "是"}
+{"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表4，若平均撥款時間增加0.5天，最終撥款時間會是2.7天。", "question_group": 1291, "difficulty": 0.55, "answer": "否"}

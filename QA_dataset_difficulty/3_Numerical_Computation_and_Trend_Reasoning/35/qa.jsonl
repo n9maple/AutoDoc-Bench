@@ -1,0 +1,5 @@
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2024Q2到2025Q2，哪一類險種的收入增長最多？", "difficulty": 0.55, "answer": "投資型壽險的收入增長最多，增長了74億元。"}
+{"category": "Open", "question_type": "Aggregation", "question": "2025Q2的傳統壽險、投資型壽險和健康險的收入總和是多少？", "difficulty": 0.35, "answer": "2,500億元"}
+{"category": "Open", "question_type": "Aggregation", "question": "如果我們將儲蓄型壽險與健康險合併，這兩者在2025年第二季度的市場佔比總和是多少？", "difficulty": 0.66, "answer": "20%"}
+{"category": "Open", "question_type": "Temporal Reasoning", "question": "從2024年到2025年，第四季度的數值增長了多少億元？", "difficulty": 0.33, "answer": "150億元"}
+{"category": "Open", "question_type": "Aggregation", "question": "2024年第三季度和第四季度的總收入是多少？", "difficulty": 0.65, "answer": "4,775億元"}

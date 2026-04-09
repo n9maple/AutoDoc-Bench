@@ -1,0 +1,6 @@
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表1，從2023年初到2023年末，以下哪個地區的百分比增長幅度最大？", "difficulty": 0.61, "choice": ["北美洲", "歐洲", "非洲", "南美洲"], "answer": "B"}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖1，從2022年到2023年，全球經濟增長率下降了多少百分點？以下哪一選項是正確的？", "difficulty": 0.66, "choice": ["全球經濟增長率從2022年到2023年下降了0.0個百分點，表示經濟增長率沒有變化。", "全球經濟增長率從2022年到2023年下降了1.2個百分點。", "全球經濟增長率從2022年到2023年下降了0.3個百分點。", "全球經濟增長率從2022年到2023年下降了2.5個百分點。"], "answer": "C"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表4的資料，以下哪一項是三個國家的電子商務市場規模總和？", "difficulty": 0.84, "choice": ["1700億美元", "1500億美元", "750億美元", "1000億美元"], "answer": "B"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表5的資料，2023年保險業的損失佔該年總損失的比例是多少？", "difficulty": 0.63, "answer": "31.67%"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖4，從2022年到2023年，全球貿易增長率的變化率是-37.5%。", "question_group": 1162, "difficulty": 0.8, "answer": "是"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖4，從2022年到2023年，全球貿易增長率的變化率是-10%。", "question_group": 1162, "difficulty": 0.33, "answer": "否"}

@@ -1,0 +1,10 @@
+{"category": "Open", "question_type": "Aggregation", "question": "所有貨幣的本期年利率的平均值是多少？", "difficulty": 0.87, "answer": "2.40%"}
+{"category": "Open", "question_type": "Aggregation", "question": "中華郵政的定期儲蓄存款一年和兩年的平均利率是多少？", "difficulty": 0.68, "answer": "1.50%"}
+{"category": "Open", "question_type": "Aggregation", "question": "在 113/07/01 時，一般活期帳戶和銀髮族專案帳戶的利率總和是多少？", "difficulty": 0.32, "answer": "0.38%"}
+{"category": "Open", "question_type": "Aggregation", "question": "在調整後，所有貨幣的百分比變動總和是多少？", "difficulty": 0.85, "answer": "0.85%"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖1，從2023-07-01到2024-07-01，3年期的年利率變化率是約3.23%。", "question_group": 1005, "difficulty": 0.58, "answer": "是"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖1，從2023-07-01到2024-07-01，3年期的年利率變化率是約5%。", "question_group": 1005, "difficulty": 0.53, "answer": "否"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表6，所有帳戶在歐元下的平均利率是0.108%。", "question_group": 1006, "difficulty": 0.85, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表6，所有帳戶在歐元下的平均利率是0.11%。", "question_group": 1006, "difficulty": 0.71, "answer": "否"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，所有貨幣的本期年利率的平均值是2.40%。", "question_group": 1008, "difficulty": 0.72, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，所有貨幣的本期年利率的平均值是3.00%。", "question_group": 1008, "difficulty": 0.55, "answer": "否"}

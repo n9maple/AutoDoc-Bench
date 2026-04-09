@@ -1,0 +1,11 @@
+{"category": "Open", "question_type": "Aggregation", "question": "車輛更新和車站設施擴建的總資金投入是多少？", "difficulty": 0.4, "answer": "車輛更新和車站設施擴建的總資金投入是35。"}
+{"category": "Open", "question_type": "Aggregation", "question": "將運營收入的增幅與就業機會的增幅相加，結果是多少？", "difficulty": 0.17, "answer": "35%"}
+{"category": "Open", "question_type": "Aggregation", "question": "如果將進度管理和質量檢查兩項的降低延誤風險相加，總和是多少？", "difficulty": 0.28, "answer": "30%以上"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，車輛更新和車站設施擴建的總資金投入是多少？", "difficulty": 0.8, "choice": ["36", "35", "30", "38"], "answer": "B"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，將運營收入的增幅與就業機會的增幅相加，結果的百分比是多少？", "difficulty": 0.72, "choice": ["35%", "36%", "38%", "37.5%"], "answer": "A"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據進度管理和質量檢查降低延誤風險的數據，總和是多少？", "difficulty": 0.44, "choice": ["50%以上", "10%以下", "25%以上", "30%以上"], "answer": "D"}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖4，從2024年至2028年，碳排放量減少目標系列的總增長百分比是多少？", "difficulty": 0.84, "choice": ["600%", "250%", "400%", "450%"], "answer": "C"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖3，所有市場的合規性要求數量總和是 12。", "question_group": 1125, "difficulty": 0.51, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖3，所有市場的合規性要求數量總和是 15。", "question_group": 1125, "difficulty": 0.54, "answer": "否"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖4，從2024年到2028年，碳排放量減少目標每年增加4個百分點，從4%增至20%。", "question_group": 1127, "difficulty": 0.62, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖4，從2024年到2028年，碳排放量減少目標每年保持不變，維持在4%。", "question_group": 1127, "difficulty": 0.37, "answer": "否"}

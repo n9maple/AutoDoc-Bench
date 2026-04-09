@@ -1,0 +1,14 @@
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表1的資料，2023年下半年的平均利率是多少？以下哪一項是正確的選擇？", "difficulty": 0.75, "choice": ["1.7%", "1.3%", "1.5%", "1.0%"], "answer": "C"}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖7，從2023年到2024年，台灣的通脹率趨勢如何變化？", "difficulty": 0.56, "choice": ["台灣的通脹率持平，無明顯變化。", "台灣的通脹率小幅變動，無明顯趨勢。", "台灣的通脹率呈現下降趨勢。", "台灣的通脹率在2023年到2024年間輕微上升。"], "answer": "C"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表1的資料，2023年下半年的平均利率是多少？", "difficulty": 0.29, "answer": "1.5%"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表2的資料，計算2023年全年GDP的平均增長率。", "difficulty": 0.3, "answer": "2023年全年GDP的平均增長率為2.45%。"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖2，從2023年Q2到Q3，台灣消費者信心指數從78.5上升到79.8，顯示出信心增強。", "question_group": 857, "difficulty": 0.16, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖2，從2023年Q2到Q3，台灣消費者信心指數從79.8下降到78.5，顯示出信心減弱。", "question_group": 857, "difficulty": 0.54, "answer": "否"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表4，從2023Q1到2023Q2，基準利率增加了0.75個百分點。", "question_group": 858, "difficulty": 0.49, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表4，從2023Q1到2023Q2，基準利率減少了0.75個百分點。", "question_group": 858, "difficulty": 0.15, "answer": "否"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖1，台灣2023年四個季度的基準利率平均值是1.625%。", "question_group": 859, "difficulty": 0.87, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據圖1，台灣2023年四個季度的基準利率平均值是1.75%。", "question_group": 859, "difficulty": 0.55, "answer": "否"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，2023年第三季度和第四季度的儲蓄帳戶利率均為1.5%。", "question_group": 861, "difficulty": 0.13, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，2023年第三季度和第四季度的儲蓄帳戶利率有所變化。", "question_group": 861, "difficulty": 0.91, "answer": "否"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表6，2023年和2024年的全球增長率變化幅度為0.4%。", "question_group": 864, "difficulty": 0.11, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表6，2023年和2024年的全球增長率變化幅度為1.0%。", "question_group": 864, "difficulty": 0.87, "answer": "否"}

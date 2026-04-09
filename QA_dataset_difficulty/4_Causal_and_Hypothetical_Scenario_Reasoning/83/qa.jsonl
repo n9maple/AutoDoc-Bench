@@ -1,0 +1,5 @@
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果資本適足率和監管要求在2023年各增加50%，那資本適足率會多出監管要求多少個百分點？", "difficulty": 0.75, "answer": "165個百分點"}
+{"category": "Open", "question_type": "Multi-hop Reasoning", "question": "從2021到2025年間，技術升級和數據分析能力增強的總支出差距是多少？", "difficulty": 0.77, "answer": "25億"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "如果資本適足率和監管要求在2023年各增加50%，那麼根據提供的圖片，資本適足率會多出監管要求多少個百分點？", "difficulty": 0.86, "choice": ["180個百分點", "160個百分點", "170個百分點", "165個百分點"], "answer": "D"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據2021到2025年間的數據分析能力增強投資情景，總支出差距是多少？", "difficulty": 0.55, "choice": ["15億", "28億", "40億", "25億"], "answer": "D"}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表2的資料，假設亞洲的增長率每兩年增加10%，而其他地區的增長率每三年增加5%，到2028年時，亞洲和其他地區的增長率分別是以下哪個選項？", "difficulty": 0.93, "choice": ["亞洲的增長率為30%，其他地區的增長率為7.5%", "亞洲的增長率為35%，其他地區的增長率為12.5%", "亞洲的增長率為35%，其他地區的增長率為10%", "亞洲的增長率為45%，其他地區的增長率為9%"], "answer": "C"}

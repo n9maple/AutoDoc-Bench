@@ -1,0 +1,6 @@
+{"category": "Open", "question_type": "Comparison", "question": "從 2022 年到 2023 年，哪一項分析方法的百分比增加幅度最大？", "difficulty": 0.51, "answer": "敏感性分析"}
+{"category": "Open", "question_type": "Comparison", "question": "在2023年，行業分散化和地區分散化的百分比是否相等？", "difficulty": 0.13, "answer": "在2023年，行業分散化和地區分散化的百分比是相等的。"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2022年到2023年的數據，以下哪一項分析方法的百分比增加幅度最大？", "difficulty": 0.48, "choice": ["敏感性分析", "時間序列分析（增長幅度5%）", "模擬分析（增長幅度10%）", "情景分析（增長幅度8%）"], "answer": "A"}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的數據，行業分散化和地區分散化的百分比是否相等？", "difficulty": 0.13, "choice": ["根據2023年的數據，行業分散化比地區分散化更為普遍。", "行業分散化和地區分散化的百分比是相等的。", "行業分散化和地區分散化的百分比有顯著差異。", "行業分散化的百分比持平，而地區分散化的百分比則有所上升。"], "answer": "B"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖1，兩個策略類型的採用率差距是5%。", "question_group": 743, "difficulty": 0.72, "answer": "是"}
+{"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖1，兩個策略類型的採用率差距是10%。", "question_group": 743, "difficulty": 0.75, "answer": "否"}

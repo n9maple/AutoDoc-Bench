@@ -1,0 +1,15 @@
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據更新後的資料，意外險和健康險的文件數量總數為多少？請參考提供的資料圖表。以下哪項選擇是正確的？", "difficulty": 0.48, "choice": ["21", "22", "19", "20"], "answer": "D"}
+{"category": "Open", "question_type": "Rate of Change", "question": "從2024Q3到2024Q4，'符合條件'系列的申請比例變化率是多少？", "difficulty": 0.61, "answer": "1.96%"}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖5，所有調查指標的滿意度平均值大約為多少？", "difficulty": 0.34, "choice": ["85.25", "83.00", "81.50", "82.33"], "answer": "D"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據圖7，2024年四個季度中符合條件的申請比例總和是多少？", "difficulty": 0.84, "answer": "201"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表6的資料，從2024Q1到2024Q4，跨境理賠服務滿意度的總變化百分比是多少？", "difficulty": 0.57, "answer": "7%"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表1的資料，結合意外險和健康險的更新前文件總數與更新後文件總數，總共減少了多少百分比？", "difficulty": 0.2, "answer": "20%"}
+{"category": "Open", "question_type": "Aggregation", "question": "根據表3的資料，計算所有培訓類別的總參與人數是多少？", "difficulty": 0.34, "answer": "總參與人數是 490"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表6，2024 年各季度跨境理賠服務的平均滿意度是 83.5%。", "question_group": 1138, "difficulty": 0.74, "answer": "是"}
+{"category": "YesNo", "question_type": "Aggregation", "question": "根據表6，2024 年各季度跨境理賠服務的平均滿意度是 85.0%。", "question_group": 1138, "difficulty": 0.76, "answer": "否"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表5，從2024Q1到2024Q4，線上系統的使用百分比總共增加了15%。", "question_group": 1141, "difficulty": 0.75, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表5，從2024Q1到2024Q4，線上系統的使用百分比總共下降了15%。", "question_group": 1141, "difficulty": 0.57, "answer": "否"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖7，從2024Q3到2024Q4，'符合條件'系列的申請比例變化率是1.96%。", "question_group": 1136, "difficulty": 0.65, "answer": "是"}
+{"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖7，從2024Q3到2024Q4，'符合條件'系列的申請比例變化率是3.50%。", "question_group": 1136, "difficulty": 0.63, "answer": "否"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表2，從2022年到2023年的百分比增長是150%。", "question_group": 1137, "difficulty": 0.89, "answer": "是"}
+{"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表2，從2022年到2023年的百分比增長是50%。", "question_group": 1137, "difficulty": 0.51, "answer": "否"}
