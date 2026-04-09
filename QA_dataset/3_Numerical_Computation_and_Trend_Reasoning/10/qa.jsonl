@@ -1,13 +1,13 @@
 {"category": "Open", "question_type": "Aggregation", "question": "在2024年，亞洲和非洲的增長率總和是多少？", "answer": "8.5%"}
 {"category": "Open", "question_type": "Aggregation", "question": "電子行業的供應鏈技術與管理投資的百分比總和是多少？", "answer": "25%"}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年的數據，歐洲和印度的平均百分比是多少？請參考以下圖表並選擇正確的選項：", "answer": "C", "choice": ["5.50%", "7.50%", "6.75%", "9.00%"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據2024年的預測，亞洲和非洲的增長率總和是以下哪項？", "answer": "C", "choice": ["9.0%", "8.2%", "8.5%", "7.5%"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的圖片，電子行業的供應鏈技術與管理投資的百分比總和為多少？", "answer": "C", "choice": ["20%", "28%", "25%", "33%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年的數據，歐洲和印度的平均百分比是多少？請參考以下圖表並選擇正確的選項：", "answer": "C", "choice": ["9.00%", "7.50%", "6.75%", "5.50%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2024年的預測，亞洲和非洲的增長率總和是以下哪項？", "answer": "C", "choice": ["9.0%", "7.5%", "8.5%", "8.2%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的圖片，電子行業的供應鏈技術與管理投資的百分比總和為多少？", "answer": "B", "choice": ["20%", "25%", "28%", "33%"]}
 {"category": "Open", "question_type": "Temporal Trend", "question": "從2023年到2024年，新興市場和發展中經濟體的經濟增長率趨勢如何？", "answer": "從2023年到2024年，新興市場和發展中經濟體的經濟增長率上升了0.3個百分點，顯示出上升趨勢。"}
 {"category": "Open", "question_type": "Temporal Trend", "question": "2024年第三季度，哪個國家的利率出現了上升？", "answer": "印度"}
-{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2023年至2024年的數據，新興市場和發展中經濟體的經濟增長率趨勢如何？", "answer": "C", "choice": ["經濟增長率上升了0.4個百分點，顯示出適度上升趨勢。", "經濟增長率上升了0.7個百分點，顯示出明顯上升趨勢。", "經濟增長率上升了0.3個百分點，顯示出上升趨勢。", "經濟增長率下降了0.2個百分點，顯示出下降趨勢。"]}
-{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2024年第三季度的經濟數據，以下哪個國家的利率出現了上升？請參考下方圖片中的利率變化圖表。", "answer": "C", "choice": ["德國在歐洲央行政策的影響下，利率將保持不變", "美國的利率保持穩定，並未受到增長趨勢影響", "印度", "日本的利率未顯示上升的迹象，仍低於其他國家"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表4，如果醫藥行業和電子行業的管理投資分別每年增長3%和2%，到第三年時，它們的管理投資百分比差距是多少？以下哪一項是正確的選擇？", "answer": "D", "choice": ["0.28%", "0.54%", "0.37%", "0.36%"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2023年至2024年的數據，新興市場和發展中經濟體的經濟增長率趨勢如何？", "answer": "A", "choice": ["經濟增長率上升了0.3個百分點，顯示出上升趨勢。", "經濟增長率下降了0.2個百分點，顯示出下降趨勢。", "經濟增長率上升了0.4個百分點，顯示出適度上升趨勢。", "經濟增長率上升了0.7個百分點，顯示出明顯上升趨勢。"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2024年第三季度的經濟數據，以下哪個國家的利率出現了上升？請參考下方圖片中的利率變化圖表。", "answer": "A", "choice": ["印度", "美國的利率保持穩定，並未受到增長趨勢影響", "德國在歐洲央行政策的影響下，利率將保持不變", "日本的利率未顯示上升的迹象，仍低於其他國家"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表4，如果醫藥行業和電子行業的管理投資分別每年增長3%和2%，到第三年時，它們的管理投資百分比差距是多少？以下哪一項是正確的選擇？", "answer": "B", "choice": ["0.37%", "0.36%", "0.54%", "0.28%"]}
 {"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖2，印度在2024年第三季度的利率從6.5%上升到6.75%。", "answer": "是", "question_group": 793}
 
 {"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖2，所有國家的利率在2024年第三季度都保持不變。", "answer": "否", "question_group": 793}

@@ -8,27 +8,27 @@
 {"category": "Open", "question_type": "Temporal Reasoning", "question": "從2021年到2023年，法遵宣導會參與人次增加了多少？", "answer": "400"}
 {"category": "Open", "question_type": "Aggregation", "question": "計算2021年至2023年間法遵宣導會場次的平均值是多少？", "answer": "20"}
 {"category": "Open", "question_type": "Aggregation", "question": "在2023年，平均每家被處罰公司的罰鍰金額是多少？", "answer": "100"}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據圖片中提供的數據，2020年至2023年期間，A級以上的比例相較於之前的數據增加了多少百分比？", "answer": "C", "choice": ["小幅增長，如 8%", "考慮到其他年度的平均，顯示了高達 15%", "10%", "整體數據變動不大，顯示為無明顯變化"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，2021年B級和C級的比例總和是多少百分比？", "answer": "C", "choice": ["由於計算的錯誤部分而得到的46%", "B級和C級的總比例為33%", "39%", "基於不完整數據的B級和C級合併分析為40%"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據2022年和2023年的全年總揭露件數的統計，以下哪一項最接近這兩年的平均值？", "answer": "C", "choice": ["7800", "8700", "8250", "9500"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據過去一年中，每個季度舉辦的活動場次相同，以下哪一選項最接近平均每個季度舉辦的活動場數？", "answer": "C", "choice": ["平均每個季度舉辦了 14 場活動。", "平均每個季度舉辦了 10 場活動。", "平均每個季度舉辦了 11.25 場活動。", "平均每個季度舉辦了 12.5 場活動。"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據所提供的年度財報公告件數圖片，2022年和2023年的平均公告件數是多少？", "answer": "C", "choice": ["890", "1060", "973", "1000"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的圖片，2022年和2023年被警示或更正件數的平均值是多少？", "answer": "C", "choice": ["28.0", "32.5", "31.5", "29.0"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年資料，盈餘分配案和章程修正案的總數是以下哪一個選項？", "answer": "C", "choice": ["82", "95", "88", "89"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2021年到2023年的法遵宣導會參與人次變化，以下哪一項最能反映參與人次的增加幅度？", "answer": "C", "choice": ["增加了350人次", "增加了500人次", "增加了400人次", "沒有變化"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的數據（假設為2021年至2023年間的法遵宣導會場次），請問場次的平均值可能是多少？", "answer": "C", "choice": ["35", "18", "20", "24"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年的數據，以下哪一項最接近平均每家被處罰公司的罰鍰金額？", "answer": "C", "choice": ["50", "300", "100", "120"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據圖片中提供的數據，2020年至2023年期間，A級以上的比例相較於之前的數據增加了多少百分比？", "answer": "D", "choice": ["小幅增長，如 8%", "考慮到其他年度的平均，顯示了高達 15%", "整體數據變動不大，顯示為無明顯變化", "10%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，2021年B級和C級的比例總和是多少百分比？", "answer": "B", "choice": ["B級和C級的總比例為33%", "39%", "由於計算的錯誤部分而得到的46%", "基於不完整數據的B級和C級合併分析為40%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2022年和2023年的全年總揭露件數的統計，以下哪一項最接近這兩年的平均值？", "answer": "D", "choice": ["8700", "7800", "9500", "8250"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據過去一年中，每個季度舉辦的活動場次相同，以下哪一選項最接近平均每個季度舉辦的活動場數？", "answer": "C", "choice": ["平均每個季度舉辦了 12.5 場活動。", "平均每個季度舉辦了 10 場活動。", "平均每個季度舉辦了 11.25 場活動。", "平均每個季度舉辦了 14 場活動。"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據所提供的年度財報公告件數圖片，2022年和2023年的平均公告件數是多少？", "answer": "D", "choice": ["1000", "890", "1060", "973"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的圖片，2022年和2023年被警示或更正件數的平均值是多少？", "answer": "A", "choice": ["31.5", "29.0", "28.0", "32.5"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年資料，盈餘分配案和章程修正案的總數是以下哪一個選項？", "answer": "B", "choice": ["95", "88", "89", "82"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2021年到2023年的法遵宣導會參與人次變化，以下哪一項最能反映參與人次的增加幅度？", "answer": "B", "choice": ["增加了350人次", "增加了400人次", "沒有變化", "增加了500人次"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的數據（假設為2021年至2023年間的法遵宣導會場次），請問場次的平均值可能是多少？", "answer": "D", "choice": ["18", "35", "24", "20"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年的數據，以下哪一項最接近平均每家被處罰公司的罰鍰金額？", "answer": "A", "choice": ["100", "50", "300", "120"]}
 {"category": "Open", "question_type": "Temporal Trend", "question": "從2020年到2023年，A級以上公司占比的趨勢是如何變化的？", "answer": "從2020年到2022年，A級以上公司占比逐年增加，從56.6%上升到61.1%。然而，2023年略微下降至60.5%。"}
 {"category": "Open", "question_type": "Rate of Change", "question": "從2021年到2022年，台灣上市公司總數的增長率是多少？", "answer": "增長率為1.05%"}
 {"category": "Open", "question_type": "Temporal Trend", "question": "從2020年到2023年，臨時資訊揭露件數的變化趨勢如何？", "answer": "從2020年到2023年，臨時資訊揭露件數呈現逐年增加的趨勢。"}
 {"category": "Open", "question_type": "Rate of Change", "question": "從2020年到2023年，重大訊息揭露件數的年均增長率是多少？", "answer": "年均增長率約為5.68%"}
-{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據附圖，2020年至2023年間A級以上公司占比的變化趨勢為何？", "answer": "C", "choice": ["A級以上公司占比在2020年至2023年持平，顯示市場穩定。", "2020年至2022年，A級以上公司占比持平，2023年增長至歷年高點。", "2020年至2022年，A級以上公司占比逐年上升，2023年略微下降。", "2020年至2021年，A級以上公司占比小幅下降，2022年快速回升，2023年持平。"]}
-{"category": "MCQ", "question_type": "Rate of Change", "question": "根據2021年至2022年期間的數據，台灣上市公司的增長率是多少？請參考下方圖表來回答問題。", "answer": "C", "choice": ["增長率為1.15%", "增長率為1.1%", "增長率為1.05%", "增長率為1.20%"]}
-{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據所提供的資料，從2020年到2023年，臨時資訊揭露件數的變化趨勢為何？", "answer": "C", "choice": ["臨時資訊揭露件數自2020年逐漸回落至2021年，之後保持不變。", "臨時資訊揭露件數在2021年有所增加，但2022年持平。", "臨時資訊揭露件數逐年增加。", "臨時資訊揭露件數在2022年經歷大幅波動，未能在2023年恢復。"]}
-{"category": "MCQ", "question_type": "Rate of Change", "question": "根據給定數據，從2020年到2023年，重大訊息揭露件數的年均增長率為何？（請參考附加的數據圖表）", "answer": "C", "choice": ["年均增長率約為3.20%", "年均增長率約為6.50%", "年均增長率約為5.68%", "年均增長率約為4.80%"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表8的資料，假設2023年的總罰鍰金額為1200，每年固定增加100單位，請問哪一年總罰鍰金額將達到或超過2000？", "answer": "B", "choice": ["2027", "2031", "2030", "2033"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據表2的資料，以下哪一項是2022年和2023年即時公告比例的平均值？", "answer": "A", "choice": ["47.85", "48.10", "46.75", "49.50"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據表7的資料，以下哪一年法遵宣導會場次和參與人次的總和最大？", "answer": "C", "choice": ["2020", "2018", "2023", "2022"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據附圖，2020年至2023年間A級以上公司占比的變化趨勢為何？", "answer": "B", "choice": ["2020年至2022年，A級以上公司占比持平，2023年增長至歷年高點。", "2020年至2022年，A級以上公司占比逐年上升，2023年略微下降。", "A級以上公司占比在2020年至2023年持平，顯示市場穩定。", "2020年至2021年，A級以上公司占比小幅下降，2022年快速回升，2023年持平。"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據2021年至2022年期間的數據，台灣上市公司的增長率是多少？請參考下方圖表來回答問題。", "answer": "A", "choice": ["增長率為1.05%", "增長率為1.15%", "增長率為1.20%", "增長率為1.1%"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據所提供的資料，從2020年到2023年，臨時資訊揭露件數的變化趨勢為何？", "answer": "C", "choice": ["臨時資訊揭露件數在2022年經歷大幅波動，未能在2023年恢復。", "臨時資訊揭露件數在2021年有所增加，但2022年持平。", "臨時資訊揭露件數逐年增加。", "臨時資訊揭露件數自2020年逐漸回落至2021年，之後保持不變。"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據給定數據，從2020年到2023年，重大訊息揭露件數的年均增長率為何？（請參考附加的數據圖表）", "answer": "A", "choice": ["年均增長率約為5.68%", "年均增長率約為3.20%", "年均增長率約為4.80%", "年均增長率約為6.50%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表8的資料，假設2023年的總罰鍰金額為1200，每年固定增加100單位，請問哪一年總罰鍰金額將達到或超過2000？", "answer": "B", "choice": ["2030", "2031", "2033", "2027"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表2的資料，以下哪一項是2022年和2023年即時公告比例的平均值？", "answer": "B", "choice": ["48.10", "47.85", "46.75", "49.50"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表7的資料，以下哪一年法遵宣導會場次和參與人次的總和最大？", "answer": "D", "choice": ["2022", "2018", "2020", "2023"]}
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據表8，2023年平均每家被處罰公司的罰鍰金額是100。", "answer": "是", "question_group": 989}
 
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據表8，2023年平均每家被處罰公司的罰鍰金額是50。", "answer": "否", "question_group": 989}

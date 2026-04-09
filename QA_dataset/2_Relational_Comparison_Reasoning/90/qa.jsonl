@@ -1,14 +1,14 @@
 {"category": "Open", "question_type": "Comparison", "question": "哪個市場的年增長率最高，且該市場的市場規模是多少？", "answer": "人工智慧市場的年增長率最高，其市場規模是2000。"}
 {"category": "Open", "question_type": "Comparison", "question": "哪個地區的經濟增長率最低？", "answer": "1.5"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "最高與最低經濟增長率之間的差距是多少？", "answer": "3.5%"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，以下哪個地區的經濟增長率最低？", "answer": "C", "choice": ["地區C的經濟增長率為1.3%", "地區F的經濟增長率為1.4%", "地區A的經濟增長率為1.5%", "地區G的經濟增長率為1.7%"]}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據下圖顯示的各國經濟增長率，最高與最低經濟增長率之間的差距是多少？", "answer": "C", "choice": ["2.2%", "4.5%", "3.5%", "0.8%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，以下哪個地區的經濟增長率最低？", "answer": "A", "choice": ["地區A的經濟增長率為1.5%", "地區G的經濟增長率為1.7%", "地區F的經濟增長率為1.4%", "地區C的經濟增長率為1.3%"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據下圖顯示的各國經濟增長率，最高與最低經濟增長率之間的差距是多少？", "answer": "B", "choice": ["0.8%", "3.5%", "2.2%", "4.5%"]}
 {"category": "Open", "question_type": "Ranking", "question": "2023年和2024年的新興市場通脹率中，哪一年的值是最高的？", "answer": "由於沒有具體數據，無法確定哪一年的通脹率較高。"}
-{"category": "MCQ", "question_type": "Ranking", "question": "根據2023年和2024年的新興市場通脹率趨勢，下列哪一年的通脹率可能較高？（請參考提供的圖表）", "answer": "C", "choice": ["2023年的通脹率可能低於2024年", "2024年的通脹率可能高於2023年，但不一定", "無法確定，因為缺乏具體數據", "在不同經濟情況下，通脹率可能會存在變動"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據2023年和2024年的新興市場通脹率趨勢，下列哪一年的通脹率可能較高？（請參考提供的圖表）", "answer": "B", "choice": ["在不同經濟情況下，通脹率可能會存在變動", "無法確定，因為缺乏具體數據", "2023年的通脹率可能低於2024年", "2024年的通脹率可能高於2023年，但不一定"]}
 {"category": "Open", "question_type": "Comparison", "question": "根據圖1，哪個地區的經濟增長率最低？", "answer": "1.5%"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "在圖2中，這兩個國家的利率變動差是多少基點？", "answer": "10基點"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據表3的資料，2023年和2024年的市場規模之間的差異是多少？", "answer": "C", "choice": ["350", "275", "333", "331"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據表5的資料，從2023年到2024年，資產管理規模的百分比增長可能是多少？", "answer": "A", "choice": ["12%", "20%", "10%", "8%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表3的資料，2023年和2024年的市場規模之間的差異是多少？", "answer": "D", "choice": ["350", "331", "275", "333"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表5的資料，從2023年到2024年，資產管理規模的百分比增長可能是多少？", "answer": "C", "choice": ["10%", "8%", "12%", "20%"]}
 {"category": "YesNo", "question_type": "Comparison", "question": "根據表1，人工智慧市場的年增長率是所有市場中最高的，且其市場規模是2000。", "answer": "是", "question_group": 669}
 
 {"category": "YesNo", "question_type": "Comparison", "question": "根據表1，醫療健康市場的年增長率是所有市場中最高的，且其市場規模是2000。", "answer": "否", "question_group": 669}

@@ -4,23 +4,23 @@
 {"category": "Open", "question_type": "Temporal Reasoning", "question": "在 2024 年的整體滿意度從 Q1 到 Q4 增加了多少百分比？", "answer": "增加了 5%。"}
 {"category": "Open", "question_type": "Aggregation", "question": "2024 年各季度跨境理賠服務的平均滿意度是多少？", "answer": "83.5%"}
 {"category": "Open", "question_type": "Aggregation", "question": "2024-01 和 2024-04 的理賠流程金額總和是多少？", "answer": "18300"}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據更新後的資料，意外險和健康險的文件數量總數為多少？請參考提供的資料圖表。以下哪項選擇是正確的？", "answer": "C", "choice": ["19", "21", "20", "22"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據所提供的資料，所有保險類別的新上限加總的結果是？", "answer": "C", "choice": ["370,000", "365,000", "368,000", "369,000"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2024年的數據，線上系統的使用百分比在2024Q1到2024Q4之間發生了變化。以下哪一項最佳描述了這一變化的情況？", "answer": "C", "choice": ["總體增加了10%", "總體減少了5%", "總體增加了15%", "總體增加了20%"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2024年每季滿意度報告，從Q1到Q4的滿意度變化情況中，滿意度的增加百分比為多少？", "answer": "C", "choice": ["增加了4%", "增加了6%", "增加了5%", "增加了8%"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的圖片，各季度跨境理賠服務的平均滿意度為多少？", "answer": "C", "choice": ["82.5%", "84.2%", "83.5%", "81.0%"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖中的理賠流程，請問2024-01和2024-04的理賠金額總和是多少？", "answer": "C", "choice": ["25000", "17500", "18300", "21000"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據更新後的資料，意外險和健康險的文件數量總數為多少？請參考提供的資料圖表。以下哪項選擇是正確的？", "answer": "D", "choice": ["21", "22", "19", "20"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據所提供的資料，所有保險類別的新上限加總的結果是？", "answer": "D", "choice": ["369,000", "365,000", "370,000", "368,000"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2024年的數據，線上系統的使用百分比在2024Q1到2024Q4之間發生了變化。以下哪一項最佳描述了這一變化的情況？", "answer": "B", "choice": ["總體增加了10%", "總體增加了15%", "總體減少了5%", "總體增加了20%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2024年每季滿意度報告，從Q1到Q4的滿意度變化情況中，滿意度的增加百分比為多少？", "answer": "D", "choice": ["增加了6%", "增加了8%", "增加了4%", "增加了5%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的圖片，各季度跨境理賠服務的平均滿意度為多少？", "answer": "A", "choice": ["83.5%", "84.2%", "81.0%", "82.5%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖中的理賠流程，請問2024-01和2024-04的理賠金額總和是多少？", "answer": "C", "choice": ["21000", "25000", "18300", "17500"]}
 {"category": "Open", "question_type": "Temporal Trend", "question": "從2022年到2023年，保險公司數位化理賠系統的採用率是增加還是減少？", "answer": "從2022年到2023年，保險公司數位化理賠系統的採用率是增加的。"}
 {"category": "Open", "question_type": "Rate of Change", "question": "2022年和2023年保險公司數位化理賠系統採用率的增長率是多少？", "answer": "15.38%"}
 {"category": "Open", "question_type": "Rate of Change", "question": "從2024Q3到2024Q4，'符合條件'系列的申請比例變化率是多少？", "answer": "1.96%"}
-{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據提供的數據，保險公司數位化理賠系統的採用率從2022年到2023年發生了什麼變化？", "answer": "C", "choice": ["在某些地區增加，在其他地區保持不變", "整體減少", "增加", "部分回落"]}
-{"category": "MCQ", "question_type": "Rate of Change", "question": "根據數據，2022年和2023年保險公司數位化理賠系統的採用率增長率為多少？圖中顯示了不同百分比的變化。請選出正確的增長率。", "answer": "C", "choice": ["13.5%", "18%", "15.38%", "14%"]}
-{"category": "MCQ", "question_type": "Rate of Change", "question": "根據提供的數據，從2024Q3到2024Q4，'符合條件'系列的申請比例變化率最接近下列哪一選項？", "answer": "C", "choice": ["4.50%", "1.50%", "1.96%", "2.25%"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據提供的數據，保險公司數位化理賠系統的採用率從2022年到2023年發生了什麼變化？", "answer": "C", "choice": ["在某些地區增加，在其他地區保持不變", "部分回落", "增加", "整體減少"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據數據，2022年和2023年保險公司數位化理賠系統的採用率增長率為多少？圖中顯示了不同百分比的變化。請選出正確的增長率。", "answer": "C", "choice": ["13.5%", "14%", "15.38%", "18%"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據提供的數據，從2024Q3到2024Q4，'符合條件'系列的申請比例變化率最接近下列哪一選項？", "answer": "B", "choice": ["1.50%", "1.96%", "4.50%", "2.25%"]}
 {"category": "Open", "question_type": "Aggregation", "question": "根據圖7，2024年四個季度中符合條件的申請比例總和是多少？", "answer": "201"}
 {"category": "Open", "question_type": "Aggregation", "question": "根據表6的資料，從2024Q1到2024Q4，跨境理賠服務滿意度的總變化百分比是多少？", "answer": "7%"}
 {"category": "Open", "question_type": "Aggregation", "question": "根據表1的資料，結合意外險和健康險的更新前文件總數與更新後文件總數，總共減少了多少百分比？", "answer": "20%"}
 {"category": "Open", "question_type": "Aggregation", "question": "根據表3的資料，計算所有培訓類別的總參與人數是多少？", "answer": "總參與人數是 490"}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖5，所有調查指標的滿意度平均值大約為多少？", "answer": "D", "choice": ["81.50", "85.25", "83.00", "82.33"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖5，所有調查指標的滿意度平均值大約為多少？", "answer": "D", "choice": ["85.25", "83.00", "81.50", "82.33"]}
 {"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖7，從2024Q3到2024Q4，'符合條件'系列的申請比例變化率是1.96%。", "answer": "是", "question_group": 1136}
 
 {"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖7，從2024Q3到2024Q4，'符合條件'系列的申請比例變化率是3.50%。", "answer": "否", "question_group": 1136}

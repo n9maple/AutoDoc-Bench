@@ -3,16 +3,16 @@
 {"category": "Open", "question_type": "Temporal Reasoning", "question": "從2024年到2026年，供應商合規率的變化趨勢是如何的？", "answer": "從2024年到2026年，供應商合規率呈現穩定上升的趨勢，每年增加10個百分點。"}
 {"category": "Open", "question_type": "Aggregation", "question": "2023 年和 2024 年的支持項目數量總和是多少？", "answer": "支持項目數量總和是35。"}
 {"category": "Open", "question_type": "Temporal Reasoning", "question": "2024年的反饋次數與2023年相比增加了多少？", "answer": "5"}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據附圖，從2024年到2026年，社區投資基金規模的年均增長約為多少？", "answer": "C", "choice": ["1.2", "1.3", "1", "0.5"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據附圖，從2024年到2026年，社區投資基金規模的年均增長約為多少？", "answer": "B", "choice": ["1.2", "1", "0.5", "1.3"]}
 {"category": "Open", "question_type": "Temporal Reasoning", "question": "根據圖表，在2023年到2025年間，獨立董事比例的增長率為何？\nA. 15%\nB. 25%\n", "answer": "B. 25%"}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據供應商合規率的趨勢分析，從2024年到2026年，合規率的變化情況如何？", "answer": "C", "choice": ["供應商合規率每年減少2個百分點，顯示輕微下降的趨勢。", "供應商合規率每年增加1個百分點，呈現緩慢上升的趨勢。", "供應商合規率每年增加10個百分點，呈現穩定上升的趨勢。", "供應商合規率在2024年到2026年間每年增加5個百分點，顯示中度上升的趨勢。"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，2023 年和 2024 年的支持項目數量總和是多少？", "answer": "C", "choice": ["支持項目數量總和是 37。", "支持項目數量總和是 30。", "支持項目數量總和是 35。", "支持項目數量總和是 34。"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據提供的數據，2024年的反饋次數與2023年相比，增長的幅度是多少？請根據圖表中的內容選出最符合的選項。", "answer": "C", "choice": ["8", "4", "5", "6"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據供應商合規率的趨勢分析，從2024年到2026年，合規率的變化情況如何？", "answer": "D", "choice": ["供應商合規率在2024年到2026年間每年增加5個百分點，顯示中度上升的趨勢。", "供應商合規率每年增加1個百分點，呈現緩慢上升的趨勢。", "供應商合規率每年減少2個百分點，顯示輕微下降的趨勢。", "供應商合規率每年增加10個百分點，呈現穩定上升的趨勢。"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，2023 年和 2024 年的支持項目數量總和是多少？", "answer": "D", "choice": ["支持項目數量總和是 37。", "支持項目數量總和是 30。", "支持項目數量總和是 34。", "支持項目數量總和是 35。"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據提供的數據，2024年的反饋次數與2023年相比，增長的幅度是多少？請根據圖表中的內容選出最符合的選項。", "answer": "D", "choice": ["4", "6", "8", "5"]}
 {"category": "Open", "question_type": "Temporal Trend", "question": "從2024年到2026年，可再生能源的投資金額增長了多少億美元？", "answer": "2.2億美元"}
 {"category": "Open", "question_type": "Temporal Trend", "question": "從2024年至2026年，員工滿意度的趨勢是如何變化的？", "answer": "從2024年至2026年，員工滿意度呈現上升趨勢，每年增加4個百分點。"}
-{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據下圖所示，從2024年到2026年，可再生能源的投資金額增長了多少億美元？", "answer": "C", "choice": ["2.0億美元", "2.4億美元", "2.2億美元", "2.6億美元"]}
-{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖表，從2024年至2026年，員工滿意度的變化趨勢是什麼？", "answer": "C", "choice": ["員工滿意度在2024年至2025年間減少，2025年至2026年間增加", "員工滿意度在2026年達到最高點並保持不變", "員工滿意度每年增加4個百分點", "員工滿意度從2024年到2026年減少了2個百分點"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表1，2024年至2026年間，社區投資基金規模的平均年度增長率是多少？請選擇正確的選項。", "answer": "C", "choice": ["2", "1.2", "1", "2.5"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據下圖所示，從2024年到2026年，可再生能源的投資金額增長了多少億美元？", "answer": "D", "choice": ["2.0億美元", "2.6億美元", "2.4億美元", "2.2億美元"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖表，從2024年至2026年，員工滿意度的變化趨勢是什麼？", "answer": "A", "choice": ["員工滿意度每年增加4個百分點", "員工滿意度在2026年達到最高點並保持不變", "員工滿意度在2024年至2025年間減少，2025年至2026年間增加", "員工滿意度從2024年到2026年減少了2個百分點"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表1，2024年至2026年間，社區投資基金規模的平均年度增長率是多少？請選擇正確的選項。", "answer": "B", "choice": ["2.5", "1", "2", "1.2"]}
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，2023 年和 2024 年的支持項目數量總和是 35。", "answer": "是", "question_group": 1076}
 
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，2023 年和 2024 年的支持項目數量總和是 30。", "answer": "否", "question_group": 1076}

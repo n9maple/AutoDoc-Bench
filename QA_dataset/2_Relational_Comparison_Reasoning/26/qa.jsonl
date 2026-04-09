@@ -2,9 +2,9 @@
 {"category": "Open", "question_type": "Comparison", "question": "哪個國家的政府債券和企業債券收益率差距最大？", "answer": "中國"}
 {"category": "Open", "question_type": "Comparison", "question": "現金及等價物和高流動性資產的比例是否相等？", "answer": "現金及等價物和高流動性資產的比例相等。"}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中顯示的不同國家政府債券與企業債券的收益率差距，以下哪個國家的政府和企業債券收益率差距最大？", "answer": "C", "choice": ["日本", "美國", "中國", "德國"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，現金及等價物和高流動性資產的比例是否相等？", "answer": "C", "choice": ["現金及等價物的比例高於高流動性資產的比例，現金及等價物為70%，高流動性資產為50%。", "現金及等價物和高流動性資產的比例不相等，現金及等價物為百分之五十，高流動性資產為百分之七十。", "現金及等價物和高流動性資產的比例相等。", "現金及等價物和高流動性資產的比例無法比較，因為沒有足夠的數據支持。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，現金及等價物和高流動性資產的比例是否相等？", "answer": "D", "choice": ["現金及等價物的比例高於高流動性資產的比例，現金及等價物為70%，高流動性資產為50%。", "現金及等價物和高流動性資產的比例不相等，現金及等價物為百分之五十，高流動性資產為百分之七十。", "現金及等價物和高流動性資產的比例無法比較，因為沒有足夠的數據支持。", "現金及等價物和高流動性資產的比例相等。"]}
 {"category": "Open", "question_type": "Ranking", "question": "在債券信用評級分布中，哪個項目的比例最高？", "answer": "投資級的比例最高，為85.0%。"}
-{"category": "MCQ", "question_type": "Ranking", "question": "在債券信用評級分布中，根據提供的圖表，哪個項目的比例最高？", "answer": "C", "choice": ["投機級的比例為50.0%。", "非投資級的比例為65.0%。", "投資級的比例最高，為85.0%。", "投資級的比例為80.0%。"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "在債券信用評級分布中，根據提供的圖表，哪個項目的比例最高？", "answer": "C", "choice": ["非投資級的比例為65.0%。", "投機級的比例為50.0%。", "投資級的比例最高，為85.0%。", "投資級的比例為80.0%。"]}
 {"category": "Open", "question_type": "Comparison", "question": "根據圖2，哪個國家的通貨膨脹率是最低的？", "answer": "5.2%的國家"}
 {"category": "Open", "question_type": "Comparison", "question": "根據圖3，在債券信用評級中，投資級的數量比非投資級多出多少？", "answer": "70"}
 {"category": "YesNo", "question_type": "Comparison", "question": "根據表2，中國的政府和企業債券收益率差距是所有國家中最大的，為 0.8%。", "answer": "是", "question_group": 364}

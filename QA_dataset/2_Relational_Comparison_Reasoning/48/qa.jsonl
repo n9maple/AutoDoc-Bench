@@ -1,14 +1,14 @@
 {"category": "Open", "question_type": "Comparison", "question": "2024年的異常通報誤判率比2023年降低了多少百分比？", "answer": "2024年的異常通報誤判率比2023年降低了0.5%"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，2024年的異常通報誤判率相比2023年有何變化？", "answer": "C", "choice": ["2024年的異常通報誤判率比2023年提高了1.5%", "2024年的異常通報誤判率比2023年提高了0.5%", "2024年的異常通報誤判率比2023年降低了0.5%", "2024年的異常通報誤判率比2023年降低了1.0%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，2024年的異常通報誤判率相比2023年有何變化？", "answer": "A", "choice": ["2024年的異常通報誤判率比2023年降低了0.5%", "2024年的異常通報誤判率比2023年提高了1.5%", "2024年的異常通報誤判率比2023年提高了0.5%", "2024年的異常通報誤判率比2023年降低了1.0%"]}
 {"category": "Open", "question_type": "Difference Calculation", "question": "成功率最高與最低的驗證方式之間的差距是多少？", "answer": "2.5"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "準確率最低的異常情境類型與最高的差距是多少?", "answer": "準確率最低的異常情境類型與最高的差距是1.5%。"}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖片描述，成功率最高與最低的驗證方式之間的差距是？", "answer": "C", "choice": ["1.5", "2.3", "2.5", "2.8"]}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖片中不同的異常情境類型，準確率最低的異常情境類型與最高的差距是多少？", "answer": "C", "choice": ["3.5%", "2.5%", "1.5%", "1.2%"]}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據提供的圖表，TLS 1.3升級覆蓋率在2023年和2024年之間的變化是多少？", "answer": "C", "choice": ["覆蓋率在2024年比2023年增加了20%。", "TLS 1.3的升級覆蓋率在2023年為0%，2024年為100%，變化為100%。", "無法確定具體數值，因為未提供實際數據。", "根據圖表，變化範圍是從40%到80%，變化為40%。"]}
-{"category": "MCQ", "question_type": "Ranking", "question": "在2024年的數據中，以下哪些指標可能是數值最高的？（請根據所附圖片進行比較）", "answer": "C", "choice": ["傳輸成功率", "資料傳輸速度", "高強度加密套件使用率", "多因素認證使用率"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖片描述，成功率最高與最低的驗證方式之間的差距是？", "answer": "A", "choice": ["2.5", "2.8", "1.5", "2.3"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖片中不同的異常情境類型，準確率最低的異常情境類型與最高的差距是多少？", "answer": "D", "choice": ["2.5%", "3.5%", "1.2%", "1.5%"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據提供的圖表，TLS 1.3升級覆蓋率在2023年和2024年之間的變化是多少？", "answer": "D", "choice": ["根據圖表，變化範圍是從40%到80%，變化為40%。", "覆蓋率在2024年比2023年增加了20%。", "TLS 1.3的升級覆蓋率在2023年為0%，2024年為100%，變化為100%。", "無法確定具體數值，因為未提供實際數據。"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "在2024年的數據中，以下哪些指標可能是數值最高的？（請根據所附圖片進行比較）", "answer": "C", "choice": ["資料傳輸速度", "傳輸成功率", "高強度加密套件使用率", "多因素認證使用率"]}
 {"category": "Open", "question_type": "Difference Calculation", "question": "在圖4中，2023年和2024年相比，TLS 1.3升級覆蓋率的變化是多少？", "answer": "由於缺乏具體的數據，我無法計算出TLS 1.3升級覆蓋率的具體變化量。"}
-{"category": "MCQ", "question_type": "Ranking", "question": "根據圖4，2024年中哪一項指標的數值最低？", "answer": "B", "choice": ["網銀使用者增長率(小於5%)", "憑證自動輪替週期(天)", "憑證管理系統故障次數(次數上升至10次)", "憑證驗證成功率(低於80%)"]}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖1，風險等級12的漏洞數量與風險等級2的漏洞數量相差多少？以下哪一項是正確的描述？", "answer": "C", "choice": ["風險等級12的漏洞數量比風險等級2多20個。", "風險等級12的漏洞數量比風險等級2多11個。", "風險等級12的漏洞數量比風險等級2多10個。", "風險等級12的漏洞數量和風險等級2的漏洞數量相差5個。"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據圖4，2024年中哪一項指標的數值最低？", "answer": "D", "choice": ["憑證管理系統故障次數(次數上升至10次)", "憑證驗證成功率(低於80%)", "網銀使用者增長率(小於5%)", "憑證自動輪替週期(天)"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖1，風險等級12的漏洞數量與風險等級2的漏洞數量相差多少？以下哪一項是正確的描述？", "answer": "D", "choice": ["風險等級12的漏洞數量比風險等級2多11個。", "風險等級12的漏洞數量和風險等級2的漏洞數量相差5個。", "風險等級12的漏洞數量比風險等級2多20個。", "風險等級12的漏洞數量比風險等級2多10個。"]}
 {"category": "YesNo", "question_type": "Comparison", "question": "根據表4，2024年的異常通報誤判率比2023年降低了0.5%。", "answer": "是", "question_group": 458}
 
 {"category": "YesNo", "question_type": "Comparison", "question": "根據表4，2024年的異常通報誤判率比2023年增加了0.5%。", "answer": "否", "question_group": 458}

@@ -1,4 +1,4 @@
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據下圖所示，最左邊的指標數值是以下哪一項？", "answer": "C", "choice": ["60", "80", "100", "120"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據下圖所示，最左邊的指標數值是以下哪一項？", "answer": "B", "choice": ["60", "100", "80", "120"]}
 {"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖5，最左邊的指標數值是100。", "answer": "是", "question_group": 233}
 
 {"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖5，最左邊的指標數值是50。", "answer": "否", "question_group": 233}

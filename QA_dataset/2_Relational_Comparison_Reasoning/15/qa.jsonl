@@ -1,12 +1,12 @@
 {"category": "Open", "question_type": "Comparison", "question": "P2P貸款平台和眾籌平台中，哪個類型的受惠企業數相同？", "answer": "P2P貸款平台和眾籌平台的受惠企業數相同。"}
 {"category": "Open", "question_type": "Comparison", "question": "哪一項措施在提高參與意願方面的增幅最小？", "answer": "提高資訊透明度"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據下列情境，P2P貸款平台和眾籌平台中，哪個類型的受惠企業數量可能相同？", "answer": "C", "choice": ["P2P貸款平台的受惠企業數量一般較眾籌平台高，但在特定行業中可能相似。", "眾籌平台的受惠企業數量一般較P2P貸款平台多，但在某些情況下可能相同。", "P2P貸款平台和眾籌平台的受惠企業數量相同。", "受惠企業的數量可能受多種因素影響，因此不能簡單比較P2P貸款與眾籌平台的情況。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下列情境，P2P貸款平台和眾籌平台中，哪個類型的受惠企業數量可能相同？", "answer": "D", "choice": ["P2P貸款平台的受惠企業數量一般較眾籌平台高，但在特定行業中可能相似。", "眾籌平台的受惠企業數量一般較P2P貸款平台多，但在某些情況下可能相同。", "受惠企業的數量可能受多種因素影響，因此不能簡單比較P2P貸款與眾籌平台的情況。", "P2P貸款平台和眾籌平台的受惠企業數量相同。"]}
 {"category": "Open", "question_type": "Comparison", "question": "在中小企業貸款拒絕原因中，哪兩個原因的比例相同？", "answer": "財務報表不合格和信譽紀錄不足的比例相同"}
 {"category": "Open", "question_type": "Comparison", "question": "充分了解和不夠了解兩個類別的數量差距是多少？", "answer": "0"}
-{"category": "MCQ", "question_type": "Comparison", "question": "在中小企業貸款拒絕原因中，下列哪些原因的比例相同？請根據以下圖片做出選擇。", "answer": "C", "choice": ["信譽紀錄不足和應用資料不全", "財務報表不合格和未提供擔保", "財務報表不合格和信譽紀錄不足", "信譽紀錄不足和業務計劃不完善"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的數據，充分了解和不夠了解這兩個類別的數量差距是？", "answer": "C", "choice": ["中小企業充分了解的比例高於不夠了解的比例。", "不夠了解的中小企業顯著多於充分了解的企業", "0", "充分了解和不夠了解的比例為1:1"]}
-{"category": "MCQ", "question_type": "Ranking", "question": "根據所提供的數據，哪個指標的比例最高？(請參考圖片中的指標數據)", "answer": "D", "choice": ["指標 75 的比例為 30%，指標 97 的比例為 50%", "指標 75 和指標 50 的比例相同，都為 35%", "指標 50 的比例為 45%，指標 97 的比例為 40%", "指標 97 的比例最高"]}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖1，比例最高的指標和最低的指標之間的差異是多少？以下哪一個選項是正確的？", "answer": "C", "choice": ["80", "30", "57", "48"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在中小企業貸款拒絕原因中，下列哪些原因的比例相同？請根據以下圖片做出選擇。", "answer": "B", "choice": ["信譽紀錄不足和業務計劃不完善", "財務報表不合格和信譽紀錄不足", "財務報表不合格和未提供擔保", "信譽紀錄不足和應用資料不全"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的數據，充分了解和不夠了解這兩個類別的數量差距是？", "answer": "D", "choice": ["不夠了解的中小企業顯著多於充分了解的企業", "充分了解和不夠了解的比例為1:1", "中小企業充分了解的比例高於不夠了解的比例。", "0"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據所提供的數據，哪個指標的比例最高？(請參考圖片中的指標數據)", "answer": "B", "choice": ["指標 75 和指標 50 的比例相同，都為 35%", "指標 97 的比例最高", "指標 75 的比例為 30%，指標 97 的比例為 50%", "指標 50 的比例為 45%，指標 97 的比例為 40%"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖1，比例最高的指標和最低的指標之間的差異是多少？以下哪一個選項是正確的？", "answer": "A", "choice": ["57", "30", "80", "48"]}
 {"category": "YesNo", "question_type": "Comparison", "question": "根據表4，提高資訊透明度在提高參與意願方面的增幅為25%，是最小的。", "answer": "是", "question_group": 316}
 
 {"category": "YesNo", "question_type": "Comparison", "question": "根據表4，簡化申請程序在提高參與意願方面的增幅低於提高資訊透明度。", "answer": "否", "question_group": 316}

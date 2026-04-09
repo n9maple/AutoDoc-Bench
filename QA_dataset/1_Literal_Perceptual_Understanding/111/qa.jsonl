@@ -1,7 +1,7 @@
 {"category": "Open", "question_type": "Peak/Valley", "question": "在2022年至2023年間，全球經濟增長率是否達到了最高值，還是最低值？", "answer": "在2022年至2023年間，全球經濟增長率在2023年達到了最低值。"}
 {"category": "Open", "question_type": "Peak/Valley", "question": "從圖表中可以看出，2022年至2023年，全球貿易增長率的最高點出現在哪一年？", "answer": "2022年"}
-{"category": "MCQ", "question_type": "Peak/Valley", "question": "根據2022年至2023年間的經濟數據，全球經濟增長率在2023年達到了哪個值？", "answer": "C", "choice": ["經濟持平", "顯著增長", "最低值", "持續惡化"]}
-{"category": "MCQ", "question_type": "Peak/Valley", "question": "從下圖中可見，全球貿易增長率的最高點出現於哪一年？", "answer": "C", "choice": ["2020年", "2019年", "2022年", "2025年"]}
+{"category": "MCQ", "question_type": "Peak/Valley", "question": "根據2022年至2023年間的經濟數據，全球經濟增長率在2023年達到了哪個值？", "answer": "C", "choice": ["持續惡化", "經濟持平", "最低值", "顯著增長"]}
+{"category": "MCQ", "question_type": "Peak/Valley", "question": "從下圖中可見，全球貿易增長率的最高點出現於哪一年？", "answer": "A", "choice": ["2022年", "2019年", "2020年", "2025年"]}
 {"category": "YesNo", "question_type": "Peak/Valley", "question": "根據圖1，2023年的全球經濟增長率是最低值。", "answer": "是", "question_group": 247}
 
 {"category": "YesNo", "question_type": "Peak/Valley", "question": "根據圖1，2022年的全球經濟增長率是最低值。", "answer": "否", "question_group": 247}

@@ -1,7 +1,7 @@
 {"category": "Open", "question_type": "Aggregation", "question": "總體、亞洲和拉丁美洲的收益率的平均值是多少？", "answer": "7.7333%"}
 {"category": "Open", "question_type": "Aggregation", "question": "現金及等價物和高流動性資產的百分比總和是多少？", "answer": "10%"}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的數據，總體、亞洲和拉丁美洲的收益率的平均值為何？", "answer": "C", "choice": ["6.8500%", "8.9000%", "7.7333%", "7.9500%"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的財務報告，現金及等價物和高流動性資產的百分比總和是多少？", "answer": "C", "choice": ["9%", "11%", "10%", "14%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的數據，總體、亞洲和拉丁美洲的收益率的平均值為何？", "answer": "C", "choice": ["8.9000%", "7.9500%", "7.7333%", "6.8500%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的財務報告，現金及等價物和高流動性資產的百分比總和是多少？", "answer": "A", "choice": ["10%", "9%", "14%", "11%"]}
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，總體、亞洲和拉丁美洲的收益率的平均值為7.7333%。", "answer": "是", "question_group": 856}
 
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，總體、亞洲和拉丁美洲的收益率的平均值為8.0%。", "answer": "否", "question_group": 856}

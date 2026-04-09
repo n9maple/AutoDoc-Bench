@@ -1,9 +1,9 @@
 {"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果 2022 年的直接損失和間接損失都增加 10%，那麼這兩者的總和會是多少億？", "answer": "44億"}
 {"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果企業貸款總額增加了10，而個人貸款總額增加了5，新的總貸款額是多少？", "answer": "新的總貸款額是45。"}
 {"category": "Open", "question_type": "Multi-hop Reasoning", "question": "將房屋貸款與消費性貸款的佔比相加，然後比較這個總和和信用卡貸款的佔比，哪個較大？", "answer": "房屋貸款與消費性貸款的佔比總和較大"}
-{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據圖片所示，如果2022年的直接損失和間接損失都增加10%，那麼這兩者的總和將是以下哪一項？", "answer": "C", "choice": ["48億", "40億", "44億", "52億"]}
-{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "假設圖片顯示一個企業貸款和個人貸款的數據。若企業貸款總額增加了10，個人貸款總額增加了5，請問新的總貸款額是多少？", "answer": "C", "choice": ["新的總貸款額是55。", "新的總貸款額是50。", "新的總貸款額是45。", "新的總貸款額是40。"]}
-{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據圖表，房屋貸款與消費性貸款的佔比相加後，與信用卡貸款的佔比相比，哪一項較大？", "answer": "C", "choice": ["信用卡貸款的佔比比房屋和消費性貸款的總和更高", "消費性貸款的佔比在所有類型中最高", "房屋貸款與消費性貸款的佔比總和較大", "房屋貸款的佔比與消費性貸款的佔比相等且都低於信用卡貸款"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據圖片所示，如果2022年的直接損失和間接損失都增加10%，那麼這兩者的總和將是以下哪一項？", "answer": "A", "choice": ["44億", "48億", "52億", "40億"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "假設圖片顯示一個企業貸款和個人貸款的數據。若企業貸款總額增加了10，個人貸款總額增加了5，請問新的總貸款額是多少？", "answer": "A", "choice": ["新的總貸款額是45。", "新的總貸款額是55。", "新的總貸款額是40。", "新的總貸款額是50。"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據圖表，房屋貸款與消費性貸款的佔比相加後，與信用卡貸款的佔比相比，哪一項較大？", "answer": "C", "choice": ["房屋貸款的佔比與消費性貸款的佔比相等且都低於信用卡貸款", "信用卡貸款的佔比比房屋和消費性貸款的總和更高", "房屋貸款與消費性貸款的佔比總和較大", "消費性貸款的佔比在所有類型中最高"]}
 {"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表2，新的總貸款額是45。", "answer": "是", "question_group": 1489}
 
 {"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表2，新的總貸款額是50。", "answer": "否", "question_group": 1489}

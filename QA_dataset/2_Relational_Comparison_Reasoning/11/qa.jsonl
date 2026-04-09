@@ -3,15 +3,15 @@
 {"category": "Open", "question_type": "Comparison", "question": "從2023Q1到2023Q2，哪個城市的增長百分比最高？", "answer": "台北市的增長百分比最高，為1.5%。"}
 {"category": "Open", "question_type": "Comparison", "question": "在2023年第一季度和第二季度，哪一個城市的百分比增長變化最大？", "answer": "台中和高雄的百分比增長變化最大，均為4%。"}
 {"category": "Open", "question_type": "Comparison", "question": "2023Q2的投資項目數量相較於2022Q2增加了多少百分比？", "answer": "2023Q2的投資項目數量相較於2022Q2增加了15%。"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據所提供的經濟數據，2023年與2024年的經濟增長率差異為多少？", "answer": "C", "choice": ["0.4%", "0.1%", "0.2%", "0.3%"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中的數據，2022 年和 2023 年的建築成本變化率哪一年較高，並相差多少百分比？", "answer": "C", "choice": ["2022 年的建築成本變化率較高，相差 10%。", "2023 年的建築成本變化率較低，相差 10%。", "2023 年的建築成本變化率較高，相差 5%。", "2022 年的建築成本變化率較高，相差 5%。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的數據，從2023 Q1到2023 Q2，哪些城市的增長百分比為以下選項中最大的？", "answer": "C", "choice": ["台中市的增長百分比為1.6%", "高雄市的增長百分比為2.0%", "台北市的增長百分比為1.5%", "新北市的增長百分比為1.8%"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據給定數據，在2023年第一季度和第二季度中，以下哪一個城市的百分比增長變化最大？", "answer": "C", "choice": ["在2023年第二季度，台中的百分比增長為8%", "高雄的增長變化在2023年第二季度中為2%", "台中和高雄的百分比增長均為4%", "2023年第二季度，台中增長5%而高雄增長為4%"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片顯示的數據，2023Q2的投資項目數量相較於2022Q2增加了多少百分比？", "answer": "C", "choice": ["增加了10%", "增加了25%", "增加了15%", "增加了12%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據所提供的經濟數據，2023年與2024年的經濟增長率差異為多少？", "answer": "D", "choice": ["0.4%", "0.1%", "0.3%", "0.2%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中的數據，2022 年和 2023 年的建築成本變化率哪一年較高，並相差多少百分比？", "answer": "A", "choice": ["2023 年的建築成本變化率較高，相差 5%。", "2022 年的建築成本變化率較高，相差 10%。", "2022 年的建築成本變化率較高，相差 5%。", "2023 年的建築成本變化率較低，相差 10%。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的數據，從2023 Q1到2023 Q2，哪些城市的增長百分比為以下選項中最大的？", "answer": "B", "choice": ["高雄市的增長百分比為2.0%", "台北市的增長百分比為1.5%", "台中市的增長百分比為1.6%", "新北市的增長百分比為1.8%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據給定數據，在2023年第一季度和第二季度中，以下哪一個城市的百分比增長變化最大？", "answer": "D", "choice": ["2023年第二季度，台中增長5%而高雄增長為4%", "在2023年第二季度，台中的百分比增長為8%", "高雄的增長變化在2023年第二季度中為2%", "台中和高雄的百分比增長均為4%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片顯示的數據，2023Q2的投資項目數量相較於2022Q2增加了多少百分比？", "answer": "C", "choice": ["增加了10%", "增加了12%", "增加了15%", "增加了25%"]}
 {"category": "Open", "question_type": "Comparison", "question": "在土地市場成交總額年度增長圖表中，成交總額最高的季度是哪一個？", "answer": "成交總額最高的季度是季度 500"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "在土地市場成交總額年度增長圖表中，最高與最低成交總額的差距是多少？", "answer": "65億元"}
-{"category": "MCQ", "question_type": "Comparison", "question": "在土地市場成交總額年度增長圖表中，哪一個季度的成交總額最高？請根據圖表內容選擇正確的選項。", "answer": "C", "choice": ["季度 350", "季度 480", "季度 500", "季度 600"]}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據土地市場成交總額年度增長圖表，最高與最低成交總額的差距為多少？", "answer": "C", "choice": ["75億元", "60億元", "65億元", "50億元"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在土地市場成交總額年度增長圖表中，哪一個季度的成交總額最高？請根據圖表內容選擇正確的選項。", "answer": "C", "choice": ["季度 480", "季度 350", "季度 500", "季度 600"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據土地市場成交總額年度增長圖表，最高與最低成交總額的差距為多少？", "answer": "D", "choice": ["60億元", "75億元", "50億元", "65億元"]}
 {"category": "Open", "question_type": "Comparison", "question": "根據圖3，哪個季度的成交總額較高？", "answer": "第二個季度的成交總額較高"}
 {"category": "Open", "question_type": "Comparison", "question": "依據表6，請問台中和高雄在2023Q1至2023Q2的增長幅度差異是多少？", "answer": "4%"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "在圖3中，兩個季度的成交總額差是多少新台幣億元？", "answer": "65億元"}

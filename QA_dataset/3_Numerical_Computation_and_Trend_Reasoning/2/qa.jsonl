@@ -1,12 +1,12 @@
 {"category": "Open", "question_type": "Aggregation", "question": "從2020年到2025年，市場規模總共增長了多少？", "answer": "市場規模總共增長了18.31。"}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據以下圖表，從2020年到2025年，市場規模的增長幅度是多少？", "answer": "C", "choice": ["市場規模總共增長了15.50", "市場規模總共增長了25.00", "市場規模總共增長了18.31", "市場規模總共減少了2.00"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據以下圖表，從2020年到2025年，市場規模的增長幅度是多少？", "answer": "C", "choice": ["市場規模總共增長了15.50", "市場規模總共減少了2.00", "市場規模總共增長了18.31", "市場規模總共增長了25.00"]}
 {"category": "Open", "question_type": "Rate of Change", "question": "從2024年到2025年，綠色金融研討會次數增加的比率是多少？", "answer": "增加的比率是20%"}
 {"category": "Open", "question_type": "Aggregation", "question": "從2023年至2027年，員工培訓次數的總和是多少？", "answer": "40"}
 {"category": "Open", "question_type": "Temporal Trend", "question": "從2022到2024年間，綠色投資基金的投資回報率有什麼變化趨勢？", "answer": "從2022到2024年間，綠色投資基金的投資回報率呈現逐年增加的趨勢，每年增加0.5%。"}
-{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2023年至2027年員工培訓次數的變化，可以得出什麼結論？", "answer": "C", "choice": ["員工培訓次數在2023年至2024年間快速增長，之後在2025年達到高點後持平。", "員工培訓次數從2023年開始降低，並在2026年和2027年持續下降。", "員工培訓次數呈現穩定增長趨勢。", "員工培訓次數在2025年達到最低點之後開始回升，呈現波動增長的趨勢。"]}
-{"category": "MCQ", "question_type": "Rate of Change", "question": "根據下圖，從2024年到2025年，綠色金融研討會的次數增加的比率是多少？", "answer": "C", "choice": ["15%", "30%", "20%", "25%"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據以下圖表，從2023年至2027年，員工培訓次數的總和是多少？", "answer": "C", "choice": ["25", "50", "40", "35"]}
-{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖表顯示，從2022到2024年間，綠色投資基金的投資回報率有什麼變化趨勢？", "answer": "C", "choice": ["投資回報率逐年增長，每年增加1%。", "投資回報率在2023年達到最高點，2024年回落至2022年的水平。", "投資回報率逐年增加，每年增加0.5%。", "投資回報率從2022年到2024年保持不變，沒有增長。"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2023年至2027年員工培訓次數的變化，可以得出什麼結論？", "answer": "A", "choice": ["員工培訓次數呈現穩定增長趨勢。", "員工培訓次數在2025年達到最低點之後開始回升，呈現波動增長的趨勢。", "員工培訓次數在2023年至2024年間快速增長，之後在2025年達到高點後持平。", "員工培訓次數從2023年開始降低，並在2026年和2027年持續下降。"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據下圖，從2024年到2025年，綠色金融研討會的次數增加的比率是多少？", "answer": "B", "choice": ["15%", "20%", "25%", "30%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據以下圖表，從2023年至2027年，員工培訓次數的總和是多少？", "answer": "A", "choice": ["40", "35", "25", "50"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖表顯示，從2022到2024年間，綠色投資基金的投資回報率有什麼變化趨勢？", "answer": "B", "choice": ["投資回報率在2023年達到最高點，2024年回落至2022年的水平。", "投資回報率逐年增加，每年增加0.5%。", "投資回報率逐年增長，每年增加1%。", "投資回報率從2022年到2024年保持不變，沒有增長。"]}
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據圖1，從2023年至2027年，員工培訓次數的總和是40次。", "answer": "是", "question_group": 769}
 
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據圖1，從2023年至2027年，員工培訓次數的總和是45次。", "answer": "否", "question_group": 769}

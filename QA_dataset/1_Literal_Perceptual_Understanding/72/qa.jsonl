@@ -1,10 +1,10 @@
 {"category": "Open", "question_type": "Fact Lookup", "question": "1月至12月中，哪個月的『初步審查10日內完成率』與同年9月相同？", "answer": "2月、5月、7月、10月、12月"}
 {"category": "Open", "question_type": "Fact Lookup", "question": "哪一年異常操作警示次數最少？", "answer": "2023 年異常操作警示次數最少，為 29"}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "在1月至12月中，哪個月的『初步審查10日內完成率』與同年9月相同？（請參考提供的數據圖）", "answer": "C", "choice": ["1月、4月、6月、10月、12月", "1月、3月、4月、8月、11月", "2月、5月、7月、10月、12月", "5月、6月、7月、10月、11月"]}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據以下圖表，哪一年異常操作警示次數最少？", "answer": "C", "choice": ["2024年", "2022年", "2023年", "2021年"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "在1月至12月中，哪個月的『初步審查10日內完成率』與同年9月相同？（請參考提供的數據圖）", "answer": "A", "choice": ["2月、5月、7月、10月、12月", "1月、4月、6月、10月、12月", "1月、3月、4月、8月、11月", "5月、6月、7月、10月、11月"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據以下圖表，哪一年異常操作警示次數最少？", "answer": "A", "choice": ["2023年", "2024年", "2022年", "2021年"]}
 {"category": "Open", "question_type": "Fact Lookup", "question": "在2023年Q4各產業類別中，啟用電子支付企業數超過500的有幾個？", "answer": "3"}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2023年Q4的數據，啟用電子支付企業數超過500的產業類別數量為多少？(請參考提供的圖片資訊)", "answer": "C", "choice": ["5", "2", "3", "6"]}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "在下方流程項目中，數值等於30的項目有幾個？請參考圖示。", "answer": "C", "choice": ["1", "5", "2", "4"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2023年Q4的數據，啟用電子支付企業數超過500的產業類別數量為多少？(請參考提供的圖片資訊)", "answer": "B", "choice": ["2", "3", "6", "5"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "在下方流程項目中，數值等於30的項目有幾個？請參考圖示。", "answer": "D", "choice": ["5", "1", "4", "2"]}
 {"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表3，2023年的異常操作警示次數最少，為29次。", "answer": "是", "question_group": 196}
 
 {"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表3，2022年的異常操作警示次數最少，為36次。", "answer": "否", "question_group": 196}

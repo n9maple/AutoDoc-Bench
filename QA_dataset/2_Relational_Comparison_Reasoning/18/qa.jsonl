@@ -1,11 +1,11 @@
 {"category": "Open", "question_type": "Comparison", "question": "2025 年哪家保險公司的市場份額比太平洋保險多，但比中國人壽少？", "answer": "平安保險"}
 {"category": "Open", "question_type": "Comparison", "question": "2027 年的普及率比 2026 年高出多少百分點？", "answer": "4 個百分點"}
 {"category": "Open", "question_type": "Comparison", "question": "2025年的市場占有率變化比2024年多了多少個百分點？", "answer": "2025年的市場占有率變化比2024年多了1個百分點。"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2025年的市場分析，哪家保險公司的市場份額在太平洋保險之上，但又低於中國人壽？", "answer": "C", "choice": ["人保財險", "中國太平保險", "平安保險", "陽光保險"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2026年和2027年的數據，2027年的普及率與2026年相比，增長了多少百分點？請參考提供的資料圖表。", "answer": "D", "choice": ["8個百分點", "5個百分點", "1個百分點", "4個百分點"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，2025年的市場占有率變化比2024年多了多少個百分點？", "answer": "C", "choice": ["1.5個百分點", "0.5個百分點", "1個百分點", "3個百分點"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2025年的市場分析，哪家保險公司的市場份額在太平洋保險之上，但又低於中國人壽？", "answer": "A", "choice": ["平安保險", "陽光保險", "人保財險", "中國太平保險"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2026年和2027年的數據，2027年的普及率與2026年相比，增長了多少百分點？請參考提供的資料圖表。", "answer": "C", "choice": ["8個百分點", "1個百分點", "4個百分點", "5個百分點"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，2025年的市場占有率變化比2024年多了多少個百分點？", "answer": "B", "choice": ["1.5個百分點", "1個百分點", "3個百分點", "0.5個百分點"]}
 {"category": "Open", "question_type": "Difference Calculation", "question": "數值最高的健康險特性與最低的健康險特性消費者比例差距是多少？", "answer": "10"}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖片中的數據，數值最高的健康險特性和最低的健康險特性之間的消費者比例差距是多少？", "answer": "C", "choice": ["9", "11", "10", "13"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖片中的數據，數值最高的健康險特性和最低的健康險特性之間的消費者比例差距是多少？", "answer": "A", "choice": ["10", "13", "11", "9"]}
 {"category": "Open", "question_type": "Comparison", "question": "根據表2的資料，眾安保險2025年的市場份額相當於中國人壽的百分之多少？", "answer": "16.67%"}
 {"category": "YesNo", "question_type": "Comparison", "question": "根據表4，2027年的普及率比2026年高出4個百分點。", "answer": "是", "question_group": 325}
 

@@ -1,37 +1,27 @@
 {"category": "Open", "question_type": "Fact Lookup", "question": "哪一年培訓後合規理解提升的百分比最高？", "answer": "2024 年培訓後合規理解提升的百分比最高，為 96%。"}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據培訓後合規理解的提升百分比，以下哪一年顯示出最高的提升？", "answer": "C", "choice": ["2023 年顯示出提升，達到 91%。", "2024 年顯示出提升，達到 92%。", "2024 年顯示出最高的提升，達到 96%。", "2025 年顯示出提升，達到 95%。"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據培訓後合規理解的提升百分比，以下哪一年顯示出最高的提升？", "answer": "B", "choice": ["2024 年顯示出提升，達到 92%。", "2024 年顯示出最高的提升，達到 96%。", "2023 年顯示出提升，達到 91%。", "2025 年顯示出提升，達到 95%。"]}
 {"category": "Open", "question_type": "Fact Lookup", "question": "2020年到2023年之間，哪一年消費者對可持續產品的付費意願比例最低？", "answer": "2020年"}
 {"category": "Open", "question_type": "Fact Lookup", "question": "在不同類別的合作夥伴中，資金籌集額最右邊的項目是多少？", "answer": "1 億美元"}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2020年到2023年的消費者調查，哪一年消費者對可持續產品的付費意願比例最低？請參考以下數據圖表。", "answer": "C", "choice": ["2021年", "2022年", "2020年", "2023年"]}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "在不同類別的合作夥伴中，根據圖片，資金籌集額最右邊的項目為何?", "answer": "C", "choice": ["8000 萬美元", "1.2 億美元", "1 億美元", "1.3 億美元"]}
-{"category": "Open", "question_type": "Fact Lookup", "question": "根據圖片所述情境，哪些外部變因在推動全球可持續發展金融市場需求增長方面最顯著，並對市場需求細微動態及金融產品創新產生影響？", "answer": "政策激勵"}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖片所述情境，哪些外部變因在推動全球可持續發展金融市場需求增長方面最顯著，並對市場需求細微動態及金融產品創新產生影響？", "answer": "C", "choice": ["出口貿易平衡", "技術創新", "政策激勵", "消費者怠惰"]}
-{"category": "Open", "question_type": "Fact Lookup", "question": "在第一銀行的ESG金融產品策略中，綠色貸款方案的應用對環境可持續性產生了哪些具體影響？比較以下四種情境，選擇最符合第一銀行綠色貸款成果的選項：", "answer": "綠色貸款方案支持了超過200家企業，每年減少50萬公噸的二氧化碳。"}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "在第一銀行的ESG金融產品策略中，綠色貸款方案的應用對環境可持續性產生了哪些具體影響？比較以下四種情境，選擇最符合第一銀行綠色貸款成果的選項：", "answer": "C", "choice": ["綠色貸款方案僅僅減少了10萬公噸的二氧化碳。", "綠色貸款方案支持了180家企業，每年減少45萬公噸的二氧化碳。", "綠色貸款方案支持了超過200家企業，每年減少50萬公噸的二氧化碳。", "綠色貸款方案僅限於支持大企業的環保專案。"]}
-{"category": "Open", "question_type": "Fact Lookup", "question": "在考慮圖片中描述的第一銀行在可持續金融產品中的多層風險管理及合規策略時，哪一項敘述最能反映其在降低風險損失、提升合規得分和增強市場競爭力方面的成效？", "answer": "第一銀行的風險損失率降低了20%，並提升了內部審查合規及風險管理得分至超過90分。"}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "在考慮圖片中描述的第一銀行在可持續金融產品中的多層風險管理及合規策略時，哪一項敘述最能反映其在降低風險損失、提升合規得分和增強市場競爭力方面的成效？", "answer": "C", "choice": ["內部審計報告顯示，銀行的風險管理得分達到了85分以上，但合規風險顯著增加。", "第一銀行主要依賴大數據分析技術和有限的合規措施提升市場競爭力。", "第一銀行的風險損失率降低了20%，並提升了內部審查合規及風險管理得分至超過90分。", "風險管理措施使銀行的市場份額增加了20%，但合規得分未超過87分。"]}
-{"category": "Open", "question_type": "Fact Lookup", "question": "根據圖片描述，在推動可持續金融產品的過程中，第一銀行選擇與哪類型的合作夥伴以在環境與社會責任方面做出重大貢獻？", "answer": "A. 第一銀行通過與可再生能源公司合作，實現綠色投資。"}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖片描述，在推動可持續金融產品的過程中，第一銀行選擇與哪類型的合作夥伴以在環境與社會責任方面做出重大貢獻？", "answer": "C", "choice": ["E. 第一銀行與多家國際環保組織合作開發全球變暖調適項目。", "B. 第一銀行與高科技公司合作創新可持續物流解決方案。", "A. 第一銀行通過與可再生能源公司合作，實現綠色投資。", "C. 第一銀行通過與教育領域非營利組織合作，推動可持續教育項目。"]}
-{"category": "Open", "question_type": "Fact Lookup", "question": "在圖片描述中，第一銀行採用了哪種策略來促進市場對可持續金融產品的認識？這些策略對潛在客戶的轉化率和忠誠度有何不同的影響？", "answer": "A) 多渠道市場宣傳提高了查詢量與轉化率。 B) 系統化客戶教育顯著增強了客戶忠誠度。 C) 個性化咨詢服務提高了查詢量與轉化率。 D) 多渠道市場宣傳顯著增強了客戶忠誠度。\n\n正確答案: A) 和 B)"}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "在圖片描述中，第一銀行採用了哪種策略來促進市場對可持續金融產品的認識？這些策略對潛在客戶的轉化率和忠誠度有何不同的影響？", "answer": "C", "choice": ["A) 多渠道市場宣傳顯著增強了客戶忠誠度。", "C) 個性化咨詢服務提高了查詢量與轉化率。", "A) 多渠道市場宣傳提高了查詢量與轉化率。 B) 系統化客戶教育顯著增強了客戶忠誠度。 C) 個性化咨詢服務提高了查詢量與轉化率。 D) 多渠道市場宣傳顯著增強了客戶忠誠度。", "D) 多渠道市場宣傳顯著增強了客戶忠誠度。"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2020年到2023年的消費者調查，哪一年消費者對可持續產品的付費意願比例最低？請參考以下數據圖表。", "answer": "C", "choice": ["2021年", "2023年", "2020年", "2022年"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "在不同類別的合作夥伴中，根據圖片，資金籌集額最右邊的項目為何?", "answer": "C", "choice": ["1.2 億美元", "1.3 億美元", "1 億美元", "8000 萬美元"]}
+{"category": "Open", "question_type": "Fact Lookup", "question": "哪些外部變因在推動全球可持續發展金融市場需求增長方面最顯著，並對市場需求細微動態及金融產品創新產生影響？", "answer": "政策激勵"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "哪些外部變因在推動全球可持續發展金融市場需求增長方面最顯著，並對市場需求細微動態及金融產品創新產生影響？", "answer": "C", "choice": ["消費者怠惰", "技術創新", "政策激勵", "出口貿易平衡"]}
+{"category": "Open", "question_type": "Fact Lookup", "question": "在第一銀行的ESG金融產品策略中，綠色貸款方案的應用對環境可持續性產生了哪些具體影響？比較四種不同情境的描述後，選出最符合第一銀行綠色貸款實際成果的選項。", "answer": "綠色貸款方案支持了超過200家企業，每年減少50萬公噸的二氧化碳。"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "在第一銀行的ESG金融產品策略中，綠色貸款方案的應用對環境可持續性產生了哪些具體影響？比較四種不同情境的描述後，選出最符合第一銀行綠色貸款實際成果的選項。", "answer": "A", "choice": ["綠色貸款方案支持了超過200家企業，每年減少50萬公噸的二氧化碳。", "綠色貸款方案僅限於支持大企業的環保專案。", "綠色貸款方案支持了180家企業，每年減少45萬公噸的二氧化碳。", "綠色貸款方案僅僅減少了10萬公噸的二氧化碳。"]}
+{"category": "Open", "question_type": "Fact Lookup", "question": "第一銀行在可持續金融產品中的多層風險管理及合規策略中，哪一項敘述最能反映其在降低風險損失、提升合規得分和增強市場競爭力方面的成效？", "answer": "第一銀行的風險損失率降低了20%，並提升了內部審查合規及風險管理得分至超過90分。"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "第一銀行在可持續金融產品中的多層風險管理及合規策略中，哪一項敘述最能反映其在降低風險損失、提升合規得分和增強市場競爭力方面的成效？", "answer": "B", "choice": ["風險管理措施使銀行的市場份額增加了20%，但合規得分未超過87分。", "第一銀行的風險損失率降低了20%，並提升了內部審查合規及風險管理得分至超過90分。", "第一銀行主要依賴大數據分析技術和有限的合規措施提升市場競爭力。", "內部審計報告顯示，銀行的風險管理得分達到了85分以上，但合規風險顯著增加。"]}
+{"category": "Open", "question_type": "Fact Lookup", "question": "在推動可持續金融產品的過程中，第一銀行選擇與哪類型的合作夥伴合作，以在環境與社會責任方面做出重大貢獻？", "answer": "A. 第一銀行通過與可再生能源公司合作，實現綠色投資。"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "在推動可持續金融產品的過程中，第一銀行選擇與哪類型的合作夥伴合作，以在環境與社會責任方面做出重大貢獻？", "answer": "D", "choice": ["C. 第一銀行通過與教育領域非營利組織合作，推動可持續教育項目。", "B. 第一銀行與高科技公司合作創新可持續物流解決方案。", "E. 第一銀行與多家國際環保組織合作開發全球變暖調適項目。", "A. 第一銀行通過與可再生能源公司合作，實現綠色投資。"]}
+{"category": "Open", "question_type": "Fact Lookup", "question": "第一銀行採用了哪種策略來促進市場對可持續金融產品的認識？這些策略對潛在客戶的轉化率和忠誠度有何不同的影響？", "answer": "A) 多渠道市場宣傳提高了查詢量與轉化率。 B) 系統化客戶教育顯著增強了客戶忠誠度。 C) 個性化咨詢服務提高了查詢量與轉化率。 D) 多渠道市場宣傳顯著增強了客戶忠誠度。\n\n正確答案: A) 和 B)"}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "第一銀行採用了哪種策略來促進市場對可持續金融產品的認識？這些策略對潛在客戶的轉化率和忠誠度有何不同的影響？", "answer": "D", "choice": ["A) 多渠道市場宣傳顯著增強了客戶忠誠度。", "C) 個性化咨詢服務提高了查詢量與轉化率。", "D) 多渠道市場宣傳顯著增強了客戶忠誠度。", "A) 多渠道市場宣傳提高了查詢量與轉化率。 B) 系統化客戶教育顯著增強了客戶忠誠度。 C) 個性化咨詢服務提高了查詢量與轉化率。 D) 多渠道市場宣傳顯著增強了客戶忠誠度。"]}
 {"category": "Open", "question_type": "Fact Lookup", "question": "根據圖6，數值最低的項目是什麼？", "answer": "數值最低的項目是對應數值30的項目。"}
 {"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖2，2020年消費者對可持續產品的付費意願比例是最低的，為65%。", "answer": "是", "question_group": 54}
-
 {"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖2，2023年消費者對可持續產品的付費意願比例是最低的，為73%。", "answer": "否", "question_group": 54}
-
 {"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，第一銀行通過與可再生能源公司合作，在推動可持續金融產品的過程中實現綠色投資。", "answer": "是", "question_group": 55}
-
 {"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，第一銀行通過與零售商合作，在推動可持續金融產品的過程中實現綠色投資。", "answer": "否", "question_group": 55}
-
 {"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表6，2024 年顯示出最高的合規理解提升，達到 96%。", "answer": "是", "question_group": 56}
-
 {"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表6，2023 年顯示出最高的合規理解提升，達到 96%。", "answer": "否", "question_group": 56}
-
 {"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，第一銀行的綠色貸款方案支持了超過200家企業，每年減少50萬公噸的二氧化碳。", "answer": "是", "question_group": 57}
-
 {"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，第一銀行的綠色貸款方案支持了不到100家企業，每年減少10萬公噸的二氧化碳。", "answer": "否", "question_group": 57}
-
 {"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，與環保科技公司和學研機構合作推出綠色債券等產品能支持第一銀行在可持續發展金融產品領域保持市場領導地位。", "answer": "是", "question_group": 58}
-
 {"category": "YesNo", "question_type": "Fact Lookup", "question": "根據文中，單純提高貸款利率能支持第一銀行在可持續發展金融產品領域保持市場領導地位。", "answer": "否", "question_group": 58}
-

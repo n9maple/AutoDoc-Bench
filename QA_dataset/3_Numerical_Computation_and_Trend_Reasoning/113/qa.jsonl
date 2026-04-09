@@ -1,5 +1,5 @@
 {"category": "Open", "question_type": "Aggregation", "question": "三家企業的流動比率平均值是多少？", "answer": "1.7"}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的數據，三家企業的流動比率分別是1.5、1.7和1.9，平均流動比率是多少？", "answer": "C", "choice": ["1.6", "1.8", "1.7", "1.9"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的數據，三家企業的流動比率分別是1.5、1.7和1.9，平均流動比率是多少？", "answer": "A", "choice": ["1.7", "1.6", "1.9", "1.8"]}
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，三家企業的流動比率平均值是1.7。", "answer": "是", "question_group": 1164}
 
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，三家企業的流動比率平均值是2.0。", "answer": "否", "question_group": 1164}

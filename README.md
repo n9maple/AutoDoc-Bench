@@ -48,7 +48,3 @@ Each question-answer pair contains the following fields:
   "choice": ["Option A", "Option B", "Option C", "Option D"],  // Only exists for MCQ category
   "question_group": "number"                // Optional: Question group ID, only exists for YesNo category}
 ```
-
-### License and Citation
-
-If you use this dataset in your research, please cite the corresponding paper.

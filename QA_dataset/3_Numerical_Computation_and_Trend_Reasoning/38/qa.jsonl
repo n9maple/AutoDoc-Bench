@@ -5,21 +5,21 @@
 {"category": "Open", "question_type": "Temporal Reasoning", "question": "從2023年到2024年，女性董事占比增加了多少個百分點？", "answer": "女性董事占比增加了2個百分點。"}
 {"category": "Open", "question_type": "Temporal Reasoning", "question": "從2023年到2024年，設立專責溝通小組的企業數增加了多少家？", "answer": "增加了50家"}
 {"category": "Open", "question_type": "Aggregation", "question": "2024年的非財務資訊揭露完整性指數和ESG指標揭露完整性的平均值是多少？", "answer": "76"}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據圖表顯示，從2021年到2023年，下列哪一年的『前6%-20%』組的數值增長最多？", "answer": "C", "choice": ["2022的增長速度不如2023", "2023年相對於2021並未有顯著變化", "2023", "過去兩年增長幅度相似"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，2022年的『前5%』和『前21%-100%』組的數值總和是多少？", "answer": "C", "choice": ["855", "860", "857", "840"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年的數據，前5%和前6%-20%的公司總共數量是多少？以下哪一個選項正確？", "answer": "C", "choice": ["196", "205", "191", "175"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據附圖所示，所有產業中主動揭露永續報告書的比例最小值為何？", "answer": "C", "choice": ["50", "80", "68", "65"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2023年與2024年的數據，女性董事的占比有什麼變化？", "answer": "C", "choice": ["女性董事占比穩定於現有水平，無變化。", "女性董事占比減少了1個百分點。", "女性董事占比增加了2個百分點。", "女性董事占比增加了3個百分點。"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據下圖，從2023年到2024年，設立專責溝通小組的企業數量變化是什麼？", "answer": "C", "choice": ["保持不變", "減少了20家", "增加了50家", "增加了30家"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據2024年的數據，非財務資訊揭露完整性指數和ESG指標揭露完整性的平均值在以下哪個範圍內？", "answer": "C", "choice": ["74", "75", "76", "82"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據圖表顯示，從2021年到2023年，下列哪一年的『前6%-20%』組的數值增長最多？", "answer": "A", "choice": ["2023", "過去兩年增長幅度相似", "2023年相對於2021並未有顯著變化", "2022的增長速度不如2023"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，2022年的『前5%』和『前21%-100%』組的數值總和是多少？", "answer": "B", "choice": ["860", "857", "840", "855"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年的數據，前5%和前6%-20%的公司總共數量是多少？以下哪一個選項正確？", "answer": "C", "choice": ["175", "205", "191", "196"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據附圖所示，所有產業中主動揭露永續報告書的比例最小值為何？", "answer": "A", "choice": ["68", "65", "50", "80"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2023年與2024年的數據，女性董事的占比有什麼變化？", "answer": "C", "choice": ["女性董事占比減少了1個百分點。", "女性董事占比穩定於現有水平，無變化。", "女性董事占比增加了2個百分點。", "女性董事占比增加了3個百分點。"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據下圖，從2023年到2024年，設立專責溝通小組的企業數量變化是什麼？", "answer": "D", "choice": ["保持不變", "增加了30家", "減少了20家", "增加了50家"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2024年的數據，非財務資訊揭露完整性指數和ESG指標揭露完整性的平均值在以下哪個範圍內？", "answer": "C", "choice": ["74", "82", "76", "75"]}
 {"category": "Open", "question_type": "Temporal Trend", "question": "從2020年到2023年，女性董事比率是增加還是減少？", "answer": "增加"}
 {"category": "Open", "question_type": "Rate of Change", "question": "從2020年到2023年，電子投票參與率增加了多少個百分點？", "answer": "電子投票參與率從2020年到2023年增加了10個百分點。"}
 {"category": "Open", "question_type": "Temporal Trend", "question": "從2023年到2024年，溫室氣體盤查及揭露公司比例的變化趨勢如何？", "answer": "從2023年到2024年，溫室氣體盤查及揭露公司比例上升了12個百分點，顯示出上升的趨勢。"}
-{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據下圖顯示，從2020年到2023年，女性董事比率的趨勢如何？", "answer": "C", "choice": ["在2022年達到頂峰，然後保持不變", "持平至2021年，然後持續上升", "增加", "增長後穩定"]}
-{"category": "MCQ", "question_type": "Rate of Change", "question": "根據提供的數據，從2020年到2023年，電子投票參與率的變化幅度是下列哪個選項？", "answer": "D", "choice": ["電子投票參與率增加了15個百分點。", "電子投票參與率減少了5個百分點。", "電子投票參與率增加了5個百分點。", "電子投票參與率增加了10個百分點。"]}
-{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2023年和2024年的數據，溫室氣體盤查及揭露公司比例的變化趨勢是什麼？", "answer": "C", "choice": ["從2023年到2024年，溫室氣體盤查及揭露公司比例減少了5個百分點。", "從2023年到2024年，溫室氣體盤查及揭露公司比例上升了8個百分點。", "從2023年到2024年，溫室氣體盤查及揭露公司比例上升了12個百分點。", "從2023年到2024年，溫室氣體盤查及揭露公司比例上升了15個百分點。"]}
-{"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖3，從2020年到2023年，以下哪一個指標的變化率最大？", "answer": "C", "choice": ["電子投票符合率的變化率（增長5%）", "女性投票者的比率變化率（持平於55%）", "女性董事比率的變化率", "男性董事比率的變化率（下降2%）"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表5的資料，從2023年到2024年，以下哪一項是外部專才引進數量的增長率？", "answer": "B", "choice": ["4.75%", "10.23%", "9.50%", "11.85%"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據下圖顯示，從2020年到2023年，女性董事比率的趨勢如何？", "answer": "A", "choice": ["增加", "持平至2021年，然後持續上升", "增長後穩定", "在2022年達到頂峰，然後保持不變"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據提供的數據，從2020年到2023年，電子投票參與率的變化幅度是下列哪個選項？", "answer": "D", "choice": ["電子投票參與率增加了5個百分點。", "電子投票參與率增加了15個百分點。", "電子投票參與率減少了5個百分點。", "電子投票參與率增加了10個百分點。"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2023年和2024年的數據，溫室氣體盤查及揭露公司比例的變化趨勢是什麼？", "answer": "A", "choice": ["從2023年到2024年，溫室氣體盤查及揭露公司比例上升了12個百分點。", "從2023年到2024年，溫室氣體盤查及揭露公司比例上升了15個百分點。", "從2023年到2024年，溫室氣體盤查及揭露公司比例減少了5個百分點。", "從2023年到2024年，溫室氣體盤查及揭露公司比例上升了8個百分點。"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖3，從2020年到2023年，以下哪一個指標的變化率最大？", "answer": "B", "choice": ["男性董事比率的變化率（下降2%）", "女性董事比率的變化率", "電子投票符合率的變化率（增長5%）", "女性投票者的比率變化率（持平於55%）"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表5的資料，從2023年到2024年，以下哪一項是外部專才引進數量的增長率？", "answer": "B", "choice": ["9.50%", "10.23%", "11.85%", "4.75%"]}
 {"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖3，從2020年到2023年，女性董事比率有增加的趨勢。", "answer": "是", "question_group": 900}
 
 {"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖3，從2020年到2023年，女性董事比率有減少的趨勢。", "answer": "否", "question_group": 900}

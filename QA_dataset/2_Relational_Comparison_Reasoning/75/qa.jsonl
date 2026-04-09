@@ -4,12 +4,12 @@
 {"category": "Open", "question_type": "Comparison", "question": "比較2023年，現金付款方式與其他付款方式的使用率，哪一種較高，並且高出多少百分比？", "answer": "現金付款方式的使用率較高，高出1%。"}
 {"category": "Open", "question_type": "Comparison", "question": "在 2023 年中，爭議案件和需外部調解/訴訟案件相比，哪一類案件的數量更多？", "answer": "爭議案件數量更多"}
 {"category": "Open", "question_type": "Comparison", "question": "線上客服和電話客服的滿意度差距是多少？", "answer": "滿意度差距是2。"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據給定的資訊，線上申請案件比例與因申請文件不齊全或錯誤延誤案件比例的比較結果為何？", "answer": "C", "choice": ["線上申請案件比例低於總案件數的20%", "線上申請案件比例大於或等於因申請文件不齊全或錯誤延誤案件比例", "線上申請案件比例大於因申請文件不齊全或錯誤延誤案件比例", "線上申請案件比例與因申請文件不齊全或錯誤延誤案件比例無法比較"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "在30天內核定賠付比例中，第三方資料或複雜案件與全部案件的差異是以下哪一項？", "answer": "C", "choice": ["15", "25", "29", "33"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中顯示的數據，初審順利通過的比例與需延伸調查的比例相比，差異是多少？", "answer": "C", "choice": ["89.5%", "91.5%", "90.5%", "85.5%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據給定的資訊，線上申請案件比例與因申請文件不齊全或錯誤延誤案件比例的比較結果為何？", "answer": "C", "choice": ["線上申請案件比例低於總案件數的20%", "線上申請案件比例與因申請文件不齊全或錯誤延誤案件比例無法比較", "線上申請案件比例大於因申請文件不齊全或錯誤延誤案件比例", "線上申請案件比例大於或等於因申請文件不齊全或錯誤延誤案件比例"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在30天內核定賠付比例中，第三方資料或複雜案件與全部案件的差異是以下哪一項？", "answer": "B", "choice": ["15", "29", "33", "25"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中顯示的數據，初審順利通過的比例與需延伸調查的比例相比，差異是多少？", "answer": "C", "choice": ["91.5%", "89.5%", "90.5%", "85.5%"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的資料，現金付款方式與其他付款方式的使用率比較，哪一種的使用率較高？", "answer": "C", "choice": ["現金付款方式的使用率較低，低於其他付款方式的使用率。", "其他付款方式的使用率與現金付款方式相同，各占48%。", "現金付款方式的使用率較高，高出1%。", "現金付款方式的使用率僅高出其他付款方式的使用率0.5%。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "在2023年中，請根據提供的數據比較爭議案件與需外部調解/訴訟案件的數量。以下哪一類案件的數量更多？", "answer": "C", "choice": ["爭議案件的比例在整體理賠中減少", "需外部調解/訴訟案件的數量為150件", "爭議案件的數量更多", "爭議案件的數量為200件，需外部調解/訴訟案件的數量為100件"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的調查結果，線上客服和電話客服的滿意度差距是多少？", "answer": "D", "choice": ["滿意度差距在2到4之間", "滿意度差距是1.5", "滿意度差距是4", "滿意度差距是2"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在2023年中，請根據提供的數據比較爭議案件與需外部調解/訴訟案件的數量。以下哪一類案件的數量更多？", "answer": "C", "choice": ["爭議案件的比例在整體理賠中減少", "爭議案件的數量為200件，需外部調解/訴訟案件的數量為100件", "爭議案件的數量更多", "需外部調解/訴訟案件的數量為150件"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的調查結果，線上客服和電話客服的滿意度差距是多少？", "answer": "A", "choice": ["滿意度差距是2", "滿意度差距是4", "滿意度差距是1.5", "滿意度差距在2到4之間"]}
 {"category": "Open", "question_type": "Comparison", "question": "在2023年兆豐保險車險理賠申請方式中，哪一種方式的申請數量較少？", "answer": "臨櫃申請的申請數量較少"}
 {"category": "Open", "question_type": "Comparison", "question": "哪一種申請方式的滿意度最高？", "answer": "滿意度最高的申請方式是對應滿意度89的申請方式。"}
 {"category": "Open", "question_type": "Comparison", "question": "在圖表中，哪一個指標的比例最低？", "answer": "指標 28 的比例最低"}
@@ -18,26 +18,26 @@
 {"category": "Open", "question_type": "Comparison", "question": "在2023年兆豐保險保戶理賠滿意度指標中，數值最低的滿意度指標是多少？", "answer": "87"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "這些滿意度指標中，最高與最低的差距是多少？", "answer": "2"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "數值最高的處理階段案件數與最低的差距是多少?", "answer": "573"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年兆豐保險提供的車險理賠申請方式，以下哪一種方式的申請數量相對較少？", "answer": "C", "choice": ["移動應用申請的數量顯著高於其他方式", "電話申請的申請數量相對較高", "臨櫃申請的申請數量較少", "郵寄申請的申請數量穩定，但不算多"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中的數據，哪一種申請方式的滿意度最高？", "answer": "C", "choice": ["對應滿意度88的申請方式", "對應滿意度92的申請方式", "對應滿意度89的申請方式", "所有選項的滿意度都高於85"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖表，以下哪一個指標的比例最低？", "answer": "C", "choice": ["指標 24", "指標 27", "指標 28", "指標 30"]}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖表，比例相差最大的兩個指標之間的差距為多少？", "answer": "C", "choice": ["45%", "70%", "61%", "50%"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，以下哪個險種的平均理賠金額最高？", "answer": "C", "choice": ["險種B的平均理賠金額為1300000元。", "險種C的平均理賠金額為900000元。", "險種A的平均理賠金額為1100000元。", "險種E的平均理賠金額為1200000元。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年兆豐保險保戶理賠滿意度指標，哪一項是數值最低的滿意度指標？請參考下面的指標列表。", "answer": "C", "choice": ["85", "80", "87", "86"]}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據下列滿意度指標的數據，最高與最低的差距為何？請參考提供的指標數據。", "answer": "C", "choice": ["6", "1", "2", "3.5"]}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據提供的數據，數值最高的處理階段案件數與最低的差距是多少？以下哪個選項正確？", "answer": "C", "choice": ["500", "620", "573", "590"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年兆豐保險提供的車險理賠申請方式，以下哪一種方式的申請數量相對較少？", "answer": "D", "choice": ["移動應用申請的數量顯著高於其他方式", "電話申請的申請數量相對較高", "郵寄申請的申請數量穩定，但不算多", "臨櫃申請的申請數量較少"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中的數據，哪一種申請方式的滿意度最高？", "answer": "B", "choice": ["對應滿意度88的申請方式", "對應滿意度89的申請方式", "對應滿意度92的申請方式", "所有選項的滿意度都高於85"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖表，以下哪一個指標的比例最低？", "answer": "D", "choice": ["指標 24", "指標 30", "指標 27", "指標 28"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖表，比例相差最大的兩個指標之間的差距為多少？", "answer": "C", "choice": ["70%", "45%", "61%", "50%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，以下哪個險種的平均理賠金額最高？", "answer": "A", "choice": ["險種A的平均理賠金額為1100000元。", "險種C的平均理賠金額為900000元。", "險種E的平均理賠金額為1200000元。", "險種B的平均理賠金額為1300000元。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年兆豐保險保戶理賠滿意度指標，哪一項是數值最低的滿意度指標？請參考下面的指標列表。", "answer": "B", "choice": ["86", "87", "85", "80"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據下列滿意度指標的數據，最高與最低的差距為何？請參考提供的指標數據。", "answer": "D", "choice": ["1", "6", "3.5", "2"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據提供的數據，數值最高的處理階段案件數與最低的差距是多少？以下哪個選項正確？", "answer": "B", "choice": ["620", "573", "500", "590"]}
 {"category": "Open", "question_type": "Ranking", "question": "將2023年兆豐保險車險理賠申請方式按比例從高到低排序，第二名是哪一種申請方式？", "answer": "臨櫃申請"}
 {"category": "Open", "question_type": "Ranking", "question": "在申請方式中，哪一種的理賠審核工作天數最長？", "answer": "臨櫃申請的理賠審核工作天數最長"}
 {"category": "Open", "question_type": "Ranking", "question": "請將圖表中的三個指標按照比例從低到高進行排序。", "answer": "28, 72, 89"}
 {"category": "Open", "question_type": "Ranking", "question": "將各險種按照平均理賠金額從低到高排序。", "answer": "24500, 38000, 310000, 1100000"}
 {"category": "Open", "question_type": "Ranking", "question": "根據2023年兆豐保險保戶理賠滿意度指標的數值，將數值從低到高排序。", "answer": "87, 88, 89"}
 {"category": "Open", "question_type": "Ranking", "question": "數值最低的處理階段案件數是多少?", "answer": "49"}
-{"category": "MCQ", "question_type": "Ranking", "question": "根據2023年兆豐保險車險理賠申請方式的比例，以下哪一種申請方式排名第二？（參考圖片中的排序）", "answer": "C", "choice": ["自助服務機申請", "電話申請", "臨櫃申請", "郵寄申請"]}
-{"category": "MCQ", "question_type": "Ranking", "question": "根據以下圖片，哪一種申請方式的理賠審核工作天數最長？", "answer": "C", "choice": ["所有申請方式都相同", "申請方式無法影響審核時長", "臨櫃申請", "所有方式的理賠時長接近"]}
-{"category": "MCQ", "question_type": "Ranking", "question": "根據下圖中的三個指標，以下哪一組選項是按照比例從低到高的正確排序？", "answer": "C", "choice": ["72, 89, 28", "72, 28, 89", "28, 72, 89", "89, 72, 28"]}
-{"category": "MCQ", "question_type": "Ranking", "question": "根據下列各險種的平均理賠金額，請將其從低到高排序。選項中哪一組是正確的排序？", "answer": "C", "choice": ["310000, 24500, 38000, 1100000", "1100000, 24500, 310000, 38000", "24500, 38000, 310000, 1100000", "38000, 1100000, 310000, 24500"]}
-{"category": "MCQ", "question_type": "Ranking", "question": "根據2023年兆豐保險保戶理賠滿意度指標的數值，請從以下選項中選擇正確的排序，從低到高。", "answer": "C", "choice": ["90, 88, 89", "87, 90, 89", "87, 88, 89", "88, 89, 90"]}
-{"category": "MCQ", "question_type": "Ranking", "question": "根據提供的圖片，數值最低的處理階段案件數是以下哪一個選項？", "answer": "C", "choice": ["38", "43", "49", "45"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據2023年兆豐保險車險理賠申請方式的比例，以下哪一種申請方式排名第二？（參考圖片中的排序）", "answer": "A", "choice": ["臨櫃申請", "電話申請", "自助服務機申請", "郵寄申請"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據以下圖片，哪一種申請方式的理賠審核工作天數最長？", "answer": "A", "choice": ["臨櫃申請", "所有方式的理賠時長接近", "申請方式無法影響審核時長", "所有申請方式都相同"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據下圖中的三個指標，以下哪一組選項是按照比例從低到高的正確排序？", "answer": "B", "choice": ["72, 89, 28", "28, 72, 89", "89, 72, 28", "72, 28, 89"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據下列各險種的平均理賠金額，請將其從低到高排序。選項中哪一組是正確的排序？", "answer": "B", "choice": ["310000, 24500, 38000, 1100000", "24500, 38000, 310000, 1100000", "1100000, 24500, 310000, 38000", "38000, 1100000, 310000, 24500"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據2023年兆豐保險保戶理賠滿意度指標的數值，請從以下選項中選擇正確的排序，從低到高。", "answer": "B", "choice": ["88, 89, 90", "87, 88, 89", "87, 90, 89", "90, 88, 89"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據提供的圖片，數值最低的處理階段案件數是以下哪一個選項？", "answer": "D", "choice": ["43", "45", "38", "49"]}
 {"category": "YesNo", "question_type": "Comparison", "question": "根據圖5，指標 28 的比例是所有指標中最低的。", "answer": "是", "question_group": 602}
 
 {"category": "YesNo", "question_type": "Comparison", "question": "根據圖5，指標 72 的比例是所有指標中最低的。", "answer": "否", "question_group": 602}

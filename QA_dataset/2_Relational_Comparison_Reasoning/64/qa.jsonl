@@ -4,28 +4,28 @@
 {"category": "Open", "question_type": "Comparison", "question": "2023年比2022年增加了多少次與金融機構的合作？", "answer": "2023年比2022年增加了15次與金融機構的合作"}
 {"category": "Open", "question_type": "Comparison", "question": "不主動檢查帳戶明細的方法在異常發現並成功阻止資金損失比率上比第一時間被發現並及時處理資安事件比率高多少個百分點？", "answer": "7"}
 {"category": "Open", "question_type": "Comparison", "question": "哪一項服務的案件量年增率比 24小時客服專線高至少 20 個百分點？", "answer": "行動銀行App即時諮詢"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年中異常登入地點偵測的情況，比異常設備偵測多了多少次？請參考以下數據圖表回答問題。", "answer": "C", "choice": ["20次", "30次", "40次", "50次"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "在表中提到的三項安全措施中，哪一項的採取比例是最低的？請參考所提供的資料進行選擇。", "answer": "C", "choice": ["每六個月主動更換密碼", "每年主動更換密碼", "每三個月主動更換密碼", "不實施雙因素驗證"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的數據，使用行動銀行App的比例是使用客服專線的幾倍？請參考相關數據圖表後選擇正確答案。", "answer": "C", "choice": ["7.0", "10.5", "9.75", "8.0"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據所提供的資料，超過3天處理簡易異常的客戶滿意度比1天內的滿意度低多少百分比？請參考以下情境來回答問題：<情境描述>", "answer": "D", "choice": ["20%", "26%", "32%", "28%"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據某研究，採取不主動檢查帳戶明細的方法，其在異常發現並成功阻止資金損失的比率相較於第一時間被發現並及時處理資安事件的比率高出多少個百分點？", "answer": "C", "choice": ["5%", "12%", "7%", "15%"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的數據，以下哪一項服務的案件量年增率比 24小時客服專線高至少 20 個百分點？", "answer": "C", "choice": ["社交媒體客服的案件量", "網路客服即時諮詢", "行動銀行App即時諮詢", "電子郵件客服"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年中異常登入地點偵測的情況，比異常設備偵測多了多少次？請參考以下數據圖表回答問題。", "answer": "C", "choice": ["30次", "50次", "40次", "20次"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在表中提到的三項安全措施中，哪一項的採取比例是最低的？請參考所提供的資料進行選擇。", "answer": "A", "choice": ["每三個月主動更換密碼", "不實施雙因素驗證", "每年主動更換密碼", "每六個月主動更換密碼"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的數據，使用行動銀行App的比例是使用客服專線的幾倍？請參考相關數據圖表後選擇正確答案。", "answer": "A", "choice": ["9.75", "7.0", "8.0", "10.5"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據所提供的資料，超過3天處理簡易異常的客戶滿意度比1天內的滿意度低多少百分比？請參考以下情境來回答問題：<情境描述>", "answer": "C", "choice": ["32%", "26%", "28%", "20%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據某研究，採取不主動檢查帳戶明細的方法，其在異常發現並成功阻止資金損失的比率相較於第一時間被發現並及時處理資安事件的比率高出多少個百分點？", "answer": "A", "choice": ["7%", "12%", "5%", "15%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的數據，以下哪一項服務的案件量年增率比 24小時客服專線高至少 20 個百分點？", "answer": "C", "choice": ["電子郵件客服", "網路客服即時諮詢", "行動銀行App即時諮詢", "社交媒體客服的案件量"]}
 {"category": "Open", "question_type": "Comparison", "question": "在2023年金融機構資安事件中，'身分認證不足'與'其他'事件數量相差多少？", "answer": "事件數量相差46"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據凱基銀行單筆線上轉帳金額分布下列哪一項是1萬元以下轉帳次數與10萬元以上轉帳次數的差異？", "answer": "C", "choice": ["75次", "61次", "69次", "88次"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年金融機構資安事件的統計，'身分認證不足'事件的事件數量與'其他'事件的數量相差多少？請根據相關數據選擇正確的選項。", "answer": "C", "choice": ["42", "48", "46", "44"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據凱基銀行單筆線上轉帳金額分布下列哪一項是1萬元以下轉帳次數與10萬元以上轉帳次數的差異？", "answer": "B", "choice": ["61次", "69次", "75次", "88次"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年金融機構資安事件的統計，'身分認證不足'事件的事件數量與'其他'事件的數量相差多少？請根據相關數據選擇正確的選項。", "answer": "B", "choice": ["48", "46", "42", "44"]}
 {"category": "Open", "question_type": "Ranking", "question": "在凱基銀行單筆線上轉帳金額分布中，哪一個金額範圍的轉帳次數最多？", "answer": "1萬元以下的轉帳次數最多"}
 {"category": "Open", "question_type": "Ranking", "question": "哪一年客戶雙重認證啟用率最低？", "answer": "2022年"}
 {"category": "Open", "question_type": "Ranking", "question": "在2023年金融機構資安事件成因的數據中，哪一個成因的比例是最高的？", "answer": "其他"}
-{"category": "MCQ", "question_type": "Ranking", "question": "在凱基銀行單筆線上轉帳金額分布中，根據下面的圖片，哪一個金額範圍的轉帳次數最多？", "answer": "C", "choice": ["1萬元以上的轉帳次數較少", "1.5萬元到2萬元的轉帳次數並不明顯", "1萬元以下的轉帳次數最多", "1萬元以下的轉帳次數與其他範圍相近"]}
-{"category": "MCQ", "question_type": "Ranking", "question": "根據下列圖表，哪一年客戶雙重認證啟用率最低？", "answer": "C", "choice": ["2023年的啟用率輕微高於2022年", "2022年和2023年均為30%", "2022年", "啟用率在2022年和2023年都有所下降"]}
-{"category": "MCQ", "question_type": "Ranking", "question": "根據2023年金融機構資安事件成因的數據，以下哪一個成因的比例是最高的？（請參考附件圖片）", "answer": "C", "choice": ["內部系統故障", "管理失誤", "其他", "社交工程攻擊"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "在凱基銀行單筆線上轉帳金額分布中，根據下面的圖片，哪一個金額範圍的轉帳次數最多？", "answer": "D", "choice": ["1.5萬元到2萬元的轉帳次數並不明顯", "1萬元以上的轉帳次數較少", "1萬元以下的轉帳次數與其他範圍相近", "1萬元以下的轉帳次數最多"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據下列圖表，哪一年客戶雙重認證啟用率最低？", "answer": "B", "choice": ["2023年的啟用率輕微高於2022年", "2022年", "2022年和2023年均為30%", "啟用率在2022年和2023年都有所下降"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據2023年金融機構資安事件成因的數據，以下哪一個成因的比例是最高的？（請參考附件圖片）", "answer": "D", "choice": ["管理失誤", "社交工程攻擊", "內部系統故障", "其他"]}
 {"category": "Open", "question_type": "Comparison", "question": "在圖6中，哪一個指標的比例較低？", "answer": "指標8的比例較低"}
 {"category": "Open", "question_type": "Comparison", "question": "根據表8的資料，哪一種服務的案件量增長最快？", "answer": "行動銀行App即時諮詢的案件量增長最快，年增率為32%"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "根據圖3，2022年與2023年之間客戶雙重認證啟用率的差異是多少？", "answer": "由於缺乏具體的圖表數據，無法計算出2022年與2023年之間的客戶雙重認證啟用率差異。"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "根據圖4，2022年和2023年的滿意度差異是多少百分點？", "answer": "Y% - X% 的百分點差異"}
 {"category": "Open", "question_type": "Ranking", "question": "在圖3中，哪一年客戶雙重認證啟用率達到最高？", "answer": "2023年"}
 {"category": "Open", "question_type": "Ranking", "question": "在圖5中，哪一個成因的比例最高？", "answer": "其他"}
-{"category": "MCQ", "question_type": "Ranking", "question": "根據圖3，以下哪一年客戶雙重認證的啟用率達到最高？", "answer": "A", "choice": ["2023年", "2023年啟用率下降至50%", "2022年的啟用率為45%", "2022年啟用率為2023年的90%"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據圖3，以下哪一年客戶雙重認證的啟用率達到最高？", "answer": "B", "choice": ["2022年的啟用率為45%", "2023年", "2023年啟用率下降至50%", "2022年啟用率為2023年的90%"]}
 {"category": "YesNo", "question_type": "Comparison", "question": "根據表5，超過3天處理簡易異常的客戶滿意度比1天內的滿意度低28%。", "answer": "是", "question_group": 545}
 
 {"category": "YesNo", "question_type": "Comparison", "question": "根據表5，超過3天處理簡易異常的客戶滿意度比1天內的滿意度低18%。", "answer": "否", "question_group": 545}

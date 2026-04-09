@@ -2,14 +2,14 @@
 {"category": "Open", "question_type": "Temporal Reasoning", "question": "根據表5的資料，從2020年到2023年，哪一年總授信額度的年增率最低？", "answer": "2022"}
 {"category": "Open", "question_type": "Aggregation", "question": "根據表5的資料，計算從2020年到2023年，這四年間年增率的總和是多少？", "answer": "22.2"}
 {"category": "Open", "question_type": "Temporal Reasoning", "question": "根據表7的資料，2025年的綠色金融授信額度相較於2023年增加的比例是多少？", "answer": "33.33%"}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表1的資料，若企業貸款佔比每年減少2%，而個人貸款佔比每年增加1%，三年後企業貸款佔比和個人貸款佔比將分別是多少？請選擇正確的選項。", "answer": "C", "choice": ["企業貸款佔比為55%，個人貸款佔比為32%。", "企業貸款佔比為51%，個人貸款佔比為36%。", "企業貸款佔比為54%，個人貸款佔比為33%。", "企業貸款佔比為57%，個人貸款佔比為29%。"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表5的資料，從2020年到2023年，以下哪一年總授信額度的年增率最低？", "answer": "C", "choice": ["2021年增率最低", "2023年增率低於2021", "2022", "2022年增率等於2023年"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據表5的資料，計算從2020年到2023年，這四年間年增率的總和是多少？以下哪個選項是正確的？", "answer": "C", "choice": ["18.8", "23.5", "22.2", "21.5"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表7的資料，以下哪一項是2025年綠色金融授信額度相較於2023年增加的比例？", "answer": "C", "choice": ["25%", "20%", "33.33%", "35%"]}
-{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖5，台北富邦銀行的逾放比率從2022年到2023年的變化情況是？", "answer": "C", "choice": ["逾放比率在2022年底略微上升，然後在2023年穩定。", "逾放比率在2022年持平，然後在2023年開始下降。", "逾放比率是下降的。", "逾放比率在2022年持續下降，但在2023年出現回升。"]}
-{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖6，從2020年到2023年，綠色能源授信額度的年增率呈現了哪種趨勢？", "answer": "C", "choice": ["初期上升後持平", "逐年小幅上升", "呈現上升趨勢", "短期內波動上升"]}
-{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖7，從2020年到2023年，以下哪個行業的授信額度增加最少？", "answer": "C", "choice": ["食品業", "運輸業", "半導體", "房地產"]}
-{"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖8，從2023年到2024年，金融科技投資額的年增長率可能是以下哪一個選項？", "answer": "C", "choice": ["80%", "25%", "50%", "30%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表1的資料，若企業貸款佔比每年減少2%，而個人貸款佔比每年增加1%，三年後企業貸款佔比和個人貸款佔比將分別是多少？請選擇正確的選項。", "answer": "D", "choice": ["企業貸款佔比為51%，個人貸款佔比為36%。", "企業貸款佔比為55%，個人貸款佔比為32%。", "企業貸款佔比為57%，個人貸款佔比為29%。", "企業貸款佔比為54%，個人貸款佔比為33%。"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表5的資料，從2020年到2023年，以下哪一年總授信額度的年增率最低？", "answer": "A", "choice": ["2022", "2023年增率低於2021", "2022年增率等於2023年", "2021年增率最低"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表5的資料，計算從2020年到2023年，這四年間年增率的總和是多少？以下哪個選項是正確的？", "answer": "B", "choice": ["18.8", "22.2", "21.5", "23.5"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表7的資料，以下哪一項是2025年綠色金融授信額度相較於2023年增加的比例？", "answer": "C", "choice": ["20%", "35%", "33.33%", "25%"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖5，台北富邦銀行的逾放比率從2022年到2023年的變化情況是？", "answer": "B", "choice": ["逾放比率在2022年底略微上升，然後在2023年穩定。", "逾放比率是下降的。", "逾放比率在2022年持平，然後在2023年開始下降。", "逾放比率在2022年持續下降，但在2023年出現回升。"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖6，從2020年到2023年，綠色能源授信額度的年增率呈現了哪種趨勢？", "answer": "A", "choice": ["呈現上升趨勢", "短期內波動上升", "逐年小幅上升", "初期上升後持平"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖7，從2020年到2023年，以下哪個行業的授信額度增加最少？", "answer": "D", "choice": ["運輸業", "房地產", "食品業", "半導體"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖8，從2023年到2024年，金融科技投資額的年增長率可能是以下哪一個選項？", "answer": "D", "choice": ["80%", "25%", "30%", "50%"]}
 {"category": "Open", "question_type": "Temporal Trend", "question": "根據圖5，台北富邦銀行的逾放比率從2022年到2023年是上升還是下降?", "answer": "台北富邦銀行的逾放比率從2022年到2023年是下降的。"}
 {"category": "Open", "question_type": "Temporal Trend", "question": "根據圖6，從2020年到2023年，綠色能源授信額度的年增率呈現了什麼樣的趨勢？", "answer": "從2020年到2023年，綠色能源授信額度的年增率呈現上升趨勢。"}
 {"category": "Open", "question_type": "Temporal Trend", "question": "根據圖7，從2020年到2023年，哪個行業的授信額度增加最少？", "answer": "半導體"}

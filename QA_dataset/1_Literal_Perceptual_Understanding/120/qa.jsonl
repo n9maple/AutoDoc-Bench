@@ -1,4 +1,4 @@
 {"category": "Open", "question_type": "Fact Lookup", "question": "根據表3的資料，哪一年的授信額度最高？", "answer": "2025年的授信額度最高，為3600。"}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據表3的資料，以下哪一年具有最高的授信額度？", "answer": "C", "choice": ["2024年", "2026年", "2025年", "2022年"]}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖2，2023年的逾放比率為何？", "answer": "C", "choice": ["0.7%", "1.2%", "0.9%", "1.5%"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據表3的資料，以下哪一年具有最高的授信額度？", "answer": "D", "choice": ["2024年", "2026年", "2022年", "2025年"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖2，2023年的逾放比率為何？", "answer": "B", "choice": ["1.5%", "0.9%", "1.2%", "0.7%"]}
 {"category": "Open", "question_type": "Fact Lookup", "question": "在圖2中，2023年的逾放比率是多少？", "answer": "2023年的逾放比率是0.9%"}

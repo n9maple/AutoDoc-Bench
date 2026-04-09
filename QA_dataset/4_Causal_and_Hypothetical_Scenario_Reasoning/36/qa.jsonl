@@ -1,6 +1,6 @@
 {"category": "Open", "question_type": "Multi-hop Reasoning", "question": "從2023年到2024年，人才需求和供應的增長百分比是多少？", "answer": "人才需求增長百分比是20%，人才供應增長百分比是33.33%。"}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據2023年至2024年的數據，以下哪一項正確描述了人才需求和供應的增長百分比？", "answer": "C", "choice": ["人才需求增長百分比是25%", "人才供應增長百分比是15%", "人才需求增長百分比是20%", "人才需求增長百分比是10%"]}
-{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表5的資料，如果每個培訓計畫都能培訓到提供與需求差距的20%的額外人才，2023年和2024年各自能夠填補多少需求缺口？以下哪一組是正確的填補數字？", "answer": "A", "choice": ["2023年填補12000的人才，2024年填補12600的人才。", "2023年填補13000的人才，2024年填補11000的人才。", "2023年填補9000的人才，2024年填補15000的人才。", "2023年填補12000的人才，2024年填補13500的人才。"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表5的資料，如果每個培訓計畫都能培訓到提供與需求差距的20%的額外人才，2023年和2024年各自能夠填補多少需求缺口？以下哪一組是正確的填補數字？", "answer": "D", "choice": ["2023年填補12000的人才，2024年填補13500的人才。", "2023年填補13000的人才，2024年填補11000的人才。", "2023年填補9000的人才，2024年填補15000的人才。", "2023年填補12000的人才，2024年填補12600的人才。"]}
 {"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表5，2023年至2024年的人才需求增長百分比是20%。", "answer": "是", "question_group": 1319}
 
 {"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表5，2023年至2024年的人才供應增長百分比是20%。", "answer": "否", "question_group": 1319}

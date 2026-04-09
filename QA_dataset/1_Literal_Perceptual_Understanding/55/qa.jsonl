@@ -1,5 +1,5 @@
 {"category": "Open", "question_type": "Fact Lookup", "question": "2023年中，簽署永續承諾供應商比例是多少？", "answer": "93%"}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2023年中所簽署的永續承諾，以下哪個選項最接近供應商的比例？", "answer": "C", "choice": ["88%", "91%", "93%", "92%"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2023年中所簽署的永續承諾，以下哪個選項最接近供應商的比例？", "answer": "C", "choice": ["91%", "88%", "93%", "92%"]}
 {"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表9，永續策略規劃的數值是所有項目中最低的。", "answer": "是", "question_group": 138}
 
 {"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表9，永續策略規劃的數值是所有項目中最高的。", "answer": "否", "question_group": 138}

@@ -1,13 +1,13 @@
 {"category": "Open", "question_type": "Comparison", "question": "2025年上半年進口額比出口額少多少億美元？", "answer": "400億美元"}
 {"category": "Open", "question_type": "Comparison", "question": "在2025年，國際貨幣基金組織和亞洲開發銀行所預測的經濟增長率之間的差異是多少？", "answer": "0.5%"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2025年上半年的貿易數據，進口額比出口額少多少億美元？（請參考下方數據圖）", "answer": "C", "choice": ["進口額比出口額少490億美元", "進口額比出口額少600億美元", "400億美元", "進口額比出口額少300億美元"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2025年國際貨幣基金組織和亞洲開發銀行的預測，經濟增長率之間的差異為何?", "answer": "C", "choice": ["0.25%", "0.3%", "0.5%", "0.7%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2025年上半年的貿易數據，進口額比出口額少多少億美元？（請參考下方數據圖）", "answer": "D", "choice": ["進口額比出口額少490億美元", "進口額比出口額少600億美元", "進口額比出口額少300億美元", "400億美元"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2025年國際貨幣基金組織和亞洲開發銀行的預測，經濟增長率之間的差異為何?", "answer": "B", "choice": ["0.7%", "0.5%", "0.3%", "0.25%"]}
 {"category": "Open", "question_type": "Comparison", "question": "在2025年第二季臺灣外匯市場主要貨幣對交易量比例中，CNY/TWD與其他貨幣對相比，是否屬於交易量比例較低的組別？", "answer": "CNY/TWD與其他貨幣對的交易量比例相同，不屬於比例較低的組別。"}
 {"category": "Open", "question_type": "Comparison", "question": "主要貨幣對交易量佔比中，USD/TWD 與其他貨幣對相比，其比例如何？", "answer": "USD/TWD 的比例為 45.0%，低於其他所有貨幣對的總比例 55.0%。"}
 {"category": "Open", "question_type": "Comparison", "question": "在2025年Q2外匯交易量參與者中，銀行間市場的比例是最小比例的多少倍？", "answer": "12"}
-{"category": "MCQ", "question_type": "Comparison", "question": "在2025年第二季臺灣外匯市場主要貨幣對交易量比例中，CNY/TWD的交易量與其他貨幣對相比，屬於以下哪一組別？", "answer": "C", "choice": ["CNY/TWD的交易量比例高於30%的其他貨幣對。", "CNY/TWD的交易量在所有貨幣對中僅次於USD/TWD。", "CNY/TWD的交易量比例與其他貨幣對相同，不屬於交易量比例較低的組別。", "CNY/TWD的交易量比例與其他主要貨幣對相比，偏低，但仍高於5%。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "在主要貨幣對的交易量佔比中，USD/TWD 與其他貨幣對相比，其比例為何？", "answer": "C", "choice": ["USD/TWD 的比例為 60.0%，是所有貨幣對中最高的比例。", "USD/TWD 的比例為 50.0%，恰好與其他貨幣對持平。", "USD/TWD 的比例為 45.0%，低於其他所有貨幣對的總比例 55.0%。", "USD/TWD 的比例為 40.0%，低於其他主要貨幣對的比例。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "在2025年Q2外匯交易量參與者中，銀行間市場的比例是以下哪一個倍數？", "answer": "C", "choice": ["14", "9", "12", "13"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在2025年第二季臺灣外匯市場主要貨幣對交易量比例中，CNY/TWD的交易量與其他貨幣對相比，屬於以下哪一組別？", "answer": "B", "choice": ["CNY/TWD的交易量在所有貨幣對中僅次於USD/TWD。", "CNY/TWD的交易量比例與其他貨幣對相同，不屬於交易量比例較低的組別。", "CNY/TWD的交易量比例高於30%的其他貨幣對。", "CNY/TWD的交易量比例與其他主要貨幣對相比，偏低，但仍高於5%。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在主要貨幣對的交易量佔比中，USD/TWD 與其他貨幣對相比，其比例為何？", "answer": "D", "choice": ["USD/TWD 的比例為 40.0%，低於其他主要貨幣對的比例。", "USD/TWD 的比例為 50.0%，恰好與其他貨幣對持平。", "USD/TWD 的比例為 60.0%，是所有貨幣對中最高的比例。", "USD/TWD 的比例為 45.0%，低於其他所有貨幣對的總比例 55.0%。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在2025年Q2外匯交易量參與者中，銀行間市場的比例是以下哪一個倍數？", "answer": "D", "choice": ["13", "9", "14", "12"]}
 {"category": "YesNo", "question_type": "Comparison", "question": "根據圖2，USD/TWD 的比例為 45.0%，低於其他所有貨幣對的總比例 55.0%。", "answer": "是", "question_group": 384}
 
 {"category": "YesNo", "question_type": "Comparison", "question": "根據圖2，USD/TWD 的比例為 55.0%，高於其他所有貨幣對的總比例 45.0%。", "answer": "否", "question_group": 384}

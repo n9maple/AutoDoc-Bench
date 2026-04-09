@@ -1,7 +1,7 @@
 {"category": "Open", "question_type": "Fact Lookup", "question": "哪一個月的第三方元件落後率最低？", "answer": "2024-03"}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖片所示的各個月份第三方元件落後率，哪一個月的落後率最低？", "answer": "C", "choice": ["2024-01", "2024-06", "2024-03", "2024-07"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖片所示的各個月份第三方元件落後率，哪一個月的落後率最低？", "answer": "D", "choice": ["2024-07", "2024-06", "2024-01", "2024-03"]}
 {"category": "Open", "question_type": "Fact Lookup", "question": "準確率數值最高的異常情境類型是多少?", "answer": "準確率數值最高的異常情境類型是 98.3"}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖片所示，哪一種異常情境類型的準確率數值最高？", "answer": "C", "choice": ["97.5", "98.9", "98.3", "96.4"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖片所示，哪一種異常情境類型的準確率數值最高？", "answer": "C", "choice": ["97.5", "96.4", "98.3", "98.9"]}
 {"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表3，2024-03的第三方元件落後率是最低的，為4.8%。", "answer": "是", "question_group": 124}
 
 {"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表3，2023-12的第三方元件落後率是最低的。", "answer": "否", "question_group": 124}

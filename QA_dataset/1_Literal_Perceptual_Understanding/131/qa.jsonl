@@ -1,6 +1,6 @@
-{"category": "MCQ", "question_type": "Proportion", "question": "根據圖2資料，再生能源的資金分配比例可能是以下哪一項？", "answer": "C", "choice": ["60.0%", "50.0%", "40.0%", "35.0%"]}
-{"category": "MCQ", "question_type": "Peak/Valley", "question": "根據圖3，從2016年至2022年，全球資產管理規模中的ESG投資比例的高峰出現在哪一年？", "answer": "C", "choice": ["2018年", "2020年", "2022年", "2021年"]}
-{"category": "MCQ", "question_type": "Peak/Valley", "question": "根據圖4，從2024年至2033年，碳排放減少量的變化情況為何？", "answer": "C", "choice": ["碳排放減少量在2026年達到最高點，隨後逐漸減少。", "碳排放減少量在2028年不再變化，保持在一個固定水平。", "碳排放減少量保持不變，沒有達到峰值或谷值。", "碳排放減少量每年略有波動，但總體呈現穩定下降趨勢。"]}
+{"category": "MCQ", "question_type": "Proportion", "question": "根據圖2資料，再生能源的資金分配比例可能是以下哪一項？", "answer": "C", "choice": ["50.0%", "60.0%", "40.0%", "35.0%"]}
+{"category": "MCQ", "question_type": "Peak/Valley", "question": "根據圖3，從2016年至2022年，全球資產管理規模中的ESG投資比例的高峰出現在哪一年？", "answer": "A", "choice": ["2022年", "2018年", "2020年", "2021年"]}
+{"category": "MCQ", "question_type": "Peak/Valley", "question": "根據圖4，從2024年至2033年，碳排放減少量的變化情況為何？", "answer": "D", "choice": ["碳排放減少量在2028年不再變化，保持在一個固定水平。", "碳排放減少量每年略有波動，但總體呈現穩定下降趨勢。", "碳排放減少量在2026年達到最高點，隨後逐漸減少。", "碳排放減少量保持不變，沒有達到峰值或谷值。"]}
 {"category": "Open", "question_type": "Proportion", "question": "根據圖2資料，再生能源的資金分配比例是多少？", "answer": "40.0%"}
 {"category": "Open", "question_type": "Peak/Valley", "question": "根據圖3，從2016年至2022年，全球資產管理規模中的ESG投資比例的高峰出現在哪一年？", "answer": "2022年"}
 {"category": "Open", "question_type": "Peak/Valley", "question": "在圖4中，從2024年至2033年，碳排放減少量是否有達到峰值或谷值？", "answer": "從2024年至2033年，碳排放減少量保持不變，沒有達到峰值或谷值。"}

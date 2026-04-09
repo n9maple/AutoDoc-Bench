@@ -1,5 +1,5 @@
 {"category": "Open", "question_type": "Multi-hop Reasoning", "question": "從2021年到2023年，權限異動次數總共增加了多少次？", "answer": "29"}
-{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據下圖顯示的權限異動次數趨勢，從2021年到2023年，總共增加了多少次？", "answer": "C", "choice": ["28次", "31次", "29次", "26次"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據下圖顯示的權限異動次數趨勢，從2021年到2023年，總共增加了多少次？", "answer": "C", "choice": ["28次", "26次", "29次", "31次"]}
 {"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，從2021年到2023年，權限異動次數總共增加了29次。", "answer": "是", "question_group": 1449}
 
 {"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，從2021年到2023年，權限異動次數總共增加了39次。", "answer": "否", "question_group": 1449}

@@ -2,14 +2,14 @@
 {"category": "Open", "question_type": "Comparison", "question": "建築物節能和製造業節能中，哪一項的預計減少CO2排放量更大？", "answer": "建築物節能的預計減少CO2排放量更大。"}
 {"category": "Open", "question_type": "Comparison", "question": "2022年的發行規模比2020年高多少？", "answer": "2022年的發行規模比2020年高1500。"}
 {"category": "Open", "question_type": "Comparison", "question": "從2023年1月至2023年12月，哪一個月份的咨詢數量和反饋數量的差距最大？", "answer": "2023-06"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片所示的數據，2026年和2027年相比，哪一年綠色貸款佔總貸款額比例更高，並高出了多少百分點？", "answer": "C", "choice": ["2026年綠色貸款佔總貸款額比例更高，高出0.5個百分點。", "2027年綠色貸款佔總貸款額比例高於預期，但實際數據與去年的差距不明。", "2027年綠色貸款佔總貸款額比例更高，高出1.5個百分點。", "2026年和2027年綠色貸款比例相同，無差異。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖表，2022年的發行規模相比於2020年提高了多少？", "answer": "C", "choice": ["2500", "1800", "1500", "1200"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的數據，從2023年1月至2023年12月，哪一個月份的咨詢數量和反饋數量的差距最大？請參考圖片中的每月數據。", "answer": "C", "choice": ["2023-08", "2023-03", "2023-06", "2023-11"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片所示的數據，2026年和2027年相比，哪一年綠色貸款佔總貸款額比例更高，並高出了多少百分點？", "answer": "D", "choice": ["2026年綠色貸款佔總貸款額比例更高，高出0.5個百分點。", "2026年和2027年綠色貸款比例相同，無差異。", "2027年綠色貸款佔總貸款額比例高於預期，但實際數據與去年的差距不明。", "2027年綠色貸款佔總貸款額比例更高，高出1.5個百分點。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖表，2022年的發行規模相比於2020年提高了多少？", "answer": "C", "choice": ["1800", "2500", "1500", "1200"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的數據，從2023年1月至2023年12月，哪一個月份的咨詢數量和反饋數量的差距最大？請參考圖片中的每月數據。", "answer": "A", "choice": ["2023-06", "2023-08", "2023-11", "2023-03"]}
 {"category": "Open", "question_type": "Comparison", "question": "在綠色債券資金分配比例中，哪個項目和綠色交通的資金比例相同？", "answer": "水資源管理"}
-{"category": "MCQ", "question_type": "Comparison", "question": "在綠色債券資金分配比例中，根據下圖，哪個項目的資金比例與綠色交通相同？", "answer": "C", "choice": ["污染防治（30%）", "可再生能源（20%）", "水資源管理", "氣候適應（25%）"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在綠色債券資金分配比例中，根據下圖，哪個項目的資金比例與綠色交通相同？", "answer": "C", "choice": ["氣候適應（25%）", "可再生能源（20%）", "水資源管理", "污染防治（30%）"]}
 {"category": "Open", "question_type": "Comparison", "question": "在圖3中，2025年哪一種再生能源的裝機容量較高？", "answer": "2025年太陽能的裝機容量較高"}
 {"category": "Open", "question_type": "Comparison", "question": "在圖5中，2023年投資者會議次數與網絡研討會次數相比，哪一個更多？", "answer": "2023年投資者會議次數比網絡研討會次數多"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖3，2025年哪一種再生能源的裝機容量較高？", "answer": "A", "choice": ["太陽能的裝機容量較高", "再生能源裝機容量沒有顯著變化", "生物能在2025年將佔據市場一半以上", "水能和風能的裝機容量在2025年將持平"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖3，2025年哪一種再生能源的裝機容量較高？", "answer": "B", "choice": ["再生能源裝機容量沒有顯著變化", "太陽能的裝機容量較高", "水能和風能的裝機容量在2025年將持平", "生物能在2025年將佔據市場一半以上"]}
 {"category": "YesNo", "question_type": "Comparison", "question": "根據表5，從2023年1月至2023年12月，2023年6月的咨詢數量和反饋數量的差距最大。", "answer": "是", "question_group": 653}
 
 {"category": "YesNo", "question_type": "Comparison", "question": "根據表5，從2023年1月至2023年12月，2023年12月的咨詢數量和反饋數量的差距最大。", "answer": "否", "question_group": 653}

@@ -7,25 +7,25 @@
 {"category": "Open", "question_type": "Aggregation", "question": "2023年綠色消費回饋金額與完成碳管理診斷企業數的總和是多少？", "answer": "7050"}
 {"category": "Open", "question_type": "Aggregation", "question": "如果我們將氣候變遷、綠色金融和公司治理的值加總，總和是多少？", "answer": "3300"}
 {"category": "Open", "question_type": "Aggregation", "question": "在2023年，每個社區共融活動的平均受益家庭數是多少？", "answer": "60"}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據提供的圖片，綠色授信餘額從基準年到2023年變化了多少百分比？", "answer": "C", "choice": ["650%", "550%", "600%", "700%"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，在2022年和2023年的社會公益捐贈金額中，哪個選項最接近這兩年間的平均值？", "answer": "C", "choice": ["1.0", "1.2", "0.9", "0.75"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據以下數據，如果2024年的員工滿意度增幅與2022至2023年相同，請預測2024年的員工滿意度為何？", "answer": "C", "choice": ["96", "92", "94", "93"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據圖示，以下哪一年再生能源占比首次超過7%？", "answer": "C", "choice": ["2021 - 再生能源占比約為5%", "2022 - 再生能源占比約為6.5%", "2023", "2024 - 再生能源占比預測為6.8%"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據圖片所示的數據，從2022年到2024年，綠色債券承銷金額總共增加了多少？", "answer": "C", "choice": ["45", "65", "55", "50"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據2022年至2024年的預測，下列哪一項最接近ESG基金與債券投資規模成長率的平均值？", "answer": "C", "choice": ["19.85", "30.14", "23.67", "25.00"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據圖表，2022年到2024年間，綠色企業顧問服務協助的企業數量預計將增加多少？", "answer": "C", "choice": ["34", "30", "32", "38"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年綠色消費回饋金額與完成碳管理診斷企業數的總和，以下哪一項是正確的？", "answer": "C", "choice": ["7000", "7060", "7050", "6905"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖所示，氣候變遷、綠色金融和公司治理的值分別為多少？請選擇正確的總和。", "answer": "C", "choice": ["2500", "3200", "3300", "3000"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年的社區共融活動，受益家庭數的平均值為多少？請參考下圖提供的數據。", "answer": "C", "choice": ["75", "55", "60", "50"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據提供的圖片，綠色授信餘額從基準年到2023年變化了多少百分比？", "answer": "C", "choice": ["700%", "650%", "600%", "550%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，在2022年和2023年的社會公益捐贈金額中，哪個選項最接近這兩年間的平均值？", "answer": "C", "choice": ["1.2", "1.0", "0.9", "0.75"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據以下數據，如果2024年的員工滿意度增幅與2022至2023年相同，請預測2024年的員工滿意度為何？", "answer": "B", "choice": ["93", "94", "92", "96"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據圖示，以下哪一年再生能源占比首次超過7%？", "answer": "D", "choice": ["2022 - 再生能源占比約為6.5%", "2021 - 再生能源占比約為5%", "2024 - 再生能源占比預測為6.8%", "2023"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據圖片所示的數據，從2022年到2024年，綠色債券承銷金額總共增加了多少？", "answer": "D", "choice": ["50", "45", "65", "55"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2022年至2024年的預測，下列哪一項最接近ESG基金與債券投資規模成長率的平均值？", "answer": "B", "choice": ["30.14", "23.67", "19.85", "25.00"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據圖表，2022年到2024年間，綠色企業顧問服務協助的企業數量預計將增加多少？", "answer": "B", "choice": ["34", "32", "38", "30"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年綠色消費回饋金額與完成碳管理診斷企業數的總和，以下哪一項是正確的？", "answer": "B", "choice": ["7060", "7050", "6905", "7000"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖所示，氣候變遷、綠色金融和公司治理的值分別為多少？請選擇正確的總和。", "answer": "D", "choice": ["3200", "2500", "3000", "3300"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年的社區共融活動，受益家庭數的平均值為多少？請參考下圖提供的數據。", "answer": "C", "choice": ["55", "75", "60", "50"]}
 {"category": "Open", "question_type": "Temporal Trend", "question": "觀察2019年至2023年的溫室氣體排放變化百分比趨勢，哪一年溫室氣體排放減少最顯著？", "answer": "2023年溫室氣體排放減少最顯著，變化百分比為-10.1%"}
 {"category": "Open", "question_type": "Rate of Change", "question": "從2021年到2022年，累計減排公噸數量的增長率是多少？", "answer": "55.81%"}
-{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2019年至2023年的溫室氣體排放變化百分比趨勢，以下哪一年顯示出最顯著的減少？（請參照圖片）", "answer": "D", "choice": ["2020年，溫室氣體排放減少，變化百分比為-5.0%", "2022年，溫室氣體排放減少，變化百分比為-6.5%", "2021年，溫室氣體排放比2020年增加，變化百分比為+2.0%", "2023年，溫室氣體排放減少最顯著，變化百分比為-10.1%"]}
-{"category": "MCQ", "question_type": "Rate of Change", "question": "根據提供的數據，從2021年到2022年，減排公噸數量的增長率是多少？請參考圖表中的具體數據。", "answer": "D", "choice": ["57.30%", "60.50%", "51.25%", "55.81%"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2019年至2023年的溫室氣體排放變化百分比趨勢，以下哪一年顯示出最顯著的減少？（請參照圖片）", "answer": "A", "choice": ["2023年，溫室氣體排放減少最顯著，變化百分比為-10.1%", "2022年，溫室氣體排放減少，變化百分比為-6.5%", "2021年，溫室氣體排放比2020年增加，變化百分比為+2.0%", "2020年，溫室氣體排放減少，變化百分比為-5.0%"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據提供的數據，從2021年到2022年，減排公噸數量的增長率是多少？請參考圖表中的具體數據。", "answer": "D", "choice": ["51.25%", "57.30%", "60.50%", "55.81%"]}
 {"category": "Open", "question_type": "Aggregation", "question": "在圖1中，從2019年到2023年，用電量變化(%)的總變化是多少？", "answer": "-9.3%"}
 {"category": "Open", "question_type": "Aggregation", "question": "根據表4的資料，計算從2021年到2025年每年減少碳排的平均增長量是多少？", "answer": "每年減少碳排的平均增長量是2125"}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖1，從2019年到2023年，用電量變化的總變化百分比為何？", "answer": "A", "choice": ["-9.3%", "-8.0%", "-9.1%", "-10.5%"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表5的資料，預估永續債券承銷金額從2022年到2024年的增長率是多少？以下哪一項正確？", "answer": "D", "choice": ["從2022到2023年的增長率為10%，而從2023到2024的增長率為約25%。", "從2022到2023年的增長率為18%，而2023到2024的增長率為約15%。", "從2022到2023年的增長率為30%，而從2023到2024預估的增長率為約12%。", "從2022到2023年的增長率為20%，從2023到2024預估的增長率為約18.06%。"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表10的資料，若預計未來三年每年的意見與建議數量增長率是5%，請問三年後的預計意見與建議數量是下列哪一項？", "answer": "B", "choice": ["576", "579", "580", "578"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖1，從2019年到2023年，用電量變化的總變化百分比為何？", "answer": "C", "choice": ["-8.0%", "-10.5%", "-9.3%", "-9.1%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表5的資料，預估永續債券承銷金額從2022年到2024年的增長率是多少？以下哪一項正確？", "answer": "C", "choice": ["從2022到2023年的增長率為18%，而2023到2024的增長率為約15%。", "從2022到2023年的增長率為30%，而從2023到2024預估的增長率為約12%。", "從2022到2023年的增長率為20%，從2023到2024預估的增長率為約18.06%。", "從2022到2023年的增長率為10%，而從2023到2024的增長率為約25%。"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表10的資料，若預計未來三年每年的意見與建議數量增長率是5%，請問三年後的預計意見與建議數量是下列哪一項？", "answer": "C", "choice": ["578", "576", "579", "580"]}
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據圖2，所有項目的數值總和是 840。", "answer": "是", "question_group": 972}
 
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據圖2，所有項目的數值總和是 750。", "answer": "否", "question_group": 972}

@@ -1,12 +1,12 @@
 {"category": "Open", "question_type": "Comparison", "question": "根據表2的資料，哪個區間的百分比最低，並計算出此區間與「15天內」的百分比之差？", "answer": "百分比最低的區間是「超過30天」，與「15天內」的百分比之差是75%。"}
 {"category": "Open", "question_type": "Comparison", "question": "若僅考慮2023年，根據表3的資料，官網專屬頁面和客戶服務熱線的使用率差異是多少？", "answer": "15%"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據表2的資料，以下哪個區間的百分比最低，且其與「15天內」的百分比相差75%？", "answer": "C", "choice": ["41到50天 (3%)", "16到29天 (25%)", "超過30天", "32到46天 (20%)"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據表3的資料，若僅考慮2023年，官網專屬頁面和客戶服務熱線的使用率差異為何？", "answer": "C", "choice": ["25%", "5%", "15%", "18%"]}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖1，下列哪一項描述正確反映了提升可能性最低的因素與最高的因素之間的差距？", "answer": "C", "choice": ["提升滿意度的最低因素，增加了60%", "提升滿意度的最低因素，增加了70%", "65%", "提升滿意度的最低因素，增加了75%"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖2，以下哪一項描述正確地反映了所有措施類型的應用數量的情況？", "answer": "C", "choice": ["大部分措施類型的應用數量與其他類型相似。", "整體應用數量趨於一致，但有少數幾種措施稍有不同。", "所有措施類型的應用數量相同。", "所有措施類型的應用數量幾乎相同，但有一項稍高。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖3，以下哪一項描述最準確地反映了兩個條件的比例關係？", "answer": "C", "choice": ["儘管兩個條件的比例相同，但消費者對不同條件的接受度有所不同。", "兩個條件的比例大致相同，但有一個條件在某些時間段內表現出更高的偏好。", "兩個條件的比例完全相同。", "至少有一個條件的比例顯示出很少有消費者表達意願，顯示偏好不明顯。"]}
-{"category": "MCQ", "question_type": "Ranking", "question": "根據圖4的資料，以下哪一種查詢方式的比例為最大的？", "answer": "C", "choice": ["郵件查詢", "數字查詢", "在線查詢", "應用程序查詢"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖5的資料，以下哪項陳述是正確的？", "answer": "C", "choice": ["潛在提升率無法比較，只能針對其中一個指標進行分析。", "一個指標的潛在提升率與另一個指標的差異不明顯。", "兩個指標的潛在提升率相同。", "所有指標的潛在提升率有差異，但無法具體說明哪些指標何者較高。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表2的資料，以下哪個區間的百分比最低，且其與「15天內」的百分比相差75%？", "answer": "C", "choice": ["16到29天 (25%)", "32到46天 (20%)", "超過30天", "41到50天 (3%)"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表3的資料，若僅考慮2023年，官網專屬頁面和客戶服務熱線的使用率差異為何？", "answer": "C", "choice": ["18%", "5%", "15%", "25%"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖1，下列哪一項描述正確反映了提升可能性最低的因素與最高的因素之間的差距？", "answer": "C", "choice": ["提升滿意度的最低因素，增加了60%", "提升滿意度的最低因素，增加了75%", "65%", "提升滿意度的最低因素，增加了70%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖2，以下哪一項描述正確地反映了所有措施類型的應用數量的情況？", "answer": "B", "choice": ["所有措施類型的應用數量幾乎相同，但有一項稍高。", "所有措施類型的應用數量相同。", "整體應用數量趨於一致，但有少數幾種措施稍有不同。", "大部分措施類型的應用數量與其他類型相似。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖3，以下哪一項描述最準確地反映了兩個條件的比例關係？", "answer": "C", "choice": ["兩個條件的比例大致相同，但有一個條件在某些時間段內表現出更高的偏好。", "至少有一個條件的比例顯示出很少有消費者表達意願，顯示偏好不明顯。", "兩個條件的比例完全相同。", "儘管兩個條件的比例相同，但消費者對不同條件的接受度有所不同。"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據圖4的資料，以下哪一種查詢方式的比例為最大的？", "answer": "C", "choice": ["應用程序查詢", "數字查詢", "在線查詢", "郵件查詢"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖5的資料，以下哪項陳述是正確的？", "answer": "D", "choice": ["所有指標的潛在提升率有差異，但無法具體說明哪些指標何者較高。", "潛在提升率無法比較，只能針對其中一個指標進行分析。", "一個指標的潛在提升率與另一個指標的差異不明顯。", "兩個指標的潛在提升率相同。"]}
 {"category": "Open", "question_type": "Difference Calculation", "question": "根據圖1，提升可能性最低的因素與最高的因素之差是多少？", "answer": "65%"}
 {"category": "Open", "question_type": "Comparison", "question": "在圖2中，所有措施類型的應用數量是否相同？", "answer": "是，所有措施類型的應用數量相同。"}
 {"category": "Open", "question_type": "Comparison", "question": "在圖3中，兩個條件的比例是否完全相同？", "answer": "是，兩個條件的比例完全相同。"}

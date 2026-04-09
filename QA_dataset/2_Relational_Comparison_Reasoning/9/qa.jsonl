@@ -1,8 +1,8 @@
 {"category": "Open", "question_type": "Comparison", "question": "在2023年中，哪種支付方式的交易總額最少？", "answer": "歐付寶的交易總額最少，為800億元。"}
 {"category": "Open", "question_type": "Comparison", "question": "2023年的攻擊事件增長率是否高於數位銀行目標比例？", "answer": "2023年的攻擊事件增長率高於數位銀行目標比例。"}
 {"category": "Open", "question_type": "Comparison", "question": "哪一項應用的風險調整回報率提升較高？", "answer": "動態風險管理的風險調整回報率提升較高"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的資料，在以下支付方式中，哪一種的交易總額是最低的？", "answer": "C", "choice": ["Google Pay", "支付寶", "歐付寶", "Apple Pay"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的圖片，哪一項應用的風險調整回報率提升較高？", "answer": "C", "choice": ["風險預警系統的風險調整回報率提升較高", "投資組合最佳化的風險調整回報率提升較高", "動態風險管理的風險調整回報率提升較高", "市場趨勢分析的風險調整回報率提升較高"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的資料，在以下支付方式中，哪一種的交易總額是最低的？", "answer": "A", "choice": ["歐付寶", "Google Pay", "支付寶", "Apple Pay"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的圖片，哪一項應用的風險調整回報率提升較高？", "answer": "C", "choice": ["市場趨勢分析的風險調整回報率提升較高", "投資組合最佳化的風險調整回報率提升較高", "動態風險管理的風險調整回報率提升較高", "風險預警系統的風險調整回報率提升較高"]}
 {"category": "Open", "question_type": "Comparison", "question": "依據表6，假設一家公司在未使用大數據和人工智慧技術時的貸款逾期率和反欺詐檢測準確率分別為12%和50%，使用這些技術後，哪一指標的改善幅度較大？", "answer": "反欺詐檢測準確率的改善幅度較大"}
 {"category": "YesNo", "question_type": "Comparison", "question": "根據表2，歐付寶在2023年的交易總額是最低的，為800億元。", "answer": "是", "question_group": 300}
 

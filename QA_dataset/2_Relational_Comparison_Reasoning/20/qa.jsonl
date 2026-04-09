@@ -5,24 +5,24 @@
 {"category": "Open", "question_type": "Comparison", "question": "2023年的風險損失率降低百分比比2022年高多少個百分點？", "answer": "2023年的風險損失率降低百分比比2022年高7個百分點。"}
 {"category": "Open", "question_type": "Comparison", "question": "2023 年的風險管理得分比 2022 年高多少分？", "answer": "2023 年的風險管理得分比 2022 年高 2 分。"}
 {"category": "Open", "question_type": "Comparison", "question": "在創新實驗室和可持續金融論壇中，哪一個活動的每位合作夥伴平均促成的知識交流次數較多？", "answer": "創新實驗室的每位合作夥伴平均促成的知識交流次數較多，為0.4次。"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據某項研究，個人投資者的比例相較於Z世代低多少個百分點？請參考附圖來選擇正確答案。", "answer": "C", "choice": ["與Z世代持平", "6個百分點", "3個百分點", "4個百分點"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，2024年和2025年的金融科技投資額相比，哪一年較高？", "answer": "C", "choice": ["2024年和2025年的金融科技投資額完全相等，前提是假設市場不變。", "2025年的金融科技投資額減少了。", "2025年的金融科技投資額更高。", "2024年的金融科技投資額低於2025年，但增長幅度不及預期。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的數據，2023年和2024年，哪一年員工的參加比例較高且提升能力的比例較大？", "answer": "C", "choice": ["2023年和2024年員工的參加比例相近，但2023年的提升能力比例較高。", "2024年參加比例持平，能力提升顯著。", "2024年員工的參加比例較高，且提升能力的比例較大。", "2024年員工的參加比例較高，但提升能力的比例沒有變化。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的數據，哪一個季度的產品滿意度指數增長幅度是2023年中最大的？該季度的增長幅度比2023Q1高出多少個百分點？", "answer": "C", "choice": ["2023Q1的產品滿意度指數增長幅度是最大的，增長幅度比2023Q4高出2個百分點。", "2023Q3的產品滿意度指數增長幅度是最大的，增長幅度比2023Q1高出3個百分點。", "2023Q4的產品滿意度指數增長幅度是最大的，增長幅度比2023Q1高出12個百分點。", "2023Q2的產品滿意度指數增長幅度是最大的，增長幅度比2023Q1高出10個百分點。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據以下數據，2023年的風險損失率降低百分比比2022年高多少個百分點？請參考圖表中的數據來選擇正確答案。", "answer": "C", "choice": ["6個百分點", "9個百分點", "7個百分點", "5個百分點"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據下面的數據，2023 年的風險管理得分與 2022 年相比增加了多少分？\n\n(數據顯示 2022 年得分為 X，2023 年得分為 Y)", "answer": "C", "choice": ["2023 年的風險管理得分不及 2022 年。", "2023 年的風險管理得分比 2022 年高 3 分。", "2023 年的風險管理得分比 2022 年高 2 分。", "2023 年的風險管理得分比 2022 年高 4 分。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，在哪一個活動中，每位合作夥伴平均促成的知識交流次數較多？", "answer": "C", "choice": ["創新研討會的每位合作夥伴平均促成的知識交流次數達到了0.3次。", "合作工作坊的每位合作夥伴平均促成的知識交流次數為0.5次，因此顯示出其相對較高的交流活動。", "創新實驗室的每位合作夥伴平均促成的知識交流次數為0.4次。", "創新實驗室的每位合作夥伴平均促成的知識交流次數為0.4次，雖然不高但顯示其存在一定的交流活動。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據某項研究，個人投資者的比例相較於Z世代低多少個百分點？請參考附圖來選擇正確答案。", "answer": "A", "choice": ["3個百分點", "6個百分點", "與Z世代持平", "4個百分點"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，2024年和2025年的金融科技投資額相比，哪一年較高？", "answer": "D", "choice": ["2024年的金融科技投資額低於2025年，但增長幅度不及預期。", "2025年的金融科技投資額減少了。", "2024年和2025年的金融科技投資額完全相等，前提是假設市場不變。", "2025年的金融科技投資額更高。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的數據，2023年和2024年，哪一年員工的參加比例較高且提升能力的比例較大？", "answer": "C", "choice": ["2023年和2024年員工的參加比例相近，但2023年的提升能力比例較高。", "2024年員工的參加比例較高，但提升能力的比例沒有變化。", "2024年員工的參加比例較高，且提升能力的比例較大。", "2024年參加比例持平，能力提升顯著。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的數據，哪一個季度的產品滿意度指數增長幅度是2023年中最大的？該季度的增長幅度比2023Q1高出多少個百分點？", "answer": "D", "choice": ["2023Q2的產品滿意度指數增長幅度是最大的，增長幅度比2023Q1高出10個百分點。", "2023Q3的產品滿意度指數增長幅度是最大的，增長幅度比2023Q1高出3個百分點。", "2023Q1的產品滿意度指數增長幅度是最大的，增長幅度比2023Q4高出2個百分點。", "2023Q4的產品滿意度指數增長幅度是最大的，增長幅度比2023Q1高出12個百分點。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據以下數據，2023年的風險損失率降低百分比比2022年高多少個百分點？請參考圖表中的數據來選擇正確答案。", "answer": "B", "choice": ["9個百分點", "7個百分點", "6個百分點", "5個百分點"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下面的數據，2023 年的風險管理得分與 2022 年相比增加了多少分？\n\n(數據顯示 2022 年得分為 X，2023 年得分為 Y)", "answer": "D", "choice": ["2023 年的風險管理得分比 2022 年高 3 分。", "2023 年的風險管理得分比 2022 年高 4 分。", "2023 年的風險管理得分不及 2022 年。", "2023 年的風險管理得分比 2022 年高 2 分。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，在哪一個活動中，每位合作夥伴平均促成的知識交流次數較多？", "answer": "D", "choice": ["合作工作坊的每位合作夥伴平均促成的知識交流次數為0.5次，因此顯示出其相對較高的交流活動。", "創新研討會的每位合作夥伴平均促成的知識交流次數達到了0.3次。", "創新實驗室的每位合作夥伴平均促成的知識交流次數為0.4次，雖然不高但顯示其存在一定的交流活動。", "創新實驗室的每位合作夥伴平均促成的知識交流次數為0.4次。"]}
 {"category": "Open", "question_type": "Difference Calculation", "question": "資金籌集額最高的項目與最低的項目之間的差距是多少？", "answer": "4億美元"}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖表，資金籌集額最高的項目與最低的項目之間的差距是多少？", "answer": "C", "choice": ["6億美元", "2億5000萬美元", "4億美元", "7億美元"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖表，資金籌集額最高的項目與最低的項目之間的差距是多少？", "answer": "C", "choice": ["7億美元", "2億5000萬美元", "4億美元", "6億美元"]}
 {"category": "Open", "question_type": "Comparison", "question": "根據圖1，2023年和2024年的市場規模差距是多少萬億美元？", "answer": "4萬億美元"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "根據圖8，指標30的變化百分比比指標15多多少？", "answer": "指標30的變化百分比比指標15多15%"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "根據圖7，指標100與指標70的數據差異是多少？", "answer": "30"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "在圖6中，項目數值的最大差異是多少？", "answer": "70"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "在圖5中，數據為200的指標與數據為10的指標之間的差是多少？", "answer": "190"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "根據圖9，兩個活動類型參與人數的差異是多少？", "answer": "2000"}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖3，資金籌集額最多的合作類別與最少的合作類別之間的差額為多少億美元？", "answer": "A", "choice": ["4億美元", "2億美元", "5億美元", "7億美元"]}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖8，指標30的變化百分比與指標15相比，差異為多少？", "answer": "D", "choice": ["指標30的變化百分比比指標15多8%", "指標30的變化百分比比指標15多3%", "指標30的變化百分比比指標15少5%", "指標30的變化百分比比指標15多15%"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖5中的數據，以下哪一個指標的數據是最低的？", "answer": "C", "choice": ["指標: 7", "指標: 5", "指標: 10", "指標: 9"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖3，資金籌集額最多的合作類別與最少的合作類別之間的差額為多少億美元？", "answer": "A", "choice": ["4億美元", "5億美元", "2億美元", "7億美元"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖8，指標30的變化百分比與指標15相比，差異為多少？", "answer": "B", "choice": ["指標30的變化百分比比指標15多3%", "指標30的變化百分比比指標15多15%", "指標30的變化百分比比指標15少5%", "指標30的變化百分比比指標15多8%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖5中的數據，以下哪一個指標的數據是最低的？", "answer": "B", "choice": ["指標: 5", "指標: 10", "指標: 9", "指標: 7"]}
 {"category": "YesNo", "question_type": "Comparison", "question": "根據圖6，數值最低的項目是數值為30的項目。", "answer": "是", "question_group": 329}
 
 {"category": "YesNo", "question_type": "Comparison", "question": "根據圖6，數值最低的項目是數值為100的項目。", "answer": "否", "question_group": 329}

@@ -3,18 +3,18 @@
 {"category": "Open", "question_type": "Comparison", "question": "啟動後第1年到啟動後第3年，偏遠地區和城市地區的比例增幅的差異是多少？", "answer": "2%"}
 {"category": "Open", "question_type": "Comparison", "question": "啟動後第5年新就業機會的數量是啟動前的多少倍？", "answer": "未定義（因為除以零）"}
 {"category": "Open", "question_type": "Comparison", "question": "啟動後第3年的農藥使用減少百分比比啟動後第1年多了多少？", "answer": "啟動後第3年的農藥使用減少百分比比啟動後第1年多了4%。"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據下列項目的預計社會資本投入，哪個項目被預期會最低？", "answer": "C", "choice": ["農業科技創新 - 預計投入500萬", "農村社會服務 - 預計投入450萬", "農村金融基礎設施", "環境保護計劃 - 預計投入550萬"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片顯示，2019年和2020年之間，蔬菜的百分比變化是什麼？", "answer": "C", "choice": ["蔬菜的百分比在2019年到2020年增加了3%。", "蔬菜的百分比在2019年到2020年保持不變。", "蔬菜的百分比在2019年到2020年增加了1%。", "蔬菜的百分比在2019年到2020年增加了2%。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據啟動後第1年到啟動後第3年的數據，偏遠地區和城市地區的比例增幅的差異是多少？以下哪一項是正確的？", "answer": "C", "choice": ["1%", "4%", "2%", "6%"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據下面的數據，啟動後第5年新就業機會的數量是啟動前的多少倍？（假設啟動前的就業機會為零）", "answer": "C", "choice": ["無法確定（因為是零的倍數）", "零倍（因為啟動前就業機會為零）", "未定義（因為除以零）", "無法計算（因為啟動前就業機會為零）"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據下列情境，啟動後第3年的農藥使用減少百分比，與啟動後第1年相比，增加了多少百分比？", "answer": "D", "choice": ["2%", "1%", "7%", "4%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下列項目的預計社會資本投入，哪個項目被預期會最低？", "answer": "A", "choice": ["農村金融基礎設施", "環境保護計劃 - 預計投入550萬", "農業科技創新 - 預計投入500萬", "農村社會服務 - 預計投入450萬"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片顯示，2019年和2020年之間，蔬菜的百分比變化是什麼？", "answer": "B", "choice": ["蔬菜的百分比在2019年到2020年增加了2%。", "蔬菜的百分比在2019年到2020年增加了1%。", "蔬菜的百分比在2019年到2020年保持不變。", "蔬菜的百分比在2019年到2020年增加了3%。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據啟動後第1年到啟動後第3年的數據，偏遠地區和城市地區的比例增幅的差異是多少？以下哪一項是正確的？", "answer": "D", "choice": ["1%", "4%", "6%", "2%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下面的數據，啟動後第5年新就業機會的數量是啟動前的多少倍？（假設啟動前的就業機會為零）", "answer": "D", "choice": ["無法確定（因為是零的倍數）", "無法計算（因為啟動前就業機會為零）", "零倍（因為啟動前就業機會為零）", "未定義（因為除以零）"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下列情境，啟動後第3年的農藥使用減少百分比，與啟動後第1年相比，增加了多少百分比？", "answer": "A", "choice": ["4%", "1%", "7%", "2%"]}
 {"category": "Open", "question_type": "Comparison", "question": "哪一個農產品的單位產出提升後數值最低？", "answer": "農產品: 920"}
 {"category": "Open", "question_type": "Comparison", "question": "最右邊的地區參與農戶數是多少?", "answer": "100"}
-{"category": "MCQ", "question_type": "Comparison", "question": "在所示的農產品生產數據中，哪一個農產品的單位產出提升後的數值最低？", "answer": "C", "choice": ["850", "940", "920", "880"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中最右邊的地區，參與農戶數目是什麼?", "answer": "C", "choice": ["90", "130", "100", "110"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在所示的農產品生產數據中，哪一個農產品的單位產出提升後的數值最低？", "answer": "A", "choice": ["920", "850", "940", "880"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中最右邊的地區，參與農戶數目是什麼?", "answer": "C", "choice": ["90", "110", "100", "130"]}
 {"category": "Open", "question_type": "Comparison", "question": "根據圖5，哪個指標的目標最小？", "answer": "指標 20 的目標最小"}
 {"category": "Open", "question_type": "Comparison", "question": "根據圖1，在2024年，農業產值占GDP比例和農業從業人員占全國勞動力比例，哪一個比例較高？", "answer": "在2024年，農業產值占GDP比例 (2.0%) 較高。"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖3，以下哪一種農產品的單位產出提升最低？", "answer": "A", "choice": ["對應於920的農產品", "對應於1000的農產品", "對應於950的農產品", "對應於850的農產品"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖3，以下哪一種農產品的單位產出提升最低？", "answer": "C", "choice": ["對應於1000的農產品", "對應於850的農產品", "對應於920的農產品", "對應於950的農產品"]}
 {"category": "YesNo", "question_type": "Comparison", "question": "根據圖3，農產品C的單位產出提升後的數值是最低的，其值為920。", "answer": "是", "question_group": 379}
 
 {"category": "YesNo", "question_type": "Comparison", "question": "根據圖3，農產品A的單位產出提升後的數值是最低的。", "answer": "否", "question_group": 379}

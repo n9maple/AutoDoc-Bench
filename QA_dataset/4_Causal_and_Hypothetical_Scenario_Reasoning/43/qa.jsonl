@@ -1,9 +1,9 @@
 {"category": "Open", "question_type": "Multi-hop Reasoning", "question": "2022年每位服務農民獲得的平均金融貸款餘額是多少？", "answer": "2022年每位服務農民獲得的平均金融貸款餘額是0.015。"}
 {"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果2026年的數位金融推動項目數增加一倍，那麼從2024年到2026年，數位金融推動項目數的總和會是多少？", "answer": "18"}
 {"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果每位受惠農戶平均獲得2次保險賠付，那麼總共進行了多少次賠付？", "answer": "總共進行了16400次賠付。"}
-{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據圖片顯示，2022年每位服務農民獲得的平均金融貸款餘額是多少？", "answer": "C", "choice": ["0.020", "0.005", "0.015", "0.030"]}
-{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據數據，假設2024年至2026年每年數位金融推動項目數量如圖所示。若2026年的數字翻倍，則2024年至2026年數位金融推動項目數的總和會是多少？", "answer": "C", "choice": ["30", "15", "18", "23"]}
-{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表6的資料，如果初審通過的貸款案件數占總貸款案件數的比例增加了10%，而取得信用保證比率保持不變，那麼新的取得信用保證的貸款案件數應該是？", "answer": "D", "choice": ["1130", "900", "1250", "1077"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據圖片顯示，2022年每位服務農民獲得的平均金融貸款餘額是多少？", "answer": "D", "choice": ["0.030", "0.020", "0.005", "0.015"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據數據，假設2024年至2026年每年數位金融推動項目數量如圖所示。若2026年的數字翻倍，則2024年至2026年數位金融推動項目數的總和會是多少？", "answer": "C", "choice": ["15", "30", "18", "23"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表6的資料，如果初審通過的貸款案件數占總貸款案件數的比例增加了10%，而取得信用保證比率保持不變，那麼新的取得信用保證的貸款案件數應該是？", "answer": "A", "choice": ["1077", "1250", "900", "1130"]}
 {"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表2，2022年每位服務農民獲得的平均金融貸款餘額是0.015。", "answer": "是", "question_group": 1338}
 
 {"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表2，2022年每位服務農民獲得的平均金融貸款餘額是0.150。", "answer": "否", "question_group": 1338}

@@ -3,24 +3,24 @@
 {"category": "Open", "question_type": "Aggregation", "question": "英國和美國在2023年的百分比總和是多少？", "answer": "141%"}
 {"category": "Open", "question_type": "Temporal Reasoning", "question": "從2022年到2023年，金融管會現場查核次數的增長百分比是多少？", "answer": "9.09%"}
 {"category": "Open", "question_type": "Aggregation", "question": "在2023年，兆豐銀行合規稽核覆蓋率加上新開戶風險揭露及合約簽署比率的總和是多少？", "answer": "199.7"}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2022年底到2023年底的匯率變化趨勢，以下哪一項是正確的？", "answer": "C", "choice": ["匯率的變化趨勢是緩步上升的。", "匯率的變化趨勢是大幅波動的。", "匯率的變化趨勢是上升。", "匯率的變化趨勢有所回升。"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據圖片數據顯示，從2021年到2023年，哪個國家的百分比增加最多？", "answer": "C", "choice": ["韓國的百分比增長顯示不足以與台灣的增長相比，本年度增長率為5%", "日本的增長雖小，為3%，但在數據解讀上可能引起誤解", "台灣", "美國的交易損失率於2021年為10%，2023年仍保持在10%，顯示穩定無增長"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖片中展示的數據，英國和美國在2023年的總百分比是多少？", "answer": "C", "choice": ["134%", "119%", "141%", "143%"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據下圖顯示的金融管會查核次數，從2022年到2023年，增長百分比為多少？", "answer": "C", "choice": ["5%", "15%", "9.09%", "8%"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年的數據，兆豐銀行合規稽核覆蓋率、新開戶風險揭露及合約簽署比率的總和為多少？以下哪一個選項最貼近此數據？", "answer": "C", "choice": ["199.5", "200.1", "199.7", "199.0"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2022年底到2023年底的匯率變化趨勢，以下哪一項是正確的？", "answer": "A", "choice": ["匯率的變化趨勢是上升。", "匯率的變化趨勢是大幅波動的。", "匯率的變化趨勢有所回升。", "匯率的變化趨勢是緩步上升的。"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據圖片數據顯示，從2021年到2023年，哪個國家的百分比增加最多？", "answer": "A", "choice": ["台灣", "日本的增長雖小，為3%，但在數據解讀上可能引起誤解", "韓國的百分比增長顯示不足以與台灣的增長相比，本年度增長率為5%", "美國的交易損失率於2021年為10%，2023年仍保持在10%，顯示穩定無增長"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖片中展示的數據，英國和美國在2023年的總百分比是多少？", "answer": "D", "choice": ["134%", "143%", "119%", "141%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據下圖顯示的金融管會查核次數，從2022年到2023年，增長百分比為多少？", "answer": "B", "choice": ["5%", "9.09%", "15%", "8%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年的數據，兆豐銀行合規稽核覆蓋率、新開戶風險揭露及合約簽署比率的總和為多少？以下哪一個選項最貼近此數據？", "answer": "D", "choice": ["199.0", "199.5", "200.1", "199.7"]}
 {"category": "Open", "question_type": "Temporal Trend", "question": "從2021年至2023年，各國/地區外匯杠杆上限的數值是否有任何變化？", "answer": "從2021年至2023年，各國/地區外匯杠杆上限的數值沒有任何變化。"}
 {"category": "Open", "question_type": "Temporal Trend", "question": "從2020年到2022年，美洲的杠杆交易占比是如何變化的？", "answer": "從2020年到2022年，美洲的杠杆交易占比從22%增加到29%。"}
 {"category": "Open", "question_type": "Rate of Change", "question": "從2020年到2022年，亞洲地區的杠杆交易占比增加了多少百分點？", "answer": "增加了7個百分點"}
 {"category": "Open", "question_type": "Aggregation", "question": "圖表中控管措施的採用銀行數總和是多少？", "answer": "16"}
 {"category": "Open", "question_type": "Aggregation", "question": "所有指標的完成率總和是多少？", "answer": "300"}
-{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖片顯示，2021年至2023年，各國/地區的外匯杠杆上限有何變化？", "answer": "C", "choice": ["各國/地區外匯杠杆上限在2021年持平，隨後在2022年小幅上升。", "各國/地區在2023年將外匯杠杆上限從2022年的水平降低。", "各國/地區外匯杠杆上限的數值沒有任何變化。", "從2021年至2023年，各國/地區的外匯杠杆上限經歷了多次波動，但最終回到了2021年的水準。"]}
-{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據提供的圖表，美洲的杠杆交易占比在2020年至2022年間的變化情況是？", "answer": "C", "choice": ["美洲的杠杆交易占比從21%上升到28%。", "美洲的杠杆交易占比從22%下降到20%。", "美洲的杠杆交易占比從22%增加到29%。", "美洲的杠杆交易占比從22%增加到27%。"]}
-{"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖片顯示，2020年至2022年期間，亞洲地區的杠杆交易占比變化為何？", "answer": "C", "choice": ["增加了4個百分點", "減少了2個百分點", "增加了7個百分點", "增加了8個百分點"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖表中，採用控管措施的銀行數總和是多少？", "answer": "C", "choice": ["12", "19", "16", "13"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，各指標的完成率總和是多少？", "answer": "C", "choice": ["270", "320", "300", "290"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖片顯示，2021年至2023年，各國/地區的外匯杠杆上限有何變化？", "answer": "B", "choice": ["各國/地區外匯杠杆上限在2021年持平，隨後在2022年小幅上升。", "各國/地區外匯杠杆上限的數值沒有任何變化。", "從2021年至2023年，各國/地區的外匯杠杆上限經歷了多次波動，但最終回到了2021年的水準。", "各國/地區在2023年將外匯杠杆上限從2022年的水平降低。"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據提供的圖表，美洲的杠杆交易占比在2020年至2022年間的變化情況是？", "answer": "D", "choice": ["美洲的杠杆交易占比從22%下降到20%。", "美洲的杠杆交易占比從21%上升到28%。", "美洲的杠杆交易占比從22%增加到27%。", "美洲的杠杆交易占比從22%增加到29%。"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖片顯示，2020年至2022年期間，亞洲地區的杠杆交易占比變化為何？", "answer": "B", "choice": ["增加了4個百分點", "增加了7個百分點", "減少了2個百分點", "增加了8個百分點"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖表中，採用控管措施的銀行數總和是多少？", "answer": "B", "choice": ["12", "16", "19", "13"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，各指標的完成率總和是多少？", "answer": "D", "choice": ["270", "290", "320", "300"]}
 {"category": "Open", "question_type": "Aggregation", "question": "根據表2的資料，2023年新台幣/人民幣和新台幣/歐元的匯率增長率平均值是多少？", "answer": "7.4%"}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖7，以下哪一項代表所有指標的完成率總和？", "answer": "C", "choice": ["600", "450", "300", "150"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖6的資料，各控管措施的採用銀行數的總和是多少？以下哪一項是正確的？", "answer": "B", "choice": ["22", "16", "8", "12"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖7，以下哪一項代表所有指標的完成率總和？", "answer": "C", "choice": ["600", "150", "300", "450"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖6的資料，各控管措施的採用銀行數的總和是多少？以下哪一項是正確的？", "answer": "D", "choice": ["8", "12", "22", "16"]}
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據圖7，各指標的完成率總和是300%。", "answer": "是", "question_group": 983}
 
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據圖7，各指標的完成率總和是200%。", "answer": "否", "question_group": 983}

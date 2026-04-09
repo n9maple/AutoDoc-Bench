@@ -2,21 +2,21 @@
 {"category": "Open", "question_type": "Comparison", "question": "哪一個類別的平均參與人數最高？", "answer": "理賠技術"}
 {"category": "Open", "question_type": "Comparison", "question": "健康險與壽險的上限增長率分別是多少，哪一個的增長率更高？", "answer": "健康險的上限增長率是15%，壽險的上限增長率是10%，健康險的增長率更高。"}
 {"category": "Open", "question_type": "Comparison", "question": "2024-02 減去 2024-03 的保障條款金額會得到多少？", "answer": "-600"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，健康險的文件數量與意外險相比，不同的選擇中哪一項是正確的？", "answer": "C", "choice": ["健康險的文件數量比意外險多2份。", "健康險的文件數量等於意外險。", "健康險的文件數量比意外險多4份。", "健康險的文件數量比意外險多5份。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖所示，健康險與壽險的上限增長率分別是多少？請選出增長率更高的選項。", "answer": "C", "choice": ["壽險的上限增長率為12%，高於健康險的8%", "健康險的上限增長率為18%，低於壽險的15%", "健康險的上限增長率為15%，高於壽險的10%", "健康險的上限增長率為10%，而壽險的上限增長率為12%"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，2024-02的保障條款金額與2024-03的保障條款金額相減後，結果為多少？", "answer": "C", "choice": ["100", "-700", "-600", "-500"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，健康險的文件數量與意外險相比，不同的選擇中哪一項是正確的？", "answer": "D", "choice": ["健康險的文件數量比意外險多5份。", "健康險的文件數量比意外險多2份。", "健康險的文件數量等於意外險。", "健康險的文件數量比意外險多4份。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖所示，健康險與壽險的上限增長率分別是多少？請選出增長率更高的選項。", "answer": "A", "choice": ["健康險的上限增長率為15%，高於壽險的10%", "壽險的上限增長率為12%，高於健康險的8%", "健康險的上限增長率為18%，低於壽險的15%", "健康險的上限增長率為10%，而壽險的上限增長率為12%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，2024-02的保障條款金額與2024-03的保障條款金額相減後，結果為多少？", "answer": "D", "choice": ["100", "-500", "-700", "-600"]}
 {"category": "Open", "question_type": "Comparison", "question": "哪個處理階段的處理時間最短？", "answer": "申請提交"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "滿意度最高的調查指標與最低的差距是多少?", "answer": "差距是5%"}
 {"category": "Open", "question_type": "Comparison", "question": "哪個政策的申請期限較短?", "answer": "政策 30 的申請期限較短"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "兩個政策的申請期限差距是多少天?", "answer": "30天"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的圖片，以下哪個處理階段的處理時間最短？", "answer": "C", "choice": ["初步聯絡 (平均處理時間: 5 天)", "理賠審核 (平均處理時間: 10 天)", "申請提交", "文件審核 (平均處理時間: 7 天)"]}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據調查，滿意度最高的指標與最低指標的差距為多少？", "answer": "C", "choice": ["6%", "3%", "5%", "9%"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片，以下哪個政策的申請期限較短？", "answer": "C", "choice": ["政策 40 的申請期限與政策 30 相同", "政策 20 的申請期限更長於所有其他政策", "政策 30 的申請期限較短", "所有政策的申請期限不一致且政策 30 的期限最短"]}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖片中的兩個政策申請期限，這兩個政策的申請期限差距是多少天？", "answer": "C", "choice": ["25天", "50天", "30天", "三周"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的圖片，以下哪個處理階段的處理時間最短？", "answer": "D", "choice": ["理賠審核 (平均處理時間: 10 天)", "文件審核 (平均處理時間: 7 天)", "初步聯絡 (平均處理時間: 5 天)", "申請提交"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據調查，滿意度最高的指標與最低指標的差距為多少？", "answer": "D", "choice": ["6%", "9%", "3%", "5%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片，以下哪個政策的申請期限較短？", "answer": "D", "choice": ["政策 20 的申請期限更長於所有其他政策", "政策 40 的申請期限與政策 30 相同", "所有政策的申請期限不一致且政策 30 的期限最短", "政策 30 的申請期限較短"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖片中的兩個政策申請期限，這兩個政策的申請期限差距是多少天？", "answer": "B", "choice": ["25天", "30天", "三周", "50天"]}
 {"category": "Open", "question_type": "Comparison", "question": "根據圖1，2022年和2023年相比，哪一年的某一需求類型客戶需求百分比降幅最大？", "answer": "需求類型A在2023年的客戶需求百分比降幅最大，降幅為20%。"}
 {"category": "Open", "question_type": "Comparison", "question": "根據圖7，在哪一個季度符合條件的申請比例相對於不符合條件的申請比例差異最大？", "answer": "2024年第4季度"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "根據圖4，申請提交和最終處理的處理時間差多少天？", "answer": "由於沒有具體的數據提供，無法計算出申請提交和最終處理的處理時間差。"}
-{"category": "MCQ", "question_type": "Comparison", "question": "在圖2中，2023年的保險公司數位化理賠系統的採用率相較於2022年高出多少個百分點？", "answer": "A", "choice": ["10個百分點", "10%的降低", "15個百分點的提高", "保險公司數位化理賠系統未見上升"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在圖2中，2023年的保險公司數位化理賠系統的採用率相較於2022年高出多少個百分點？", "answer": "D", "choice": ["10%的降低", "15個百分點的提高", "保險公司數位化理賠系統未見上升", "10個百分點"]}
 {"category": "YesNo", "question_type": "Comparison", "question": "根據表7，2024-02的保障條款金額與2024-03的保障條款金額相減後的結果為-600。", "answer": "是", "question_group": 707}
 
 {"category": "YesNo", "question_type": "Comparison", "question": "根據表7，2024-02的保障條款金額與2024-03的保障條款金額相減後的結果為600。", "answer": "否", "question_group": 707}

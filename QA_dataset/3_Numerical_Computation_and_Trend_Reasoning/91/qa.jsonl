@@ -2,15 +2,15 @@
 {"category": "Open", "question_type": "Aggregation", "question": "2022 年和 2023 年的次數總和是多少？", "answer": "7"}
 {"category": "Open", "question_type": "Aggregation", "question": "若我們想了解B級和C級在5年期的利率平均值是多少，該怎麼計算？", "answer": "5.6%"}
 {"category": "Open", "question_type": "Aggregation", "question": "信用評級高的客戶群體和信用評級低的客戶群體的年利率下限平均值是多少？", "answer": "4.5%"}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據圖片所示數據，在 2022 年和 2023 年期間，幅度範圍保持不變的次數是多少？", "answer": "C", "choice": ["6", "8", "7", "5"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據以下數據，2022 年和 2023 年的事件次數總和是多少？(請根據下圖敘述回答)", "answer": "C", "choice": ["將事件記錄錯誤", "3+4=8", "7", "根據其他場合的依據，改為計算標準數量"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "若我們想了解B級和C級在5年期的利率平均值，根據提供的數據計算後，可能的答案是？", "answer": "C", "choice": ["5.0%", "5.5%", "5.6%", "6.2%"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的資料，圖中顯示的信用評級高的客戶群體和信用評級低的客戶群體的年利率下限平均值為多少？", "answer": "C", "choice": ["5.0%", "3.5%", "4.5%", "7.0%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據圖片所示數據，在 2022 年和 2023 年期間，幅度範圍保持不變的次數是多少？", "answer": "A", "choice": ["7", "6", "5", "8"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據以下數據，2022 年和 2023 年的事件次數總和是多少？(請根據下圖敘述回答)", "answer": "D", "choice": ["3+4=8", "根據其他場合的依據，改為計算標準數量", "將事件記錄錯誤", "7"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "若我們想了解B級和C級在5年期的利率平均值，根據提供的數據計算後，可能的答案是？", "answer": "D", "choice": ["5.0%", "6.2%", "5.5%", "5.6%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的資料，圖中顯示的信用評級高的客戶群體和信用評級低的客戶群體的年利率下限平均值為多少？", "answer": "D", "choice": ["5.0%", "7.0%", "3.5%", "4.5%"]}
 {"category": "Open", "question_type": "Aggregation", "question": "這些活動類型中，感到有幫助的客戶百分比的平均值是多少？", "answer": "63.5%"}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖表，上述活動類型中，感到有幫助的客戶百分比的平均值是？", "answer": "C", "choice": ["60%", "62%", "63.5%", "65.5%"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表1的資料，2022年和2023年間次數的變化趨勢為何？", "answer": "D", "choice": ["2023年的次數比2022年減少了3次，趨勢是減少。", "2023年的次數和2022年相同，趨勢是持平。", "2023年的次數比2022年減少了1次，趨勢是穩定。", "2023年的次數比2022年減少了1次，趨勢是減少。"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖2，所有貸款類型的統一利率總和可能是多少？", "answer": "A", "choice": ["31.0", "30.5", "32.5", "34.0"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據表1的資料，2022年和2023年的次數總和為何？請選擇正確的答案。", "answer": "D", "choice": ["6", "5", "11", "7"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖表，上述活動類型中，感到有幫助的客戶百分比的平均值是？", "answer": "B", "choice": ["65.5%", "63.5%", "62%", "60%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表1的資料，2022年和2023年間次數的變化趨勢為何？", "answer": "A", "choice": ["2023年的次數比2022年減少了1次，趨勢是減少。", "2023年的次數比2022年減少了3次，趨勢是減少。", "2023年的次數和2022年相同，趨勢是持平。", "2023年的次數比2022年減少了1次，趨勢是穩定。"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖2，所有貸款類型的統一利率總和可能是多少？", "answer": "C", "choice": ["30.5", "32.5", "31.0", "34.0"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表1的資料，2022年和2023年的次數總和為何？請選擇正確的答案。", "answer": "D", "choice": ["6", "11", "5", "7"]}
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，信用評級高的客戶群體和信用評級低的客戶群體的年利率下限平均值為4.5%。", "answer": "是", "question_group": 1107}
 
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，信用評級高的客戶群體和信用評級低的客戶群體的年利率下限平均值為6%。", "answer": "否", "question_group": 1107}

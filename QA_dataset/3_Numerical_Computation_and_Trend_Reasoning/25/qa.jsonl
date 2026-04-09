@@ -2,18 +2,18 @@
 {"category": "Open", "question_type": "Aggregation", "question": "2021年的親自出席和書面投票的總和是多少百分比？", "answer": "50%"}
 {"category": "Open", "question_type": "Aggregation", "question": "在2022年中，治理結構提案和ESG投入提案的比例總和是多少？", "answer": "90%"}
 {"category": "Open", "question_type": "Aggregation", "question": "在 2022 年，公司取得了哪些與減少碳排放和提升能源效率相關的成就？", "answer": "2022年，公司成功減少碳排放量5%，並獲得國際環保組織的認可；同時，通過更新設備和優化生產流程，公司提高了10%的能源使用效率。"}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據下列資料，從2019年到2023年，委託代理人的比例每年增加了多少百分比？請參考該圖片中的數據進行比較。", "answer": "C", "choice": ["每年增加8%", "每年增加3%", "每年增加5%", "每年增加6%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據下列資料，從2019年到2023年，委託代理人的比例每年增加了多少百分比？請參考該圖片中的數據進行比較。", "answer": "C", "choice": ["每年增加8%", "每年增加6%", "每年增加5%", "每年增加3%"]}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據2021年的選舉數據，親自出席投票和書面投票的總和為多少百分比？請參考提供的數據圖表作答。", "answer": "C", "choice": ["80%", "30%", "50%", "20%"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據2022年的數據，治理結構提案與ESG投入提案的比例總和可能是下列哪一項？", "answer": "C", "choice": ["85%", "88%", "90%", "92%"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據2022年公司的成就，以下哪一項與減少碳排放和提升能源效率相關？", "answer": "C", "choice": ["公司成功減少碳排放量5%但能源使用效率持平", "公司成功減少碳排放量5%但能源使用效率下降了5%", "公司成功減少碳排放量5%並提高能源使用效率10%", "公司未減少碳排放，能源使用效率增長了5%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2022年的數據，治理結構提案與ESG投入提案的比例總和可能是下列哪一項？", "answer": "B", "choice": ["92%", "90%", "85%", "88%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2022年公司的成就，以下哪一項與減少碳排放和提升能源效率相關？", "answer": "D", "choice": ["公司成功減少碳排放量5%但能源使用效率下降了5%", "公司未減少碳排放，能源使用效率增長了5%", "公司成功減少碳排放量5%但能源使用效率持平", "公司成功減少碳排放量5%並提高能源使用效率10%"]}
 {"category": "Open", "question_type": "Rate of Change", "question": "從4月到5月，股東會議百分比發生了什麼變化?", "answer": "從4月到5月，股東會議百分比增加了39個百分點。"}
 {"category": "Open", "question_type": "Temporal Trend", "question": "從2020年到2022年，股利支付比率的變化趨勢是如何的？", "answer": "從2020年到2022年，股利支付比率呈現逐年增加的趨勢。"}
 {"category": "Open", "question_type": "Aggregation", "question": "所有計劃項目的實施比例總和是多少？", "answer": "190%"}
-{"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖片顯示，從4月到5月，股東會議百分比發生了什麼變化？", "answer": "C", "choice": ["從4月到5月，股東會議百分比增加了15個基點。", "從4月到5月，股東會議百分比減少了5個百分點。", "從4月到5月，股東會議百分比增加了39個百分點。", "從4月到5月，股東會議百分比保持不變。"]}
-{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據下列圖表，股利支付比率從2020年到2022年的變化趨勢如何？", "answer": "C", "choice": ["股利支付比率在2021年經歷過一次小幅的上升，然後在2022年回落。", "股利支付比率在2022年相比2021年略有減少，但整體還是保持在高位。", "股利支付比率呈現逐年增加的趨勢。", "股利支付比率在2020年到2022年變化不大，主要呈現平穩狀態。"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "查看下圖顯示的計劃項目實施比例，所有計劃項目的實施比例總和是多少？", "answer": "C", "choice": ["145%", "205%", "190%", "190%（其他公司數據）"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據表6，假設所有公司在2022年均提出董事選舉和公司章程修訂提案，且這些提案的通過率維持不變，則這兩類提案合計獲得通過的比例是多少？以下哪一選項是正確的？", "answer": "D", "choice": ["75%", "78%", "82%", "80%"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表4的資料，假設2023年ESG投入提案比例減少了15個百分點，以下哪一項是ESG投入提案比例的減少百分比？", "answer": "D", "choice": ["15%", "18%", "20%", "25%"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖片顯示，從4月到5月，股東會議百分比發生了什麼變化？", "answer": "A", "choice": ["從4月到5月，股東會議百分比增加了39個百分點。", "從4月到5月，股東會議百分比保持不變。", "從4月到5月，股東會議百分比減少了5個百分點。", "從4月到5月，股東會議百分比增加了15個基點。"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據下列圖表，股利支付比率從2020年到2022年的變化趨勢如何？", "answer": "B", "choice": ["股利支付比率在2020年到2022年變化不大，主要呈現平穩狀態。", "股利支付比率呈現逐年增加的趨勢。", "股利支付比率在2021年經歷過一次小幅的上升，然後在2022年回落。", "股利支付比率在2022年相比2021年略有減少，但整體還是保持在高位。"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "查看下圖顯示的計劃項目實施比例，所有計劃項目的實施比例總和是多少？", "answer": "D", "choice": ["190%（其他公司數據）", "205%", "145%", "190%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表6，假設所有公司在2022年均提出董事選舉和公司章程修訂提案，且這些提案的通過率維持不變，則這兩類提案合計獲得通過的比例是多少？以下哪一選項是正確的？", "answer": "A", "choice": ["80%", "82%", "78%", "75%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表4的資料，假設2023年ESG投入提案比例減少了15個百分點，以下哪一項是ESG投入提案比例的減少百分比？", "answer": "A", "choice": ["25%", "18%", "15%", "20%"]}
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據表5，2022年公司成功減少了碳排放量5%並提高能源使用效率10%。", "answer": "是", "question_group": 852}
 
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據表5，2022年公司僅提高了能源使用效率5%且未減少碳排放量。", "answer": "否", "question_group": 852}

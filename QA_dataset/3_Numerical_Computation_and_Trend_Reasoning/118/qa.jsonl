@@ -1,4 +1,4 @@
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖1所示，所有服務類型的已推出銀行比例的平均值是多少？", "answer": "C", "choice": ["78.5%", "82.3%", "83.75%", "87.1%"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖4的資料，這兩個指標的百分比總和可能是下面哪一項？", "answer": "C", "choice": ["160%", "130%", "150%", "140%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖1所示，所有服務類型的已推出銀行比例的平均值是多少？", "answer": "B", "choice": ["78.5%", "83.75%", "87.1%", "82.3%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖4的資料，這兩個指標的百分比總和可能是下面哪一項？", "answer": "D", "choice": ["160%", "130%", "140%", "150%"]}
 {"category": "Open", "question_type": "Aggregation", "question": "在圖1中，所有服務類型的已推出銀行比例平均值是多少？", "answer": "83.75%"}
 {"category": "Open", "question_type": "Aggregation", "question": "根據圖4的資料，這兩個指標的百分比總和是多少？", "answer": "150%"}

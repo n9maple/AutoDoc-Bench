@@ -1,6 +1,6 @@
 {"category": "Open", "question_type": "Peak/Valley", "question": "在2024年快速理賠通道申請比例圖表中，哪個季度'符合條件'系列的申請比例最高？", "answer": "2024Q4"}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據提供的調查圖表，最左邊的調查指標的滿意度為何？", "answer": "C", "choice": ["78%", "82%", "80%", "77%"]}
-{"category": "MCQ", "question_type": "Peak/Valley", "question": "在2024年快速理賠通道申請比例圖表中，以下哪個季度的'符合條件'系列申請比例最高？", "answer": "C", "choice": ["2024年所有季度的申請比例相同", "2024Q1和2024Q2的平均值", "2024Q4", "2024Q3的申請比例為40%"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據提供的調查圖表，最左邊的調查指標的滿意度為何？", "answer": "A", "choice": ["80%", "78%", "77%", "82%"]}
+{"category": "MCQ", "question_type": "Peak/Valley", "question": "在2024年快速理賠通道申請比例圖表中，以下哪個季度的'符合條件'系列申請比例最高？", "answer": "A", "choice": ["2024Q4", "2024年所有季度的申請比例相同", "2024Q1和2024Q2的平均值", "2024Q3的申請比例為40%"]}
 {"category": "Open", "question_type": "Fact Lookup", "question": "在圖7中，2024Q3的不符合條件的申請比例是多少？", "answer": "49%"}
 {"category": "Open", "question_type": "Fact Lookup", "question": "在圖8中，參加人數最多的活動類型的參加人數是多少？", "answer": "3000"}
 {"category": "YesNo", "question_type": "Peak/Valley", "question": "根據圖7，2024Q4是'符合條件'系列申請比例最高的季度。", "answer": "是", "question_group": 240}

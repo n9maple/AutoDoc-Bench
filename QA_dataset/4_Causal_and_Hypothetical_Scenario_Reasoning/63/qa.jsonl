@@ -1,9 +1,9 @@
 {"category": "Open", "question_type": "Multi-hop Reasoning", "question": "日盛銀行承保存款總額占全國銀行總存款金額的百分比是多少？", "answer": "2941.18%"}
 {"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果匯款和現場領現的比例互換，現場領現將佔總比例的多少百分比？", "answer": "87%"}
-{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據提供的資料，日盛銀行承保存款總額占全國銀行總存款金額的百分比約為多少？", "answer": "C", "choice": ["45.67%", "75.12%", "2941.18%", "20.59%"]}
-{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "在一個匯款和現場領現的情境中，如果它們的比例互換，則現場領現將佔總比例的多少百分比？請根據以下情境圖片進行回答。", "answer": "C", "choice": ["92%", "75%", "87%", "79%"]}
-{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表4的資料，如果2023年其他方式的交易額為10萬美元，則該年總交易額的可能值是哪一個？", "answer": "A", "choice": ["1,000,000美元", "800,000美元", "1,150,000美元", "950,000美元"]}
-{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表1的資料，日盛銀行受保存款戶數的平均存款金額為多少？與全國銀行總存款金額的千分之一相比，哪個數值更大？", "answer": "A", "choice": ["日盛銀行受保存款戶數的平均存款金額為29.76億元，日盛銀行的平均存款金額更大。", "日盛銀行受保存款戶數的平均存款金額為25億元，但與全國銀行總存款金額的千分之一相比，日盛銀行的平均存款金額更小。", "日盛銀行受保存款戶數的平均存款金額為45億元，與全國銀行總存款金額的千分之一相比，日盛銀行的平均存款金額更大。", "日盛銀行受保存款戶數的平均存款金額為50億元，與全國銀行總存款金額的千分之一相比，日盛銀行的平均存款金額更大。"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據提供的資料，日盛銀行承保存款總額占全國銀行總存款金額的百分比約為多少？", "answer": "D", "choice": ["75.12%", "45.67%", "20.59%", "2941.18%"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "在一個匯款和現場領現的情境中，如果它們的比例互換，則現場領現將佔總比例的多少百分比？請根據以下情境圖片進行回答。", "answer": "A", "choice": ["87%", "92%", "79%", "75%"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表4的資料，如果2023年其他方式的交易額為10萬美元，則該年總交易額的可能值是哪一個？", "answer": "C", "choice": ["800,000美元", "950,000美元", "1,000,000美元", "1,150,000美元"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表1的資料，日盛銀行受保存款戶數的平均存款金額為多少？與全國銀行總存款金額的千分之一相比，哪個數值更大？", "answer": "B", "choice": ["日盛銀行受保存款戶數的平均存款金額為25億元，但與全國銀行總存款金額的千分之一相比，日盛銀行的平均存款金額更小。", "日盛銀行受保存款戶數的平均存款金額為29.76億元，日盛銀行的平均存款金額更大。", "日盛銀行受保存款戶數的平均存款金額為45億元，與全國銀行總存款金額的千分之一相比，日盛銀行的平均存款金額更大。", "日盛銀行受保存款戶數的平均存款金額為50億元，與全國銀行總存款金額的千分之一相比，日盛銀行的平均存款金額更大。"]}
 {"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表4，如果匯款和現場領現的比例互換，現場領現將佔總比例的87%。", "answer": "是", "question_group": 1404}
 
 {"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表4，如果匯款和現場領現的比例互換，現場領現將佔總比例的50%。", "answer": "否", "question_group": 1404}

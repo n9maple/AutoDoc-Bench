@@ -1,15 +1,15 @@
 {"category": "Open", "question_type": "Aggregation", "question": "2022年和2023年，所有投資類別的總和分別是多少億美元？", "answer": "2022年所有投資類別的總和是3200億美元，2023年所有投資類別的總和是4000億美元。"}
 {"category": "Open", "question_type": "Aggregation", "question": "國家B與國家C的增長百分比總和是多少？", "answer": "22.5%"}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，2022年和2023年所有投資類別的總和分別是多少億美元？", "answer": "C", "choice": ["2022年是3300億美元，2023年是4100億美元。", "2022年是3000億美元，2023年是4200億美元。", "2022年是3200億美元，2023年是4000億美元。", "2022年是3400億美元，2023年是4300億美元。"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，國家B與國家C的增長百分比總和是多少？", "answer": "C", "choice": ["23%", "18%", "22.5%", "28%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，2022年和2023年所有投資類別的總和分別是多少億美元？", "answer": "C", "choice": ["2022年是3400億美元，2023年是4300億美元。", "2022年是3000億美元，2023年是4200億美元。", "2022年是3200億美元，2023年是4000億美元。", "2022年是3300億美元，2023年是4100億美元。"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，國家B與國家C的增長百分比總和是多少？", "answer": "D", "choice": ["23%", "18%", "28%", "22.5%"]}
 {"category": "Open", "question_type": "Aggregation", "question": "2022年到2023年，全球經濟增長率的平均值是多少？", "answer": "3.05%"}
 {"category": "Open", "question_type": "Rate of Change", "question": "從2022年到2023年，全球貿易增長率的變化率是多少？", "answer": "-37.5%"}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據2022年到2023年的全球經濟增長率趨勢，以下哪一項最接近其平均值？", "answer": "C", "choice": ["3.15%", "3.35%", "3.05%", "3.20%"]}
-{"category": "MCQ", "question_type": "Rate of Change", "question": "根據2022年到2023年的全球貿易增長率變化，以下哪一項是正確的？", "answer": "C", "choice": ["-20%", "-30%", "-37.5%", "-15%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2022年到2023年的全球經濟增長率趨勢，以下哪一項最接近其平均值？", "answer": "C", "choice": ["3.15%", "3.20%", "3.05%", "3.35%"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據2022年到2023年的全球貿易增長率變化，以下哪一項是正確的？", "answer": "A", "choice": ["-37.5%", "-20%", "-15%", "-30%"]}
 {"category": "Open", "question_type": "Aggregation", "question": "根據表5的資料，2023年保險業的損失佔該年總損失的比例是多少？", "answer": "31.67%"}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表1，從2023年初到2023年末，以下哪個地區的百分比增長幅度最大？", "answer": "A", "choice": ["歐洲", "北美洲", "非洲", "南美洲"]}
-{"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖1，從2022年到2023年，全球經濟增長率下降了多少百分點？以下哪一選項是正確的？", "answer": "D", "choice": ["全球經濟增長率從2022年到2023年下降了1.2個百分點。", "全球經濟增長率從2022年到2023年下降了2.5個百分點。", "全球經濟增長率從2022年到2023年下降了0.0個百分點，表示經濟增長率沒有變化。", "全球經濟增長率從2022年到2023年下降了0.3個百分點。"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據表4的資料，以下哪一項是三個國家的電子商務市場規模總和？", "answer": "A", "choice": ["1500億美元", "1000億美元", "750億美元", "1700億美元"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表1，從2023年初到2023年末，以下哪個地區的百分比增長幅度最大？", "answer": "B", "choice": ["北美洲", "歐洲", "非洲", "南美洲"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖1，從2022年到2023年，全球經濟增長率下降了多少百分點？以下哪一選項是正確的？", "answer": "C", "choice": ["全球經濟增長率從2022年到2023年下降了0.0個百分點，表示經濟增長率沒有變化。", "全球經濟增長率從2022年到2023年下降了1.2個百分點。", "全球經濟增長率從2022年到2023年下降了0.3個百分點。", "全球經濟增長率從2022年到2023年下降了2.5個百分點。"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表4的資料，以下哪一項是三個國家的電子商務市場規模總和？", "answer": "B", "choice": ["1700億美元", "1500億美元", "750億美元", "1000億美元"]}
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據表6，2022年所有投資類別的總和是3200億美元。", "answer": "是", "question_group": 1161}
 
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據表6，2023年所有投資類別的總和是3500億美元。", "answer": "否", "question_group": 1161}

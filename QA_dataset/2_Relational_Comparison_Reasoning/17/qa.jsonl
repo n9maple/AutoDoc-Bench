@@ -2,15 +2,15 @@
 {"category": "Open", "question_type": "Comparison", "question": "哪一個技術領域的企業數量比人工智慧多，但市場份額卻較低？", "answer": "沒有符合條件的技術領域"}
 {"category": "Open", "question_type": "Comparison", "question": "2023 年的客戶關係管理和風險管理的百分比是否相同？", "answer": "是的，2023 年的客戶關係管理和風險管理的百分比相同。"}
 {"category": "Open", "question_type": "Comparison", "question": "支付的數值比保險的數值多多少？", "answer": "7"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2025年的數據，大企業和中小型企業的百分比是否相等？", "answer": "C", "choice": ["是，但不考慮行業差異。", "否，大企業的百分比高於中小型企業。", "是，兩者的百分比相等。", "否，中小型企業的百分比高於大企業。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的圖片，哪一個技術領域的企業數量比人工智慧多，但市場份額卻較低？", "answer": "C", "choice": ["數據分析企業數量明顯多於人工智慧，但其市場份額僅為人工智慧的50%。", "區塊鏈技術的企業數量較多，市場份額僅為人工智慧的30%。", "沒有符合條件的技術領域", "雲計算技術的企業數量較多，市場份額僅略低於人工智慧的80%。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的數據，客戶關係管理和風險管理的百分比是否相同？", "answer": "C", "choice": ["不，兩者的百分比不同，但差異在1%以內。", "不，客戶關係管理的百分比略高於風險管理，但差異不明顯。", "是的，客戶關係管理和風險管理的百分比相同。", "不，風險管理的百分比略高於客戶關係管理，有一個小的差異。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，支付的數值比保險的數值多多少？", "answer": "C", "choice": ["5", "8", "7", "11"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2025年的數據，大企業和中小型企業的百分比是否相等？", "answer": "B", "choice": ["是，但不考慮行業差異。", "是，兩者的百分比相等。", "否，大企業的百分比高於中小型企業。", "否，中小型企業的百分比高於大企業。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的圖片，哪一個技術領域的企業數量比人工智慧多，但市場份額卻較低？", "answer": "D", "choice": ["區塊鏈技術的企業數量較多，市場份額僅為人工智慧的30%。", "數據分析企業數量明顯多於人工智慧，但其市場份額僅為人工智慧的50%。", "雲計算技術的企業數量較多，市場份額僅略低於人工智慧的80%。", "沒有符合條件的技術領域"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的數據，客戶關係管理和風險管理的百分比是否相同？", "answer": "B", "choice": ["不，兩者的百分比不同，但差異在1%以內。", "是的，客戶關係管理和風險管理的百分比相同。", "不，客戶關係管理的百分比略高於風險管理，但差異不明顯。", "不，風險管理的百分比略高於客戶關係管理，有一個小的差異。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，支付的數值比保險的數值多多少？", "answer": "A", "choice": ["7", "8", "11", "5"]}
 {"category": "Open", "question_type": "Comparison", "question": "最左邊和最右邊的技術應用比例是否相同?", "answer": "最左邊和最右邊的技術應用比例相同，都是60%。"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的圖片，最左邊和最右邊的技術應用比例是否相同？", "answer": "C", "choice": ["最左邊的技術應用比例是60%，而最右邊的是72%。", "最左邊的技術應用比例是50%，而最右邊的是60%。", "最左邊和最右邊的技術應用比例相同，都是60%。", "最左邊的技術應用比例為60%，而最右邊的技術應用比例為60%。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的圖片，最左邊和最右邊的技術應用比例是否相同？", "answer": "C", "choice": ["最左邊的技術應用比例是60%，而最右邊的是72%。", "最左邊的技術應用比例為60%，而最右邊的技術應用比例為60%。", "最左邊和最右邊的技術應用比例相同，都是60%。", "最左邊的技術應用比例是50%，而最右邊的是60%。"]}
 {"category": "Open", "question_type": "Comparison", "question": "在圖5中，2022年和2023年的銀行客戶數位渠道使用率的差異是多少百分點？", "answer": "15百分點"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "在圖2中，2022年和2023年的增長率差額是多少？", "answer": "Y% - X%"}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖2，2022年和2023年的增長率差額是多少？", "answer": "D", "choice": ["Y% + (X% * 2)", "X% - Y%", "Y% - A%", "Y% - X%"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖2，2022年和2023年的增長率差額是多少？", "answer": "D", "choice": ["X% - Y%", "Y% + (X% * 2)", "Y% - A%", "Y% - X%"]}
 {"category": "YesNo", "question_type": "Comparison", "question": "根據圖3，最左邊和最右邊的技術應用比例相同，都是60%。", "answer": "是", "question_group": 322}
 
 {"category": "YesNo", "question_type": "Comparison", "question": "根據圖3，最左邊的技術應用比例高於最右邊，分別是60%和50%。", "answer": "否", "question_group": 322}

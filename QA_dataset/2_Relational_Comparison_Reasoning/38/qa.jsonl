@@ -4,17 +4,17 @@
 {"category": "Open", "question_type": "Comparison", "question": "從2023年到2024年，哪個指標的達標率增幅最大？", "answer": "ESG報告書揭露率的達標率增幅最大，為4"}
 {"category": "Open", "question_type": "Comparison", "question": "哪一年專業背景多元化指數較高？", "answer": "2024年的專業背景多元化指數較高"}
 {"category": "Open", "question_type": "Comparison", "question": "哪一年重大訊息揭露正確率較高，2023年還是2024年？", "answer": "2024年"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，2023年『前6%-20%』組的數值與2022年相比增加了多少？", "answer": "C", "choice": ["44", "46", "48", "50"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "以下哪個產業的主動揭露重大訊息/ESG資料比例和溫室氣體盤查揭露比例的加總最高？", "answer": "C", "choice": ["能源產業", "金融業", "電子產業", "建築業"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年到2024年的數據，哪個指標的達標率增幅最大？請參考圖表中的相關數據來回答。", "answer": "C", "choice": ["碳排放削減率的達標率略有提升", "公司治理有輕微進展", "ESG報告書揭露率的達標率增幅最大", "企業社會責任活動的達標率保持不變"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據所提供的資料，哪一年專業背景多元化指數較高？", "answer": "C", "choice": ["2025年", "2023年", "2024年", "2022年"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據以下情境描述，哪一年重大訊息的揭露正確率較高？2023年或2024年？請參考下方提供的圖表以作答。", "answer": "C", "choice": ["沒有一個特定的年份", "2023年", "2024年", "2024年不是較高的揭露率"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，2023年『前6%-20%』組的數值與2022年相比增加了多少？", "answer": "B", "choice": ["44", "48", "46", "50"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "以下哪個產業的主動揭露重大訊息/ESG資料比例和溫室氣體盤查揭露比例的加總最高？", "answer": "A", "choice": ["電子產業", "能源產業", "建築業", "金融業"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年到2024年的數據，哪個指標的達標率增幅最大？請參考圖表中的相關數據來回答。", "answer": "C", "choice": ["公司治理有輕微進展", "碳排放削減率的達標率略有提升", "ESG報告書揭露率的達標率增幅最大", "企業社會責任活動的達標率保持不變"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據所提供的資料，哪一年專業背景多元化指數較高？", "answer": "A", "choice": ["2024年", "2023年", "2025年", "2022年"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據以下情境描述，哪一年重大訊息的揭露正確率較高？2023年或2024年？請參考下方提供的圖表以作答。", "answer": "D", "choice": ["2024年不是較高的揭露率", "2023年", "沒有一個特定的年份", "2024年"]}
 {"category": "Open", "question_type": "Difference Calculation", "question": "2019年和2023年的揭露比例差距是多少？", "answer": "20%"}
 {"category": "Open", "question_type": "Comparison", "question": "在2023年度台灣上市公司治理評鑑指標構面比重中，加強董事會結構與運作的比重與推動永續發展的比重差距是多少？", "answer": "15.0%"}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據提供的數據，2019年和2023年之間的揭露比例差距是多少？請參考相關圖片。", "answer": "C", "choice": ["15%", "35%", "20%", "18%"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年度台灣上市公司治理評鑑指標，以下哪一項表示加強董事會結構與運作的比重與推動永續發展的比重之間的差距？", "answer": "C", "choice": ["7.5%", "10.0%", "15.0%", "17.0%"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據提供的數據，2019年和2023年之間的揭露比例差距是多少？請參考相關圖片。", "answer": "B", "choice": ["35%", "20%", "15%", "18%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年度台灣上市公司治理評鑑指標，以下哪一項表示加強董事會結構與運作的比重與推動永續發展的比重之間的差距？", "answer": "A", "choice": ["15.0%", "17.0%", "7.5%", "10.0%"]}
 {"category": "Open", "question_type": "Ranking", "question": "在2023年度台灣上市公司治理評鑑指標構面比重中，哪一個指標的比例最低？", "answer": "提升資訊透明度和推動永續發展的比例最低，均為20.0%"}
-{"category": "MCQ", "question_type": "Ranking", "question": "根據2023年度台灣上市公司治理評鑑指標構面比重，以下哪一個指標的比例最低？", "answer": "C", "choice": ["推動永續發展的比例為13.0%", "提升公司治理的比重為8.0%", "提升資訊透明度和推動永續發展的比例均為20.0%", "提升內部控制的比重為4.0%"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據2023年度台灣上市公司治理評鑑指標構面比重，以下哪一個指標的比例最低？", "answer": "D", "choice": ["提升內部控制的比重為4.0%", "推動永續發展的比例為13.0%", "提升公司治理的比重為8.0%", "提升資訊透明度和推動永續發展的比例均為20.0%"]}
 {"category": "Open", "question_type": "Comparison", "question": "根據表4的資料，2023年哪一項指標的達標率最高，並且比當年供應鏈永續達標率高多少？", "answer": "2023年達標率最高的指標是ESG報告書揭露率，比當年供應鏈永續達標率高16。"}
 {"category": "YesNo", "question_type": "Comparison", "question": "根據圖2，加強董事會結構與運作的比重與推動永續發展的比重之間的差距是15.0%。", "answer": "是", "question_group": 404}
 

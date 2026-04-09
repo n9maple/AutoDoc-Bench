@@ -2,12 +2,12 @@
 {"category": "Open", "question_type": "Fact Lookup", "question": "2023年線上申請因聯絡資料不全需補件比例是多少？", "answer": "30"}
 {"category": "Open", "question_type": "Fact Lookup", "question": "在2023年，持卡人中有多少比例的利率低於10%？", "answer": "80%"}
 {"category": "Open", "question_type": "Fact Lookup", "question": "2023 年的平均處理時效是多少天？", "answer": "5.2 天"}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據以下表格，哪個年齡層在2023年有最高的審核通過率？", "answer": "C", "choice": ["全體年齡層的平均值 (通過率 50%)", "60歲以上人士 (通過率 40%)", "30至45歲上班族", "30至35歲初級職員 (通過率 45%)"]}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2023年的數據，因聯絡資料不全而需補件的比例是多少？請根據以下選項進行選擇。", "answer": "C", "choice": ["35%", "28%", "30%", "50%"]}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "在2023年，持卡人中利率低於10%的比例可能是多少？請參考相關數據。", "answer": "C", "choice": ["25%", "35%", "80%", "85%"]}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2023年的資料，下列哪一項最接近於平均處理時效（以天數計）？", "answer": "C", "choice": ["7.0 天", "4.8 天", "5.2 天", "5.0 天"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據以下表格，哪個年齡層在2023年有最高的審核通過率？", "answer": "D", "choice": ["30至35歲初級職員 (通過率 45%)", "60歲以上人士 (通過率 40%)", "全體年齡層的平均值 (通過率 50%)", "30至45歲上班族"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2023年的數據，因聯絡資料不全而需補件的比例是多少？請根據以下選項進行選擇。", "answer": "B", "choice": ["28%", "30%", "35%", "50%"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "在2023年，持卡人中利率低於10%的比例可能是多少？請參考相關數據。", "answer": "B", "choice": ["25%", "80%", "85%", "35%"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2023年的資料，下列哪一項最接近於平均處理時效（以天數計）？", "answer": "A", "choice": ["5.2 天", "5.0 天", "4.8 天", "7.0 天"]}
 {"category": "Open", "question_type": "Fact Lookup", "question": "不通過件數最低的審核階段有多少件？", "answer": "0"}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖片所示，不通過件數最低的審核階段有多少件？", "answer": "C", "choice": ["3", "1", "0", "2"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖片所示，不通過件數最低的審核階段有多少件？", "answer": "B", "choice": ["1", "0", "2", "3"]}
 {"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表6，2023 年的平均處理時效是 5.2 天。", "answer": "是", "question_group": 94}
 
 {"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表6，2023 年的平均處理時效是 7.0 天。", "answer": "否", "question_group": 94}

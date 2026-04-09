@@ -1,15 +1,15 @@
 {"category": "Open", "question_type": "Fact Lookup", "question": "2023年的操作諮詢件數和滿意度比例是多少？", "answer": "2023年的操作諮詢件數是21000，滿意度比例是96%。"}
 {"category": "Open", "question_type": "Fact Lookup", "question": "2023年的客服解決率如何？", "answer": "96%"}
 {"category": "Open", "question_type": "Fact Lookup", "question": "2023年的投票完成通知成功率是多高？", "answer": "99.8%"}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據提供的數據，2023年的操作諮詢件數和滿意度比例為何？請根據下圖選擇正確的選項。", "answer": "C", "choice": ["2023年的操作諮詢件數是22000，滿意度比例是91%。", "2023年的操作諮詢件數是25000，滿意度比例是92%。", "2023年的操作諮詢件數是21000，滿意度比例是96%。", "2023年的操作諮詢件數是21000，滿意度比例是85%。"]}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2023年的統計，客服解決率為以下哪個選項？", "answer": "C", "choice": ["90%", "92%", "96%", "98.5%"]}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2023年的數據，投票完成通知的成功率約為多少？請根據提供的數據圖表選擇正確的選項。", "answer": "C", "choice": ["99.7%", "99.5%", "99.8%", "99.9%"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據提供的數據，2023年的操作諮詢件數和滿意度比例為何？請根據下圖選擇正確的選項。", "answer": "D", "choice": ["2023年的操作諮詢件數是22000，滿意度比例是91%。", "2023年的操作諮詢件數是21000，滿意度比例是85%。", "2023年的操作諮詢件數是25000，滿意度比例是92%。", "2023年的操作諮詢件數是21000，滿意度比例是96%。"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2023年的統計，客服解決率為以下哪個選項？", "answer": "C", "choice": ["92%", "90%", "96%", "98.5%"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2023年的數據，投票完成通知的成功率約為多少？請根據提供的數據圖表選擇正確的選項。", "answer": "A", "choice": ["99.8%", "99.7%", "99.5%", "99.9%"]}
 {"category": "Open", "question_type": "Proportion", "question": "在2023年電子投票平台各登入方式中，集保e存摺的使用人數佔總人數的百分比是多少？", "answer": "集保e存摺的使用人數佔總人數的百分比是40.0%"}
 {"category": "Open", "question_type": "Fact Lookup", "question": "第三個數據點的諮詢件數是多少？", "answer": "2730"}
 {"category": "Open", "question_type": "Peak/Valley", "question": "在2023年的密碼重設協助中，協助用戶數的最低點出現在哪個月份？", "answer": "2023年02月"}
-{"category": "MCQ", "question_type": "Proportion", "question": "根據2023年電子投票平台的數據，以下哪個選項正確反映了集保e存摺的使用人數佔總人數的百分比？", "answer": "C", "choice": ["集保e存摺的使用人數佔總人數的百分比是39.5%", "集保e存摺的使用人數佔總人數的百分比是41.0%", "集保e存摺的使用人數佔總人數的百分比是40.0%", "集保e存摺的使用人數佔總人數的百分比是43.2%"]}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖片中顯示的數據，第三個數據點的諮詢件數可能是以下哪一個數字？", "answer": "D", "choice": ["2720", "2690", "2740", "2730"]}
-{"category": "MCQ", "question_type": "Peak/Valley", "question": "根據2023年密碼重設協助的數據，以下哪個月份的協助用戶數最低？", "answer": "C", "choice": ["2023年01月", "2023年05月", "2023年02月", "2023年11月"]}
+{"category": "MCQ", "question_type": "Proportion", "question": "根據2023年電子投票平台的數據，以下哪個選項正確反映了集保e存摺的使用人數佔總人數的百分比？", "answer": "C", "choice": ["集保e存摺的使用人數佔總人數的百分比是39.5%", "集保e存摺的使用人數佔總人數的百分比是43.2%", "集保e存摺的使用人數佔總人數的百分比是40.0%", "集保e存摺的使用人數佔總人數的百分比是41.0%"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖片中顯示的數據，第三個數據點的諮詢件數可能是以下哪一個數字？", "answer": "C", "choice": ["2690", "2740", "2730", "2720"]}
+{"category": "MCQ", "question_type": "Peak/Valley", "question": "根據2023年密碼重設協助的數據，以下哪個月份的協助用戶數最低？", "answer": "D", "choice": ["2023年05月", "2023年01月", "2023年11月", "2023年02月"]}
 {"category": "Open", "question_type": "Fact Lookup", "question": "根據圖3，選用率超過50%的驗證方式有多少個？", "answer": "1"}
 {"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖5，第三個數據點的諮詢件數是2730。", "answer": "是", "question_group": 159}
 

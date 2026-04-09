@@ -10,28 +10,28 @@
 {"category": "Open", "question_type": "Comparison", "question": "40歲以下與61歲以上的高風險商品操作比例相差多少？", "answer": "10"}
 {"category": "Open", "question_type": "Comparison", "question": "參與定期溝通與教育後主動參與資產配置決策之客戶比例比風險提示機制有效避免之潛在不適合交易比例高多少個百分點？", "answer": "47"}
 {"category": "Open", "question_type": "Comparison", "question": "理財知識推播的提升信心比例比產品說明會高多少個百分點？", "answer": "理財知識推播的提升信心比例比產品說明會高3個百分點。"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據資料，以下哪一個比例比女性投資人佔比更高？請參考提供的相關數據。", "answer": "C", "choice": ["男性投資人佔比", "過去一年男性投資人的參與率", "過去一年因風險認知不足產生損失的客戶比例", "過去一年女性客戶在市場中的總交易量"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖表，35歲以下和45-64歲這兩個年齡段的大專以上學歷比例相差多少個百分點？", "answer": "C", "choice": ["7個百分點", "11個百分點", "10個百分點", "13個百分點"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖所示的收入區間，60萬元以下和120萬元以上這兩個收入區間的比例差是多少？", "answer": "C", "choice": ["39", "42", "41", "38"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據調查，以下哪一個年齡段的子女教育負擔比例最高？", "answer": "C", "choice": ["25-34歲，比例為33%", "45-54歲，比例為40%", "36-44歲，比例為32%", "34-44歲，比例為32%"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "當資產淨值下跌10%時，根據圖片所示，感到焦慮比例與能接受比例的差異是多少百分點？", "answer": "C", "choice": ["40個百分點", "30個百分點", "36個百分點", "45個百分點"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據調查數據，以下哪些時間區間的調查比例符合比三至五年高，並且比一年內低的條件？", "answer": "C", "choice": ["三至四年的區間確實比例低於五年，但不符合條件，因其實際比例低於三至五年", "五年以上的調查比例明顯未能符合條件，因其明顯高於三至五年", "沒有符合條件的時間區間", "一年至兩年的時間區間符合比例，但其實際比例高於一年內，不符合條件"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖示，哪一項商品的獲利經驗比例同時也是操作比例最高的？", "answer": "C", "choice": ["美股現股或基金", "海外股票", "台股現股或基金", "ETF"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中顯示的金融信息主動閱讀比例，基礎和中等水平之間的差異是多少？", "answer": "C", "choice": ["15", "20", "23", "28"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "在50歲以上的人群中，有關資本增值與旅遊的資金分配差異，以下哪一項是正確的？", "answer": "C", "choice": ["在旅遊中資金分配比資本增值少出10", "資本增值與旅遊的資金分配差異為18", "資本增值與旅遊的資金分配差異是25", "資本增值與旅遊的資金分配差異為30"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中顯示的數據，40歲以下與61歲以上的高風險商品操作比例差異為多少?", "answer": "C", "choice": ["11", "8", "10", "7"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的圖片，在參與定期溝通與教育後，主動參與資產配置決策之客戶比例比風險提示機制有效避免之潛在不適合交易比例高多少個百分點？", "answer": "C", "choice": ["32%", "49%", "47%", "58%"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片，理財知識推播的提升信心比例比產品說明會高多少個百分點？", "answer": "C", "choice": ["理財知識推播的提升信心比例比產品說明會低1個百分點。", "理財知識推播的提升信心比例比產品說明會高8個百分點。", "理財知識推播的提升信心比例比產品說明會高3個百分點。", "理財知識推播的提升信心比例與產品說明會相差無幾，幾乎相等。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據資料，以下哪一個比例比女性投資人佔比更高？請參考提供的相關數據。", "answer": "B", "choice": ["過去一年男性投資人的參與率", "過去一年因風險認知不足產生損失的客戶比例", "男性投資人佔比", "過去一年女性客戶在市場中的總交易量"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖表，35歲以下和45-64歲這兩個年齡段的大專以上學歷比例相差多少個百分點？", "answer": "C", "choice": ["7個百分點", "13個百分點", "10個百分點", "11個百分點"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖所示的收入區間，60萬元以下和120萬元以上這兩個收入區間的比例差是多少？", "answer": "D", "choice": ["38", "39", "42", "41"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據調查，以下哪一個年齡段的子女教育負擔比例最高？", "answer": "B", "choice": ["34-44歲，比例為32%", "36-44歲，比例為32%", "25-34歲，比例為33%", "45-54歲，比例為40%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "當資產淨值下跌10%時，根據圖片所示，感到焦慮比例與能接受比例的差異是多少百分點？", "answer": "B", "choice": ["40個百分點", "36個百分點", "45個百分點", "30個百分點"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據調查數據，以下哪些時間區間的調查比例符合比三至五年高，並且比一年內低的條件？", "answer": "D", "choice": ["一年至兩年的時間區間符合比例，但其實際比例高於一年內，不符合條件", "三至四年的區間確實比例低於五年，但不符合條件，因其實際比例低於三至五年", "五年以上的調查比例明顯未能符合條件，因其明顯高於三至五年", "沒有符合條件的時間區間"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖示，哪一項商品的獲利經驗比例同時也是操作比例最高的？", "answer": "A", "choice": ["台股現股或基金", "ETF", "美股現股或基金", "海外股票"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中顯示的金融信息主動閱讀比例，基礎和中等水平之間的差異是多少？", "answer": "B", "choice": ["15", "23", "20", "28"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在50歲以上的人群中，有關資本增值與旅遊的資金分配差異，以下哪一項是正確的？", "answer": "C", "choice": ["資本增值與旅遊的資金分配差異為30", "在旅遊中資金分配比資本增值少出10", "資本增值與旅遊的資金分配差異是25", "資本增值與旅遊的資金分配差異為18"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中顯示的數據，40歲以下與61歲以上的高風險商品操作比例差異為多少?", "answer": "C", "choice": ["8", "11", "10", "7"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的圖片，在參與定期溝通與教育後，主動參與資產配置決策之客戶比例比風險提示機制有效避免之潛在不適合交易比例高多少個百分點？", "answer": "B", "choice": ["58%", "47%", "49%", "32%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片，理財知識推播的提升信心比例比產品說明會高多少個百分點？", "answer": "D", "choice": ["理財知識推播的提升信心比例比產品說明會高8個百分點。", "理財知識推播的提升信心比例與產品說明會相差無幾，幾乎相等。", "理財知識推播的提升信心比例比產品說明會低1個百分點。", "理財知識推播的提升信心比例比產品說明會高3個百分點。"]}
 {"category": "Open", "question_type": "Comparison", "question": "在2023年投資決策擔憂因素中，風險評估不足與其他因素相比，哪一個因素佔的比例較低？", "answer": "其他因素佔的比例較低"}
 {"category": "Open", "question_type": "Comparison", "question": "在2023年投資人風險屬性分級分布中，穩健型比積極型多多少？", "answer": "25"}
 {"category": "Open", "question_type": "Comparison", "question": "在2023年投資人風險屬性分布中，保守型投資人數與其他兩類型投資人數總和的差距是多少？", "answer": "8"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年投資決策的擔憂因素，哪一個因素的比例相較於風險評估不足較低？", "answer": "C", "choice": ["投資回報期望占的比例較低", "規範變更的影響相對較小", "其他因素佔的比例較低", "市場不確定性占的比例較低"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年投資人風險屬性分級分布，穩健型的數量比積極型多出多少？", "answer": "C", "choice": ["穩健型和積極型的數量相等", "10", "25", "穩健型的數量比積極型少了25"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年投資人風險屬性分布，保守型投資人數與激進型投資人數和穩健型投資人數總和的差距是多少？請參考下面的數據圖表。以下哪一項是正確的差距數字？", "answer": "C", "choice": ["14", "5", "8", "3"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年投資決策的擔憂因素，哪一個因素的比例相較於風險評估不足較低？", "answer": "B", "choice": ["規範變更的影響相對較小", "其他因素佔的比例較低", "投資回報期望占的比例較低", "市場不確定性占的比例較低"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年投資人風險屬性分級分布，穩健型的數量比積極型多出多少？", "answer": "D", "choice": ["10", "穩健型和積極型的數量相等", "穩健型的數量比積極型少了25", "25"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年投資人風險屬性分布，保守型投資人數與激進型投資人數和穩健型投資人數總和的差距是多少？請參考下面的數據圖表。以下哪一項是正確的差距數字？", "answer": "C", "choice": ["5", "14", "8", "3"]}
 {"category": "Open", "question_type": "Ranking", "question": "在2023年投資決策擔憂因素中，數值最低的項目是什麼？", "answer": "其他因素"}
 {"category": "Open", "question_type": "Ranking", "question": "在2023年投資人風險屬性分布中，哪一類型的投資人數量最少？", "answer": "積極型"}
-{"category": "MCQ", "question_type": "Ranking", "question": "在2023年投資決策中，以下哪一項的擔憂因素數值最低？", "answer": "C", "choice": ["市場波動的潛在影響", "流動性風險的長期影響", "其他因素", "經濟不確定性對企業的影響"]}
-{"category": "MCQ", "question_type": "Ranking", "question": "根據2023年投資人風險屬性分布的情況下，以下哪一類型的投資人數量最少？", "answer": "C", "choice": ["謹慎型通常在風險資產配置中佔據相對較高的比例", "保守型在長期持有中通常會發現自己數量較少", "積極型", "激進型在追求高回報時可能面臨資金較少的挑戰"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "在2023年投資決策中，以下哪一項的擔憂因素數值最低？", "answer": "C", "choice": ["經濟不確定性對企業的影響", "市場波動的潛在影響", "其他因素", "流動性風險的長期影響"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據2023年投資人風險屬性分布的情況下，以下哪一類型的投資人數量最少？", "answer": "B", "choice": ["保守型在長期持有中通常會發現自己數量較少", "積極型", "激進型在追求高回報時可能面臨資金較少的挑戰", "謹慎型通常在風險資產配置中佔據相對較高的比例"]}
 {"category": "YesNo", "question_type": "Comparison", "question": "根據表4，36-44歲這個年齡段的子女教育負擔比例是最高的，為32%。", "answer": "是", "question_group": 521}
 
 {"category": "YesNo", "question_type": "Comparison", "question": "根據表4，45-64歲這個年齡段的子女教育負擔比例是最高的，為24%。", "answer": "否", "question_group": 521}

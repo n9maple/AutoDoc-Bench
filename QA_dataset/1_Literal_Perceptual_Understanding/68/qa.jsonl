@@ -1,10 +1,10 @@
 {"category": "Open", "question_type": "Fact Lookup", "question": "根據表格，2023 年發生的異常鈔票退回率是多少？", "answer": "1.2"}
 {"category": "Open", "question_type": "Fact Lookup", "question": "從2023年的數據中，哪一項的使用比例最高？", "answer": "金融卡的使用比例最高，為96%。"}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據下列表格，2023 年發生的異常鈔票退回率是多少？", "answer": "C", "choice": ["0.3%", "1.8%", "1.2%", "1.0%"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據下列表格，2023 年發生的異常鈔票退回率是多少？", "answer": "D", "choice": ["0.3%", "1.8%", "1.0%", "1.2%"]}
 {"category": "Open", "question_type": "Proportion", "question": "在2023年ATM現金存款失誤原因佔比中，'其他'類別佔整體失誤的百分比是多少？", "answer": "5.0%"}
 {"category": "Open", "question_type": "Proportion", "question": "在2023年ATM客服專線問題解決情況分布中，超過5分鐘的問題解決比例是多少？", "answer": "1.7%"}
-{"category": "MCQ", "question_type": "Proportion", "question": "根據2023年ATM現金存款失誤原因佔比，'其他'類別占整體失誤的百分比是多少？以下選項中哪一個是正確的？", "answer": "C", "choice": ["10.0%", "12.5%", "5.0%", "7.5%"]}
-{"category": "MCQ", "question_type": "Proportion", "question": "根據2023年ATM客服專線問題解決情況分布，超過5分鐘的問題解決比例為何？請參考下方圖表。以下哪一選項正確描述了該比例？", "answer": "C", "choice": ["8.4%", "4.6%", "1.7%", "7.5%"]}
+{"category": "MCQ", "question_type": "Proportion", "question": "根據2023年ATM現金存款失誤原因佔比，'其他'類別占整體失誤的百分比是多少？以下選項中哪一個是正確的？", "answer": "A", "choice": ["5.0%", "10.0%", "7.5%", "12.5%"]}
+{"category": "MCQ", "question_type": "Proportion", "question": "根據2023年ATM客服專線問題解決情況分布，超過5分鐘的問題解決比例為何？請參考下方圖表。以下哪一選項正確描述了該比例？", "answer": "A", "choice": ["1.7%", "4.6%", "8.4%", "7.5%"]}
 {"category": "Open", "question_type": "Fact Lookup", "question": "在圖1中，臨櫃現金存款的處理時間是多少分鐘？", "answer": "圖表中未提供具體數據，因此無法確定臨櫃現金存款的處理時間。"}
 {"category": "Open", "question_type": "Fact Lookup", "question": "在圖4中，異常原因的退回件數是否均為零？", "answer": "在圖4中，所有異常原因的退回件數均為零。"}
 {"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表4，2023 年的異常鈔票退回率是 1.2%。", "answer": "是", "question_group": 187}

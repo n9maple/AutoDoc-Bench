@@ -3,11 +3,11 @@
 {"category": "Open", "question_type": "Temporal Reasoning", "question": "從2025Q1到2025Q2，交易效率提升百分比增加了多少百分點？", "answer": "增加了3個百分點。"}
 {"category": "Open", "question_type": "Aggregation", "question": "2025Q1和2025Q2的交易失誤率下降的平均值是多少？", "answer": "11%"}
 {"category": "Open", "question_type": "Aggregation", "question": "如果2025年的經濟增長率持平於國際貨幣基金組織的預測3%和亞洲開發銀行的預測3.5%之間，那麼這平均增長率是多少？", "answer": "3.25%"}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據2025年上半年的數據，出口額和進口額的總和是多少億美元？請參考以下情境情況來選擇正確的答案。", "answer": "C", "choice": ["4300億美元", "4800億美元", "4400億美元", "4000億美元"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2024年至2025年的基準利率變化趨勢，下列哪一項描述是正確的？", "answer": "C", "choice": ["基準利率在此期間保持穩定，但稍微調整了0.1%。", "基準利率在2025年逐步上升至2024年的水準。", "基準利率在此期間下降了0.25%。", "基準利率在2024年大幅上升後保持不變。"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據圖片所示，從2025Q1到2025Q2，交易效率提升了多少百分點？", "answer": "C", "choice": ["增加了7個百分點。", "保持不變。", "增加了3個百分點。", "增加了10個百分點。"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的數據，2025Q1和2025Q2的交易失誤率下降的平均值是多少？請參考以下情境：在Q1期間，失誤率為12%，在Q2期間，失誤率為10%。", "answer": "C", "choice": ["10.5%", "10%", "11%", "13%"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據經濟專家的預測，如果2025年的經濟增長率在國際貨幣基金組織的預測3%和亞洲開發銀行的預測3.5%之間，那麼其平均增長率應該是多少？", "answer": "D", "choice": ["3.15%", "3.375%", "3.4%", "3.25%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2025年上半年的數據，出口額和進口額的總和是多少億美元？請參考以下情境情況來選擇正確的答案。", "answer": "B", "choice": ["4000億美元", "4400億美元", "4300億美元", "4800億美元"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2024年至2025年的基準利率變化趨勢，下列哪一項描述是正確的？", "answer": "B", "choice": ["基準利率在2025年逐步上升至2024年的水準。", "基準利率在此期間下降了0.25%。", "基準利率在此期間保持穩定，但稍微調整了0.1%。", "基準利率在2024年大幅上升後保持不變。"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據圖片所示，從2025Q1到2025Q2，交易效率提升了多少百分點？", "answer": "D", "choice": ["增加了7個百分點。", "增加了10個百分點。", "保持不變。", "增加了3個百分點。"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的數據，2025Q1和2025Q2的交易失誤率下降的平均值是多少？請參考以下情境：在Q1期間，失誤率為12%，在Q2期間，失誤率為10%。", "answer": "B", "choice": ["10%", "11%", "10.5%", "13%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據經濟專家的預測，如果2025年的經濟增長率在國際貨幣基金組織的預測3%和亞洲開發銀行的預測3.5%之間，那麼其平均增長率應該是多少？", "answer": "C", "choice": ["3.4%", "3.15%", "3.25%", "3.375%"]}
 {"category": "Open", "question_type": "Aggregation", "question": "在圖4中，所有季度匯率波動率下降百分比的平均值是多少？", "answer": "10%"}
 {"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表2，2024年至2025年的基準利率下降了0.25%。", "answer": "是", "question_group": 877}
 

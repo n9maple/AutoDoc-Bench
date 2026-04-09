@@ -1,16 +1,16 @@
 {"category": "Open", "question_type": "Temporal Reasoning", "question": "從2019年到2022年，哪一類別的百分比增加最多？", "answer": "可再生能源和環保技術"}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，2020年三個類別的百分比總和是多少？", "answer": "C", "choice": ["88%", "72%", "75%", "80%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，2020年三個類別的百分比總和是多少？", "answer": "A", "choice": ["75%", "80%", "72%", "88%"]}
 {"category": "Open", "question_type": "Temporal Trend", "question": "從2019年至2022年，哪一種類型的自然災害理賠金額波動最小？", "answer": "地震和其他自然災害"}
 {"category": "Open", "question_type": "Rate of Change", "question": "從2019年至2022年，哪一年的地震理賠金額增長最多？", "answer": "2020年和2022年地震理賠金額增長最多，均為20億元"}
 {"category": "Open", "question_type": "Rate of Change", "question": "從2019年到2022年，哪一年農業保險的需求增長幅度最大？", "answer": "2020到2021年和2021到2022年的需求增長幅度最大，均為2"}
 {"category": "Open", "question_type": "Aggregation", "question": "所有挑戰類型的平均百分比是多少?", "answer": "52.5"}
 {"category": "Open", "question_type": "Temporal Trend", "question": "從2023年到2024年，發布可持續性報告的公司比例增加了多少個百分點？", "answer": "增加了10個百分點"}
-{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2019年至2022年的資料，以下哪一種類型的自然災害的理賠金額波動最小？", "answer": "C", "choice": ["火災（如森林火災、住宅火災等）", "水災（如颱風造成的淹水）", "地震和其他自然災害", "土石流（受到降雨和地震的影響）"]}
-{"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖片所示，從2019年至2022年，哪一年的地震理賠金額增長最多？", "answer": "C", "choice": ["2021年地震理賠金額增長為10億元", "2022年地震理賠金額增長為15億元", "2020年和2022年的地震理賠金額增長均為20億元", "2020年地震理賠金額增長達到25億元"]}
-{"category": "MCQ", "question_type": "Rate of Change", "question": "根據所提供的數據，哪一年度之間農業保險的需求增長幅度最大？", "answer": "C", "choice": ["2019到2020年增長幅度為2", "2020到2021年增長幅度為0", "2020到2021年和2021到2022年均為2", "2021到2022年增長幅度為1"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "在某圖片中，所有挑戰類型的平均百分比可以怎麼描述？", "answer": "C", "choice": ["50%", "57.5%", "52.5%", "54%"]}
-{"category": "MCQ", "question_type": "Temporal Trend", "question": "從2023年到2024年，根據報告顯示，發布可持續性報告的公司比例增加了多少個百分點？", "answer": "C", "choice": ["減少了10個百分點", "增加了5個百分點", "增加了10個百分點", "增加了15個百分點"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表2的資料，假設台灣的ESG政策制定比例每年提升5%，而北美的比例保持不變，請問台灣需要幾年才能超過北美的現有比例？以下哪一項是正確的時間？", "answer": "C", "choice": ["6年", "11年", "8年", "9年"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2019年至2022年的資料，以下哪一種類型的自然災害的理賠金額波動最小？", "answer": "A", "choice": ["地震和其他自然災害", "火災（如森林火災、住宅火災等）", "水災（如颱風造成的淹水）", "土石流（受到降雨和地震的影響）"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖片所示，從2019年至2022年，哪一年的地震理賠金額增長最多？", "answer": "C", "choice": ["2022年地震理賠金額增長為15億元", "2020年地震理賠金額增長達到25億元", "2020年和2022年的地震理賠金額增長均為20億元", "2021年地震理賠金額增長為10億元"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據所提供的數據，哪一年度之間農業保險的需求增長幅度最大？", "answer": "C", "choice": ["2021到2022年增長幅度為1", "2019到2020年增長幅度為2", "2020到2021年和2021到2022年均為2", "2020到2021年增長幅度為0"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "在某圖片中，所有挑戰類型的平均百分比可以怎麼描述？", "answer": "D", "choice": ["50%", "57.5%", "54%", "52.5%"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "從2023年到2024年，根據報告顯示，發布可持續性報告的公司比例增加了多少個百分點？", "answer": "B", "choice": ["增加了15個百分點", "增加了10個百分點", "減少了10個百分點", "增加了5個百分點"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表2的資料，假設台灣的ESG政策制定比例每年提升5%，而北美的比例保持不變，請問台灣需要幾年才能超過北美的現有比例？以下哪一項是正確的時間？", "answer": "C", "choice": ["11年", "6年", "8年", "9年"]}
 {"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖2，2021年到2022年之間農業保險的需求增長幅度是2%，是最大增長幅度之一。", "answer": "是", "question_group": 805}
 
 {"category": "YesNo", "question_type": "Rate of Change", "question": "根據圖2，2020年到2021年之間農業保險的需求增長幅度是1%，是最大增長幅度之一。", "answer": "否", "question_group": 805}

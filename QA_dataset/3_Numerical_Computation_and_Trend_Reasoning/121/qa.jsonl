@@ -1,8 +1,8 @@
 {"category": "Open", "question_type": "Temporal Reasoning", "question": "根據表1的資料，哪一年的綠色金融投資相對於前一年增長量最大？", "answer": "2026年"}
 {"category": "Open", "question_type": "Temporal Reasoning", "question": "根據表3的資料，當健康講座場次和健康檢查場次分別以每年5%和3%的速度增長，預計四年後健康講座場次與健康檢查場次分別是多少？", "answer": "四年後健康講座場次約為60.775，健康檢查場次約為33.7827。"}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表1的資料，以下哪一年的綠色金融投資相對於前一年增長量最大？", "answer": "C", "choice": ["2023年", "2024年", "2026年", "2027年"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表3的資料，若健康講座場次和健康檢查場次分別以每年5%和3%的速度增長，則四年後健康講座場次和健康檢查場次分別會是以下哪個選項？", "answer": "C", "choice": ["健康講座場次約為68.500，健康檢查場次約為38.500。", "健康講座場次約為62，健康檢查場次約為35", "健康講座場次約為60.775，健康檢查場次約為33.7827。", "健康講座場次約為64，健康檢查場次約為36"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖5的資料，以下哪一項代表了所有類別的提升比例總和？", "answer": "C", "choice": ["180%", "130%", "140%", "150%"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖6，以下哪一選項是這三個類別的數量總和？", "answer": "C", "choice": ["27550", "27600", "27500", "28800"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表1的資料，以下哪一年的綠色金融投資相對於前一年增長量最大？", "answer": "A", "choice": ["2026年", "2024年", "2027年", "2023年"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表3的資料，若健康講座場次和健康檢查場次分別以每年5%和3%的速度增長，則四年後健康講座場次和健康檢查場次分別會是以下哪個選項？", "answer": "C", "choice": ["健康講座場次約為68.500，健康檢查場次約為38.500。", "健康講座場次約為64，健康檢查場次約為36", "健康講座場次約為60.775，健康檢查場次約為33.7827。", "健康講座場次約為62，健康檢查場次約為35"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖5的資料，以下哪一項代表了所有類別的提升比例總和？", "answer": "D", "choice": ["180%", "130%", "150%", "140%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖6，以下哪一選項是這三個類別的數量總和？", "answer": "C", "choice": ["28800", "27550", "27500", "27600"]}
 {"category": "Open", "question_type": "Aggregation", "question": "根據圖5的資料，所有類別的提升比例總和是多少？", "answer": "140%"}
 {"category": "Open", "question_type": "Aggregation", "question": "根據圖6，這三個類別的數量總和是多少？", "answer": "27500"}

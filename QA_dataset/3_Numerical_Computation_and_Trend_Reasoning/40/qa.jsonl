@@ -5,20 +5,20 @@
 {"category": "Open", "question_type": "Aggregation", "question": "平均來看，2023上半年和2024上半年用戶滿意度是多少？", "answer": "平均用戶滿意度是85.5。"}
 {"category": "Open", "question_type": "Aggregation", "question": "在2024年，若每月的24小時資安諮詢專線服務次數均等分配，那麼每月平均服務次數是多少？", "answer": "每月平均服務次數是1,041.67次"}
 {"category": "Open", "question_type": "Aggregation", "question": "所有項目的完成率的平均值是多少？", "answer": "完成率的平均值是91.5。"}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據下面的圖片，2022年和2023年數位帳戶開戶數與行動銀行用戶數的比例變化為何？", "answer": "C", "choice": ["2023年數位帳戶開戶數與行動銀行用戶數的比例為0.25。", "2023年數位帳戶開戶數與行動銀行用戶數的比例與2022年持平。", "2023年數位帳戶開戶數與行動銀行用戶數的比例為0.3333。", "2023年數位帳戶開戶數與行動銀行用戶數的比例是2022年的二倍。"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據下圖所示，從2023Q1到2024Q1，月活躍用戶成長率增加了多少百分點？", "answer": "C", "choice": ["沒有變化", "增加了10個百分點", "增加了18個百分點", "增加了20個百分點"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據2024年第一季的數據，平均每用戶的月交易筆數和App功能升級次數的總和為何？", "answer": "C", "choice": ["26", "32", "24", "20"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的數據，2023 年和 2024 年的流程完成率的平均值是多少？請參考下圖的數據趨勢。", "answer": "C", "choice": ["85", "86.5", "86", "84"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖片所示，2023上半年和2024上半年用戶滿意度的比較中，哪個是正確的平均滿意度？", "answer": "C", "choice": ["81.2", "87.4", "85.5", "83.6"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據2024年的數據，如果每月的24小時資安諮詢專線服務次數均等分配，每月的平均服務次數是多少？請根據以下情境選擇正確的答案。", "answer": "C", "choice": ["每月平均服務次數是1,050次", "每月平均服務次數是1,020次", "每月平均服務次數是1,041.67次", "每月平均服務次數是950次"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據下面的項目完成率，哪一項描述最接近平均完成率？", "answer": "C", "choice": ["完成率的平均值是90.0。", "完成率的平均值是91.0。", "完成率的平均值是91.5。", "完成率的平均值是93.0。"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據下面的圖片，2022年和2023年數位帳戶開戶數與行動銀行用戶數的比例變化為何？", "answer": "A", "choice": ["2023年數位帳戶開戶數與行動銀行用戶數的比例為0.3333。", "2023年數位帳戶開戶數與行動銀行用戶數的比例與2022年持平。", "2023年數位帳戶開戶數與行動銀行用戶數的比例為0.25。", "2023年數位帳戶開戶數與行動銀行用戶數的比例是2022年的二倍。"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據下圖所示，從2023Q1到2024Q1，月活躍用戶成長率增加了多少百分點？", "answer": "D", "choice": ["沒有變化", "增加了10個百分點", "增加了20個百分點", "增加了18個百分點"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2024年第一季的數據，平均每用戶的月交易筆數和App功能升級次數的總和為何？", "answer": "C", "choice": ["32", "20", "24", "26"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的數據，2023 年和 2024 年的流程完成率的平均值是多少？請參考下圖的數據趨勢。", "answer": "B", "choice": ["86.5", "86", "84", "85"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖片所示，2023上半年和2024上半年用戶滿意度的比較中，哪個是正確的平均滿意度？", "answer": "A", "choice": ["85.5", "83.6", "81.2", "87.4"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2024年的數據，如果每月的24小時資安諮詢專線服務次數均等分配，每月的平均服務次數是多少？請根據以下情境選擇正確的答案。", "answer": "B", "choice": ["每月平均服務次數是1,050次", "每月平均服務次數是1,041.67次", "每月平均服務次數是950次", "每月平均服務次數是1,020次"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下面的項目完成率，哪一項描述最接近平均完成率？", "answer": "D", "choice": ["完成率的平均值是91.0。", "完成率的平均值是90.0。", "完成率的平均值是93.0。", "完成率的平均值是91.5。"]}
 {"category": "Open", "question_type": "Temporal Trend", "question": "從2024年1月到6月，平均每月阻擋高風險攻擊事件次數的變化趨勢是如何的？", "answer": "從2024年1月到6月，平均每月阻擋高風險攻擊事件次數呈現上升趨勢，除了5月有小幅下降外，整體趨勢是上升的。"}
 {"category": "Open", "question_type": "Aggregation", "question": "2024年中，平均每月阻擋高風險攻擊事件次數的最高值與最低值之間的差距是多少？", "answer": "115"}
 {"category": "Open", "question_type": "Temporal Trend", "question": "從2023年到2025年，數位服務交易量年增率(%)的變化趨勢是什麼？", "answer": "數位服務交易量年增率從2023年的18%逐年增加到2025年的20%，呈現逐年上升的趨勢。"}
-{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2024年1月到6月的數據，平均每月阻擋高風險攻擊事件次數的變化趨勢為何？", "answer": "C", "choice": ["整體呈持平趨勢，未見顯著變化。", "整體呈上升趨勢，但6月出現了小幅下降。", "整體呈上升趨勢，但5月出現小幅下降。", "整體呈下降趨勢，5月和6月都有小幅回升。"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據2024年中的數據，若平均每月阻擋高風險攻擊事件次數的最高值為200次，最低值為85次，請問它們之間的差距是多少？", "answer": "C", "choice": ["125次", "95次", "115", "120次"]}
-{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2023年至2025年的數據，數位服務交易量年增率的變化趨勢是什麼？", "answer": "C", "choice": ["數位服務交易量年增率在2024年達到22%，隨後於2025年持平於22%。", "數位服務交易量年增率從2023年的18%上升至2025年的19%。", "數位服務交易量年增率呈現逐年上升的趨勢，從2023年的18%漸增至2025年的20%。", "數位服務交易量年增率在2024年達到18%，2025年再增至21%。"]}
-{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖2，從2024年1月到2024年12月，重大資安事件通報率的趨勢是什麼？", "answer": "D", "choice": ["重大資安事件通報率在2024年初達到90%，然後在年末穩定在95%。", "重大資安事件通報率在2024年間時高達100%，但在特定的月份內有明顯的波動。", "重大資安事件通報率有周期性波動，季節變化影響通報率。", "重大資安事件通報率保持在100%，趨勢是穩定不變的。"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2024年1月到6月的數據，平均每月阻擋高風險攻擊事件次數的變化趨勢為何？", "answer": "D", "choice": ["整體呈上升趨勢，但6月出現了小幅下降。", "整體呈持平趨勢，未見顯著變化。", "整體呈下降趨勢，5月和6月都有小幅回升。", "整體呈上升趨勢，但5月出現小幅下降。"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2024年中的數據，若平均每月阻擋高風險攻擊事件次數的最高值為200次，最低值為85次，請問它們之間的差距是多少？", "answer": "A", "choice": ["115", "95次", "120次", "125次"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2023年至2025年的數據，數位服務交易量年增率的變化趨勢是什麼？", "answer": "D", "choice": ["數位服務交易量年增率在2024年達到18%，2025年再增至21%。", "數位服務交易量年增率在2024年達到22%，隨後於2025年持平於22%。", "數位服務交易量年增率從2023年的18%上升至2025年的19%。", "數位服務交易量年增率呈現逐年上升的趨勢，從2023年的18%漸增至2025年的20%。"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖2，從2024年1月到2024年12月，重大資安事件通報率的趨勢是什麼？", "answer": "C", "choice": ["重大資安事件通報率在2024年初達到90%，然後在年末穩定在95%。", "重大資安事件通報率有周期性波動，季節變化影響通報率。", "重大資安事件通報率保持在100%，趨勢是穩定不變的。", "重大資安事件通報率在2024年間時高達100%，但在特定的月份內有明顯的波動。"]}
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，2022 年和 2023 年行動銀行用戶年增率的平均值是 11。", "answer": "是", "question_group": 912}
 
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，2022 年和 2023 年行動銀行用戶年增率的平均值是 13。", "answer": "否", "question_group": 912}

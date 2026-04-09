@@ -4,30 +4,30 @@
 {"category": "Open", "question_type": "Comparison", "question": "哪一個月的超時比例最低，這個月的受理案件數是多少？", "answer": "2023-08 月的超時比例最低，這個月的受理案件數是 172。"}
 {"category": "Open", "question_type": "Comparison", "question": "在2023年，哪一項服務的使用百分比是緊急現金提領和免除補卡手續費的總和最接近的？", "answer": "快速取回原卡"}
 {"category": "Open", "question_type": "Comparison", "question": "電話客服的比例是分行現場受理的多少倍？", "answer": "5.42倍"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中的數據，哪一類問題的比例高於收據異常，但低於交易中斷？", "answer": "D", "choice": ["系統升級問題", "網路連接問題", "用戶操作錯誤", "螢幕/操作介面故障"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據所提供的數據，成功申訴案件完整資訊比例與存提款異常即時通報獲快速處理比例之間的比較，哪一項是正確的？", "answer": "C", "choice": ["存提款異常即時通報獲快速處理比例低於成功申訴案件完整資訊比例，因為成功的申訴案例更常見。", "存提款異常即時通報獲快速處理比例和成功申訴案件完整資訊比例無法比較，因為數據來源不同。", "成功申訴案件完整資訊比例高於存提款異常即時通報獲快速處理比例。", "成功申訴案件完整資訊比例高於存提款異常即時通報獲快速處理比例，但這是例外情況。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖表，以下哪個月的超時比例最低，且該月的受理案件數為172？", "answer": "C", "choice": ["2023年6月", "2023年7月", "2023年8月", "2023年9月"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "在2023年，根據圖片顯示的服務使用百分比，哪一項服務的使用百分比最接近緊急現金提領和免除補卡手續費的總和？", "answer": "C", "choice": ["ATM查詢餘額", "緊急現金提領", "快速取回原卡", "免除補卡手續費"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖顯示，電話客服的比例與分行現場受理的倍數關係，下列哪一項正確描述了這種倍數關係？", "answer": "C", "choice": ["電話客服的比例和分行現場受理的比例相等。", "電話客服的比例是分行現場受理的4.82倍。", "電話客服的比例是分行現場受理的5.42倍。", "電話客服的比例是分行現場受理的6.25倍。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中的數據，哪一類問題的比例高於收據異常，但低於交易中斷？", "answer": "B", "choice": ["用戶操作錯誤", "螢幕/操作介面故障", "網路連接問題", "系統升級問題"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據所提供的數據，成功申訴案件完整資訊比例與存提款異常即時通報獲快速處理比例之間的比較，哪一項是正確的？", "answer": "C", "choice": ["成功申訴案件完整資訊比例高於存提款異常即時通報獲快速處理比例，但這是例外情況。", "存提款異常即時通報獲快速處理比例低於成功申訴案件完整資訊比例，因為成功的申訴案例更常見。", "成功申訴案件完整資訊比例高於存提款異常即時通報獲快速處理比例。", "存提款異常即時通報獲快速處理比例和成功申訴案件完整資訊比例無法比較，因為數據來源不同。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖表，以下哪個月的超時比例最低，且該月的受理案件數為172？", "answer": "B", "choice": ["2023年6月", "2023年8月", "2023年9月", "2023年7月"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在2023年，根據圖片顯示的服務使用百分比，哪一項服務的使用百分比最接近緊急現金提領和免除補卡手續費的總和？", "answer": "D", "choice": ["免除補卡手續費", "ATM查詢餘額", "緊急現金提領", "快速取回原卡"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖顯示，電話客服的比例與分行現場受理的倍數關係，下列哪一項正確描述了這種倍數關係？", "answer": "C", "choice": ["電話客服的比例是分行現場受理的6.25倍。", "電話客服的比例和分行現場受理的比例相等。", "電話客服的比例是分行現場受理的5.42倍。", "電話客服的比例是分行現場受理的4.82倍。"]}
 {"category": "Open", "question_type": "Comparison", "question": "通報件數最低的故障類型是多少?", "answer": "175"}
 {"category": "Open", "question_type": "Comparison", "question": "在2023年ATM相關客訴案件中，提款金額異常與其他類型相比，多了多少案件？", "answer": "420"}
 {"category": "Open", "question_type": "Comparison", "question": "在2023年ATM客訴申訴管道中，分行櫃台的比例比線上申訴（網銀/APP）高多少百分點？", "answer": "分行櫃台的比例比線上申訴（網銀/APP）高18.0個百分點。"}
 {"category": "Open", "question_type": "Comparison", "question": "2023年ATM申訴案件處理時效分布中，超過七個工作天處理的案件數量與五至七個工作天處理複雜案件的數量差距是多少？", "answer": "1"}
 {"category": "Open", "question_type": "Comparison", "question": "在2023年ATM故障申訴處理流程客戶滿意度分布中，滿意或非常滿意的案例數是一般和不滿意的總和的多少倍？", "answer": "滿意或非常滿意的案例數是一般和不滿意的總和的 6.692307692307692 倍"}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據下圖中各故障類型的通報件數，哪一種故障類型的通報件數最低？", "answer": "C", "choice": ["故障類型C的通報件數為160，這是一個明確的最低值", "故障類型B的通報件數為170，這是低於故障類型A的數據", "故障類型A的通報件數為175", "故障類型D的通報件數為185，是三個選項中數據最高的"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據所提供的資料，是否所有改善方向的對應措施數量均等？", "answer": "C", "choice": ["所有改善方向的對應措施數量非常接近，但仍有微小差異。", "部分改善方向的措施數量顯著少於其他方向。", "是，所有改善方向的對應措施數量均等。", "所有改善方向的對應措施數量不僅不均等，而且差異極大。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年ATM相關客訴案件的數據，提款金額異常的案件相對於其他類型的抱怨，多了多少案件？請參考圖表資訊。", "answer": "C", "choice": ["450", "400", "420", "375"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年ATM客訴申訴管道的數據，分行櫃台的比例比線上申訴（網銀/APP）高出多少百分點？", "answer": "C", "choice": ["17.0個百分點", "19.5個百分點", "18.0個百分點", "21.0個百分點"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "在2023年ATM申訴案件處理時效分布中，超過七個工作天處理的案件數量與五至七個工作天處理複雜案件的數量差距是多少？以下哪一選項正確？", "answer": "C", "choice": ["8", "2", "1", "4"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年ATM故障申訴處理流程的客戶滿意度分布，滿意或非常滿意的案例數是一般和不滿意的總和的多少倍？請參考下圖。哪些選項正確？", "answer": "C", "choice": ["滿意或非常滿意的案例數是一般和不滿意的總和的3.5倍", "滿意或非常滿意的案例數是一般和不滿意的總和的5倍", "滿意或非常滿意的案例數是一般和不滿意的總和的6.69倍", "滿意或非常滿意的案例數等於一般和不滿意的總和"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據所提供的資料，是否所有改善方向的對應措施數量均等？", "answer": "B", "choice": ["所有改善方向的對應措施數量不僅不均等，而且差異極大。", "是，所有改善方向的對應措施數量均等。", "所有改善方向的對應措施數量非常接近，但仍有微小差異。", "部分改善方向的措施數量顯著少於其他方向。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年ATM相關客訴案件的數據，提款金額異常的案件相對於其他類型的抱怨，多了多少案件？請參考圖表資訊。", "answer": "D", "choice": ["400", "375", "450", "420"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年ATM客訴申訴管道的數據，分行櫃台的比例比線上申訴（網銀/APP）高出多少百分點？", "answer": "A", "choice": ["18.0個百分點", "21.0個百分點", "17.0個百分點", "19.5個百分點"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在2023年ATM申訴案件處理時效分布中，超過七個工作天處理的案件數量與五至七個工作天處理複雜案件的數量差距是多少？以下哪一選項正確？", "answer": "A", "choice": ["1", "2", "4", "8"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年ATM故障申訴處理流程的客戶滿意度分布，滿意或非常滿意的案例數是一般和不滿意的總和的多少倍？請參考下圖。哪些選項正確？", "answer": "B", "choice": ["滿意或非常滿意的案例數是一般和不滿意的總和的5倍", "滿意或非常滿意的案例數是一般和不滿意的總和的6.69倍", "滿意或非常滿意的案例數等於一般和不滿意的總和", "滿意或非常滿意的案例數是一般和不滿意的總和的3.5倍"]}
 {"category": "Open", "question_type": "Ranking", "question": "在2023年ATM相關客訴案件類型中，哪一類型的案件數量最少？", "answer": "其他"}
 {"category": "Open", "question_type": "Ranking", "question": "在2023年ATM客訴申訴管道中，哪一個管道的比例是第二高？", "answer": "分行櫃台"}
 {"category": "Open", "question_type": "Ranking", "question": "根據2023年ATM申訴案件處理時效分布，哪一類別的案件處理時間最短？", "answer": "三個工作天內初步查核回覆的案件處理時間最短"}
 {"category": "Open", "question_type": "Ranking", "question": "在2023年ATM故障申訴處理流程客戶滿意度分布中，哪個類別的滿意度最高？", "answer": "滿意或非常滿意"}
-{"category": "MCQ", "question_type": "Ranking", "question": "根據2023年ATM相關客訴案件的統計，哪一類型的案件數量最少？", "answer": "C", "choice": ["提款失敗", "系統故障", "其他", "伺服器維護"]}
-{"category": "MCQ", "question_type": "Ranking", "question": "在2023年ATM客訴申訴管道中，根據下列圖片，哪一個管道的比例是第二高？", "answer": "C", "choice": ["社交媒體反饋（30%）", "客戶服務熱線（25%）", "分行櫃台", "APP反饋系統（15%）"]}
-{"category": "MCQ", "question_type": "Ranking", "question": "根據2023年ATM申訴案件處理時效分布，以下哪一類別的案件處理時間最短？(請參考相關圖片敘述)", "answer": "C", "choice": ["五個至十個工作天的案件", "三個工作天內完成全部處理的案件", "三個工作天內初步查核回覆的案件", "五個工作天內初步查核回覆的案件"]}
-{"category": "MCQ", "question_type": "Ranking", "question": "根據2023年ATM故障申訴處理流程客戶滿意度分布，哪個類別的滿意度評價最高？", "answer": "C", "choice": ["不滿意", "輕微滿意", "滿意或非常滿意", "中立"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據2023年ATM相關客訴案件的統計，哪一類型的案件數量最少？", "answer": "A", "choice": ["其他", "提款失敗", "伺服器維護", "系統故障"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "在2023年ATM客訴申訴管道中，根據下列圖片，哪一個管道的比例是第二高？", "answer": "D", "choice": ["客戶服務熱線（25%）", "APP反饋系統（15%）", "社交媒體反饋（30%）", "分行櫃台"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據2023年ATM申訴案件處理時效分布，以下哪一類別的案件處理時間最短？(請參考相關圖片敘述)", "answer": "D", "choice": ["三個工作天內完成全部處理的案件", "五個至十個工作天的案件", "五個工作天內初步查核回覆的案件", "三個工作天內初步查核回覆的案件"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據2023年ATM故障申訴處理流程客戶滿意度分布，哪個類別的滿意度評價最高？", "answer": "B", "choice": ["輕微滿意", "滿意或非常滿意", "不滿意", "中立"]}
 {"category": "Open", "question_type": "Comparison", "question": "根據圖6，不滿意的比例與一般的比例相差多少個百分比？", "answer": "5.0%"}
 {"category": "YesNo", "question_type": "Comparison", "question": "根據表1，螢幕/操作介面故障的比例高於收據異常，但低於交易中斷。", "answer": "是", "question_group": 513}
 

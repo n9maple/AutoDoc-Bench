@@ -2,11 +2,11 @@
 {"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果最低循環利率和最高循環利率的平均值增加2，這樣的平均值是多少？", "answer": "13.5"}
 {"category": "Open", "question_type": "Multi-hop Reasoning", "question": "在 2023 年，申訴及諮詢案件總數中，卡片遺失及盜刷案件占了多少宗？", "answer": "765"}
 {"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果理賠申請件數增加50%，保持平均理賠金額不變，新的總理賠金額會是多少？", "answer": "180000000"}
-{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據下圖薪資單與勞保投保明細的百分比相加後，這個總和佔所有列的百分比是多少？", "answer": "C", "choice": ["80%", "95%", "92%", "88%"]}
-{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據圖片中的最低循環利率和最高循環利率，若其平均值增加2，則新的平均值是多少？", "answer": "C", "choice": ["15.5", "13.0", "13.5", "14.0"]}
-{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據2023年的數據，申訴及諮詢案件中，卡片遺失及盜刷案件的數量是多少？", "answer": "C", "choice": ["700", "800", "765", "750"]}
-{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "假設在一個保險公司中，理賠申請件數增加了50%，而且平均理賠金額保持不變。如果原來的總理賠金額為120,000,000，請問新的總理賠金額將是多少？請參考圖片中所示的數據進行判斷。", "answer": "C", "choice": ["240,000,000", "100,000,000", "180,000,000", "200,000,000"]}
-{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表8的資料，如果逾期還款的持卡人中有一半的人在延遲30天後才還清款項，以下哪一項正確反映出所需支付的遲延利息情況？", "answer": "B", "choice": ["可以根據一般的利率推算出逾期持卡人平均需支付的利息，不需要個別的財務數據。", "由於缺乏總持卡人數和平均欠款本金的具體數據，無法計算出具體的總遲延利息金額。", "逾期持卡人的數量越多，則遲延利息金額也一定會相應增加，無需進一步數據支持。", "即使沒有具體的數據，也可以通過推算得到總遲延利息的估計值。"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據下圖薪資單與勞保投保明細的百分比相加後，這個總和佔所有列的百分比是多少？", "answer": "B", "choice": ["95%", "92%", "88%", "80%"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據圖片中的最低循環利率和最高循環利率，若其平均值增加2，則新的平均值是多少？", "answer": "C", "choice": ["13.0", "15.5", "13.5", "14.0"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據2023年的數據，申訴及諮詢案件中，卡片遺失及盜刷案件的數量是多少？", "answer": "B", "choice": ["750", "765", "700", "800"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "假設在一個保險公司中，理賠申請件數增加了50%，而且平均理賠金額保持不變。如果原來的總理賠金額為120,000,000，請問新的總理賠金額將是多少？請參考圖片中所示的數據進行判斷。", "answer": "D", "choice": ["100,000,000", "240,000,000", "200,000,000", "180,000,000"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表8的資料，如果逾期還款的持卡人中有一半的人在延遲30天後才還清款項，以下哪一項正確反映出所需支付的遲延利息情況？", "answer": "A", "choice": ["由於缺乏總持卡人數和平均欠款本金的具體數據，無法計算出具體的總遲延利息金額。", "逾期持卡人的數量越多，則遲延利息金額也一定會相應增加，無需進一步數據支持。", "可以根據一般的利率推算出逾期持卡人平均需支付的利息，不需要個別的財務數據。", "即使沒有具體的數據，也可以通過推算得到總遲延利息的估計值。"]}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表3的資料，假設文件不全或資料錯誤延誤/退件比例和以薪資單或勞保資料為主的申請人比例各增加10%，那麼線上申請因聯絡資料不全需補件的比例必須減少多少，以使總和保持不變？", "answer": "B", "choice": ["必須減少9%", "必須減少11%", "必須減少13%", "必須減少10%"]}
 {"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表6，2023年申訴及諮詢案件中，卡片遺失及盜刷案件的數量是765。", "answer": "是", "question_group": 1320}
 

@@ -3,11 +3,11 @@
 {"category": "Open", "question_type": "Fact Lookup", "question": "2023年攔截的可疑交易筆數是多少？", "answer": "1150"}
 {"category": "Open", "question_type": "Fact Lookup", "question": "在2023年因外部攻擊暫停服務的時間是多少分鐘？", "answer": "45分鐘"}
 {"category": "Open", "question_type": "Fact Lookup", "question": "2023年異常警示總件數的48小時內處理率是多少？", "answer": "85%"}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據過去一年的服務中斷情況，平均恢復時間為何？", "answer": "C", "choice": ["1.7小時", "1.2小時", "1.3小時", "2.5小時"]}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2023年的數據，異常率的計算結果在以下哪一選項中正確概述？", "answer": "C", "choice": ["0.000128", "0.128", "0.0128", "0.0132"]}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖片中提供的報告，2023年攔截的可疑交易筆數是多少？", "answer": "C", "choice": ["950", "1300", "1150", "1100"]}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2023年資料，因外部攻擊而暫停服務的時間是以下哪一項？", "answer": "C", "choice": ["15分鐘", "90分鐘", "45分鐘", "1.5小時"]}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2023年的資料，異常警示總件數在48小時內處理的比例是多少？請參考下圖提供的數據。", "answer": "C", "choice": ["85%的處理件數", "90%的處理比例", "85%", "100%的處理比例"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據過去一年的服務中斷情況，平均恢復時間為何？", "answer": "D", "choice": ["2.5小時", "1.2小時", "1.7小時", "1.3小時"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2023年的數據，異常率的計算結果在以下哪一選項中正確概述？", "answer": "A", "choice": ["0.0128", "0.128", "0.000128", "0.0132"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖片中提供的報告，2023年攔截的可疑交易筆數是多少？", "answer": "D", "choice": ["1300", "1100", "950", "1150"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2023年資料，因外部攻擊而暫停服務的時間是以下哪一項？", "answer": "A", "choice": ["45分鐘", "90分鐘", "15分鐘", "1.5小時"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2023年的資料，異常警示總件數在48小時內處理的比例是多少？請參考下圖提供的數據。", "answer": "A", "choice": ["85%", "100%的處理比例", "85%的處理件數", "90%的處理比例"]}
 {"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表7，2023年攔截的可疑交易筆數是1150。", "answer": "是", "question_group": 67}
 
 {"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表7，2023年攔截的可疑交易筆數是1000。", "answer": "否", "question_group": 67}

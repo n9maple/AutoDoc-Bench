@@ -1,13 +1,13 @@
 {"category": "Open", "question_type": "Temporal Reasoning", "question": "相較於2022年，2023年的內部培訓計畫參與率提高了多少百分比？", "answer": "8%"}
 {"category": "Open", "question_type": "Aggregation", "question": "將 2025 年的軟體升級次數和系統性能測試次數相加，總共進行了多少次操作？", "answer": "6"}
 {"category": "Open", "question_type": "Aggregation", "question": "在2023年和2024年，技術升級和人工智能的總投資分別是多少？", "answer": "2023年技術升級和人工智能的總投資為新台幣2.3億元，2024年為新台幣4.0億元。"}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據提供的資料，2023年內部培訓計畫的參與率相比2022年提高了多少百分比？", "answer": "C", "choice": ["5%", "7%", "8%", "9%"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，2025 年的軟體升級次數和系統性能測試次數的總和是多少次操作？", "answer": "C", "choice": ["5次", "9次", "6次", "11次"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，2023年及2024年技術升級和人工智能的總投資分別為多少？", "answer": "C", "choice": ["2023年為新台幣2.5億元，2024年為新台幣4.2億元。", "2023年為新台幣2.1億元，2024年為新台幣4.1億元。", "2023年為新台幣2.3億元，2024年為新台幣4.0億元。", "2023年為新台幣2.4億元，2024年為新台幣3.8億元。"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據提供的資料，2023年內部培訓計畫的參與率相比2022年提高了多少百分比？", "answer": "B", "choice": ["5%", "8%", "9%", "7%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，2025 年的軟體升級次數和系統性能測試次數的總和是多少次操作？", "answer": "C", "choice": ["5次", "11次", "6次", "9次"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，2023年及2024年技術升級和人工智能的總投資分別為多少？", "answer": "B", "choice": ["2023年為新台幣2.1億元，2024年為新台幣4.1億元。", "2023年為新台幣2.3億元，2024年為新台幣4.0億元。", "2023年為新台幣2.4億元，2024年為新台幣3.8億元。", "2023年為新台幣2.5億元，2024年為新台幣4.2億元。"]}
 {"category": "Open", "question_type": "Aggregation", "question": "所有活動指標的交易數量總和是多少?", "answer": "1000750"}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據最近的活動指標圖表，所有活動的交易數量總和是多少？", "answer": "C", "choice": ["1000700", "1000800", "1000750", "1000900"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據最近的活動指標圖表，所有活動的交易數量總和是多少？", "answer": "D", "choice": ["1000700", "1000900", "1000800", "1000750"]}
 {"category": "Open", "question_type": "Aggregation", "question": "根據表4，若客戶資料更新數量、核查工作數量和新客戶風險評估的數量共同構成了總工作量，那麼這個總工作量是多少？", "answer": "55000+"}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖3，所有指標的數值總和是多少？以下哪個選項是正確的？", "answer": "D", "choice": ["200002500", "200001600", "199999999", "200001750"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖3，所有指標的數值總和是多少？以下哪個選項是正確的？", "answer": "C", "choice": ["199999999", "200002500", "200001750", "200001600"]}
 {"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，2023年內部培訓計畫的參與率相比2022年提高了8%。", "answer": "是", "question_group": 781}
 
 {"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，2023年內部培訓計畫的參與率相比2022年提高了12%。", "answer": "否", "question_group": 781}

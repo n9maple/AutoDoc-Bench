@@ -1,11 +1,11 @@
 {"category": "Open", "question_type": "Fact Lookup", "question": "哪一年每月可處理案件數量最多？", "answer": "2024年每月可處理案件數量最多，為11000。"}
 {"category": "Open", "question_type": "Fact Lookup", "question": "2023年最終調整理賠金額件數是多少？", "answer": "87"}
 {"category": "Open", "question_type": "Fact Lookup", "question": "根據 2023 年的資料，哪種付款方式所占的比例最低？", "answer": "支票郵寄比例"}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據下圖所示，哪一年每月可處理案件數量最多？", "answer": "C", "choice": ["2024年，每月可處理案件數量為9000。", "2023年，每月可處理案件數量為10500。", "2024年，每月可處理案件數量為11000。", "2025年，每月可處理案件數量為11500。"]}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2023年的最終調整，賠金額件數如下哪一項正確？", "answer": "C", "choice": ["88", "86", "87", "90"]}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2023年的資料，以下哪種付款方式的所占比例是最低的？（請參考圖片中的數據）", "answer": "C", "choice": ["自動扣款比例", "銀行轉帳比例", "支票郵寄比例", "電子支付比例"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據下圖所示，哪一年每月可處理案件數量最多？", "answer": "C", "choice": ["2023年，每月可處理案件數量為10500。", "2024年，每月可處理案件數量為9000。", "2024年，每月可處理案件數量為11000。", "2025年，每月可處理案件數量為11500。"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2023年的最終調整，賠金額件數如下哪一項正確？", "answer": "D", "choice": ["88", "90", "86", "87"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2023年的資料，以下哪種付款方式的所占比例是最低的？（請參考圖片中的數據）", "answer": "D", "choice": ["電子支付比例", "銀行轉帳比例", "自動扣款比例", "支票郵寄比例"]}
 {"category": "Open", "question_type": "Fact Lookup", "question": "2022年，‘臨櫃申訴’的占比是多少？", "answer": "由於沒有具體的圖表數據，我無法提供確切的占比。"}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據提供的數據，2022年‘臨櫃申訴’的占比可能是多少？（請參考相關圖表資料）", "answer": "C", "choice": ["2022年臨櫃申訴的占比比2023年要低，但具体数值不明确。", "2022年‘臨櫃申訴’的占比沒有明確的上限，可能低於或高於50%。", "無法確定具體的占比數據。", "2022年‘臨櫃申訴’的占比取決於其他因素，無法具體確定。"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據提供的數據，2022年‘臨櫃申訴’的占比可能是多少？（請參考相關圖表資料）", "answer": "D", "choice": ["2022年‘臨櫃申訴’的占比沒有明確的上限，可能低於或高於50%。", "2022年‘臨櫃申訴’的占比取決於其他因素，無法具體確定。", "2022年臨櫃申訴的占比比2023年要低，但具体数值不明确。", "無法確定具體的占比數據。"]}
 {"category": "Open", "question_type": "Fact Lookup", "question": "根據表1的資料，哪一年臨櫃服務的申請案件最少？", "answer": "2024年"}
 {"category": "Open", "question_type": "Fact Lookup", "question": "在圖2中，2023年的平均審核天數是多少？", "answer": "2023年的平均審核天數為X天。"}
 {"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖8，2022年‘臨櫃申訴’的占比無法確定具體數據。", "answer": "是", "question_group": 65}

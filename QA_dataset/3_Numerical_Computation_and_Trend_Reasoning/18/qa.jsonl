@@ -1,22 +1,22 @@
 {"category": "Open", "question_type": "Aggregation", "question": "在 2025 年，中國人壽和平安保險的市場份額總和是多少？", "answer": "50%"}
 {"category": "Open", "question_type": "Aggregation", "question": "2025 到 2028 年間的普及率平均增長多少百分比？", "answer": "4%"}
 {"category": "Open", "question_type": "Aggregation", "question": "從2024年到2026年，新進競爭者數量的總和是多少？", "answer": "23"}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖示，2025年中國人壽和平安保險的市場份額總和是多少？", "answer": "C", "choice": ["65%", "52%", "50%", "47%"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的數據，2025 到 2028 年間的普及率平均增長是多少百分比？", "answer": "C", "choice": ["增長率為3%", "增長率為8%", "4%", "增長率為10%"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據以下圖表，從2024年到2026年，新進競爭者數量的總和是多少？", "answer": "C", "choice": ["25", "22", "23", "20"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖示，2025年中國人壽和平安保險的市場份額總和是多少？", "answer": "B", "choice": ["65%", "50%", "52%", "47%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的數據，2025 到 2028 年間的普及率平均增長是多少百分比？", "answer": "D", "choice": ["增長率為8%", "增長率為3%", "增長率為10%", "4%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據以下圖表，從2024年到2026年，新進競爭者數量的總和是多少？", "answer": "A", "choice": ["23", "22", "25", "20"]}
 {"category": "Open", "question_type": "Rate of Change", "question": "從2020年到2025年，考慮購買或增加健康險的比例有多少變化？", "answer": "從2020年到2025年，考慮購買或增加健康險的比例增加了20%。"}
 {"category": "Open", "question_type": "Temporal Trend", "question": "從2020年到2025年間，線上健康險購買比例增長的趨勢是怎樣的？", "answer": "從2020年到2025年間，線上健康險購買比例增長了20個百分點，顯示出一個穩定的增長趨勢。"}
 {"category": "Open", "question_type": "Rate of Change", "question": "2025年的線上健康險購買比例比2020年高多少百分比？", "answer": "2025年的線上健康險購買比例比2020年高出一倍，即增加了100%。"}
 {"category": "Open", "question_type": "Temporal Trend", "question": "從2023年到2025年，個人健康險銷售增長率呈現什麼樣的趨勢？", "answer": "從2023年到2025年，個人健康險銷售增長率呈現逐年上升的趨勢。"}
 {"category": "Open", "question_type": "Temporal Trend", "question": "從2022年到2030年，總人口的變化趨勢是增長還是減少？", "answer": "減少"}
-{"category": "MCQ", "question_type": "Rate of Change", "question": "根據下圖，從2020年到2025年，考慮購買或增加健康險的比例變化情況為何？", "answer": "C", "choice": ["考慮購買或增加健康險的比例減少了5%。", "考慮購買或增加健康險的比例增加了30%。", "考慮購買或增加健康險的比例增加了20%。", "考慮購買或增加健康險的比例保持在同一水平。"]}
-{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2020年到2025年的數據，線上健康險購買比例的增長趨勢是什麼？", "answer": "C", "choice": ["從2020年到2025年間，增長了15個百分點，顯示出穩定的增長趨勢。", "從2020年到2025年間，增長了30個百分點，顯示出顯著的增長趨勢。", "從2020年到2025年間，增長了20個百分點，顯示出穩定的增長趨勢。", "從2020年到2025年間，沒變化，顯示出持平的趨勢。"]}
-{"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖片中提供的數據，2025年的線上健康險購買比例相比2020年增加了多少百分比？", "answer": "C", "choice": ["增加了75%", "減少了50%", "增加了100%", "增加了25%"]}
-{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據下圖顯示，從2023年到2025年，個人健康險銷售增長率的趨勢是什麼？", "answer": "C", "choice": ["在2024年出現小幅回落後再次上升", "在2025年出現顯著下降後持平", "逐年上升的趨勢", "持平而無明顯變化"]}
-{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據提供的圖表，預測從2022年到2030年，總人口的變化趨勢是什麼？", "answer": "C", "choice": ["未來幾年將保持穩定的人口", "隨著時間的推移人口會出現小幅增長", "減少", "人口在2030年前會達到歷史最高點"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表3的資料，如果行業平均水平每年上升0.5%，在以下哪個情況下，行業平均水平可以達到續保率的同等水平？", "answer": "A", "choice": ["行業平均水平已經高於續保率，因此不需要任何年數。", "根據行業增長速度，行業平均水平若每年上升0.5%，需五年才能趕上續保率。", "如果續保率在未來的年份也每年提高0.5%，那麼行業平均水平需要至少三年才能追趕。", "行業平均水平需要在五年內穩定在某個數值，才能達到續保率的水平。"]}
-{"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖5，從2025年到2026年，銷售增長率變化了多少百分比？以下哪個選項是正確的？", "answer": "B", "choice": ["0%", "-3%", "-2%", "-5%"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據表4的數據，從2025到2028年，普及率的平均年增長率是多少個百分點？以下哪一項是正確的選擇？", "answer": "C", "choice": ["4.2 個百分點", "5.5 個百分點", "4 個百分點", "3 個百分點"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據下圖，從2020年到2025年，考慮購買或增加健康險的比例變化情況為何？", "answer": "B", "choice": ["考慮購買或增加健康險的比例減少了5%。", "考慮購買或增加健康險的比例增加了20%。", "考慮購買或增加健康險的比例增加了30%。", "考慮購買或增加健康險的比例保持在同一水平。"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2020年到2025年的數據，線上健康險購買比例的增長趨勢是什麼？", "answer": "C", "choice": ["從2020年到2025年間，沒變化，顯示出持平的趨勢。", "從2020年到2025年間，增長了15個百分點，顯示出穩定的增長趨勢。", "從2020年到2025年間，增長了20個百分點，顯示出穩定的增長趨勢。", "從2020年到2025年間，增長了30個百分點，顯示出顯著的增長趨勢。"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖片中提供的數據，2025年的線上健康險購買比例相比2020年增加了多少百分比？", "answer": "A", "choice": ["增加了100%", "增加了75%", "減少了50%", "增加了25%"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據下圖顯示，從2023年到2025年，個人健康險銷售增長率的趨勢是什麼？", "answer": "B", "choice": ["持平而無明顯變化", "逐年上升的趨勢", "在2024年出現小幅回落後再次上升", "在2025年出現顯著下降後持平"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據提供的圖表，預測從2022年到2030年，總人口的變化趨勢是什麼？", "answer": "D", "choice": ["隨著時間的推移人口會出現小幅增長", "人口在2030年前會達到歷史最高點", "未來幾年將保持穩定的人口", "減少"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表3的資料，如果行業平均水平每年上升0.5%，在以下哪個情況下，行業平均水平可以達到續保率的同等水平？", "answer": "C", "choice": ["根據行業增長速度，行業平均水平若每年上升0.5%，需五年才能趕上續保率。", "行業平均水平需要在五年內穩定在某個數值，才能達到續保率的水平。", "行業平均水平已經高於續保率，因此不需要任何年數。", "如果續保率在未來的年份也每年提高0.5%，那麼行業平均水平需要至少三年才能追趕。"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖5，從2025年到2026年，銷售增長率變化了多少百分比？以下哪個選項是正確的？", "answer": "B", "choice": ["-2%", "-3%", "0%", "-5%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表4的數據，從2025到2028年，普及率的平均年增長率是多少個百分點？以下哪一項是正確的選擇？", "answer": "A", "choice": ["4 個百分點", "4.2 個百分點", "3 個百分點", "5.5 個百分點"]}
 {"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖4，從2020年到2025年間，線上健康險購買比例增長了20個百分點，顯示出穩定的增長趨勢。", "answer": "是", "question_group": 823}
 
 {"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖4，從2020年到2025年間，線上健康險購買比例僅增長了5個百分點，顯示出緩慢的增長趨勢。", "answer": "否", "question_group": 823}

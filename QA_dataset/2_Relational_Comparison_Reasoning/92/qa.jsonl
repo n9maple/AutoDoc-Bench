@@ -2,14 +2,14 @@
 {"category": "Open", "question_type": "Comparison", "question": "2023年短期資產與負債匹配程度的實際值與目標值相差多少個百分點？", "answer": "相差5個百分點"}
 {"category": "Open", "question_type": "Comparison", "question": "2022Q3與2023Q3相比，哪一季度的核心資本佔比更高？", "answer": "2023Q3的核心資本佔比更高"}
 {"category": "Open", "question_type": "Comparison", "question": "2023年哪兩個季度的外幣資產負債淨敞口相差最多？", "answer": "2023Q3和2023Q4"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片內容，2022Q3的存款總額與2023Q3的活期存款和定期存款之和進行比較，以下哪一選項正確？", "answer": "C", "choice": ["2022Q3的存款總額高於2023Q3的活期存款，但低於定期存款之和。", "2022Q3的存款總額高於2023Q3的活期存款與定期存款之和。", "2022Q3的存款總額低於2023Q3的活期存款與定期存款之和。", "2022Q3的存款總額等於2023Q3的活期存款與定期存款之和。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年短期資產與負債匹配程度的實際值與目標值，下列哪一項最接近它們的相差百分比？", "answer": "C", "choice": ["相差8個百分點", "相差7個百分點", "相差5個百分點", "相差4個百分點"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的資料圖表，2022Q3與2023Q3相比，哪一季度的核心資本佔比更高？", "answer": "C", "choice": ["2022Q3的核心資本佔比比2023Q3低", "2023Q2的核心資本佔比比2023Q3低", "2023Q3的核心資本佔比更高", "2022Q2的核心資本佔比與2022Q3相當"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中顯示的2023年外幣資產負債淨敞口數據，哪兩個季度的淨敞口相差最多？", "answer": "C", "choice": ["2023年第二季度和第三季度的淨敞口差異", "2023年第一季度和第四季度的淨敞口差異", "2023Q3和2023Q4", "2023年第二季度和第四季度的淨敞口差異"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片內容，2022Q3的存款總額與2023Q3的活期存款和定期存款之和進行比較，以下哪一選項正確？", "answer": "D", "choice": ["2022Q3的存款總額等於2023Q3的活期存款與定期存款之和。", "2022Q3的存款總額高於2023Q3的活期存款，但低於定期存款之和。", "2022Q3的存款總額高於2023Q3的活期存款與定期存款之和。", "2022Q3的存款總額低於2023Q3的活期存款與定期存款之和。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年短期資產與負債匹配程度的實際值與目標值，下列哪一項最接近它們的相差百分比？", "answer": "D", "choice": ["相差8個百分點", "相差4個百分點", "相差7個百分點", "相差5個百分點"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的資料圖表，2022Q3與2023Q3相比，哪一季度的核心資本佔比更高？", "answer": "A", "choice": ["2023Q3的核心資本佔比更高", "2022Q3的核心資本佔比比2023Q3低", "2022Q2的核心資本佔比與2022Q3相當", "2023Q2的核心資本佔比比2023Q3低"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中顯示的2023年外幣資產負債淨敞口數據，哪兩個季度的淨敞口相差最多？", "answer": "C", "choice": ["2023年第二季度和第四季度的淨敞口差異", "2023年第一季度和第四季度的淨敞口差異", "2023Q3和2023Q4", "2023年第二季度和第三季度的淨敞口差異"]}
 {"category": "Open", "question_type": "Comparison", "question": "在2023年第三季度第一銀行資本充足率中，數值最低的充足率類型是什麼？", "answer": "數值最低的充足率類型是8%"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "2023年第三季度第一銀行資本充足率中，最高與最低充足率類型的百分比差距是多少？", "answer": "7%"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年第三季度第一銀行的資本充足率，數值最低的充足率類型是以下哪一項？", "answer": "C", "choice": ["9%", "5%", "8%", "3%"]}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據2023年第三季度第一銀行的資本充足率，以下哪一選項最接近最高與最低充足率類型的百分比差距？", "answer": "C", "choice": ["9%", "12%", "7%", "14%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年第三季度第一銀行的資本充足率，數值最低的充足率類型是以下哪一項？", "answer": "B", "choice": ["5%", "8%", "9%", "3%"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據2023年第三季度第一銀行的資本充足率，以下哪一選項最接近最高與最低充足率類型的百分比差距？", "answer": "C", "choice": ["14%", "12%", "7%", "9%"]}
 {"category": "Open", "question_type": "Comparison", "question": "在圖2中，2023年Q1和Q3的期末合約總額相比，哪一個較高？", "answer": "2023年Q3的期末合約總額較高"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "在圖4中，第二個數據點比第三個數據點多了多少百分比？", "answer": "7%"}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據表2的資料，在2023Q3中，總負債的數值相對於存款的總額的關係是什麼？", "answer": "D", "choice": ["總負債的數值明顯低於存款的總額。", "總負債的數值與存款的總額呈現強正相關關係。", "總負債的數值與存款的總額相等。", "總負債的數值超過存款的總額。"]}

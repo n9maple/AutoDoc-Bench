@@ -1,10 +1,10 @@
 {"category": "Open", "question_type": "Temporal Reasoning", "question": "從2022年到2023年，高於疫情前水平百分比下降了多少百分點？", "answer": "30個百分點"}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據所提供的資料，從2022年到2023年，高於疫情前水平的百分比下降了多少百分點？請參考相關資料圖表。以下哪個選項是正確的？", "answer": "C", "choice": ["25個百分點", "45個百分點", "30個百分點", "15個百分點"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖表顯示，從2023年到2024年，市場需求增長率的平均值是多少？", "answer": "C", "choice": ["9.0%", "5.0%", "7.5%", "12%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據所提供的資料，從2022年到2023年，高於疫情前水平的百分比下降了多少百分點？請參考相關資料圖表。以下哪個選項是正確的？", "answer": "C", "choice": ["15個百分點", "45個百分點", "30個百分點", "25個百分點"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖表顯示，從2023年到2024年，市場需求增長率的平均值是多少？", "answer": "C", "choice": ["5.0%", "9.0%", "7.5%", "12%"]}
 {"category": "Open", "question_type": "Rate of Change", "question": "2023年台灣對中國出口增長率在Q3和Q4之間的變化是什麼？", "answer": "2023年台灣對中國出口增長率在Q3和Q4之間增加了2%"}
-{"category": "MCQ", "question_type": "Rate of Change", "question": "根據2023年資料，台灣對中國出口增長率在Q3和Q4之間的變化是什麼？", "answer": "C", "choice": ["出口增長率在Q3和Q4之間增長了0.5%", "出口增長率在Q3比Q4高2%", "出口增長率在Q3和Q4之間增加了2%", "出口增長率在Q4與Q3的一半"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據2023年資料，台灣對中國出口增長率在Q3和Q4之間的變化是什麼？", "answer": "B", "choice": ["出口增長率在Q4與Q3的一半", "出口增長率在Q3和Q4之間增加了2%", "出口增長率在Q3和Q4之間增長了0.5%", "出口增長率在Q3比Q4高2%"]}
 {"category": "Open", "question_type": "Aggregation", "question": "根據表2的資料，假設從2024年到2025年，年增長率和市場需求增長率都持平，那麼2023年到2025年兩年間的年增長率平均值是多少？", "answer": "8.67%"}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖1的資料，從2023年第一季度到第四季度，出口增長率的總和是以下哪一個選項？", "answer": "C", "choice": ["18%", "16%", "14%", "12%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖1的資料，從2023年第一季度到第四季度，出口增長率的總和是以下哪一個選項？", "answer": "C", "choice": ["12%", "18%", "14%", "16%"]}
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，從2023年到2024年，市場需求增長率的平均值是7.5%。", "answer": "是", "question_group": 801}
 
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，從2023年到2024年，市場需求增長率的平均值是6.5%。", "answer": "否", "question_group": 801}

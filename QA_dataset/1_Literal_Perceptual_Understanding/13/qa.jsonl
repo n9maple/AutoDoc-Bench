@@ -1,5 +1,5 @@
 {"category": "Open", "question_type": "Fact Lookup", "question": "在2023年高額貸款交易中信用保險的應用情況中，最左邊的指標比例是多少？", "answer": "50%"}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2023年高額貸款交易中信用保險的應用情況，最左邊的指標比例為何？", "answer": "C", "choice": ["42%", "55%", "50%", "58%"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2023年高額貸款交易中信用保險的應用情況，最左邊的指標比例為何？", "answer": "D", "choice": ["42%", "55%", "58%", "50%"]}
 {"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖6，2023年高額貸款交易中最左邊的指標比例是50%。", "answer": "是", "question_group": 42}
 
 {"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖6，2023年高額貸款交易中最左邊的指標比例是30%。", "answer": "否", "question_group": 42}

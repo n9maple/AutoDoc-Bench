@@ -2,15 +2,15 @@
 {"category": "Open", "question_type": "Comparison", "question": "2023年，利率掉期和貨幣期權的百分比是否相同？", "answer": "是的，2023年，利率掉期和貨幣期權的百分比相同，都是30%。"}
 {"category": "Open", "question_type": "Comparison", "question": "哪一級的平均貸款利率最高？", "answer": "C級及以下的平均貸款利率最高，為 3.8%"}
 {"category": "Open", "question_type": "Comparison", "question": "如果一個機構的評級從 C級及以下升至 A級，那麼獲得多家金融機構支持的機率增加了多少百分比？", "answer": "機率增加了31%。"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的數據，利率掉期和貨幣期權的百分比有何相似之處？", "answer": "C", "choice": ["利率掉期的百分比為30%，而貨幣期權的百分比為35%", "利率掉期的百分比為25%，而貨幣期權的百分比為30%", "兩者的百分比均為30%", "利率掉期的百分比為30%，而貨幣期權的百分比為30%"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，哪一級的平均貸款利率最高？", "answer": "C", "choice": ["D級的平均貸款利率為 3.2%", "C級的平均貸款利率為 3.5%", "C級及以下的平均貸款利率最高，為 3.8%", "B級的平均貸款利率為 3.6%"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖示，如果一個機構的評級從 C級及以下升至 A級，獲得多家金融機構支持的機率增加了多少百分比？", "answer": "C", "choice": ["機率增加了5%。", "機率增加了20%。", "機率增加了31%。", "機率增加了35%。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的數據，利率掉期和貨幣期權的百分比有何相似之處？", "answer": "B", "choice": ["利率掉期的百分比為30%，而貨幣期權的百分比為30%", "兩者的百分比均為30%", "利率掉期的百分比為25%，而貨幣期權的百分比為30%", "利率掉期的百分比為30%，而貨幣期權的百分比為35%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，哪一級的平均貸款利率最高？", "answer": "A", "choice": ["C級及以下的平均貸款利率最高，為 3.8%", "C級的平均貸款利率為 3.5%", "B級的平均貸款利率為 3.6%", "D級的平均貸款利率為 3.2%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖示，如果一個機構的評級從 C級及以下升至 A級，獲得多家金融機構支持的機率增加了多少百分比？", "answer": "D", "choice": ["機率增加了5%。", "機率增加了35%。", "機率增加了20%。", "機率增加了31%。"]}
 {"category": "Open", "question_type": "Comparison", "question": "綠色貸款申請項目中，數值最低的項目類別占比是多少？", "answer": "25%"}
 {"category": "Open", "question_type": "Comparison", "question": "信貸評級中，年營業額融資比例最低的是哪一個？", "answer": "C級及以下"}
-{"category": "MCQ", "question_type": "Comparison", "question": "在綠色貸款申請項目中，數值最低的項目類別占比是多少？請參考下列情境描述。", "answer": "C", "choice": ["18%", "24%", "25%", "30%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在綠色貸款申請項目中，數值最低的項目類別占比是多少？請參考下列情境描述。", "answer": "D", "choice": ["18%", "30%", "24%", "25%"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "在信貸評級中，以下哪一個級別的年營業額融資比例通常被認為是最低的？", "answer": "C", "choice": ["信用評級接近最低標準的企業", "信用評級中等偏低企業（B級和C級）", "C級及以下", "仍能獲得小額融資的D級企業"]}
-{"category": "MCQ", "question_type": "Ranking", "question": "在下列流動比率的數值中，根據提供的案例，哪一個數值可能是最低的？請參考附加的數據圖表。", "answer": "C", "choice": ["流動比率在不同時間點不會改變，這使得它們難以進行比較。", "流動比率不需與同行業標準進行比較，因此任何數值都是可信的。", "未提供具體的數據，因此無法確定最低的流動比率。", "根據以往經驗，流動比率的最低值通常在 2.0 以上，這是一個安全邊際。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖1，以下哪一個指標類型的數值最低？", "answer": "C", "choice": ["指標類型1.6的數值最低", "指標類型1.4的數值最低", "指標類型1.5的數值最低", "指標類型1.3的數值最低"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "在下列流動比率的數值中，根據提供的案例，哪一個數值可能是最低的？請參考附加的數據圖表。", "answer": "A", "choice": ["未提供具體的數據，因此無法確定最低的流動比率。", "流動比率在不同時間點不會改變，這使得它們難以進行比較。", "根據以往經驗，流動比率的最低值通常在 2.0 以上，這是一個安全邊際。", "流動比率不需與同行業標準進行比較，因此任何數值都是可信的。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖1，以下哪一個指標類型的數值最低？", "answer": "A", "choice": ["指標類型1.5的數值最低", "指標類型1.4的數值最低", "指標類型1.3的數值最低", "指標類型1.6的數值最低"]}
 {"category": "YesNo", "question_type": "Comparison", "question": "根據表4，如果一個機構的評級從C級及以下升至A級，獲得多家金融機構支持的機率增加了31%。", "answer": "是", "question_group": 310}
 
 {"category": "YesNo", "question_type": "Comparison", "question": "根據表4，如果一個機構的評級從C級及以下升至A級，獲得多家金融機構支持的機率增加了15%。", "answer": "否", "question_group": 310}

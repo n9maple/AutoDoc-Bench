@@ -6,16 +6,16 @@
 {"category": "Open", "question_type": "Temporal Reasoning", "question": "從2023年到2026年，申訴案件數每年的增長趨勢如何？", "answer": "從2023年到2026年，申訴案件數每年的增長趨勢是：2024年增長300件，2025年增長200件，2026年增長200件。"}
 {"category": "Open", "question_type": "Aggregation", "question": "在2023年到2025年間，處理機制滿意度的平均值是多少？", "answer": "平均值是93.67。"}
 {"category": "Open", "question_type": "Temporal Reasoning", "question": "從2023年到2025年，信賴度的增長趨勢如何？", "answer": "從2023年到2025年，信賴度每年增長2，顯示出穩定的增長趨勢。"}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據表格，2023 年專案查核或公司糾紛減少事件發生的次數是？", "answer": "C", "choice": ["100", "135", "127", "155"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據圖片顯示，從 2022 年到 2023 年，保險小學堂的瀏覽量變化為何？", "answer": "C", "choice": ["50000", "75000", "89658", "95000"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年保險公會官網與保險小學堂的瀏覽量，以下哪個選項最接近它們的總和？", "answer": "C", "choice": ["2000000", "2300000", "2200000", "2500000"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的數據圖表，2023年至2026年間線上案件的比例平均約為多少？", "answer": "C", "choice": ["63.00", "55.75", "54.75", "52.50"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據圖表，從2023年到2026年，申訴案件數的增長趨勢為何？", "answer": "C", "choice": ["2025年增長400件", "2024年持平，未有增長", "2024年增長300件", "2024年下降至增長100件"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年到2025年間的數據，處理機制滿意度的平均值是多少？請參考圖表以找出正確答案。", "answer": "D", "choice": ["平均值是92.10，基於2022年的數據。", "平均值是90.50，根據低滿意度的樣本調查。", "平均值是95.00，基於某些消費者的主觀評價。", "平均值是93.67。"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "從2023年到2025年，信賴度的增長趨勢顯示了什麼樣的變化？", "answer": "C", "choice": ["信賴度每年增長1，顯示出微弱的增長趨勢。", "信賴度每年增長2.5，顯示出穩定而快速的增長趨勢。", "信賴度每年增長2，顯示出穩定的增長趨勢。", "信賴度每年增長4，顯示出非線性的增長趨勢。"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表格，2023 年專案查核或公司糾紛減少事件發生的次數是？", "answer": "A", "choice": ["127", "100", "155", "135"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據圖片顯示，從 2022 年到 2023 年，保險小學堂的瀏覽量變化為何？", "answer": "C", "choice": ["95000", "50000", "89658", "75000"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年保險公會官網與保險小學堂的瀏覽量，以下哪個選項最接近它們的總和？", "answer": "A", "choice": ["2200000", "2500000", "2300000", "2000000"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的數據圖表，2023年至2026年間線上案件的比例平均約為多少？", "answer": "C", "choice": ["55.75", "63.00", "54.75", "52.50"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據圖表，從2023年到2026年，申訴案件數的增長趨勢為何？", "answer": "B", "choice": ["2024年下降至增長100件", "2024年增長300件", "2024年持平，未有增長", "2025年增長400件"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年到2025年間的數據，處理機制滿意度的平均值是多少？請參考圖表以找出正確答案。", "answer": "B", "choice": ["平均值是95.00，基於某些消費者的主觀評價。", "平均值是93.67。", "平均值是90.50，根據低滿意度的樣本調查。", "平均值是92.10，基於2022年的數據。"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "從2023年到2025年，信賴度的增長趨勢顯示了什麼樣的變化？", "answer": "D", "choice": ["信賴度每年增長2.5，顯示出穩定而快速的增長趨勢。", "信賴度每年增長1，顯示出微弱的增長趨勢。", "信賴度每年增長4，顯示出非線性的增長趨勢。", "信賴度每年增長2，顯示出穩定的增長趨勢。"]}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據表6的資料，2024年至2026年間，中小學人數的總和是以下哪一項？", "answer": "C", "choice": ["65,000", "58,000", "60,000", "63,000"]}
 {"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表3的資料，假如專案查核次數以每年15%的速率增長，從2023年開始計算，到2025年底，專案查核次數預測會是多少？以下哪一項是最接近的預測數字？", "answer": "A", "choice": ["147.224", "152.500", "135.000", "145.300"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表2的資料，假設進修完成率每年提高0.5%，在2026年的預計進修完成率可能是多少？", "answer": "B", "choice": ["97.5%", "98.7%", "99.0%", "96.5%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表2的資料，假設進修完成率每年提高0.5%，在2026年的預計進修完成率可能是多少？", "answer": "A", "choice": ["98.7%", "97.5%", "99.0%", "96.5%"]}
 {"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表4，從 2022 年到 2023 年，保險小學堂的瀏覽量增加了 89658。", "answer": "是", "question_group": 922}
 
 {"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表4，從 2022 年到 2023 年，保險小學堂的瀏覽量增加了 105000。", "answer": "否", "question_group": 922}

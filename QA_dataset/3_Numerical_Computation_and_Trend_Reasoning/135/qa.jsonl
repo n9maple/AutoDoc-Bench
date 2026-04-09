@@ -1,4 +1,4 @@
 {"category": "Open", "question_type": "Aggregation", "question": "根據表1的資料，計算2023年和2024年的首次聯繫解決率平均值是多少？", "answer": "91%"}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據表1的資料，2023年和2024年的首次聯繫解決率平均值可能是多少？", "answer": "C", "choice": ["82%", "86%", "91%", "88%"]}
-{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖2，2020年到2023年間，學生信用卡申辦量的整體趨勢是什麼？", "answer": "C", "choice": ["持平", "小幅增加", "穩步上升", "輕微波動"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表1的資料，2023年和2024年的首次聯繫解決率平均值可能是多少？", "answer": "B", "choice": ["82%", "91%", "88%", "86%"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖2，2020年到2023年間，學生信用卡申辦量的整體趨勢是什麼？", "answer": "D", "choice": ["持平", "小幅增加", "輕微波動", "穩步上升"]}
 {"category": "Open", "question_type": "Temporal Trend", "question": "在圖2中，2020年到2023年間，學生信用卡申辦量的整體趨勢是什麼？", "answer": "2020年到2023年間，學生信用卡申辦量的整體趨勢是穩步上升。"}

@@ -4,22 +4,22 @@
 {"category": "Open", "question_type": "Comparison", "question": "批次轉帳的平均每批交易筆數和使用率相比，哪一個數值較大？", "answer": "平均每批交易筆數（80）較大"}
 {"category": "Open", "question_type": "Comparison", "question": "大型企業中三層或以上的比例比中小企業多多少百分點？", "answer": "大型企業中三層或以上的比例比中小企業多51個百分點"}
 {"category": "Open", "question_type": "Comparison", "question": "在所有問題中，出現頻率最低的問題是哪些？", "answer": "交易明細匯出格式問題"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的數據，以下哪一項描述最符合每月平均交易金額的情況？", "answer": "C", "choice": ["2023年每月平均交易金額低於1500。", "2023年每月平均交易金額在3000至4000之間。", "2023年每月平均交易金額高於3000。", "2023年每月平均交易金額高於2500，但低於3000。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的數據，哪一個月份的外幣帳戶查詢次數超過定期存款帳戶查詢次數的次數最多？", "answer": "C", "choice": ["2023年9月", "2023年10月", "2023年11月", "2023年12月"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據所提供的數據，以下哪一個時間段的平均異常交易通知數較高？", "answer": "C", "choice": ["第二季度", "第三季度", "下半年", "本年度其他月份"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年12月與2023年1月的交易數據，2023年12月的轉帳與付款交易筆數比2023年1月多多少？請根據提供的圖表來選擇正確的答案。", "answer": "C", "choice": ["21,500", "24,000", "23,000", "25,000"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "在批次轉帳中，您認為以下哪一個數值較大？（請參考提供的數據）", "answer": "C", "choice": ["所有批次的平均數合計（150）", "最高單次交易筆數（90）", "平均每批交易筆數（80）", "最低單次交易筆數（50）"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的圖片，大型企業中三層或以上的比例與中小企業相比，多了多少個百分點？", "answer": "C", "choice": ["55個百分點", "48個百分點", "51個百分點", "53個百分點"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖表中所示，出現頻率最低的問題是哪些？", "answer": "C", "choice": ["產品退換貨問題", "賬單查詢問題", "交易明細匯出格式問題", "訂單狀態查詢問題"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的數據，以下哪一項描述最符合每月平均交易金額的情況？", "answer": "A", "choice": ["2023年每月平均交易金額高於3000。", "2023年每月平均交易金額高於2500，但低於3000。", "2023年每月平均交易金額低於1500。", "2023年每月平均交易金額在3000至4000之間。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的數據，哪一個月份的外幣帳戶查詢次數超過定期存款帳戶查詢次數的次數最多？", "answer": "D", "choice": ["2023年12月", "2023年9月", "2023年10月", "2023年11月"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據所提供的數據，以下哪一個時間段的平均異常交易通知數較高？", "answer": "C", "choice": ["本年度其他月份", "第二季度", "下半年", "第三季度"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年12月與2023年1月的交易數據，2023年12月的轉帳與付款交易筆數比2023年1月多多少？請根據提供的圖表來選擇正確的答案。", "answer": "D", "choice": ["25,000", "24,000", "21,500", "23,000"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在批次轉帳中，您認為以下哪一個數值較大？（請參考提供的數據）", "answer": "C", "choice": ["最高單次交易筆數（90）", "所有批次的平均數合計（150）", "平均每批交易筆數（80）", "最低單次交易筆數（50）"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的圖片，大型企業中三層或以上的比例與中小企業相比，多了多少個百分點？", "answer": "A", "choice": ["51個百分點", "48個百分點", "55個百分點", "53個百分點"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖表中所示，出現頻率最低的問題是哪些？", "answer": "D", "choice": ["產品退換貨問題", "賬單查詢問題", "訂單狀態查詢問題", "交易明細匯出格式問題"]}
 {"category": "Open", "question_type": "Comparison", "question": "哪個交易類型的2分鐘內完成比例是最低的？", "answer": "交易類型的2分鐘內完成比例最低的是80%"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據以下圖片，哪個交易類型的2分鐘內完成比例是最低的？", "answer": "C", "choice": ["交易類型的2分鐘內完成比例最低的是71%", "交易類型的2分鐘內完成比例最低的是76%", "交易類型的2分鐘內完成比例最低的是80%", "交易類型的2分鐘內完成比例最低的是79%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據以下圖片，哪個交易類型的2分鐘內完成比例是最低的？", "answer": "C", "choice": ["交易類型的2分鐘內完成比例最低的是76%", "交易類型的2分鐘內完成比例最低的是71%", "交易類型的2分鐘內完成比例最低的是80%", "交易類型的2分鐘內完成比例最低的是79%"]}
 {"category": "Open", "question_type": "Ranking", "question": "效益指標的幅度從高到低排序是什麼？", "answer": "效益指標 40, 效益指標 35"}
-{"category": "MCQ", "question_type": "Ranking", "question": "根據效益指標的幅度，請將以下選項從高到低排序，根據圖片中的數據。哪一項的效益指標最高？", "answer": "C", "choice": ["效益指標 30", "效益指標 35", "效益指標 40", "效益指標 42"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據效益指標的幅度，請將以下選項從高到低排序，根據圖片中的數據。哪一項的效益指標最高？", "answer": "D", "choice": ["效益指標 30", "效益指標 42", "效益指標 35", "效益指標 40"]}
 {"category": "Open", "question_type": "Comparison", "question": "根據表4的資料，2023年上半年（1月到6月）和下半年（7月到12月）的轉帳與付款交易筆數平均數分別是多少？哪個半年期的平均數較高？", "answer": "2023年上半年的轉帳與付款交易筆數平均數為276,333.33，下半年的平均數為287,333.33，下半年平均數較高。"}
 {"category": "Open", "question_type": "Comparison", "question": "根據表2的資料，2023年上半年（1月至6月）與下半年（7月至12月）的定期存款帳戶查詢次數加總分別是多少，哪一個時期的查詢次數較多？", "answer": "2023年上半年定期存款帳戶查詢次數加總為796000，下半年為821000，下半年查詢次數較多。"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "在圖1中，效益指標提升幅度的差異是多少？", "answer": "5%"}
 {"category": "Open", "question_type": "Ranking", "question": "根據圖3，哪一個交易類型在2分鐘內完成比例最低？", "answer": "交易類型: 80"}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖1，效益指標提升幅度的差異可能是多少？", "answer": "B", "choice": ["6%", "5%", "4%", "12%"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖1，效益指標提升幅度的差異可能是多少？", "answer": "B", "choice": ["12%", "5%", "6%", "4%"]}
 {"category": "YesNo", "question_type": "Comparison", "question": "根據表4，2023年12月的轉帳與付款交易筆數比2023年1月多23,000。", "answer": "是", "question_group": 562}
 
 {"category": "YesNo", "question_type": "Comparison", "question": "根據表4，2023年12月的轉帳與付款交易筆數比2023年1月多30,000。", "answer": "否", "question_group": 562}

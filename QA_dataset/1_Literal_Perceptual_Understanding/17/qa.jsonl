@@ -1,8 +1,8 @@
 {"category": "Open", "question_type": "Peak/Valley", "question": "在2022年和2023年之間，哪一年台灣的行動支付交易額達到最高峰？", "answer": "2023年"}
-{"category": "MCQ", "question_type": "Peak/Valley", "question": "根據下圖所示，哪一年台灣的行動支付交易額達到最高峰？", "answer": "C", "choice": ["2022年達到次高峰", "2024年尚未達到", "2023年", "2023年之前的平穩增長"]}
+{"category": "MCQ", "question_type": "Peak/Valley", "question": "根據下圖所示，哪一年台灣的行動支付交易額達到最高峰？", "answer": "A", "choice": ["2023年", "2024年尚未達到", "2022年達到次高峰", "2023年之前的平穩增長"]}
 {"category": "Open", "question_type": "Fact Lookup", "question": "根據圖7，2022年的海外市場收入比例是多少？", "answer": "2022年的海外市場收入比例是10%"}
 {"category": "Open", "question_type": "Fact Lookup", "question": "根據圖6，2023年行動支付用戶數量和普及率的數值分別是多少？", "answer": "2023年行動支付用戶數量為15百萬人，普及率為65%。"}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖6，2023年行動支付用戶數量和普及率的數值是以下哪一組？", "answer": "A", "choice": ["2023年行動支付用戶數量為15百萬人，普及率為65%。", "2023年行動支付用戶數量為20百萬人，普及率為50%。", "2023年行動支付用戶數量為15百萬人，普及率為55%。", "2023年行動支付用戶數量為10百萬人，普及率為70%。"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖6，2023年行動支付用戶數量和普及率的數值是以下哪一組？", "answer": "C", "choice": ["2023年行動支付用戶數量為15百萬人，普及率為55%。", "2023年行動支付用戶數量為20百萬人，普及率為50%。", "2023年行動支付用戶數量為15百萬人，普及率為65%。", "2023年行動支付用戶數量為10百萬人，普及率為70%。"]}
 {"category": "YesNo", "question_type": "Peak/Valley", "question": "根據圖1，2023年台灣的行動支付交易額達到最高峰。", "answer": "是", "question_group": 45}
 
 {"category": "YesNo", "question_type": "Peak/Valley", "question": "根據圖1，2022年台灣的行動支付交易額達到最高峰。", "answer": "否", "question_group": 45}

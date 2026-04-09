@@ -3,17 +3,17 @@
 {"category": "Open", "question_type": "Aggregation", "question": "如果將流程清晰度和文件提交指引的滿意度比例相加，總和是多少？", "answer": "136%"}
 {"category": "Open", "question_type": "Aggregation", "question": "銀髮族專屬保險產品和數位生活方式結合產品這兩項產品的總受訪者比例相加後為多少？", "answer": "45%"}
 {"category": "Open", "question_type": "Aggregation", "question": "如果將個性化服務和改善溝通方式的比例相加，總和是多少？", "answer": "25%"}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據下列數據，面對面服務和數位化服務的平均得分總和為何？（請根據圖片提供的數據進行選擇）", "answer": "C", "choice": ["8.4", "8.3", "8.2", "8.0"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的數據，所有保險類型的滿意及非常滿意比例相加的總和是多少？", "answer": "C", "choice": ["270%", "250%", "260%", "220%"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的流程清晰度和文件提交指引的滿意度比例，總和是多少？", "answer": "C", "choice": ["145%", "130%", "136%", "125%"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖片中銀髮族專屬保險產品和數位生活方式結合產品的受訪者比例，這兩者的總受訪者比例是多少？", "answer": "C", "choice": ["44%", "46%", "45%", "30%"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據以下情境，個性化服務佔25%，改善溝通方式佔多少比例，兩者總和是多少？請參考圖片內的數據進行選擇。", "answer": "C", "choice": ["40%", "60%", "25%", "30%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下列數據，面對面服務和數位化服務的平均得分總和為何？（請根據圖片提供的數據進行選擇）", "answer": "A", "choice": ["8.2", "8.0", "8.4", "8.3"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的數據，所有保險類型的滿意及非常滿意比例相加的總和是多少？", "answer": "C", "choice": ["220%", "250%", "260%", "270%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的流程清晰度和文件提交指引的滿意度比例，總和是多少？", "answer": "B", "choice": ["125%", "136%", "130%", "145%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖片中銀髮族專屬保險產品和數位生活方式結合產品的受訪者比例，這兩者的總受訪者比例是多少？", "answer": "D", "choice": ["46%", "30%", "44%", "45%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據以下情境，個性化服務佔25%，改善溝通方式佔多少比例，兩者總和是多少？請參考圖片內的數據進行選擇。", "answer": "D", "choice": ["30%", "40%", "60%", "25%"]}
 {"category": "Open", "question_type": "Aggregation", "question": "根據表5的資料，當前所有項目的滿意度比例總和是多少，且其平均滿意度比例是多少？", "answer": "滿意度比例總和是176%，平均滿意度比例是58.67%"}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表1的資料，如果數位化服務的滿意度百分比在未來兩年內每年增長3%，則兩年後的滿意度百分比可能是多少？", "answer": "D", "choice": ["78.50%", "75.00%", "72.80%", "74.41%"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表6，假設數位生活方式結合產品的總受訪者比例每年減少1%，在5年後的總受訪者比例將會是以下哪一個選項？", "answer": "A", "choice": ["15%", "12%", "9%", "25%"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的表5資料，目前所有項目的滿意度比例總和和平均滿意度比例分別是？", "answer": "D", "choice": ["滿意度比例總和是165%，平均滿意度比例是52%", "滿意度比例總和是170%，平均滿意度比例是55%", "滿意度比例總和是178%，平均滿意度比例是59%", "滿意度比例總和是176%，平均滿意度比例是58.67%"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表4，如果未來一年常規保險賠付的處理時間偏長比例增加一倍，對於這個保險類型與重大醫療保險的處理時間偏長比例的比較，下列哪一選項是正確的？", "answer": "D", "choice": ["如果常規保險賠付的處理時間偏長比例增加到15%，將低於重大醫療保險的25%。", "常規保險賠付的處理時間偏長比例增加一倍後，將達到30%, 依然低於重大醫療保險的25%。", "即使常規保險賠付的處理時間偏長比例增加到20%，依然等於重大醫療保險的20%。", "即使常規保險賠付的處理時間偏長比例增加到10%，仍然低於重大醫療保險的25%."]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據表2的資料，以下哪一項目在滿意度和需求改進的總和上達到了最高的85%？", "answer": "A", "choice": ["每個項目的滿意度和需求改進的總和都是85%", "指定某個項目的滿意度和需求改進的總和正好是85%", "滿意度的最高平均值是80%，而需求改進的總和為75%", "所有項目的滿意度依然低於需求改進的總和85%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表1的資料，如果數位化服務的滿意度百分比在未來兩年內每年增長3%，則兩年後的滿意度百分比可能是多少？", "answer": "D", "choice": ["78.50%", "72.80%", "75.00%", "74.41%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表6，假設數位生活方式結合產品的總受訪者比例每年減少1%，在5年後的總受訪者比例將會是以下哪一個選項？", "answer": "C", "choice": ["12%", "25%", "15%", "9%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的表5資料，目前所有項目的滿意度比例總和和平均滿意度比例分別是？", "answer": "A", "choice": ["滿意度比例總和是176%，平均滿意度比例是58.67%", "滿意度比例總和是178%，平均滿意度比例是59%", "滿意度比例總和是170%，平均滿意度比例是55%", "滿意度比例總和是165%，平均滿意度比例是52%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表4，如果未來一年常規保險賠付的處理時間偏長比例增加一倍，對於這個保險類型與重大醫療保險的處理時間偏長比例的比較，下列哪一選項是正確的？", "answer": "A", "choice": ["即使常規保險賠付的處理時間偏長比例增加到10%，仍然低於重大醫療保險的25%.", "常規保險賠付的處理時間偏長比例增加一倍後，將達到30%, 依然低於重大醫療保險的25%。", "如果常規保險賠付的處理時間偏長比例增加到15%，將低於重大醫療保險的25%。", "即使常規保險賠付的處理時間偏長比例增加到20%，依然等於重大醫療保險的20%。"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表2的資料，以下哪一項目在滿意度和需求改進的總和上達到了最高的85%？", "answer": "B", "choice": ["滿意度的最高平均值是80%，而需求改進的總和為75%", "每個項目的滿意度和需求改進的總和都是85%", "指定某個項目的滿意度和需求改進的總和正好是85%", "所有項目的滿意度依然低於需求改進的總和85%"]}
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，面對面服務的平均得分與數位化服務的平均得分之和為8.2。", "answer": "是", "question_group": 1165}
 
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，面對面服務的平均得分與數位化服務的平均得分之和為7.5。", "answer": "否", "question_group": 1165}

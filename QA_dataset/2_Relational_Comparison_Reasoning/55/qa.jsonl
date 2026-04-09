@@ -6,22 +6,22 @@
 {"category": "Open", "question_type": "Comparison", "question": "參加永續交流會供應商家數與人權盡職調查新進供應商涵蓋率之間，哪一個數字更高？", "answer": "參加永續交流會供應商家數120比人權盡職調查新進供應商涵蓋率100更高。"}
 {"category": "Open", "question_type": "Comparison", "question": "參與人次和意見與建議數哪一個數值更大？", "answer": "參與人次更大"}
 {"category": "Open", "question_type": "Comparison", "question": "2023年植樹數比受益家庭數多多少？", "answer": "2023年植樹數比受益家庭數多200。"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，基準年與2023年相比，哪一年的綠色債券承銷金額更高？", "answer": "D", "choice": ["基準年和2023年的綠色債券承銷金額相同", "2023年的綠色債券承銷金額較基準年低", "2022年的綠色債券承銷金額高於基準年", "2023年"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2022年與2023年的數據，員工平均訓練時數和滿意度的變化是什麼？", "answer": "C", "choice": ["員工平均訓練時數減少了1小時，員工滿意度下降了1個百分比。", "員工平均訓練時數增加了5小時，員工滿意度提高了2個百分比。", "員工平均訓練時數增加了2小時，員工滿意度提高了2個百分比。", "員工平均訓練時數保持不變，員工滿意度提高了1個百分比。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年與2022年的碳排量變化，以下哪一項是正確的？", "answer": "C", "choice": ["碳排量在2022年上升的幅度並未在2023年補回。", "2023年的減少碳排量不及2022年增加的0.5倍。", "2023年的減少碳排量沒有比2022年增加一倍以上。", "在2023年，碳排量減少的比例無法與2022年增長的水平持平。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的數據，2023年的永續債券承銷金額與2022年相比增加了多少？（請參考圖片中的相關數據）", "answer": "C", "choice": ["8", "14", "12", "16"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2022年和2023年的數據，以下哪一年綠色信用卡參與人數的增長幅度更大？", "answer": "C", "choice": ["2023年綠色信用卡參與人數的增長幅度是50%。", "2022年和2023年的增長幅度相同，2023年的增長幅度是25%。", "2023年綠色信用卡參與人數的增長幅度更大，增長幅度是33.33%。", "2022年綠色信用卡參與人數的增長幅度是40%，2023年是20%。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的資料，參加永續交流會供應商家數與人權盡職調查新進供應商涵蓋率之間，哪一個數字更高？", "answer": "D", "choice": ["人權盡職調查新進供應商涵蓋率為70", "人權盡職調查新進供應商涵蓋率為110", "參加永續交流會供應商家數為90", "參加永續交流會供應商家數為120"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片所示的數據，職場多元共融和性別平等的數值之和是否超過了人權保障和勞動權益保障的數值之和？", "answer": "C", "choice": ["整體趨勢顯示沒有超過", "否，因為數據顯示人權和勞動權益保障的數值相對較高", "是", "性別平等的數值較低於職場多元共融"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，2023年植樹數相較於受益家庭數的差異為多少？", "answer": "D", "choice": ["植樹數比受益家庭數多100", "植樹數比受益家庭數持平", "受益家庭數比植樹數多100", "植樹數比受益家庭數多200"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，基準年與2023年相比，哪一年的綠色債券承銷金額更高？", "answer": "B", "choice": ["2022年的綠色債券承銷金額高於基準年", "2023年", "基準年和2023年的綠色債券承銷金額相同", "2023年的綠色債券承銷金額較基準年低"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2022年與2023年的數據，員工平均訓練時數和滿意度的變化是什麼？", "answer": "C", "choice": ["員工平均訓練時數保持不變，員工滿意度提高了1個百分比。", "員工平均訓練時數增加了5小時，員工滿意度提高了2個百分比。", "員工平均訓練時數增加了2小時，員工滿意度提高了2個百分比。", "員工平均訓練時數減少了1小時，員工滿意度下降了1個百分比。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年與2022年的碳排量變化，以下哪一項是正確的？", "answer": "A", "choice": ["2023年的減少碳排量沒有比2022年增加一倍以上。", "在2023年，碳排量減少的比例無法與2022年增長的水平持平。", "2023年的減少碳排量不及2022年增加的0.5倍。", "碳排量在2022年上升的幅度並未在2023年補回。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的數據，2023年的永續債券承銷金額與2022年相比增加了多少？（請參考圖片中的相關數據）", "answer": "A", "choice": ["12", "8", "16", "14"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2022年和2023年的數據，以下哪一年綠色信用卡參與人數的增長幅度更大？", "answer": "C", "choice": ["2022年和2023年的增長幅度相同，2023年的增長幅度是25%。", "2023年綠色信用卡參與人數的增長幅度是50%。", "2023年綠色信用卡參與人數的增長幅度更大，增長幅度是33.33%。", "2022年綠色信用卡參與人數的增長幅度是40%，2023年是20%。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的資料，參加永續交流會供應商家數與人權盡職調查新進供應商涵蓋率之間，哪一個數字更高？", "answer": "D", "choice": ["人權盡職調查新進供應商涵蓋率為110", "參加永續交流會供應商家數為90", "人權盡職調查新進供應商涵蓋率為70", "參加永續交流會供應商家數為120"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片所示的數據，職場多元共融和性別平等的數值之和是否超過了人權保障和勞動權益保障的數值之和？", "answer": "A", "choice": ["是", "否，因為數據顯示人權和勞動權益保障的數值相對較高", "性別平等的數值較低於職場多元共融", "整體趨勢顯示沒有超過"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，2023年植樹數相較於受益家庭數的差異為多少？", "answer": "C", "choice": ["植樹數比受益家庭數多100", "植樹數比受益家庭數持平", "植樹數比受益家庭數多200", "受益家庭數比植樹數多100"]}
 {"category": "Open", "question_type": "Difference Calculation", "question": "最左邊的員工類型和最右邊的員工類型修課完成率差多少？", "answer": "1%"}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖表中展示的不同員工類型，最左邊的員工類型和最右邊的員工類型修課完成率差多少？", "answer": "C", "choice": ["3%", "5%", "1%", "7%"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖表中展示的不同員工類型，最左邊的員工類型和最右邊的員工類型修課完成率差多少？", "answer": "D", "choice": ["7%", "5%", "3%", "1%"]}
 {"category": "Open", "question_type": "Comparison", "question": "根據表4的資料，從2021年到2025年，綠電採購量和再生能源占比同時達到最大增長的年度是哪一年？", "answer": "2022年"}
 {"category": "Open", "question_type": "Comparison", "question": "根據表9的資料，哪一項的數值介於心理健康與性別平等之間？", "answer": "勞動權益保障"}
 {"category": "Open", "question_type": "Comparison", "question": "根據表11的資料，如果簽署永續承諾供應商比例增加5%，而客戶滿意度不變，哪一個的數值將更高？", "answer": "簽署永續承諾供應商比例將更高，為98%。"}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據提供的圖3，員工類型修課完成率的最高與最低差距是以下哪一項？", "answer": "A", "choice": ["2%", "3.5%", "5%", "0%"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據表6的資料，2023年綠色信用卡參與人數相比於2022年，增長的百分比是多少？", "answer": "B", "choice": ["35%", "33.33%", "25%", "30%"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據表2的資料，從2022年到2023年，以下哪一項的變化比例更大？", "answer": "A", "choice": ["社會公益捐贈金額的變化比例", "企業營業額的變化比例", "國內生產總值（GDP）的變化比例", "政府支出的變化比例"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據提供的圖3，員工類型修課完成率的最高與最低差距是以下哪一項？", "answer": "C", "choice": ["3.5%", "5%", "2%", "0%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表6的資料，2023年綠色信用卡參與人數相比於2022年，增長的百分比是多少？", "answer": "B", "choice": ["35%", "33.33%", "30%", "25%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表2的資料，從2022年到2023年，以下哪一項的變化比例更大？", "answer": "D", "choice": ["國內生產總值（GDP）的變化比例", "企業營業額的變化比例", "政府支出的變化比例", "社會公益捐贈金額的變化比例"]}
 {"category": "YesNo", "question_type": "Comparison", "question": "根據圖2，數值最低的項目是140。", "answer": "是", "question_group": 490}
 
 {"category": "YesNo", "question_type": "Comparison", "question": "根據圖2，數值最低的項目是210。", "answer": "否", "question_group": 490}

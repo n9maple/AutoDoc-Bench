@@ -3,16 +3,16 @@
 {"category": "Open", "question_type": "Comparison", "question": "相比於玫瑰Giving卡，@GoGo卡的申辦通過率高出多少百分點？", "answer": "3"}
 {"category": "Open", "question_type": "Comparison", "question": "2023年的預借現金年利率與最高循環利率相比，哪一個更高？", "answer": "2023年的預借現金年利率與最高循環利率相等，都是15。"}
 {"category": "Open", "question_type": "Comparison", "question": "相比消費爭議案件總數，2023 年的申訴及諮詢案件總數多了多少宗？", "answer": "11900"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的數據，以下哪一類證明的百分比為最低？", "answer": "C", "choice": ["個人所得稅繳納證明", "房屋所有權證明", "營利事業登記證和其他合法收入證明", "社會保險證明"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "在以下兩種情況中，哪一種的比例較高？(1) 文件不全或資料錯誤延誤/退件比例 (2) 線上申請因聯絡資料不全需補件比例", "answer": "D", "choice": ["文件不全或資料錯誤的延誤比例為25%", "文件不全或資料錯誤導致的延誤比例在不同情況下可高達50%", "線上申請中因聯絡資料不全導致的補件比例為40%", "線上申請因聯絡資料不全需補件比例"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "相比於玫瑰Giving卡，@GoGo卡的申辦通過率高出多少百分點？請根據下圖中的數據選擇正確答案。", "answer": "C", "choice": ["1", "6", "3", "0"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的資料，預借現金年利率與最高循環利率相比，哪一項更高？", "answer": "C", "choice": ["預借現金年利率低於最高循環利率，為16%", "預借現金年利率比最高循環利率高，為19%", "預借現金年利率與最高循環利率相等，都是15%", "最高循環利率高於預借現金年利率，為14%"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的資料，申訴及諮詢案件總數相比消費爭議案件總數多出了多少宗？請參考相關數據圖表進行比較。", "answer": "C", "choice": ["11500", "11800", "11900", "12200"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的數據，聯徵通報人數與信用評分受影響人數的差異是？(請根據下圖數據作答)", "answer": "C", "choice": ["7900", "5200", "6500", "7100"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的數據，以下哪一類證明的百分比為最低？", "answer": "D", "choice": ["個人所得稅繳納證明", "社會保險證明", "房屋所有權證明", "營利事業登記證和其他合法收入證明"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在以下兩種情況中，哪一種的比例較高？(1) 文件不全或資料錯誤延誤/退件比例 (2) 線上申請因聯絡資料不全需補件比例", "answer": "C", "choice": ["文件不全或資料錯誤的延誤比例為25%", "線上申請中因聯絡資料不全導致的補件比例為40%", "線上申請因聯絡資料不全需補件比例", "文件不全或資料錯誤導致的延誤比例在不同情況下可高達50%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "相比於玫瑰Giving卡，@GoGo卡的申辦通過率高出多少百分點？請根據下圖中的數據選擇正確答案。", "answer": "C", "choice": ["1", "0", "3", "6"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的資料，預借現金年利率與最高循環利率相比，哪一項更高？", "answer": "A", "choice": ["預借現金年利率與最高循環利率相等，都是15%", "預借現金年利率比最高循環利率高，為19%", "預借現金年利率低於最高循環利率，為16%", "最高循環利率高於預借現金年利率，為14%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的資料，申訴及諮詢案件總數相比消費爭議案件總數多出了多少宗？請參考相關數據圖表進行比較。", "answer": "C", "choice": ["12200", "11500", "11900", "11800"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的數據，聯徵通報人數與信用評分受影響人數的差異是？(請根據下圖數據作答)", "answer": "D", "choice": ["7900", "7100", "5200", "6500"]}
 {"category": "Open", "question_type": "Difference Calculation", "question": "最右邊的審核階段相較於其他階段，其不通過件數多出多少？", "answer": "最右邊的審核階段相較於其他階段，其不通過件數多出1。"}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據提供的圖片，最右邊的審核階段其不通過件數相較於其他階段多出多少？", "answer": "C", "choice": ["4", "5", "1", "1.5"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖1的資料，以下哪一個審核階段的不通過件數最少？", "answer": "D", "choice": ["審核階段 2 的不通過件數明顯多於階段 1", "審核階段 4 的不通過件數比階段 1 多，但也比階段 2 少", "審核階段 3 的不通過件數跟階段 1 相近，但略高於階段 1", "審核階段 1 的不通過件數最少"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據表8的資料，聯徵通報人數與信用評分受影響人數的比較中，聯徵通報人數多出了多少百分比？", "answer": "B", "choice": ["18.50%", "11.11%", "10.75%", "14.00%"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據提供的圖片，最右邊的審核階段其不通過件數相較於其他階段多出多少？", "answer": "A", "choice": ["1", "4", "5", "1.5"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖1的資料，以下哪一個審核階段的不通過件數最少？", "answer": "D", "choice": ["審核階段 4 的不通過件數比階段 1 多，但也比階段 2 少", "審核階段 2 的不通過件數明顯多於階段 1", "審核階段 3 的不通過件數跟階段 1 相近，但略高於階段 1", "審核階段 1 的不通過件數最少"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表8的資料，聯徵通報人數與信用評分受影響人數的比較中，聯徵通報人數多出了多少百分比？", "answer": "A", "choice": ["11.11%", "14.00%", "18.50%", "10.75%"]}
 {"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖1，最右邊的審核階段其不通過件數比其他階段多出1件。", "answer": "是", "question_group": 400}
 
 {"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖1，最右邊的審核階段其不通過件數比其他階段少1件。", "answer": "否", "question_group": 400}

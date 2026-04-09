@@ -4,12 +4,12 @@
 {"category": "Open", "question_type": "Comparison", "question": "2024年的人才供應比2023年多了多少？", "answer": "2024年的人才供應比2023年多了3000。"}
 {"category": "Open", "question_type": "Comparison", "question": "2024年的AI技術整合比例與2023年相比，有多少百分比的增長？", "answer": "16.67%"}
 {"category": "Open", "question_type": "Comparison", "question": "2026年的外資投入增長百分比比2023年多多少百分比？", "answer": "2026年的外資投入增長百分比比2023年多5%"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖表，市場規模在2022年相比2021年增加了多少百分比？", "answer": "C", "choice": ["10%", "30%", "18.18%", "15%"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖表，客戶服務的信用評估準確性相對於風險管理高出多少百分點？", "answer": "C", "choice": ["6", "4", "5", "7"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "在下列三個系統中，哪一個系統在客戶滿意度提升方面表現最佳？（請參考附圖）", "answer": "C", "choice": ["混合客服系統", "人工客服系統", "AI客服系統", "自動回應系統"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，2024年的人才供應相較於2023年增加了多少？", "answer": "C", "choice": ["增加了4000", "增加了2000", "3000", "增長了15%"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據一項研究，2024年AI技術整合比例相比於2023年預期將增長多少百分比？", "answer": "C", "choice": ["12.5%", "18%", "16.67%", "14%"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2026年與2023年的外資投入增長百分比比較，以下哪個選項最接近2026年外資投入增長比2023年多的百分比？", "answer": "C", "choice": ["6%", "4%", "5%", "9%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖表，市場規模在2022年相比2021年增加了多少百分比？", "answer": "D", "choice": ["10%", "15%", "30%", "18.18%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖表，客戶服務的信用評估準確性相對於風險管理高出多少百分點？", "answer": "C", "choice": ["7", "4", "5", "6"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在下列三個系統中，哪一個系統在客戶滿意度提升方面表現最佳？（請參考附圖）", "answer": "B", "choice": ["人工客服系統", "AI客服系統", "混合客服系統", "自動回應系統"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，2024年的人才供應相較於2023年增加了多少？", "answer": "A", "choice": ["3000", "增加了2000", "增加了4000", "增長了15%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據一項研究，2024年AI技術整合比例相比於2023年預期將增長多少百分比？", "answer": "A", "choice": ["16.67%", "14%", "12.5%", "18%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2026年與2023年的外資投入增長百分比比較，以下哪個選項最接近2026年外資投入增長比2023年多的百分比？", "answer": "A", "choice": ["5%", "9%", "4%", "6%"]}
 {"category": "Open", "question_type": "Comparison", "question": "在圖2中，從2021年至2022年，行動支付用戶數量(百萬人)和占總人口比例(%)的增長率，哪一個更大？", "answer": "行動支付用戶數量(百萬人)和占總人口比例(%)的增長率相同，都是26.67%。"}
 {"category": "YesNo", "question_type": "Comparison", "question": "根據表7，2026年的外資投入增長百分比比2023年多5%。", "answer": "是", "question_group": 397}
 

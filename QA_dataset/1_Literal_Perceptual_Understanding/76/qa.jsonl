@@ -2,19 +2,19 @@
 {"category": "Open", "question_type": "Fact Lookup", "question": "從表格中可以查到哪種類別的專案/政策性貸款最低利率是小於2%的？", "answer": "傳統製造業和創新/技術型企業"}
 {"category": "Open", "question_type": "Fact Lookup", "question": "如果我想選擇創新型/技術型專案貸款利率最便宜的銀行，應該選擇哪一間銀行？", "answer": "玉山銀行, 台新銀行, 永豐銀行的最低利率均為1.90%"}
 {"category": "MCQ", "question_type": "Fact Lookup", "question": "根據提供的利率資訊，以下哪些銀行的專案最低利率小於2.0%?", "answer": "C", "choice": ["彰化銀行、第一銀行、南洋銀行", "華南銀行、合庫銀行、第一銀行", "玉山銀行、台新銀行、永豐銀行", "富邦銀行、標準銀行、環球銀行"]}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據下表，哪一類別的專案/政策性貸款的最低利率低於2%？", "answer": "D", "choice": ["新創企業和初創型項目", "服務業及商業類型貸款", "高階科技及研發型企業", "傳統製造業和創新/技術型企業"]}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "在選擇創新型/技術型專案貸款時，以下哪家銀行的最低利率為1.90%？", "answer": "C", "choice": ["中國信託銀行", "第一金融銀行", "玉山銀行、台新銀行、永豐銀行", "聯邦銀行"]}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "在考慮申請一個額度為4000的貸款時，請根據下方數據回答：信用貸款的最低優惠利率及擔保貸款的最低優惠利率分別為？", "answer": "C", "choice": ["信用貸款的最低優惠利率是2.2%，擔保貸款的最低優惠利率是2.0%。", "信用貸款的最低優惠利率是2.0%，擔保貸款的最低優惠利率是1.5%。", "信用貸款的最低優惠利率是2.1%，擔保貸款的最低優惠利率是1.8%。", "信用貸款的最低優惠利率是2.5%，擔保貸款的最低優惠利率是1.7%。"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據下表，哪一類別的專案/政策性貸款的最低利率低於2%？", "answer": "A", "choice": ["傳統製造業和創新/技術型企業", "新創企業和初創型項目", "高階科技及研發型企業", "服務業及商業類型貸款"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "在選擇創新型/技術型專案貸款時，以下哪家銀行的最低利率為1.90%？", "answer": "D", "choice": ["中國信託銀行", "聯邦銀行", "第一金融銀行", "玉山銀行、台新銀行、永豐銀行"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "在考慮申請一個額度為4000的貸款時，請根據下方數據回答：信用貸款的最低優惠利率及擔保貸款的最低優惠利率分別為？", "answer": "D", "choice": ["信用貸款的最低優惠利率是2.5%，擔保貸款的最低優惠利率是1.7%。", "信用貸款的最低優惠利率是2.2%，擔保貸款的最低優惠利率是2.0%。", "信用貸款的最低優惠利率是2.0%，擔保貸款的最低優惠利率是1.5%。", "信用貸款的最低優惠利率是2.1%，擔保貸款的最低優惠利率是1.8%。"]}
 {"category": "Open", "question_type": "Peak/Valley", "question": "在提供的數據中，哪個期間的平均年利率最高？", "answer": "2024年上半年"}
 {"category": "Open", "question_type": "Proportion", "question": "在2024年台灣中小企業貸款核准時程延誤的主因中，'其他原因'占了百分之多少？", "answer": "68.0%"}
 {"category": "Open", "question_type": "Fact Lookup", "question": "在2024年台灣中小企業貸款核准時程延誤的主因中，除了'其他原因'之外，還有什麼因素？", "answer": "不完整或遲未補交文件"}
 {"category": "Open", "question_type": "Proportion", "question": "在2024年貸款糾紛案件成因中，其他爭議的比例是多少？", "answer": "64.0%"}
-{"category": "MCQ", "question_type": "Peak/Valley", "question": "根據提供的數據，以下哪個期間的平均年利率最高？", "answer": "C", "choice": ["2024年全年", "2024年下半年", "2024年上半年", "2023年下半年"]}
-{"category": "MCQ", "question_type": "Proportion", "question": "在2024年台灣中小企業貸款核准時程延誤的主要原因中，根據所述圖片，'其他原因'占了以下哪一個比例？", "answer": "C", "choice": ["67.5%", "69.0%", "68.0%", "73.0%"]}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "在2024年台灣中小企業貸款核准時程延誤的主因中，除了'其他原因'之外，下列哪一項因素可能導致延誤？", "answer": "C", "choice": ["缺乏相關貸款經驗的申請者", "銀行與客戶之間的溝通不暢", "不完整或遲未補交文件", "從業人員缺乏專業訓練"]}
-{"category": "MCQ", "question_type": "Proportion", "question": "根據2024年貸款糾紛案件的統計資料，其他爭議的比例可能是多少？請根據圖片內容選擇最接近的數值。", "answer": "C", "choice": ["48.0%", "50.5%", "64.0%", "75.0%"]}
+{"category": "MCQ", "question_type": "Peak/Valley", "question": "根據提供的數據，以下哪個期間的平均年利率最高？", "answer": "B", "choice": ["2024年全年", "2024年上半年", "2024年下半年", "2023年下半年"]}
+{"category": "MCQ", "question_type": "Proportion", "question": "在2024年台灣中小企業貸款核准時程延誤的主要原因中，根據所述圖片，'其他原因'占了以下哪一個比例？", "answer": "B", "choice": ["73.0%", "68.0%", "69.0%", "67.5%"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "在2024年台灣中小企業貸款核准時程延誤的主因中，除了'其他原因'之外，下列哪一項因素可能導致延誤？", "answer": "D", "choice": ["缺乏相關貸款經驗的申請者", "銀行與客戶之間的溝通不暢", "從業人員缺乏專業訓練", "不完整或遲未補交文件"]}
+{"category": "MCQ", "question_type": "Proportion", "question": "根據2024年貸款糾紛案件的統計資料，其他爭議的比例可能是多少？請根據圖片內容選擇最接近的數值。", "answer": "B", "choice": ["48.0%", "64.0%", "75.0%", "50.5%"]}
 {"category": "Open", "question_type": "Fact Lookup", "question": "在圖3中，對利率影響的強度評估為5的因素有幾個？", "answer": "2"}
-{"category": "MCQ", "question_type": "Proportion", "question": "根據圖6，以下哪一項最接近手續費爭議的比例？", "answer": "C", "choice": ["16.0%", "17.5%", "18.0%", "19.0%"]}
+{"category": "MCQ", "question_type": "Proportion", "question": "根據圖6，以下哪一項最接近手續費爭議的比例？", "answer": "C", "choice": ["19.0%", "17.5%", "18.0%", "16.0%"]}
 {"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表6，玉山銀行、台新銀行和永豐銀行的最低利率為1.90%。", "answer": "是", "question_group": 209}
 
 {"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表6，只有一家銀行的最低利率為1.90%。", "answer": "否", "question_group": 209}

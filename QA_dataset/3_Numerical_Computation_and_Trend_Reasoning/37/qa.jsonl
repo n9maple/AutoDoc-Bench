@@ -1,11 +1,11 @@
 {"category": "Open", "question_type": "Aggregation", "question": "全年申請件數超過40萬件，若線上申請比例為65%，那麼線上申請的件數約是多少？", "answer": "約260,000件"}
 {"category": "Open", "question_type": "Aggregation", "question": "2023年的所得稅扣繳憑單和報稅憑證的總和是多少百分比？", "answer": "3.4%"}
 {"category": "Open", "question_type": "Aggregation", "question": "平均每張玫瑰Giving卡和FlyGo卡的平均月消費金額各是多少？", "answer": "玫瑰Giving卡每張卡的平均月消費金額約為169.35，FlyGo卡每張卡的平均月消費金額約為375.00。"}
-{"category": "MCQ", "question_type": "Aggregation", "question": "全年申請件數超過40萬件，若線上申請比例為65%，請根據下列選項選出線上申請的件數約是多少？", "answer": "C", "choice": ["約240,000件", "約80,000件", "約260,000件", "約450,000件"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年的所得稅計算，所得稅扣繳憑單和報稅憑證的總和可能是以下哪一個百分比？請參考相關資料做出選擇。", "answer": "C", "choice": ["4.5%", "3.7%", "3.4%", "4.0%"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，玫瑰Giving卡和FlyGo卡的平均月消費金額各是多少？", "answer": "C", "choice": ["玫瑰Giving卡每張卡的平均月消費金額約為170.00，FlyGo卡每張卡的平均月消費金額約為370.00。", "玫瑰Giving卡每張卡的平均月消費金額約為169.00，FlyGo卡每張卡的平均月消費金額約為365.00。", "玫瑰Giving卡每張卡的平均月消費金額約為169.35，FlyGo卡每張卡的平均月消費金額約為375.00。", "玫瑰Giving卡每張卡的平均月消費金額約為168.50，FlyGo卡每張卡的平均月消費金額約為380.00。"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "全年申請件數超過40萬件，若線上申請比例為65%，請根據下列選項選出線上申請的件數約是多少？", "answer": "C", "choice": ["約80,000件", "約450,000件", "約260,000件", "約240,000件"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年的所得稅計算，所得稅扣繳憑單和報稅憑證的總和可能是以下哪一個百分比？請參考相關資料做出選擇。", "answer": "B", "choice": ["4.5%", "3.4%", "3.7%", "4.0%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，玫瑰Giving卡和FlyGo卡的平均月消費金額各是多少？", "answer": "C", "choice": ["玫瑰Giving卡每張卡的平均月消費金額約為170.00，FlyGo卡每張卡的平均月消費金額約為370.00。", "玫瑰Giving卡每張卡的平均月消費金額約為168.50，FlyGo卡每張卡的平均月消費金額約為380.00。", "玫瑰Giving卡每張卡的平均月消費金額約為169.35，FlyGo卡每張卡的平均月消費金額約為375.00。", "玫瑰Giving卡每張卡的平均月消費金額約為169.00，FlyGo卡每張卡的平均月消費金額約為365.00。"]}
 {"category": "Open", "question_type": "Aggregation", "question": "所有審核階段的不通過件數總和是多少？", "answer": "1"}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據下列審核階段的結果，所有不通過件數的總和是多少？（參見圖片）", "answer": "C", "choice": ["3", "4", "1", "6"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下列審核階段的結果，所有不通過件數的總和是多少？（參見圖片）", "answer": "A", "choice": ["1", "6", "3", "4"]}
 {"category": "Open", "question_type": "Aggregation", "question": "在圖1中，所有審核階段的不通過件數總和是多少？", "answer": "1"}
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，全年申請件數超過40萬件，若線上申請比例為65%，則線上申請的件數約為260,000件。", "answer": "是", "question_group": 898}
 

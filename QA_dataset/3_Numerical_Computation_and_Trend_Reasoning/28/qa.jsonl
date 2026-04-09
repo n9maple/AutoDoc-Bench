@@ -2,13 +2,13 @@
 {"category": "Open", "question_type": "Aggregation", "question": "2024年和2025年，三種類型的貸款和債券總額加起來是多少？", "answer": "2024年的總額是600億元；2025年的總額是820億元。"}
 {"category": "Open", "question_type": "Aggregation", "question": "2025年各種清潔能源的總收入是多少億元？", "answer": "2025年各種清潔能源的總收入是200億元。"}
 {"category": "Open", "question_type": "Temporal Reasoning", "question": "如果多元文化日活動從2025年開始，每年舉辦次數增加1次，那麼到2027年將會舉辦多少次活動？", "answer": "3次"}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據圖片，2024年到2025年綠色貸款的預期增長額度為何？", "answer": "C", "choice": ["150億元", "130億元", "143億元", "155億元"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據以下情境，2024年和2025年，三種類型的貸款和債券總額加起來是多少？情境數據顯示，2024年總額為600億元，2025年總額為820億元。請選擇正確的總額：", "answer": "C", "choice": ["2024年為610億元，2025年為830億元", "2024年為590億元，2025年為810億元", "2024年為600億元，2025年為820億元", "2024年為600億元，2025年為700億元"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖片中顯示的2025年各種清潔能源的收入情況，哪一項描述正確？", "answer": "C", "choice": ["2025年各種清潔能源的總收入是150億元。", "2025年風能的收入占清潔能源總收入的50%。", "2025年各種清潔能源的總收入是200億元。", "2025年太陽能的收入高於風能的收入。"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2025年開始的多元文化日活動，若每年舉辦次數增加1次，請根據以下情境回應，2027年將會舉辦多少次活動？", "answer": "C", "choice": ["5次", "7次", "3次", "1次"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據圖片，2024年到2025年綠色貸款的預期增長額度為何？", "answer": "A", "choice": ["143億元", "155億元", "150億元", "130億元"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據以下情境，2024年和2025年，三種類型的貸款和債券總額加起來是多少？情境數據顯示，2024年總額為600億元，2025年總額為820億元。請選擇正確的總額：", "answer": "D", "choice": ["2024年為610億元，2025年為830億元", "2024年為600億元，2025年為700億元", "2024年為590億元，2025年為810億元", "2024年為600億元，2025年為820億元"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖片中顯示的2025年各種清潔能源的收入情況，哪一項描述正確？", "answer": "C", "choice": ["2025年各種清潔能源的總收入是150億元。", "2025年太陽能的收入高於風能的收入。", "2025年各種清潔能源的總收入是200億元。", "2025年風能的收入占清潔能源總收入的50%。"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2025年開始的多元文化日活動，若每年舉辦次數增加1次，請根據以下情境回應，2027年將會舉辦多少次活動？", "answer": "A", "choice": ["3次", "5次", "1次", "7次"]}
 {"category": "Open", "question_type": "Aggregation", "question": "根據表2的資料，2025年三種清潔能源的總發電收入是多少億元？", "answer": "2025年三種清潔能源的總發電收入為200億元"}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖2的資料，以下哪一項代表兩個目標的比例總和？", "answer": "A", "choice": ["100%", "50%", "300%", "180%"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖1，所有目標的數值總和是多少？以下選項中哪一個是正確的？", "answer": "A", "choice": ["100095", "100150", "100000", "99950"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖2的資料，以下哪一項代表兩個目標的比例總和？", "answer": "B", "choice": ["50%", "100%", "180%", "300%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖1，所有目標的數值總和是多少？以下選項中哪一個是正確的？", "answer": "D", "choice": ["100150", "99950", "100000", "100095"]}
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，2024年三種類型的貸款和債券總額為600億元。", "answer": "是", "question_group": 865}
 
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，2025年三種類型的貸款和債券總額為700億元。", "answer": "否", "question_group": 865}

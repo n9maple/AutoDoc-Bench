@@ -4,31 +4,31 @@
 {"category": "Open", "question_type": "Comparison", "question": "2025 年的重大理賠案件數相比 2024 年增加了多少件？", "answer": "2025 年的重大理賠案件數相比 2024 年增加了 4 件。"}
 {"category": "Open", "question_type": "Comparison", "question": "2025年數位理賠平均時效與整體理賠平均時效的差距是多少？", "answer": "0.3"}
 {"category": "Open", "question_type": "Comparison", "question": "2024 年的成功攔阻詐欺案件數是否超過該年的高額理賠案件數？", "answer": "2024 年的成功攔阻詐欺案件數超過該年的高額理賠案件數。"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，2024年醫療險的百分比是否高於2025年傷害險的百分比？", "answer": "C", "choice": ["不，根據數據，2024年醫療險的百分比比2025年傷害險的百分比相等，無法高於該百分比。", "是，依據2025年傷害險的低於2024年醫療險的數據結果顯示醫療險較高。", "是，2024年醫療險的百分比比2025年傷害險的百分比高。", "不，2024年醫療險的百分比雖不一定高於2025年傷害險，實際上可能相對於後者有所降低。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，以下哪一年有較高的最終通過率？", "answer": "C", "choice": ["2021年，最終通過率為90.5%", "2024年，最終通過率為93.0%", "2025年，最終通過率為94.6%", "2022年，最終通過率為94.7%"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的數據，數位化申請的通過率相對於紙本申請的提高幅度是多少？", "answer": "C", "choice": ["數位化申請的通過率比紙本申請高4個百分比", "數位化申請的通過率比紙本申請高6個百分比", "數位化申請的通過率比紙本申請高2個百分比", "數位化申請的通過率比紙本申請高2.5個百分比"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片所示，2024 年的重大疾病險數值是否高於 2025 年的壽險數值？", "answer": "C", "choice": ["不，2024年的重大疾病險數值低於2025年的壽險數值。", "不是，2024年重大疾病險的數值低於2025年的壽險數值。", "是的，2024年重大疾病險的數值高於2025年的壽險數值。", "不是，2024年重大疾病險和2025年壽險的數值是不相關的。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據數位化理賠申請滿意度的數據，2024年和2025年中，哪一年滿意度較高，且提高了多少百分比？", "answer": "C", "choice": ["2024年滿意度較低，下降了3.5%", "2025年滿意度持平，沒有提升", "2025年滿意度較高，提升了2.2%", "2025年滿意度較高，提升了3.0%"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據以下數據，2025 年的重大理賠案件數相比 2024 年增加了多少件？\n\n(參考圖片中所示的數據)\n\nA) 2 件\nB) 4 件\nC) 6 件\nD) 10 件", "answer": "C", "choice": ["A) 3 件", "C) 5 件", "B) 4 件", "D) 8 件"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2025年的數據，數位理賠平均時效與整體理賠平均時效之間的差距為何？請參考以下圖表來回答問題。", "answer": "C", "choice": ["0.2", "0.5", "0.3", "0.35"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2024年的數據，成功攔阻的詐欺案件數相較於高額理賠案件數，哪一項正確？", "answer": "C", "choice": ["成功攔阻的詐欺案件數的增長率持平於高額理賠案件數的增長率。", "成功攔阻的詐欺案件數顯著低於高額理賠案件數。", "成功攔阻的詐欺案件數超過高額理賠案件數。", "成功攔阻的詐欺案件數僅比高額理賠案件數少5%。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，2024年醫療險的百分比是否高於2025年傷害險的百分比？", "answer": "A", "choice": ["是，2024年醫療險的百分比比2025年傷害險的百分比高。", "是，依據2025年傷害險的低於2024年醫療險的數據結果顯示醫療險較高。", "不，2024年醫療險的百分比雖不一定高於2025年傷害險，實際上可能相對於後者有所降低。", "不，根據數據，2024年醫療險的百分比比2025年傷害險的百分比相等，無法高於該百分比。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，以下哪一年有較高的最終通過率？", "answer": "A", "choice": ["2025年，最終通過率為94.6%", "2021年，最終通過率為90.5%", "2022年，最終通過率為94.7%", "2024年，最終通過率為93.0%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的數據，數位化申請的通過率相對於紙本申請的提高幅度是多少？", "answer": "C", "choice": ["數位化申請的通過率比紙本申請高6個百分比", "數位化申請的通過率比紙本申請高4個百分比", "數位化申請的通過率比紙本申請高2個百分比", "數位化申請的通過率比紙本申請高2.5個百分比"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片所示，2024 年的重大疾病險數值是否高於 2025 年的壽險數值？", "answer": "D", "choice": ["不是，2024年重大疾病險和2025年壽險的數值是不相關的。", "不，2024年的重大疾病險數值低於2025年的壽險數值。", "不是，2024年重大疾病險的數值低於2025年的壽險數值。", "是的，2024年重大疾病險的數值高於2025年的壽險數值。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據數位化理賠申請滿意度的數據，2024年和2025年中，哪一年滿意度較高，且提高了多少百分比？", "answer": "D", "choice": ["2025年滿意度持平，沒有提升", "2025年滿意度較高，提升了3.0%", "2024年滿意度較低，下降了3.5%", "2025年滿意度較高，提升了2.2%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據以下數據，2025 年的重大理賠案件數相比 2024 年增加了多少件？\n\n(參考圖片中所示的數據)\n\nA) 2 件\nB) 4 件\nC) 6 件\nD) 10 件", "answer": "A", "choice": ["B) 4 件", "A) 3 件", "D) 8 件", "C) 5 件"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2025年的數據，數位理賠平均時效與整體理賠平均時效之間的差距為何？請參考以下圖表來回答問題。", "answer": "A", "choice": ["0.3", "0.35", "0.2", "0.5"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2024年的數據，成功攔阻的詐欺案件數相較於高額理賠案件數，哪一項正確？", "answer": "B", "choice": ["成功攔阻的詐欺案件數的增長率持平於高額理賠案件數的增長率。", "成功攔阻的詐欺案件數超過高額理賠案件數。", "成功攔阻的詐欺案件數顯著低於高額理賠案件數。", "成功攔阻的詐欺案件數僅比高額理賠案件數少5%。"]}
 {"category": "Open", "question_type": "Comparison", "question": "哪一個險種的理賠金額是最高的？", "answer": "理賠金額為21.3億元的險種是最高的。"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "請計算理賠金額最高與最低的項目之間的差距是多少億元？", "answer": "780億元"}
 {"category": "Open", "question_type": "Comparison", "question": "受理案件數最低的險種是哪些？", "answer": "受理案件數最低的險種是3090"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "受理案件數最高與最低的差距是多少？", "answer": "95120"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "在2025年即時回饋對客戶滿意度影響的圖表中，即時回饋經驗對滿意度的影響差距是多少個百分點？", "answer": "8.7個百分點"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖中各險種的理賠金額，哪一個險種的理賠金額最高？", "answer": "C", "choice": ["理賠金額為20億元的險種", "理賠金額為21.5億元的險種", "理賠金額為21.3億元的險種", "理賠金額為22.5億元的險種"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據以下數據，受理案件數最低的險種是哪一種？(請參考圖片中的數據)", "answer": "C", "choice": ["壽險", "健康險", "3090", "車險"]}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "在下列情境中，受理案件數最高與最低的差距是多少？請參考圖片中的數據以做出選擇。", "answer": "C", "choice": ["95000", "87500", "95120", "102000"]}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據2025年即時回饋對客戶滿意度影響的圖表，即時回饋經驗對滿意度的影響差距是多少個百分點？請參考圖表內容選擇正確答案。", "answer": "C", "choice": ["11.0個百分點", "7.5個百分點", "8.7個百分點", "9.5個百分點"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖中各險種的理賠金額，哪一個險種的理賠金額最高？", "answer": "A", "choice": ["理賠金額為21.3億元的險種", "理賠金額為22.5億元的險種", "理賠金額為21.5億元的險種", "理賠金額為20億元的險種"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據以下數據，受理案件數最低的險種是哪一種？(請參考圖片中的數據)", "answer": "C", "choice": ["車險", "壽險", "3090", "健康險"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "在下列情境中，受理案件數最高與最低的差距是多少？請參考圖片中的數據以做出選擇。", "answer": "D", "choice": ["102000", "95000", "87500", "95120"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據2025年即時回饋對客戶滿意度影響的圖表，即時回饋經驗對滿意度的影響差距是多少個百分點？請參考圖表內容選擇正確答案。", "answer": "D", "choice": ["11.0個百分點", "7.5個百分點", "9.5個百分點", "8.7個百分點"]}
 {"category": "Open", "question_type": "Ranking", "question": "將所有險種按理賠金額從高到低排列。", "answer": "21.3, 13.1, 7.8, 4.5, 0.6, 0.4"}
 {"category": "Open", "question_type": "Ranking", "question": "受理案件數從高到低排序，第三個數據點是多少？", "answer": "12800"}
-{"category": "MCQ", "question_type": "Ranking", "question": "根據提供的數據，請選出理賠金額從高到低排列的險種類型。以下選項中，哪些金額是正確的理賠金額排序？", "answer": "C", "choice": ["20.0, 13.2, 8.0", "21.3, 8.0, 13.1", "21.3, 13.1, 7.8", "7.8, 13.1, 21.3"]}
-{"category": "MCQ", "question_type": "Ranking", "question": "根據以下受理案件數據，以從高到低排序，第三個數據點是多少？（請參考圖片中的數據）", "answer": "C", "choice": ["10000", "11500", "12800", "12500"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據提供的數據，請選出理賠金額從高到低排列的險種類型。以下選項中，哪些金額是正確的理賠金額排序？", "answer": "D", "choice": ["20.0, 13.2, 8.0", "21.3, 8.0, 13.1", "7.8, 13.1, 21.3", "21.3, 13.1, 7.8"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據以下受理案件數據，以從高到低排序，第三個數據點是多少？（請參考圖片中的數據）", "answer": "B", "choice": ["11500", "12800", "10000", "12500"]}
 {"category": "Open", "question_type": "Comparison", "question": "根據表1的資料，從2024年到2025年，哪一種保險的比例沒有發生變化？", "answer": "醫療險、壽險和傷害險"}
 {"category": "Open", "question_type": "Comparison", "question": "根據表4的資料，計算數位化申請和紙本申請的平均審核時間與客戶滿意度的比值，哪一種申請方式的比值更高？", "answer": "紙本申請的比值更高。"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "在圖7中，具有即時回饋經驗的滿意度與沒有即時回饋經驗的滿意度相比，滿意度的差距是多少？", "answer": "滿意度的差距是8.7%"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據表6的資料，2024年和2025年中，哪一年數位化理賠申請滿意度與理賠時效滿意度的差異更大？", "answer": "C", "choice": ["2025年理賠時效滿意度提升對數位化理賠申請滿意度影響更大。", "2025年數位化理賠申請滿意度雖然下降，但仍高於2024年。", "2025年數位化理賠申請滿意度與理賠時效滿意度的差異更大。", "2024年數位化理賠申請滿意度與理賠時效滿意度的差異較小。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表6的資料，2024年和2025年中，哪一年數位化理賠申請滿意度與理賠時效滿意度的差異更大？", "answer": "C", "choice": ["2025年理賠時效滿意度提升對數位化理賠申請滿意度影響更大。", "2024年數位化理賠申請滿意度與理賠時效滿意度的差異較小。", "2025年數位化理賠申請滿意度與理賠時效滿意度的差異更大。", "2025年數位化理賠申請滿意度雖然下降，但仍高於2024年。"]}
 {"category": "YesNo", "question_type": "Comparison", "question": "根據表1，2024年醫療險的百分比高於2025年傷害險的百分比。", "answer": "是", "question_group": 409}
 
 {"category": "YesNo", "question_type": "Comparison", "question": "根據表1，2025年傷害險的百分比高於2024年醫療險的百分比。", "answer": "否", "question_group": 409}

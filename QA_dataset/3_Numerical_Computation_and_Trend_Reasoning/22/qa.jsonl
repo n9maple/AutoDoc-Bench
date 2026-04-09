@@ -7,21 +7,21 @@
 {"category": "Open", "question_type": "Aggregation", "question": "在2024年，所有滿意度（整體滿意度、一鍵金融總覽滿意度、即時轉帳滿意度等）的平均值是多少？", "answer": "88.17%"}
 {"category": "Open", "question_type": "Temporal Reasoning", "question": "從2024年1月到2024年6月，哪一個月的平均回應時效最快？", "answer": "2024年3月的平均回應時效最快，為2.9。"}
 {"category": "Open", "question_type": "Aggregation", "question": "這六個月中每月諮詢數的平均值是多少？", "answer": "1222500"}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2024年第一季的數據，行動端交易占比相較於2023年底增加了多少個百分點？請參考下圖的數據變化。", "answer": "C", "choice": ["5個百分點", "7個百分點", "3個百分點", "1個百分點"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據附圖，金融科技創新投入與資安防護投入的總和是多少？", "answer": "C", "choice": ["8.0", "11.0", "10.0", "9.0"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的數據，2023年和2024年上半年，個人化推薦用戶數的成長率的平均值是多少？請參考數據圖表進行選擇。", "answer": "C", "choice": ["40.0", "20.0", "27.5", "15.5"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據提供的數據，從 2023 年到 2024 年，智能投顧使用戶數的增長數量為何？", "answer": "C", "choice": ["10", "5", "8", "3"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據2024年的數位理財交易數據，請選擇下面選項中與數位理財交易金額年增率和線上基金交易戶數年增率的平均值相符的選項？", "answer": "C", "choice": ["27", "30", "29", "32"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據2024年的數據，企業API串接家數和ESG數位產品用戶數的總和為多少？", "answer": "C", "choice": ["13000", "12500", "12600", "13500"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據2024年的數據，下列哪一個選項最接近所有滿意度的平均值（如整體滿意度、一鍵金融總覽滿意度、即時轉帳滿意度等）？", "answer": "C", "choice": ["87.20%", "88.75%", "88.17%", "88.00%"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據下圖數據，在2024年1月到2024年6月期間，哪一個月的平均回應時效最快？", "answer": "C", "choice": ["2024年1月的平均回應時效為4.2", "2024年5月的平均回應時效為3.5", "2024年3月的平均回應時效為2.9", "2024年6月的平均回應時效為3.0"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據以下數據，這六個月中每月諮詢數的平均值是多少？", "answer": "C", "choice": ["1300000", "1150000", "1222500", "1250000"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2024年第一季的數據，行動端交易占比相較於2023年底增加了多少個百分點？請參考下圖的數據變化。", "answer": "A", "choice": ["3個百分點", "7個百分點", "5個百分點", "1個百分點"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據附圖，金融科技創新投入與資安防護投入的總和是多少？", "answer": "C", "choice": ["11.0", "9.0", "10.0", "8.0"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的數據，2023年和2024年上半年，個人化推薦用戶數的成長率的平均值是多少？請參考數據圖表進行選擇。", "answer": "D", "choice": ["40.0", "20.0", "15.5", "27.5"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據提供的數據，從 2023 年到 2024 年，智能投顧使用戶數的增長數量為何？", "answer": "D", "choice": ["10", "3", "5", "8"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2024年的數位理財交易數據，請選擇下面選項中與數位理財交易金額年增率和線上基金交易戶數年增率的平均值相符的選項？", "answer": "A", "choice": ["29", "30", "27", "32"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2024年的數據，企業API串接家數和ESG數位產品用戶數的總和為多少？", "answer": "D", "choice": ["13000", "12500", "13500", "12600"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2024年的數據，下列哪一個選項最接近所有滿意度的平均值（如整體滿意度、一鍵金融總覽滿意度、即時轉帳滿意度等）？", "answer": "B", "choice": ["88.75%", "88.17%", "87.20%", "88.00%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據下圖數據，在2024年1月到2024年6月期間，哪一個月的平均回應時效最快？", "answer": "B", "choice": ["2024年1月的平均回應時效為4.2", "2024年3月的平均回應時效為2.9", "2024年6月的平均回應時效為3.0", "2024年5月的平均回應時效為3.5"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據以下數據，這六個月中每月諮詢數的平均值是多少？", "answer": "A", "choice": ["1222500", "1250000", "1300000", "1150000"]}
 {"category": "Open", "question_type": "Temporal Trend", "question": "從2024年到2027年，智能客服自助解決率的年度趨勢是如何變化的？", "answer": "從2024年到2027年，智能客服自助解決率逐年增加，從96.5%增加到99.8%。"}
 {"category": "Open", "question_type": "Rate of Change", "question": "從2025年到2026年，開放API數量的增長率是多少？", "answer": "8.24%"}
-{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖片中的數據，從2024年到2027年，智能客服自助解決率的年度趨勢是如何變化的？", "answer": "D", "choice": ["自助解決率在2025年回落到92%。", "自助解決率在2026年穩定在96%，維持了兩年的水平。", "自助解決率在2024年達到最高點，然後在2025年微幅回落。", "自助解決率逐年增加，從96.5%增加到99.8%。"]}
-{"category": "MCQ", "question_type": "Rate of Change", "question": "根據下圖顯示的數據，從2025年到2026年，開放API數量的增長率是多少？", "answer": "C", "choice": ["3.75%", "12.30%", "8.24%", "7.50%"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表10，如果台灣金融業資安事件年增率每年增加5%，那麼在2026年，台灣金融業資安事件年增率將會是以下哪一項？", "answer": "D", "choice": ["40%", "20%", "30%", "25%"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表3的資料，從2023年到2024年上半年，個人化推薦用戶數成長率增加了以下哪一個百分比？", "answer": "D", "choice": ["10個百分比", "12個百分比", "18個百分比", "15個百分比"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖片中的數據，從2024年到2027年，智能客服自助解決率的年度趨勢是如何變化的？", "answer": "B", "choice": ["自助解決率在2025年回落到92%。", "自助解決率逐年增加，從96.5%增加到99.8%。", "自助解決率在2024年達到最高點，然後在2025年微幅回落。", "自助解決率在2026年穩定在96%，維持了兩年的水平。"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據下圖顯示的數據，從2025年到2026年，開放API數量的增長率是多少？", "answer": "C", "choice": ["7.50%", "12.30%", "8.24%", "3.75%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表10，如果台灣金融業資安事件年增率每年增加5%，那麼在2026年，台灣金融業資安事件年增率將會是以下哪一項？", "answer": "C", "choice": ["20%", "30%", "25%", "40%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表3的資料，從2023年到2024年上半年，個人化推薦用戶數成長率增加了以下哪一個百分比？", "answer": "C", "choice": ["10個百分比", "12個百分比", "15個百分比", "18個百分比"]}
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，2024年的數位理財交易金額年增率和線上基金交易戶數年增率的平均值是29。", "answer": "是", "question_group": 838}
 
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，2024年的數位理財交易金額年增率和線上基金交易戶數年增率的平均值是35。", "answer": "否", "question_group": 838}

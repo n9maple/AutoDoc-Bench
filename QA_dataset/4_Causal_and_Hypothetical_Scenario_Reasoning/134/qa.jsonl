@@ -1,2 +1,2 @@
 {"category": "Open", "question_type": "Multi-hop Reasoning", "question": "根據表2的資料，如果「15天內」和「超過30天」的百分比各增加5%，而總和必須保持100%，那麼「30天內」的百分比將是多少？", "answer": "5%"}
-{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表2的資料，若「15天內」和「超過30天」的百分比各增加5%，且總和保持100%，那麼「30天內」的百分比將是多少？以下哪一選項是正確的？", "answer": "C", "choice": ["10%", "2%", "5%", "8%"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表2的資料，若「15天內」和「超過30天」的百分比各增加5%，且總和保持100%，那麼「30天內」的百分比將是多少？以下哪一選項是正確的？", "answer": "D", "choice": ["8%", "2%", "10%", "5%"]}

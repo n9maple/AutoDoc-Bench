@@ -7,36 +7,36 @@
 {"category": "Open", "question_type": "Comparison", "question": "2022 年和 2023 年的資安事件總損失分別是多少，哪一年損失更大？", "answer": "2022年的資安事件總損失是1000萬元，2023年的資安事件總損失是1150萬元，2023年損失更大。"}
 {"category": "Open", "question_type": "Comparison", "question": "在2023年，客戶對於安全性的滿意度比因假冒網站洩露個資的比例高出多少百分比？", "answer": "90.8%"}
 {"category": "Open", "question_type": "Comparison", "question": "2023年和2022年相比，哪一年的個資外洩事件數比例較低？", "answer": "2023年的個資外洩事件數比例較低。"}
-{"category": "MCQ", "question_type": "Comparison", "question": "如果圖片中顯示線上客服回應時間增加了一倍，請問這時候線上客服的回應時間會比電話客服的等待時間更長嗎？", "answer": "C", "choice": ["如果線上客服的回應時間是與電話客服的等待時間相等，則兩者都會延長。", "在某些極端情況下，線上客服可能需要更長的時間，但多數情況下仍較電話客服快。", "線上客服回應時間仍然比電話客服等待時間短。", "線上客服回應時間會永遠比電話客服更快。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年3月和2023年11月的數據，哪一種模式的佔比較高？", "answer": "C", "choice": ["2023年3月的登入模式佔比相同", "2023年3月登出模式的使用次數更高", "2023年11月的登入模式佔比更高", "2023年11月的登出模式佔比更高"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的資料，資料外洩降低比例與客戶安全性滿意度之間的差距是多少？", "answer": "C", "choice": ["8%", "5%", "7%", "12%"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的數據，更新問題數相比於新增問題數多出多少？", "answer": "C", "choice": ["更新問題數比新增問題數少200。", "更新問題數比新增問題數多出150。", "更新問題數比新增問題數多130。", "更新問題數和新增問題數相差無幾，實際上變化不大。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片所示，自助查詢解決率與人工客服解決率之差最大的服務類別是什麼？", "answer": "C", "choice": ["交易查詢", "信用卡問題的諮詢", "貸款申請說明", "保險索賠說明"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據下面的資料，2022年和2023年的資安事件總損失分別是多少？哪一年損失更大？請參考以下數據。\n\n- 2022年損失：1000萬元\n- 2023年損失：1150萬元", "answer": "C", "choice": ["2022年的資安事件總損失是900萬元，2023年損失更大。", "2022年的資安事件總損失是1000萬元，損失更大。", "2023年的資安事件總損失是1150萬元，損失更大。", "2023年的資安事件總損失是1200萬元，損失更大。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的統計，客戶對於安全性的滿意度與因假冒網站洩露個資的比例相比，滿意度高出多少百分比？", "answer": "C", "choice": ["89.5%", "90.2%", "90.8%", "91.0%"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據給定的圖表，2023年和2022年相比，哪一年顯示較低的個資外洩事件數比例？", "answer": "C", "choice": ["2023年與2022年相等，無法得出具體結論", "2023年的比例未顯示較低的個資外洩事件比例", "2023年", "無法判斷2023年與2022年相比的趨勢"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "如果圖片中顯示線上客服回應時間增加了一倍，請問這時候線上客服的回應時間會比電話客服的等待時間更長嗎？", "answer": "A", "choice": ["線上客服回應時間仍然比電話客服等待時間短。", "如果線上客服的回應時間是與電話客服的等待時間相等，則兩者都會延長。", "在某些極端情況下，線上客服可能需要更長的時間，但多數情況下仍較電話客服快。", "線上客服回應時間會永遠比電話客服更快。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年3月和2023年11月的數據，哪一種模式的佔比較高？", "answer": "D", "choice": ["2023年11月的登出模式佔比更高", "2023年3月登出模式的使用次數更高", "2023年3月的登入模式佔比相同", "2023年11月的登入模式佔比更高"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的資料，資料外洩降低比例與客戶安全性滿意度之間的差距是多少？", "answer": "B", "choice": ["12%", "7%", "8%", "5%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的數據，更新問題數相比於新增問題數多出多少？", "answer": "B", "choice": ["更新問題數和新增問題數相差無幾，實際上變化不大。", "更新問題數比新增問題數多130。", "更新問題數比新增問題數少200。", "更新問題數比新增問題數多出150。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片所示，自助查詢解決率與人工客服解決率之差最大的服務類別是什麼？", "answer": "D", "choice": ["保險索賠說明", "交易查詢", "信用卡問題的諮詢", "貸款申請說明"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下面的資料，2022年和2023年的資安事件總損失分別是多少？哪一年損失更大？請參考以下數據。\n\n- 2022年損失：1000萬元\n- 2023年損失：1150萬元", "answer": "B", "choice": ["2023年的資安事件總損失是1200萬元，損失更大。", "2023年的資安事件總損失是1150萬元，損失更大。", "2022年的資安事件總損失是1000萬元，損失更大。", "2022年的資安事件總損失是900萬元，2023年損失更大。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的統計，客戶對於安全性的滿意度與因假冒網站洩露個資的比例相比，滿意度高出多少百分比？", "answer": "A", "choice": ["90.8%", "89.5%", "90.2%", "91.0%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據給定的圖表，2023年和2022年相比，哪一年顯示較低的個資外洩事件數比例？", "answer": "D", "choice": ["2023年的比例未顯示較低的個資外洩事件比例", "2023年與2022年相等，無法得出具體結論", "無法判斷2023年與2022年相比的趨勢", "2023年"]}
 {"category": "Open", "question_type": "Comparison", "question": "行動銀行App和所有其他管道的總使用量相差多少？", "answer": "30"}
 {"category": "Open", "question_type": "Comparison", "question": "在2023年身份驗證方式使用偏好中，生物辨識(指紋/臉部)的使用比例是其他(如OTP)的多少倍？", "answer": "35倍"}
 {"category": "Open", "question_type": "Comparison", "question": "FAQ分類中，問題數量最低的項目是第幾個數據點？", "answer": "第3個數據點"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "數值最高與數值最低的FAQ分類問題數量差距是多少？", "answer": "23"}
 {"category": "Open", "question_type": "Comparison", "question": "其他主題與線上交易技術支援相比，哪個主題的比例更高?", "answer": "其他主題的比例更高"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片顯示，行動銀行App的使用量與所有其他管道的總使用量相差多少？", "answer": "C", "choice": ["25", "35", "30", "45"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年身份驗證方式的使用偏好，比較生物辨識(指紋/臉部)的使用比例與其他身份驗證方式（如OTP），生物辨識的使用比例是其他方式的多少倍？", "answer": "C", "choice": ["15倍", "40倍", "35倍", "25倍"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "在以下的FAQ分類中，哪一項目具有問題數量最低的數據點？", "answer": "C", "choice": ["第二個數據點(10個問題)", "第四個數據點(15個問題)", "第3個數據點", "所有數據點的問題數量相同(12個問題)"]}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖表中各FAQ分類的問題數量，數值最高與數值最低的分類問題數量差距是多少？", "answer": "C", "choice": ["22", "24", "23", "28"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中的數據，其他主題的比例與線上交易技術支援相比，哪一項是正確的？", "answer": "C", "choice": ["其他主題的比例在過去一年有所下降", "其他主題的比例低於線上交易技術支援", "其他主題的比例更高", "其他主題的比例與線上交易技術支援相等"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片顯示，行動銀行App的使用量與所有其他管道的總使用量相差多少？", "answer": "A", "choice": ["30", "25", "35", "45"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年身份驗證方式的使用偏好，比較生物辨識(指紋/臉部)的使用比例與其他身份驗證方式（如OTP），生物辨識的使用比例是其他方式的多少倍？", "answer": "D", "choice": ["15倍", "25倍", "40倍", "35倍"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在以下的FAQ分類中，哪一項目具有問題數量最低的數據點？", "answer": "B", "choice": ["所有數據點的問題數量相同(12個問題)", "第3個數據點", "第四個數據點(15個問題)", "第二個數據點(10個問題)"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖表中各FAQ分類的問題數量，數值最高與數值最低的分類問題數量差距是多少？", "answer": "A", "choice": ["23", "24", "28", "22"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中的數據，其他主題的比例與線上交易技術支援相比，哪一項是正確的？", "answer": "C", "choice": ["其他主題的比例與線上交易技術支援相等", "其他主題的比例低於線上交易技術支援", "其他主題的比例更高", "其他主題的比例在過去一年有所下降"]}
 {"category": "Open", "question_type": "Ranking", "question": "在所有的線上客服使用管道中，使用量最低的管道是什麼？", "answer": "其他"}
 {"category": "Open", "question_type": "Ranking", "question": "在2023年身份驗證方式使用偏好中，哪種驗證方式的使用比例最高？", "answer": "生物辨識(指紋/臉部)的使用比例最高，為70.0%。"}
 {"category": "Open", "question_type": "Ranking", "question": "在2023年人工客服諮詢主題中，哪個主題的比例第三高?", "answer": "線上交易技術支援"}
-{"category": "MCQ", "question_type": "Ranking", "question": "根據提供的數據，以下哪一項是線上客服使用管道中使用量最低的管道？", "answer": "C", "choice": ["社交媒體", "電話", "其他", "電子郵件"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據提供的數據，以下哪一項是線上客服使用管道中使用量最低的管道？", "answer": "D", "choice": ["社交媒體", "電子郵件", "電話", "其他"]}
 {"category": "MCQ", "question_type": "Ranking", "question": "根據2023年身份驗證方式使用偏好，以下哪種驗證方式的使用比例最高？", "answer": "C", "choice": ["其他身份驗證方式(如安全問答)的使用比例為50.0%。", "雙重認證的使用比例為55.0%。", "生物辨識(指紋/臉部)的使用比例最高，為70.0%。", "生物辨識(指紋/臉部)的使用比例為68.0%。"]}
-{"category": "MCQ", "question_type": "Ranking", "question": "根據2023年人工客服諮詢主題的統計，以下哪個主題的比例為第三高？", "answer": "C", "choice": ["一般查詢", "促銷活動資訊", "線上交易技術支援", "服務故障報告"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據2023年人工客服諮詢主題的統計，以下哪個主題的比例為第三高？", "answer": "D", "choice": ["促銷活動資訊", "服務故障報告", "一般查詢", "線上交易技術支援"]}
 {"category": "Open", "question_type": "Comparison", "question": "根據表8的資料，2022年因資訊外洩相關的損失占該年資安事件總損失的百分比是多少？", "answer": "35%"}
 {"category": "Open", "question_type": "Comparison", "question": "根據表2的資料，2023年1月至2023年6月之間與2023年7月至2023年12月之間，哪一段時間的訪客模式人次總和更高？", "answer": "2023年1月至6月的訪客模式人次總和714000高於2023年7月至12月的總和681000。"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據表10的資料，以下哪一年『重大資安事件』的數量與『資安演練次數』之間的差異最大？", "answer": "A", "choice": ["2023", "2024", "2018", "2019"]}
-{"category": "MCQ", "question_type": "Ranking", "question": "在圖1中，根據數據，2021年、2022年和2023年客戶選擇客服方式的比例總和哪一年最高？請在下列選項中選擇正確答案。", "answer": "A", "choice": ["無法確定哪一年的比例總和最高，因為缺少具體的數據。", "2023年，由於網絡客服的興起，這一年客戶的選擇比例最高。", "2022年，由於疫情的影響，線上客服的使用率大幅提升，因此比例總和應該最高。", "2021年客戶對客服方式的偏好尚未明朗，因此無法評估比例總和的高低。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據表2的資料，2023年1月至2023年6月與2023年7月至2023年12月之間，哪些時間段的訪客模式人次總和更高？", "answer": "D", "choice": ["2023年1月至6月的訪客模式人次總和700000，因此與2023年7月至12月的總和681000接近，但低於。", "2023年1月至6月的訪客模式人次總和716000高於2023年7月至12月的總和681000。", "2023年7月至12月的訪客模式人次總和與2023年1月至6月的總和相等，各為681000。", "2023年1月至6月的訪客模式人次總和714000高於2023年7月至12月的總和681000。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據表8的資料，以下哪個選項最接近2022年因資訊外洩相關的損失占該年資安事件總損失的百分比？", "answer": "A", "choice": ["35%", "60%", "45%", "20%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表10的資料，以下哪一年『重大資安事件』的數量與『資安演練次數』之間的差異最大？", "answer": "A", "choice": ["2023", "2018", "2024", "2019"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "在圖1中，根據數據，2021年、2022年和2023年客戶選擇客服方式的比例總和哪一年最高？請在下列選項中選擇正確答案。", "answer": "C", "choice": ["2022年，由於疫情的影響，線上客服的使用率大幅提升，因此比例總和應該最高。", "2023年，由於網絡客服的興起，這一年客戶的選擇比例最高。", "無法確定哪一年的比例總和最高，因為缺少具體的數據。", "2021年客戶對客服方式的偏好尚未明朗，因此無法評估比例總和的高低。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表2的資料，2023年1月至2023年6月與2023年7月至2023年12月之間，哪些時間段的訪客模式人次總和更高？", "answer": "A", "choice": ["2023年1月至6月的訪客模式人次總和714000高於2023年7月至12月的總和681000。", "2023年1月至6月的訪客模式人次總和716000高於2023年7月至12月的總和681000。", "2023年1月至6月的訪客模式人次總和700000，因此與2023年7月至12月的總和681000接近，但低於。", "2023年7月至12月的訪客模式人次總和與2023年1月至6月的總和相等，各為681000。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表8的資料，以下哪個選項最接近2022年因資訊外洩相關的損失占該年資安事件總損失的百分比？", "answer": "B", "choice": ["60%", "35%", "45%", "20%"]}
 {"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖5，數值最高項與最低項的差異是35。", "answer": "是", "question_group": 619}
 
 {"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖5，數值最高項與最低項的差異是40。", "answer": "否", "question_group": 619}

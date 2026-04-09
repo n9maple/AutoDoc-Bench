@@ -6,19 +6,19 @@
 {"category": "Open", "question_type": "Temporal Reasoning", "question": "2022 年與 2023 年相比，與資訊外洩有關的損失增加了多少？", "answer": "增加了70萬元"}
 {"category": "Open", "question_type": "Aggregation", "question": "在2022年和2023年，資安演練次數的平均值是多少？", "answer": "27.5"}
 {"category": "Open", "question_type": "Temporal Reasoning", "question": "假冒網站詐騙的比例從2022年到2023年有什麼變化？", "answer": "假冒網站詐騙的比例從2022年的1.4%下降到2023年的1.2%，減少了0.2個百分點。"}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年1月至2023年12月的數據，訪客模式人次的總數為多少？", "answer": "C", "choice": ["1,200,000", "1,450,000", "1375000", "1,350,000"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖表中的數據，2023年1月到2023年6月期間，登入模式人次的平均值是多少？", "answer": "C", "choice": ["200000", "150000", "187333.33", "175000"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年各月份的數據，以下哪一項是複雜諮詢比率最常出現的百分比？請參考附圖進行選擇。", "answer": "D", "choice": ["8%", "7%", "12%", "9%"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據自助查詢的解決率數據，以下哪一項最接近所有服務類別中自助查詢的平均解決率？", "answer": "D", "choice": ["86.00%", "89.75%", "81.00%", "84.83%"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖表中顯示的數據，2022 年和 2023 年與用戶操作疏忽有關的損失總和是多少？", "answer": "C", "choice": ["800萬元", "1,050萬元", "950萬元", "1,200萬元"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據所提供的資料，2022 年與 2023 年相比，資訊外洩的損失有多少增長？", "answer": "C", "choice": ["增加了150萬元", "減少了50萬元", "增加了70萬元", "保持不變"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖片顯示的2022年和2023年資安演練次數，以下哪一項是兩年平均次數的正確值？", "answer": "C", "choice": ["31", "29", "27.5", "26"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據提供的數據，以下哪一項正確描述了假冒網站詐騙的比例變化？", "answer": "C", "choice": ["假冒網站詐騙的比例在2023年達到2022年的2倍，為2.8%。", "假冒網站詐騙的比例從2022年的1.4%上升到2023年的1.2%，增加了0.2個百分點。", "假冒網站詐騙的比例從2022年的1.4%下降到2023年的1.2%，減少了0.2個百分點。", "假冒網站詐騙的比例從2022年的1.4%下降到2023年的1.0%，減少了0.4個百分點。"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年1月至2023年12月的數據，訪客模式人次的總數為多少？", "answer": "C", "choice": ["1,450,000", "1,200,000", "1375000", "1,350,000"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖表中的數據，2023年1月到2023年6月期間，登入模式人次的平均值是多少？", "answer": "C", "choice": ["175000", "150000", "187333.33", "200000"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年各月份的數據，以下哪一項是複雜諮詢比率最常出現的百分比？請參考附圖進行選擇。", "answer": "C", "choice": ["12%", "8%", "9%", "7%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據自助查詢的解決率數據，以下哪一項最接近所有服務類別中自助查詢的平均解決率？", "answer": "C", "choice": ["81.00%", "86.00%", "84.83%", "89.75%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖表中顯示的數據，2022 年和 2023 年與用戶操作疏忽有關的損失總和是多少？", "answer": "D", "choice": ["800萬元", "1,050萬元", "1,200萬元", "950萬元"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據所提供的資料，2022 年與 2023 年相比，資訊外洩的損失有多少增長？", "answer": "A", "choice": ["增加了70萬元", "保持不變", "減少了50萬元", "增加了150萬元"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖片顯示的2022年和2023年資安演練次數，以下哪一項是兩年平均次數的正確值？", "answer": "D", "choice": ["29", "31", "26", "27.5"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據提供的數據，以下哪一項正確描述了假冒網站詐騙的比例變化？", "answer": "A", "choice": ["假冒網站詐騙的比例從2022年的1.4%下降到2023年的1.2%，減少了0.2個百分點。", "假冒網站詐騙的比例在2023年達到2022年的2倍，為2.8%。", "假冒網站詐騙的比例從2022年的1.4%上升到2023年的1.2%，增加了0.2個百分點。", "假冒網站詐騙的比例從2022年的1.4%下降到2023年的1.0%，減少了0.4個百分點。"]}
 {"category": "Open", "question_type": "Aggregation", "question": "FAQ分類問題數量的中位數為何？", "answer": "39"}
 {"category": "Open", "question_type": "Aggregation", "question": "所有滿意度指標的平均滿意比例是多少?", "answer": "平均滿意比例為87.5%"}
-{"category": "MCQ", "question_type": "Aggregation", "question": "在以下數據中，FAQ分類問題數量的中位數為何？請根據所提供的數字選擇正確的答案： 24, 39, 56, 62。", "answer": "C", "choice": ["37", "50", "39", "62"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖中所有滿意度指標的數據，平均滿意比例是多少？", "answer": "C", "choice": ["88.0%", "86.5%", "87.5%", "89.0%"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表6的數據，2023年6月至2023年12月期間，行動裝置用戶比率的上升幅度是多少？以下哪一項是正確的選擇？", "answer": "A", "choice": ["行動裝置用戶比率的上升幅度為0%", "行動裝置用戶比率的上升幅度為5%", "行動裝置用戶比率的上升幅度為2%", "行動裝置用戶比率的上升幅度為-3%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "在以下數據中，FAQ分類問題數量的中位數為何？請根據所提供的數字選擇正確的答案： 24, 39, 56, 62。", "answer": "B", "choice": ["50", "39", "62", "37"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖中所有滿意度指標的數據，平均滿意比例是多少？", "answer": "B", "choice": ["89.0%", "87.5%", "86.5%", "88.0%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表6的數據，2023年6月至2023年12月期間，行動裝置用戶比率的上升幅度是多少？以下哪一項是正確的選擇？", "answer": "D", "choice": ["行動裝置用戶比率的上升幅度為-3%", "行動裝置用戶比率的上升幅度為2%", "行動裝置用戶比率的上升幅度為5%", "行動裝置用戶比率的上升幅度為0%"]}
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據表8，2022 年和 2023 年與用戶操作疏忽有關的損失總和為 950 萬元。", "answer": "是", "question_group": 1069}
 
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據表8，2022 年和 2023 年與用戶操作疏忽有關的損失總和為 800 萬元。", "answer": "否", "question_group": 1069}

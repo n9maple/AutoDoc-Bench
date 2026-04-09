@@ -2,10 +2,10 @@
 {"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果平均撥款時間增加0.5天，最終會是多少？", "answer": "2.2天"}
 {"category": "Open", "question_type": "Multi-hop Reasoning", "question": "在 2023 年，使用銀行轉帳和郵局匯款這兩種付款方式的比例加起來是多少？", "answer": "95"}
 {"category": "Open", "question_type": "Multi-hop Reasoning", "question": "2024 年進入二階段申訴的案件中，有多少百分比在調整、補件或說明後得到同意？", "answer": "63%"}
-{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據提供的資料，2023年和2024年之間，線上申請平台的申請數量增加了多少百分比？請參考下面的資料進行選擇。  A. 8.5%  B. 10.77%  C. 12%  D. 15%", "answer": "C", "choice": ["A. 8.5%", "C. 12%", "B. 10.77%", "D. 15%"]}
-{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據下圖，若平均撥款時間增加0.5天，最終撥款時間會是？", "answer": "C", "choice": ["2.3天", "3.0天", "2.2天", "2.5天"]}
-{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據2023年資料，使用銀行轉帳和郵局匯款的比例加起來是多少？以下選項中哪一個是正確的？", "answer": "C", "choice": ["80", "75", "95", "92"]}
-{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "在2024年進入二階段申訴的案件中，根據圖示，以下哪一項顯示經調整、補件或說明後，獲得同意的案件百分比?", "answer": "C", "choice": ["60%", "66%", "63%", "68%"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據提供的資料，2023年和2024年之間，線上申請平台的申請數量增加了多少百分比？請參考下面的資料進行選擇。  A. 8.5%  B. 10.77%  C. 12%  D. 15%", "answer": "D", "choice": ["A. 8.5%", "D. 15%", "C. 12%", "B. 10.77%"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據下圖，若平均撥款時間增加0.5天，最終撥款時間會是？", "answer": "C", "choice": ["3.0天", "2.3天", "2.2天", "2.5天"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據2023年資料，使用銀行轉帳和郵局匯款的比例加起來是多少？以下選項中哪一個是正確的？", "answer": "B", "choice": ["92", "95", "75", "80"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "在2024年進入二階段申訴的案件中，根據圖示，以下哪一項顯示經調整、補件或說明後，獲得同意的案件百分比?", "answer": "C", "choice": ["68%", "66%", "63%", "60%"]}
 {"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表7，2024年進入二階段申訴的案件中，有63%的案件在調整、補件或說明後得到同意。", "answer": "是", "question_group": 1290}
 
 {"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表7，2024年進入二階段申訴的案件中，有50%的案件在調整、補件或說明後得到同意。", "answer": "否", "question_group": 1290}

@@ -1,5 +1,5 @@
 {"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果將台積電和聯發科的現金股利發放總額加總後，再除以統一企業的現金股利發放總額，結果是多少？", "answer": "21.944444444444443"}
-{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據圖表所示，將台積電和聯發科的現金股利發放總額加總後，再除以統一企業的現金股利發放總額，結果最接近多少？", "answer": "C", "choice": ["約18.75", "約22.50", "約21.94", "約20.30"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據圖表所示，將台積電和聯發科的現金股利發放總額加總後，再除以統一企業的現金股利發放總額，結果最接近多少？", "answer": "B", "choice": ["約22.50", "約21.94", "約20.30", "約18.75"]}
 {"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，台積電和聯發科的現金股利發放總額加總後，再除以統一企業的現金股利發放總額，結果約為21.94。", "answer": "是", "question_group": 1492}
 
 {"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，台積電和聯發科的現金股利發放總額加總後，再除以統一企業的現金股利發放總額，結果約為15。", "answer": "否", "question_group": 1492}

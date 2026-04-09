@@ -2,11 +2,11 @@
 {"category": "Open", "question_type": "Temporal Reasoning", "question": "根據表2的資料，假設用戶滿意度每年提高0.5%，那麼達到95%以上的滿意度需要多少年？", "answer": "需要10年。"}
 {"category": "Open", "question_type": "Temporal Reasoning", "question": "根據表4的資料，如果專屬客戶經理的首次聯繫解決率每年提高2%，兩年後將達到多少？", "answer": "93.64%"}
 {"category": "Open", "question_type": "Aggregation", "question": "根據表4的資料，計算即時聊天和移動應用客服的用戶滿意度平均值。", "answer": "89%"}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據表1的資料，未來三年（2025-2027年）市場規模的總和可能是多少？", "answer": "C", "choice": ["510.4", "620.8", "547.6", "480.2"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表2的資料，假設用戶滿意度每年提高0.5%，那麼達到95%以上的滿意度需要的年數為以下哪一選項？", "answer": "C", "choice": ["9年", "11年", "10年", "13年"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表4的資料，如果專屬客戶經理的首次聯繫解決率每年提高2%，那麼兩年後的解決率將會是多少？", "answer": "C", "choice": ["91.64%", "90.00%", "93.64%", "95.64%"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據表4的資料，以下哪一項最能代表即時聊天和移動應用客服的用戶滿意度平均值？", "answer": "C", "choice": ["95%", "90%", "89%", "87%"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖2，以下哪一項是兩個合作類型的合作夥伴數量的總和？", "answer": "C", "choice": ["5", "9", "6", "3"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖4，所有合作機構的優惠百分比總和是多少？以下哪一選項正確？", "answer": "C", "choice": ["1.2", "1.8", "1.0", "0.5"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表1的資料，未來三年（2025-2027年）市場規模的總和可能是多少？", "answer": "A", "choice": ["547.6", "620.8", "480.2", "510.4"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表2的資料，假設用戶滿意度每年提高0.5%，那麼達到95%以上的滿意度需要的年數為以下哪一選項？", "answer": "D", "choice": ["9年", "13年", "11年", "10年"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表4的資料，如果專屬客戶經理的首次聯繫解決率每年提高2%，那麼兩年後的解決率將會是多少？", "answer": "C", "choice": ["91.64%", "95.64%", "93.64%", "90.00%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表4的資料，以下哪一項最能代表即時聊天和移動應用客服的用戶滿意度平均值？", "answer": "B", "choice": ["87%", "89%", "90%", "95%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖2，以下哪一項是兩個合作類型的合作夥伴數量的總和？", "answer": "B", "choice": ["9", "6", "3", "5"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖4，所有合作機構的優惠百分比總和是多少？以下哪一選項正確？", "answer": "C", "choice": ["1.2", "0.5", "1.0", "1.8"]}
 {"category": "Open", "question_type": "Aggregation", "question": "根據圖2，兩個合作類型的合作夥伴數量總和是多少？", "answer": "6"}
 {"category": "Open", "question_type": "Aggregation", "question": "在圖4中，所有合作機構的優惠百分比總和是多少？", "answer": "1.0"}

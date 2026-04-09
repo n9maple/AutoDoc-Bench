@@ -1,9 +1,9 @@
 {"category": "Open", "question_type": "Aggregation", "question": "越南和印尼的市場份額增長總和是多少？", "answer": "35%"}
 {"category": "Open", "question_type": "Temporal Reasoning", "question": "哪一年新興科技應用的支出首次超過5億？", "answer": "2025年"}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的市場數據，越南和印尼的市場份額增長總和是以下哪個選項？", "answer": "C", "choice": ["20%", "50%", "35%", "33%"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據下圖，新興科技應用的支出在以下哪一年首次超過5億？", "answer": "C", "choice": ["2023年", "2024年", "2025年", "2026年"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的市場數據，越南和印尼的市場份額增長總和是以下哪個選項？", "answer": "D", "choice": ["33%", "20%", "50%", "35%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據下圖，新興科技應用的支出在以下哪一年首次超過5億？", "answer": "B", "choice": ["2024年", "2025年", "2023年", "2026年"]}
 {"category": "Open", "question_type": "Aggregation", "question": "根據圖5的資料，兩個指標的平均數量是多少萬？", "answer": "325萬"}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表3的資料，假設資本適足率每年下降5%，那麼在以下幾年中，資本適足率何時會首次低於監管要求？", "answer": "D", "choice": ["16年後", "14年後", "11年後", "13年後"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表3的資料，假設資本適足率每年下降5%，那麼在以下幾年中，資本適足率何時會首次低於監管要求？", "answer": "A", "choice": ["13年後", "11年後", "16年後", "14年後"]}
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，2023年亞洲和其他地區的百分比總和為15%。", "answer": "是", "question_group": 1087}
 
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，2023年亞洲和其他地區的百分比總和為20%。", "answer": "否", "question_group": 1087}

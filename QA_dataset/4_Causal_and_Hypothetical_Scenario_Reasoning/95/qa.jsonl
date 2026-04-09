@@ -1,6 +1,6 @@
 {"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果合規性得分在2024年提高了3分，而客戶滿意度提高了2%，那麼2024年的合規性得分和客戶滿意度分別是多少？", "answer": "2024年的合規性得分是98/100，客戶滿意度是95%。"}
-{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據下圖，亞洲和歐洲的數值總和是否會超過北美和全球的差異？", "answer": "C", "choice": ["全球的差異等於歐洲和北美的數值總和，但低於亞洲的數值總和。", "亞洲和歐洲的數值總和等於北美的數值總和，低於全球的差異。", "亞洲和歐洲的總和等於北美和全球的差異。", "北美的數值總和等於或少於亞洲和歐洲的總和，但不超過它們的總和。"]}
-{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表2的資料，假設2020年的建築成本是80萬元，請問2023年的建築成本可能是多少？", "answer": "D", "choice": ["90萬元", "98萬元", "100萬元", "94.16萬元"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據下圖，亞洲和歐洲的數值總和是否會超過北美和全球的差異？", "answer": "A", "choice": ["亞洲和歐洲的總和等於北美和全球的差異。", "亞洲和歐洲的數值總和等於北美的數值總和，低於全球的差異。", "北美的數值總和等於或少於亞洲和歐洲的總和，但不超過它們的總和。", "全球的差異等於歐洲和北美的數值總和，但低於亞洲的數值總和。"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表2的資料，假設2020年的建築成本是80萬元，請問2023年的建築成本可能是多少？", "answer": "B", "choice": ["100萬元", "94.16萬元", "98萬元", "90萬元"]}
 {"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表4，亞洲和歐洲的總和等於北美和全球的差異。", "answer": "是", "question_group": 1503}
 
 {"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表4，亞洲和歐洲的總和超過北美和全球的差異。", "answer": "否", "question_group": 1503}

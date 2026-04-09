@@ -1,11 +1,11 @@
 {"category": "Open", "question_type": "Aggregation", "question": "如果去年和今年的月均消費額中選擇最小值，會是新台幣多少元？", "answer": "新台幣8,333元"}
 {"category": "Open", "question_type": "Aggregation", "question": "餐飲和旅遊的交易數量增長總和是多少？", "answer": "67"}
 {"category": "Open", "question_type": "Aggregation", "question": "在促銷活動的滿意度中，滿意和非常滿意的百分比總和是多少？", "answer": "115%"}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據去年和今年的月均消費額，選擇最小值，以下哪一個選項是正確的？（假設有提供相應的數據圖片）", "answer": "C", "choice": ["新台幣8,500元", "新台幣7,200元", "新台幣8,333元", "新台幣8,000元"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，餐飲和旅遊的交易數量增長總和是多少？", "answer": "C", "choice": ["80", "50", "67", "90"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據所提供的促銷活動滿意度調查數據，滿意和非常滿意的百分比總和是多少？請選擇最符合該數字的選項。", "answer": "C", "choice": ["99%", "89%", "115%", "105%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據去年和今年的月均消費額，選擇最小值，以下哪一個選項是正確的？（假設有提供相應的數據圖片）", "answer": "A", "choice": ["新台幣8,333元", "新台幣8,000元", "新台幣7,200元", "新台幣8,500元"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，餐飲和旅遊的交易數量增長總和是多少？", "answer": "B", "choice": ["50", "67", "80", "90"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據所提供的促銷活動滿意度調查數據，滿意和非常滿意的百分比總和是多少？請選擇最符合該數字的選項。", "answer": "C", "choice": ["89%", "99%", "115%", "105%"]}
 {"category": "Open", "question_type": "Aggregation", "question": "所有用戶類型的月均使用次數總和是多少?", "answer": "30.35"}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據下列數據，所有用戶類型的月均使用次數總和是多少？", "answer": "C", "choice": ["34.50", "31.25", "30.35", "28.75"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下列數據，所有用戶類型的月均使用次數總和是多少？", "answer": "A", "choice": ["30.35", "31.25", "34.50", "28.75"]}
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，去年月均消費額是新台幣8,333元，比今年的月均消費額新台幣10,000元更小。", "answer": "是", "question_group": 779}
 
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，今年月均消費額是新台幣8,333元，比去年的月均消費額新台幣10,000元更小。", "answer": "否", "question_group": 779}

@@ -2,16 +2,16 @@
 {"category": "Open", "question_type": "Comparison", "question": "核准案件的平均信用紀錄評分比全部案件高多少？", "answer": "核准案件的平均信用紀錄評分比全部案件高1.0"}
 {"category": "Open", "question_type": "Comparison", "question": "2023 年線上審查的案件是否超過了一半的比例？", "answer": "是的，2023 年線上審查的案件超過了一半的比例。"}
 {"category": "Open", "question_type": "Comparison", "question": "在所有撥款類型中，哪一個的平均申請至撥款天數最短，並且該類型的撥款用途證明比例是多少？", "answer": "單筆撥款的平均申請至撥款天數最短，該類型的撥款用途證明比例是99%。"}
-{"category": "MCQ", "question_type": "Comparison", "question": "在某個情境下，成立年限超過兩年的核准案件比例與通過聯合徵信中心查核的比例相比，請問它高出多少百分比？", "answer": "C", "choice": ["1%", "3%", "2%", "4%"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的資料，核准案件的平均信用紀錄評分比所有案件高多少分？", "answer": "C", "choice": ["0.5", "1.3", "1.0", "1.8"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在某個情境下，成立年限超過兩年的核准案件比例與通過聯合徵信中心查核的比例相比，請問它高出多少百分比？", "answer": "C", "choice": ["3%", "4%", "2%", "1%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的資料，核准案件的平均信用紀錄評分比所有案件高多少分？", "answer": "D", "choice": ["1.8", "1.3", "0.5", "1.0"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的資料，有關線上審查的案件比例，以下哪一項是正確的？", "answer": "C", "choice": ["線上審查的案件比例在25%到40%之間", "線上審查的案件比例在40%到55%之間", "線上審查的案件比例超過了一半", "線上審查的案件比例低於60%"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖所示的撥款類型，哪一個的平均申請至撥款天數最短且用途證明比例達到99%？", "answer": "C", "choice": ["分期撥款", "專案撥款", "單筆撥款", "循環貸款"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖所示的撥款類型，哪一個的平均申請至撥款天數最短且用途證明比例達到99%？", "answer": "D", "choice": ["專案撥款", "循環貸款", "分期撥款", "單筆撥款"]}
 {"category": "Open", "question_type": "Comparison", "question": "在2023年，企業授信數位化申請的線上遞交比例與實體遞交比例的差距是多少？", "answer": "24.0%"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "預警/管理類型中，第一個類型和第二個類型的件數差距是多少？", "answer": "35"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的數據，企業授信數位化申請的線上遞交比例與實體遞交比例的差距是多少？", "answer": "C", "choice": ["25.0%", "23.0%", "24.0%", "24.5%"]}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據預警/管理類型的統計，第一個類型和第二個類型的件數差距為多少？請根據圖片中的數據進行選擇：", "answer": "C", "choice": ["25", "50", "35", "10"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的數據，企業授信數位化申請的線上遞交比例與實體遞交比例的差距是多少？", "answer": "D", "choice": ["24.5%", "25.0%", "23.0%", "24.0%"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據預警/管理類型的統計，第一個類型和第二個類型的件數差距為多少？請根據圖片中的數據進行選擇：", "answer": "A", "choice": ["35", "50", "10", "25"]}
 {"category": "Open", "question_type": "Ranking", "question": "在2023年企業授信數位化申請比例中，數值最低的遞交方式是什麼？", "answer": "實體遞交"}
-{"category": "MCQ", "question_type": "Ranking", "question": "在2023年企業授信數位化申請比例中，以下哪一種遞交方式的數值最低？", "answer": "C", "choice": ["線上平台遞交", "電子郵件遞交", "實體遞交", "自助服務機遞交"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "在2023年企業授信數位化申請比例中，以下哪一種遞交方式的數值最低？", "answer": "C", "choice": ["自助服務機遞交", "線上平台遞交", "實體遞交", "電子郵件遞交"]}
 {"category": "Open", "question_type": "Comparison", "question": "根據表2的資料，核准案件的平均信用紀錄評分比全部案件高出多少個百分比？", "answer": "核准案件的平均信用紀錄評分比全部案件高出約8.20%。"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "根據圖5，兩個預警/管理類型的件數差是多少？", "answer": "35"}
 {"category": "YesNo", "question_type": "Ranking", "question": "根據圖2，2023年企業授信數位化申請中，實體遞交的數值是最低的。", "answer": "是", "question_group": 444}

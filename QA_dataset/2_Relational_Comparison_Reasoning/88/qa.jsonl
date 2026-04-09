@@ -1,10 +1,10 @@
 {"category": "Open", "question_type": "Comparison", "question": "2023年和2022年的股東權益相差多少？", "answer": "2023年和2022年的股東權益相差88.89"}
 {"category": "Open", "question_type": "Comparison", "question": "2023年的現金及現金等價物比信用融資渠道多多少億元？", "answer": "600億元"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，2023年和2022年的股東權益相差多少？", "answer": "C", "choice": ["90.00", "87.89", "88.89", "88.99"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的數據，現金及現金等價物與信用融資渠道的比較，現金及現金等價物多了多少億元？", "answer": "C", "choice": ["450億元", "550億元", "600億元", "650億元"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，2023年和2022年的股東權益相差多少？", "answer": "C", "choice": ["88.99", "87.89", "88.89", "90.00"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的數據，現金及現金等價物與信用融資渠道的比較，現金及現金等價物多了多少億元？", "answer": "D", "choice": ["450億元", "550億元", "650億元", "600億元"]}
 {"category": "Open", "question_type": "Difference Calculation", "question": "占比最高的資產類別和最低的資產類別的差距是多少?", "answer": "60%"}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據提供的資產配置圖，最高和最低資產類別的占比差距為多少？", "answer": "C", "choice": ["25%", "45%", "60%", "80%"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據表1的資料，以下哪一項最有可能是2023年股東權益比相比2022年增加的百分比？", "answer": "D", "choice": ["12%", "7%", "9.5%", "8%"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據提供的資產配置圖，最高和最低資產類別的占比差距為多少？", "answer": "A", "choice": ["60%", "80%", "45%", "25%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表1的資料，以下哪一項最有可能是2023年股東權益比相比2022年增加的百分比？", "answer": "A", "choice": ["8%", "12%", "9.5%", "7%"]}
 {"category": "YesNo", "question_type": "Comparison", "question": "根據表2，2023年的現金及現金等價物比信用融資渠道多了600億元。", "answer": "是", "question_group": 663}
 
 {"category": "YesNo", "question_type": "Comparison", "question": "根據表2，2023年的現金及現金等價物比信用融資渠道多了700億元。", "answer": "否", "question_group": 663}

@@ -3,9 +3,9 @@
 {"category": "Open", "question_type": "Aggregation", "question": "2023年，查詢帳戶資訊和首次交易的總數是多少？", "answer": "176"}
 {"category": "Open", "question_type": "Aggregation", "question": "表格中所有通知方式的平均審核完成時間之和是多少？", "answer": "18"}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據圖示顯示，這三種認證方式的平均成功率是多少？", "answer": "C", "choice": ["50.00%", "87.50%", "95.67%", "66.67%"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的數據，所有項目的平均處理時間總和為多少天？請參考以下數據圖表進行判斷。", "answer": "C", "choice": ["4.5天", "5.3天", "5.8天", "6.0天"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年帳戶資訊的統計，首次交易的總數可能是哪一個數字？", "answer": "C", "choice": ["172", "184", "176", "158"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據已提供的表格，所有通知方式的平均審核完成時間之和，以下哪一項是正確的？", "answer": "C", "choice": ["19", "22", "18", "16"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的數據，所有項目的平均處理時間總和為多少天？請參考以下數據圖表進行判斷。", "answer": "D", "choice": ["6.0天", "4.5天", "5.3天", "5.8天"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年帳戶資訊的統計，首次交易的總數可能是哪一個數字？", "answer": "C", "choice": ["172", "158", "176", "184"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據已提供的表格，所有通知方式的平均審核完成時間之和，以下哪一項是正確的？", "answer": "B", "choice": ["19", "18", "16", "22"]}
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據表5，所有通知方式的平均審核完成時間之和是18。", "answer": "是", "question_group": 970}
 
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據表5，所有通知方式的平均審核完成時間之和是20。", "answer": "否", "question_group": 970}

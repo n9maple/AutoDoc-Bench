@@ -1,9 +1,9 @@
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖1，以下哪一選項正確描述了線上渠道與其他渠道的理賠申請數量的比較？", "answer": "C", "choice": ["大部分的理賠申請是來自於線上渠道，但有少量來自於其他渠道", "其他渠道的申請數量與線上渠道相當", "其他渠道的理賠申請數量更少", "線上渠道理賠申請的數量明顯高於其他渠道，超過70%"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖2，以下哪一個階段的工作日數量最少？", "answer": "C", "choice": ["階段3的工作日數量是2而且是最少的", "階段1的工作日數量均為2", "階段1和階段5的工作日數量均為3", "階段4的工作日數量等於階段2和階段5之和"]}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "在圖3中，有兩種類型的期限天數，你能推算出它們之間的差異是多少天？", "answer": "C", "choice": ["20天", "15天", "23天", "28天"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖3，以下哪一種類型具有較短的期限天數？", "answer": "C", "choice": ["類型 5 (30天)", "類型 3 (25天)", "類型 7", "類型 4 (20天)"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖4，申訴後未獲得調整的人數比獲得調整的人數多出多少？下列選項中哪一項是正確的？", "answer": "C", "choice": ["70", "50", "80", "120"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖5，以下哪一種通知方式的使用比例最低？", "answer": "C", "choice": ["使用比例為5%的通知方式", "使用比例為12%的通知方式", "使用比例為10%的通知方式", "使用比例為7%的通知方式"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖1，以下哪一選項正確描述了線上渠道與其他渠道的理賠申請數量的比較？", "answer": "B", "choice": ["其他渠道的申請數量與線上渠道相當", "其他渠道的理賠申請數量更少", "線上渠道理賠申請的數量明顯高於其他渠道，超過70%", "大部分的理賠申請是來自於線上渠道，但有少量來自於其他渠道"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖2，以下哪一個階段的工作日數量最少？", "answer": "A", "choice": ["階段1和階段5的工作日數量均為3", "階段1的工作日數量均為2", "階段4的工作日數量等於階段2和階段5之和", "階段3的工作日數量是2而且是最少的"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "在圖3中，有兩種類型的期限天數，你能推算出它們之間的差異是多少天？", "answer": "A", "choice": ["23天", "28天", "20天", "15天"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖3，以下哪一種類型具有較短的期限天數？", "answer": "B", "choice": ["類型 5 (30天)", "類型 7", "類型 3 (25天)", "類型 4 (20天)"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖4，申訴後未獲得調整的人數比獲得調整的人數多出多少？下列選項中哪一項是正確的？", "answer": "A", "choice": ["80", "70", "50", "120"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖5，以下哪一種通知方式的使用比例最低？", "answer": "B", "choice": ["使用比例為7%的通知方式", "使用比例為10%的通知方式", "使用比例為5%的通知方式", "使用比例為12%的通知方式"]}
 {"category": "Open", "question_type": "Comparison", "question": "在圖1中，線上渠道與其他渠道的數量相比，哪一個渠道的理賠申請數量更少？", "answer": "其他渠道的理賠申請數量更少"}
 {"category": "Open", "question_type": "Comparison", "question": "根據圖2，哪一個階段的工作日數量最少？", "answer": "階段1和階段5的工作日數量最少，均為3"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "在圖3中，兩個類型的期限天數差是多少？", "answer": "23天"}

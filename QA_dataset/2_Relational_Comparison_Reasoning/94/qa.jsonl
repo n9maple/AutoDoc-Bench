@@ -2,15 +2,15 @@
 {"category": "Open", "question_type": "Comparison", "question": "在2023年，哪一個領域的預算與健康的預算相同？", "answer": "文化遺產"}
 {"category": "Open", "question_type": "Comparison", "question": "哪一項任務的完成量在數量上更大，種植的樹木數量還是清理的垃圾重量（以公斤計算）？", "answer": "種植的樹木數量在數量上更大。"}
 {"category": "Open", "question_type": "Comparison", "question": "在2023年，創新項目獲獎數比內部晉升人數少了多少？", "answer": "450"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據綠色債券發行和可再生能源項目支持的效果，以下哪一項正確描述了它們在減少二氧化碳排放方面的比較？", "answer": "C", "choice": ["綠色債券的效果相對於可再生能源項目的效果是難以評估的。", "可再生能源項目支持的減少二氧化碳排放數據顯示為較低。", "綠色債券發行和可再生能源項目支持在減少二氧化碳排放上的數值相同。", "綠色債券的發行僅在特定情況下能減少二氧化碳排放。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的數據，創新項目獲獎數與內部晉升人數之間的差距是多少？", "answer": "C", "choice": ["550", "480", "450", "430"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據綠色債券發行和可再生能源項目支持的效果，以下哪一項正確描述了它們在減少二氧化碳排放方面的比較？", "answer": "B", "choice": ["綠色債券的效果相對於可再生能源項目的效果是難以評估的。", "綠色債券發行和可再生能源項目支持在減少二氧化碳排放上的數值相同。", "可再生能源項目支持的減少二氧化碳排放數據顯示為較低。", "綠色債券的發行僅在特定情況下能減少二氧化碳排放。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的數據，創新項目獲獎數與內部晉升人數之間的差距是多少？", "answer": "D", "choice": ["430", "480", "550", "450"]}
 {"category": "Open", "question_type": "Difference Calculation", "question": "2022年與2023年的綠色金融投資金額差距是多少？", "answer": "由於沒有具體的數據，我無法計算出2022年與2023年的綠色金融投資金額差距。"}
 {"category": "Open", "question_type": "Comparison", "question": "哪一年在永豐金控綠色金融投資上表現出更高的金額？", "answer": "由於沒有具體的數據提供，我無法給出確切的答案。"}
 {"category": "Open", "question_type": "Comparison", "question": "哪個利益相關者的交流活動數量是最低的？", "answer": "交流活動數量為3的利益相關者"}
 {"category": "MCQ", "question_type": "Difference Calculation", "question": "根據以下圖片，2022年與2023年的綠色金融投資金額差距為多少？", "answer": "C", "choice": ["2022年綠色金融投資金額為500萬元，2023年為1500萬元", "2022年與2023年的綠色金融投資金額相同", "無法確定，因為缺乏具體的數據", "2023年的投資金額比2022年多1000萬元"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據永豐金控的綠色金融投資，以下哪一年表現出更高的金額？", "answer": "C", "choice": ["在2022年，綠色金融投資額明顯下降", "2023年的投資額與2022年持平，未有增長", "無法確定由於缺乏具體數據", "2022年的綠色金融投資額超過2023年，因而預測2023年的金額會下降"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的資料比較 '員工培訓時數 (人均)' 和 '合作非營利組織數' 在所有年份的數值，以下哪個指標在大多數年份中數值更高?", "answer": "C", "choice": ["合作非營利組織數在大多數年份中數值更高", "員工培訓時數 (人均) 在所有年份中數值都高於合作非營利組織數", "無法確定，因為缺乏具體的數據", "員工培訓時數 (人均) 的數值在大多數年份中高於合作非營利組織數"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的圖片，哪個利益相關者的交流活動數量是最低的？", "answer": "C", "choice": ["交流活動數量為1的利益相關者-最少", "交流活動數量為2的利益相關者-次少", "交流活動數量為3的利益相關者", "交流活動數量為3的利益相關者-接近最低"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據永豐金控的綠色金融投資，以下哪一年表現出更高的金額？", "answer": "B", "choice": ["2023年的投資額與2022年持平，未有增長", "無法確定由於缺乏具體數據", "2022年的綠色金融投資額超過2023年，因而預測2023年的金額會下降", "在2022年，綠色金融投資額明顯下降"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的資料比較 '員工培訓時數 (人均)' 和 '合作非營利組織數' 在所有年份的數值，以下哪個指標在大多數年份中數值更高?", "answer": "C", "choice": ["員工培訓時數 (人均) 的數值在大多數年份中高於合作非營利組織數", "員工培訓時數 (人均) 在所有年份中數值都高於合作非營利組織數", "無法確定，因為缺乏具體的數據", "合作非營利組織數在大多數年份中數值更高"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的圖片，哪個利益相關者的交流活動數量是最低的？", "answer": "D", "choice": ["交流活動數量為2的利益相關者-次少", "交流活動數量為1的利益相關者-最少", "交流活動數量為3的利益相關者-接近最低", "交流活動數量為3的利益相關者"]}
 {"category": "Open", "question_type": "Difference Calculation", "question": "根據圖3，兩個環保指標的百分比差是多少？", "answer": "5%"}
 {"category": "Open", "question_type": "Ranking", "question": "根據圖2的資料，哪個年份的合作非營利組織數量最多？", "answer": "2023年"}
 {"category": "YesNo", "question_type": "Comparison", "question": "根據圖2，無法確定 '員工培訓時數 (人均)' 和 '合作非營利組織數' 中哪個指標在大多數年份中數值更高，因為缺乏具體的數據。", "answer": "是", "question_group": 679}

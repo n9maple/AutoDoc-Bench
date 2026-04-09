@@ -5,14 +5,14 @@
 {"category": "Open", "question_type": "Temporal Reasoning", "question": "從2023Q1到2023Q2，基準利率增加了多少百分點？", "answer": "基準利率增加了0.75個百分點。"}
 {"category": "Open", "question_type": "Temporal Reasoning", "question": "從2023年到2024年，全球增長率的變化幅度是多少？", "answer": "0.4%"}
 {"category": "Open", "question_type": "Aggregation", "question": "在2023年和2024年，美國和歐洲的平均增長率分別是多少？", "answer": "美國的平均增長率是2.15%，歐洲的平均增長率是1.95%。"}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2023年第三季度和第四季度的儲蓄帳戶利率，以下哪一項是正確的？", "answer": "C", "choice": ["第三季度的儲蓄帳戶利率為1.6%，第四季度降至1.5%。", "第三季度的利率是1.5%，但第四季度上升至2.0%。", "兩個季度的儲蓄帳戶利率均為1.5%，沒有變化。", "兩個季度的儲蓄帳戶利率均為1.5%，但有下降趨勢。"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年各季度儲蓄帳戶的利率，哪一個選項最接近這些利率的平均值?", "answer": "C", "choice": ["1.1%", "1.4%", "1.375%", "1.7%"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2023年各季度的GDP增長率圖示，從2023Q1到2023Q4，增長率的下降幅度為何？", "answer": "C", "choice": ["2.5%", "1.6%", "1.1%", "0.9%"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據提供的通脹率變化圖，從2023Q1到2023Q4，通脹率變化的百分比是多少？", "answer": "C", "choice": ["0.2個百分點", "0.4個百分點", "0.1個百分點", "-0.3個百分點"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據提供的數據，從2023Q1到2023Q2，基準利率的變化情況如何？", "answer": "C", "choice": ["基準利率增加了0.6個百分點。", "基準利率增加了0.4個百分點。", "基準利率增加了0.75個百分點。", "基準利率減少了0.5個百分點。"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023Q1和2023Q2的資料，平均基準利率是多少？請參考相關圖表來找出正確答案。", "answer": "C", "choice": ["4.5%", "5.0%", "4.875%", "5.125%"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2023年和2024年的統計數據，全球增長率的變化幅度為何？", "answer": "C", "choice": ["1.0%", "0.75%", "0.4%", "-0.1%"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年和2024年的數據，以下關於美國和歐洲的平均增長率哪一項是正確的？", "answer": "C", "choice": ["美國和歐洲的平均增長率都是2.00%。", "美國的平均增長率是2.15%，歐洲的平均增長率是2.10%。", "美國的平均增長率是2.15%，歐洲的平均增長率是1.95%。", "美國的平均增長率是2.00%，歐洲的平均增長率是2.15%。"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2023年第三季度和第四季度的儲蓄帳戶利率，以下哪一項是正確的？", "answer": "B", "choice": ["第三季度的儲蓄帳戶利率為1.6%，第四季度降至1.5%。", "兩個季度的儲蓄帳戶利率均為1.5%，沒有變化。", "第三季度的利率是1.5%，但第四季度上升至2.0%。", "兩個季度的儲蓄帳戶利率均為1.5%，但有下降趨勢。"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年各季度儲蓄帳戶的利率，哪一個選項最接近這些利率的平均值?", "answer": "D", "choice": ["1.4%", "1.7%", "1.1%", "1.375%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2023年各季度的GDP增長率圖示，從2023Q1到2023Q4，增長率的下降幅度為何？", "answer": "A", "choice": ["1.1%", "2.5%", "0.9%", "1.6%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據提供的通脹率變化圖，從2023Q1到2023Q4，通脹率變化的百分比是多少？", "answer": "B", "choice": ["0.4個百分點", "0.1個百分點", "-0.3個百分點", "0.2個百分點"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據提供的數據，從2023Q1到2023Q2，基準利率的變化情況如何？", "answer": "D", "choice": ["基準利率增加了0.4個百分點。", "基準利率減少了0.5個百分點。", "基準利率增加了0.6個百分點。", "基準利率增加了0.75個百分點。"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023Q1和2023Q2的資料，平均基準利率是多少？請參考相關圖表來找出正確答案。", "answer": "A", "choice": ["4.875%", "4.5%", "5.0%", "5.125%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2023年和2024年的統計數據，全球增長率的變化幅度為何？", "answer": "C", "choice": ["1.0%", "-0.1%", "0.4%", "0.75%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年和2024年的數據，以下關於美國和歐洲的平均增長率哪一項是正確的？", "answer": "A", "choice": ["美國的平均增長率是2.15%，歐洲的平均增長率是1.95%。", "美國的平均增長率是2.15%，歐洲的平均增長率是2.10%。", "美國的平均增長率是2.00%，歐洲的平均增長率是2.15%。", "美國和歐洲的平均增長率都是2.00%。"]}
 {"category": "Open", "question_type": "Temporal Trend", "question": "根據 2023 年主要國家央行基準利率走勢圖，哪個國家的利率在 2023 年期間保持不變？", "answer": "日本"}
 {"category": "Open", "question_type": "Rate of Change", "question": "從 2023 年第一季度到第二季度，哪個國家的基準利率增加得最多？", "answer": "歐元區的基準利率增加得最多，增加了0.5%"}
 {"category": "Open", "question_type": "Aggregation", "question": "在 2023 年，台灣的基準利率在四個季度的平均值是多少？", "answer": "1.625"}
@@ -21,16 +21,16 @@
 {"category": "Open", "question_type": "Temporal Trend", "question": "在2023年中華郵政儲蓄帳戶利率變化中，哪一個季度的利率最低？", "answer": "2023Q1的利率最低，為1.75%"}
 {"category": "Open", "question_type": "Rate of Change", "question": "從2023Q1到2023Q2，儲蓄帳戶利率的增長幅度是多少？", "answer": "增長幅度是0.10%"}
 {"category": "Open", "question_type": "Temporal Trend", "question": "從2023年到2024年，台灣的通脹率是上升還是下降？", "answer": "下降"}
-{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據 2023 年主要國家央行基準利率走勢圖，以下哪個國家的利率在 2023 年期間保持不變？", "answer": "D", "choice": ["歐元區", "美國", "英國", "日本"]}
-{"category": "MCQ", "question_type": "Rate of Change", "question": "根據2023年第一季度到第二季度的數據，哪個國家的基準利率增幅最大？", "answer": "C", "choice": ["歐元區的基準利率增加了0.6%", "英國的基準利率增加了0.3%", "歐元區的基準利率增加了0.5%", "美國的基準利率增加了0.4%"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年四個季度的資料，台灣基準利率的平均值為多少？請參考提供的數據圖表來做出選擇。", "answer": "C", "choice": ["1.450", "1.750", "1.625", "1.500"]}
-{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2023年Q2到Q3之間的資料，台灣消費者信心指數的變化趨勢為何？", "answer": "C", "choice": ["消費者信心指數從78.0下降至76.0，顯示出信心顯著降低。", "消費者信心指數從80.0回落至79.0，顯示出信心略微下降。", "消費者信心指數從78.5上升到79.8，顯示出信心增強。", "消費者信心指數穩定於78.5，顯示出信心無顯著變化。"]}
-{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2023年中華郵政儲蓄帳戶利率變化的圖片，哪一個季度的利率最低？", "answer": "C", "choice": ["2023Q2的利率最低，為1.65%", "2023年整體利率為1.70%", "2023Q1的利率最低，為1.75%", "2023Q3的利率為2.00%"]}
-{"category": "MCQ", "question_type": "Rate of Change", "question": "根據以下圖片，從2023Q1到2023Q2，儲蓄帳戶利率的增長幅度可能是多少？", "answer": "C", "choice": ["增長幅度是0.05%", "增長幅度是0.20%", "增長幅度是0.10%", "增長幅度是0.10%以下"]}
-{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖表，從2023年到2024年，台灣的通脹率是上升還是下降？", "answer": "C", "choice": ["通脹率在2023年急劇上升後略微回落", "持平或微幅上升", "下降", "持續增長至2024年"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據 2023 年主要國家央行基準利率走勢圖，以下哪個國家的利率在 2023 年期間保持不變？", "answer": "C", "choice": ["歐元區", "英國", "日本", "美國"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據2023年第一季度到第二季度的數據，哪個國家的基準利率增幅最大？", "answer": "C", "choice": ["英國的基準利率增加了0.3%", "歐元區的基準利率增加了0.6%", "歐元區的基準利率增加了0.5%", "美國的基準利率增加了0.4%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年四個季度的資料，台灣基準利率的平均值為多少？請參考提供的數據圖表來做出選擇。", "answer": "B", "choice": ["1.500", "1.625", "1.450", "1.750"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2023年Q2到Q3之間的資料，台灣消費者信心指數的變化趨勢為何？", "answer": "D", "choice": ["消費者信心指數從80.0回落至79.0，顯示出信心略微下降。", "消費者信心指數從78.0下降至76.0，顯示出信心顯著降低。", "消費者信心指數穩定於78.5，顯示出信心無顯著變化。", "消費者信心指數從78.5上升到79.8，顯示出信心增強。"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2023年中華郵政儲蓄帳戶利率變化的圖片，哪一個季度的利率最低？", "answer": "C", "choice": ["2023Q3的利率為2.00%", "2023年整體利率為1.70%", "2023Q1的利率最低，為1.75%", "2023Q2的利率最低，為1.65%"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據以下圖片，從2023Q1到2023Q2，儲蓄帳戶利率的增長幅度可能是多少？", "answer": "B", "choice": ["增長幅度是0.20%", "增長幅度是0.10%", "增長幅度是0.10%以下", "增長幅度是0.05%"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖表，從2023年到2024年，台灣的通脹率是上升還是下降？", "answer": "A", "choice": ["下降", "持平或微幅上升", "持續增長至2024年", "通脹率在2023年急劇上升後略微回落"]}
 {"category": "Open", "question_type": "Aggregation", "question": "根據表1的資料，2023年下半年的平均利率是多少？", "answer": "1.5%"}
 {"category": "Open", "question_type": "Aggregation", "question": "根據表2的資料，計算2023年全年GDP的平均增長率。", "answer": "2023年全年GDP的平均增長率為2.45%。"}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據表1的資料，2023年下半年的平均利率是多少？以下哪一項是正確的選擇？", "answer": "B", "choice": ["1.0%", "1.5%", "1.3%", "1.7%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表1的資料，2023年下半年的平均利率是多少？以下哪一項是正確的選擇？", "answer": "C", "choice": ["1.7%", "1.3%", "1.5%", "1.0%"]}
 {"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖7，從2023年到2024年，台灣的通脹率趨勢如何變化？", "answer": "C", "choice": ["台灣的通脹率持平，無明顯變化。", "台灣的通脹率小幅變動，無明顯趨勢。", "台灣的通脹率呈現下降趨勢。", "台灣的通脹率在2023年到2024年間輕微上升。"]}
 {"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖2，從2023年Q2到Q3，台灣消費者信心指數從78.5上升到79.8，顯示出信心增強。", "answer": "是", "question_group": 857}
 

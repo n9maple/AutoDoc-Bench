@@ -1,6 +1,6 @@
 {"category": "Open", "question_type": "Multi-hop Reasoning", "question": "兒童儲蓄帳戶和青年儲蓄帳戶的原利率和新利率分別相差多少百分點？", "answer": "兒童儲蓄帳戶的利率相差0.2個百分點，青年儲蓄帳戶的利率相差0.2個百分點。"}
-{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據下圖，兒童儲蓄帳戶和青年儲蓄帳戶的原利率和新利率之間的差異是多少百分點？", "answer": "C", "choice": ["兩者利率相差相同，無差異", "兩者利率相差0.1個百分點", "兩者利率相差0.2個百分點", "兩者利率相差0.5個百分點"]}
-{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表6的資料，從2023年到2024年，全球的增長率和美國的增長率分別提升了多少個百分點，兩者的數值相加是幾個百分點？以下哪一選項是正確的總和？", "answer": "C", "choice": ["1.0個百分點", "0.8個百分點", "0.7個百分點", "1.2個百分點"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據下圖，兒童儲蓄帳戶和青年儲蓄帳戶的原利率和新利率之間的差異是多少百分點？", "answer": "C", "choice": ["兩者利率相差0.5個百分點", "兩者利率相差0.1個百分點", "兩者利率相差0.2個百分點", "兩者利率相差相同，無差異"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表6的資料，從2023年到2024年，全球的增長率和美國的增長率分別提升了多少個百分點，兩者的數值相加是幾個百分點？以下哪一選項是正確的總和？", "answer": "A", "choice": ["0.7個百分點", "0.8個百分點", "1.2個百分點", "1.0個百分點"]}
 {"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表5，兒童儲蓄帳戶和青年儲蓄帳戶的原利率和新利率的差異都是0.2個百分點。", "answer": "是", "question_group": 1297}
 
 {"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表5，兒童儲蓄帳戶和青年儲蓄帳戶的原利率和新利率的差異是0.1個百分點。", "answer": "否", "question_group": 1297}

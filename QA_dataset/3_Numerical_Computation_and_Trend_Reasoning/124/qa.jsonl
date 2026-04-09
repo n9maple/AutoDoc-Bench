@@ -1,2 +1,2 @@
 {"category": "Open", "question_type": "Temporal Reasoning", "question": "根據表1的資料，假設無銀行協助案件的追回損失比例每年增加3%，銀行協助案件的比例則保持不變，那麼五年後這兩者的追回損失比例差距會是多少？", "answer": "0%"}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表1的資料，假設無銀行協助案件的追回損失比例每年增加3%，銀行協助案件的比例保持不變，那麼五年後這兩者的追回損失比例差距會是以下哪一項？", "answer": "C", "choice": ["15%", "10%", "0%", "5%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表1的資料，假設無銀行協助案件的追回損失比例每年增加3%，銀行協助案件的比例保持不變，那麼五年後這兩者的追回損失比例差距會是以下哪一項？", "answer": "A", "choice": ["0%", "15%", "10%", "5%"]}

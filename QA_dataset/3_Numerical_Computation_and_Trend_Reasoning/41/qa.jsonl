@@ -3,17 +3,17 @@
 {"category": "Open", "question_type": "Temporal Reasoning", "question": "從2024-07到2024-10，新房貸申請案件數的最大值有什麼樣的變化趨勢？", "answer": "從2024-07到2024-10，新房貸申請案件數的最大值呈現逐月上升的趨勢，從980上升到1100。"}
 {"category": "Open", "question_type": "Aggregation", "question": "2024年下半年中，哪個月份的新房貸申請案件數量範圍最小，範圍是多少？", "answer": "2024-07 的新房貸申請案件數量範圍最小，範圍是 70。"}
 {"category": "Open", "question_type": "Aggregation", "question": "2024年2月和3月的線上試算工具使用人數合計是多少？", "answer": "4,400"}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據以下利率變化的情境，調整前與調整後的最低年利率的平均值是多少？（請參考附圖）", "answer": "C", "choice": ["1.99", "1.85", "1.94", "2.00"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據以下利率變化的情境，調整前與調整後的最低年利率的平均值是多少？（請參考附圖）", "answer": "D", "choice": ["2.00", "1.85", "1.99", "1.94"]}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，浮動利率和固定利率的貸款餘額總和是？", "answer": "C", "choice": ["2800", "3200", "3000", "3100"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2024年7月到10月的新房貸申請案件數據，最大值的變化趨勢是什麼？", "answer": "D", "choice": ["最大值從970逐月上升到1100", "最大值從980降至950，然後逐月上升到1100", "最大值在七月到八月增加至990，然後在九月保持不變，十月上升到1100", "最大值從980逐月上升到1100"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據2024年下半年新房貸申請案件數量的統計，哪個月份的申請案件數量範圍最小？", "answer": "C", "choice": ["2024年7月的申請案件數量範圍是85，顯著高於正確答案。", "2024年6月的申請案件數量範圍是90，顯著高於正確答案。", "2024年7月的申請案件數量範圍最小，範圍是70。", "2024年8月的申請案件數量範圍是75，接近但仍高於正確答案。"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的數據，2024年2月和3月的線上試算工具使用人數合計是多少？", "answer": "C", "choice": ["4,300", "4,500", "4,400", "4,600"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2024年7月到10月的新房貸申請案件數據，最大值的變化趨勢是什麼？", "answer": "C", "choice": ["最大值在七月到八月增加至990，然後在九月保持不變，十月上升到1100", "最大值從970逐月上升到1100", "最大值從980逐月上升到1100", "最大值從980降至950，然後逐月上升到1100"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2024年下半年新房貸申請案件數量的統計，哪個月份的申請案件數量範圍最小？", "answer": "C", "choice": ["2024年8月的申請案件數量範圍是75，接近但仍高於正確答案。", "2024年7月的申請案件數量範圍是85，顯著高於正確答案。", "2024年7月的申請案件數量範圍最小，範圍是70。", "2024年6月的申請案件數量範圍是90，顯著高於正確答案。"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的數據，2024年2月和3月的線上試算工具使用人數合計是多少？", "answer": "B", "choice": ["4,500", "4,400", "4,300", "4,600"]}
 {"category": "Open", "question_type": "Aggregation", "question": "所有專案類型的總戶數是多少？", "answer": "9750"}
 {"category": "Open", "question_type": "Aggregation", "question": "2024年浮動利率房貸戶數調整分布中總戶數是多少？", "answer": "46800"}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖所示，所有專案類型的總戶數是多少？", "answer": "C", "choice": ["10500", "9600", "9750", "9800"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據2024年浮動利率房貸戶數調整分布中，有多少戶數？下列選項中哪一項為正確的戶數？", "answer": "D", "choice": ["45000", "47050", "48000", "46800"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖所示，所有專案類型的總戶數是多少？", "answer": "A", "choice": ["9750", "9600", "9800", "10500"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2024年浮動利率房貸戶數調整分布中，有多少戶數？下列選項中哪一項為正確的戶數？", "answer": "A", "choice": ["46800", "47050", "48000", "45000"]}
 {"category": "Open", "question_type": "Aggregation", "question": "根據圖5，所有協助方案的申請/諮詢人數總和是多少？", "answer": "1030"}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖4中提供的數據，以下哪一項是兩個調整基準月的浮動利率房貸戶數總和？", "answer": "C", "choice": ["47800", "39800", "46800", "45800"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖4中提供的數據，以下哪一項是兩個調整基準月的浮動利率房貸戶數總和？", "answer": "B", "choice": ["45800", "46800", "39800", "47800"]}
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，2024年2月和3月的線上試算工具使用人數合計是4,400。", "answer": "是", "question_group": 918}
 
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據表4，2024年2月和3月的線上試算工具使用人數合計是4,000。", "answer": "否", "question_group": 918}

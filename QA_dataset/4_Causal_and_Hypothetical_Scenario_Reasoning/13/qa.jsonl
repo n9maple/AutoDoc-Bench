@@ -1,5 +1,5 @@
 {"category": "Open", "question_type": "Multi-hop Reasoning", "question": "2022年製造業和科技業的總和和2023年製造業和科技業的總和相差多少個百分點？", "answer": "0個百分點"}
-{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據2022年和2023年的數據，製造業和科技業的總和相差多少個百分點？", "answer": "C", "choice": ["科技業在2023年增長了3個百分點，因此兩者相差3個百分點", "2個百分點", "0個百分點", "4個百分點"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據2022年和2023年的數據，製造業和科技業的總和相差多少個百分點？", "answer": "C", "choice": ["4個百分點", "科技業在2023年增長了3個百分點，因此兩者相差3個百分點", "0個百分點", "2個百分點"]}
 {"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表5，2022年和2023年製造業和科技業的總和相差0個百分點。", "answer": "是", "question_group": 1244}
 
 {"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表5，2022年和2023年製造業和科技業的總和相差10個百分點。", "answer": "否", "question_group": 1244}

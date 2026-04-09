@@ -1,6 +1,6 @@
 {"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果金融卡操作佔比提高 3%，那麼它會達到多少百分比？", "answer": "95%"}
-{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "若金融卡操作占比提高了3%，則其總占比可能是多少？請根據下方圖示選擇正確的答案。", "answer": "C", "choice": ["88%", "92%", "95%", "96%"]}
-{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表2的資料，若機台自動退回異常鈔券的情況下，若異常鈔券總數為 2000 張，則異常鈔券退回錯誤的次數為多少？以下哪個選項最符合這一結果？", "answer": "B", "choice": ["8 次", "0.4 次", "6 次", "2 次"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "若金融卡操作占比提高了3%，則其總占比可能是多少？請根據下方圖示選擇正確的答案。", "answer": "C", "choice": ["96%", "92%", "95%", "88%"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表2的資料，若機台自動退回異常鈔券的情況下，若異常鈔券總數為 2000 張，則異常鈔券退回錯誤的次數為多少？以下哪個選項最符合這一結果？", "answer": "C", "choice": ["2 次", "8 次", "0.4 次", "6 次"]}
 {"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表4，金融卡操作占比提高 3% 後，其總占比可能是 95%。", "answer": "是", "question_group": 1440}
 
 {"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表4，金融卡操作占比提高 3% 後，其總占比可能是 85%。", "answer": "否", "question_group": 1440}

@@ -1,7 +1,7 @@
 {"category": "Open", "question_type": "Multi-hop Reasoning", "question": "從2023年的數據來看，若短期資產與負債匹配程度在2024年達成目標，需要提高多少個百分點？", "answer": "需要提高5個百分點"}
 {"category": "Open", "question_type": "Multi-hop Reasoning", "question": "從2022Q3到2023Q3，資本總額增加了多少，並且這個增加量佔2022Q3資本總額的百分比是多少？", "answer": "資本總額增加了47.17，這個增加量佔2022Q3資本總額的百分比是約5.875%"}
 {"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據2023年的數據，如果短期資產與負債的匹配程度在2024年要達成目標，則需要提高多少個百分點？", "answer": "C", "choice": ["不需要提高任何百分點", "需要提高10個百分點", "需要提高5個百分點", "需要提高6個百分點"]}
-{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據下圖顯示的2022Q3至2023Q3的資本總額變化，資本總額的增加量是多少，並且這個增加量佔2022Q3資本總額的百分比是多少？", "answer": "C", "choice": ["資本總額增加了50，佔2022Q3資本總額的約4.5%", "資本總額增加了30，佔2022Q3資本總額的約3.5%", "資本總額增加了47.17，佔2022Q3資本總額的約5.875%", "資本總額增加了60，佔2022Q3資本總額的約7%"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據下圖顯示的2022Q3至2023Q3的資本總額變化，資本總額的增加量是多少，並且這個增加量佔2022Q3資本總額的百分比是多少？", "answer": "D", "choice": ["資本總額增加了30，佔2022Q3資本總額的約3.5%", "資本總額增加了60，佔2022Q3資本總額的約7%", "資本總額增加了50，佔2022Q3資本總額的約4.5%", "資本總額增加了47.17，佔2022Q3資本總額的約5.875%"]}
 {"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，2023年的短期資產與負債匹配程度是80%，而2024年的目標是85%，因此需要提高5個百分點。", "answer": "是", "question_group": 1500}
 
 {"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，2023年的短期資產與負債匹配程度是85%，而2024年的目標是90%，因此需要提高5個百分點。", "answer": "否", "question_group": 1500}

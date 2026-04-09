@@ -1,2 +1,2 @@
 {"category": "Open", "question_type": "Multi-hop Reasoning", "question": "根據表1的資料，若將TXO合約的交易量增加50%，總交易量將會變成多少？", "answer": "3億口"}
-{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表1的資料，若將TXO合約的交易量增加50%，總交易量將會變成以下哪一選項？", "answer": "C", "choice": ["3.5億口", "4.5億口", "3億口", "2.5億口"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表1的資料，若將TXO合約的交易量增加50%，總交易量將會變成以下哪一選項？", "answer": "A", "choice": ["3億口", "2.5億口", "4.5億口", "3.5億口"]}

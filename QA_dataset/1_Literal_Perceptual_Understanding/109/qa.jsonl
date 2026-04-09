@@ -1,5 +1,5 @@
 {"category": "Open", "question_type": "Fact Lookup", "question": "參與企業數量最多的領域參與了多少企業？", "answer": "18"}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "在以下哪些領域中，參與企業的數量最多，上述領域參與了多少企業？", "answer": "C", "choice": ["17", "19", "18", "21"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "在以下哪些領域中，參與企業的數量最多，上述領域參與了多少企業？", "answer": "D", "choice": ["19", "21", "17", "18"]}
 {"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖5，參與企業數量最多的領域有18家企業參與。", "answer": "是", "question_group": 244}
 
 {"category": "YesNo", "question_type": "Fact Lookup", "question": "根據圖5，所有領域的參與企業數量都是一樣的。", "answer": "否", "question_group": 244}

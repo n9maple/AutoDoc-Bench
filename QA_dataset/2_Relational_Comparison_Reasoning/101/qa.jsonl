@@ -2,14 +2,14 @@
 {"category": "Open", "question_type": "Comparison", "question": "哪一個行業的固定資產貸款佔比最小？", "answer": "貿易及服務業的固定資產貸款佔比最小，為20%。"}
 {"category": "Open", "question_type": "Comparison", "question": "固定利率的佔比與浮動利率的佔比相比，哪一個較高？", "answer": "固定利率的佔比較高"}
 {"category": "Open", "question_type": "Comparison", "question": "貸款批准的平均時間比資料提交的縮短時間多多少？", "answer": "貸款批准的平均時間比資料提交的縮短時間多2.5週。"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖表中所示，信用良好的百分比比有擔保的百分比高出多少？", "answer": "C", "choice": ["信用良好的百分比比有擔保的比例高出5%", "信用良好的百分比比有擔保的比例低於5%", "5%", "信用良好的比例與有擔保的比例相等"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據某行業的固定資產貸款佔比，下列哪一個行業的固定資產貸款佔比最小？", "answer": "C", "choice": ["農業的固定資產貸款佔比為12%，雖然不低，但仍低於建築業。", "建築業的固定資產貸款佔比為18%，在建築行業中相對較低。", "貿易及服務業的固定資產貸款佔比最小，為20%。", "金融業的固定資產貸款佔比為22%，儘管較高，但與市場變化有關。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，固定利率的佔比與浮動利率的佔比相比，哪一個較高？", "answer": "C", "choice": ["固定利率的佔比因市場不穩定而略微波動", "浮動利率的佔比只是因為短期契約而偏高", "固定利率的佔比較高", "固定與浮動利率的佔比在某些地區可能相似"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據某貸款流程，如果貸款批准的平均時間相較於資料提交的縮短時間增加，請問這個增加的時間是多少？", "answer": "C", "choice": ["2.3週", "3.0週", "2.5週", "10天"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖表中所示，信用良好的百分比比有擔保的百分比高出多少？", "answer": "A", "choice": ["5%", "信用良好的百分比比有擔保的比例低於5%", "信用良好的百分比比有擔保的比例高出5%", "信用良好的比例與有擔保的比例相等"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據某行業的固定資產貸款佔比，下列哪一個行業的固定資產貸款佔比最小？", "answer": "B", "choice": ["建築業的固定資產貸款佔比為18%，在建築行業中相對較低。", "貿易及服務業的固定資產貸款佔比最小，為20%。", "農業的固定資產貸款佔比為12%，雖然不低，但仍低於建築業。", "金融業的固定資產貸款佔比為22%，儘管較高，但與市場變化有關。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，固定利率的佔比與浮動利率的佔比相比，哪一個較高？", "answer": "A", "choice": ["固定利率的佔比較高", "固定利率的佔比因市場不穩定而略微波動", "固定與浮動利率的佔比在某些地區可能相似", "浮動利率的佔比只是因為短期契約而偏高"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據某貸款流程，如果貸款批准的平均時間相較於資料提交的縮短時間增加，請問這個增加的時間是多少？", "answer": "B", "choice": ["10天", "2.5週", "3.0週", "2.3週"]}
 {"category": "Open", "question_type": "Comparison", "question": "平均所需時間最短的流程階段是多少？", "answer": "流程階段 6"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的流程階段資訊，平均所需時間最短的流程階段是以下哪一項？", "answer": "C", "choice": ["流程階段 2（5天）", "流程階段 3（7天）", "流程階段 6", "流程階段 4（10天）"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的流程階段資訊，平均所需時間最短的流程階段是以下哪一項？", "answer": "C", "choice": ["流程階段 3（7天）", "流程階段 4（10天）", "流程階段 6", "流程階段 2（5天）"]}
 {"category": "Open", "question_type": "Ranking", "question": "在圖3中，成功率最高的擔保條件是多少？", "answer": "擔保條件40"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據表2的資料，以下哪個行業的行業專案貸款比例比其固定資產貸款比例高得最多？", "answer": "B", "choice": ["科技行業", "特定行業", "農業行業", "服務業"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表2的資料，以下哪個行業的行業專案貸款比例比其固定資產貸款比例高得最多？", "answer": "B", "choice": ["服務業", "特定行業", "農業行業", "科技行業"]}
 {"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，流程階段 6 的平均所需時間是所有階段中最短的。", "answer": "是", "question_group": 700}
 
 {"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，流程階段 1 的平均所需時間是所有階段中最短的。", "answer": "否", "question_group": 700}

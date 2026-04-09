@@ -3,19 +3,19 @@
 {"category": "Open", "question_type": "Comparison", "question": "2022年，台灣的百分比比英國低多少？", "answer": "4%"}
 {"category": "Open", "question_type": "Comparison", "question": "從數據中可以看出，2023 年的信用損失占總風險曝險比例是高於還是低於 5%？", "answer": "2023年的信用損失占總風險曝險比例是低於5%。"}
 {"category": "Open", "question_type": "Comparison", "question": "2022年和2023年合規性缺失糾正件數相差多少？", "answer": "4"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據市場主要參與者數量與主要貨幣對數量的比較，哪一項是正確的？", "answer": "C", "choice": ["市場的主要參與者數量低於主要貨幣對數量的500倍。", "市場的主要參與者數量並未超過主要貨幣對數量的1500倍。", "市場的主要參與者數量並未超過主要貨幣對數量的800倍。", "市場的主要參與者數量與主要貨幣對數量之比為1000：1。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，2022年新台幣兌歐元的匯率增長率相較於新台幣兌美元的匯率增長率，以下哪一項描述是正確的？", "answer": "C", "choice": ["新台幣兌美元的匯率增長率低於新台幣兌歐元的匯率增長率。", "新台幣兌歐元的匯率增長率和新台幣兌美元的匯率增長率相差不大。", "新台幣兌歐元的匯率增長率高於新台幣兌美元的匯率增長率。", "新台幣兌美元的匯率增長率持平於新台幣兌歐元的匯率增長率。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "在欄 '1' 中，根據圖片，哪個 row 的百分比是最高的？", "answer": "C", "choice": ["row 20 的百分比最高，為 47%。", "row 30 的百分比最高，為 45%。", "row 50 的百分比最高，為 50%。", "row 40 的百分比最高，為 49%。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2022年的數據，台灣的百分比與英國相比是低於哪一個數字？", "answer": "C", "choice": ["3.25%", "2.5%", "4%", "3.75%"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據數據，2023年信用損失占總風險曝險比例，與5%相比，以下哪一項的描述是正確的？", "answer": "C", "choice": ["信用損失占總風險曝險比例明顯高於5%。", "信用損失占總風險曝險比例約為5%，表示接近但並未超過。", "信用損失占總風險曝險比例是低於5%。", "信用損失占總風險曝險比例接近但低於4%。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖表，2022年和2023年合規性缺失糾正件數之間的差異是多少？", "answer": "C", "choice": ["3", "5", "4", "8"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的圖片，地區15和地區22的年成長率比較，哪個地區的年成長率更高？", "answer": "C", "choice": ["地區15的年成長率顯示出比地區22更高的增長潛力", "地區22的年成長率與地區15相比略有下降", "地區22的年成長率更高", "地區15的年成長率與地區22沒有明顯差異"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的資料，所有控管措施的採用銀行數是否相同？", "answer": "C", "choice": ["不，不同控管措施的銀行數量存在輕微差異。", "不，某些控管措施的採用銀行數明顯較少，但整體趨勢相似。", "是，所有控管措施的採用銀行數均相同。", "是，所有控管措施的採用銀行數非常接近，差異微乎其微。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據市場主要參與者數量與主要貨幣對數量的比較，哪一項是正確的？", "answer": "A", "choice": ["市場的主要參與者數量並未超過主要貨幣對數量的800倍。", "市場的主要參與者數量低於主要貨幣對數量的500倍。", "市場的主要參與者數量與主要貨幣對數量之比為1000：1。", "市場的主要參與者數量並未超過主要貨幣對數量的1500倍。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，2022年新台幣兌歐元的匯率增長率相較於新台幣兌美元的匯率增長率，以下哪一項描述是正確的？", "answer": "B", "choice": ["新台幣兌歐元的匯率增長率和新台幣兌美元的匯率增長率相差不大。", "新台幣兌歐元的匯率增長率高於新台幣兌美元的匯率增長率。", "新台幣兌美元的匯率增長率持平於新台幣兌歐元的匯率增長率。", "新台幣兌美元的匯率增長率低於新台幣兌歐元的匯率增長率。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在欄 '1' 中，根據圖片，哪個 row 的百分比是最高的？", "answer": "D", "choice": ["row 20 的百分比最高，為 47%。", "row 40 的百分比最高，為 49%。", "row 30 的百分比最高，為 45%。", "row 50 的百分比最高，為 50%。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2022年的數據，台灣的百分比與英國相比是低於哪一個數字？", "answer": "B", "choice": ["2.5%", "4%", "3.25%", "3.75%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據數據，2023年信用損失占總風險曝險比例，與5%相比，以下哪一項的描述是正確的？", "answer": "B", "choice": ["信用損失占總風險曝險比例明顯高於5%。", "信用損失占總風險曝險比例是低於5%。", "信用損失占總風險曝險比例接近但低於4%。", "信用損失占總風險曝險比例約為5%，表示接近但並未超過。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖表，2022年和2023年合規性缺失糾正件數之間的差異是多少？", "answer": "B", "choice": ["8", "4", "5", "3"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的圖片，地區15和地區22的年成長率比較，哪個地區的年成長率更高？", "answer": "D", "choice": ["地區15的年成長率與地區22沒有明顯差異", "地區15的年成長率顯示出比地區22更高的增長潛力", "地區22的年成長率與地區15相比略有下降", "地區22的年成長率更高"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的資料，所有控管措施的採用銀行數是否相同？", "answer": "A", "choice": ["是，所有控管措施的採用銀行數均相同。", "不，某些控管措施的採用銀行數明顯較少，但整體趨勢相似。", "是，所有控管措施的採用銀行數非常接近，差異微乎其微。", "不，不同控管措施的銀行數量存在輕微差異。"]}
 {"category": "Open", "question_type": "Ranking", "question": "兩年中，哪一年的倍數是最低的？", "answer": "由於沒有具體的倍數數據提供，我無法給出最終答案。"}
-{"category": "MCQ", "question_type": "Ranking", "question": "根據下列年份的倍數數據，哪一年的倍數最低？（請參考附圖）", "answer": "C", "choice": ["年份 D 的倍數高於年份 A 但低於年份 B", "所有年份的倍數不同，但年份 B 的倍數接近最低", "年份 A 的倍數最低", "年份 A 的倍數已顯示為最低，但年份 C 的倍數不明"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據下列年份的倍數數據，哪一年的倍數最低？（請參考附圖）", "answer": "B", "choice": ["年份 D 的倍數高於年份 A 但低於年份 B", "年份 A 的倍數最低", "年份 A 的倍數已顯示為最低，但年份 C 的倍數不明", "所有年份的倍數不同，但年份 B 的倍數接近最低"]}
 {"category": "Open", "question_type": "Comparison", "question": "在圖7中，所有指標的完成率是否一致？", "answer": "是，所有指標的完成率一致，因為每個指標的完成率都是100%。"}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖5的資料，兩個地區之間的金融機構違約損失年成長率差異是多少？以下哪一選項是正確的？", "answer": "C", "choice": ["12%", "4%", "7%", "5%"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖6，控管措施的採用銀行數是否呈現相同的數值？", "answer": "C", "choice": ["是，但只有一半的銀行採用相同的控管措施。", "否，控管措施的採用銀行數顯示有明顯差異。", "是，控管措施的採用銀行數呈現相同的數值。", "是，但只有部分控管措施的採用銀行數相同。"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖5的資料，兩個地區之間的金融機構違約損失年成長率差異是多少？以下哪一選項是正確的？", "answer": "D", "choice": ["12%", "5%", "4%", "7%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖6，控管措施的採用銀行數是否呈現相同的數值？", "answer": "D", "choice": ["是，但只有一半的銀行採用相同的控管措施。", "否，控管措施的採用銀行數顯示有明顯差異。", "是，但只有部分控管措施的採用銀行數相同。", "是，控管措施的採用銀行數呈現相同的數值。"]}
 {"category": "YesNo", "question_type": "Comparison", "question": "根據圖6，所有控管措施的採用銀行數均相同，均為2。", "answer": "是", "question_group": 501}
 
 {"category": "YesNo", "question_type": "Comparison", "question": "根據圖6，某些控管措施的採用銀行數不同，並非均為2。", "answer": "否", "question_group": 501}

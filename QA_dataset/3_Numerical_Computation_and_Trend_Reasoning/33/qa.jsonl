@@ -3,15 +3,15 @@
 {"category": "Open", "question_type": "Aggregation", "question": "從2023年到2025年，每股現金股利的總和是多少？", "answer": "每股現金股利的總和是7.5。"}
 {"category": "Open", "question_type": "Temporal Reasoning", "question": "從2025年到2030年，環保型業務比重增加了多少百分比？", "answer": "環保型業務比重增加了10%。"}
 {"category": "Open", "question_type": "Aggregation", "question": "2030年的可持續項目投資比例和環保型業務比重加起來是多少百分比？", "answer": "45%"}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據附圖，從2024年到2025年，線上參與人數的變化幅度為何？", "answer": "C", "choice": ["25%", "18%", "15%", "10%"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖片中的數據，2024 年和 2025 年的現場參與人數與線上參與人數的總和是多少？", "answer": "C", "choice": ["4300", "4700", "4445", "4200"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年至2025年的數據，每股現金股利的總和是多少？", "answer": "C", "choice": ["6.5", "7.8", "7.5", "8.5"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2025年至2030年的數據，環保型業務比重的變化最有可能是：", "answer": "C", "choice": ["環保型業務比重減少了5%。", "環保型業務比重維持不變。", "環保型業務比重增加了10%。", "環保型業務比重先增加5%，但之後因為經濟萎縮而減少3%。"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據2030年的可持續發展規劃，以下選項中，投資於可持續項目和環保型業務的總比例是多少百分比？", "answer": "C", "choice": ["30%", "55%", "45%", "75%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據附圖，從2024年到2025年，線上參與人數的變化幅度為何？", "answer": "D", "choice": ["18%", "10%", "25%", "15%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖片中的數據，2024 年和 2025 年的現場參與人數與線上參與人數的總和是多少？", "answer": "A", "choice": ["4445", "4200", "4700", "4300"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年至2025年的數據，每股現金股利的總和是多少？", "answer": "A", "choice": ["7.5", "6.5", "8.5", "7.8"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2025年至2030年的數據，環保型業務比重的變化最有可能是：", "answer": "D", "choice": ["環保型業務比重維持不變。", "環保型業務比重減少了5%。", "環保型業務比重先增加5%，但之後因為經濟萎縮而減少3%。", "環保型業務比重增加了10%。"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2030年的可持續發展規劃，以下選項中，投資於可持續項目和環保型業務的總比例是多少百分比？", "answer": "A", "choice": ["45%", "30%", "55%", "75%"]}
 {"category": "Open", "question_type": "Temporal Trend", "question": "從2023年至2025年，行業平均ROE(%)的趨勢是什麼？", "answer": "從2023年至2025年，行業平均ROE(%)呈現逐年上升的趨勢。"}
 {"category": "Open", "question_type": "Temporal Trend", "question": "從2025年到2029年，綠色貸款的金額如何變化？", "answer": "從2025年到2029年，綠色貸款的金額每年增加1億美元，從2025年的1億美元增加到2029年的5億美元，呈現穩定的線性增長趨勢。"}
-{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據以下圖表，行業平均ROE(%)在2023年至2025年之間的趨勢是什麼？", "answer": "C", "choice": ["行業平均ROE(%)在2024年達到最高點，然後在2025年下降。", "行業平均ROE(%)在2023年至2025年之間增加，但增幅不明顯。", "行業平均ROE(%)呈現逐年上升的趨勢。", "行業平均ROE(%)在2023年持平，然後在接下來的兩年內出現輕微上升。"]}
-{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖片中顯示的綠色貸款金額變化情況，2025年至2029年之間，綠色貸款的金額是如何變化的？", "answer": "C", "choice": ["從2025年開始，綠色貸款金額保持穩定在1億美元，直至2029年。", "從2025年的2億美元逐年增加至2029年的5億美元。", "從2025年的1億美元逐年增加1億美元，至2029年達到5億美元。", "從2025年的1億美元到2029年減少至5000萬美元。"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據以下圖表，行業平均ROE(%)在2023年至2025年之間的趨勢是什麼？", "answer": "B", "choice": ["行業平均ROE(%)在2023年持平，然後在接下來的兩年內出現輕微上升。", "行業平均ROE(%)呈現逐年上升的趨勢。", "行業平均ROE(%)在2024年達到最高點，然後在2025年下降。", "行業平均ROE(%)在2023年至2025年之間增加，但增幅不明顯。"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖片中顯示的綠色貸款金額變化情況，2025年至2029年之間，綠色貸款的金額是如何變化的？", "answer": "A", "choice": ["從2025年的1億美元逐年增加1億美元，至2029年達到5億美元。", "從2025年的2億美元逐年增加至2029年的5億美元。", "從2025年的1億美元到2029年減少至5000萬美元。", "從2025年開始，綠色貸款金額保持穩定在1億美元，直至2029年。"]}
 {"category": "Open", "question_type": "Aggregation", "question": "根據表1的資料，計算從2024年到2025年，現場與線上參與人數增長的總人數是多少？", "answer": "總增長人數是245。"}
 {"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表1，從2024年到2025年，線上參與人數的變化幅度為15%。", "answer": "是", "question_group": 880}
 

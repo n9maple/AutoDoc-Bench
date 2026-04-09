@@ -1,5 +1,5 @@
 {"category": "Open", "question_type": "Multi-hop Reasoning", "question": "從2022年到2023年，金融服務部門和資產管理部門的收入總共增加了多少？", "answer": "118"}
-{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據下圖，從2022年到2023年，金融服務部門和資產管理部門的收入總共增加了多少？", "answer": "C", "choice": ["115", "120", "118", "130"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據下圖，從2022年到2023年，金融服務部門和資產管理部門的收入總共增加了多少？", "answer": "A", "choice": ["118", "115", "120", "130"]}
 {"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，從2022年到2023年，金融服務部門和資產管理部門的收入總共增加了118。", "answer": "是", "question_group": 1504}
 
 {"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，從2022年到2023年，金融服務部門和資產管理部門的收入總共增加了130。", "answer": "否", "question_group": 1504}

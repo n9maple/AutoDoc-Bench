@@ -1,14 +1,14 @@
 {"category": "Open", "question_type": "Aggregation", "question": "加權指數與櫃買指數在今天的總成交金額是多少？", "answer": "4,040億元"}
 {"category": "Open", "question_type": "Aggregation", "question": "外資、投信和自營商在合一及杏國的買賣超總和分別是多少？", "answer": "合一的買賣超總和是1680，杏國的買賣超總和是730"}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據今天的市場數據，加權指數與櫃買指數的總成交金額是多少？以下哪一選項正確？", "answer": "C", "choice": ["4,500億元", "4,200億元", "4,040億元", "3,950億元"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，外資、投信和自營商在合一及杏國的買賣超總和分別是多少？", "answer": "C", "choice": ["合一的買賣超總和是1700，杏國的買賣超總和是860", "合一的買賣超總和是1550，杏國的買賣超總和是700", "合一的買賣超總和是1680，杏國的買賣超總和是730", "合一的買賣超總和是1980，杏國的買賣超總和是600"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據2024年6月的市場數據，外資和投信的買賣額度變動情境中，哪一項最接近總共的變動金額？", "answer": "D", "choice": ["-23億元", "-25億元", "-19億元", "-24億元"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據今天的市場數據，加權指數與櫃買指數的總成交金額是多少？以下哪一選項正確？", "answer": "C", "choice": ["3,950億元", "4,500億元", "4,040億元", "4,200億元"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，外資、投信和自營商在合一及杏國的買賣超總和分別是多少？", "answer": "B", "choice": ["合一的買賣超總和是1550，杏國的買賣超總和是700", "合一的買賣超總和是1680，杏國的買賣超總和是730", "合一的買賣超總和是1700，杏國的買賣超總和是860", "合一的買賣超總和是1980，杏國的買賣超總和是600"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2024年6月的市場數據，外資和投信的買賣額度變動情境中，哪一項最接近總共的變動金額？", "answer": "A", "choice": ["-24億元", "-19億元", "-23億元", "-25億元"]}
 {"category": "Open", "question_type": "Aggregation", "question": "盤中最高漲幅的前兩名總和是多少？", "answer": "7.7"}
 {"category": "Open", "question_type": "Aggregation", "question": "所有股市指數漲跌幅的總和是多少？", "answer": "-2.4"}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，盤中最高漲幅的前兩名總和是多少？", "answer": "C", "choice": ["6.5", "7.9", "7.7", "8.5"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖所示的股市指數漲跌幅，總和是以下哪一個選項？", "answer": "C", "choice": ["-5.0", "-1.8", "-2.4", "-3.5"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖所示的股市指數漲跌幅，總和是以下哪一個選項？", "answer": "B", "choice": ["-1.8", "-2.4", "-3.5", "-5.0"]}
 {"category": "Open", "question_type": "Aggregation", "question": "在圖6中，所有法人類別及指標的部位數量總和是多少？", "answer": "27440"}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖3，所有個股或族群的盤中最高漲幅的總和是多少？下列哪一項是正確的總和數字？", "answer": "A", "choice": ["14.7", "13.8", "16.5", "15.5"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖3，所有個股或族群的盤中最高漲幅的總和是多少？下列哪一項是正確的總和數字？", "answer": "D", "choice": ["15.5", "16.5", "13.8", "14.7"]}
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，今天加權指數與櫃買指數的總成交金額為4,040億元。", "answer": "是", "question_group": 1045}
 
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據表1，今天加權指數與櫃買指數的總成交金額為3,000億元。", "answer": "否", "question_group": 1045}

@@ -1,9 +1,9 @@
 {"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果我將1000美元存入3個月定存，再將本金和利息轉存到12個月定存，最終能獲得多少利息？", "answer": "44.806美元"}
 {"category": "Open", "question_type": "Multi-hop Reasoning", "question": "如果把美元和歐元的百分比加總，再減去日圓的百分比，結果是多少？", "answer": "4.5%"}
-{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "假設將1000美元存入3個月定存，然後再將本金和利息轉存到12個月定存，根據以下利息計算情況，最終您能獲得多少利息？（根據圖片中的利率信息）", "answer": "C", "choice": ["36.75美元", "30美元", "44.806美元", "60美元"]}
-{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據下面的貨幣百分比圖示，如果把美元和歐元的百分比加總，再減去日圓的百分比，結果是多少？", "answer": "C", "choice": ["7.0%", "2.5%", "4.5%", "4.0%"]}
-{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表1的資料，下列哪一項正確描述了2023年6月至2024年6月期間人民幣6個月利率的總變化量？", "answer": "A", "choice": ["0.20%", "0.30%", "-0.20%", "0.50%"]}
-{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表3的資料，假設一名投資者將500歐元存入3個月定存後，再將本金與利息轉存至12個月定存。一年後，這名投資者的總利息可能是以下哪一項？", "answer": "D", "choice": ["6.5歐元", "6.384550歐元", "7.5歐元", "6.384625歐元"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "假設將1000美元存入3個月定存，然後再將本金和利息轉存到12個月定存，根據以下利息計算情況，最終您能獲得多少利息？（根據圖片中的利率信息）", "answer": "B", "choice": ["30美元", "44.806美元", "36.75美元", "60美元"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據下面的貨幣百分比圖示，如果把美元和歐元的百分比加總，再減去日圓的百分比，結果是多少？", "answer": "D", "choice": ["2.5%", "7.0%", "4.0%", "4.5%"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表1的資料，下列哪一項正確描述了2023年6月至2024年6月期間人民幣6個月利率的總變化量？", "answer": "B", "choice": ["-0.20%", "0.20%", "0.50%", "0.30%"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據表3的資料，假設一名投資者將500歐元存入3個月定存後，再將本金與利息轉存至12個月定存。一年後，這名投資者的總利息可能是以下哪一項？", "answer": "D", "choice": ["6.384550歐元", "7.5歐元", "6.5歐元", "6.384625歐元"]}
 {"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，如果將1000美元存入3個月定存後再轉存到12個月定存，最終獲得的利息是44.806美元。", "answer": "是", "question_group": 1352}
 
 {"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，如果將1000美元存入3個月定存後再轉存到12個月定存，最終獲得的利息是50美元。", "answer": "否", "question_group": 1352}

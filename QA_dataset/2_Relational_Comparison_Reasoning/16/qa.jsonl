@@ -1,12 +1,12 @@
 {"category": "Open", "question_type": "Comparison", "question": "台幣兌韓圓在月初和月中哪個時候的匯率比較高？", "answer": "月初的匯率比較高。"}
 {"category": "Open", "question_type": "Comparison", "question": "9月份中，台幣對美元的匯率是上升還是下降的趨勢？", "answer": "上升"}
 {"category": "Open", "question_type": "Comparison", "question": "2024年Q1與2024年Q2相比，哪個季度的中國消費者指數更高？", "answer": "2024年Q2的中國消費者指數更高"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖顯示的台幣兌韓圓匯率，在月初和月中，哪一時間點的匯率較高？", "answer": "C", "choice": ["月中匯率較低。", "整個月份的匯率維持穩定。", "月初的匯率較高。", "月中匯率顯示出下降趨勢。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據9月份的數據，失業率的情況如何？", "answer": "C", "choice": ["失業率在3.5%至4.0%之間", "失業率減少到2.5%", "失業率高於3.5%", "失業率在4.1%至4.5%之間"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據9月份的匯率趨勢，台幣對美元的變化是以下哪一項？", "answer": "C", "choice": ["近期維持穩定，無明顯變化", "微幅上升，未達歷史最高點", "上升", "穩定上升，顯示市場信心提升"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的數據，2024年Q1與2024年Q2相比，以下哪個季度的中國消費者指數更高？", "answer": "C", "choice": ["2024年Q1的中國消費者指數明顯低於2024年Q2", "2024年Q1的中國消費者指數有所下降，但仍高於2024年Q2", "2024年Q2的中國消費者指數更高", "2024年Q1和Q2的中國消費者指數變化不大，無明顯差異"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖顯示的台幣兌韓圓匯率，在月初和月中，哪一時間點的匯率較高？", "answer": "C", "choice": ["整個月份的匯率維持穩定。", "月中匯率顯示出下降趨勢。", "月初的匯率較高。", "月中匯率較低。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據9月份的數據，失業率的情況如何？", "answer": "A", "choice": ["失業率高於3.5%", "失業率減少到2.5%", "失業率在4.1%至4.5%之間", "失業率在3.5%至4.0%之間"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據9月份的匯率趨勢，台幣對美元的變化是以下哪一項？", "answer": "C", "choice": ["近期維持穩定，無明顯變化", "穩定上升，顯示市場信心提升", "上升", "微幅上升，未達歷史最高點"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的數據，2024年Q1與2024年Q2相比，以下哪個季度的中國消費者指數更高？", "answer": "A", "choice": ["2024年Q2的中國消費者指數更高", "2024年Q1的中國消費者指數明顯低於2024年Q2", "2024年Q1和Q2的中國消費者指數變化不大，無明顯差異", "2024年Q1的中國消費者指數有所下降，但仍高於2024年Q2"]}
 {"category": "Open", "question_type": "Comparison", "question": "哪個指標數值較低，10.5還是49.6？", "answer": "10.5 是較低的數值"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據下列數據，哪一個指標的數值較低？ 10.5 與 49.6。", "answer": "C", "choice": ["10.5 和 49.6 是不相容的指標，因此無法比較", "10.5 是一個例外值，並不代表較低的經濟狀況", "10.5 是較低的數值", "兩者均屬於不同的經濟範疇，因此無法進行比較"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下列數據，哪一個指標的數值較低？ 10.5 與 49.6。", "answer": "D", "choice": ["10.5 和 49.6 是不相容的指標，因此無法比較", "兩者均屬於不同的經濟範疇，因此無法進行比較", "10.5 是一個例外值，並不代表較低的經濟狀況", "10.5 是較低的數值"]}
 {"category": "Open", "question_type": "Comparison", "question": "根據表5的資料，2023年9月1日與9月30日相比，哪一天台幣相對美元比較疲弱？", "answer": "2023年9月30日台幣相對美元比較疲弱。"}
 {"category": "YesNo", "question_type": "Comparison", "question": "根據表3，月初的台幣兌韓圓匯率較高。", "answer": "是", "question_group": 319}
 

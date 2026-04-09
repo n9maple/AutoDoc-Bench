@@ -3,14 +3,14 @@
 {"category": "Open", "question_type": "Aggregation", "question": "2023年，釣魚網站和分散式阻斷服務攻擊的事件數量總和是多少？", "answer": "770"}
 {"category": "Open", "question_type": "Temporal Reasoning", "question": "年度預算從2022年到2023年增加了多少百分比？", "answer": "年度預算從2022年到2023年增加了20%。"}
 {"category": "Open", "question_type": "Aggregation", "question": "2023年紅隊演練次數與線上講座場次的總和是多少？", "answer": "10"}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的圖表，2022年和2023年行動銀行App的下載量，哪一項為其平均值？", "answer": "C", "choice": ["1500000", "1300000", "1400000", "1650000"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據提供的圖片，從2022年到2023年，潛在網路攻擊事件總數增加了多少？", "answer": "C", "choice": ["潛在網路攻擊事件總數增加了150。", "潛在網路攻擊事件總數增加了250。", "潛在網路攻擊事件總數增加了184。", "潛在網路攻擊事件總數保持不變。"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年資料，釣魚網站和分散式阻斷服務攻擊的事件數量總和是多少？請參考以下情境描述：\n\n情境A：在某季度，釣魚網站的事件數量為450，而分散式阻斷服務攻擊的事件數量為320。\n情境B：在另一季度，釣魚網站的事件數量為400，而分散式阻斷服務攻擊的事件數量為370。\n情境C：在第三季度，釣魚網站的事件數量為300，而分散式阻斷服務攻擊的事件數量為470。\n\n請從以下選項中選擇正確的總和：", "answer": "C", "choice": ["820", "850", "770", "680"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據給定的資料，年度預算從2022年到2023年增加了多少百分比？", "answer": "C", "choice": ["5%", "15%", "20%", "35%"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據以下圖片，2023年紅隊演練次數與線上講座場次的總和是多少？", "answer": "D", "choice": ["14", "8", "5", "10"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的圖表，2022年和2023年行動銀行App的下載量，哪一項為其平均值？", "answer": "B", "choice": ["1300000", "1400000", "1500000", "1650000"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據提供的圖片，從2022年到2023年，潛在網路攻擊事件總數增加了多少？", "answer": "B", "choice": ["潛在網路攻擊事件總數增加了250。", "潛在網路攻擊事件總數增加了184。", "潛在網路攻擊事件總數保持不變。", "潛在網路攻擊事件總數增加了150。"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年資料，釣魚網站和分散式阻斷服務攻擊的事件數量總和是多少？請參考以下情境描述：\n\n情境A：在某季度，釣魚網站的事件數量為450，而分散式阻斷服務攻擊的事件數量為320。\n情境B：在另一季度，釣魚網站的事件數量為400，而分散式阻斷服務攻擊的事件數量為370。\n情境C：在第三季度，釣魚網站的事件數量為300，而分散式阻斷服務攻擊的事件數量為470。\n\n請從以下選項中選擇正確的總和：", "answer": "D", "choice": ["850", "820", "680", "770"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據給定的資料，年度預算從2022年到2023年增加了多少百分比？", "answer": "D", "choice": ["5%", "35%", "15%", "20%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據以下圖片，2023年紅隊演練次數與線上講座場次的總和是多少？", "answer": "B", "choice": ["14", "10", "8", "5"]}
 {"category": "Open", "question_type": "Aggregation", "question": "在圖4中，所有項目的數量總和是多少？", "answer": "20"}
 {"category": "Open", "question_type": "Aggregation", "question": "在圖1中，所有事件類型的事件次數總和是多少？", "answer": "5"}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖1，以下哪一項描述的是所有事件類型的事件次數總和？", "answer": "B", "choice": ["4", "5", "9", "3"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖1，以下哪一項描述的是所有事件類型的事件次數總和？", "answer": "C", "choice": ["9", "4", "5", "3"]}
 {"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表4，年度預算從2022年到2023年增加了20%。", "answer": "是", "question_group": 848}
 
 {"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表4，年度預算從2022年到2023年增加了10%。", "answer": "否", "question_group": 848}

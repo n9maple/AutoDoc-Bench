@@ -2,14 +2,14 @@
 {"category": "Open", "question_type": "Aggregation", "question": "匯率期貨和利率期貨的上月平均持倉時間與本月平均持倉時間的總和分別是多少？", "answer": "匯率期貨的總和是10.0日，利率期貨的總和是10.0日。"}
 {"category": "Open", "question_type": "Aggregation", "question": "黃金期貨和石油期貨的調整後保證金比例總和是多少？", "answer": "67%"}
 {"category": "Open", "question_type": "Aggregation", "question": "如果將臺股期貨和電子期貨的增長率平均計算，結果會落在什麼區間內？", "answer": "10%至15%"}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據以下圖片，匯率期貨和石油期貨的未平倉合約數量總和是多少萬口？", "answer": "C", "choice": ["90萬口", "50萬口", "70萬口", "100萬口"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據上月與本月的數據，匯率期貨和利率期貨的平均持倉時間的總和分別為多少？", "answer": "C", "choice": ["匯率期貨的總和是9.0日，利率期貨的總和是11.0日。", "匯率期貨的總和是12.0日，利率期貨的總和是9.0日。", "匯率期貨的總和是10.0日，利率期貨的總和是10.0日。", "匯率期貨的總和是10.0日，利率期貨的總和是7.0日。"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，黃金期貨和石油期貨的調整後保證金比例總和是多少？", "answer": "C", "choice": ["66%", "68%", "67%", "60%"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖表顯示，臺股期貨和電子期貨的增長率平均計算，可能落在以下哪個區間內？", "answer": "C", "choice": ["12%至16%", "15%至18%", "10%至15%", "11%至14%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據以下圖片，匯率期貨和石油期貨的未平倉合約數量總和是多少萬口？", "answer": "A", "choice": ["70萬口", "100萬口", "90萬口", "50萬口"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據上月與本月的數據，匯率期貨和利率期貨的平均持倉時間的總和分別為多少？", "answer": "B", "choice": ["匯率期貨的總和是10.0日，利率期貨的總和是7.0日。", "匯率期貨的總和是10.0日，利率期貨的總和是10.0日。", "匯率期貨的總和是12.0日，利率期貨的總和是9.0日。", "匯率期貨的總和是9.0日，利率期貨的總和是11.0日。"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，黃金期貨和石油期貨的調整後保證金比例總和是多少？", "answer": "D", "choice": ["68%", "60%", "66%", "67%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖表顯示，臺股期貨和電子期貨的增長率平均計算，可能落在以下哪個區間內？", "answer": "D", "choice": ["15%至18%", "12%至16%", "11%至14%", "10%至15%"]}
 {"category": "Open", "question_type": "Temporal Trend", "question": "從上月至本月，期貨市場總成交量是增加還是減少？", "answer": "從上月至本月，期貨市場總成交量是增加的。"}
-{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據以下圖表，期貨市場從上月至本月的總成交量變化情況是？", "answer": "C", "choice": ["成交量在上月略微增加，本月持平", "本月成交量高於上月，但增幅不夠明顯", "總成交量增加了", "上月成交量稍微上升，本月成交量出現大幅減少"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據表6，假設每個期貨的增長率在其指定區間的上限。如果某投資者將資金平均分配在三種期貨中，該投資組合的總增長率可能為哪個選項？", "answer": "B", "choice": ["13.5%", "13.33%", "12.5%", "14.5%"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "假設表5中的黃金期貨和石油期貨的調整後保證金比例在未來三年內每年增加1.5%，那麼三年後它們的保證金比例將是以下哪一組？", "answer": "A", "choice": ["黃金期貨約為34.67%，石油期貨約為42.79%", "黃金期貨約為32.50%，石油期貨約為40.50%", "黃金期貨約為35.00%，石油期貨約為42.50%", "黃金期貨約為34.00%，石油期貨約為42.10%"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據以下圖表，期貨市場從上月至本月的總成交量變化情況是？", "answer": "B", "choice": ["本月成交量高於上月，但增幅不夠明顯", "總成交量增加了", "上月成交量稍微上升，本月成交量出現大幅減少", "成交量在上月略微增加，本月持平"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表6，假設每個期貨的增長率在其指定區間的上限。如果某投資者將資金平均分配在三種期貨中，該投資組合的總增長率可能為哪個選項？", "answer": "C", "choice": ["14.5%", "13.5%", "13.33%", "12.5%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "假設表5中的黃金期貨和石油期貨的調整後保證金比例在未來三年內每年增加1.5%，那麼三年後它們的保證金比例將是以下哪一組？", "answer": "A", "choice": ["黃金期貨約為34.67%，石油期貨約為42.79%", "黃金期貨約為34.00%，石油期貨約為42.10%", "黃金期貨約為32.50%，石油期貨約為40.50%", "黃金期貨約為35.00%，石油期貨約為42.50%"]}
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據表5，黃金期貨和石油期貨的調整後保證金比例總和是67%。", "answer": "是", "question_group": 867}
 
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據表5，黃金期貨和石油期貨的調整後保證金比例總和是60%。", "answer": "否", "question_group": 867}

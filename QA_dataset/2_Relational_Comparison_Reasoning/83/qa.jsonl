@@ -1,13 +1,13 @@
 {"category": "Open", "question_type": "Comparison", "question": "富邦人壽在2023年的成長率比市場平均高多少個百分點？", "answer": "0.5個百分點"}
 {"category": "Open", "question_type": "Comparison", "question": "在2023年，資本適足率是否高於監管要求？如果是，高出多少百分點？", "answer": "在2023年，資本適足率高於監管要求，高出110個百分點。"}
 {"category": "Open", "question_type": "Comparison", "question": "印尼的市場份額增長比越南多多少百分點？", "answer": "印尼的市場份額增長比越南多5個百分點。"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中顯示的2023年富邦人壽成長率與市場平均成長率的比較，富邦人壽的成長率比市場平均高了多少個百分點？", "answer": "C", "choice": ["1.2個百分點", "1.0個百分點", "0.5個百分點", "0.3個百分點"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的數位資料，資本適足率的表現如何？", "answer": "C", "choice": ["資本適足率低於監管要求，少於50個百分點。", "資本適足率高於監管要求，但僅高出25個百分點。", "資本適足率高於監管要求，高出110個百分點。", "資本適足率接近監管要求，但略少於10個百分點。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的市場數據，印尼的市場份額增長相較於越南的增長多了多少百分點？", "answer": "C", "choice": ["印尼的市場份額增長相較於越南的增長少了3個百分點", "印尼的市場份額增長相較於越南的平均增長值", "5個百分點", "印尼的市場份額增長相較於越南的增長多了6個百分點"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中顯示的2023年富邦人壽成長率與市場平均成長率的比較，富邦人壽的成長率比市場平均高了多少個百分點？", "answer": "C", "choice": ["0.3個百分點", "1.2個百分點", "0.5個百分點", "1.0個百分點"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的數位資料，資本適足率的表現如何？", "answer": "A", "choice": ["資本適足率高於監管要求，高出110個百分點。", "資本適足率高於監管要求，但僅高出25個百分點。", "資本適足率接近監管要求，但略少於10個百分點。", "資本適足率低於監管要求，少於50個百分點。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的市場數據，印尼的市場份額增長相較於越南的增長多了多少百分點？", "answer": "A", "choice": ["5個百分點", "印尼的市場份額增長相較於越南的增長少了3個百分點", "印尼的市場份額增長相較於越南的平均增長值", "印尼的市場份額增長相較於越南的增長多了6個百分點"]}
 {"category": "Open", "question_type": "Comparison", "question": "在圖5中，指標600的數量是指標50的多少倍？", "answer": "12倍"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "根據圖1，2022年和2023年的總營收之間的差異是多少新台幣億元？", "answer": "50億元"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖3，以下哪個保險產品類型的收入增長百分比更高？", "answer": "D", "choice": ["保險產品類型15的收入增長百分比低於保險產品類型20", "某些保險產品類型的收入增長百分比相近，但仍未確認具體數字", "保險產品類型5的增長百分比無法低於保險產品類型20", "保險產品類型20的收入增長百分比更高"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據表5的資料，2024年技術升級的投資額相較於數據分析能力增強和新興科技應用的投資總和，情況如何？", "answer": "B", "choice": ["2024年技術升級的投資額低於數據分析能力增強和新興科技應用的投資總和。", "2024年技術升級的投資額超過數據分析能力增強和新興科技應用的投資總和。", "2024年技術升級的投資額略低於數據分析能力增強和新興科技應用的投資總和的平均值。", "2024年技術升級的投資額幾乎等於數據分析能力增強和新興科技應用的投資總和。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖3，以下哪個保險產品類型的收入增長百分比更高？", "answer": "C", "choice": ["保險產品類型15的收入增長百分比低於保險產品類型20", "保險產品類型5的增長百分比無法低於保險產品類型20", "保險產品類型20的收入增長百分比更高", "某些保險產品類型的收入增長百分比相近，但仍未確認具體數字"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表5的資料，2024年技術升級的投資額相較於數據分析能力增強和新興科技應用的投資總和，情況如何？", "answer": "B", "choice": ["2024年技術升級的投資額幾乎等於數據分析能力增強和新興科技應用的投資總和。", "2024年技術升級的投資額超過數據分析能力增強和新興科技應用的投資總和。", "2024年技術升級的投資額低於數據分析能力增強和新興科技應用的投資總和。", "2024年技術升級的投資額略低於數據分析能力增強和新興科技應用的投資總和的平均值。"]}
 {"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖5，數值最高與最低的差距是550萬。", "answer": "是", "question_group": 644}
 
 {"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖5，數值最高與最低的差距是650萬。", "answer": "否", "question_group": 644}

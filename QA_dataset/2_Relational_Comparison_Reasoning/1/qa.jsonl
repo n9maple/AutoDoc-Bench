@@ -1,23 +1,23 @@
 {"category": "Open", "question_type": "Comparison", "question": "在所有列中，滿意度最低的項目是什麼，其滿意度比滿意度最高的項目低多少百分點？", "answer": "滿意度最低的項目是平台安全性，其滿意度比滿意度最高的項目低17個百分點。"}
 {"category": "Open", "question_type": "Comparison", "question": "界面設計滿意和不滿意的受訪者百分比之差是多少？", "answer": "60%"}
 {"category": "Open", "question_type": "Comparison", "question": "對於客服回應速度不滿意的人數是否高於對客服質量不滿意的人數？", "answer": "對於客服回應速度不滿意的人數比例高於對客服質量不滿意的人數比例。"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中的數據，滿意度最低的項目是什麼？其滿意度比滿意度最高的項目低多少百分點？", "answer": "C", "choice": ["滿意度最低的項目是數據準確性，其滿意度比滿意度最高的項目低9個百分點。", "滿意度最低的項目是客服響應，其滿意度比滿意度最高的項目低12個百分點。", "滿意度最低的項目是平台安全性，其滿意度比滿意度最高的項目低17個百分點。", "滿意度最低的項目是平台穩定性，其滿意度比滿意度最高的項目低18個百分點。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據下列圖表，界面設計滿意和不滿意的受訪者百分比之差為何？", "answer": "C", "choice": ["65%", "58%", "60%", "52%"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "在一個調查中，請比較客服回應速度不滿意的人數與客服質量不滿意的人數。根據下圖的數據，哪一項描述是正確的？", "answer": "C", "choice": ["客服質量不滿意的人數明顯少於客服回應速度不滿意的人數。", "根據數據，客服質量不滿意的人數高於客服回應速度不滿意的人數。", "對於客服回應速度不滿意的人數比例高於對客服質量不滿意的人數比例。", "客服質量不滿意的人數和客服回應速度不滿意的人數比例相近。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中的數據，滿意度最低的項目是什麼？其滿意度比滿意度最高的項目低多少百分點？", "answer": "D", "choice": ["滿意度最低的項目是數據準確性，其滿意度比滿意度最高的項目低9個百分點。", "滿意度最低的項目是平台穩定性，其滿意度比滿意度最高的項目低18個百分點。", "滿意度最低的項目是客服響應，其滿意度比滿意度最高的項目低12個百分點。", "滿意度最低的項目是平台安全性，其滿意度比滿意度最高的項目低17個百分點。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下列圖表，界面設計滿意和不滿意的受訪者百分比之差為何？", "answer": "A", "choice": ["60%", "58%", "52%", "65%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在一個調查中，請比較客服回應速度不滿意的人數與客服質量不滿意的人數。根據下圖的數據，哪一項描述是正確的？", "answer": "C", "choice": ["客服質量不滿意的人數和客服回應速度不滿意的人數比例相近。", "根據數據，客服質量不滿意的人數高於客服回應速度不滿意的人數。", "對於客服回應速度不滿意的人數比例高於對客服質量不滿意的人數比例。", "客服質量不滿意的人數明顯少於客服回應速度不滿意的人數。"]}
 {"category": "Open", "question_type": "Comparison", "question": "哪一個功能領域的滿意度百分比最低?", "answer": "功能領域: 68"}
 {"category": "Open", "question_type": "Comparison", "question": "受訪者性別分布中，男性和女性的比例是多少？", "answer": "男性比例為 55.0%，女性比例為 45.0%"}
 {"category": "Open", "question_type": "Comparison", "question": "受訪者中，企業主或自營業者與其他類別的比例差異是多少？", "answer": "2.0%"}
 {"category": "Open", "question_type": "Comparison", "question": "受訪者地區分布中，台北市的受訪者數量與其他地區相比，數量差距最大的是哪個地區？", "answer": "台北市與高雄市的數量差距最大，差距為24"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "第二個安全措施的受訪者比例比第一個安全措施高多少？", "answer": "第二個安全措施的受訪者比例比第一個安全措施高33%。"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據以下功能領域的滿意度百分比，哪一項的滿意度百分比最低？", "answer": "C", "choice": ["功能領域: 64%", "功能領域: 65%", "功能領域: 68%", "功能領域: 66%"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖所示的受訪者性別分布，男性和女性的比例分別是？", "answer": "C", "choice": ["男性比例為 51.0%，女性比例為 49.0%", "男性比例為 59.0%，女性比例為 41.0%", "男性比例為 55.0%，女性比例為 45.0%", "男性比例為 54.0%，女性比例為 46.0%"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據受訪者的數據，企業主或自營業者與其他類別的比例差異是多少？", "answer": "C", "choice": ["1.5%", "3.0%", "2.0%", "4.0%"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據受訪者地區分布，台北市的受訪者數量與哪個地區相比，數量差距最大？", "answer": "C", "choice": ["桃園市", "台中市", "高雄市", "新北市"]}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據下圖，第二個安全措施的受訪者比例較第一個安全措施提高了多少？", "answer": "C", "choice": ["25%", "10%", "33%", "30%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據以下功能領域的滿意度百分比，哪一項的滿意度百分比最低？", "answer": "D", "choice": ["功能領域: 64%", "功能領域: 66%", "功能領域: 65%", "功能領域: 68%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖所示的受訪者性別分布，男性和女性的比例分別是？", "answer": "B", "choice": ["男性比例為 59.0%，女性比例為 41.0%", "男性比例為 55.0%，女性比例為 45.0%", "男性比例為 51.0%，女性比例為 49.0%", "男性比例為 54.0%，女性比例為 46.0%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據受訪者的數據，企業主或自營業者與其他類別的比例差異是多少？", "answer": "C", "choice": ["1.5%", "4.0%", "2.0%", "3.0%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據受訪者地區分布，台北市的受訪者數量與哪個地區相比，數量差距最大？", "answer": "D", "choice": ["新北市", "桃園市", "台中市", "高雄市"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據下圖，第二個安全措施的受訪者比例較第一個安全措施提高了多少？", "answer": "C", "choice": ["10%", "30%", "33%", "25%"]}
 {"category": "Open", "question_type": "Comparison", "question": "根據圖3，專業人員或管理階層與其他的總比例是多少？", "answer": "65.0%"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "在圖1中，滿意度百分比最小和最大的功能領域之間的差值是多少？", "answer": "17"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖4，台北市與高雄市的受訪者數量差距為多少？以下哪一項是正確的？", "answer": "B", "choice": ["26", "24", "20", "18"]}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖1中滿意度百分比的數據，滿意度百分比最小和最大的功能領域之間的差值是多少？", "answer": "D", "choice": ["22", "12", "10", "17"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖4，台北市與高雄市的受訪者數量差距為多少？以下哪一項是正確的？", "answer": "B", "choice": ["18", "24", "20", "26"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖1中滿意度百分比的數據，滿意度百分比最小和最大的功能領域之間的差值是多少？", "answer": "A", "choice": ["17", "22", "10", "12"]}
 {"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，功能領域的滿意度百分比是所有領域中最低的，為 68%。", "answer": "是", "question_group": 269}
 
 {"category": "YesNo", "question_type": "Comparison", "question": "根據圖1，功能領域的滿意度百分比是所有領域中最高的，為 68%。", "answer": "否", "question_group": 269}

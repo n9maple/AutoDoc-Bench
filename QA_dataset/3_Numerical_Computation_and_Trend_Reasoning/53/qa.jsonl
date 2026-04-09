@@ -1,5 +1,5 @@
 {"category": "Open", "question_type": "Aggregation", "question": "白金卡和金卡的合佔比是多少？", "answer": "75"}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，白金卡和金卡的合佔比有多少？", "answer": "C", "choice": ["70", "78", "75", "74"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，白金卡和金卡的合佔比有多少？", "answer": "A", "choice": ["75", "70", "78", "74"]}
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據圖1，各項目的比例總和是100%。", "answer": "是", "question_group": 968}
 
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據圖1，各項目的比例總和是90%。", "answer": "否", "question_group": 968}

@@ -2,23 +2,23 @@
 {"category": "Open", "question_type": "Comparison", "question": "公司職員的比例是學生的多少倍？", "answer": "2倍"}
 {"category": "Open", "question_type": "Comparison", "question": "網上銀行和電子支付系統的安全性滿意度差多少百分點？", "answer": "5個百分點"}
 {"category": "Open", "question_type": "Comparison", "question": "滿意或非常滿意的比例與系統維護或更新中斷的比例之差是多少？", "answer": "72%"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中顯示的線上客服與其他數位功能的不滿意度百分比差異，請問線上客服的不滿意度百分比與其他數位功能的不滿意度百分比相差多少？", "answer": "C", "choice": ["10%", "5%", "6%", "7%"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，公司職員的比例是學生的多少倍？", "answer": "C", "choice": ["0.9倍", "1.5倍", "2倍", "4倍"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，網上銀行和電子支付系統的安全性滿意度差距是多少百分點？", "answer": "C", "choice": ["6個百分點", "3個百分點", "5個百分點", "8個百分點"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的圖片，滿意或非常滿意的比例與系統維護或更新中斷的比例之差是多少？", "answer": "C", "choice": ["70%", "74%", "72%", "76%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中顯示的線上客服與其他數位功能的不滿意度百分比差異，請問線上客服的不滿意度百分比與其他數位功能的不滿意度百分比相差多少？", "answer": "B", "choice": ["10%", "6%", "5%", "7%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，公司職員的比例是學生的多少倍？", "answer": "A", "choice": ["2倍", "4倍", "1.5倍", "0.9倍"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，網上銀行和電子支付系統的安全性滿意度差距是多少百分點？", "answer": "A", "choice": ["5個百分點", "6個百分點", "3個百分點", "8個百分點"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的圖片，滿意或非常滿意的比例與系統維護或更新中斷的比例之差是多少？", "answer": "B", "choice": ["76%", "72%", "70%", "74%"]}
 {"category": "Open", "question_type": "Comparison", "question": "在行動銀行應用程式用戶界面反饋中，操作流程簡單的反饋數值比操作流程複雜多多少？", "answer": "操作流程簡單的反饋數值比操作流程複雜多 64"}
 {"category": "Open", "question_type": "Comparison", "question": "除了台北市和其他地區，哪個地區的人數最多？", "answer": "新北市"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據行動銀行應用程式的用戶界面反饋，操作流程簡單的反饋數值與操作流程複雜的反饋數值相比，差異是多少？", "answer": "C", "choice": ["操作流程簡單的反饋數值比操作流程複雜多 20", "操作流程簡單的反饋數值比操作流程複雜多 48", "操作流程簡單的反饋數值比操作流程複雜多 64", "操作流程複雜的反饋數值比操作流程簡單多 80"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "除了台北市和其他地區，根據下圖，哪個地區的人數最多？", "answer": "D", "choice": ["台南市", "高雄市", "桃園市", "新北市"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據行動銀行應用程式的用戶界面反饋，操作流程簡單的反饋數值與操作流程複雜的反饋數值相比，差異是多少？", "answer": "A", "choice": ["操作流程簡單的反饋數值比操作流程複雜多 64", "操作流程簡單的反饋數值比操作流程複雜多 20", "操作流程簡單的反饋數值比操作流程複雜多 48", "操作流程複雜的反饋數值比操作流程簡單多 80"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "除了台北市和其他地區，根據下圖，哪個地區的人數最多？", "answer": "D", "choice": ["桃園市", "台南市", "高雄市", "新北市"]}
 {"category": "Open", "question_type": "Ranking", "question": "受訪者年齡分布中，哪個年齡組別的人數最多？", "answer": "35歲以下的年齡組別人數最多，為60人。"}
 {"category": "Open", "question_type": "Ranking", "question": "哪個數位金融服務方面的滿意度值是最高的？", "answer": "80"}
 {"category": "Open", "question_type": "Ranking", "question": "受訪者性別比例中，數值較大的性別是?", "answer": "男性"}
-{"category": "MCQ", "question_type": "Ranking", "question": "根據受訪者年齡分布的圖片，哪個年齡組別的人數最多？", "answer": "C", "choice": ["36至50歲的年齡組別人數最少", "51歲至60歲的年齡組別人數次之", "35歲以下的年齡組別人數最多", "25歲以下的年齡組別人數最多"]}
-{"category": "MCQ", "question_type": "Ranking", "question": "根據下圖，數位金融服務方面的滿意度值中，哪一項數據顯示出最高的滿意度？", "answer": "C", "choice": ["75", "82", "80", "90"]}
-{"category": "MCQ", "question_type": "Ranking", "question": "在某受訪者性別比例的圖表中，哪一性別的比例數值較大？", "answer": "C", "choice": ["女性比例較小", "男性和女性比例相等", "男性", "無法確定男性或女性的比例"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據受訪者年齡分布的圖片，哪個年齡組別的人數最多？", "answer": "D", "choice": ["25歲以下的年齡組別人數最多", "36至50歲的年齡組別人數最少", "51歲至60歲的年齡組別人數次之", "35歲以下的年齡組別人數最多"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據下圖，數位金融服務方面的滿意度值中，哪一項數據顯示出最高的滿意度？", "answer": "A", "choice": ["80", "82", "90", "75"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "在某受訪者性別比例的圖表中，哪一性別的比例數值較大？", "answer": "D", "choice": ["男性和女性比例相等", "女性比例較小", "無法確定男性或女性的比例", "男性"]}
 {"category": "Open", "question_type": "Comparison", "question": "在圖5中，哪一個地區的人口比例是相同的？", "answer": "台中市和高雄市"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖1，36-50歲受訪者與35歲以下受訪者的數量差異是多少？以下哪一選項是正確的？", "answer": "C", "choice": ["20", "25", "35", "50"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖3，該數位金融服務的滿意度得分中，哪一項為最低分？", "answer": "C", "choice": ["73", "72", "75", "74"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖1，36-50歲受訪者與35歲以下受訪者的數量差異是多少？以下哪一選項是正確的？", "answer": "A", "choice": ["35", "50", "20", "25"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖3，該數位金融服務的滿意度得分中，哪一項為最低分？", "answer": "C", "choice": ["74", "72", "75", "73"]}
 {"category": "YesNo", "question_type": "Ranking", "question": "根據圖3，數位金融服務方面的滿意度值中，80顯示為最高的滿意度。", "answer": "是", "question_group": 648}
 
 {"category": "YesNo", "question_type": "Ranking", "question": "根據圖3，數位金融服務方面的滿意度值中，75顯示為最高的滿意度。", "answer": "否", "question_group": 648}

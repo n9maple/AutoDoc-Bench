@@ -1,9 +1,9 @@
 {"category": "Open", "question_type": "Temporal Reasoning", "question": "從2022年到2023年，人才供應缺口增加了多少百分點？", "answer": "人才供應缺口增加了5個百分點。"}
 {"category": "Open", "question_type": "Aggregation", "question": "在 2023 年，風險管理和客戶關係管理的百分比總和是多少？", "answer": "120%"}
 {"category": "Open", "question_type": "Aggregation", "question": "支付和投資的數值總和是多少？", "answer": "支付和投資的數值總和是38"}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2022年到2023年的數據，人才供應缺口的增幅是多少？", "answer": "D", "choice": ["保持不變", "增加了3個百分點", "減少了5個百分點", "增加了5個百分點"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年的數據，風險管理和客戶關係管理的百分比總和是多少？請參考下圖中的數據。", "answer": "C", "choice": ["150%", "100%", "120%", "110%"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據以下數據，支付和投資的數值總和是多少？請參考圖表描述。", "answer": "C", "choice": ["30", "42", "38", "31"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2022年到2023年的數據，人才供應缺口的增幅是多少？", "answer": "A", "choice": ["增加了5個百分點", "減少了5個百分點", "保持不變", "增加了3個百分點"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年的數據，風險管理和客戶關係管理的百分比總和是多少？請參考下圖中的數據。", "answer": "A", "choice": ["120%", "150%", "100%", "110%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據以下數據，支付和投資的數值總和是多少？請參考圖表描述。", "answer": "A", "choice": ["38", "31", "30", "42"]}
 {"category": "Open", "question_type": "Rate of Change", "question": "從2022年到2023年，台灣的行動支付交易額成長了多少億元？", "answer": "1000億元"}
 {"category": "Open", "question_type": "Temporal Trend", "question": "從2020年至2023年，台灣金融科技初創企業的增加數量是多少？", "answer": "60"}
 {"category": "Open", "question_type": "Rate of Change", "question": "2020年至2023年間，哪一年台灣金融科技初創企業的增長率最低？", "answer": "2022至2023年間的增長率最低，為5%"}
@@ -13,18 +13,18 @@
 {"category": "Open", "question_type": "Temporal Trend", "question": "從2022年到2023年，台灣金融科技企業的海外市場收入比例是否有顯著增加？", "answer": "從2022年到2023年，台灣金融科技企業的海外市場收入比例有顯著增加。"}
 {"category": "Open", "question_type": "Rate of Change", "question": "在2022年和2023年中，台灣金融科技企業的海外市場收入比例增加了多少百分點？", "answer": "增加了5個百分點"}
 {"category": "MCQ", "question_type": "Rate of Change", "question": "根據下圖，從2022年到2023年，台灣的行動支付交易額成長了多少億元？", "answer": "C", "choice": ["750億元", "1300億元", "1000億元", "900億元"]}
-{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖片顯示的數據，從2020年至2023年，台灣金融科技初創企業的增加數量大約是以下哪一項？", "answer": "C", "choice": ["25", "80", "60", "50"]}
-{"category": "MCQ", "question_type": "Rate of Change", "question": "根據2020年至2023年的數據，以下哪一年台灣金融科技初創企業的增長率最低？（請參考以下數據）", "answer": "C", "choice": ["2020至2021年間的增長率最低，為6%", "2021至2022年間的增長率為8%", "2022至2023年間的增長率最低，為5%", "2020至2021年間的增長率為7%，而2021至2022年為5%"]}
-{"category": "MCQ", "question_type": "Rate of Change", "question": "根據以下數據圖表，從2022年到2023年，銀行客戶數位渠道使用率的變化是多少？", "answer": "C", "choice": ["30.00%", "25.00%", "27.27%", "35.00%"]}
-{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖表數據，在2022年至2025年期間，行動支付的普及率增長趨勢是如何的？", "answer": "C", "choice": ["行動支付普及率在2022年先下降後上升，至2025年達到70%。", "行動支付普及率在2022年至2025年間劇增至90%。", "行動支付普及率從2022年的56%逐年穩定增長，至2025年達到75%。", "行動支付普及率在2022年提高到75%，之後逐漸減少。"]}
-{"category": "MCQ", "question_type": "Rate of Change", "question": "根據2024年和2025年的數據，行動支付用戶數量的改變是什麼？", "answer": "C", "choice": ["2024年用戶數量增加至550萬，2025年持平", "用戶數量在2024年增加了1百萬人，2025年再增加1百萬人", "新增了2百萬人", "用戶數量在2024年增加了2百萬人，但2025年持平於該數字"]}
-{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2022年到2023年的數據，台灣金融科技企業的海外市場收入比例的變化為何？", "answer": "C", "choice": ["小幅降低", "保持不變", "有顯著增加", "劇烈下降"]}
-{"category": "MCQ", "question_type": "Rate of Change", "question": "根據2022年和2023年台灣金融科技企業的表現，海外市場收入比率增加了多少百分點？", "answer": "C", "choice": ["保持不變", "增加了2個百分點", "增加了5個百分點", "增加了10個百分點"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖片顯示的數據，從2020年至2023年，台灣金融科技初創企業的增加數量大約是以下哪一項？", "answer": "C", "choice": ["80", "25", "60", "50"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據2020年至2023年的數據，以下哪一年台灣金融科技初創企業的增長率最低？（請參考以下數據）", "answer": "A", "choice": ["2022至2023年間的增長率最低，為5%", "2020至2021年間的增長率為7%，而2021至2022年為5%", "2020至2021年間的增長率最低，為6%", "2021至2022年間的增長率為8%"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據以下數據圖表，從2022年到2023年，銀行客戶數位渠道使用率的變化是多少？", "answer": "D", "choice": ["25.00%", "30.00%", "35.00%", "27.27%"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖表數據，在2022年至2025年期間，行動支付的普及率增長趨勢是如何的？", "answer": "D", "choice": ["行動支付普及率在2022年先下降後上升，至2025年達到70%。", "行動支付普及率在2022年至2025年間劇增至90%。", "行動支付普及率在2022年提高到75%，之後逐漸減少。", "行動支付普及率從2022年的56%逐年穩定增長，至2025年達到75%。"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據2024年和2025年的數據，行動支付用戶數量的改變是什麼？", "answer": "C", "choice": ["用戶數量在2024年增加了2百萬人，但2025年持平於該數字", "2024年用戶數量增加至550萬，2025年持平", "新增了2百萬人", "用戶數量在2024年增加了1百萬人，2025年再增加1百萬人"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2022年到2023年的數據，台灣金融科技企業的海外市場收入比例的變化為何？", "answer": "D", "choice": ["劇烈下降", "小幅降低", "保持不變", "有顯著增加"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據2022年和2023年台灣金融科技企業的表現，海外市場收入比率增加了多少百分點？", "answer": "B", "choice": ["增加了2個百分點", "增加了5個百分點", "增加了10個百分點", "保持不變"]}
 {"category": "Open", "question_type": "Aggregation", "question": "根據表5的資料，若風險管理和客戶關係管理的百分比每年以相同的速率增加，每年增加10%，那麼在第4年結束時，這兩者的平均百分比是多少？", "answer": "87.664%"}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表1的資料，支付技術在2022年到2023年間的增長量可能是多少？", "answer": "B", "choice": ["10", "11", "13", "14"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表3的資料，如果未來三年每年區塊鏈應用的市場份額增長2%，那麼三年後的市場份額可能會是以下哪一項？", "answer": "C", "choice": ["27.00%", "25.50%", "26.53%", "28.15%"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據表6的資料，2023年支付、保險和投資的總支出可能是多少？", "answer": "C", "choice": ["50", "62", "53", "59"]}
-{"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖7，從2022年到2023年，台灣金融科技企業的海外市場收入比例增加了多少百分比？以下哪一項是正確的增幅？", "answer": "C", "choice": ["8% (高於實際增長)", "12% (極端高估增長)", "5%", "4% (低於預測增長)"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表1的資料，支付技術在2022年到2023年間的增長量可能是多少？", "answer": "D", "choice": ["10", "14", "13", "11"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表3的資料，如果未來三年每年區塊鏈應用的市場份額增長2%，那麼三年後的市場份額可能會是以下哪一項？", "answer": "D", "choice": ["27.00%", "25.50%", "28.15%", "26.53%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表6的資料，2023年支付、保險和投資的總支出可能是多少？", "answer": "C", "choice": ["62", "50", "53", "59"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖7，從2022年到2023年，台灣金融科技企業的海外市場收入比例增加了多少百分比？以下哪一項是正確的增幅？", "answer": "D", "choice": ["12% (極端高估增長)", "4% (低於預測增長)", "8% (高於實際增長)", "5%"]}
 {"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖7，2023年台灣金融科技企業的海外市場收入比例比2022年增加了5個百分點，顯著增加。", "answer": "是", "question_group": 817}
 
 {"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖7，2023年台灣金融科技企業的海外市場收入比例與2022年相比沒有變化。", "answer": "否", "question_group": 817}

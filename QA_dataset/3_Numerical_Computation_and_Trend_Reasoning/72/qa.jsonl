@@ -2,18 +2,18 @@
 {"category": "Open", "question_type": "Temporal Reasoning", "question": "從2021年到2023年，外部資安稽核次數每年增加多少次？", "answer": "每年增加1次"}
 {"category": "Open", "question_type": "Aggregation", "question": "三年間高風險弱點發現次數的總和是多少？", "answer": "1"}
 {"category": "Open", "question_type": "Aggregation", "question": "權限異動及異常操作即時警示達成率在這三年間的平均值是多少？", "answer": "99.3%"}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的數據，計算1月至6月的平均『需補件/退件比例』，以下哪一項是正確的？", "answer": "C", "choice": ["6.9", "7.5", "7.0", "8.2"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據圖表顯示，從2021年到2023年，外部資安稽核次數每年增加了多少次？", "answer": "C", "choice": ["2021年到2023年增加了3次", "每年增加0次", "每年增加1次", "2021年到2023年增加了4次"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，高風險弱點在三年間的發現次數總和是多少？", "answer": "C", "choice": ["5", "10", "1", "0"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據最近三年內，權限異動及異常操作即時警示達成率的數據，以下哪一項最接近其平均值？", "answer": "C", "choice": ["99.0%", "98.7%", "99.3%", "99.5%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的數據，計算1月至6月的平均『需補件/退件比例』，以下哪一項是正確的？", "answer": "A", "choice": ["7.0", "8.2", "6.9", "7.5"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據圖表顯示，從2021年到2023年，外部資安稽核次數每年增加了多少次？", "answer": "C", "choice": ["每年增加0次", "2021年到2023年增加了3次", "每年增加1次", "2021年到2023年增加了4次"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，高風險弱點在三年間的發現次數總和是多少？", "answer": "D", "choice": ["5", "10", "0", "1"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據最近三年內，權限異動及異常操作即時警示達成率的數據，以下哪一項最接近其平均值？", "answer": "A", "choice": ["99.3%", "99.5%", "99.0%", "98.7%"]}
 {"category": "Open", "question_type": "Temporal Trend", "question": "在2023年第四季的資料中，月交易筆數呈現什麼趨勢？", "answer": "月交易筆數呈現穩定上升的趨勢"}
 {"category": "Open", "question_type": "Rate of Change", "question": "從2023年11月到12月，月交易金額(新台幣)的變化率是多少？", "answer": "1.11%"}
 {"category": "Open", "question_type": "Aggregation", "question": "所有流程項目的期限(天數)總和是多少?", "answer": "1885"}
-{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2023年第四季的資料，月交易筆數呈現了哪些趨勢？", "answer": "C", "choice": ["月交易筆數在某些月份出現下降，但整體趨勢向上", "整體趨勢穩定，但某些假日周末交易量明顯上升", "穩定上升的趨勢", "在特定活動期間出現交易增加，但之後又回歸平穩"]}
-{"category": "MCQ", "question_type": "Rate of Change", "question": "根據2023年11月到12月的月交易金額變化，以下哪一項最接近該變化率的估算？", "answer": "C", "choice": ["1.30%", "1.05%", "1.11%", "1.20%"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "在以下流程項目中，哪一項的所有期限總和為1885天？請參考圖片中顯示的各項目期限數據。", "answer": "C", "choice": ["所有流程項目的期限總和為1500天。", "所有流程項目的期限總和為2000天。", "所有流程項目的期限總和為1885天。", "所有流程項目的期限總和為1885工作天。"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2023年第四季的資料，月交易筆數呈現了哪些趨勢？", "answer": "B", "choice": ["月交易筆數在某些月份出現下降，但整體趨勢向上", "穩定上升的趨勢", "整體趨勢穩定，但某些假日周末交易量明顯上升", "在特定活動期間出現交易增加，但之後又回歸平穩"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據2023年11月到12月的月交易金額變化，以下哪一項最接近該變化率的估算？", "answer": "A", "choice": ["1.11%", "1.05%", "1.30%", "1.20%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "在以下流程項目中，哪一項的所有期限總和為1885天？請參考圖片中顯示的各項目期限數據。", "answer": "A", "choice": ["所有流程項目的期限總和為1885天。", "所有流程項目的期限總和為2000天。", "所有流程項目的期限總和為1500天。", "所有流程項目的期限總和為1885工作天。"]}
 {"category": "Open", "question_type": "Aggregation", "question": "根據圖4的資料，所有流程項目的總期限(天數)是多少？", "answer": "1885天"}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據表3的資料，從2021年到2023年，權限異動及異常操作即時警示的平均達成率為何？以下哪個選項是正確的？", "answer": "B", "choice": ["99.8%", "99.3%", "99.1%", "98.5%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表3的資料，從2021年到2023年，權限異動及異常操作即時警示的平均達成率為何？以下哪個選項是正確的？", "answer": "B", "choice": ["99.1%", "99.3%", "98.5%", "99.8%"]}
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據圖4，所有流程項目的期限總和為1885天。", "answer": "是", "question_group": 1051}
 
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據圖4，所有流程項目的期限總和為1950天。", "answer": "否", "question_group": 1051}

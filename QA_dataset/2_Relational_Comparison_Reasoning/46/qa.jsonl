@@ -2,14 +2,14 @@
 {"category": "Open", "question_type": "Comparison", "question": "哪種貨幣在12個月定存中提供的利率最高？", "answer": "美元"}
 {"category": "Open", "question_type": "Comparison", "question": "2024 年 6 月，哪一種貨幣的百分比是第二高的？", "answer": "澳幣的百分比是第二高的，為 3.20%。"}
 {"category": "Open", "question_type": "Comparison", "question": "2024年8月的日圓/12利率比2024年6月的日圓/12利率低多少個百分點？", "answer": "0.10個百分點"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖顯示的人民幣利率，12個月的利率相比於1個月的利率高出多少百分比？", "answer": "C", "choice": ["0.50%", "0.90%", "0.70%", "1.20%"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的圖表，哪種貨幣在12個月定存中提供的利率最高？", "answer": "C", "choice": ["英鎊 (年利率 1.5%)", "人民幣 (年利率 2%)", "美元", "日元 (年利率 0.5%)"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2024年6月的貨幣百分比數據，哪一種貨幣的百分比為第二高？", "answer": "C", "choice": ["英鎊的百分比為2.50%", "歐元的百分比為3.00%", "澳幣的百分比為3.20%", "加幣的百分比為3.50%"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2024年6月與8月日圓/12利率的變化，下列哪一選項最能反映2024年8月的日圓/12利率比2024年6月的日圓/12利率低多少個百分點？", "answer": "C", "choice": ["0.01個百分點", "0.15個百分點", "0.10個百分點", "0.20個百分點"]}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據下圖，數值最高的項目與最低的項目之間的利率差距是多少？", "answer": "C", "choice": ["2.50%", "3.20%", "3.35%", "4.50%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖顯示的人民幣利率，12個月的利率相比於1個月的利率高出多少百分比？", "answer": "B", "choice": ["0.50%", "0.70%", "1.20%", "0.90%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的圖表，哪種貨幣在12個月定存中提供的利率最高？", "answer": "A", "choice": ["美元", "日元 (年利率 0.5%)", "人民幣 (年利率 2%)", "英鎊 (年利率 1.5%)"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2024年6月的貨幣百分比數據，哪一種貨幣的百分比為第二高？", "answer": "A", "choice": ["澳幣的百分比為3.20%", "英鎊的百分比為2.50%", "歐元的百分比為3.00%", "加幣的百分比為3.50%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2024年6月與8月日圓/12利率的變化，下列哪一選項最能反映2024年8月的日圓/12利率比2024年6月的日圓/12利率低多少個百分點？", "answer": "C", "choice": ["0.01個百分點", "0.20個百分點", "0.10個百分點", "0.15個百分點"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據下圖，數值最高的項目與最低的項目之間的利率差距是多少？", "answer": "D", "choice": ["2.50%", "3.20%", "4.50%", "3.35%"]}
 {"category": "Open", "question_type": "Comparison", "question": "在圖6中，哪一個幣別的最低定存金額是最低的？", "answer": "最低定存金額是1000"}
 {"category": "Open", "question_type": "Comparison", "question": "根據圖2，2024-03-10時，哪一種貨幣的定存利率是最高的？", "answer": "美元的定存利率是最高的，為 3.5%"}
-{"category": "MCQ", "question_type": "Ranking", "question": "根據圖1，渣打銀行的人民幣12個月存款利率在所有幣別與存款天期中排名為何？", "answer": "C", "choice": ["第11位", "第15位", "第14位", "第13位"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據圖1，渣打銀行的人民幣12個月存款利率在所有幣別與存款天期中排名為何？", "answer": "D", "choice": ["第11位", "第13位", "第15位", "第14位"]}
 {"category": "YesNo", "question_type": "Comparison", "question": "根據表2，12個月的人民幣利率比1個月的利率高0.70%。", "answer": "是", "question_group": 448}
 
 {"category": "YesNo", "question_type": "Comparison", "question": "根據表2，12個月的人民幣利率比1個月的利率高1.00%。", "answer": "否", "question_group": 448}

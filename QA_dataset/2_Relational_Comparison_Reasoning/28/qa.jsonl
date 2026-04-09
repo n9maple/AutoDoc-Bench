@@ -2,21 +2,21 @@
 {"category": "Open", "question_type": "Comparison", "question": "多元文化培訓參與率和女性高階管理層比例哪一項的百分比更高？", "answer": "多元文化培訓參與率的百分比更高。"}
 {"category": "Open", "question_type": "Comparison", "question": "2025年社會福利預算的百分比與2024年相比是增加還是減少？", "answer": "減少"}
 {"category": "Open", "question_type": "Comparison", "question": "2025年資助的非營利組織數量和關懷活動次數中，哪一個數量較多？", "answer": "資助非營利組織數量較多"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2025年的預測，風力發電的收入將比太陽能發電多多少億元？", "answer": "C", "choice": ["風力發電的收入比太陽能發電多8億元。", "風力發電的收入比太陽能發電多12億元。", "10億元", "風力發電的收入比太陽能發電多18億元。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據以下資料，2025年社會福利預算的百分比與2024年相比是什麼趨勢？", "answer": "C", "choice": ["保持不變", "緩慢增加", "減少", "輕微波動"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中所示，參加論壇的次數和發表研究報告的篇數在2025年是否相等？", "answer": "C", "choice": ["否，2023年數據不在表中，無法比較。", "否，發表研究報告的篇數在2025年可能達到六篇，超過參加論壇的次數。", "是，參加論壇的次數和發表研究報告的篇數在2025年相等", "是，參加論壇的次數在2025年為五篇，發表研究報告的篇數仍然為四篇。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2025年的預測，風力發電的收入將比太陽能發電多多少億元？", "answer": "A", "choice": ["10億元", "風力發電的收入比太陽能發電多18億元。", "風力發電的收入比太陽能發電多8億元。", "風力發電的收入比太陽能發電多12億元。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據以下資料，2025年社會福利預算的百分比與2024年相比是什麼趨勢？", "answer": "B", "choice": ["輕微波動", "減少", "緩慢增加", "保持不變"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中所示，參加論壇的次數和發表研究報告的篇數在2025年是否相等？", "answer": "C", "choice": ["否，發表研究報告的篇數在2025年可能達到六篇，超過參加論壇的次數。", "否，2023年數據不在表中，無法比較。", "是，參加論壇的次數和發表研究報告的篇數在2025年相等", "是，參加論壇的次數在2025年為五篇，發表研究報告的篇數仍然為四篇。"]}
 {"category": "Open", "question_type": "Difference Calculation", "question": "在2025年台新銀行環境保護目標中，最高與最低的比例差距是多少？", "answer": "40%"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "在2025年台新銀行董事會多元化指標中，第一個和最後一個數據點的數值差距是多少？", "answer": "37"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據以下情境，數值最低的目標為何？情境說明：某公司設定了三個目標分別為 20、15 和 25，請根據這些目標選擇數值最低的一個。", "answer": "C", "choice": ["14", "10", "15", "19"]}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據2025年台新銀行的環境保護目標，最高與最低的比例差距是多少？請參考下圖的數據進行回答。", "answer": "C", "choice": ["30%", "55%", "40%", "42%"]}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據2025年台新銀行董事會多元化指標，第一個數據點與最後一個數據點的數值差距為何？", "answer": "C", "choice": ["30", "39", "37", "45"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據以下情境，數值最低的目標為何？情境說明：某公司設定了三個目標分別為 20、15 和 25，請根據這些目標選擇數值最低的一個。", "answer": "D", "choice": ["14", "10", "19", "15"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據2025年台新銀行的環境保護目標，最高與最低的比例差距是多少？請參考下圖的數據進行回答。", "answer": "C", "choice": ["30%", "42%", "40%", "55%"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據2025年台新銀行董事會多元化指標，第一個數據點與最後一個數據點的數值差距為何？", "answer": "A", "choice": ["37", "30", "45", "39"]}
 {"category": "Open", "question_type": "Comparison", "question": "根據圖4的資料，哪一個指標的數值最低？", "answer": "指標 25 的數值最低"}
 {"category": "Open", "question_type": "Comparison", "question": "在圖2中，哪個目標的比例較高？", "answer": "目標 70 的比例較高。"}
 {"category": "Open", "question_type": "Comparison", "question": "根據圖3，哪一個用途的綠色貸款數量更多，並且多出多少？", "answer": "可再生能源項目的綠色貸款數量更多，多出100。"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "在圖4中，數值最大的指標與數值最小的指標之間的差是多少？", "answer": "475"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "在圖1中，數值最高的目標和數值最低的目標之間的差距是多少？", "answer": "99985"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "在圖7中，數值為5的指標比數值為3的指標高多少？", "answer": "2"}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖4中，數值最大的指標與數值最小的指標之間的差是多少？以下哪個選項是正確的？", "answer": "D", "choice": ["400", "300", "550", "475"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖4中，數值最大的指標與數值最小的指標之間的差是多少？以下哪個選項是正確的？", "answer": "A", "choice": ["475", "400", "300", "550"]}
 {"category": "YesNo", "question_type": "Ranking", "question": "根據圖4，數值25是所有項目中最低的。", "answer": "是", "question_group": 368}
 
 {"category": "YesNo", "question_type": "Ranking", "question": "根據圖4，數值40是所有項目中最低的。", "answer": "否", "question_group": 368}

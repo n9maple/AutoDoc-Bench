@@ -2,13 +2,13 @@
 {"category": "Open", "question_type": "Aggregation", "question": "在2023年，聲明事項未詳讀或簽名不符的案件數量與簽名筆跡不符需要補簽或驗證的案件數量之和是多少？", "answer": "3400"}
 {"category": "Open", "question_type": "Temporal Reasoning", "question": "從 2021 年到 2023 年，因資料不實/文件偽造進入法律程序案件的比例有何趨勢變化？", "answer": "從2021年到2023年，因資料不實/文件偽造進入法律程序案件的比例呈現下降趨勢。"}
 {"category": "Open", "question_type": "Aggregation", "question": "計算從 2021 年到 2023 年期間，理賠糾紛案件總數的平均值是多少？", "answer": "313.33"}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據以下表格，被保險人比例的平均值是多少？", "answer": "C", "choice": ["25.50", "49.25", "33.33", "28.75"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年的數據，以下哪一項最接近聲明事項未詳讀或簽名不符的案件數量與簽名筆跡不符需要補簽或驗證的案件數量之和？", "answer": "D", "choice": ["3200", "3300", "3600", "3400"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2021年至2023年的數據，因資料不實或文件偽造進入法律程序案件的比例呈現什麼趨勢？", "answer": "C", "choice": ["不規則趨勢", "持平趨勢", "下降趨勢", "改善趨勢"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據以下圖表，計算從 2021 年到 2023 年期間，理賠糾紛案件總數的平均值。以下哪個選項是正確的？", "answer": "C", "choice": ["340", "310", "313.33", "299.33"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據以下表格，被保險人比例的平均值是多少？", "answer": "D", "choice": ["25.50", "28.75", "49.25", "33.33"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年的數據，以下哪一項最接近聲明事項未詳讀或簽名不符的案件數量與簽名筆跡不符需要補簽或驗證的案件數量之和？", "answer": "C", "choice": ["3600", "3300", "3400", "3200"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2021年至2023年的數據，因資料不實或文件偽造進入法律程序案件的比例呈現什麼趨勢？", "answer": "C", "choice": ["不規則趨勢", "改善趨勢", "下降趨勢", "持平趨勢"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據以下圖表，計算從 2021 年到 2023 年期間，理賠糾紛案件總數的平均值。以下哪個選項是正確的？", "answer": "C", "choice": ["310", "299.33", "313.33", "340"]}
 {"category": "Open", "question_type": "Temporal Trend", "question": "從2022年到2024年，線上理賠案件占比(%)的趨勢如何變化？", "answer": "從2022年到2024年，線上理賠案件占比(%)呈現逐年增加的趨勢。"}
 {"category": "Open", "question_type": "Rate of Change", "question": "從2023年到2024年，紙本理賠案件占比(%)的變化率是多少？", "answer": "-25%"}
-{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2022年至2024年的數據，線上理賠案件占比的趨勢如何？", "answer": "C", "choice": ["線上理賠案件占比在2022年輕微上升，但在2023年出現明顯下降。", "2022年開始有所下降，2023年達到最低點，直到2024年才開始微幅恢復。", "線上理賠案件占比呈現逐年增加的趨勢。", "從2022年到2023年基本持平，2024年才開始明顯增加。"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2022年至2024年的數據，線上理賠案件占比的趨勢如何？", "answer": "D", "choice": ["2022年開始有所下降，2023年達到最低點，直到2024年才開始微幅恢復。", "從2022年到2023年基本持平，2024年才開始明顯增加。", "線上理賠案件占比在2022年輕微上升，但在2023年出現明顯下降。", "線上理賠案件占比呈現逐年增加的趨勢。"]}
 {"category": "MCQ", "question_type": "Rate of Change", "question": "根據下圖，2023年到2024年期間，紙本理賠案件的占比變化率最有可能是多少？", "answer": "C", "choice": ["-15%", "-30%", "-25%", "-35%"]}
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據圖1，所有統計項目的比例總和是227%。", "answer": "是", "question_group": 979}
 

@@ -1,10 +1,10 @@
 {"category": "Open", "question_type": "Comparison", "question": "2024年的非獨立董事比例比2023年的獨立董事比例多多少個百分點？", "answer": "2024年的非獨立董事比例比2023年的獨立董事比例多15個百分點。"}
 {"category": "Open", "question_type": "Comparison", "question": "2025年的主要供應商納入評估框架數量比2024年增加了多少？", "answer": "25"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的數據，2024年的非獨立董事比例與2023年的獨立董事比例的差異為多少個百分點？", "answer": "C", "choice": ["2024年的非獨立董事比例比2023年的獨立董事比例多5個百分點。", "2024年的非獨立董事比例比2023年的獨立董事比例多25個百分點。", "2024年的非獨立董事比例比2023年的獨立董事比例多15個百分點。", "2024年的非獨立董事比例與2023年的獨立董事比例持平，均為40%。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2024年和2025年的供應商評估框架，2025年納入的主要供應商數量相比2024年增加了多少？", "answer": "C", "choice": ["15", "40", "25", "28"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的數據，2024年的非獨立董事比例與2023年的獨立董事比例的差異為多少個百分點？", "answer": "C", "choice": ["2024年的非獨立董事比例與2023年的獨立董事比例持平，均為40%。", "2024年的非獨立董事比例比2023年的獨立董事比例多5個百分點。", "2024年的非獨立董事比例比2023年的獨立董事比例多15個百分點。", "2024年的非獨立董事比例比2023年的獨立董事比例多25個百分點。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2024年和2025年的供應商評估框架，2025年納入的主要供應商數量相比2024年增加了多少？", "answer": "C", "choice": ["28", "15", "25", "40"]}
 {"category": "Open", "question_type": "Comparison", "question": "根據圖2，2026年哪一個系列的投資金額最高？", "answer": "可再生能源"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "在圖1中，2023年和2024年間綠色金融產品供應總數額的差異是多少億美元？", "answer": "由於缺乏具體的圖表數據，無法計算出2023年和2024年間綠色金融產品供應總數額的差異。"}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖1，2023年和2024年間綠色金融產品供應總數額的差異是多少億美元？", "answer": "B", "choice": ["2024年綠色金融產品供應比2023年少200億美元", "無法計算出差異，因為缺乏具體的圖表數據。", "2023年綠色金融產品供應額為100億美元，2024年為50億美元，差異為50億美元", "根據趨勢預測，2024年綠色金融產品將增長至80億美元，增加30億美元"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖1，2023年和2024年間綠色金融產品供應總數額的差異是多少億美元？", "answer": "C", "choice": ["根據趨勢預測，2024年綠色金融產品將增長至80億美元，增加30億美元", "2024年綠色金融產品供應比2023年少200億美元", "無法計算出差異，因為缺乏具體的圖表數據。", "2023年綠色金融產品供應額為100億美元，2024年為50億美元，差異為50億美元"]}
 {"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖4，最高指標的目標值是80，最低指標的目標值是8，兩者之間的差距是72。", "answer": "是", "question_group": 631}
 
 {"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖4，最高指標的目標值是10，最低指標的目標值是8，兩者之間的差距是72。", "answer": "否", "question_group": 631}

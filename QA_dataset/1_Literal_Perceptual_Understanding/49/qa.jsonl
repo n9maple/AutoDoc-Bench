@@ -1,7 +1,7 @@
 {"category": "Open", "question_type": "Part-to-Whole", "question": "在台灣金控資產負債權益結構中，哪些項目的數值之和等於總資產？", "answer": "合併總負債和歸屬於母公司業主之權益的數值之和等於總資產，總資產為 32500。"}
 {"category": "Open", "question_type": "Proportion", "question": "台灣租賃的資產佔比是多少百分比？", "answer": "0.7%"}
-{"category": "MCQ", "question_type": "Part-to-Whole", "question": "在台灣金控資產負債權益結構中，哪些項目的數值之和應該等於總資產？", "answer": "C", "choice": ["合併總負債與母公司固定資產的數值之和", "合併總負債與非控股權益的數值之和", "合併總負債與歸屬於母公司業主之權益的數值之和", "合併總負債與母公司的短期融資的數值之和"]}
-{"category": "MCQ", "question_type": "Proportion", "question": "根據以下圖片，台灣租賃的資產佔比是多少百分比？", "answer": "C", "choice": ["0.8%", "1.5%", "0.7%", "0.6%"]}
+{"category": "MCQ", "question_type": "Part-to-Whole", "question": "在台灣金控資產負債權益結構中，哪些項目的數值之和應該等於總資產？", "answer": "D", "choice": ["合併總負債與非控股權益的數值之和", "合併總負債與母公司固定資產的數值之和", "合併總負債與母公司的短期融資的數值之和", "合併總負債與歸屬於母公司業主之權益的數值之和"]}
+{"category": "MCQ", "question_type": "Proportion", "question": "根據以下圖片，台灣租賃的資產佔比是多少百分比？", "answer": "C", "choice": ["0.6%", "1.5%", "0.7%", "0.8%"]}
 {"category": "YesNo", "question_type": "Part-to-Whole", "question": "根據圖1，合併總負債與歸屬於母公司業主之權益的數值之和等於總資產。", "answer": "是", "question_group": 125}
 
 {"category": "YesNo", "question_type": "Part-to-Whole", "question": "根據圖1，合併總負債與歸屬於非控制權益的數值之和等於總資產。", "answer": "否", "question_group": 125}

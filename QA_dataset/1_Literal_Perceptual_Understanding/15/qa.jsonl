@@ -1,7 +1,7 @@
 {"category": "Open", "question_type": "Proportion", "question": "中小企業貸款拒絕原因中，擔保品不足所占比例是多少？", "answer": "擔保品不足所占比例是 40.0%。"}
 {"category": "Open", "question_type": "Proportion", "question": "在這個餅圖中，哪個類別的了解程度佔總百分比的一半？", "answer": "充分了解和不夠了解這兩個類別的了解程度各佔總百分比的一半"}
-{"category": "MCQ", "question_type": "Proportion", "question": "根據相關資料，關於中小企業貸款拒絕的原因，擔保品不足所占的比例可能為以下哪一項？", "answer": "C", "choice": ["42.0%", "38.5%", "40.0%", "45.0%"]}
-{"category": "MCQ", "question_type": "Proportion", "question": "根據以下餅圖，哪個類別的了解程度佔總百分比的一半？", "answer": "C", "choice": ["充分了解和略微了解這兩個類別的了解程度各佔總百分比的一半", "充分了解和完全不了解這兩個類別的了解程度各佔總百分比的一半", "充分了解和不夠了解這兩個類別的了解程度各佔總百分比的一半", "充分了解和不充分了解合併後佔總百分比的70%"]}
+{"category": "MCQ", "question_type": "Proportion", "question": "根據相關資料，關於中小企業貸款拒絕的原因，擔保品不足所占的比例可能為以下哪一項？", "answer": "A", "choice": ["40.0%", "38.5%", "45.0%", "42.0%"]}
+{"category": "MCQ", "question_type": "Proportion", "question": "根據以下餅圖，哪個類別的了解程度佔總百分比的一半？", "answer": "A", "choice": ["充分了解和不夠了解這兩個類別的了解程度各佔總百分比的一半", "充分了解和不充分了解合併後佔總百分比的70%", "充分了解和完全不了解這兩個類別的了解程度各佔總百分比的一半", "充分了解和略微了解這兩個類別的了解程度各佔總百分比的一半"]}
 {"category": "YesNo", "question_type": "Proportion", "question": "根據圖3，擔保品不足在中小企業貸款拒絕原因中所占的比例是 40.0%。", "answer": "是", "question_group": 43}
 
 {"category": "YesNo", "question_type": "Proportion", "question": "根據圖3，擔保品不足在中小企業貸款拒絕原因中所占的比例是 30.0%。", "answer": "否", "question_group": 43}

@@ -5,12 +5,12 @@
 {"category": "Open", "question_type": "Comparison", "question": "哪個帳戶在所有貨幣中提供的利率最高？", "answer": "銀髮族專案帳戶在美元中提供的利率最高，為5.05%。"}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據下列情境，美元的本期年利率與前一期年利率的變化為何？", "answer": "C", "choice": ["0.35個百分點", "0.20個百分點", "0.30個百分點", "0.50個百分點"]}
 {"category": "MCQ", "question_type": "Comparison", "question": "根據中華郵政的定期儲蓄存款利率，以下哪一個年期的利率與市場最高利率的差距最小？（請參考提供的利率表）", "answer": "C", "choice": ["五年", "一年", "三個月", "兩年"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據所提供的情境，113/07/01 時期所有帳戶的利率是否相同？如果相同，利率為以下哪一選項？", "answer": "C", "choice": ["0.21%", "0.17%", "0.19%", "所有帳戶的利率最近發生變化"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，哪種貨幣在調整前後的增幅最大？", "answer": "C", "choice": ["人民幣的增幅最大，為0.20%。", "日元的增幅最大，為0.25%。", "美元的增幅最大，為0.30%。", "英鎊的增幅最大，為0.10%。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據所提供的情境，113/07/01 時期所有帳戶的利率是否相同？如果相同，利率為以下哪一選項？", "answer": "D", "choice": ["所有帳戶的利率最近發生變化", "0.21%", "0.17%", "0.19%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，哪種貨幣在調整前後的增幅最大？", "answer": "A", "choice": ["美元的增幅最大，為0.30%。", "人民幣的增幅最大，為0.20%。", "日元的增幅最大，為0.25%。", "英鎊的增幅最大，為0.10%。"]}
 {"category": "Open", "question_type": "Difference Calculation", "question": "在2024年7月1日的新臺幣儲蓄存款各類年利率中，最高與最低的年利率差距是多少？", "answer": "最高與最低的年利率差距是1.41%。"}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據2024年7月1日的新臺幣儲蓄存款各類年利率，最高與最低的年利率差距是以下哪一個選項？", "answer": "C", "choice": ["1.30%", "1.55%", "1.41%", "1.70%"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據2024年7月1日的新臺幣儲蓄存款各類年利率，最高與最低的年利率差距是以下哪一個選項？", "answer": "A", "choice": ["1.41%", "1.30%", "1.55%", "1.70%"]}
 {"category": "Open", "question_type": "Ranking", "question": "根據圖5，將所有存期的利率從低到高排序。", "answer": "1.1%, 1.25%, 1.45%, 1.55%, 1.6%"}
-{"category": "MCQ", "question_type": "Ranking", "question": "根據圖5，以下利率中哪一組是從低到高排序的正確順序？", "answer": "B", "choice": ["1.1%, 1.55%, 1.45%, 1.25%, 1.6%", "1.1%, 1.25%, 1.45%, 1.55%, 1.6%", "1.25%, 1.1%, 1.6%, 1.55%, 1.45%", "1.45%, 1.25%, 1.1%, 1.55%, 1.6%"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據圖5，以下利率中哪一組是從低到高排序的正確順序？", "answer": "B", "choice": ["1.45%, 1.25%, 1.1%, 1.55%, 1.6%", "1.1%, 1.25%, 1.45%, 1.55%, 1.6%", "1.1%, 1.55%, 1.45%, 1.25%, 1.6%", "1.25%, 1.1%, 1.6%, 1.55%, 1.45%"]}
 {"category": "YesNo", "question_type": "Comparison", "question": "根據表6，銀髮族專案帳戶在美元中提供的利率是5.05%，為所有帳戶中最高的。", "answer": "是", "question_group": 530}
 
 {"category": "YesNo", "question_type": "Comparison", "question": "根據表6，優勢儲蓄帳戶在美元中提供的利率是5.05%，為所有帳戶中最高的。", "answer": "否", "question_group": 530}

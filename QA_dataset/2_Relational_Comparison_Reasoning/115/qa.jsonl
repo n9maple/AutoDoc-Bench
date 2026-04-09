@@ -3,22 +3,22 @@
 {"category": "Open", "question_type": "Comparison", "question": "相比於促銷活動貢獻率，總消費額增長率高了多少百分點？", "answer": "總消費額增長率比促銷活動貢獻率高5個百分點。"}
 {"category": "Open", "question_type": "Comparison", "question": "哪種回饋在旅遊支出方面的偏好比例最高？", "answer": "積分返還在旅遊支出方面的偏好比例最高，為65%。"}
 {"category": "Open", "question_type": "Comparison", "question": "在社交媒體平台和手機應用程式中，哪一個的消費者參與增長率更高，並且高了多少百分點？", "answer": "手機應用程式的消費者參與增長率更高，高了5個百分點。"}
-{"category": "MCQ", "question_type": "Comparison", "question": "在以下情境中，哪一項預訂的信用卡使用率更高？ (根據附加圖片敘述作答)", "answer": "C", "choice": ["酒店預訂的信用卡使用率為80%，機票預訂的為75%。", "機票預訂的信用卡使用率為78%，而酒店預訂的使用率為72%。", "酒店預訂和機票預訂的信用卡使用率相同，都是75%。", "酒店預訂和機票預訂的信用卡使用率分別為85%和65%。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中顯示的數據，哪個年齡段在醫療保健和超市購物中的使用率差距最大？", "answer": "C", "choice": ["18-30", "31-40", "45-60", "51-64"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的數據，總消費額增長率與促銷活動貢獻率相比，增長了多少百分點？", "answer": "C", "choice": ["促銷活動貢獻率比總消費額增長率低3個百分點。", "總消費額增長率和促銷活動貢獻率相等。", "總消費額增長率比促銷活動貢獻率高5個百分點。", "促銷活動貢獻率比總消費額增長率低1個百分點。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據以下圖表，哪種回饋在旅遊支出方面的偏好比例最高？", "answer": "C", "choice": ["產品折扣在旅遊支出方面的偏好比例為55%.", "現金返還在旅遊支出方面的偏好比例為58%.", "積分返還在旅遊支出方面的偏好比例最高，為65%.", "優惠券返還在旅遊支出方面的偏好比例為63%."]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據社交媒體平台和手機應用程式的消費者參與增長率，哪一個更高？", "answer": "C", "choice": ["社交媒體平台的消費者參與增長率比手機應用程式低了5個百分點。", "社交媒體平台的消費者參與增長率增長了4個百分點。", "手機應用程式的消費者參與增長率高了5個百分點。", "手機應用程式的消費者參與增長率高了1個百分點。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在以下情境中，哪一項預訂的信用卡使用率更高？ (根據附加圖片敘述作答)", "answer": "B", "choice": ["酒店預訂的信用卡使用率為80%，機票預訂的為75%。", "酒店預訂和機票預訂的信用卡使用率相同，都是75%。", "酒店預訂和機票預訂的信用卡使用率分別為85%和65%。", "機票預訂的信用卡使用率為78%，而酒店預訂的使用率為72%。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中顯示的數據，哪個年齡段在醫療保健和超市購物中的使用率差距最大？", "answer": "B", "choice": ["31-40", "45-60", "18-30", "51-64"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的數據，總消費額增長率與促銷活動貢獻率相比，增長了多少百分點？", "answer": "D", "choice": ["促銷活動貢獻率比總消費額增長率低1個百分點。", "促銷活動貢獻率比總消費額增長率低3個百分點。", "總消費額增長率和促銷活動貢獻率相等。", "總消費額增長率比促銷活動貢獻率高5個百分點。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據以下圖表，哪種回饋在旅遊支出方面的偏好比例最高？", "answer": "A", "choice": ["積分返還在旅遊支出方面的偏好比例最高，為65%.", "現金返還在旅遊支出方面的偏好比例為58%.", "產品折扣在旅遊支出方面的偏好比例為55%.", "優惠券返還在旅遊支出方面的偏好比例為63%."]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據社交媒體平台和手機應用程式的消費者參與增長率，哪一個更高？", "answer": "C", "choice": ["手機應用程式的消費者參與增長率高了1個百分點。", "社交媒體平台的消費者參與增長率比手機應用程式低了5個百分點。", "手機應用程式的消費者參與增長率高了5個百分點。", "社交媒體平台的消費者參與增長率增長了4個百分點。"]}
 {"category": "Open", "question_type": "Comparison", "question": "哪個消費類別的使用增長率最低？", "answer": "消費類別 30 的使用增長率最低"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "2024Q2 和 2025Q2 的信用卡消費比例差距是多少？", "answer": "由於沒有具體的數據提供，無法計算出確切的差距。"}
-{"category": "MCQ", "question_type": "Comparison", "question": "在下列消費類別中，哪一個的使用增長率最低？（參考圖片）", "answer": "C", "choice": ["消費類別 5 的使用增長率最低", "消費類別 25 的使用增長率最低", "消費類別 30 的使用增長率最低", "消費類別 12 的使用增長率最低"]}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據提供的資訊，2024 Q2 和 2025 Q2 的信用卡消費比例差距可以怎麼說？", "answer": "C", "choice": ["2025 Q2 的信用卡消費比例顯示穩定成長，良性循環形成。", "2025 Q2 的信用卡消費比例因經濟回升而高於 2024 Q2", "無法計算出確切的差距，因為沒有具體的數據提供。", "2024 Q2 和 2025 Q2 之間的差距可以在現有資料基礎上進行概括。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在下列消費類別中，哪一個的使用增長率最低？（參考圖片）", "answer": "B", "choice": ["消費類別 25 的使用增長率最低", "消費類別 30 的使用增長率最低", "消費類別 12 的使用增長率最低", "消費類別 5 的使用增長率最低"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據提供的資訊，2024 Q2 和 2025 Q2 的信用卡消費比例差距可以怎麼說？", "answer": "A", "choice": ["無法計算出確切的差距，因為沒有具體的數據提供。", "2025 Q2 的信用卡消費比例顯示穩定成長，良性循環形成。", "2024 Q2 和 2025 Q2 之間的差距可以在現有資料基礎上進行概括。", "2025 Q2 的信用卡消費比例因經濟回升而高於 2024 Q2"]}
 {"category": "Open", "question_type": "Ranking", "question": "消費類別的增長率從高到低排列，第二個數據點是什麼？", "answer": "65"}
-{"category": "MCQ", "question_type": "Ranking", "question": "根據給定的消費類別增長率（見圖片），第二個數據點的數值是以下哪一個？", "answer": "D", "choice": ["80", "55", "60", "65"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據給定的消費類別增長率（見圖片），第二個數據點的數值是以下哪一個？", "answer": "D", "choice": ["80", "60", "55", "65"]}
 {"category": "Open", "question_type": "Comparison", "question": "根據圖5，哪一種活動類型的效果指標數值最低？", "answer": "大型購物平台限時優惠"}
 {"category": "Open", "question_type": "Comparison", "question": "根據表3的資料，2025Q2的總消費額增長率減去促銷活動貢獻率的結果是多少百分比？", "answer": "5%"}
 {"category": "Open", "question_type": "Comparison", "question": "根據表4的資料，現金回饋和積分返還在旅遊支出偏好的比例差異是多少個百分點？", "answer": "30個百分點"}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖4，關於2024Q2與2025Q2的消費比例差異，以下哪個選項是正確的？", "answer": "C", "choice": ["2024Q2的消費比例與2025Q2的消費比例存在顯著的差異，從而需要進一步分析。", "2025Q2的消費比例應該是2024Q2的基準上升了50%，因此能夠計算出差異。", "無法計算2024Q2與2025Q2的消費比例差異，因為缺少具體數據。", "根據2024年的整體消費數據來推測2025Q2的消費比例，可以推算出大概的差異。"]}
-{"category": "MCQ", "question_type": "Ranking", "question": "根據圖3，以下哪個選項正確按消費類別的使用增長率從低到高的排序？", "answer": "D", "choice": ["75%, 65%, 40%, 30%", "40%, 30%, 75%, 65%", "30%, 75%, 40%, 65%", "30%, 40%, 65%, 75%"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖4，關於2024Q2與2025Q2的消費比例差異，以下哪個選項是正確的？", "answer": "B", "choice": ["2025Q2的消費比例應該是2024Q2的基準上升了50%，因此能夠計算出差異。", "無法計算2024Q2與2025Q2的消費比例差異，因為缺少具體數據。", "根據2024年的整體消費數據來推測2025Q2的消費比例，可以推算出大概的差異。", "2024Q2的消費比例與2025Q2的消費比例存在顯著的差異，從而需要進一步分析。"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據圖3，以下哪個選項正確按消費類別的使用增長率從低到高的排序？", "answer": "B", "choice": ["40%, 30%, 75%, 65%", "30%, 40%, 65%, 75%", "30%, 75%, 40%, 65%", "75%, 65%, 40%, 30%"]}
 {"category": "YesNo", "question_type": "Comparison", "question": "根據表1，酒店預訂和機票預訂的信用卡使用率相同，都是75%。", "answer": "是", "question_group": 753}
 
 {"category": "YesNo", "question_type": "Comparison", "question": "根據表1，酒店預訂的信用卡使用率比機票預訂高。", "answer": "否", "question_group": 753}

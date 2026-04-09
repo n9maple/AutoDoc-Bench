@@ -3,30 +3,30 @@
 {"category": "Open", "question_type": "Comparison", "question": "在所有優惠方式中，哪一個的消費總額增長比例比其他兩個都高，並且其差距是多少？", "answer": "特定商家折扣的消費總額增長比例最高，與現金回饋的差距是5%，與積分加倍的差距是20%。"}
 {"category": "Open", "question_type": "Comparison", "question": "餐飲的交易額增長是否超過旅遊的交易數量增長？", "answer": "餐飲的交易額增長超過旅遊的交易數量增長"}
 {"category": "Open", "question_type": "Comparison", "question": "哪一個滿意度級別在產品設計方面的評分比問題解決效率的評分高？", "answer": "不滿意"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的數據，關於用戶使用比例和便利性提升比例，哪一項較高？", "answer": "C", "choice": ["用戶使用比例與便利性提升比例相等。", "便利性提升比例較高。", "用戶使用比例較高。", "用戶使用比例隨年份下降。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "在以下行業中，哪個的平均單筆交易額最高？（請根據提供的圖片進行判斷）", "answer": "C", "choice": ["運輸的平均單筆交易額為 18000", "餐飲的平均單筆交易額為 13000", "旅遊的平均單筆交易額為 15000", "教育的平均單筆交易額為 17000"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片顯示，餐飲的交易額與旅遊的交易數量增長有何差異？", "answer": "C", "choice": ["餐飲的交易額僅由於特定促銷活動而沒有真正增長", "旅遊的交易數量與餐飲的交易額增長相當，但趨勢呈現不同", "餐飲的交易額增長超過旅遊的交易數量增長", "餐飲的交易額增長，但幅度很小且受季節性影響"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "在某產品評估中，以下哪一個滿意度級別的評分比問題解決效率的評分高？（請參考附圖）", "answer": "C", "choice": ["一般", "不確定", "不滿意", "相對滿意"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的數據，關於用戶使用比例和便利性提升比例，哪一項較高？", "answer": "D", "choice": ["用戶使用比例隨年份下降。", "便利性提升比例較高。", "用戶使用比例與便利性提升比例相等。", "用戶使用比例較高。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在以下行業中，哪個的平均單筆交易額最高？（請根據提供的圖片進行判斷）", "answer": "B", "choice": ["餐飲的平均單筆交易額為 13000", "旅遊的平均單筆交易額為 15000", "教育的平均單筆交易額為 17000", "運輸的平均單筆交易額為 18000"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片顯示，餐飲的交易額與旅遊的交易數量增長有何差異？", "answer": "A", "choice": ["餐飲的交易額增長超過旅遊的交易數量增長", "餐飲的交易額僅由於特定促銷活動而沒有真正增長", "餐飲的交易額增長，但幅度很小且受季節性影響", "旅遊的交易數量與餐飲的交易額增長相當，但趨勢呈現不同"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在某產品評估中，以下哪一個滿意度級別的評分比問題解決效率的評分高？（請參考附圖）", "answer": "A", "choice": ["不滿意", "一般", "不確定", "相對滿意"]}
 {"category": "Open", "question_type": "Comparison", "question": "年齡段56以上的用戶與年齡段18-24的用戶比例相比，哪個更高？", "answer": "年齡段56以上的用戶比例與年齡段18-24的用戶比例相同"}
 {"category": "Open", "question_type": "Comparison", "question": "本科學歷用戶的比例比高中及以下學歷用戶高多少？", "answer": "本科學歷用戶的比例比高中及以下學歷用戶高15.0%"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "滿意度最高與最低的指標之間的差距是多少?", "answer": "10%"}
 {"category": "Open", "question_type": "Comparison", "question": "月均使用次數最低的用戶類型是多少?", "answer": "用戶類型: 9"}
 {"category": "Open", "question_type": "Comparison", "question": "最左邊的宣傳渠道與第二個宣傳渠道的用戶參與率提升相比，哪個更高？", "answer": "最左邊的宣傳渠道與第二個宣傳渠道的用戶參與率提升相同。"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據以下圖表，年齡段56以上的用戶與年齡段18-24的用戶比例的比較中，哪項陳述正確？", "answer": "C", "choice": ["年齡段56以上的用戶比例低於年齡段18-24的用戶比例", "年齡段56以上的用戶比例高於年齡段18-24的用戶比例", "年齡段56以上的用戶比例與年齡段18-24的用戶比例相同", "年齡段18-24的用戶比例高於年齡段56以上的用戶比例"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "在對比本科與高中及以下學歷用戶比例的情境中，以下哪個選項正確描述了本科學歷用戶的比例高於高中及以下學歷用戶的幅度？", "answer": "C", "choice": ["本科學歷用戶的比例比高中及以下學歷用戶高17.0%", "本科學歷用戶的比例比高中及以下學歷用戶高10.0%", "本科學歷用戶的比例比高中及以下學歷用戶高15.0%", "本科學歷用戶的比例比高中及以下學歷用戶相等"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，新北市用戶數與其他地區用戶數的比較結果如何？", "answer": "C", "choice": ["新北市用戶數多於其他地區用戶數。", "新北市用戶數低於其他地區用戶數。", "新北市用戶數與其他地區用戶數相等。", "新北市用戶數在100人中占60人。"]}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據提供的數據，滿意度最高與最低的指標之間的差距是？", "answer": "C", "choice": ["8%", "15%", "10%", "5%"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片，哪一種用戶類型的月均使用次數最低？", "answer": "C", "choice": ["用戶類型: 7", "用戶類型: 2", "用戶類型: 9", "用戶類型: 6"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據所提供的宣傳渠道用戶參與率提升的數據，最左邊的宣傳渠道與第二個宣傳渠道的用戶參與率提升相比，哪一項陳述是正確的？", "answer": "C", "choice": ["最左邊的宣傳渠道的用戶參與率提升與第二個宣傳渠道相差不大。", "第二個宣傳渠道的用戶參與率提升並不高於最左邊的渠道。", "最左邊的宣傳渠道與第二個宣傳渠道的用戶參與率提升相同。", "最左邊的宣傳渠道的用戶參與率提升數據無法與其他渠道進行有效比較。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據以下圖表，年齡段56以上的用戶與年齡段18-24的用戶比例的比較中，哪項陳述正確？", "answer": "A", "choice": ["年齡段56以上的用戶比例與年齡段18-24的用戶比例相同", "年齡段18-24的用戶比例高於年齡段56以上的用戶比例", "年齡段56以上的用戶比例低於年齡段18-24的用戶比例", "年齡段56以上的用戶比例高於年齡段18-24的用戶比例"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在對比本科與高中及以下學歷用戶比例的情境中，以下哪個選項正確描述了本科學歷用戶的比例高於高中及以下學歷用戶的幅度？", "answer": "D", "choice": ["本科學歷用戶的比例比高中及以下學歷用戶高17.0%", "本科學歷用戶的比例比高中及以下學歷用戶高10.0%", "本科學歷用戶的比例比高中及以下學歷用戶相等", "本科學歷用戶的比例比高中及以下學歷用戶高15.0%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，新北市用戶數與其他地區用戶數的比較結果如何？", "answer": "C", "choice": ["新北市用戶數低於其他地區用戶數。", "新北市用戶數在100人中占60人。", "新北市用戶數與其他地區用戶數相等。", "新北市用戶數多於其他地區用戶數。"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據提供的數據，滿意度最高與最低的指標之間的差距是？", "answer": "C", "choice": ["15%", "8%", "10%", "5%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片，哪一種用戶類型的月均使用次數最低？", "answer": "C", "choice": ["用戶類型: 6", "用戶類型: 2", "用戶類型: 9", "用戶類型: 7"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據所提供的宣傳渠道用戶參與率提升的數據，最左邊的宣傳渠道與第二個宣傳渠道的用戶參與率提升相比，哪一項陳述是正確的？", "answer": "A", "choice": ["最左邊的宣傳渠道與第二個宣傳渠道的用戶參與率提升相同。", "第二個宣傳渠道的用戶參與率提升並不高於最左邊的渠道。", "最左邊的宣傳渠道的用戶參與率提升與第二個宣傳渠道相差不大。", "最左邊的宣傳渠道的用戶參與率提升數據無法與其他渠道進行有效比較。"]}
 {"category": "Open", "question_type": "Ranking", "question": "富邦銀行信用卡用戶中，哪個地區的用戶數最多？", "answer": "台北市"}
-{"category": "MCQ", "question_type": "Ranking", "question": "富邦銀行信用卡用戶中，根據圖片顯示，哪個地區的用戶數最多？", "answer": "C", "choice": ["新北市", "高雄市", "台北市", "桃園市"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "富邦銀行信用卡用戶中，根據圖片顯示，哪個地區的用戶數最多？", "answer": "A", "choice": ["台北市", "高雄市", "新北市", "桃園市"]}
 {"category": "Open", "question_type": "Comparison", "question": "根據表5，哪一項優惠的使用次數增長率最高，並且該項優惠的增長率比最低的多多少百分比？", "answer": "使用次數增長率最高的是『特定商家折扣』，該項優惠的增長率比最低的多10%。"}
 {"category": "Open", "question_type": "Comparison", "question": "根據表7，整體滿意度的非常滿意比例和促銷活動的滿意比例相差多少個百分點？", "answer": "30"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "在圖6中，最高和最低指標的滿意度差異是多少百分點？", "answer": "10百分點"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖2，高中及以下學歷用戶的數量與博士學歷用戶的數量之間的差異為多少？", "answer": "B", "choice": ["16", "15", "14", "10"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據表3的資料，以下哪一個類別的平均單筆交易額最接近餐飲類別的兩倍？", "answer": "A", "choice": ["零售", "娛樂", "醫療", "旅遊"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖5的顯示，以下哪一年份的行動支付使用率較高？", "answer": "D", "choice": ["41年（使用率25%）", "38年（使用率10%）", "39年（使用率20%）", "40年"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據表6的資料，假設餐飲行業的初始交易數量為50次，旅遊行業的初始交易數量為40次，經過增長一年後，以下哪一個行業的最終交易數量較高？", "answer": "B", "choice": ["餐飲行業的最終交易數量為55次。", "餐飲行業的最終交易數量為67.5次。", "餐飲行業的最終交易數量為70次。", "旅遊行業的最終交易數量為65次。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖2，高中及以下學歷用戶的數量與博士學歷用戶的數量之間的差異為多少？", "answer": "A", "choice": ["15", "10", "14", "16"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表3的資料，以下哪一個類別的平均單筆交易額最接近餐飲類別的兩倍？", "answer": "C", "choice": ["旅遊", "娛樂", "零售", "醫療"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖5的顯示，以下哪一年份的行動支付使用率較高？", "answer": "D", "choice": ["39年（使用率20%）", "38年（使用率10%）", "41年（使用率25%）", "40年"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表6的資料，假設餐飲行業的初始交易數量為50次，旅遊行業的初始交易數量為40次，經過增長一年後，以下哪一個行業的最終交易數量較高？", "answer": "C", "choice": ["餐飲行業的最終交易數量為55次。", "旅遊行業的最終交易數量為65次。", "餐飲行業的最終交易數量為67.5次。", "餐飲行業的最終交易數量為70次。"]}
 {"category": "YesNo", "question_type": "Comparison", "question": "根據圖7，用戶類型 9 的月均使用次數最低。", "answer": "是", "question_group": 280}
 
 {"category": "YesNo", "question_type": "Comparison", "question": "根據圖7，用戶類型 5 的月均使用次數最低。", "answer": "否", "question_group": 280}

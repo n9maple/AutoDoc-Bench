@@ -3,15 +3,15 @@
 {"category": "Open", "question_type": "Aggregation", "question": "若將 2023 年和 2024 年的員工義工服務時數相加，總共是多少小時？", "answer": "38000 小時"}
 {"category": "Open", "question_type": "Aggregation", "question": "將綠色金融產品規模和環保技術貸款產品的目標規模相加，總和是多少？", "answer": "800"}
 {"category": "Open", "question_type": "Aggregation", "question": "在2024年，數位化管理和內部控制機制的總預算是多少？", "answer": "新台幣10億元"}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據圖片顯示，從2023年到2024年，綠色金融產品總額變化了多少？", "answer": "C", "choice": ["45億元", "60億元", "50億元", "55億元"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2023年到2024年的數據，節能建築的碳排放減少量占總碳排放減少量的比例變化是多少？", "answer": "C", "choice": ["10%", "3%", "5%", "8%"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的圖片，若將 2023 年和 2024 年的員工義工服務時數相加，總共是多少小時？", "answer": "C", "choice": ["39000 小時", "40000 小時", "38000 小時", "42000 小時"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據所提供的資金投入情況，以下哪一項的平均投入資金最接近120？（請參考圖片中各項目的投入資金）", "answer": "C", "choice": ["110", "125", "120", "135"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，綠色金融產品規模和環保技術貸款產品的目標規模相加，總和是多少？", "answer": "C", "choice": ["750", "850", "800", "900"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，2024年數位化管理和內部控制機制的總預算是多少？", "answer": "C", "choice": ["新台幣25億元", "新台幣7億元", "新台幣10億元", "新台幣12億元"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據圖片顯示，從2023年到2024年，綠色金融產品總額變化了多少？", "answer": "A", "choice": ["50億元", "45億元", "55億元", "60億元"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2023年到2024年的數據，節能建築的碳排放減少量占總碳排放減少量的比例變化是多少？", "answer": "A", "choice": ["5%", "10%", "3%", "8%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的圖片，若將 2023 年和 2024 年的員工義工服務時數相加，總共是多少小時？", "answer": "C", "choice": ["40000 小時", "39000 小時", "38000 小時", "42000 小時"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據所提供的資金投入情況，以下哪一項的平均投入資金最接近120？（請參考圖片中各項目的投入資金）", "answer": "D", "choice": ["110", "125", "135", "120"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，綠色金融產品規模和環保技術貸款產品的目標規模相加，總和是多少？", "answer": "D", "choice": ["900", "850", "750", "800"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據下圖，2024年數位化管理和內部控制機制的總預算是多少？", "answer": "C", "choice": ["新台幣7億元", "新台幣12億元", "新台幣10億元", "新台幣25億元"]}
 {"category": "Open", "question_type": "Aggregation", "question": "在圖7中，所有管理範疇的合規審核覆蓋率總和是多少？", "answer": "300"}
 {"category": "Open", "question_type": "Aggregation", "question": "根據表4的資料，2024年的教育資助金額相比2023年增加的總金額是多少？", "answer": "新台幣1000萬元"}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表1的資料，假設資本適足率每年增加1%，那麼三年後的資本適足率預計會是多少？", "answer": "B", "choice": ["20%", "18%", "19%", "21%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表1的資料，假設資本適足率每年增加1%，那麼三年後的資本適足率預計會是多少？", "answer": "B", "choice": ["19%", "18%", "20%", "21%"]}
 {"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表2，從2023年到2024年，綠色金融產品總額增加了50億元。", "answer": "是", "question_group": 1142}
 
 {"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表2，從2023年到2024年，綠色金融產品總額增加了100億元。", "answer": "否", "question_group": 1142}

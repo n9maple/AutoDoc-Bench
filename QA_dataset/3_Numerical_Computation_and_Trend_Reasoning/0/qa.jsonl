@@ -3,16 +3,16 @@
 {"category": "Open", "question_type": "Temporal Reasoning", "question": "從2024Q1到2024Q4，製造業中因政策變動影響增加的公司首次出現在哪一季？", "answer": "2024Q2"}
 {"category": "Open", "question_type": "Temporal Reasoning", "question": "從2023年到2027年，考慮ESG因素的企業比例平均增加多少百分比？", "answer": "平均每年增加5%"}
 {"category": "Open", "question_type": "Aggregation", "question": "2026年和2027年考慮ESG因素的企業比例之和是多少？", "answer": "95%"}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據給定圖表，2023 年和 2024 年的平均增幅總和是什麼？", "answer": "C", "choice": ["13%", "11%", "12%", "16%"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據圖表顯示，從 2023 年到 2024 年，股利比例的增幅是多少百分點？", "answer": "C", "choice": ["4 個百分點", "7 個百分點", "5 個百分點", "9 個百分點"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據政策變動對製造業的影響，哪一季首次出現因政策變動影響增加的公司？", "answer": "C", "choice": ["2024Q1", "2023Q4", "2024Q2", "2024Q3"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據圖片所示，從2023年到2027年，考慮ESG因素的企業比例平均增加了多少百分比？", "answer": "C", "choice": ["平均每年增加7%", "平均每年增加3%", "平均每年增加5%", "平均每年增加9%"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖片描述，2026年和2027年考慮ESG因素的企業比例之和最接近於哪一個選項？", "answer": "C", "choice": ["93%", "89%", "95%", "96%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據給定圖表，2023 年和 2024 年的平均增幅總和是什麼？", "answer": "A", "choice": ["12%", "11%", "13%", "16%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據圖表顯示，從 2023 年到 2024 年，股利比例的增幅是多少百分點？", "answer": "A", "choice": ["5 個百分點", "4 個百分點", "9 個百分點", "7 個百分點"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據政策變動對製造業的影響，哪一季首次出現因政策變動影響增加的公司？", "answer": "C", "choice": ["2024Q1", "2024Q3", "2024Q2", "2023Q4"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據圖片所示，從2023年到2027年，考慮ESG因素的企業比例平均增加了多少百分比？", "answer": "C", "choice": ["平均每年增加9%", "平均每年增加7%", "平均每年增加5%", "平均每年增加3%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖片描述，2026年和2027年考慮ESG因素的企業比例之和最接近於哪一個選項？", "answer": "A", "choice": ["95%", "93%", "89%", "96%"]}
 {"category": "Open", "question_type": "Temporal Trend", "question": "在2024年中，科技業的影響程度百分比從第一季度到第四季度是如何變化的？", "answer": "在2024年中，科技業的影響程度百分比從第一季度的35%增加到第四季度的40%，總共增加了5個百分點。"}
-{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2024年的數據，科技業的影響程度百分比在第一季度和第四季度之間的變化是什麼？", "answer": "C", "choice": ["第一季度35%變化不大到第四季度36%，總共增加了1個百分點。", "第一季度30%減少到第四季度25%，總共減少了5個百分點。", "第一季度35%增加到第四季度40%，總共增加了5個百分點。", "第一季度35%增加到第四季度38%，總共增加了3個百分點。"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2024年的數據，科技業的影響程度百分比在第一季度和第四季度之間的變化是什麼？", "answer": "A", "choice": ["第一季度35%增加到第四季度40%，總共增加了5個百分點。", "第一季度30%減少到第四季度25%，總共減少了5個百分點。", "第一季度35%增加到第四季度38%，總共增加了3個百分點。", "第一季度35%變化不大到第四季度36%，總共增加了1個百分點。"]}
 {"category": "Open", "question_type": "Aggregation", "question": "根據表5的資料，2023年至2025年間每年的平均企業比例是多少？", "answer": "35%"}
 {"category": "Open", "question_type": "Aggregation", "question": "根據表4的資料，計算製造業在2024年四個季度中因政策變動影響增加的季度數量。", "answer": "1"}
-{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖4，製造業在2024Q1至2024Q4期間的影響程度是否有持續增加的趨勢？", "answer": "A", "choice": ["是的，製造業在2024Q1至2024Q4期間的影響程度有持續增加的趨勢。", "不，製造業的影響在2024年逐步減少，特別是在2024Q4顯著下降。", "是的，但製造業的影響在2024Q2和2024Q3交替變化，並未持續增長。", "不，製造業在2024Q1至2024Q4期間的影響程度略有反彈，但整體持平。"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖4，製造業在2024Q1至2024Q4期間的影響程度是否有持續增加的趨勢？", "answer": "B", "choice": ["不，製造業在2024Q1至2024Q4期間的影響程度略有反彈，但整體持平。", "是的，製造業在2024Q1至2024Q4期間的影響程度有持續增加的趨勢。", "是的，但製造業的影響在2024Q2和2024Q3交替變化，並未持續增長。", "不，製造業的影響在2024年逐步減少，特別是在2024Q4顯著下降。"]}
 {"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表4，2024Q2是首次出現因政策變動影響增加的製造業公司所在的季度。", "answer": "是", "question_group": 765}
 
 {"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表4，2024Q1是首次出現因政策變動影響增加的製造業公司所在的季度。", "answer": "否", "question_group": 765}

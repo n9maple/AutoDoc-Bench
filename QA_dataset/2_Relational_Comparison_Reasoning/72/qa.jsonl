@@ -1,12 +1,12 @@
 {"category": "Open", "question_type": "Comparison", "question": "從3月到7月，哪個月的平均系統開通天數是最低的？", "answer": "5月"}
 {"category": "Open", "question_type": "Comparison", "question": "2021年和2023年之間，哪一年滲透測試次數最多，差距是多少次？", "answer": "2023年滲透測試次數最多，與2021年的差距是2次。"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據滲透測試的資料，哪一年滲透測試次數較多，且與另一年之間的差距是多少？", "answer": "C", "choice": ["2022年滲透測試次數最多，與2021年的差距是3次。", "2021年滲透測試次數最多，與2022年的差距是4次。", "2023年滲透測試次數最多，與2021年的差距是2次。", "2023年滲透測試次數最多，與2022年的差距是3次。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據滲透測試的資料，哪一年滲透測試次數較多，且與另一年之間的差距是多少？", "answer": "A", "choice": ["2023年滲透測試次數最多，與2021年的差距是2次。", "2021年滲透測試次數最多，與2022年的差距是4次。", "2023年滲透測試次數最多，與2022年的差距是3次。", "2022年滲透測試次數最多，與2021年的差距是3次。"]}
 {"category": "Open", "question_type": "Difference Calculation", "question": "在2023年Q4各產業啟用電子支付企業數中，數值最高的產業類別與數值最低的產業類別之間的差距是多少？", "answer": "830"}
 {"category": "Open", "question_type": "Comparison", "question": "哪個流程項目的期限(天數)是最低的?", "answer": "流程項目的期限(天數)最低的是 0 天。"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "最高與最低的流程項目的期限(天數)差距是多少?", "answer": "1825 天"}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據2023年Q4各產業啟用電子支付企業數的資料，數值最高的產業類別與數值最低的產業類別之間的差距為何？", "answer": "C", "choice": ["720", "810", "830", "950"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，哪個流程項目的期限(天數)是最低的？", "answer": "C", "choice": ["3 天", "1 天", "0 天", "2 天"]}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據提供的流程項目圖，最高與最低的流程項目期限差距是多少天？", "answer": "C", "choice": ["1450 天", "1600 天", "1825 天", "1700 天"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據2023年Q4各產業啟用電子支付企業數的資料，數值最高的產業類別與數值最低的產業類別之間的差距為何？", "answer": "B", "choice": ["950", "830", "810", "720"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據下圖，哪個流程項目的期限(天數)是最低的？", "answer": "A", "choice": ["0 天", "1 天", "2 天", "3 天"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據提供的流程項目圖，最高與最低的流程項目期限差距是多少天？", "answer": "B", "choice": ["1600 天", "1825 天", "1450 天", "1700 天"]}
 {"category": "Open", "question_type": "Comparison", "question": "在圖4中，哪一個流程項目的期限(天數)最低？", "answer": "0 天"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "根據圖1，產業類別為1110的企業數比產業類別為405的企業數多多少？", "answer": "705"}
 {"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖4，最高與最低的流程項目期限差距是1825天。", "answer": "是", "question_group": 592}

@@ -1,17 +1,17 @@
 {"category": "Open", "question_type": "Fact Lookup", "question": "從2023年到2024年，投資諮詢次數的年增率是多少？", "answer": "28%"}
 {"category": "Open", "question_type": "Fact Lookup", "question": "查詢 2024 年的合規檢核系統自動化程度是什麼？", "answer": "90"}
 {"category": "Open", "question_type": "Fact Lookup", "question": "線上資安宣導與反詐騙教育在2024年吸引了多少人次參與？", "answer": "超過10萬人次"}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據下圖顯示的2023年與2024年投資諮詢次數的變化，哪一項最接近年增率？", "answer": "C", "choice": ["30%", "25%", "28%", "32%"]}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2024年的合規檢核系統自動化程度，以下哪個選項最接近其自動化比率？", "answer": "C", "choice": ["85%", "70%", "90%", "92%"]}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "在2024年，線上資安宣導與反詐騙教育吸引了多少人次參與？請參考下列選項：", "answer": "C", "choice": ["正好15萬人次", "每年12000人次", "超過10萬人次", "少於10萬人次"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據下圖顯示的2023年與2024年投資諮詢次數的變化，哪一項最接近年增率？", "answer": "D", "choice": ["32%", "25%", "30%", "28%"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2024年的合規檢核系統自動化程度，以下哪個選項最接近其自動化比率？", "answer": "A", "choice": ["90%", "85%", "70%", "92%"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "在2024年，線上資安宣導與反詐騙教育吸引了多少人次參與？請參考下列選項：", "answer": "B", "choice": ["正好15萬人次", "超過10萬人次", "少於10萬人次", "每年12000人次"]}
 {"category": "Open", "question_type": "Proportion", "question": "在2023年台灣數位銀行客戶類型分布中，傳統銀行的客戶占總客戶的百分比是多少？", "answer": "88.9%"}
 {"category": "Open", "question_type": "Part-to-Whole", "question": "在2023年台灣數位銀行客戶類型分布中，哪一類別的客戶數量占總客戶數的最大部分？", "answer": "傳統銀行的客戶數量占總客戶數的最大部分，為1600人，占88.9%"}
 {"category": "Open", "question_type": "Peak/Valley", "question": "在2024年中，平均每月阻擋高風險攻擊事件次數最低的月份是哪一個？", "answer": "2024-01"}
 {"category": "Open", "question_type": "Fact Lookup", "question": "哪一年份的存取權限控管升級次數超過了50?", "answer": "沒有具體年份資料，無法確定哪一年份的存取權限控管升級次數超過了50"}
-{"category": "MCQ", "question_type": "Proportion", "question": "根據2023年台灣數位銀行客戶類型分布，以下哪一項最接近傳統銀行客戶占總客戶的百分比？", "answer": "C", "choice": ["86.5%", "89.5%", "88.9%", "84.3%"]}
-{"category": "MCQ", "question_type": "Part-to-Whole", "question": "根據2023年台灣數位銀行客戶類型分布，哪一類別的客戶數量占總客戶數的最大部分？", "answer": "C", "choice": ["所有類別的客戶數量相同，各占總客戶數的33.3%", "數位銀行的新客戶數量只占10%的總客戶數，為160人", "傳統銀行的客戶數量占總客戶數的最大部分，為1600人，占88.9%", "傳統銀行的客戶數量占總客戶數的最大部分，為800人，占44.4%"]}
-{"category": "MCQ", "question_type": "Peak/Valley", "question": "根據2024年每月的高風險攻擊事件次數，哪一個月份的平均次數最低？", "answer": "C", "choice": ["2024-03", "2024-02", "2024-01", "2024-05"]}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據提供的數據，以下哪一年份的存取權限控管升級次數超過了50？", "answer": "C", "choice": ["2020 年的升級次數在 50 到 70 之間，無疑超過 50 次。", "2021 年份的存取權限控管升級次數超過了 50", "無法確定具體年份", "2022年升級次數超過60次"]}
+{"category": "MCQ", "question_type": "Proportion", "question": "根據2023年台灣數位銀行客戶類型分布，以下哪一項最接近傳統銀行客戶占總客戶的百分比？", "answer": "C", "choice": ["84.3%", "89.5%", "88.9%", "86.5%"]}
+{"category": "MCQ", "question_type": "Part-to-Whole", "question": "根據2023年台灣數位銀行客戶類型分布，哪一類別的客戶數量占總客戶數的最大部分？", "answer": "C", "choice": ["數位銀行的新客戶數量只占10%的總客戶數，為160人", "所有類別的客戶數量相同，各占總客戶數的33.3%", "傳統銀行的客戶數量占總客戶數的最大部分，為1600人，占88.9%", "傳統銀行的客戶數量占總客戶數的最大部分，為800人，占44.4%"]}
+{"category": "MCQ", "question_type": "Peak/Valley", "question": "根據2024年每月的高風險攻擊事件次數，哪一個月份的平均次數最低？", "answer": "A", "choice": ["2024-01", "2024-05", "2024-03", "2024-02"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據提供的數據，以下哪一年份的存取權限控管升級次數超過了50？", "answer": "C", "choice": ["2022年升級次數超過60次", "2021 年份的存取權限控管升級次數超過了 50", "無法確定具體年份", "2020 年的升級次數在 50 到 70 之間，無疑超過 50 次。"]}
 {"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表7，2024年的合規檢核系統自動化程度是90%。", "answer": "是", "question_group": 100}
 
 {"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表7，2024年的合規檢核系統自動化程度是75%。", "answer": "否", "question_group": 100}

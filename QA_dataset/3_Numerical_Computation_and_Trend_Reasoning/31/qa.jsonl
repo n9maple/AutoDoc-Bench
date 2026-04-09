@@ -2,16 +2,16 @@
 {"category": "Open", "question_type": "Temporal Reasoning", "question": "從啟動前到啟動後第3年，全国的比例增加了多少？", "answer": "全國的比例增加了10%。"}
 {"category": "Open", "question_type": "Temporal Reasoning", "question": "在啟動後第1年和啟動後第5年間，農民平均收入提升百分比的增加量是多少？", "answer": "15%"}
 {"category": "Open", "question_type": "Aggregation", "question": "從啟動前到啟動後第5年，碳足跡減少百分比和化肥使用減少百分比的總和是多少？", "answer": "25%"}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據提供的數據，從2018年到2022年，哪一類別的百分比變化最大？", "answer": "C", "choice": ["從2018年至2022年，水果的變化為5.5%", "蔬菜的變化為5%", "稻米和水果的百分比變化都是4%", "水果的變化為6%，稻米為4%"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據下圖，從啟動前到啟動後第3年，全国的比例增加了多少？", "answer": "C", "choice": ["全国的比例增加了8%。", "全国的比例增加了18%。", "全国的比例增加了10％。", "全国的比例增加了5%。"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據下圖所示，在啟動後第1年和第5年間，農民平均收入提升百分比的增加量是多少？", "answer": "C", "choice": ["30%", "5%", "15%", "12%"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據以下情境，啟動前到啟動後第5年，碳足跡減少百分比和化肥使用減少百分比的總和是多少？情境：在啟動後的第5年，碳足跡減少了15%，化肥使用減少了10%。選項如下：", "answer": "C", "choice": ["15%", "10%", "25%", "30%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據提供的數據，從2018年到2022年，哪一類別的百分比變化最大？", "answer": "B", "choice": ["水果的變化為6%，稻米為4%", "稻米和水果的百分比變化都是4%", "蔬菜的變化為5%", "從2018年至2022年，水果的變化為5.5%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據下圖，從啟動前到啟動後第3年，全国的比例增加了多少？", "answer": "B", "choice": ["全国的比例增加了18%。", "全国的比例增加了10％。", "全国的比例增加了8%。", "全国的比例增加了5%。"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據下圖所示，在啟動後第1年和第5年間，農民平均收入提升百分比的增加量是多少？", "answer": "D", "choice": ["30%", "12%", "5%", "15%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據以下情境，啟動前到啟動後第5年，碳足跡減少百分比和化肥使用減少百分比的總和是多少？情境：在啟動後的第5年，碳足跡減少了15%，化肥使用減少了10%。選項如下：", "answer": "A", "choice": ["25%", "30%", "10%", "15%"]}
 {"category": "Open", "question_type": "Temporal Trend", "question": "從2022年到2025年，農業從業人員占全國勞動力比例的變化趨勢是什麼？", "answer": "從2022年到2025年，農業從業人員占全國勞動力比例的變化趨勢是下降。"}
 {"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2022年至2025年的數據，農業從業人員占全國勞動力比例的變化趨勢是什麼？", "answer": "C", "choice": ["政策影響下保持不變", "輕微下降後持平", "下降", "穩定下降至2025年"]}
 {"category": "Open", "question_type": "Aggregation", "question": "根據表1的資料，若農村金融基礎設施和農產品加值鏈拓展的預計社會資本投入在第一年結合起來，總投入是多少？", "answer": "60"}
 {"category": "Open", "question_type": "Aggregation", "question": "根據表5的資料，啟動後第1年到第3年間，農藥使用減少百分比的總和是多少？", "answer": "8%"}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖3的資料，所有農產品單位產出提升的平均值為何？", "answer": "B", "choice": ["1400公斤/公頃", "1150公斤/公頃", "1050公斤/公頃", "1100公斤/公頃"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表2的資料，從2018年到2022年，稻米的百分比每年的增長情況是哪些？", "answer": "D", "choice": ["2019年增長1.1%，2020年增長1.1%，2021年增長1.1%，2022年增長1.1%", "2019年增長0.5%，2020年增長1.5%，2021年增長0.8%，2022年增長1.2%", "2019年增長1.2%，2020年增長1.5%，2021年增長0.8%，2022年增長0.5%", "2019年增長1%，2020年增長1%，2021年增長1%，2022年增長1%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖3的資料，所有農產品單位產出提升的平均值為何？", "answer": "A", "choice": ["1150公斤/公頃", "1100公斤/公頃", "1400公斤/公頃", "1050公斤/公頃"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表2的資料，從2018年到2022年，稻米的百分比每年的增長情況是哪些？", "answer": "A", "choice": ["2019年增長1%，2020年增長1%，2021年增長1%，2022年增長1%", "2019年增長0.5%，2020年增長1.5%，2021年增長0.8%，2022年增長1.2%", "2019年增長1.1%，2020年增長1.1%，2021年增長1.1%，2022年增長1.1%", "2019年增長1.2%，2020年增長1.5%，2021年增長0.8%，2022年增長0.5%"]}
 {"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表4，啟動後第5年和第1年之間的農民平均收入提升百分比的增加量是15%。", "answer": "是", "question_group": 874}
 
 {"category": "YesNo", "question_type": "Temporal Reasoning", "question": "根據表4，啟動後第5年和第1年之間的農民平均收入提升百分比的增加量是25%。", "answer": "否", "question_group": 874}

@@ -1,15 +1,15 @@
 {"category": "Open", "question_type": "Temporal Reasoning", "question": "從2023年到2024年，平均貸款利率下降了多少百分點？", "answer": "平均貸款利率下降了0.7個百分點。"}
 {"category": "Open", "question_type": "Aggregation", "question": "如果這三個步驟的審批時間縮短效果加總起來是多少百分比？", "answer": "99%"}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據提供的數據，從2023年到2024年，貸款利率的變化情形如何？", "answer": "C", "choice": ["貸款利率在2023年增加了0.5個百分點。", "貸款利率在2024年回到2023年的水平。", "平均貸款利率下降了0.7個百分點。", "貸款利率下降了0.3個百分點。"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的情境，若這三個步驟的審批時間縮短，合計的效果是多少百分比？", "answer": "C", "choice": ["93%", "102%", "99%", "88%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據提供的數據，從2023年到2024年，貸款利率的變化情形如何？", "answer": "D", "choice": ["貸款利率在2024年回到2023年的水平。", "貸款利率在2023年增加了0.5個百分點。", "貸款利率下降了0.3個百分點。", "平均貸款利率下降了0.7個百分點。"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據提供的情境，若這三個步驟的審批時間縮短，合計的效果是多少百分比？", "answer": "B", "choice": ["102%", "99%", "93%", "88%"]}
 {"category": "Open", "question_type": "Rate of Change", "question": "從2022年到2023年，貸款申請數量增加率的上升幅度是多少？", "answer": "5%"}
 {"category": "Open", "question_type": "Temporal Trend", "question": "在2022至2023年間，批准比例變化的趨勢是如何發展的？", "answer": "批准比例變化的趨勢在2022至2023年間是下降的。"}
 {"category": "Open", "question_type": "Temporal Trend", "question": "從2023年至2024年，貸款申請平均處理時間呈現什麼樣的趨勢變化？", "answer": "從2023年至2024年，貸款申請平均處理時間呈現下降趨勢。"}
-{"category": "MCQ", "question_type": "Rate of Change", "question": "根據下方數據，從2022年到2023年，貸款申請數量增加的幅度為何？", "answer": "C", "choice": ["1%", "8%", "5%", "4%"]}
-{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2022至2023年間的數據，批准比例變化的趨勢是如何發展的？", "answer": "C", "choice": ["雖然批准比例下降，但貸款總數在上升，顯示出市場需求的增長。", "批准比例在這段時間內是上升的。", "批准比例在這段時間內是下降的。", "批准比例在2022年略微上升，2023年則驟然下降。"]}
-{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據提供的數據，貸款申請平均處理時間從2023年至2024年呈現了什麼樣的趨勢變化？", "answer": "C", "choice": ["處理時間保持穩定無變化。", "迅速上升，接著保持高位。", "呈現下降趨勢。", "有些時期上升，有些時期下降，顯示出明顯的波動。"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據下方數據，從2022年到2023年，貸款申請數量增加的幅度為何？", "answer": "D", "choice": ["8%", "4%", "1%", "5%"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據2022至2023年間的數據，批准比例變化的趨勢是如何發展的？", "answer": "B", "choice": ["批准比例在這段時間內是上升的。", "批准比例在這段時間內是下降的。", "批准比例在2022年略微上升，2023年則驟然下降。", "雖然批准比例下降，但貸款總數在上升，顯示出市場需求的增長。"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據提供的數據，貸款申請平均處理時間從2023年至2024年呈現了什麼樣的趨勢變化？", "answer": "B", "choice": ["有些時期上升，有些時期下降，顯示出明顯的波動。", "呈現下降趨勢。", "迅速上升，接著保持高位。", "處理時間保持穩定無變化。"]}
 {"category": "Open", "question_type": "Aggregation", "question": "根據圖3中的資料，這兩個服務類型的申請成功率提升總和是多少？", "answer": "30%"}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表5中的政策，如果在兩年內分階段實施，等待新政策生效的比例每半年增加10%，那麼在第二年結束時的等待生效比例為何？", "answer": "B", "choice": ["80%", "65%", "50%", "55%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表5中的政策，如果在兩年內分階段實施，等待新政策生效的比例每半年增加10%，那麼在第二年結束時的等待生效比例為何？", "answer": "C", "choice": ["80%", "55%", "65%", "50%"]}
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，三個步驟的審批時間縮短的總和是99%。", "answer": "是", "question_group": 1082}
 
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據表2，三個步驟的審批時間縮短的總和是100%。", "answer": "否", "question_group": 1082}

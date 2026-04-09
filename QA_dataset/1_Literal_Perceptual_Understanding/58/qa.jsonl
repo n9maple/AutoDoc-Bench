@@ -1,9 +1,9 @@
 {"category": "Open", "question_type": "Fact Lookup", "question": "哪一年及時公告件數的數量最少？", "answer": "2021 年的及時公告件數最少，數量是 570。"}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖片中所示，哪一年及時公告件數的數量最少？", "answer": "C", "choice": ["2019 年的及時公告件數最少，數量為 400。", "2022 年的及時公告件數最少，數量為 500。", "2021 年的及時公告件數最少，數量為 570。", "2020 年的及時公告件數最少，數量為 550。"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖片中所示，哪一年及時公告件數的數量最少？", "answer": "B", "choice": ["2019 年的及時公告件數最少，數量為 400。", "2021 年的及時公告件數最少，數量為 570。", "2022 年的及時公告件數最少，數量為 500。", "2020 年的及時公告件數最少，數量為 550。"]}
 {"category": "Open", "question_type": "Fact Lookup", "question": "件數超過1000的決議細項有幾個？", "answer": "3"}
 {"category": "Open", "question_type": "Proportion", "question": "在2023年違規處理程序案件分布中，進入紀律委員會審議的比例是多少？", "answer": "15.2%"}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "在以下影像中，件數超過1000的決議細項共有幾個？", "answer": "C", "choice": ["6", "1", "3", "0"]}
-{"category": "MCQ", "question_type": "Proportion", "question": "在2023年違規處理程序案件分布中，進入紀律委員會審議的比例是多少？以下哪一選項是正確的？", "answer": "C", "choice": ["18.3%", "12.5%", "15.2%", "25.0%"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "在以下影像中，件數超過1000的決議細項共有幾個？", "answer": "A", "choice": ["3", "6", "1", "0"]}
+{"category": "MCQ", "question_type": "Proportion", "question": "在2023年違規處理程序案件分布中，進入紀律委員會審議的比例是多少？以下哪一選項是正確的？", "answer": "A", "choice": ["15.2%", "25.0%", "12.5%", "18.3%"]}
 {"category": "Open", "question_type": "Fact Lookup", "question": "根據圖6，決議細項中件數超過1000的有多少項？", "answer": "3"}
 {"category": "YesNo", "question_type": "Proportion", "question": "根據圖7，在2023年違規處理程序案件中，進入紀律委員會審議的比例是15.2%。", "answer": "是", "question_group": 142}
 

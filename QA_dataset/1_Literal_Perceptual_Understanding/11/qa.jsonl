@@ -1,7 +1,7 @@
 {"category": "Open", "question_type": "Fact Lookup", "question": "在 2023 年的四個季度中，高雄的數值是在哪一季度達到最低？", "answer": "2023Q1"}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖片中顯示的高雄2023年的四個季度數據，以下哪一季度的數值達到最低？", "answer": "C", "choice": ["2023Q2", "2023Q4", "2023Q1", "2023全年"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據圖片中顯示的高雄2023年的四個季度數據，以下哪一季度的數值達到最低？", "answer": "B", "choice": ["2023Q2", "2023Q1", "2023全年", "2023Q4"]}
 {"category": "Open", "question_type": "Peak/Valley", "question": "在2023年期間，哪個季度共享辦公空間的需求變化百分比最高？", "answer": "2023Q4"}
-{"category": "MCQ", "question_type": "Peak/Valley", "question": "根據提供的數據，2023年期間哪個季度的共享辦公空間需求變化百分比最高？", "answer": "C", "choice": ["2023Q1", "2023Q2 (變化百分比為5%)", "2023Q4", "2023Q3 (變化百分比為10%)"]}
+{"category": "MCQ", "question_type": "Peak/Valley", "question": "根據提供的數據，2023年期間哪個季度的共享辦公空間需求變化百分比最高？", "answer": "D", "choice": ["2023Q2 (變化百分比為5%)", "2023Q1", "2023Q3 (變化百分比為10%)", "2023Q4"]}
 {"category": "YesNo", "question_type": "Peak/Valley", "question": "根據圖4，2023年期間2023Q4的共享辦公空間需求變化百分比最高。", "answer": "是", "question_group": 40}
 
 {"category": "YesNo", "question_type": "Peak/Valley", "question": "根據圖4，2023年期間2023Q1的共享辦公空間需求變化百分比最高。", "answer": "否", "question_group": 40}

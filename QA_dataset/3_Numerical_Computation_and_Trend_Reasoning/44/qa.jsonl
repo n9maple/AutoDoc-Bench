@@ -7,18 +7,18 @@
 {"category": "Open", "question_type": "Aggregation", "question": "在2022年和2023年間，主動參與適合性評估的總人數是多少？", "answer": "1,442,400"}
 {"category": "Open", "question_type": "Aggregation", "question": "2022年和2023年適合性評估參與比例的平均值是多少？", "answer": "90"}
 {"category": "Open", "question_type": "Temporal Reasoning", "question": "在2022年和2023年間，平均客訴處理時間的變化趨勢是縮短還是延長？", "answer": "縮短"}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2022年至2023年的數據，證券市場的增長幅度是多少？請參考下面的情境圖示。以下哪個選項最符合這個增長幅度？", "answer": "C", "choice": ["15.00%", "8.50%", "13.73%", "18.25%"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據2022年和2023年的市場數據，證券市場和期貨市場的平均數值分別是多少？請參考下圖來回答。", "answer": "C", "choice": ["證券市場的平均數值是2700，期貨市場的平均數值是75.", "證券市場的平均數值是2600，期貨市場的平均數值是80.", "證券市場的平均數值是2725，期貨市場的平均數值是76.5。", "證券市場的平均數值是2800，期貨市場的平均數值是78."]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據近期的數據，在這兩年中，結構型商品提早終止的比率為何？", "answer": "C", "choice": ["7.0%", "8.5%", "6.6%", "5.5%"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據提供的資料，2022年到2023年，單日成交量波動的上下限變化情況是什麼？", "answer": "D", "choice": ["下限增加了300，上限減少了50。", "下限減少了100，上限增加了200。", "下限增加了200，上限減少了200。", "下限增加了200，上限增加了200。"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2023年台指選擇權的IV（隱含波動率）變化，2023-10相比於2023年的IV最高值和IV最低值的差距變化為何？", "answer": "C", "choice": ["-3", "0", "-2", "3"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據以下台指期貨單日最大結算損益倍數的圖表，哪個選項最接近其平均值？", "answer": "C", "choice": ["4.0", "3.7", "3.9", "4.1"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據以下圖片，2022年和2023年間，主動參與適合性評估的總人數約為多少？", "answer": "C", "choice": ["1,420,000", "1,456,000", "1,442,400", "1,480,000"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據2022年和2023年的數據，適合性評估參與比例的平均值是多少？請參考相關圖表。", "answer": "C", "choice": ["88", "93", "90", "87"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2022年和2023年間的數據，平均客訴處理時間的變化趨勢是什麼？", "answer": "C", "choice": ["處理時間維持不變", "略微增加", "縮短", "大幅縮短"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據表9的資料，2022年和2023年平均客訴處理時間的總和是多少？以下哪一項是正確答案？", "answer": "B", "choice": ["106", "108", "112", "100"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據表1的資料，以下哪一年證券市場與期貨市場的總和較高？", "answer": "C", "choice": ["2023年的總和比2020年高相差750。", "2021年的總和較高，因為期貨市場增長了10%。", "2023年的總和更高，相差357。", "2023年與2022年的總和相差小於100，顯示出穩定的市場狀況。"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表3的資料，從2022年到2023年，全年最低點的變化趨勢如何？", "answer": "A", "choice": ["全年最低點顯示出上升趨勢。", "全年最低點顯示出多次劇烈的下降與上升，但整體趨勢不明確。", "全年最低點顯示出持平趨勢，沒有明顯的改變。", "全年最低點顯示出逐漸上升的趨勢，但在某些月份出現短暫的下降。"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2022年至2023年的數據，證券市場的增長幅度是多少？請參考下面的情境圖示。以下哪個選項最符合這個增長幅度？", "answer": "A", "choice": ["13.73%", "18.25%", "8.50%", "15.00%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2022年和2023年的市場數據，證券市場和期貨市場的平均數值分別是多少？請參考下圖來回答。", "answer": "C", "choice": ["證券市場的平均數值是2700，期貨市場的平均數值是75.", "證券市場的平均數值是2800，期貨市場的平均數值是78.", "證券市場的平均數值是2725，期貨市場的平均數值是76.5。", "證券市場的平均數值是2600，期貨市場的平均數值是80."]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據近期的數據，在這兩年中，結構型商品提早終止的比率為何？", "answer": "A", "choice": ["6.6%", "7.0%", "5.5%", "8.5%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據提供的資料，2022年到2023年，單日成交量波動的上下限變化情況是什麼？", "answer": "A", "choice": ["下限增加了200，上限增加了200。", "下限增加了300，上限減少了50。", "下限增加了200，上限減少了200。", "下限減少了100，上限增加了200。"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2023年台指選擇權的IV（隱含波動率）變化，2023-10相比於2023年的IV最高值和IV最低值的差距變化為何？", "answer": "D", "choice": ["-3", "3", "0", "-2"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據以下台指期貨單日最大結算損益倍數的圖表，哪個選項最接近其平均值？", "answer": "B", "choice": ["4.1", "3.9", "3.7", "4.0"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據以下圖片，2022年和2023年間，主動參與適合性評估的總人數約為多少？", "answer": "B", "choice": ["1,420,000", "1,442,400", "1,480,000", "1,456,000"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2022年和2023年的數據，適合性評估參與比例的平均值是多少？請參考相關圖表。", "answer": "C", "choice": ["87", "88", "90", "93"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2022年和2023年間的數據，平均客訴處理時間的變化趨勢是什麼？", "answer": "B", "choice": ["處理時間維持不變", "縮短", "大幅縮短", "略微增加"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表9的資料，2022年和2023年平均客訴處理時間的總和是多少？以下哪一項是正確答案？", "answer": "A", "choice": ["108", "100", "106", "112"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據表1的資料，以下哪一年證券市場與期貨市場的總和較高？", "answer": "C", "choice": ["2023年的總和比2020年高相差750。", "2023年與2022年的總和相差小於100，顯示出穩定的市場狀況。", "2023年的總和更高，相差357。", "2021年的總和較高，因為期貨市場增長了10%。"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表3的資料，從2022年到2023年，全年最低點的變化趨勢如何？", "answer": "C", "choice": ["全年最低點顯示出逐漸上升的趨勢，但在某些月份出現短暫的下降。", "全年最低點顯示出持平趨勢，沒有明顯的改變。", "全年最低點顯示出上升趨勢。", "全年最低點顯示出多次劇烈的下降與上升，但整體趨勢不明確。"]}
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據表8，2022年和2023年適合性評估參與比例的平均值是90。", "answer": "是", "question_group": 933}
 
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據表8，2022年和2023年適合性評估參與比例的平均值是85。", "answer": "否", "question_group": 933}

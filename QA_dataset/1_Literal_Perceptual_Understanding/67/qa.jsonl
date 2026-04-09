@@ -1,5 +1,5 @@
 {"category": "Open", "question_type": "Fact Lookup", "question": "請問南山人壽的健康醫療險費用是多少？", "answer": "6,900元"}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據南山人壽的健康醫療險資料，以下哪一項是該險種的年費用？", "answer": "C", "choice": ["6,200元", "7,500元", "6,900元", "6,800元"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據南山人壽的健康醫療險資料，以下哪一項是該險種的年費用？", "answer": "A", "choice": ["6,900元", "6,200元", "7,500元", "6,800元"]}
 {"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表5，南山人壽的健康醫療險年費用是6,900元。", "answer": "是", "question_group": 186}
 
 {"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表5，南山人壽的健康醫療險年費用是5,000元。", "answer": "否", "question_group": 186}

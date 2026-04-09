@@ -1,5 +1,5 @@
 {"category": "Open", "question_type": "Multi-hop Reasoning", "question": "台北和高雄的講座總數與其他城市的講座總數相差多少？", "answer": "2"}
-{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據圖片中顯示的講座數據，台北和高雄的講座總數與其他城市的講座總數相差多少？", "answer": "C", "choice": ["5", "0", "2", "6"]}
+{"category": "MCQ", "question_type": "Multi-hop Reasoning", "question": "根據圖片中顯示的講座數據，台北和高雄的講座總數與其他城市的講座總數相差多少？", "answer": "D", "choice": ["6", "0", "5", "2"]}
 {"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，台北和高雄的講座總數與其他城市的講座總數相差6。", "answer": "是", "question_group": 1505}
 
 {"category": "YesNo", "question_type": "Multi-hop Reasoning", "question": "根據表3，台北和高雄的講座總數與其他城市的講座總數相差2。", "answer": "否", "question_group": 1505}

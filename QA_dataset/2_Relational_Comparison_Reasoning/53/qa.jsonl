@@ -2,19 +2,19 @@
 {"category": "Open", "question_type": "Comparison", "question": "哪種卡的占比是聯名卡及特定卡種的兩倍以上？", "answer": "白金卡和金卡"}
 {"category": "Open", "question_type": "Comparison", "question": "2023年，受年費調整影響的用戶比例與達年費減免用戶比例之差是多少？", "answer": "5"}
 {"category": "MCQ", "question_type": "Comparison", "question": "@GoGo卡與玫瑰Giving卡在調整後的正卡數是否相同？以下哪個選項正確？", "answer": "C", "choice": ["GoGo卡在市場上的受歡迎程度低於玫瑰Giving卡。", "GoGo卡的用戶反饋比玫瑰Giving卡更為正面。", "兩者的正卡數相同，差異為0。", "玫瑰Giving卡提供的額外優惠多於GoGo卡。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖示，哪種卡的占比是聯名卡及特定卡種的兩倍以上？", "answer": "C", "choice": ["金卡", "特定卡種", "白金卡", "聯名卡的占比是聯名卡及特定卡種的倍數"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的數據，受年費調整影響的用戶比例與達年費減免用戶比例之差為何？", "answer": "C", "choice": ["4", "7", "5", "3"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖示，哪種卡的占比是聯名卡及特定卡種的兩倍以上？", "answer": "A", "choice": ["白金卡", "聯名卡的占比是聯名卡及特定卡種的倍數", "特定卡種", "金卡"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年的數據，受年費調整影響的用戶比例與達年費減免用戶比例之差為何？", "answer": "C", "choice": ["7", "3", "5", "4"]}
 {"category": "Open", "question_type": "Comparison", "question": "哪一個卡種的調幅_正卡(%)最低？", "answer": "16.7"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "最高與最低的調幅_正卡(%)的差距是多少？", "answer": "16.6"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片所示，哪一個卡種的調幅_正卡(%)為最低？", "answer": "C", "choice": ["15.5", "20.2", "16.7", "17.3"]}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖片，最高與最低的調幅_正卡(%)的差距是多少？", "answer": "C", "choice": ["16.0", "15.2", "16.6", "17.4"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片所示，哪一個卡種的調幅_正卡(%)為最低？", "answer": "B", "choice": ["15.5", "16.7", "17.3", "20.2"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖片，最高與最低的調幅_正卡(%)的差距是多少？", "answer": "B", "choice": ["17.4", "16.6", "16.0", "15.2"]}
 {"category": "Open", "question_type": "Ranking", "question": "根據調幅_正卡(%)，這些卡種應該如何由高到低排序？", "answer": "33.3%, 25.0%, 16.7%"}
-{"category": "MCQ", "question_type": "Ranking", "question": "根據調幅_正卡(%)，下列卡種的排序應該如何從高到低排列？（請參考圖片說明）", "answer": "C", "choice": ["16.7%, 25.0%, 30.0%", "25.0%, 20.0%, 15.0%", "33.3%, 25.0%, 16.7%", "33.3%, 25.0%, 5.0%"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "根據調幅_正卡(%)，下列卡種的排序應該如何從高到低排列？（請參考圖片說明）", "answer": "B", "choice": ["16.7%, 25.0%, 30.0%", "33.3%, 25.0%, 16.7%", "25.0%, 20.0%, 15.0%", "33.3%, 25.0%, 5.0%"]}
 {"category": "Open", "question_type": "Comparison", "question": "根據表1的資料，調整後每種類型卡的正卡和附卡年費用總和是多少？哪種類型卡的總和是最低的？", "answer": {"@GoGo卡": 2200, "FlyGo卡": 4200, "玫瑰Giving卡": 2200, "太陽卡": 1200, "最低總和卡": "太陽卡"}}
 {"category": "Open", "question_type": "Difference Calculation", "question": "根據圖3，2024年下半年和2025年持卡人新舊年費的適用比例差距是多少？", "answer": "由於沒有提供具體的圖表數據，我無法計算2024年下半年和2025年持卡人新舊年費的適用比例差距。"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "在圖2中，卡種的調幅_正卡(%)中，數值最高的卡種與數值最低的卡種之差是多少？", "answer": "16.6"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據表1的資料，各種類型卡的正卡和附卡年費用總和分別為多少？哪種類型卡的年費用總和最低？", "answer": "B", "choice": ["火焰卡的年費用為950元，低於太陽卡的1200元。", "太陽卡的年費用總和最低，為1200元。", "星星卡的年費用總和為1000元，為所有卡中最低。", "火焰卡的年費用總和為1100元，為所有卡中最低。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據表3的資料，2023年達年費減免用戶比例與受年費調整影響用戶比例相比，以下哪項描述是正確的？", "answer": "C", "choice": ["受年費調整影響用戶比例更高，百分比差距為8%。", "達年費減免用戶比例更低，百分比差距為8.5%。", "受年費調整影響用戶比例更高，百分比差距為5.75%。", "受年費調整影響用戶比例低於達年費減免用戶比例，百分比差距為2%。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表1的資料，各種類型卡的正卡和附卡年費用總和分別為多少？哪種類型卡的年費用總和最低？", "answer": "A", "choice": ["太陽卡的年費用總和最低，為1200元。", "火焰卡的年費用為950元，低於太陽卡的1200元。", "火焰卡的年費用總和為1100元，為所有卡中最低。", "星星卡的年費用總和為1000元，為所有卡中最低。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表3的資料，2023年達年費減免用戶比例與受年費調整影響用戶比例相比，以下哪項描述是正確的？", "answer": "A", "choice": ["受年費調整影響用戶比例更高，百分比差距為5.75%。", "受年費調整影響用戶比例更高，百分比差距為8%。", "達年費減免用戶比例更低，百分比差距為8.5%。", "受年費調整影響用戶比例低於達年費減免用戶比例，百分比差距為2%。"]}
 {"category": "YesNo", "question_type": "Comparison", "question": "根據表3，2023年受年費調整影響的用戶比例與達年費減免用戶比例之差是5。", "answer": "是", "question_group": 481}
 
 {"category": "YesNo", "question_type": "Comparison", "question": "根據表3，2023年受年費調整影響的用戶比例與達年費減免用戶比例之差是6。", "answer": "否", "question_group": 481}

@@ -3,11 +3,11 @@
 {"category": "Open", "question_type": "Aggregation", "question": "如果我們將儲蓄型壽險與健康險合併，這兩者在2025年第二季度的市場佔比總和是多少？", "answer": "20%"}
 {"category": "Open", "question_type": "Temporal Reasoning", "question": "從2024年到2025年，第四季度的數值增長了多少億元？", "answer": "150億元"}
 {"category": "Open", "question_type": "Aggregation", "question": "2024年第三季度和第四季度的總收入是多少？", "answer": "4,775億元"}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2024 Q2至2025 Q2的數據，以下哪一類險種的收入增長最多？（請參考附圖）", "answer": "C", "choice": ["終身壽險的收入增長幅度與去年同期持平", "傳統壽險的收入增長主要受到市場波動影響", "投資型壽險的收入增長最多", "健康險的收入增長因新政策而放緩"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據2025Q2的資料，下列哪一項表示傳統壽險、投資型壽險和健康險的收入總和？", "answer": "C", "choice": ["1,900億元", "3,200億元", "2,500億元", "2,600億元"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2024 Q2至2025 Q2的數據，以下哪一類險種的收入增長最多？（請參考附圖）", "answer": "D", "choice": ["健康險的收入增長因新政策而放緩", "終身壽險的收入增長幅度與去年同期持平", "傳統壽險的收入增長主要受到市場波動影響", "投資型壽險的收入增長最多"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2025Q2的資料，下列哪一項表示傳統壽險、投資型壽險和健康險的收入總和？", "answer": "D", "choice": ["1,900億元", "3,200億元", "2,600億元", "2,500億元"]}
 {"category": "MCQ", "question_type": "Aggregation", "question": "根據2025年第二季度的數據，如果將儲蓄型壽險與健康險的市場佔比總和進行比較，以下哪一選項為其總和？（根據資料圖片判斷）", "answer": "C", "choice": ["10%", "25%", "20%", "22%"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據圖片顯示，從2024年到2025年，第四季度的數值增長了多少億元？", "answer": "C", "choice": ["30億元", "80億元", "150億元", "160億元"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖片顯示的數據，2024年第三季度和第四季度的總收入是多少？", "answer": "C", "choice": ["4,200億元", "4,850億元", "4,775億元", "4,600億元"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據圖片顯示，從2024年到2025年，第四季度的數值增長了多少億元？", "answer": "B", "choice": ["80億元", "150億元", "160億元", "30億元"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖片顯示的數據，2024年第三季度和第四季度的總收入是多少？", "answer": "D", "choice": ["4,850億元", "4,600億元", "4,200億元", "4,775億元"]}
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，2025年第二季度儲蓄型壽險與健康險的市場佔比總和是20%。", "answer": "是", "question_group": 887}
 
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據表3，2025年第二季度儲蓄型壽險與健康險的市場佔比總和是15%。", "answer": "否", "question_group": 887}

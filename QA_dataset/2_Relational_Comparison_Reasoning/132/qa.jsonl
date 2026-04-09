@@ -1,10 +1,10 @@
 {"category": "Open", "question_type": "Comparison", "question": "根據表1，設立獨立董事比例是否高於董事會多樣性和專業性不足公司比例？", "answer": "設立獨立董事比例高於董事會多樣性和專業性不足公司比例"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據表1，設立獨立董事比例的情況與董事會多樣性和專業性不足的公司比例相比，哪一項是正確的？", "answer": "C", "choice": ["設立獨立董事比例的增長與董事會多樣性和專業性不足呈正相關", "設立獨立董事比例略低於董事會多樣性和專業性不足公司比例", "設立獨立董事比例高於董事會多樣性和專業性不足公司比例", "設立獨立董事比例的變化完全不影響董事會多樣性和專業性不足的情況"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖1，達到基本治理要求的公司比例和需要改進的公司比例之間的比較是什麼？", "answer": "C", "choice": ["達到基本治理要求的公司比例與需要改進的公司比例幾乎相同。", "大部分公司達到基本治理要求，少數需要改進。", "達到基本治理要求的公司比例高於需要改進的公司比例。", "達到基本治理要求的公司比例顯著高於需要改進的公司比例。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖2的資料，以下哪一項數值是最大的？", "answer": "C", "choice": ["57500000000000", "49000000000000", "50000000000000", "52000000000000"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖3，以下哪個指標的比例較低？", "answer": "C", "choice": ["指標5的比例明顯接近指標25", "指標15的比例與指標30相似且不低", "指標25的比例較低", "指標30的比例高於其他各指標"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖6，以下哪一個指標的採用百分比最低？", "answer": "C", "choice": ["指標1的採用百分比最低，為33%", "指標2的採用百分比最低，為35%", "指標3的採用百分比最低，為40%", "指標4的採用百分比最低，為28%"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖7，以下哪個指標的公司百分比最低？", "answer": "C", "choice": ["指標: 10", "指標: 15", "指標: 30", "指標: 50"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表1，設立獨立董事比例的情況與董事會多樣性和專業性不足的公司比例相比，哪一項是正確的？", "answer": "C", "choice": ["設立獨立董事比例略低於董事會多樣性和專業性不足公司比例", "設立獨立董事比例的變化完全不影響董事會多樣性和專業性不足的情況", "設立獨立董事比例高於董事會多樣性和專業性不足公司比例", "設立獨立董事比例的增長與董事會多樣性和專業性不足呈正相關"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖1，達到基本治理要求的公司比例和需要改進的公司比例之間的比較是什麼？", "answer": "C", "choice": ["達到基本治理要求的公司比例顯著高於需要改進的公司比例。", "大部分公司達到基本治理要求，少數需要改進。", "達到基本治理要求的公司比例高於需要改進的公司比例。", "達到基本治理要求的公司比例與需要改進的公司比例幾乎相同。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖2的資料，以下哪一項數值是最大的？", "answer": "D", "choice": ["57500000000000", "52000000000000", "49000000000000", "50000000000000"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖3，以下哪個指標的比例較低？", "answer": "B", "choice": ["指標15的比例與指標30相似且不低", "指標25的比例較低", "指標30的比例高於其他各指標", "指標5的比例明顯接近指標25"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖6，以下哪一個指標的採用百分比最低？", "answer": "B", "choice": ["指標4的採用百分比最低，為28%", "指標3的採用百分比最低，為40%", "指標2的採用百分比最低，為35%", "指標1的採用百分比最低，為33%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖7，以下哪個指標的公司百分比最低？", "answer": "B", "choice": ["指標: 50", "指標: 30", "指標: 15", "指標: 10"]}
 {"category": "Open", "question_type": "Comparison", "question": "在圖1中，達到基本治理要求的公司比例是否高於需要改進的公司比例？", "answer": "是，達到基本治理要求的公司比例高於需要改進的公司比例。"}
 {"category": "Open", "question_type": "Comparison", "question": "根據圖2的資料，較大的數值是多少？", "answer": "50000000000000"}
 {"category": "Open", "question_type": "Comparison", "question": "在圖3中，哪個指標的比例較低？", "answer": "指標25的比例較低"}

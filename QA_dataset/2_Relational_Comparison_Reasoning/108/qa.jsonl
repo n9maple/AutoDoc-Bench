@@ -2,11 +2,11 @@
 {"category": "Open", "question_type": "Comparison", "question": "建築和水泥的交易量比鋼鐵多多少億？", "answer": "建築和水泥的交易量比鋼鐵多500億"}
 {"category": "Open", "question_type": "Comparison", "question": "哪一個品類的交易量環比增長率較高？", "answer": "零售"}
 {"category": "Open", "question_type": "Comparison", "question": "在2025年9月期間，哪一個行業的增長率最高？", "answer": "科技股的增長率最高，為100%"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的數據，科技的環比增長率是消費品的倍數，請參考圖表來選擇正確的答案。", "answer": "C", "choice": ["2倍", "6倍", "4倍", "3.5倍"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中的交易量數據，建築和水泥的交易量比鋼鐵多多少億？", "answer": "C", "choice": ["250億", "400億", "500億", "700億"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "在2025年9月期間，以下哪一個行業的增長率最高？", "answer": "C", "choice": ["傳產股的增長率達到90%", "消費品股的增長率達到85%", "科技股的增長率達到100%", "金融股的增長率達到75%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的數據，科技的環比增長率是消費品的倍數，請參考圖表來選擇正確的答案。", "answer": "C", "choice": ["3.5倍", "2倍", "4倍", "6倍"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片中的交易量數據，建築和水泥的交易量比鋼鐵多多少億？", "answer": "D", "choice": ["700億", "400億", "250億", "500億"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在2025年9月期間，以下哪一個行業的增長率最高？", "answer": "A", "choice": ["科技股的增長率達到100%", "消費品股的增長率達到85%", "傳產股的增長率達到90%", "金融股的增長率達到75%"]}
 {"category": "Open", "question_type": "Difference Calculation", "question": "數值最高的券商與數值最低的券商的市場份額差距是多少？", "answer": "2.0%"}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據所提供的圖片，數值最高的券商與數值最低的券商的市場份額差距為多少？", "answer": "C", "choice": ["1.5%", "4.0%", "2.0%", "2.8%"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據所提供的圖片，數值最高的券商與數值最低的券商的市場份額差距為多少？", "answer": "A", "choice": ["2.0%", "4.0%", "2.8%", "1.5%"]}
 {"category": "Open", "question_type": "Difference Calculation", "question": "根據圖1，2025年8月與9月的台股市場總交易量差異是多少？", "answer": "由於未提供具體數據，無法計算具體差異。"}
 {"category": "YesNo", "question_type": "Difference Calculation", "question": "根據圖6，數值最高的券商與數值最低的券商的市場份額差距為2.0%。", "answer": "是", "question_group": 729}
 

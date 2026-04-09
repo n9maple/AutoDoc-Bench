@@ -2,16 +2,16 @@
 {"category": "Open", "question_type": "Aggregation", "question": "活期存款中，美元和人民幣的利率平均是多少？", "answer": "0.125%"}
 {"category": "Open", "question_type": "Temporal Reasoning", "question": "從2024年6月到2024年8月，人民幣/12的利率變化趨勢是如何的？", "answer": "人民幣/12的利率從2024年6月到2024年8月呈現下降趨勢。"}
 {"category": "Open", "question_type": "Aggregation", "question": "在2024年7月，美元/6和澳幣/6的利率相加是多少？", "answer": "5.95%"}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖片顯示的利率資訊，若將1個月和3個月的港幣利率相加，會得出哪個選項的總和？", "answer": "C", "choice": ["3.45%", "2.65%", "2.55%", "2.35%"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "請根據下圖所示的不同貨幣的活期存款利率，選擇美元和人民幣的平均利率。", "answer": "C", "choice": ["0.30%", "0.10%", "0.125%", "0.05%"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2024年6月到2024年8月的趨勢圖，人民幣/12的利率變化是什麼樣的趨勢？", "answer": "C", "choice": ["人民幣/12的利率在2024年6月和7月平穩，然後在8月急劇上升。", "人民幣/12的利率在2024年6月至8月整體呈現波動，伴隨小幅上升。", "人民幣/12的利率從2024年6月到2024年8月呈現下降趨勢。", "人民幣/12的利率在2024年6月經歷小幅下降，7月和8月持平。"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據2024年7月的利率情境，美元/6和澳幣/6的利率相加後的值是多少？", "answer": "C", "choice": ["6.40%", "4.50%", "5.95%", "6.75%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖片顯示的利率資訊，若將1個月和3個月的港幣利率相加，會得出哪個選項的總和？", "answer": "D", "choice": ["2.65%", "2.35%", "3.45%", "2.55%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "請根據下圖所示的不同貨幣的活期存款利率，選擇美元和人民幣的平均利率。", "answer": "B", "choice": ["0.30%", "0.125%", "0.05%", "0.10%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據2024年6月到2024年8月的趨勢圖，人民幣/12的利率變化是什麼樣的趨勢？", "answer": "D", "choice": ["人民幣/12的利率在2024年6月和7月平穩，然後在8月急劇上升。", "人民幣/12的利率在2024年6月至8月整體呈現波動，伴隨小幅上升。", "人民幣/12的利率在2024年6月經歷小幅下降，7月和8月持平。", "人民幣/12的利率從2024年6月到2024年8月呈現下降趨勢。"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2024年7月的利率情境，美元/6和澳幣/6的利率相加後的值是多少？", "answer": "B", "choice": ["6.75%", "5.95%", "4.50%", "6.40%"]}
 {"category": "Open", "question_type": "Temporal Trend", "question": "從2023-12-10到2024-06-10，澳幣的定存利率變化趨勢如何？", "answer": "從2023-12-10到2024-06-10，澳幣的定存利率呈現上升趨勢，從2.8%上升到3.1%。"}
 {"category": "Open", "question_type": "Temporal Trend", "question": "在不同存期中，哪一種外幣的定存利率變化最小?", "answer": "日圓 (JPY) 的定存利率變化最小"}
 {"category": "Open", "question_type": "Rate of Change", "question": "從1個月到12個月，美金 (USD) 的定存利率變化了多少?", "answer": "0.75%"}
-{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖示，哪一種外幣在不同存期中顯示出的定存利率變化最小？", "answer": "C", "choice": ["澳幣 (AUD) 的定存利率變化接近中等", "美元 (USD) 的定存利率變化較大", "日圓 (JPY) 的定存利率變化最小", "英鎊 (GBP) 的定存利率變化明顯高於日圓 (JPY)"]}
-{"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖片中1個月至12個月的美金 (USD) 定存利率變化，以下哪個選項最接近變化的利率？", "answer": "C", "choice": ["2.00%", "0.90%", "0.75%", "0.60%"]}
-{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表5的資料，2024年7月澳幣的12個月收益率與2024年8月相比，變化率為何？以下哪一項是正確的？", "answer": "C", "choice": ["0.05%", "0.18%", "0.10%", "0.12%"]}
+{"category": "MCQ", "question_type": "Temporal Trend", "question": "根據圖示，哪一種外幣在不同存期中顯示出的定存利率變化最小？", "answer": "A", "choice": ["日圓 (JPY) 的定存利率變化最小", "英鎊 (GBP) 的定存利率變化明顯高於日圓 (JPY)", "澳幣 (AUD) 的定存利率變化接近中等", "美元 (USD) 的定存利率變化較大"]}
+{"category": "MCQ", "question_type": "Rate of Change", "question": "根據圖片中1個月至12個月的美金 (USD) 定存利率變化，以下哪個選項最接近變化的利率？", "answer": "B", "choice": ["2.00%", "0.75%", "0.90%", "0.60%"]}
+{"category": "MCQ", "question_type": "Temporal Reasoning", "question": "根據表5的資料，2024年7月澳幣的12個月收益率與2024年8月相比，變化率為何？以下哪一項是正確的？", "answer": "B", "choice": ["0.05%", "0.10%", "0.18%", "0.12%"]}
 {"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖2，澳幣的定存利率在2023-12-10到2024-06-10期間從2.8%上升到3.1%。", "answer": "是", "question_group": 941}
 
 {"category": "YesNo", "question_type": "Temporal Trend", "question": "根據圖2，澳幣的定存利率在2023-12-10到2024-06-10期間從2.8%下降到2.5%。", "answer": "否", "question_group": 941}

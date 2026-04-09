@@ -1,16 +1,16 @@
 {"category": "Open", "question_type": "Comparison", "question": "2024 年和 2025 年中，哪一年良好以上的比例更高，差距是多少百分點？", "answer": "2025 年良好以上的比例更高，差距是 15 個百分點。"}
 {"category": "Open", "question_type": "Comparison", "question": "2023年的資訊透明度權重比2019年高出了多少百分點？", "answer": "6個百分點"}
 {"category": "Open", "question_type": "Comparison", "question": "2028年與2029年相比，引入數字化工具比例增加了多少百分比？", "answer": "引入數字化工具比例增加了10%。"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的數據，2024 年和 2025 年中，哪一年良好以上的比例較高？", "answer": "C", "choice": ["2024 年的良好以上比例高於 2025 年，差距是 10 個百分點。", "2024 年良好以上的比例較高，差距是 3 個百分點。", "2025 年良好以上的比例較高，差距是 15 個百分點。", "2025 年的良好以上比例高於 2024 年，差距是 5 個百分點。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "在下列情境中，哪一項更符合資訊透明度與社會責任投入的比例比較？", "answer": "C", "choice": ["資訊透明度的比例與社會責任投入的比例相等。", "社會責任投入的比例高於資訊透明度的比例。", "資訊透明度的比例高於社會責任投入的比例。", "資訊透明度的比例低於社會責任投入的比例。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年和2019年的數據，資訊透明度的權重變化是多少？", "answer": "C", "choice": ["5個百分點", "15個百分點", "6個百分點", "7個百分點"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2028年與2029年的數據，引入數字化工具的比例變化是多少？", "answer": "C", "choice": ["引入數字化工具比例增加了20%", "引入數字化工具比例不變", "引入數字化工具比例增加了10%", "引入數字化工具比例減少了5%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據提供的數據，2024 年和 2025 年中，哪一年良好以上的比例較高？", "answer": "C", "choice": ["2024 年的良好以上比例高於 2025 年，差距是 10 個百分點。", "2025 年的良好以上比例高於 2024 年，差距是 5 個百分點。", "2025 年良好以上的比例較高，差距是 15 個百分點。", "2024 年良好以上的比例較高，差距是 3 個百分點。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在下列情境中，哪一項更符合資訊透明度與社會責任投入的比例比較？", "answer": "B", "choice": ["資訊透明度的比例低於社會責任投入的比例。", "資訊透明度的比例高於社會責任投入的比例。", "資訊透明度的比例與社會責任投入的比例相等。", "社會責任投入的比例高於資訊透明度的比例。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2023年和2019年的數據，資訊透明度的權重變化是多少？", "answer": "C", "choice": ["15個百分點", "5個百分點", "6個百分點", "7個百分點"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2028年與2029年的數據，引入數字化工具的比例變化是多少？", "answer": "B", "choice": ["引入數字化工具比例減少了5%", "引入數字化工具比例增加了10%", "引入數字化工具比例增加了20%", "引入數字化工具比例不變"]}
 {"category": "Open", "question_type": "Comparison", "question": "2025年股東權益保護評鑑中，'良好或以上'與'一般'項目的數值差距是多少？", "answer": "65"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "在X公司與行業平均的公司治理評鑑得分中，哪一項的X公司得分低於行業平均最多？", "answer": "由於具體數值未提供，無法確定哪一項的X公司得分低於行業平均最多"}
-{"category": "MCQ", "question_type": "Comparison", "question": "在2025年股東權益保護評鑑中，'良好或以上'與'一般'項目的數值差距為何？請參考下列選項：", "answer": "C", "choice": ["60", "68", "65", "72"]}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "在比較X公司與行業平均的公司治理評鑑得分時，以下哪一項可能是X公司得分低於行業平均最多的方面？", "answer": "C", "choice": ["合規性", "董事會結構", "透明度", "股東權益"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在2025年股東權益保護評鑑中，'良好或以上'與'一般'項目的數值差距為何？請參考下列選項：", "answer": "A", "choice": ["65", "72", "68", "60"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "在比較X公司與行業平均的公司治理評鑑得分時，以下哪一項可能是X公司得分低於行業平均最多的方面？", "answer": "A", "choice": ["透明度", "董事會結構", "股東權益", "合規性"]}
 {"category": "Open", "question_type": "Ranking", "question": "在2025年股東權益保護評鑑中，哪一項目的數值最低？", "answer": "需改善"}
-{"category": "MCQ", "question_type": "Ranking", "question": "在2025年股東權益保護評鑑中，根據下列項目，哪一項的數值最低？（請根據提供的評鑑圖片進行判斷）", "answer": "C", "choice": ["達標，但不足以表現良好", "滿意度較低", "需改善", "背離預期標準"]}
+{"category": "MCQ", "question_type": "Ranking", "question": "在2025年股東權益保護評鑑中，根據下列項目，哪一項的數值最低？（請根據提供的評鑑圖片進行判斷）", "answer": "A", "choice": ["需改善", "滿意度較低", "達標，但不足以表現良好", "背離預期標準"]}
 {"category": "Open", "question_type": "Comparison", "question": "根據圖4，2029年哪一個指標的數值最低？", "answer": "壓力測試頻率"}
 {"category": "YesNo", "question_type": "Comparison", "question": "根據表3，2023年的資訊透明度權重比2019年高出了6個百分點。", "answer": "是", "question_group": 703}
 

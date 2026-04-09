@@ -1,18 +1,18 @@
 {"category": "Open", "question_type": "Comparison", "question": "2022年環保技術研發的投資金額相比可再生能源少多少億新台幣？", "answer": "5億新台幣"}
 {"category": "Open", "question_type": "Comparison", "question": "2024年和2026年清潔技術與可再生能源的增長率之和分別是多少，哪一年更高？", "answer": "2024年清潔技術與可再生能源的增長率之和是10%，2026年是12%，2026年更高。"}
 {"category": "Open", "question_type": "Comparison", "question": "2024年相比於2023年，綠色金融資產占總資產比重的增長幅度是多少？", "answer": "5%"}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2022年環保技術研發的投資金額，與可再生能源相比，差額是多少億新台幣？", "answer": "C", "choice": ["6億新台幣", "3億新台幣", "5億新台幣", "8億新台幣"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據2024年和2026年的數據，哪一年清潔技術與可再生能源的增長率之和較高？", "answer": "C", "choice": ["2024年增長率之和是15%", "2026年增長率之和是10%", "2026年增長率之和是12%", "2026年清潔技術的增長率是5%，可再生能源的增長率是7%"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片所示，2024年綠色金融資產占總資產比重的增長幅度相比於2023年為多少？", "answer": "C", "choice": ["2%", "8%", "5%", "12%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2022年環保技術研發的投資金額，與可再生能源相比，差額是多少億新台幣？", "answer": "A", "choice": ["5億新台幣", "3億新台幣", "6億新台幣", "8億新台幣"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據2024年和2026年的數據，哪一年清潔技術與可再生能源的增長率之和較高？", "answer": "D", "choice": ["2024年增長率之和是15%", "2026年清潔技術的增長率是5%，可再生能源的增長率是7%", "2026年增長率之和是10%", "2026年增長率之和是12%"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據圖片所示，2024年綠色金融資產占總資產比重的增長幅度相比於2023年為多少？", "answer": "B", "choice": ["12%", "5%", "8%", "2%"]}
 {"category": "Open", "question_type": "Comparison", "question": "三個教育活動中，參與人數最低的是哪一個？", "answer": "參與人數最低的教育活動是150的那一個。"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "所有教育活動的參與人數中，最高與最低的差距是多少？", "answer": "50"}
-{"category": "MCQ", "question_type": "Comparison", "question": "在以下三個教育活動中，哪一個的參與人數最低？請參考提供的參與人數資訊。A: 200人 B: 180人 C: 150人", "answer": "C", "choice": ["C: 140人", "B: 180人", "C: 150人", "所有活動參與人數不一致"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "在以下三個教育活動中，哪一個的參與人數最低？請參考提供的參與人數資訊。A: 200人 B: 180人 C: 150人", "answer": "B", "choice": ["B: 180人", "C: 150人", "所有活動參與人數不一致", "C: 140人"]}
 {"category": "Open", "question_type": "Comparison", "question": "在圖5中，哪個指標的數量最少？", "answer": "指標: 20"}
 {"category": "Open", "question_type": "Comparison", "question": "根據表5的資料，2024年和2025年的綠色金融產品年增長率相比2023年有什麼不同？", "answer": "2024年和2025年的綠色金融產品年增長率與2023年相同，均為20%。"}
 {"category": "Open", "question_type": "Difference Calculation", "question": "根據圖3的資料，綠色私募股權的投資額與風險投資基金的投資額相差多少億？", "answer": "由於沒有具體的數據提供，無法計算兩者的差額。"}
 {"category": "Open", "question_type": "Ranking", "question": "在圖3中，哪一個策略類型的投資額最高？", "answer": "綠色私募股權"}
-{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖3的資料，綠色私募股權的投資額與風險投資基金的投資額相差幾億？以下哪個選項是正確的？", "answer": "C", "choice": ["風險投資基金的投資額與綠色私募股權相等。", "綠色私募股權的投資額比風險投資基金的少2億。", "由於缺乏具體數據，無法確定兩者的差額。", "綠色私募股權的投資額多於風險投資基金的投資額大約三億。"]}
-{"category": "MCQ", "question_type": "Comparison", "question": "根據表5的資料，2024年和2025年的綠色金融產品年增長率相比2023年有何關係？", "answer": "D", "choice": ["2024年的年增長率為25%，2025年為20%。", "2024年和2025年的年增長率均降低至15%和10%。", "2024年年增長率為20%，而2025年增長率小幅上升至22%。", "2024年和2025年的年增長率與2023年相同，均為20%。"]}
+{"category": "MCQ", "question_type": "Difference Calculation", "question": "根據圖3的資料，綠色私募股權的投資額與風險投資基金的投資額相差幾億？以下哪個選項是正確的？", "answer": "D", "choice": ["風險投資基金的投資額與綠色私募股權相等。", "綠色私募股權的投資額比風險投資基金的少2億。", "綠色私募股權的投資額多於風險投資基金的投資額大約三億。", "由於缺乏具體數據，無法確定兩者的差額。"]}
+{"category": "MCQ", "question_type": "Comparison", "question": "根據表5的資料，2024年和2025年的綠色金融產品年增長率相比2023年有何關係？", "answer": "B", "choice": ["2024年的年增長率為25%，2025年為20%。", "2024年和2025年的年增長率與2023年相同，均為20%。", "2024年年增長率為20%，而2025年增長率小幅上升至22%。", "2024年和2025年的年增長率均降低至15%和10%。"]}
 {"category": "YesNo", "question_type": "Comparison", "question": "根據圖4，數值最低的項目是300000。", "answer": "是", "question_group": 725}
 
 {"category": "YesNo", "question_type": "Comparison", "question": "根據圖4，數值最低的項目是1500000。", "answer": "否", "question_group": 725}

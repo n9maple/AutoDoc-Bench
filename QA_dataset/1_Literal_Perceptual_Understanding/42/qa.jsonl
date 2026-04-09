@@ -4,10 +4,10 @@
 {"category": "Open", "question_type": "Proportion", "question": "30-39歲的申訴人占總人數的百分比是多少？", "answer": "30-39歲的申訴人占總人數的百分比是20.0%"}
 {"category": "Open", "question_type": "Proportion", "question": "在2023年消費者爭議案件類型分布中，理賠爭議占了總案件的百分之多少？", "answer": "48.0%"}
 {"category": "Open", "question_type": "Fact Lookup", "question": "在2023年消費者教育推動成果中，場次最低的是哪一類活動？", "answer": "場次最低的活動類型是場次為40的活動。"}
-{"category": "MCQ", "question_type": "Proportion", "question": "根據2023年保險業消費者申訴案件的主要類型，契約解釋的比例為何？以下哪一個選項是正確的？", "answer": "C", "choice": ["28.5%", "31.0%", "30.0%", "34.5%"]}
-{"category": "MCQ", "question_type": "Proportion", "question": "根據圖表，30-39歲的申訴人占總人數的百分比是多少？", "answer": "C", "choice": ["15.0%", "18.5%", "20.0%", "35.0%"]}
-{"category": "MCQ", "question_type": "Proportion", "question": "根據2023年消費者爭議案件類型分布，理賠爭議所占的比例是多少？", "answer": "C", "choice": ["45.0%", "50.5%", "48.0%", "47.0%"]}
-{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2023年消費者教育推動成果的資料，以下哪一類活動場次為40，是場次最低的活動類型？", "answer": "C", "choice": ["場次最低的活動類型是社區講座", "場次最低的活動類型為50，雖然不是最低但仍然低", "場次最低的活動類型是某類型活動", "場次最低的活動類型是堂內學習，場次為40"]}
+{"category": "MCQ", "question_type": "Proportion", "question": "根據2023年保險業消費者申訴案件的主要類型，契約解釋的比例為何？以下哪一個選項是正確的？", "answer": "B", "choice": ["34.5%", "30.0%", "28.5%", "31.0%"]}
+{"category": "MCQ", "question_type": "Proportion", "question": "根據圖表，30-39歲的申訴人占總人數的百分比是多少？", "answer": "B", "choice": ["35.0%", "20.0%", "18.5%", "15.0%"]}
+{"category": "MCQ", "question_type": "Proportion", "question": "根據2023年消費者爭議案件類型分布，理賠爭議所占的比例是多少？", "answer": "B", "choice": ["45.0%", "48.0%", "50.5%", "47.0%"]}
+{"category": "MCQ", "question_type": "Fact Lookup", "question": "根據2023年消費者教育推動成果的資料，以下哪一類活動場次為40，是場次最低的活動類型？", "answer": "D", "choice": ["場次最低的活動類型是堂內學習，場次為40", "場次最低的活動類型為50，雖然不是最低但仍然低", "場次最低的活動類型是社區講座", "場次最低的活動類型是某類型活動"]}
 {"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表2，進修完成率是97.2%，平均每人進修的時數是12.6小時。", "answer": "是", "question_group": 108}
 
 {"category": "YesNo", "question_type": "Fact Lookup", "question": "根據表2，進修完成率是97.2%，平均每人進修的時數是15小時。", "answer": "否", "question_group": 108}

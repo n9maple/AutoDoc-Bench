@@ -1,9 +1,9 @@
 {"category": "Open", "question_type": "Aggregation", "question": "在2023年，電子轉帳和支票付款方式的總和是什麼百分比？", "answer": "97%"}
 {"category": "Open", "question_type": "Aggregation", "question": "總案件數中，事故責任歸屬和保單免責條款適用這兩類案件的總數占比多少？", "answer": "39.97%"}
 {"category": "Open", "question_type": "Aggregation", "question": "所有服務項目的正面評價比例的平均值是多少？", "answer": "89.4"}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年的數據，電子轉帳與支票付款方式的總和占所有付款方式的百分比是多少？", "answer": "C", "choice": ["94%", "89%", "97%", "95%"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "在總案件數中，事故責任歸屬和保單免責條款適用的案件占比以下哪一個選項最接近？", "answer": "C", "choice": ["34.85%", "37.25%", "39.97%", "42.50%"]}
-{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖片中顯示的所有服務項目的正面評價比例，平均值約為？", "answer": "C", "choice": ["88.6", "89.1", "89.4", "90.2"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據2023年的數據，電子轉帳與支票付款方式的總和占所有付款方式的百分比是多少？", "answer": "D", "choice": ["94%", "95%", "89%", "97%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "在總案件數中，事故責任歸屬和保單免責條款適用的案件占比以下哪一個選項最接近？", "answer": "A", "choice": ["39.97%", "42.50%", "34.85%", "37.25%"]}
+{"category": "MCQ", "question_type": "Aggregation", "question": "根據圖片中顯示的所有服務項目的正面評價比例，平均值約為？", "answer": "D", "choice": ["90.2", "89.1", "88.6", "89.4"]}
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據表7，事故責任歸屬和保單免責條款適用的案件占總案件數的39.97%。", "answer": "是", "question_group": 1063}
 
 {"category": "YesNo", "question_type": "Aggregation", "question": "根據表7，事故責任歸屬和保單免責條款適用的案件占總案件數的50%。", "answer": "否", "question_group": 1063}
